@@ -1,0 +1,56 @@
+Este módulo possui dois elementos principais: 
+- vetorizador-chromaDB.json
+- Executa_vetorizador.ipynb
+
+
+Para executá-lo, inicialmente deve-se instalar os seguintes ambientes de serviço:
+ - Ollama: https://ollama.com/download
+ - langflow: https://github.com/langflow-ai/langflow
+ - Jupyter Notebook: https://jupyter.org/install
+
+Inicialize o serviço ollama, e carregue os modelos que serão utilizados.
+Para este projeto, foram carregados os modelos de embedding bge-m3 e avr/sfr-embedding-mistral (https://ollama.com/search?q=embedding)
+Ao iniciar o serviço ollama, para carregar o modelo, execute o comando "ollama pull nome_modelo"
+Carregar também os modelos LLMs no mesmo formato de instrução. Neste projeto foi utilizado Llama3.1-8B, Mistral-7B, phi-3.5-3.8B, qwen-2.5-7B e deepseek-r1-8B
+
+Inicialize o serviço langflow, e carregue o arquivo vetorizador-chromaDB.json
+
+Este fluxo recebe como entrada da API uma string que contém o caminho da pasta de arquivos em txt; o nome do arquivo a vetorizar; o tamanho do chunk_size e do chunk_overlap; o caminho para gravar os dados do BD vetorizado e o nome do modelo de embedding que será utilizado.
+
+Chamada da API:
+
+curl -X POST \
+                "http://localhost:7860/api/v1/run/0c985a70-6cd0-4315-aa3a-0ae335b48c2e?stream=false" \
+                -H 'Content-Type: application/json'\
+                -d '{"input_value": '/home/jrbeluzo/ollama/stage_pdf/arquivos;;;02.txt;;;2000;;;500;;;/home/jrbeluzo/ollama/stage_pdf/vectorDB/ChromaDB/bge-m3/02;;;bge-m3',
+                "output_type": "text",
+                "input_type": "text",
+                "tweaks": {
+              "File-SR9yn": {},
+              "OllamaEmbeddings-sxVEK": {},
+              "SplitText-r1R9B": {},
+              "Chroma-SMw1R": {},
+              "TextInput-XfVxn": {},
+              "TextInput-SsRZg": {},
+              "TextInput-1rxO4": {},
+              "TextInput-hluK0": {},
+              "TextInput-sk5Fw": {},
+              "TextInput-dcBBZ": {},
+              "TextInput-YRunr": {}
+            }}'
+
+
+Perceba que o parametro input_value recebe /home/jrbeluzo/ollama/stage_pdf/arquivos;;;02.txt;;;2000;;;500;;;/home/jrbeluzo/ollama/stage_pdf/vectorDB/ChromaDB/bge-m3/02;;;bge-m3
+caminho do arquivo => /home/jrbeluzo/ollama/stage_pdf/arquivos
+nome do arquivo => 02.txt
+chunk size => 2000
+chunk overlap => 500
+caminho de gravação => /home/jrbeluzo/ollama/stage_pdf/vectorDB/ChromaDB/bge-m3/02
+nome do modelo embedding => bge-m3
+
+Lembrando que o langflow e o ollama devem estar na mesma máquina. Caso contrário precisa mudar o apontamento do local do servidor do modelo de embedding no componente "ollama embedding".
+
+Inicialize o serviço Jupyter Notebook e carregue o arquivo Executa_vetorizador.ipynb
+
+A partir desta etapa, o banco de dados é construído.
+

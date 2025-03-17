@@ -1,0 +1,39 @@
+Os resultados do projeto estão na pasta resultados_matriz_confusao
+
+Para executar este projeto desde o início será necessário a instalação de três sistemas:
+- Ollama na versão 0.3.10
+- Langflow na versão 1.1.3
+- Jupyter Notebook com Python na versão Python 3.10.12
+
+1) Baixar modelos LLM que serão utilizados no Ollama (ver na plataforma modelos disponíveis: https://ollama.ai/)
+
+2) Carregar os scripts coleta_de_dados/coletor_rag.json e vetorizador/executa_vetorizador.json no langflow.
+
+3) gerar o código de execução da API e trocar o link. Exemplo:
+No script vetorizador.json, existe este bloco:
+
+requisicao = """curl -X POST \
+                "http://localhost:7860/api/v1/run/0c985a70-6cd0-4315-aa3a-0ae335b48c2e?stream=false" \
+                -H 'Content-Type: application/json'\
+                -d '{"input_value": """ + input_values + """,
+                "output_type": "text",
+                "input_type": "text",
+                "tweaks": {
+              "File-SR9yn": {},
+              "OllamaEmbeddings-sxVEK": {},
+              "SplitText-r1R9B": {},
+              "Chroma-SMw1R": {},
+              "TextInput-XfVxn": {},
+              "TextInput-SsRZg": {},
+              "TextInput-1rxO4": {},
+              "TextInput-hluK0": {},
+              "TextInput-sk5Fw": {},
+              "TextInput-dcBBZ": {},
+              "TextInput-YRunr": {}
+            }}'"""
+
+Trocar este link "http://localhost:7860/api/v1/run/0c985a70-6cd0-4315-aa3a-0ae335b48c2e?stream=false" pelo link gerado em seu servidor. Fazer o mesmo para o script de coleta.
+
+Definir nos scripts os locais de armazenamento dos vetores, prompts e de coleta dos dados.
+
+
