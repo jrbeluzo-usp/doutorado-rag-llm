@@ -1,0 +1,1662 @@
+Nota
+Técnica
+
+  
+  
+  
+ 
+  
+
+Gasto com atenção básica das três esferas
+de governo: possibilidades e limitações das
+análises a partir de bases de dados
+orçamentário-financeiras
+
+Luciana Mendes Santos Servo
+Andrea Barreto de Paiva
+
+N o 1 5 Brasília, março de 2013
+
+um
+Ea | ea Instituto de Pesquisa
+Econômica Aplicada
+
+Por um Brasil
+Gasto com atenção básica das três esferas de governo: possibilidades e limitações
+
+ 
+
+das análises a partir de bases de dados orçamentário-financeiras
+
+ 
+
+Luciana Mendes Santos Servo*
+Andrea Barreto de Paiva**
+
+1. Apresentação
+
+Este trabalho teve início a partir de uma proposta do Departamento de Economia da
+Saúde e Desenvolvimento (DESID) da Secretaria Executiva do Ministério da Saúde, cujo
+objetivo era avaliar os vazios assistenciais! em relação aos parâmetros preconizados
+pelas políticas do Ministério da Saúde. Nesse momento, havia, também, um interesse
+da equipe técnica do Ipea em avaliar os custos de se implantar um sistema público de
+saúde conforme preconizado pela Constituição Federal de 1988.
+
+Após algumas reuniões entre as duas equipes, delineou-se uma linha de
+pesquisa denominada “Necessidade de financiamento do Sistema Único de Saúde —
+SUS”, que tem por objetivo de longo prazo analisar os recursos necessários para
+implantar um sistema que atenda as diretrizes constitucionais e os normativos
+posteriores relacionados ao SUS. Essa linha tem por objetivos secundários analisar seus
+custos, recursos existentes (físicos e financeiros), lacunas entre os recursos existentes
+e aqueles necessários conforme as diretrizes constitucionais e das políticas públicas
+pactuadas pelos três entes federados.
+
+A atuação do Estado se materializa por meio de planos, políticas, programas e
+ações de governo, sendo indispensável conhecê-los quando se quer estimar
+necessidade de financiamento. Na área de saúde são muitas as ações do Estado,
+gerando a exigência de um ponto de partida. Optou-se por iniciar a discussão a partir
+da atenção básica/primária em saúde, considerada a porta de entrada preferencial
+para o sistema público de saúde e potencial ordenadora dos cuidados em saúde. Essa
+proposta foi apresentada ao Departamento de Atenção Básica em Saúde (DAB) que
+concordou com seu delineamento e passou a colaborar na execução do projeto.
+
+Dessa forma, o primeiro projeto foi denominado “Necessidade de
+financiamento do SUS: começando pela atenção básica”. Ele foi estruturado em três
+subprojetos, a saber: 1º) custos das ações e serviços de atenção básica; 2º) gastos das
+três esferas de governo em atenção básica; 32) necessidade (adicional) de
+financiamento da atenção básica, definida pela diferença entre gastos e custos.
+
+*Técnica de Planejamento e Pesquisa da Diretoria de Estudos e Políticas Sociais (Disoc).
+
+“Especialista em Políticas Públicas e Gestão Governamental em exercício na Diretoria de Estudos e
+Políticas Sociais (Disoc).
+
+Agradecemos o apoio das equipes do Desid e Dasis e os comentários de Edvaldo Batista de Sá, Matheus
+Stivali e Roberta da Silva Vieira. Os erros e omissões são de inteira responsabilidade das autoras.
+
+! Vazios assistenciais seriam locais sem oferta de infraestrutura ou recursos humanos conforme padrões
+preconizados pelas políticas públicas.
+Esta nota está diretamente relacionada ao subprojeto de gastos em atenção
+básica. Seu objetivo é analisar as informações disponíveis nos sistemas orçamentário-
+financeiros gerenciados pelo governo federal e a possibilidade de utilizá-los para
+estimar o gasto público com atenção básica das três esferas de governo. Para os gastos
+do governo federal, os dados estão disponíveis no Sistema Integrado da Administração
+Financeira (Siafi) e no Sistema Integrado de Dados Orçamentários (Sidor). O Senado
+Federal elaborou uma plataforma que consolida informações desses sistemas,
+denominada Siga Brasil. O Fundo Nacional de Saúde (FNS) apresenta informações com
+outras desagregações além das disponibilizadas por esses mecanismos. No caso dos
+estados e municípios, existe o Sistema de Informações sobre Orçamentos Públicos em
+Saúde (Siops), gerenciado pelo Ministério da Saúde. Há também dados orçamentário-
+financeiros que são consolidados pela Secretaria do Tesouro Nacional (STN) do
+Ministério da Fazenda, a saber, os dados da Execução Orçamentária dos Estados e
+Finanças Públicas do Brasil - Dados Contábeis dos Municípios (Finbra).
+
+Esta nota concentra-se na discussão metodológica sobre as possibilidades e
+limitações dessas fontes de dados para estimar o gasto público total com atenção
+básica em saúde. Apresenta os diversos conceitos de atenção básica que podem ser
+delineados a partir dessas informações orçamentário-financeiras, utilizando para isso
+as informações do governo federal que são disponibilizadas com maior detalhamento.
+A análise das informações federais é utilizada para discutir as limitações dos dados
+consolidados para estados e municípios. Essas análises foram feitas para o ano de
+2010”.
+
+Na próxima seção será feita uma análise do gasto com atenção básica realizado
+pelo governo federal, utilizando os dados do Siga Brasil e do FNS. A partir desse
+referencial, apresentam-se os dados para estados e municípios disponíveis no Finbra,
+comparando-os com as análises feitas por Ritzel e Prado (2012), que utilizaram os
+dados do Siops. Por fim, são consolidadas as principais limitações e discutidas algumas
+possibilidades futuras.
+
+2. Estimativas dos gastos do Ministério da Saúde com Atenção Básica
+
+A programação orçamentário-financeira do Ministério da Saúde segue as diretrizes do
+planejamento federal e da contabilidade pública. No processo de planejamento desse
+nível de governo, elabora-se o Plano Plurianual (PPA), por meio do qual deveriam ser
+determinadas as prioridades de governo para um período de quatro anos, definindo
+programa e ações; e a Lei de Diretrizes Orçamentárias (LDO), que define metas e
+prioridades para o exercício financeiro subsequente ao de sua elaboração e, entre
+outros, define o limite de recursos a serem aplicados no período de 12 meses (01 de
+janeiro a 31 de dezembro). A partir da LDO é elaborada a Lei Orçamentária Anual
+(LOA), por meio da qual são estimadas as receitas e definidos os limites de despesas,
+relacionando-as a cada ação de governo.
+
+2 O ano de 2010 foi escolhido porque, no momento de elaboração desta nota, era aquele para o qual as
+informações estavam disponíveis. Além disso, dentro do projeto de Necessidade de Financiamento da
+Atenção Básica, encontra-se em fase de conclusão um estudo sobre os custos dos recursos humanos,
+que cujas análises foram feita a partir da Relação Anual de Informações Sociais (RAIS) para 2010, último
+ano para o qual os microdados foram disponibilizados para o Ipea.
+No PPA 2008-2011, havia 13 programas (12 finalísticos e um de gestão) sob a
+responsabilidade do Ministério da Saúde, entre eles o programa 1214 - Atenção básica
+em Saúde (ver Quadro 1). Em geral, parte-se dessa estrutura para analisar a execução
+orçamentário-financeira do governo federal por programas e ações, realizando uma
+primeira definição programática daquilo que se entende por atenção básica.
+
+Quadro 1 — Programas do Ministério da Saúde - PPA 2008-2011
+
+ 
+
+Programa
+
+ 
+
+1436 Aperfeiçoamento do Trabalho e da Educação na Saúde
+
+ 
+
+1220 Assistência Ambulatorial e Hospitalar Especializada
+
+ 
+
+1293 Assistência Farmacêutica e Insumos Estratégicos
+
+ 
+
+1214 Atenção Básica em Saúde
+
+ 
+
+1201 Ciência, Tecnologia e Inovação no Complexo da Saúde
+
+ 
+
+1446 Implementação da Política de Promoção da Saúde
+
+ 
+
+1312 Promoção da Capacidade Resolutiva e da Humanização na Atenção à Saúde
+
+ 
+
+1185 Regulação e Fiscalização da Saúde Suplementar
+
+ 
+
+1287 Saneamento Rural
+
+ 
+
+1291 Segurança Transfusional e Qualidade do Sangue e Hemoderivados
+
+ 
+
+1289 Vigilância e Prevenção de Riscos Decorrentes da Produção e do Consumo de Bens
+e Serviços
+
+ 
+
+1444 Vigilância, Prevenção e Controle de Doenças e Agravos
+
+ 
+
+ 
+
+ 
+
+0016 Gestão da Política de Saúde
+
+ 
+
+Dentro do arcabouço da Contabilidade Pública brasileira, além da classificação
+programática (por programa e ação), existe também, o recorte por função (entre elas,
+a Saúde) e de suas subfunções (que inclui a subfunção Atenção Básica)”. Na análise
+das informações orçamentário-financeiras é possível considerar apenas o gasto na
+subfunção atenção básica realizado pelo Ministério da Saúde ou para todos os órgãos
+do governo federal. Isso se deve ao fato de que nos sistemas que trazem informações
+sobre a execução orçamentário-financeira federal (Siafi, Sidor e Siga Brasil), as mesmas
+são apresentadas de acordo com a estrutura funcional-programática (ver Anexo A).
+Assim, é possível obter a informação para cada esfera orçamentária, órgão de governo,
+unidade orçamentária, função, subfunção, programa, ação, localização do gasto, fonte
+e natureza da despesa, que inclui: categoria econômica, grupo de despesa, modalidade
+de aplicação. As informações podem ser obtidas para vários recortes, como, por
+exemplo, subfunção por programa e órgão; subfunção por ação e natureza de despesa;
+programa por natureza de despesa e órgão, e assim por diante.
+
+A depender do recorte analítico pode haver diferenças no valor apurado do
+gasto com atenção básica (Tabela 1). Em 2010, na análise da execução orçamentária
+do Ministério da Saúde, o Programa 1214 “Atenção Básica em Saúde” teve recursos
+alocados nas subfunções 301 — Atenção Básica; 306 — Alimentação e Nutrição; 303 —
+
+? Ainda que o ponto de partida seja o PPA, as denominações podem se tornar confusas à medida que
+ações desse Plano são denominadas pelo Ministério da Saúde de programa, tais como: Programa Saúde
+da Família, Programa de Volta para Casa, Programa Nacional de Controle do Câncer de Mama e do Colo
+de Útero, Programa Saúde. Essa nota não se propõe a fazer uma discussão dos motivos para isso ou uma
+análise mais ampla do processo de planejamento federal (ver Cardoso Jr, 2011; Giacomoni; Pagnussat,
+2006; Garcia, 2012; Garcia, 2000).
+
+* Especificamente pela Portaria Nº 42 de 14 de abril de 1999.
+Suporte Profilático e Terapêutico; 131 — Comunicação Social; e 122- Administração
+Geral. Contudo, 99,4% dos recursos desse programa foram relacionados à subfunção
+301 — Atenção Básica.
+
+Quando se analisa os recursos aplicados na subfunção 301, observa-se que, no
+Ministério da Saúde, ela se refere a outros programas, além do programa 1214, entre
+eles, ao programa 1312 — Promoção da Capacidade Resolutiva e da Humanização na
+Atenção à Saúde e 0750 — Apoio Administrativo. Inclui também programas que têm
+recursos do Ministério da Saúde mas que são de responsabilidade de outros órgãos,
+como o programa Brasil Quilombola (Anexo B). Ainda assim, 96,8% dos recursos dessa
+subfunção estão relacionados ao programa 1214 — Atenção Básica em Saúde.
+
+Tabela 1 — Gastos em atenção básica do governo federal — Valor empenhado em
+2010
+
+ 
+
+ 
+
+ 
+
+Ministério da Saúde* Empenhado 2010
+
+(i) Programa 1214 - Atenção Básica em Saúde 10.085.079.446,19
+(ia) Subfunção 301 - Atenção Básica 10.021.897.473,61
+(i.b) Subfunção 306 - Alimentação e Nutrição 35.480.931,08
+(ic) Subfunção 303 - Suporte Profilático e Terapêutico 14.031.098,18
+(id) Subfunção 131 - Comunicação Social 7.796.745,00
+(i.e) Subfunção 122 - Administração Geral 5.873.198,32
+
+(iii) Subfunção 301 - Atenção Básica 10.349.114.893,23
+(iii.a) Programa 1214 - Atenção Básica 10.021.897.473,61
+(iii.b) Programa 0750 - Apoio Administrativo 314.575.444,74
+(iii.c) Programa 1312 - Prom. Capacidade Resolutiva e Humanização 10.532.113,40
+(iii.d) Programa 1336 - Brasil Quilombola 1.499.371,00
+(iii.e) Programa 1185 - Regulação e Fiscaliz. da Saúde Suplementar 610.490,48
+
+Governo Federal*
+
+(i) Subfunção 301 - Atenção Básica 12.008.571.111,80
+
+Fonte: Senado Federal. Siga Brasil.
+
+ 
+
+* A análise da execução orçamentária do MS considera o que foi executado também na Unidade
+Orçamentária 74202 - Recursos sob supervisão da ANS, que faz parte do Órgão 74000 - Operações
+Oficiais de Crédito. Esta é a metodologia adotada pela Secretaria de Planejamento e Orçamento do
+Ministério da Saúde (SPO/MS) para totalizar os recursos do Ministério da Saúde.
+
+**Inclui todos os órgãos do Executivo, Legislativo e Judiciário, em várias funções e não somente a
+função Saúde (código 10).
+
+Quando a análise considera os recursos aplicados na subfunção atenção básica
+de todos os órgãos e não somente do Ministério da Saúde, a diferença em relação ao
+Programa 1214 (conceito programático na subfunção 301, ou seja, R$ 10,02 bilhões)
+seria de aproximadamente R$ 2 bilhões. Desse total mais de 95% (ou R$ 1,9 bi) seria
+
+é Este programa está sob a responsabilidade da Secretaria de Políticas de Promoção da Igualdade Racial
+— SEPPIR.
+para atenção à saúde de caráter não universal, visto que seria destinado para auxílio-
+saúde a servidores públicos. Deve-se destacar que parte dos recursos é financiado com
+a contribuição dos militares por meio de seus regimes próprios de saúde. Em 2010,
+havia, também, dentro da subfunção atenção básica, valores empenhados em
+programas de capacitação e atenção à saúde de acesso universal, incluindo o
+programa Promoção da Capacidade Resolutiva e Humanização do SUS (R$ 10,1
+milhões), Brasil Quilombola (R$ 1,5 milhão) sob gestão do Ministério da Saúde, bem
+como no Programa Brasil Escolarizado, sob gestão do Ministério da Educação, onde
+foram empenhados R$ 2,4 milhões para ações de saúde na escola (Anexo B).
+
+Para a realização do projeto “Necessidade de Financiamento do SUS”,
+delimitou-se a atenção básica como aquela definida na Política Nacional de Atenção
+Básica - PNABÍ, instituída pela Portaria nº 2488 de 21 de outubro de 2011, e na Relação
+Nacional de Ações e Serviços de Saúde - Renases”, publicada pela Portaria nº 841, de 02
+de maio de 2012.
+
+Na PNAB, em termos orçamentários, essa definição estaria, em geral,
+circunscrita a algumas ações previstas no Programa 1214 — Atenção Básica em Saúde,
+uma vez que a Portaria nº 2488 definiu que:
+
+(...) os recursos orçamentários de que trata a presente portaria corram por conta do orçamento
+
+do Ministério da Saúde, devendo onerar os seguintes programas de trabalho:
+
+|- 10.301.1214.20AD - Piso de Atenção Básica Variável — Saúde da
+
+Família;
+
+Il - 10.301.1214.8577 — Piso de Atenção Básica Fixo;
+
+ll - 10.301.1214.8581 — Estruturação da Rede de Serviços de Atenção
+
+Básica de Saúde;
+
+IV - 10.301.1214.8730.0001 — Atenção à Saúde Bucal; e
+
+V-10.301.1214.12L5.0001 — Construção de Unidades Básicas de
+
+Saúde (UBS). (Brasil, 2011, Art.2º).
+
+Se for seguida a risca essa definição conceitual relacionada ao financiamento
+federal da PNAB, que delimita o orçamento da atenção básica como aquele alocado
+para as ações 20AD, 8577, 8581, 8730 e 12L5º, em 2010 o valor aplicado pelo
+Ministério da Saúde em atenção básica teria sido de R$ 9,9 bilhões. A diferença em
+relação ao total executado no programa 1214 (R$ 10,08 bilhões), que inclui outras
+ações além das mencionadas, seria de aproximadamente R$ 139 milhões e está
+relacionada à ação de Expansão e Consolidação da Estratégia de Saúde da Família
+(ação 8573), que responderia por R$ 68,9 milhões, à ação de Alimentação e Nutrição
+(R$ 34,6 milhões), à ação de auxílio-reabilitação psicossocial aos egressos de longas
+internações psiquiátricas no SUS (RS 14 milhões), serviços de atenção à saúde da
+população do Sistema Penitenciário Nacional (RS 8,2 milhões), além de recursos das
+ações de gestão e administração do programa e de publicidade.
+
+SA Portaria nº 2488, de 21 de outubro de 2011, aprovou a Política Nacional de Atenção Básica,
+estabelecendo a revisão de diretrizes e normas para a organização da Atenção Básica, para a Estratégia
+Saúde da Família (ESF) e o Programa de Agentes Comunitários de Saúde (PACS).
+
+7 A Relação Nacional de Ações e Serviços Públicos de Saúde (Renases), no âmbito do Sistema Único de
+Saúde, foi publicada na Portaria nº 841, de 02 de maio de 2012.
+
+“Esta ação foi criada em 2011, por isso não consta na tabela 2, cujas informações referem-se a 2010.
+Contudo, a publicação dessa Portaria não revoga outras, como por exemplo a
+que trata dos blocos de financiamento (Portaria nº 204 de 29 de janeiro de 2007); a
+Portaria nº 687, de 30 de março de 2006, que aprova a Política de Promoção da Saúde;
+a Portaria nº 3.252, de 22 de dezembro de 2009, que, entre outros, trata do processo
+de integração das ações de vigilância em saúde e atenção básica. Assim, o escopo
+orçamentário-financeiro definido anteriormente seria ampliado por outras portarias
+mencionadas na PNAB.º
+
+Z a pé é gs . 24.10 =
+Além disso, as ações e serviços da atenção primária “ são um dos componentes
+da Renases!! e incluem:
+
+promoção à saúde; prevenção de agravos; Vigilância à saúde; tratamento, acompanhamento,
+redução de danos e reabilitação, com ênfase nas necessidades e problemas de saúde de
+maior frequência e relevância em seu território/contexto, observando critérios de riscos e
+vulnerabilidades; acolhimento e atenção à demanda espontânea incluindo as urgências e
+emergências nas unidades básicas de saúde; atenção e cuidado continuado/programado
+tanto nas unidades de saúde como em domicílio (quando for necessário); indicação,
+prescrição e realização de procedimentos terapêuticos e diagnósticos no âmbito da Atenção
+Primária; atividades de atenção individual e coletivas (ex.: Familiar, Comunitária); atividades
+de vigilância em saúde; atenção a todos os cidadãos sob sua responsabilidade, independente
+dos ciclos de vida, gênero ou problema de saúde apresentados; ações de Atenção Domiciliar;
+atenção à Saúde Bucal; atenção através de ações e serviços pertinentes às Práticas
+Integrativas e Complementares; Vigilância Nutricional e Alimentar e Atenção Nutricional;
+coordenação do cuidado, incluindo o acesso a ações e serviços fora do âmbito da Atenção
+Primária.
+
+A partir desse escopo, pode-se dizer que a Renases, a princípio, abarcaria
+outras ações, que não são citadas na PNAB como sendo oneradas pelo orçamento
+definido na Portaria que a institui, mas que estariam incluídas em outras portarias. Por
+exemplo, a ação 8735 - Alimentação e Nutrição para a Saúde, apesar de não constar
+dentre as ações orçamentárias oneradas da PNAB, faria parte da Atenção Básica pela
+Renases, quando ela define a “Vigilância Nutricional e Alimentar e Atenção
+Nutricional” como integrantes da Atenção Primária.
+
+Além disso, apesar da ação de Expansão de Consolidação do Saúde da Família
+fazer parte daquelas que não seriam oneradas no orçamento (relação definida
+anteriormente), essa ação poderia, conceitualmente, ser considerada como atenção
+básica tanto na PNAB quanto na Renases. Assim, se for considerada essa ação e a de
+Alimentação e Nutrição, ambas dentro do programa 1214 — Atenção Básica em Saúde,
+o montante referente à atenção básica seria da ordem de R$ 10,01 bilhões,
+considerando as ações oneradas pela PNAB e R$ 10,05 bilhões pela Renases (Tabela 2).
+
+3 Agradecemos a Roberta Vieira por chamar atenção sobre os recursos definidos em outras portarias.
+
+1º À PNAB considera atenção básica e atenção primeira como equivalentes. Sabe-se que existe uma
+longa discussão conceitual em torno desses termos (ver, entre outros, Ribeiro, 2007). Contudo, essa
+discussão não será abordada nessa nota.
+
+“A Renases “(...) está organizada nos seguintes componentes: i) ações e serviços da atenção básica
+(primária); (ii) ações e serviços da urgência e emergência; (iii) ações e serviços da atenção psicossocial;
+(iv) ações e serviços da atenção ambulatorial especializada e hospitalar; (v) ações e serviços da vigilância
+em saúde” (Brasil, 2012, art.3º)
+Tabela 2 — Ações do Programa “Atenção Básica em Saúde” - 1214
+
+ 
+
+ 
+
+ 
+
+Total - Pnab + Ação 8573
+Total - Renases + Ação 8573
+
+ 
+
+ 
+
+10.013.646.623,61
+10.049.127.554,69
+
+ 
+
+ 
+
+Fonte: Senado Federal. Siga Brasil.
+
+Ações do Programa de Atenção Básica (1214) Empenhado 2010 Critério
+
+20AD - PISO DE ATENCAO BASICA VARIAVEL - SAUDE DA FAMILIA 5.940.729.000,00 PNAB RENASES
+8577 - PISO DE ATENCAO BASICA FIXO 3.656.999.022,94 PNAB RENASES
+8581 - ESTRUTURACAO DA REDE DE SERVICOS DE ATENCAO BASICA DE SAUDE 307.671.820,60 PNAB RENASES
+8573 - EXPANSÃO E CONSOLIDACAO DA ESTRATEGIA DE SAUDE DA FAMILIA 69.364.671,81
+
+8730 - ATENCAO BASICA EM SAUDE BUCAL 38.882.108,26 PNAB RENASES
+8735 - ALIMENTACAO E NUTRICAO PARA A SAUDE 35.480.931,08 RENASES
+20AI - AUXILIO-REABILITACAO PSICOSSOCIAL AOS EGRESSOS DE LONGAS
+
+INTERNACOES PSIQUIATRICAS NO SISTEMA UNICO DE SAUDE (DE VOLTA PRA CASA) 14.031.098,18
+
+20B1 - SERVICOS DE ATENCAO A SAUDE DA POPULACAO DO SISTEMA PENITENCIARIO 8.250.850,00
+
+4641 - PUBLICIDADE DE UTILIDADE PUBLICA 7.796.745,00
+
+2272 - GESTAO E ADMINISTRACAO DO PROGRAMA 5.873.198,32
+
+Total - Programa 1214 10.085.079.446,19
+
+Adicionalmente, pela Renases e pela Portaria nº 3252, o escopo da atenção
+básica também abarcaria algumas ações do programa 1444 — Vigilância, Prevenção e
+Controle de Doenças e Agravos. As ações desse programa estão detalhadas na Tabela
+3. Entretanto, faz-se necessário discutir quais devem ser consideradas nessa
+
+delimitação do escopo.
+
+Tabela 3 — Ações do Programa “Vigilância, Prevenção e Controle de Doenças e
+
+Agravos” - 1444
+
+ 
+
+[Ação (Cod/Desc)
+
+Empenhado 2010
+
+ 
+
+|20BA - PREVENCAO, PREPARACAO E ENFRENTAMENTO PARA A PANDEMIA DE INFLUENZA
+2272 - GESTAO E ADMINISTRACAO DO PROGRAMA
+
+2689 - TRABALHO DE CAMPO PARA PREVENCAO E CONTROLE DE DOENCAS
+
+|2D28 - OPERACOES DE ASSISTENCIA ESPECIAL NO EXTERIOR
+
+3994 - MODERNIZACAO DO SISTEMA NACIONAL DE VIGILANCIA EM SAUDE - VIGISUS
+
+[4365 - PRODUCAO DE VACINAS, REAGENTES PARA DIAGNOSTICO E BIOFARMACOS
+
+[4382 - SISTEMA NACIONAL DE VIGILANCIA EPIDEMIOLOGICA E CONTROLE DE DOENCAS
+[4641 - PUBLICIDADE DE UTILIDADE PUBLICA
+
+[6031 - IMUNOBIOLOGICOS PARA PREVENCAO E CONTROLE DE DOENCAS
+
+[6170 - VIGILANCIA, PREVENCAO E CONTROLE DE DOENCAS E AGRAVOS NAO TRANSMISSIVEIS
+[6184 - VIGILANCIA, PREVENCAO E CONTROLE DA TUBERCULOSE
+
+[6185 - VIGILANCIA, PREVENCAO E CONTROLE DA HANSENIASE
+
+[6186 - VIGILANCIA, PREVENCAO E CONTROLE DA MALARIA
+
+[6235 - VIGILANCIA, PREVENCAO E CONTROLE DA DENGUE
+
+[8327 - SERVICO LABORATORIAL DE REFERENCIA PARA O CONTROLE DE DOENCAS
+8543 - VIGILANCIA, PREVENCAO E CONTROLE DAS HEPATITES VIRAIS
+
+[8701 - SISTEMA NACIONAL DE LABORATORIOS DE SAUDE PUBLICA
+8725 - VIGILANCIA, PREVENCAO E CONTROLE DAS DOENCAS IMUNOPREVENIVEIS,
+
+[6842 - PRODUCAO DE INFORMACAO EM ESTATISTICAS VITAIS E ANALISE DA SITUACAO DE SAUDE
+
+|20AC - INCENTIVO FINANCEIRO A ESTADOS, DISTRITO FEDERAL E MUNICIPIOS PARA ACOES DE PREVENCAO E QUALIFICACAO DA ATI
+20AL - INCENTIVO FINANCEIRO AOS ESTADOS, DISTRITO FEDERAL E MUNICIPIOS CERTIFICADOS PARA A VIGILANCIA EM SAUDE
+
+[6160 - VIGILANCIA, PREVENCAO E CONTROLE DE SURTOS, EPIDEMIAS, CALAMIDADES PUBLICAS E EMERGENCIAS EM SAUDE
+[6161 - AQUISICAO, ACONDICIONAMENTO E DISTRIBUICAO DE INSUMOS PARA PREVENCAO E CONTROLE DE DOENCAS
+
+[8670 - VIGILANCIA, PREVENCAO E CONTROLE EM HIV/AIDS E OUTRAS DOENCAS SEXUALMENTE TRANSMISSÍVEIS
+
+154.542.201,87
+1.051.760.214,71
+347.658.908,55
+
+25.746.807,96
+1.265.560,20
+
+123.684.233,87
+
+20.158.302,62
+70.500.000,00
+
+1.214.533.700,71
+
+83.836.631,80
+53.509.045,92
+20.405.496,78
+12.764.255,29
+8.282.634,24
+13.508.797,11
+11.854.786,47
+3.049.415,50
+6.432.425,50
+5.519.002,71
+
+104.655.415,22
+
+10.331.274,30
+8.980.626,15
+
+ 
+
+[TOTAL
+
+ 
+
+ 
+
+3.352.979.737,48
+
+ 
+
+Fonte: Senado Federal. Siga Brasil
+
+ 
+
+ 
+Se fossem consideradas todas as ações desse programa, a diferença em relação
+ao escopo da atenção básica que contabiliza os recursos previstos nas ações do
+. . ILE 12
+programa 1214 seria superior a R$ 3 bilhões.
+
+Além das diferenças conceituais já pontuadas, duas questões adicionais
+merecem destaque nessa análise: (i) as ações orçamentárias não refletem tudo aquilo
+que o Ministério da Saúde denomina internamente de programas, ações ou marcas de
+governo e (ii) há ações relacionadas a atenção básica à saúde e incorporadas a PNAB
+que são realizadas conjuntamente com outros ministérios. Por exemplo, em 2010, por
+meio do PAB Variável (ação orçamentária) foram executados recursos para aquele que
+o Ministério da Saúde denomina de Programa Saúde na Escola (PSE), mas que, para
+efeitos do PPA e do orçamento não é nem um programa nem uma ação orçamentária.
+Além disso, esse programa é realizado em conjunto com o Ministério da Educação.
+Ainda que seus impactos orçamentários sejam pequenos, caberia discutir se deveriam
+ser incluídos os recursos aplicados pelo MEC, visto que o PSE foi incorporado a PNAB,
+ainda que não na relação de ações orçamentárias que serão oneradas.
+
+Dessa forma, é possível observar que, a depender do recorte que se faz ao
+analisar os dados orçamentário-financeiros, o valor aplicado em atenção básica pode
+variar significativamente. As maiores diferenças são observadas quando são
+agregadas: (i) ações de outros programas dentro do próprio Ministério da Saúde,
+como, por exemplo, a inclusão de todas as ações do programa de Vigilância, Prevenção
+e Controle de Doenças e Agravos e (ii) ações de atenção básica realizadas por outros
+ministérios, em geral, para atenção à saúde de seus servidores. Contudo, há ainda que
+se considerar as atuações intersetoriais e os recursos que essas aplicam em ações e
+serviços de caráter universal e que poderiam, a depender do conceito utilizado, ser
+classificados como atenção básica em saúde.
+
+Assim, para que se possa definir um conceito de atenção básica e o escopo que
+permita retratá-la de acordo com as informações da PNAB e da Renases, é necessário
+que as fontes apresentem suas informações com maior detalhamento possível,
+incluindo e permitindo cruzamentos, principalmente, desagregados pela classificação:
+funcional (função e subfunção), programática (programas e ações) e, se possível, por
+natureza de despesa (categoria econômica, GND, modalidade de aplicação e elemento
+de despesa). Como pode ser observado, esse tipo de informação é apresentado no
+Siafi, Sidor e Siga Brasil.
+
+3. Gastos com atenção básica de estados e municípios: analisando os dados do
+Finbra por função e subfunção e comparando com o SIOPS
+
+Atendendo às disposições constante dos artigos 111 e 112 da Lei nº 4.320/64 e do
+artigo 51 da Lei Complementar nº 101/00 (Lei de Responsabilidade Fiscal), foram
+criados sistemas no governo federal para o seu acompanhamento, entre eles, o
+Sistema de Coleta de Dados Contábeis de Estados e Municípios (SISTN), gerenciado
+pela Secretaria de Tesouro Nacional com o apoio da Caixa Econômica Federal. Os
+
+?2 A matriz de Indicadores e Dados Básicos da Rede Interagencial de Informações para saúde (IDB-Ripsa),
+inclui dois indicadores, E20 e E21, os quais tratam do gasto do Ministério da Saúde com atenção à saúde
+e que consideram a Vigilância em Saúde com parte da atenção básica. Ver Ripsa, Ficha de Qualificação.
+http://www .ripsa.org.br/fichaslDB/record.php?node=e.21&lang=pt&version=ed6
+estados e a maioria dos municípios prestam informações para esse sistema a partir de
+formulários pré-definidos.
+
+A Secretaria do Tesouro Nacional (STN) consolida as informações prestadas em
+vários relatórios. Produz, também, um consolidado denominado “Execução
+Orçamentária dos Estados” e uma publicação denominada Finanças Públicas do Brasil
+— Dados Contábeis dos Municípios (Finbra), no qual analisa, também, os balanços
+consolidados. Nesses sistemas obtêm-se dados de receita e despesa orçamentária,
+além da composição patrimonial (ativo e passivo). As despesas são apresentadas de
+duas formas: despesa por natureza e a despesa funcional (função e subfunção).
+Entretanto, não há cruzamento dessas informações, impossibilitando que se realize
+simultaneamente a análise funcional e por natureza de despesa, que, como
+apresentado anteriormente, pode ser feito pelo SIAFI e Siga Brasil.” Além disso, não
+são disponibilizadas informações sobre em que programas ou ações os recursos foram
+aplicados, conforme definido no PPA e LOA. Com as limitações apresentadas acima,
+não é possível, a partir destes sistemas, definir a despesa municipal ou estadual com
+atenção básica, utilizando o conceito da PNAB e Renases.
+
+Outra limitação deste sistema é que não há cruzamento da fonte de recursos
+(receitas) com sua aplicação nas funções/subfunções (despesa). Dessa forma, pode-se
+fazer a análise considerando a função saúde e as subfunções a ela vinculadas, mas não
+é possível saber quanto do recurso aplicado foi recurso próprio de cada estado ou
+município e quanto foi recurso de transferências intergovernamentais. Entretanto, a
+informação do gasto estadual e municipal em atenção básica com recurso próprio é
+essencial para evitar a dupla-contagem, uma vez que os recursos considerados do
+gasto federal em atenção básica já contemplam os recursos transferidos a estados e
+municípios.
+
+A partir dos sistemas federais, particularmente dos sistemas do Fundo Nacional
+de Saúde, seria possível buscar as informações sobre transferências para a atenção
+básica para cada estado e município”. Contudo, não se tem a informação das
+transferências entre estes entes federados - entre estados, de estados para municípios
+e entre municípios. Assim, o que se obteria seria o total de recursos aplicados por
+estados e municípios, descontadas as transferências federais para atenção básica (ver
+Anexo F). Ainda assim, restariam inconsistências conceituais visto que os recursos
+financeiros transferidos pelo Ministério da Saúde destinam-se a ações e serviços
+públicos de saúde de caráter universal, mas não há a como obter essas informações
+por subfunção obtidas para estados e municípios. Ou seja, ao se descontar o total
+transferido do total de recursos aplicados na subfunção atenção básica (dados que
+podem ser obtidos pelo Finbra), não é possível afirmar que esses recursos referem-se
+
+3 como mencionado anteriormente, a natureza de despesa inclui: categoria econômica, grupo de
+despesa, modalidade de aplicação. Os grupos de natureza de despesa são: 1 - Pessoal e Encargos Sociais;
+2 - Juros e Encargos da Dívida; 3 - Outras Despesas Correntes; 4 - Investimentos; 5 - Inversões
+Financeiras; 6 - Amortização da Dívida; 9 - Reserva de Contingência. Nessa nota não foram análises para
+grupos de natureza de despesa, pois o foco concentrou-se na análise por programas, ações e subfunção.
+“ O anexo E apresenta uma estimativa do gasto com recursos próprios em Atenção Básica das capitais
+do país. É um dado que também tem que ser analisado com cuidado uma vez que, em quatro capitais, o
+gasto com recursos próprios foi negativo porque as informações disponíveis referentes à transferência
+federal foram maiores que o gasto total com atenção básica apresentado por estas capitais (quer seja
+nas informações do SIOPS quer sejam do Finbra).
+exclusivamente a ações e serviços públicos de saúde conforme definidos pela Emenda
+E É 15
+Constitucional n. 29.
+
+O tipo de informação que é possível obter a partir do Finbra é muito próximo
+daquilo que é possível obter pelo Sistema de Informações sobre Orçamentos Públicos
+em Saúde (Siops). Esse sistema é gerenciado pelo Ministério da Saúde e tem por
+objetivo acompanhar o cumprimento do disposto na Emenda Constitucional 29 (EC
+29). Portanto, enquanto o Finbra apresenta os dados para todo o governo federal, o
+foco do SIOPS é a aplicação dos recursos da saúde (Ministério da Saúde e secretarias).
+As informações da despesa apresentadas pelo SIOPS referem-se à natureza de despesa
+e à classificação funcional. Novamente, verifica-se a mesma limitação dos sistemas do
+STN para aferir os gastos com atenção básica: as informações que existem não se
+cruzam e não existem informações da despesa programática!*. Entretanto, há vários
+detalhamentos no Plano de Contas do SIOPS que não são disponibilizados pelo Finbra.
+Por exemplo, as aberturas por categoria econômica de gastos com pagamento de
+equipes de saúde da família, entre outros.
+
+As possibilidades de uso do SIOPS para estimar o gasto em atenção básica de
+estados e municípios foram analisadas em detalhes por Ritzel e Prado (2012). Assim,
+esse trabalho completa esse estudo ao analisar os dados de despesa por função e
+subfunção que estados e municípios disponibilizam para a STN, comparando, sempre
+que possível, com aqueles apresentados por aqueles autores.
+
+Devem ser destacadas algumas diferenças na agregação dos dados
+disponibilizados pelo Tesouro Nacional e no SIOPS. Em relação às informações da STN,
+no Quadro dos Dados Contábeis Consolidados — Balanço Orçamentário — Despesas por
+Função (ver Anexo B), observa-se que a função saúde (010) é composta pelas
+subfunções: Atenção Básica; Assistência Hospitalar e Ambulatorial; Suporte Profilático
+e Terapêutico; Vigilância Sanitária; Vigilância Epidemiológica; Alimentação e Nutrição e
+demais subfunções. Além disso, há informações sobre todas as demais funções,
+incluindo a função 004 — Administração, que contempla subfunções administrativas
+presentes no relatório do SIOPS. Contudo, nos dados consolidados elas se referem a
+todas as funções e não somente a função saúde. No Siops, os estados e municípios
+podem informar quanto aplicam de recursos em atividades administrativas
+relacionados à saúde - administração das secretarias estaduais e municipais de saúde
+(ver Anexo C).
+
+Essa será a primeira diferença observada entre as informações estaduais
+apresentadas no Anexo D (referentes às informações da STN) e aqueles consolidados
+por Ritzel e Padro (2012) — referentes às informações disponibilizadas no SIOPS.
+Contudo, num olhar mais atento dos dados de 2010, relacionado aos 5.212 municípios
+
+'S pelas informações do Finbra, os estados e municípios teriam aplicado, respectivamente, R$ 3,74
+bilhões e R$ 27,38 bilhões na subfunção atenção básica. O governo federal transferiu R$ 9,9 bilhões para
+municípios e R$ 105 milhões para estados (programa 1214 ou R$ 104 milhões, subfunção atenção
+básica). Se os conceitos fossem equivalentes, os municípios e estados teriam aplicado R$ 20,4 bilhão de
+recursos próprios em atenção básica. Contudo, como destacado no texto, não há como garantir
+equivalência conceitual. Além disso, não se sabe quanto os estados transferiram para municípios, ou
+seja, não se tem informação dos recursos próprios de cada ente.
+
+1º para visualização das diferenças entre as informações prestadas pelos sistemas da administração
+federal no que concerne à estimativa de gasto com atenção básica, ver anexo E.
+que prestaram informações nesse ano, observa-se que, em geral, não há diferenças
+significativas nos percentuais de gasto na função saúde, visto que, aqueles que foram
+contabilizados como subfunção administrativa e informações complementares no
+SIOPS, em geral, ficaram como “outras subfunções” da Função Saúde nos dados
+disponibilizados pela STN.
+
+Quase todos os estados apresentam percentuais de aplicação na subfunção
+Atenção Básica muito próximos daqueles encontrados por Ritzel e Padro (2012) na
+análise do SIOPS. Enquanto o Paraná declarou ter aplicado 69% dos seus recursos para
+saúde em atenção básica, há outros estados que declararam aplicar menos de 1%. A
+grande divergência entre os dados declarados ao Tesouro Nacional ocorreu no
+Maranhão, que declarou aplicar 21,44% dos seus recursos da função Saúde na
+subfunção Atenção Básica, ao passo que no SIOPS declarou aplicar 10,19%. Se forem
+somados os percentuais dessa subfunção com as “outras subfunções da saúde” e
+comparado com a soma dos percentuais da subfunção Atenção Básica com a
+subfunção administrativa e as informações complementares no SIOPS, observa-se que
+os percentuais ficam, em ambos, em torno de 56% do gasto total na função Saúde.
+
+Assim, a análise das informações consolidadas pelo Tesouro Nacional sobre os
+gastos dos estados na função saúde mostra que os gastos com atenção básica
+totalizaram R$ 3,8 bilhões (ou 6,8%). Na média dos estados, a maior parte dos recursos
+foi alocada na subfunção “Assistência Hospitalar e Ambulatorial”, com quase 60% do
+total (contra 46% informados ao SIOPS).
+
+Na análise das informações municipais utilizou-se, para fins de comparação, a
+mesma proposta feita por Ritzel e Padro (2012), qual seja, agregar os municípios em
+seis portes populacionais (até 10 mil; 10 até 20 mi; 20 até 50 mil, 50 até 100 mil, 100
+até 500 mil, 500 mil ou mais, com intervalos superiores abertos) e por macrorregião
+(Norte, Nordeste, Sudeste, Sul e Centro-Oeste). Contudo, na apresentação dos dados,
+optou-se, nesta nota, por fazê-lo por porte de municípios (isto é, comparar as
+macrorregiões em cada porte). Os municípios aplicaram, em média, 39,% dos seus
+recursos da função saúde em atenção básica. Pelos dados do Finbra, há diferenças
+entre as regiões em cada porte populacional. Para os municípios de até 10 mil
+habitantes, aqueles localizados nas regiões Sul, Sudeste e Nordeste declararam aplicar
+mais de 60% dos seus recursos da saúde em atenção básica, ao passo que no Centro-
+Oeste esse percentual foi inferior a 50%. Contudo, quando a análise passa a ser para os
+municípios de 10 até 20 mil habitantes, o Centro-Oeste apresenta percentuais médios
+de aplicação iguais a 60%, o Sul continua com percentuais acima de 70% e o Sudeste e
+Nordeste ficam entre 50 e 60%. Os percentuais médios aplicados em atenção básica
+pelos municípios do Sul do país continuam acima de 60% para os municípios até 100
+mil habitantes, mas passam a ficar abaixo de 50% para os municípios de maior porte e
+naqueles com mais de 500 mil ficam abaixo de 40%. Os percentuais aplicados em
+atenção básica parecem ser inversamente proporcionais ao tamanho dos municípios,
+independente da região (exceto para o Centro-Oeste, onde há variações do percentual
+aplicado independente do porte).
+
+Quando a análise passa a ser feita para o gasto per capita médio em cada porte
+populacional, observa-se que, em geral, esse também se reduz com o porte do
+município.
+Ainda que esses dados apresentem indicações interessantes para análise da
+atenção básica, eles se mostram limitados pelos diversos motivos destacados
+anteriormente: (i) podem estar misturando gastos universais e gastos para
+atendimento a clientelas fechadas (gastos não universais); (ii) não permitem conhecer
+o objeto e objetivo final do gasto para além da análise funcional, não possibilitando
+cruzamentos com a programação de cada nível de governo; (iii) não permitem saber
+qual o percentual do gasto é realizado com recursos próprios de cada ente federado;
+(iv) não permitem identificar uma base conceitual ou parametrização comum e, com
+isso, não permitem aproximar daquele que seria o gasto preconizado pela PNAB e para
+as ações e serviços previstos na Renases.
+
+4. Considerações finais
+
+Na esfera federal, definidas as delimitações conceituais, é possível aferir os gastos com
+atenção básica conforme delimitação feita pela PNAB e Renases, uma vez que os
+sistemas disponíveis apresentam informações com maior grau de detalhamento no
+que diz respeito à classificação funcional e programática, com possibilidade de
+cruzamento destas informações. Entretanto, ainda se faz necessário ampliar o
+detalhamento das informações orçamentárias para aproximar aquilo que está
+expresso no orçamento daquilo que seria o preconizado na PNAB e na Renases.
+
+Em relação aos estados e municípios, os dois sistemas apresentados não
+permitem obter a informação necessária para se aferir o gasto com atenção básica:
+quer pela insuficiência das informações prestadas pelos sistemas federais disponíveis
+(do MS e da STN), quer pela dupla contagem que ocorreria caso estes sistemas fossem
+considerados. Desta forma, será necessário avançar nas análises e elaborar propostas
+metodológicas para esse trabalho, no que diz respeito aos estados e municípios.
+
+Até o momento, a proposta foi iniciar com o mapeamento das informações
+disponibilizadas nos sistemas de informação orçamentários e financeiros geridos pela
+administração federal. Parte desse trabalho foi apresentando nessa nota, envolvendo
+os dados disponibilizados para o governo federal e no trabalho de Ritzel e Prado
+(2012).
+
+Em relação aos gastos estaduais e municipais, além da análise das informações
+disponibilizadas por sistemas gerenciadas pelo governo federal como Finbra e SIOPS,
+pretende-se complementar a análise por meio da exploração de outros sistemas de
+informação disponibilizados pelas secretarias de fazenda e secretarias de saúde
+estaduais e municipais.
+
+A proposta é dar continuidade à estimativa dos gastos municipais em saúde
+considerando que haverá lacunas de informação sobre o gasto com atenção básica.
+Adicionalmente, terá que ser feito um cruzamento mais detalhado para avaliar a
+consistência dessas informações por município.
+
+Para fazer uma análise de consistência, além das categorizações utilizadas nas
+análises de receitas municipais, as estimativas de gasto obtidas na primeira fase seriam
+cruzadas com as informações de oferta e produção nos sistemas do Ministério da
+Saúde, tais como informações de cadastramento e habilitação dos sistemas da atenção
+básica; informações da estrutura de oferta presentes no Cadastro Nacional de
+Estabelecimentos de Saúde e quantitativos de produção presentes em outros
+sistemas, tais como SIA, SIH, APAC etc.
+
+Nessa fase, possivelmente será importante desenvolver técnicas estatísticas e
+econométricas de estimação, considerando, a partir da literatura, o que poderia afetar
+o gasto com atenção básica em saúde. Entre outros, poderiam ser feitas análises
+cruzando essas informações com aquelas obtidas nas análises de custo e outros dados
+de remuneração. Essas informações estão sendo consolidadas em nota relacionada ao
+custo da atenção básica elaborada para esse projeto, que utiliza dados da Relação
+Anual de Informações Sociais (Rais) e informações provenientes de pesquisa de campo
+sobre qualidade do emprego realizada pelo Nescon-UFMG.”.
+
+Referências Bibliográficas
+
+BRASIL. Ministério da Saúde. Política Nacional de Atenção Básica. Brasília, 2012.
+BRASIL. Ministério da Saúde. Portaria 2.488 de 21 de outubro de 2011.
+
+BRASIL. Ministério da Saúde. Relação Nacional de Ações e Serviços de Saúde. Brasília,
+2012.
+
+CARDOSO JR, José Celso. Planejamento Governamental e Gestão Pública no Brasil:
+Elementos Para Ressignificar o Debate e Capacitar o Estado. Brasília: Ipea, Texto para
+Discussão n. 1.584, marco de 2011.
+
+GARCIA, Ronaldo Coutinho. Reorganização do processo de planejamento do governo
+federal: o PPA 2000-2003. Brasília: Ipea, Texto para Discussão n. 726, maio de 2000.
+
+GARCIA, Ronaldo Coutinho. PPA: O QUE NÃO É E O QUE PODE SER. In: Ipea. Políticas
+Sociais: acompanhamento e análise n. 20, Brasília, 2012. Artigo Especial.
+
+GIACOMONI, James; PAGNUSSAT, José Luiz (Org.). Planejamento e orçamento
+governamental: coletânea. Brasília: ENAP, 2006. v. 1 e 2.
+
+RIBEIRO, Fátima Aparecida. Atenção primária (APS) e sistema de saúde no Brasil: uma
+perspectiva histórica. São Paulo: USP. Dissertação apresentada à Faculdade de
+Medicina para obtenção do título de mestre, 2007.
+
+RITZEL, Jonas; PRADO, Clementina Corah. Nota técnica nº 73/2012/DESID/SE/MS, de
+11 de dezembro de 2012.
+
+” UFMG. Núcleo de Educação em Saúde Coletiva — Nescon. Monitoramento da qualidade do emprego
+na estratégia saúde da família — Relatório Final. Belo Horizonte, julho, 2010. Disponível em:
+http://www.nescon.medicina.ufmg.br/biblioteca/imagem/2458.pdf. Acessado em: 19 de dezembro de
+2012.
+
+ 
+Anexo A — Estrutura da Programação Orçamentária
+
+Esfera orçamentária 1
+
+Órgão
+
+Unidade orçamentária
+Função
+Subfunção
+Programa
+Ação
+Localização do gasto
+(Subtítulo)
+IDOC
+IDUSO
+
+Fonte
+
+Natureza (Categoria
+econômica/grupo despesa/
+modalidade de aplicação)
+
+Identificador de
+Resultado Primário
+
+Esfera: Orçamento da
+Seguridade Social
+
+Órgão: Min. da Saúde
+
+UO: Fund. Oswaldo Cruz
+Função: Saúde
+Subfunção: Suporte
+Profilático e Terapêutico
+
+Programa: Prevenção e Controle
+das Doenças Imunopreviniveis
+
+Ação: Produção de Imunobiológicos
+Subtítulo: Nacional .
+
+IDOC: Outros Recursos
+IDUSO: Recursos não
+destinados a contrapartida
+Fonte: Contribuição Social sobre o
+Lucro Líquido das pessoas Jurídicas
+Natureza: Despesas Correntes /
+
+Outras Despesas Correntes »
+Aplicação Direta
+
+Indicador de Resultado Primário:
+Primária Discricionaria
+
+ 
+Fonte: Ministério do Planejamento, Orçamento e Gestão. Secretaria de Orçamento Federal. Manual
+
+Técnico de Orçamento (MTO) Versão 2010. Brasília: Secretaria do Tesouro Nacional, 2009, p.35.
+
+Anexo B — Distribuição dos recursos da subfunção atenção básica em saúde por órgão,
+programas e Ações
+
+Tabela B. Distribuição dos recursos da subfunção atenção básica aplicados em ações
+
+universais, por órgão, programa e ação*
+
+1061 - Brasil Escolarizado
+
+4042- Capacitação para promoção da saúde na escola
+
+2.400.000,00 0,02%
+
+ 
+
+ 
+
+1214 - Atenção Básica em Saúde
+
+1312 - Promoção da capacidade resolutiva e da humanização 6178 - Implementação das políticas de saúde da
+
+na atenção à saúde
+
+1336 - Brasil Quilombola
+
+população idosa
+6188 - Implementação das políticas de atenção à saúde
+do trabalhador
+
+6233 - Implantação e implementação das políticas de
+saúde mental
+
+8527 - Implementação de políticas de saúde da
+população do sistema penitenciário
+
+8762 - Implementacao de acoes e senicos as
+populacoes em localidades estrategicas e wineraveis de
+agravo
+
+Total
+
+8215 - Atencao à saude das populacoes quilombolas
+
+10.033.928.958,01
+10.021.897.473,61 99,86%
+
+3.333.120,71
+3.027.109,99
+923.785,70
+
+948.098,00
+
+2.299.999,00
+
+10.532.113,40 0,10%
+1.499.371,00 0,01%
+
+ 
+
+Total Geral
+
+10.036.328.958,01  100,00%
+
+ 
+
+Fonte: Senado Federal. Siga Brasil. LOA 2010. Despesa de Execução.
+
+*As ações do programa 1214 foram apresentadas na tabela 2.
+
+Anexo C — Parte do Formulário Modelo Finbra — Despesa por Função e Subfunção
+ANEXO I-E
+QUADRO DOS DADOS CONTÁBEIS CONSOLIDADOS
+BALANÇO ORÇAMENTÁRIO - DESPESAS POR FUNÇÃO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Estado: UF:
+CNP): Exercício:
+CAMPO CÓDIGO DISCRIMINAÇÃO VALOR (R$ 1,00)
+Total da Despesa por Função (Exceto INTRA-ORÇAMENTARIAS)=
+(2+6+10+14+27+32+37+41+47+53+61+67+76+80+85+90+94+98+105+110+11
+i 9+123+130+137+141+147+154+159)
+2 001 Legislativa = (3+4+5)
+3 031 Ação Legislativa
+4 032 Controle Externo
+5 XXX Demais Subfunções
+6 002 |] udiciária = (7+8+9)
+7 061 Ação Judiciária
+8 062 Defesa do Interesse Público no Processo J udiciário
+9 XXX Demais Subfunções
+10 003 Essencial à Justiça = (11+12+13)
+AE 091 Defesa da Ordem Jurídica
+12 092 Representação J udicial e E xtrajudicial
+13 XXX Demais Subfunções
+14 004 Administração (15+...+26)
+15 121 Planejamento e Orçamento
+16 122 Administração Geral
+zI 123 Administração Financeira
+18 124 Controle Interno
+19 125 Normatização e Fiscalização
+20 126 Tecnologia da Informação
+21 127 Ordenamento Territorial
+22 128 Formação de Recursos Humanos
+23 129 Administração de Receitas
+24 130 Administração de Concessões
+25 131 Comunicação Social
+26 XXX Demais S ubfunções
+27 005 Defesa Nacional = (28+...+31)
+28 151 Defesa Aérea
+29 152 Defesa Naval
+30 153 Defesa Terrestre
+31 XXX Demais Subfunções
+32 006 Segurança Pública = (33+...+36)
+as 181 Policiamento
+34 182 Defesa Civil
+35 183 Informação e Inteligência
+36 XXX Demais Subfunções
+37 007 Relações Exteriores = (38+39+40)
+38 211 Relações Diplomáticas
+39 212 Cooperação Internacional
+40 XXX Demais S ubfunções
+41 008 Assistência Social = (42+...+46)
+42 241 Assistência ao Idoso
+43 242 Assistência ao Portador de Deficiência
+44 243 Assistência à Criança e ao Adolescente
+45 244 Assistência Comunitária
+46 XXX Demais Subfunções
+47 009 Previdência Social = (48+...+52)
+48 271 Previdência Básica
+49 272 Previdência do Regime Estatutário
+50 273 Previdência Complementar
+51 274 Previdência Especial
+52 XXX Demais S ubfunções
+53 010 Saúde = (54+...+60)
+54 301 Atenção Básica
+55 302 Assistência Hospitalar e Ambulatorial
+56 303 Suporte Profilático e Terapêutico
+57 304 Vigilância S anitária
+58 305 Vigilância E pidemiológica
+59 306 Alimentação e Nutrição
+60 XXX Demais Sublunções
+61 o11 Trabalho = (62+...+66)
+62 331 Proteção e Benefícios ao Trabalhador
+63 332 Relações de Trabalho
+64 333 Empregabilidade
+os 334 Fomento ao Trabalho
+66 XXX Demais S ubfunções
+Fonte: STN: Quadro dos Dados Contábeis Consolidados 2010. In:
+
+ 
+
+ 
+
+http://www3.tesouro.gov.br/estados municipios/index.asp. Acesso em 05 de dezembro de 2012.
+
+ 
+
+ 
+Anexo D. SIOPS - Consulta — Dados Informados- Histórico da Despesa por Subfunção
+
+Quadro B - Consulta de Despesa por subfunção, consolidada por fase de despesa e estado
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Código Nome
+1 SUBFUNÇÕES ADMINISTRATIVAS
+121 Planejamento e Orçamento
+122 Administração Geral
+123 Administração Financeira
+124 Controle Interno
+126 Tecnologia da Informação
+128 Formação de Recursos Humanos
+131 Comunicação Social
+2 SUBFUNÇÕES VINCULADAS
+301 Atenção Básica
+302 Assistência Hospitalar e Ambulatorial
+303 Suporte Profilático e Terapêutico
+304 Vigilância Sanitária
+305 Vigilância E pidemiológica
+306 Alimentação e Nutrição
+3 INFORMAÇÕES COMPLEMENTARES
+271 Previdência Básica
+272 Previdência do Regime Estatutário
+273 Previdência Complementar
+274 Previdência Especial
+571 Desenvolvimento Científico
+572 Desenvolvimento Tecnológico e Engenharia
+573 Difusão do Conhecimento Científico e Tecnológico
+841 Refinanciamento da Dívida Interna
+842 Refinanciamento da Dívida E xtema
+843 Serviço da Dívida Interna
+84 Serviço da Dívida Externa
+845 Transferências Intragovernamentais
+XXX Outras
+Fonte: Ministério da Saúde. Siops. In: http://siops.datasus.gov.br/rel subfuncao.php.Acesso em 05 de
+
+ 
+
+dezembro de 2012.
+Anexo E — Gasto Funcional
+
+Tabela E1. Participação das Subfunções de Saúde nos Gastos com Saúde dos Estados em 2010 (%)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Saúde Atenção fesistpela Suporte Vigilância Vigilância — Alimentação e Peres
+Macrorregião e (Função 10) Básica a a Sanitária Epidemiológica Nutrição s abra res ”
+
+AC 100,00% 1,77% 98,18% 0,00% 0,00% 0,00% 0,00% 0,05%
+
+AM 100,00% 0,19% 30,97% 7,60% 0,05% 2,39% 0,00% 58,80%
+
+AP 100,00% 1,50% 24,74% 8,28% 0,20% 1,78% 0,00% 63,50%
+
+Norte PA 100,00% 2,98% 54,02% 0,98% 0,09% 0,91% 0,01% 41,02%
+RO 100,00% 9,98% 24,26% 7,39% 0,04% 1,91% 0,00% 56,42%
+RR 100,00% 0,57% 49,53% 1,41% 0,72% 0,32% 0,00% 47,46%
+TO 100,00% 1,12% 41,97% 1,18% 0,09% 0,74% 0,00% 54,91%
+AL 100,00% 3,48% 36,59% 7,84% 0,12% 1,25% 0,00% 50,71%
+BA 100,00% 1,48% 62,63% 4,16% 0,10% 1,49% 0,00% 30,14%
+GE 100,00% 3,68% 41,57% 11,85% 1,09% 1,53% 0,00% 40,27%
+MA 100,00% 21,44% 35,78% 3,16% 0,26% 1,14% 2,93% 35,28%
+Nordeste PB 100,00% 0,30% 45,19% 7,68% 0,02% 0,82% 0,02% 45,97%
+PE 100,00% 0,34% 44,78% 6,10% 0,08% 1,38% 0,00% 47,32%
+PI 100,00% 4,02% 35,11% 0,02% 0,01% 4,44% 1,48% 54,92%
+
+RN 100,00% 0,41% 92,68% 5,12% 0,68% 0,46% 0,00% 0,65%
+SE 100,00% 22,00% 55,08% 0,00% 0,10% 0,38% 0,00% 22,43%
+DF 100,00% 4,79% 44,68% 0,69% 0,23% 0,17% 0,00% 49,45%
+Centro-Oeste Go 100,00% 3,25% 66,85% 0,00% 0,09% 0,48% 0,00% 29,34%
+MS 100,00% 4,90% 36,02% 4,91% 13,78% 1,06% 0,01% 39,32%
+MT 100,00% 6,33% 32,13% 11,52% 0,22% 0,83% 0,00% 48,97%
+ES 100,00% 1,44% 64,49% 6,50% 0,01% 0,13% 0,00% 27,43%
+Sudeste MG 100,00% 17,04% 49,18% 4,92% 0,27% 1,27% 0,02% 27,30%
+RJ 100,00% 0,91% 46,60% 10,75% 0,70% 1,47% 1,52% 38,06%
+
+SP 100,00% 0,00% 87,01% 3,31% 0,01% 0,39% 1,59% 7,70%
+
+PR 100,00% 68,43% 12,17% 8,87% 0,00% 0,84% 2,64% 7,05%
+Sul RS 100,00% 5,63% 73,83% 0,00% 0,19% 0,35% 0,00% 19,99%
+sc 100,00% 3,24% 62,14% 0,00% 0,15% 0,37% 0,00% 34,09%
+Total Estados 100,00% 6,76% 59,43% 4,49% 0,35% 0,90% 0,72% 27,35%
+
+Fonte: Ministério da Fazenda. STN. Execução Orçamentária dos Estados 2010. Elaboração das autoras.
+Tabela E2. Gastos dos Estados na Função e nas Subfunções da Saúde em 2010 (Valor R$)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DISCRIMINAÇÃO |Saúde =(54+..460)  |Atenção Básica — |Assistência Hospitalar e Arrbulatorial |Suporte Profilático e Terapêutico |Vigilância Sanitária Vigilância Epiderriológica | Alimentação e Nutrição — |Derrais Subfunções - Saúde
+AC 508.110.814,38 8.989.045,89 498.854.766,09 E s z ” 267.002,40
+AL 657.650.040,16 22.896.226,15 240.648.960,15 51.572.162,18 802.803,94 8.243.986,36 3 333.485.901,38
+AM 1.713.110.557,87 3.310.953,84 530.535.997,52 130.118.012,03 881.870,05 40.985.621,27 - 1.007.278.103,16
+AP 346.038.271,81 5.187.503,19 85.600.217,63 28.657.721,01 701.672,59 6.147.345,56 E 219.743.811,83
+BA 3.663.086.480,59 54.246.743,84 2.294.318.361,34 152.357.259,60 3.604.747,82 54.559.222,99 - 1.104.000.145,00
+CE 1.628.955.017,64 59.950.975,57 677.221.545,81 193.007.001,31 17.792.179,39 24.991.732,81 " 655.991.582,75
+DF 1.826.944.204,82 87.501.204,62 816.205.424,42 12.648.302,38 4.121.997,14 3.016.429,58 46.059,71 903.404.786,97
+ES 1.391.467.219,43 20.022.065,33 897.386.777,87 90.427.239,15 93.637,73 1.869.642,57 - 381.667.856,78
+Go 1.697.268.884,59 55.163.782,00 1.134.579.290,71 E 1.456.166,54 8.158.865,26 E 497.910.780,08
+MA 1.166.897.805,32 | 250.209.099,81 417.565.450,96 36.873461,34 3.025.538,75 1.353.787,39 34.202.023,05 411.668.444,02
+MG 4.493.591.539,37 | 765.581.580,44 2.210.128.746,32 220.891.657,70 12.276.385,52 56.864.292,92 998.265,66 1.226.850.610,81
+MS 737.888.921,59 36.185.133,02 265.753.286,54 36.252.319,67 101.654.316,72 7.854.731,71 66.095,59 290.123.038,34
+MT 836.953.176,08 53.003.230,64 268.923.872,25 96.376.462,57 1.862.675,47 6.929.988,71 - 409.856.946,44
+PA 1.627.068.177,80 48.406.308,19 878.893.229,22 15.957.558,38 1.488.832,30 14.876.504,64 100.292,83 667.345.452,24
+PB 869.606.335,98 2.594.901,85 392.982.014,82 66.774.633,73 184.860,26 7.126.205,23 150.010,05 399.793.710,04
+PE 2.949.971.959,61 9.962.420,60 1.321.038.425,20 180.084.033,50 2.216.064,21 40.685.012,22 62.755,61 1.395.923.248,27
+
+PI 771479.275,63 31.041.560,32 270.870.348,21 132.276,65 62.909,57 34.288.043,03 11.402.678,23 423.681.459,62
+PR 2.568.838.345,13 | 1.757.944.814,57 312.604.650,12 227.730.374,87 - 21.616461,56 67.799.681,00 181.142.363,01
+RJ 3.513.083.255,20 31.898.162,27 1.636.953.230,20 377.703.720,58 24.445.330,39 51474.816,84 53.470.980,94 1.337.137.013,98
+RN 916.073.656,75 3.762.488,76 848.993.417,49 46.893.634,92 6.193.039,53 4.237.052,49 E 5.994.023,56
+RO 606.900.336,39 60.548.081,69 147.248.227,39 44.839.180,64 227.251,48 11.601.086,14 " 342.436.509,05
+RR 271.890.488,13 1.538.976,03 134.666.230,30 3.841.781,43 1.947.545,74 867.437,90 E 129.028.516,73
+RS 3.197.667.055,20 | 179.956.194,53 2.360.932.595,87 98.094,31 6.214.506,01 11.124.679,21 - 639.340.985,27
+sc 1.843.944.515,39 59.803.112,81 1.145.838.633,15 E 2.816.425,26 6.841.235,45 - 628.645.108,72
+SE 668.898.020,30 | 147.179.112,81 368.446.610,43 ss 663.460,13 2.574.773,80 E 150.034.063,13
+sp 14.549.948.679,49 = 12.659.757.559,39 480.890.108,32 824.394,80 56.129.343,76 232.036.983,55 1.120.310.289,67
+TO 682.300.644,83 7.616.756,15 286.365.555,37 8.043.560,57 593.335,98 5.029.494,31 E 374.651.942,45
+TOTAL ESTADOS 55.705.633.679,48 | 3.764.500.434,92 33.103.313.424,77 2.502.170.556,84 196.151.947,32 501.447.793,71 400.335.826,22 15.237.713.695,70
+
+ 
+
+Fonte: Ministério da Fazenda. STN.
+
+Execução Orçamentária dos Estados 2010. Elaboração das autoras.
+
+ 
+Tabela E3. Participação das Subfunções de Saúde nos Gastos com Saúde dos Municípios em 2010 (%)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Região saude Atenção Assistência Suporte Vigilância Vigilância Alimentação e Outras Desp na
+Porte de Município Básica Hospitalar Profilático | Sanitária | Epidemiológica Nutrição Função Saúde
+Norte 100,0% 53,1% 30,0% 0,5% 0,9% 1,4% 0,7% 13,4%
+Nordeste 100,0% 61,7% 18,2% 1,5% 0,7% 1,7% 0,4% 15,7%
+Até 10 mil
+Sudeste 100,0% 67,6% 18,9% 0,8% 0,7% 1,3% 1,2% 9,5%
+Sul 100,0% 79,4% 14,8% 0,8% 0,6% 0,7% 0,6% 3,0%
+Centro-Oeste 100,0% 49,7% 29,1% 0,4% 0,7% 1,3% 0,6% 18,2%
+Norte 100,0% 47,6% 21,3% 0,3% 1,0% 1,4% 0,4% 28,1%
+Nordeste 100,0% 56,0% 22,5% 0,7% 0,7% 1,5% 0,7% 17,9%
+10 a 20 mil Sudeste 100,0% 59,4% 28,0% 1,0% 0,7% 1,4% 0,9% 8,6%
+SUL 100,0% 73,1% 20,0% 0,9% 1,0% 0,6% 0,7% 3,7%
+Centro-Oeste 100,0% 60,7% 25,1% 0,5% 0,8% 1,4% 0,6% 10,8%
+Norte 100,0% 42,5% 29,6% 0,8% 1,1% 2,3% 0,7% 23,0%
+Nordeste 100,0% 50,4% 25,2% 1,0% 0,7% 1,8% 0,5% 20,4%
+20a 50 mil Sudeste 100,0% 52,5% 28,9% 1,3% 1,1% 1,5% 1,0% 13,6%
+Sul 100,0% 69,5% 19,3% 1,9% 0,9% 0,9% 0,4% 7,1%
+Centro-Oeste 100,0% 45,2% 32,4% 1,7% 0,7% 1,6% 0,3% 18,0%
+Norte 100,0% 38,1% 32,7% 1,0% 0,6% 1,9% 1,1% 24,7%
+Nordeste 100,0% 40,4% 39,2% 1,2% 0,6% 2,1% 0,4% 16,2%
+50 a 100 mil Sudeste 100,0% 38,4% 42,0% 1,6% 0,9% 2,1% 0,4% 14,6%
+Sul 100,0% 60,1% 26,9% 3,6% 0,9% 1,2% 0,2% 7,0%
+Centro-Oeste 100,0% 60,1% 26,9% 3,6% 0,9% 1,2% 0,2% 7,0%
+Norte 100,0% 31,6% 25,7% 1,2% 0,7% 3,0% 0,0% 37,8%
+100 a 500 mil Nordeste 100,0% 33,2% 38,0% 3,0% 0,5% 2,4% 0,3% 22,5%
+sudeste 100,0% 34,5% 43,5% 2,2% 0,7% 1,8% 1,0% 16,3%
+SUL 100,0% 38,9% 39,5% 5,7% 0,9% 1,0% 0,4% 13,7%
+Centro-Oeste 100,0% 30,7% 37,0% 1,2% 0,4% 1,9% 0,1% 28,9%
+Norte 100,0% 31,7% 26,5% 4,1% 0,1% 2,7% 0,0% 35,0%
+Acima de 500 mil Nordeste 100,0% 14,2% 48,5% 1,6% 0,6% 1,1% 0,1% 33,9%
+Sudeste 100,0% 28,4% 42,7% 1,1% 0,4% 0,8% 0,0% 26,6%
+Sul 100,0% 26,9% 62,0% 0,0% 0,6% 1,4% 0,0% 9,2%
+Centro-Oeste 100,0% 44,1% 45,2% 0,9% 0,0% 1,9% 0,0% 7,9%
+Total Municípios 100,0% 39,8% 36,7% 1,7% 0,7% 1,4% 0,5% 19,3%
+Valor (em R$ bi) 68,85 27,38 25,26 1,16 0,45 0,98 0,32 13,31
+
+Fonte: Ministério da Fazenda. STN. Finbra 2010
+
+. Elaboração das autoras.
+
+ 
+Tabela E4. Gastos per capita dos Municí
+
+ 
+
+ios na Função e nas Subfunções da Saúde em 2010 (Valor R$)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Porte a g Atenção Assistência Suporte Vigilância Vigilância Alimentação Outras Desp na
+. Macrorregião Saúde e : e gs Ni Sê é Sad
+Populacional Básica Hospitalar Profilático Sanitária Epidemiológica e Nutrição | Função Saúde
+Norte 357,3 189,8 107,2 1,6 33 4,9 27 47,8
+Nordeste 327,8 202,3 59,8 4,9 24 5,4 1,5 51,5
+Até 10 mil sudeste 470,0 317,9 ss,8 3,9 3,5 E) 5,6 44,4
+Sul 454,6 361,0 67,1 a” 29 E 27 13,8
+Centro-Oeste 479,0 238,2 139,5 1,8 ão 63 28 87,2
+Norte 280,5 133,6 59,7 0,7 2,8 3,8 LO 78,8
+Nordeste 286,0 160,2 64,2 20 21 4,4 1,9 51,3
+10 a 20 mil Sudeste 388,8 231,1 108,8 4,0 2,8 5,4 34 33,3
+sul 331,5 242,5 66,1 31 32 20 24 12,2
+Centro-Oeste 384,0 233,1 96,4 1,8 E! 55 24 41,6
+Norte 242,4 103,1 71,7 1,9 26 5,6 1,7 55,8
+Nordeste 270,5 136,4 68,3 27 1,8 4,8 1,4 55,1
+20 a 50 mil sudeste 386,0 202,8 111,5 5,0 42 5,9 4,0 52,7
+sul 295,2 205,2 56,9 55 27 2,6 1,3 21,0
+Centro-Oeste a88,8 175,7 125,0 6,7 27 6,4 ia 70,0
+Norte 236,8 90,1 77,4 23 14 4,4 27 585
+Nordeste 281,5 sa 110,3 as 1,7 s8 1,2 45,6
+50 a 100 mil sudeste 420,0 161,3 176,4 69 3,8 87 17 61,2
+sul 295,7 4723 79,4 10,8 2,8 32 0,6 20,8
+Centro-Oeste 295,7 177,7 79,4 10,8 2,8 a 0,6 20,8
+Norte 269,8 8s,2 69,3 33 1,8 EO) o,0 102,1
+100a 500mil — Nordeste 325,7 108,0 123,7 9,9 1,8 79 1,0 73,4
+sudeste 421,7 145,3 183,3 9,4 29 77 43 es,8
+sul 391,1 152,3 154,3 22,2 3,4 38 1,4 53,7
+Centro-Oeste 363,2 111,3 134,4 4,2 15 68 0,3 104,9
+Norte 307,8 97,4 817 12,5 0,3 82 0,0 107,7
+ama de 500 Nordeste 399,7 56,9 193,9 6,4 24 4,4 0,3 135,4
+Sudeste 461,0 130,8 196,6 52 1,9 as o,0 122,8
+sul 520,0 139,7 a222 o,0 32 73 o,0 47,6
+Centro-Oeste 534,5 235,7 241,5 5,0 0,0 10,2 0,0 42,2
+Total 365,9 145,5 134,3 6,2 24 5,2 1,7 70,7
+
+Municípios
+
+ 
+Anexo F — Organização do tipo de informação das informações disponibilizadas por sistemas de informações administrados pelo Governo Federal que
+podem contribuir para a estimativa de gasto com atenção básica
+
+ 
+
+ 
+
+4) Execução Orçamentária
+dos Estados/STN
+5) Finbra/STN
+
+6) SIOPS/MS
+
+ 
+
+Funcional
+Natureza de despesa
+
+Funcional
+Natureza de Despesa
+
+ 
+
+Fonte: Siga Brasil, STN, Siops/MS.
+
+ 
+
+Sistemas Classificação da despesa Apresentação da Informação Esfera
+
+1) SIAFI Funcional Estas informações podem ser cruzadas. Por
+
+2) Siga Brasil Programática exemplo, é possível saber qual o Federal
+3) Sidor Natureza de despesa
+
+elemento de despesa (natureza de
+Estas informações não podem ser
+cruzadas. Não existe informação da
+despesa por programa ou ação.
+Estas informações não podem ser
+cruzadas. Não existe informação da
+despesa por programa ou ação.
+
+Estadual e
+Municipal
+
+ 
+Anexo G — Estimativa do gasto municipal das capitais em Atenção Básica com recursos próprios — 2010
+
+ 
+
+ 
+
+ 
+
+ 
+
+Capitais Gasto:naSubfiunção:Atenção:básica Diferença (A-B)| Transferência federal (C) pen próprio
+
+SIOPS (A) FINBRA (B) municipal (D=B-C)
+Porto Velho 11.643.887,17 11.643.887,17 = 18.943.339,00 |- 7.299.451,83
+Rio Branco 53.386.680,83 61.668.198,93 8.281.518,10 12.769.538,00 48.898.660,93
+Manaus 172.772.534,19 172.685.386,39]- 87.147,80 57.410.531,00 115.274.855,39
+Boa Vista 72.572.873,35 72.572.873,35 a 11.371.430,00 61.201.443,35
+Belém 138.689.439,76 138.689.440,00 0,24 41.660.186,00 97.029.254,00
+Macapá 42.779.617,74 42.779.617,74 - 21.441.568,00 21.338.049,74
+Palmas 22.002.907,24 22.002.907,24 - 11.834.639,00 10.168.268,24
+São Luís 41.112.210,27 41.112.210,27 = 34.204.254,00 6.907.956,27
+Teresina 45.585.151,63 45.585.151,63 - 49.168.579,00 |- 3.583.427,37
+Fortaleza 261.685.669,01 233.575.937,40|- 28.109.731,61 90.852.619,00 142.723.318,40
+Natal 52.660.985,99 52.660.985,99 m 28.169.286,00 24.491.699,99
+João Pessoa 73.766.656,09 73.766.656,09 = 45.256.209,00 28.510.447,09
+Recife 9.866.050,00 9.866.049,96] - 0,04 64.852.425,00 |- 54.986.375,04
+Maceió 24.352.948,71 24.352.948,71 % 26.663.193,00 |- 2.310.244,29
+Aracaju 48.184.049,31 48.184.049,31 - 28.813.074,00 19.370.975,31
+Salvador 116.084.796,84 116.084.796,84 = 81.968.179,00 34.116.617,84
+Belo Horizonte 147.799.968,56 147.267.328,12|- 532.640,44 123.519.859,00 23.747.469,12
+Vitória 18.307.575,36 18.307.575,36 - 16.362.989,00 1.944.586,36
+Rio de Janeiro 773.566.965,96 773.566.965,96 - 150.468.791,00 623.098.174,96
+São Paulo 1.739.773.980,73 1.739.773.980,73 - 349.605.507,00 1.390.168.473,73
+Curitiba 350.140.641,82 309.368.429,52|- 40.772.212,30 64.058.346,00 245.310.083,52
+Florianópolis 146.362.561,88 139.082.097,04|- 7.280.464,84 22.218.183,00 116.863.914,04
+Porto Alegre 132.123.102,58 132.123.102,58 = 37.470.087,00 94.653.015,58
+Campo Grande 97.969.872,84 91.152.257,11|- 6.817.615,73 32.371.098,00 58.781.159,11
+Cuiabá 163.797.704,87 163.797.704,87 a 18.404.907,00 145.392.797,87
+Goiânia 367.180.291,89 367.180.291,89 - 42.942.322,00 324.237.969,89
+
+ 
+
+ 
+
+Fonte: Siops/MVS, Finbra/STN, Sala de Situação/MS (http://189.28.128.178/sage/)
+Nota: (1) Para o cálculo da estimativa do gasto próprio municipal não foi possível excluir as receitas provenientes de transferências estaduais, uma
+vez que não há sistema que disponibilize este tipo de informação referente à subfunção Atenção Básica.
+

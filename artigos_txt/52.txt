@@ -1,0 +1,3493 @@
+UNIVERSIDADE FEDERAL DA BAHIA - UFBA
+INSTITUTO DE SAÚDE COLETIVA - ISC
+MESTRADO PROFISSIONAL EM SAÚDE COLETIVA - ÁREA DE
+CONCENTRAÇÃO VIGILÂNCIA SANITÁRIA
+
+DISSERTAÇÃO DE MESTRADO
+
+FINANCIAMENTO DAS AÇÕES DE VISA:
+A EVOLUÇÃO DO REPASSE FEDERAL.
+
+Adriana Aquino Barbosa
+
+Junho/2009
+ADRIANA AQUINO BARBOSA
+
+FINANCIAMENTO DAS AÇÕES DE VISA:
+A EVOLUÇÃO DO REPASSE FEDERAL
+
+Dissertação apresentada como requisito
+parcial à obtenção do título de Mestre em
+Saúde Pública, junto ao Instituto de
+Saúde Coletiva da Universidade Federal
+da Bahia (ISC/UFBA).
+
+Orientador: Prof. Dr. Luis Eugênio Portela Fernandes de Souza
+
+19 de Junho de 2009
+ 
+
+Universidade Federal da Bahia
+
+Instituto de Saúde Coletiva — ISC
+Programa de Pós-Graduação em Saúde Coletiva
+Adriana Aquino Barbosa
+“Financiamento das Ações de VISA: A Evolução do Repasse Federal”
+A Comissão Examinadora abaixo assinada, aprova a dissertação, apresentada em
+sessão pública ao programa de Pós-Graduação do Instituto de Saúde Coletiva da
+Universidade Federal da Bahia.
+
+Data de defesa: 19 de junho de 2009.
+
+Banca Examinadora:
+
+ 
+
+Prof. Luis Eugênio Portela Fernandes de Souza/ISC-UFBA
+
+ 
+
+Profa. Marismary Horsth De Seta/Escola Nacional de Saúde Pública - FIOCRUZ
+
+ 
+
+Profa. Carmem Fontes de Souza Teixeira/|[HAC-UFBA
+
+Salvador
+2009
+AGRADECIMENTOS
+
+ 
+
+A Deus pelas várias oportunidades que me concedeu;
+Á minha família por representar o alicerce das minhas realizações profissionais e
+pessoais, em especial aos meus pais pelo amor, confiança e respeito pela educação
+
+e aos meus irmãos e a Pereirinha pelo carinho e paciência;
+
+À minha querida tia, Antonia, pelo carinho, preocupação, incentivo, compreensão e
+apoio irrestritos em todas as fases da minha vida;
+
+À grande amiga Ana Cláudia Minnaert pelos ouvidos e coração sempre atentos e
+carinhosos aos momentos de angústia e pelos momentos de descontração em meio
+ao estresse.
+
+À Evani pelo ombro amigo e pela confiança em mim depositada:
+
+Às queridas Mariana e Elenildes pela alegria contagiante;
+
+À Dolly Cammarota pela receptividade e eterna disposição em ajudar, contribuindo
+com importantes informações para o desenvolvimento deste trabalho;
+
+Aos amigos da CVPAF/PE pela compreensão quando das minhas ausências e por
+
+tornarem meus dias um pouco mais leves;
+RESUMO
+
+ 
+
+O objetivo deste estudo foi analisar a evolução do financiamento federal para as
+ações de vigilância sanitária no período de 1998 a 2008 de forma a identificar se as
+mudanças no marco normativo federal foram favoráveis a uma maior alocação de
+
+recursos para a área.
+
+Para tanto, foi realizada uma revisão documental acerca da organização do sistema
+de saúde brasileiro, da inserção da vigilância sanitária neste contexto e do
+financiamento das ações de Visa no período, de modo a estabelecer suas fontes, os
+
+mecanismos de transferência e os critérios de alocação de recursos.
+
+Para viabilizar esta análise, os valores repassados para estados, municípios e
+Distrito Federal foram atualizados pelo Índice de Preços ao Consumidor Amplo
+(IPCA) e dispostos em uma série temporal de forma a se identificar o tipo de
+variação e a tendência do período.
+
+Constatou-se que apesar dos significativos avanços no marco normativo federal
+relativo ao financiamento da vigilância sanitária e da incontestável tendência de
+crescimento das transferências, o montante de recursos repassados está aquém do
+previsto nas normas. A principal causa verificada foi a dificuldade de pactuação do
+
+governo federal com as demais esferas de governo.
+
+Palavras chave: Vigilância Sanitária, Evolução, Financiamento e Alocação de
+Recursos.
+ABSTRACT
+
+ 
+
+The goal of this study was to analyze the evolution of federal funding for health
+surveillance efforts from 1998 to 2008 in order to identify if the changes in the federal
+regulatory norm were favorable to a larger allocation of resources for the field.
+
+A documental revision of the organization of the Brazilian health system as well as of
+the insertion of health surveillance in this context and of funding of VISA efforts in the
+period was put into effect in order to establish its sources, transfer mechanisms, and
+resource allocation standards.
+
+In order to enable this analysis, the values given to states, municipal districts, and the
+Federal District were updated by the Consumer Price Index (IPCA) and made
+available in a timely series so the type of variation and tendency of the period could
+be identified.
+
+In despite of significant advances in the federal regulatory norm relative to health
+surveillance funding and the undeniable growth tendency of transfers, it was certified
+that the given amount of resources were below customary expectations. The main
+reason for this was the difficulty in agreements between the federal government and
+other branches of government.
+
+Key words: Health Surveillance, Evolution, Funding and Resource Allocation.
+LISTA DE SIGLAS
+
+ANVISA — Agência Nacional de Vigilância Sanitária;
+
+APLAN - Assessoria de Planejamento;
+
+BVS - Biblioteca Virtual em Saúde;
+
+CEE - Cadastro de Estabelecimentos Empregadores;
+
+CIB — Comissão Intergestores Bipartite;
+
+CIT — Comissão Intergestores Tripartite;
+
+CNS — Conselho Nacional de Saúde;
+
+COFINS - Contribuição para o Financiamento da Seguridade Social;
+CONASEMS — Conselho Nacional de Secretarias Municipais de Saúde;
+CONASS — Conselho Nacional de Secretários de Saúde;
+
+CPMF - Contribuição Provisória sobre a Movimentação Financeira;
+CSLL — Contribuição sobre o Lucro Líquido das Empresas;
+
+DPVAT — Seguro Obrigatório de Danos Pessoais Causados por Veículos
+Automotores de Via Terrestre;
+
+EC — Emenda Constitucional;
+
+FAEC — Fundo de Ações Estratégicas e de Compensações;
+
+FES — Fundo Estadual de Saúde;
+
+FINLACEN — Incentivo para os Laboratórios de Saúde Pública da Rede Nacional de
+Laboratórios de Vigilância Sanitária;
+
+FMS — Fundo Municipal de Saúde;
+
+FNS — Fundo Nacional de Saúde;
+
+GEFIC - Gerência de Orçamento e Finanças;
+
+GM — Gabinete Ministerial;
+
+GPABY/A - Gestão Plena da Atenção Básica Ampliada;
+
+IBGE — Instituto Brasileiro de Geografia e Estatística;
+
+IPCA — Indice de Preços ao Consumidor Amplo;
+
+IVISA - Índice de Valorização de Impacto em Vigilância Sanitária;
+LACEN —Laboratório Central de Saúde Pública;
+
+MAC — Média e Alta Complexidade em Vigilância Sanitária;
+
+MS — Ministério da Saúde;
+
+NADAV - Núcleo de Assessoramento à Descentralização das Ações de Vigilância
+Sanitária;
+
+NOAS — Norma Operacional da Assistência à Saúde;
+
+NOB — Norma Operacional Básica;
+
+OSS — Orçamento da Seguridade Social;
+
+PAB — Piso da Atenção Básica;
+
+PAB/A — Piso da Atenção Básica Ampliado;
+
+PAB/VISA — Piso da Atenção Básica de Vigilância Sanitária;
+
+PAP/VS — Programação das Ações Prioritárias em Vigilância Sanitária;
+PASEP — Programa de Formação do Patrimônio do Servidor;
+
+PBVS — Piso Básico de Vigilância Sanitária;
+
+PDAVS - Programa Desconcentrado de Ações de Vigilância Sanitária;
+PDVISA — Plano Diretor de Vigilância Sanitária;
+PIS — Programa de Integração Social;
+
+PPI — Programação Pactuada Integrada;
+
+RAIS - Relação Anual de Informações Sociais;
+
+RDcC - Resolução da Diretoria Colegiada;
+
+SAS — Secretaria de Assistência à Saúde;
+
+SCIELO - Scientific Eletronic Library Online;
+
+SES — Secretaria Estadual de Saúde;
+
+SIAFI — Sistema de Administração Financeira do Governo Federal;
+SIGA BRASIL — Sistema de Informações sobre Planos e Orçamentos Públicos
+federais;
+
+SISLAB — Sistema Nacional de Laboratórios de Saúde Pública;
+SMS — Secretaria Municipal de Saúde;
+
+SNVS — Sistema Nacional de Vigilância Sanitária;
+
+SUS — Sistema Unico de Saúde;
+
+SVS — Secretaria de Vigilância em Saúde;
+
+TAM — Termo de Ajuste de Metas;
+
+TCG — Termo de Compromisso de Gestão;
+
+TFVISA — Teto Financeiro da Vigilância Sanitária;
+
+TFVS(a) — Teto Financeiro da Vigilância Sanitária;
+
+TFVS (b) — Taxa de Fiscalização em Vigilância Sanitária;
+
+VISA — Vigilância Sanitária;
+
+VISALEGIS — Sistema de Legislação em Vigilância Sanitária;
+LISTA DE QUADROS, TABELAS E GRÁFICOS
+
+LISTA DE QUADROS
+
+ 
+
+QUADRO 01 - GRUPO |: AÇÕES PARA ESTRUTURAÇÃO E
+FORTALECIMENTO DA GESTÃO.
+
+ 
+
+QUADRO 02 - GRUPO Il: AÇÕES ESTRATÉGICAS PARA O
+GERENCIAMENTO DO RISCO SANITÁRIO.
+
+ 
+
+QUADRO 03 — REPASSES FEDERAIS DESTINADOS AO .
+FINANCIAMENTO DAS AÇÕES DE VISA NOS ESTADOS, MUNICÍPIOS
+E DISTRITO FEDERAL.
+
+ 
+
+QUADRO 04 — REPASSES FEDERAIS DESTINADOS AS AÇÕES DE
+VISA POR MODALIDADE DE APLICAÇÃO
+
+ 
+
+QUADRO 05 — REPASSES FEDERAIS DESTINADOS AS AÇÕES DE
+VISA POR UNIDADE ORÇAMENTÁRIA
+
+ 
+
+QUADRO 06 — REPASSES EFETUADOS PELA ANVISA, POR
+MODALIDADE DE APLICAÇÃO, PARA FINANCIAR AS AÇÕES DE
+VISA
+
+ 
+
+QUADRO 07 — REPASSES EFETUADOS PELO FUNDO NACIONAL DE
+SAUDE, POR MODALIDADE DE APLICAÇÃO, PARA FINANCIAR AS
+AÇÕES DE VISA.
+
+ 
+
+QUADRO 08 — REPASSES DA UNIÃO PARA FINANCIAR AS AÇÕES
+
+DE VISA POR REGIÃO (2002-2008)
+
+LISTA DE GRAFICOS
+
+ 
+
+ 
+
+GRÁFICO 01 — EVOLUÇÃO DO REPASSE FEDERAL PARA
+FINANCIAMENTO DAS AÇÕES DE VISA
+
+ 
+
+GRÁFICO 02 - EVOLUÇÃO DO REPASSE FEDERAL PARA FINANCIAR
+AS AÇÕES DE VISA POR MODALIDADE APLICAÇÃO
+
+ 
+
+GRÁFICO 03 - EVOLUÇÃO DO REPASSE FEDERAL PARA FINANCIAR
+AS AÇÕES DE VISA POR UNIDADE ORÇAMENTÁRIA.
+
+ 
+
+GRÁFICO 04 - EVOLUÇÃO DOS REPASSES EFETUADOS PELA
+ANVISA, POR MODALIDADE DE APLICAÇÃO, PARA FINANCIAR AS
+AÇÕES DE VISA.
+
+ 
+
+GRÁFICO 05 - EVOLUÇÃO DOS REPASSES EFETUADOS PELO
+FUNDO NACIONAL DE SAÚDE, POR MODALIDADE DE APLICAÇÃO,
+PARA FINANCIAR AS AÇÕES DE VISA
+
+ 
+
+GRÁFICO 06 — EVOLUÇÃO DO REPASSE FEDERAL POR REGIÃO
+(2002-2008)
+
+FIGURAS
+
+ 
+
+PAG.
+
+ 
+
+FIGURA 1 - REPASSES FEDERAIS POR REGIAO (2002-2008)
+
+ 
+
+68
+SUMÁRIO
+
+Introdução 11
+1. A descentralização da saúde e o financiamento das ações de Visa 14
+2. A estratégia metodológica 21
+3. O financiamento da vigilância sanitária no contexto do SUS 25
+
+3.1. As normas operacionais e a regulamentação do financiamento. 25
+
+3.2 A criação da Anvisa, o Termo de Ajuste de Metas (TAM) e as 31
+mudanças nas transferências federais.
+
+3.3 O Pacto pela Saúde e suas implicações no financiamento das 37
+ações de vigilância sanitária.
+4. Análise dos repasses federais para as ações de VISA 50
+
+4.1 Foco de Análise 1 — Montante global de recursos repassados 50
+pela esfera federal para financiar as ações de Visa.
+
+4.2 Foco de Análise 2 — Comparação entre o montante global de 56
+recursos repassados e a modalidade de aplicação
+
+4.3 Foco de Análise 3 — Evolução do repasse por unidade 59
+orçamentária.
+
+4.4 Foco de Análise 4 — Repasse por unidade orçamentária e 62
+modalidade de aplicação
+
+4.5 Foco de Análise 5 — Repasse global por região 68
+5. Conclusões possíveis a respeito do financiamento da Visa 72
+6. Considerações finais 77
+
+7. Referências bibliográficas 80
+1
+
+INTRODUÇÃO
+
+O sistema de saúde brasileiro tem como diretriz básica a descentralização da
+gestão. Contudo, como boa parte dos recursos destinados ao financiamento das
+ações de saúde continua sendo arrecadado pela União, a definição de mecanismos
+e critérios de transferências de recursos para os estados, Distrito Federal e
+municípios se configura como um fator de suma relevância para garantir seu bom
+funcionamento (BRASIL, 2007e).
+
+A Vigilância Sanitária (Visa), enquanto componente deste sistema, vivencia esta
+mesma realidade. Qualquer mudança no modelo de financiamento federal pode
+impactar positiva ou negativamente no montante de recursos destinados à execução
+das ações de Visa e na consequente capacidade dos demais entes do Sistema
+Nacional de Vigilância Sanitária (SNVS) de cumprir a missão para a qual foram
+constituídos. Frise-se que estas mudanças podem interferir na capacidade dos
+gestores assegurarem ao cidadão a segurança sanitária, principalmente se
+considerarmos o cenário de restrições orçamentárias e financeiras e de incremento
+
+das necessidades de saúde e de incorporação de tecnologias.
+
+Assim sendo, estabelecer a correlação entre a evolução do montante de recursos
+transferidos pela União e os momentos normativos mais relevantes para a
+implementação e financiamento do Sistema Único de Saúde (SUS) e da Visa (tais
+como: a NOB 01/96; a criação da Anvisa, com o consequente surgimento do Termo
+de Ajuste de Metas; e o Pacto pela Saúde) é importante para que se possa avaliar
+se as sucessivas mudanças impostas pelo marco normativo federal contribuíram
+
+para uma maior alocação de recursos na área da vigilância sanitária.
+
+Destaque-se que ainda não existem estudos científicos que analisem a evolução do
+repasse de recursos federais aos estados, municípios e Distrito Federal para o
+financiamento das ações de Vigilância Sanitária e sua relação com a
+regulamentação do financiamento de forma a englobar o momento pós-Pacto pela
+Saúde (instituição dos blocos de financiamento).
+12
+
+Neste sentido, e visando suprir uma lacuna de conhecimento que pode trazer
+respostas importantes para gestores do SUS e estudiosos do financiamento da
+saúde no Brasil, esta dissertação apresenta um estudo descritivo da situação do
+financiamento da vigilância sanitária no período de 1998 a 2008, tendo como
+perguntas norteadoras: (1) houve modificação, ao longo dos últimos onze anos, no
+montante de recursos federais transferidos a estados, municípios e Distrito Federal
+para o financiamento das ações de Visa? (2) Caso positivo, em que proporção
+houve aumento ou redução reais? (3) Quais foram os mecanismos e fatores
+normativos que possam ter sido determinantes para o aumento ou a redução dos
+
+recursos?
+
+Esta dissertação, portanto, discute as mudanças ocorridas nos marcos normativos
+do SUS e seu impacto no financiamento das ações de vigilância sanitária.
+
+No primeiro capítulo, é discutida a inserção da vigilância sanitária no Sistema Único
+de Saúde e as implicações da descentralização deste sistema para o financiamento
+das ações de Visa.
+
+No segundo capítulo, são descritos os métodos de pesquisa utilizados neste
+trabalho, incluindo a caracterização do estudo, técnicas de coleta de dados e o plano
+de análise.
+
+No capítulo seguinte, é apresentado o resultado da análise documental e da revisão
+bibliográfica acerca da temática de organização e financiamento do SUS e da Visa,
+destacando a discussão do marco normativo, de forma a identificar as fontes de
+financiamento e os mecanismos e critérios de alocação de recursos utilizados pelo
+
+governo federal para repassar recursos aos entes subnacionais.
+
+O quarto capítulo apresenta os resultados acerca das transferências efetuadas pela
+União, de forma a se evidenciar se houve evolução nos repasses, a proporção da
+variação e a tendência do período.
+
+Por fim, apresenta-se um capítulo com as discussões destes resultados face à
+
+análise do marco normativo do período de maneira a destacar os avanços e
+13
+
+limitações da política de financiamento adotada pelo SUS e seu impacto no repasse
+de recursos federais para que os estados, municípios e Distrito Federal executem as
+ações de vigilância sanitária em seu âmbito de atuação.
+14
+
+CAPÍTULO 1
+A DESCENTRALIZAÇÃO DA SAÚDE E O FINANCIAMENTO DAS AÇÕES DE
+VISA
+
+A inserção da saúde como um direito constitucional pode ser identificada como uma
+das principais conquistas da sociedade brasileira nos últimos vinte anos.
+Representou uma significativa mudança na concepção das políticas públicas de
+saúde que até então só amparavam o cidadão inserido formalmente no mercado de
+
+trabalho.
+
+Além de garantir o direito à saúde para todos os cidadãos, a Constituição Federal de
+1988 determinou que o dever do Estado, presente em seu texto, seria uma
+responsabilidade solidária das três esferas de governo e instituiu o Sistema Único de
+Saúde (SUS) como o mecanismo político para alcance deste valor.
+
+O sistema de saúde brasileiro assumiu, então, um caráter de serviço público
+universal, integral e gratuito com uma organização político-administrativa concebida
+para uma gestão descentralizada (com comando único em cada esfera de governo)
+que assegurasse a participação popular.
+
+A legislação que instituiu o SUS definiu as bases do modelo de financiamento do
+sistema, tanto com respeito às fontes quanto aos mecanismos de transferência de
+recursos do nível federal para os demais níveis de governo. Na Constituição também
+foi prevista a criação de um orçamento específico para o financiamento do sistema,
+
+o Orçamento da Seguridade Social (OSS).
+
+O financiamento do sistema de saúde passou a ser uma responsabilidade dos três
+níveis de governo com recursos provenientes do orçamento da seguridade social e
+fiscal no âmbito federal e recursos dos orçamentos fiscais dos estados e municípios.
+O OSS surge tendo como fontes de recursos as contribuições sociais, cujas mais
+importantes são: as Contribuições de Empregados e Empregadores sobre a Folha
+de Pagamento, a Contribuição para o Financiamento da Seguridade Social
+15
+
+(COFINS), a Contribuição Social sobre o Lucro Líquido das Empresas (CSLL), os
+recursos do Programa de Integração Social (PIS), os recursos do Programa de
+Formação de Patrimônio do Servidor (PASEP), parte da arrecadação dos Concursos
+de Prognóstico (loterias), 50% do Seguro Obrigatório de Acidentes Automotivos
+(DPVAT), a Contribuição sobre o Salário Educação e a Contribuição do Plano de
+Seguridade Social dos Servidores. A partir de 1997, este orçamento foi ampliado
+para incluir a Contribuição Provisória sobre a Movimentação Financeira (CPMF),
+contudo esta foi extinta em 2008 (OLIVEIRA JUNIOR, 2001).
+
+Apesar da previsão constitucional, a regulamentação do Sistema Único de Saúde só
+veio a ocorrer em 1990, com a edição das leis nº. 8.080/90 e nº. 8.142/90. A primeira
+centrou o foco na organização dos serviços de saúde, sua direção, gestão e o
+estabelecimento de competências para os três níveis de governo e a segunda
+enfatizou as questões da participação da comunidade na gestão e das
+transferências dos recursos financeiros (MALIK, 2002).
+
+Além de reforçar que o financiamento do SUS deveria estar vinculado ao orçamento
+da seguridade social, como já previsto na Constituição, a lei nº 8.080/90, em seu
+artigo 35, estabeleceu critérios para a definição dos recursos a serem transferidos a
+estados, Distrito Federal e municípios, sendo eles: perfil demográfico da região,
+perfil epidemiológico da população a ser coberta, características quantitativas e
+qualitativas da rede de saúde na área, desempenho técnico, econômico e financeiro
+no período anterior, níveis de participação do setor saúde nos orçamentos estaduais
+e municipais, previsão do plano quinquenal de investimentos da rede e o
+ressarcimento do atendimento a serviços prestados para outras esferas de governo.
+A legislação foi além, ao prever que a outra metade dos recursos destinados a
+estados e municípios seria distribuída segundo o tamanho da população.
+
+Já a lei nº. 8.142/90 definiu que a esfera federal efetuaria as transferências de
+recursos para os demais entes do sistema de forma automática e regular (exceção
+dos recursos destinados a investimento). Determinou ainda que, enquanto o artigo
+35 da lei nº 8.080/90 não fosse regulamentado, prevaleceria o critério populacional
+para o repasse, destinando-se aos municípios pelo menos 70% dos recursos
+alocados no Fundo Nacional de Saúde (FNS).
+16
+
+Apesar das tentativas de prever mecanismos para a institucionalização do processo
+de descentralização, inclusive no tocante ao financiamento do sistema, estes
+dispositivos legais não lograram êxito, e o processo passou a ser regulamentado
+pelas Normas Operacionais Básicas (NOB), editadas pelo Ministério da Saúde (UGÁ
+et al, 2008).
+
+Este insucesso pode ser explicado pela política neoliberal do governo Collor de
+Mello que promoveu um “boicote” à implantação do SUS mediante a aprovação com
+vetos da lei nº 8.080/90 que acabou por implicar na exclusão de artigos relevantes
+para o financiamento da saúde, bem como pela inviabilidade técnica de se colocar
+em prática os critérios de alocação de recursos previsto no artigo 35 da citada lei.
+
+A instituição das Normas Operacionais Básicas como instrumentos reguladores da
+descentralização da saúde, já na sua primeira versão - a NOB 91 - apresenta dois
+importantes retrocessos em relação a certas expectativas legais abertas na Lei
+Orgânica quando não consegue regulamentar o seu artigo 35, construindo as
+diretrizes do financiamento a partir do pagamento por procedimentos e de forma
+convenial, e transformando os sistemas estaduais e municipais de saúde em meros
+prestadores de serviços, cerceando suas prerrogativas de gestão nos distintos níveis
+de governo.
+
+É importante destacar que a Visa se fez presente no texto constitucional como parte
+integrante da nova política de saúde brasileira. Até 1988, era definida pelo Ministério
+da Saúde como “um conjunto de medidas que visam elaborar, controlar a aplicação
+e fiscalizar o cumprimento de normas e padrões de interesse sanitário relativo a
+portos, aeroportos e fronteiras, medicamentos, cosméticos, alimentos, saneantes e
+bens (...)”, bem como o exercício profissional relacionado à saúde” (COSTA;
+ROZENFELD, 2004). Quando de sua previsão constitucional, assumiu um caráter de
+ação da cidadania e recebeu uma nova definição na Lei Orgânica da Saúde que lhe
+conferiu um caráter preventivo, passando a ser identificada como “um conjunto de
+ações capaz de eliminar, diminuir ou prevenir riscos à saúde e de intervir nos
+problemas sanitários decorrentes do meio ambiente, da produção e circulação de
+bens e da prestação de serviços de interesse da saúde” (COSTA; ROZENFELD,
+2004).
+17
+
+Uma vez inserida no Sistema Único de Saúde, a vigilância sanitária também é
+marcada por uma gestão descentralizada que, entretanto, guarda algumas
+peculiaridades em relação ao processo geral de descentralização do SUS. Por
+implicar em um forte impacto na regulação da atividade econômica, a Visa é
+identificada como uma atividade exclusiva do Estado e requer a manutenção de
+determinadas atividades em um órgão central no âmbito federal, principalmente se
+considerarmos que seus objetos de controle circulam (ou estão presentes) em todo
+o território nacional e, muitas vezes, ultrapassam as fronteiras do país. Como
+exemplo da necessidade de atuação centralizada da Visa, pode-se citar a atividade
+de registro de produtos e suas ações na área de portos, aeroportos e fronteiras
+(SOLLA; COSTA, 2007).
+
+E o que se entende por descentralização, então? Essa característica marcante do
+sistema de saúde brasileiro é aqui entendida como a transferência de autoridade, ou
+a distribuição de poder, dos níveis mais centrais de um sistema para os mais locais
+(da União para estados e municípios, por exemplo) a fim de possibilitar aos últimos
+maior liberdade no planejamento, gerenciamento e tomada de decisões em seu
+âmbito de governo (MILLS, 1990 apud ARAÚJO JR, 1994).
+
+A descentralização ganhou muita força por estar associada aos ideais de
+democratização do poder público e de obtenção de melhorias no desempenho dos
+governos (ABRUCIO, 2006 apud BRITO, 2007). No caso do Brasil, se tivermos em
+vista a imensa desigualdade econômica, social e sanitária entre as várias regiões do
+país, uma gestão de nível local, mais próxima do cidadão e de sua situação de
+saúde, pode possibilitar uma maior eficiência e eficácia no gasto em saúde, a
+melhoria da qualidade e do acesso aos serviços de saúde e a ampliação da
+participação e do controle social da gestão deste sistema.
+
+Neste sentido Solla e Costa (2007, p. 163) afirmam que:
+
+“A descentralização no setor saúde apresenta potencialmente diversas
+vantagens nos âmbitos administrativo, político e econômico, entre elas:
+possibilidade de organizar de forma mais racional o sistema de saúde com
+base em áreas administrativas locais, particularmente para atenção básica à
+saúde; (...) promove um contato mais próximo entre governo e população,
+melhores condições para formulação de políticas, planos e programas mais
+18
+
+realistas e adequados à realidade local; (...) facilita a participação da
+comunidade, permitindo melhorar o controle sobre os recursos aplicados, a
+aceitabilidade, cooperação e sustentabilidade da política de saúde (...)”
+
+Apesar destas vantagens, nota-se que a descentralização no Brasil é pautada na
+transferência de responsabilidades, sem a correspondente transferência de poder e
+de recursos financeiros indispensáveis para o cumprimento destas novas
+responsabilidades, o que implica na dependência da ação do governo central que,
+de modo geral, continua a induzir decisões e comportamentos por meio de
+programas e incentivos financeiros, ferindo de certa maneira a autonomia dos
+estados e municípios brasileiros (ARRETCHE, 2000 apud BRITO, 2007).
+
+Tendo em vista o sistema federativo adotado pela Constituição de 1998, há que se
+considerar que qualquer gestão descentralizada deve sempre estar pautada pelo
+reconhecimento da autonomia entre os entes federados. Assim, o processo de
+descentralização do SUS, e consequentemente da vigilância sanitária, deve ir ao
+encontro da organização político-administrativa do Estado brasileiro. Por seu caráter
+federativo, a União, os estados, o Distrito Federal e os municípios são entes dotados
+de autonomia política, administrativa e financeira e devem, portanto, ser livres e
+independentes na gestão, definição e implementação de políticas de saúde em seus
+respectivos níveis (SOLLA; COSTA, 2007).
+
+As normas que regulam o funcionamento do SUS reforçam este entendimento ao
+buscar mecanismos e instâncias de pactuação, a exemplo das Comissões
+Intergestores Tripartite e Bipartite (CIT e CIB).
+
+Evidentemente que a autonomia não deve significar isolamento e a União não pode
+entendê-la como ausência de apoio federal. Em um processo de transição para uma
+gestão municipal do sistema de saúde, por exemplo, o município precisa contar com
+a cooperação técnica e financeira das esferas federal e estadual, conforme previsto
+no art. 198 da Constituição Federal. Adicionalmente, devem-se considerar as
+diferentes capacidades (técnica e financeira) dos entes federados e a clara definição
+das responsabilidades de cada ente envolvido, com equilíbrio de encargos e
+recursos financeiros (BRASIL, 1994; MENDES, 2001).
+19
+
+O fato é que o sistema de saúde no Brasil (a vigilância sanitária não foge à regra),
+apesar dos esforços até hoje empreendidos, ainda apresenta dificuldades para
+garantir uma gestão financeira efetivamente descentralizada. Com efeito, apesar da
+previsão da responsabilidade dos demais entes federados, o governo federal ainda
+vem determinando a política de financiamento através de seus atos normativos. Se
+considerarmos que a maior parte dos municípios ainda depende fortemente dos
+repasses federais, a definição de critérios de alocação de recursos por parte do
+governo central tem forte impacto na capacidade dos entes subnacionais em
+executarem as ações para as quais foram constituídos, bem como no sucesso do
+
+processo de descentralização.
+
+Balizadas pelas discussões sobre descentralização, várias mudanças ocorreram,
+durante a última década, no financiamento federal das ações de vigilância sanitária.
+Dentre as principais, pode-se citar: (1) a modalidade preferencial de repasse passou
+a ser fundo a fundo (em detrimento ao repasse convenial); (2) a instituição do Piso
+da Atenção Básica de Vigilância Sanitária (PAB-VISA), prevendo repasses per
+capita diretamente aos municípios brasileiros; (3) o surgimento do Termo de Ajuste
+de Metas (TAM) e a regulamentação dos recursos destinados às ações de média e
+alta complexidade (MAC-VISA), para os estados, inicialmente, e depois para os
+municípios também; e (4) a instituição dos blocos de financiamento, prevista no
+Pacto pela Saúde que implicou no surgimento dos pisos estruturantes e estratégicos
+em Visa.
+
+Nos capítulos seguintes, serão analisadas as mudanças ocorridas nos mecanismos
+de financiamento da vigilância sanitária, nos últimos 11 anos, a fim de se verificar se
+
+elas foram favoráveis a uma maior alocação de recursos para a área.
+20
+
+Neste sentido, esta dissertação tem como objetivos geral e específicos:
+
+Objetivo Geral
+
+e Analisar a evolução histórica do financiamento federal para as ações de Visa,
+no período de 1998 a 2008.
+
+Objetivos Específicos
+
+e Descrever os marcos normativos do SUS, no que concerne ao financiamento
+federal para as ações de vigilância sanitária no período de 1998 a 2008;
+
+e Apresentar a série histórica (1998-2008) do montante de recursos federais
+transferidos a estados, municípios e Distrito Federal para financiar as ações
+de vigilância sanitária, ajustando os valores para preços de 2008,
+identificando se houve crescimento ou não;
+
+e Discutir a influência dos marcos normativos na eventual modificação do
+montante de recursos transferidos.
+21
+
+CAPITULO 2
+ESTRATÉGIA METODOLÓGICA
+
+ 
+
+A estratégia de pesquisa escolhida para este trabalho configura-o como um estudo
+descritivo que utilizou a série temporal e a análise documental de dados secundários
+relacionados aos temas de organização e financiamento da saúde e da vigilância
+
+sanitária no Brasil.
+
+É importante destacar que a escolha do período de 1998 a 2008 para a análise da
+evolução do montante de recursos transferidos pelo ente federal deve-se a
+necessidade de contemplar momentos de relevantes mudanças no processo de
+organização e financiamento do SUS e, mais especificamente, da vigilância sanitária
+(a NOB SUS 01/96, a criação da Anvisa e do TAM e o Pacto pela Saúde).
+
+A fim de alcançar os objetivos propostos, foram inicialmente analisados os
+documentos oficiais que estabeleceram ou estabelecem o marco normativo federal
+sobre a organização e financiamento do SUS e da vigilância sanitária, no período já
+referido.
+
+Esta fase teve como objetivo específico descrever como se organiza o sistema de
+saúde brasileiro, principalmente no que se refere à inserção da vigilância sanitária.
+Teve ainda como objetivo determinar como se deu o financiamento das ações de
+Visa no período, ou seja, quais foram suas fontes, os mecanismos de transferência e
+os critérios de alocação de recursos. De forma complementar, esta descrição visou
+orientar a análise dos dados financeiros nos vários momentos normativos que
+
+implicaram em alterações nas regras de financiamento da vigilância sanitária.
+
+O acesso aos documentos foi obtido através de consultas aos bancos de dados
+oficiais de legislação, como o disponibilizado no sítio da Presidência da República e
+do sistema de Legislação em Vigilância Sanitária (VISALEGIS), bem como o sítio da
+Agência Nacional de Vigilância Sanitária (Anvisa). Aqui foram analisados os
+regulamentos relativos à organização e financiamento do SUS e da Visa à
+22
+
+semelhança da Constituição Federal, leis, decretos, portarias, normas, instruções
+
+normativas e resoluções relacionadas à temática do financiamento.
+
+Além de documentos oficiais, foram utilizados livros e artigos publicados em revistas
+científicas, bem como consultadas bibliotecas virtuais, tais como: Scientific Eletronic
+Library Online (Scielo) e a biblioteca virtual em saúde (BVS) usando como critérios
+de pesquisa os termos: SUS, vigilância sanitária, organização, financiamento e
+alocação de recursos.
+
+Tendo em vista que a pesquisadora é servidora da Anvisa, no processo de descrição
+do financiamento federal das ações de Visa, também foram utilizadas informações
+disponibilizadas na rede de comunicação interna da agência (Intravisa), bem como
+documentos, relatórios, planos, programas, pareceres e manuais internos da
+instituição disponibilizados por áreas chaves envolvidas na temática de
+financiamento, tais como: o Núcleo de Assessoramento à Descentralização das
+Ações de Vigilância Sanitária (NADAV), Assessoria de Planejamento (APLAN) e a
+Gerência de Orçamento e Finanças (GEFIC).
+
+Pelo volume e diversidade de fontes, os materiais, selecionados de acordo com a
+possibilidade de resposta às perguntas norteadoras da pesquisa, foram dispostos
+em uma lista cronológica. Cada documento, após analisado, fez-se acompanhar de
+uma breve exposição de seu conteúdo, na qual era determinada a vigência do
+regulamento, as fontes de financiamento, os mecanismos utilizados para a
+
+transferência dos recursos e seus critérios de alocação.
+
+Neste estudo, a fonte foi entendida como a origem do recurso, sendo que esta
+pesquisa se limitou a avaliar a fonte pública federal. Por mecanismo de
+transferência, entendeu-se a forma pela qual o recurso é repassado para os estados
+e os municípios (se ocorre na modalidade fundo a fundo ou por convênio).
+
+A alocação de recursos foi considerada como o processo pelo qual recursos
+existentes são distribuídos entre usos alternativos (COUTTOLENC; ZUCCHI, 1998).
+Critério foi definido como aquilo que serve de base para comparação, julgamento ou
+23
+
+apreciação ou como um conjunto de regras, parâmetros ou orientações,
+independentemente do grau de detalhamento (FERREIRA, n.d apud COSTA, 2003).
+
+Assim sendo, entendeu-se por critério de alocação de recursos o conjunto de regras,
+parâmetros ou orientações, definidos explicitamente pela esfera federal nos
+regulamentos relacionados ao financiamento da saúde ou das ações de Visa, para a
+transferência de recursos aos estados, municípios e Distrito Federal (COSTA, 2003).
+
+Considerando que a palavra “recursos” poderia ser entendida de modo amplo, de
+forma a abranger recursos financeiros, humanos e materiais, cabe destacar que o
+
+objeto desse trabalho restringiu-se aos recursos financeiros.
+
+O segundo momento desta pesquisa se ateve à apresentação da série histórica do
+montante de recursos federais transferidos a estados, municípios e Distrito Federal.
+Tratou-se, portanto, de construir uma série temporal, ou seja, de uma sequência de
+dados financeiros sobre repasse para a vigilância sanitária em momentos distintos
+no tempo (ALMEIDA FILHO; ROUQUAYROL, 20083).
+
+Os dados financeiros foram obtidos através de consultas ao banco de dados de
+execução do orçamento da União disponibilizado no sítio da Câmara dos Deputados
+e do Senado Federal (denominado Sistema de Informações sobre Planos e
+Orçamentos Públicos Federais - SIGA BRASIL), que utiliza o Sistema Integrado de
+Administração Financeira do Governo Federal (SIAFI) como fonte de informação.
+Tendo em vista que o acesso ao sistema SIAFI é restrito, optou-se pela utilização
+destes bancos de dados uma vez que se trata de uma fonte de informação aberta ao
+público e fidedigna para obtenção dos dados de repasse efetuados pela união neste
+período.
+
+Os dados financeiros obtidos foram organizados em tabelas e gráficos com a
+ferramenta Microsoft Excel, tendo como variáveis de análise o tempo (anos), a
+modalidade de aplicação ou ente da federação (estado, municípios e Distrito
+Federal), a região (norte, nordeste, centro oeste, sul e sudeste), a unidade
+orçamentária (Anvisa e Fundo Nacional de Saúde) e o valor anual repassado.
+24
+
+A Modalidade de aplicação é um dos componentes da classificação da despesa
+utilizados no orçamento público brasileiro e consequentemente no SIAFI que
+indicam como os recursos serão aplicados. Aqui, a análise restringe-se às
+modalidades 30 e 40 que indicam respectivamente as transferências do governo
+federal destinadas aos estados e Distrito federal e aos destinadas aos municípios.
+
+Os valores de repasse efetuados nos anos de 1998 a 2007 foram atualizados para
+valores de dezembro de 2008, a fim de se obter um valor real para comparação no
+decorrer do período, sem o risco das variações encontradas poderem ser creditadas
+a correções inflacionárias.
+
+O índice utilizado para esta correção de valores foi o Índice de Preços ao
+Consumidor Amplo (IPCA). Medido mensalmente pelo IBGE (Instituto Brasileiro de
+Geografia e Estatística), ele é considerado pelo Banco Central como o índice oficial
+de inflação no país e é utilizado pelo governo para se verificar se a meta
+estabelecida para a inflação está sendo cumprida.
+
+Cumpre esclarecer que a construção dos gráficos com a distribuição temporal teve
+por foco a identificação do tipo de variação e da tendência que caracteriza o período
+estudado. De forma adicional, os gráficos permitiram avaliar se a variação ocorreu
+de forma semelhante (1) entre estados e Distrito Federal e municípios; (2) para cada
+unidade orçamentária; e (3) para as cinco regiões do país.
+
+O último momento da pesquisa envolveu a análise e discussão dos dados
+financeiros tabulados em gráficos e tabelas, a fim de ser evidenciar a relação entre
+as mudanças ocorridas no marco legal do financiamento nos últimos onze anos com
+a evolução no montante de recursos transferidos para estados, Distrito Federal e
+municípios. Isto de forma a permitir a discussão dos possíveis fatores normativos
+que possam ter influenciado a eventual modificação do montante de recursos
+transferidos.
+25
+
+CAPÍTULO 3.
+O FINANCIAMENTO DA VIGILÂNCIA SANITÁRIA NO CONTEXTO DO SUS
+
+ 
+
+3.1. As Normas Operacionais e a regulamentação do financiamento
+
+A regulamentação do processo de descentralização e do financiamento do Sistema
+Único de Saúde foi iniciada com a edição das leis nº 8.080/90 e nº 8.142/90.
+Contudo, a regulamentação, de fato, para efeitos práticos, só ocorre com as Normas
+Operacionais Básicas (NOB), editadas pelo Ministério da Saúde.
+
+Conforme destaca Lucchese (2004), as NOB tiveram grande importância na
+organização da gestão das ações e dos serviços de saúde e na operacionalização
+das relações político-institucionais e financeiras entre as três esferas de governo.
+Nelas foram detalhados os procedimentos a serem observados pelos estados e
+municípios interessados nas transferências financeiras do ente federal, instituídas as
+transferências fundo a fundo, definidas as responsabilidades de cada ente
+governamental e as instâncias de decisão e pactuação no SUS (DE SETA, 2007).
+
+De modo geral, as Normas Operacionais Básicas avançaram em relação ao marco
+normativo até então vigente, ao definir novos critérios para alocação e transferência
+de recursos e ao criar novas instâncias colegiadas de negociação, integração e
+decisão através da formação das Comissões Intergestores Tripartite e Bipartite!
+(VIANA, 2002 apud DE SETA, 2007, p.20).
+
+Criticadas por pouco contribuírem para o estabelecimento da cooperação entre as
+três esferas de governo e por preservarem as transferências de recursos entre
+governos através da formalização de convênios, as NOB 01/91 e NOB 01/92 não
+fizeram menção às ações de vigilância sanitária. Tal referência só vem ocorrer,
+mesmo que de forma superficial, na NOB 01/93 (DE SETA, 2007).
+
+* As Comissões Intergestores assumem um papel fundamental no processo de implementação da
+gestão descentralizada do SUS constituindo-se em um fórum de discussão, de análise técnica e de
+negociação política entre os gestores do sistema (Lucchese, 2004).
+26
+
+A NOB 01/93, conforme assinalam Santos e Andrade (2007), representou um marco
+no financiamento da saúde por ter criado a possibilidade de os estados e os
+municípios definirem a sua própria condição de gestão do SUS (incipiente, parcial ou
+semi-plena) em razão de sua capacidade técnica e operativa. Os estados poderiam
+se habilitar em duas das condições de gestão descentralizada, a parcial e a
+semiplena, e os municípios em qualquer uma das três. Isto representou um avanço
+na implantação do SUS, porque estados e municípios passaram a ser considerados
+gestores do sistema e não apenas meros prestadores de serviço ao Ministério da
+Saúde.
+
+A NOB 93 ainda disciplinou os procedimentos reguladores da descentralização das
+ações e dos serviços de saúde no país, porém se restringiu às atividades
+ambulatoriais e hospitalares. No que se refere à vigilância sanitária, cuja
+descentralização ainda estava em estágio inicial de discussão, foram incluídas na
+NOB as redefinições das atribuições das três esferas de governo e os mecanismos
+de financiamento (LUCCHESE, 2004).
+
+Apenas com a NOB 01/96, foi possível se estabelecer de forma clara a estratégia de
+descentralização da vigilância sanitária. Neste sentido, Lucchese (2004, p. 107-109)
+destaca que:
+
+“...) na NOB 96, estão estabelecidas algumas bases para a gestão
+descentralizada da vigilância sanitária. Obedecendo ao ordenamento
+jurídico do SUS, descentraliza-se a execução de ações para os municípios
+e atribui-se aos estados responsabilidades de caráter predominantemente
+regulatório, típicas do âmbito estadual — a normalização, a organização e a
+coordenação de ações e serviços de uma rede hierarquizada e
+regionalizada, a gerência de serviços de referência estadual e a cooperação
+técnica e financeira ao conjunto dos municípios (...).
+
+A responsabilidade pela execução de ações básicas, de média e/ou alta
+complexidade é atribuída ao estado apenas no que se refere aos municípios
+não habilitados a executá-las, conforme as condições de gestão prevista na
+NOB 96 (...)”
+27
+
+A NOB 96 avançou com relação à norma anterior ao introduzir novas condições de
+gestão? para estados e municípios que aumentaram a possibilidade de um maior
+número de municípios se habilitar à gestão descentralizada de recursos, tendo em
+vista que poderiam se enquadrar na condição de gestores da atenção básica
+(CARVALHO, 2002 apud BRASIL, 2007e). Ela ainda instituiu a Programação
+Pactuada Integrada (PPI), incluindo as ações da vigilância sanitária entre as
+atividades deste instrumento de planejamento nas três esferas de governo.
+
+Aqui a PPI ganha importância uma vez que a NOB 96 estabeleceu que, de acordo
+com a condição de gestão, o município poderia estar habilitado a realizar ações de
+vigilância sanitária de baixa, média e alta complexidade. A norma ainda explicitava
+que, caso o município não fosse habilitado, a execução das ações de Visa caberia
+ao estado. Contudo, a NOB 96 não discriminava os critérios para definir quais
+atividades e procedimentos em vigilância sanitária poderiam ser considerados de
+baixa, média e alta complexidade (LUCCHESE, 2000; SOUZA, 2002a apud BRITO,
+2007).
+
+De forma adicional, a NOB 96 regulamentou o repasse de recursos federais para os
+estados, o Distrito Federal e os municípios ao instituir o critério populacional para o
+financiamento da assistência básica através do Piso da Assistência Básica,
+posteriormente transformado em Piso da Atenção Básica (PAB) (BRASIL, 2007e). O
+PAB, como será relatado mais adiante, se constituía de uma parte fixa e de uma
+variável, esta última relativa aos incentivos para o fortalecimento e o
+
+desenvolvimento de ações estratégicas da atenção básica.
+
+A grande inovação da NOB/96 para a Visa foi o estabelecimento de formas de
+financiamento para suas as atividades, por meio da criação do Teto Financeiro da
+Vigilância Sanitária — TFVS (a). Os recursos relativos a este repasse poderiam ser
+executados por duas modalidades: transferência regular e automática fundo a fundo
+(o recurso seria repassado diretamente do Fundo Nacional de Saúde para os
+
+2 A NOB 96 previu duas condições de gestão para os estados, a gestão avançada do sistema
+estadual e a gestão plena do sistema estadual. Para os municípios, também foram duas formas de
+habilitação, a gestão plena da atenção básica e a gestão plena do sistema municipal. Tais condições
+de gestão eram estabelecidas com base em responsabilidades, prerrogativas e mecanismos de
+financiamento (Lucchese, 2004).
+28
+
+Fundos Estaduais e Municipais independente de convênio ou outro instrumento) e
+remuneração de serviços produzidos.
+
+Os recursos destinados ao custeio das ações de vigilância sanitária (TFVS) previstos
+na NOB/96 eram, então, compostos pelo Piso Básico de Vigilância Sanitária - PBVS
+(tornado sem efeito pela Portaria/GM/MS/1.882 de 18 de dezembro de 1997), pelo
+Índice de Valorização de Impacto em Vigilância Sanitária (IVISA), pelo Programa
+Desconcentrado de Ações de Vigilância Sanitária (PDAVS) e pelos recursos
+destinados às ações de média e alta complexidade em Visa.
+
+Nos dois primeiros casos, a transferência se daria de forma regular e automática
+fundo a fundo. O IVISA consistia na atribuição de valores adicionais equivalentes a
+até 2% do teto financeiro da vigilância sanitária do estado como incentivo à obtenção
+de resultados de impacto significativo sobre as condições de vida da população. O
+repasse dependeria de critérios definidos na CIT, e fixados em portaria do órgão
+competente do Ministério (Secretaria de Vigilância em Saúde - SVS/MS),
+previamente acordados no Conselho Nacional de Saúde (CNS). Este recurso ainda
+poderia ser transferido pelas Secretarias Estaduais de Saúde (SES) às Secretarias
+Municipais de Saúde (SMS), conforme definição da CIB.
+
+De forma complementar, os dois últimos casos consistiram na remuneração por
+serviço produzido. O PDAVS representava o pagamento direto às SES e às SMS
+pela prestação de serviços relacionados às ações de competência exclusiva da
+SVS/MS. Já as ações de média e alta complexidade consistiam no pagamento direto
+às secretarias de saúde estaduais e municipais pela execução destas atividades.
+Ambas dependiam de apresentação de demonstrativo das atividades realizadas ao
+MS e tinham os valores de suas remunerações definidos em negociação na CIT e
+formalizados por meio de portaria do órgão competente do Ministério (SVS/MS),
+previamente acordadas no CNS.
+
+Contudo, parte das inovações trazidas pela NOB 96 para o financiamento das ações
+de Visa não foram regulamentadas através de portaria específica. O IVISA e PDAVS
+não chegaram a ser implantados. Estamos de acordo com Brito (2007, p. 44),
+29
+
+quando levanta a possibilidade da implantação não ter ocorrido em virtude da “lógica
+extremamente questionável de modalidade de financiamento para ações de impacto
+
+coletivo, como as de Visa: a de remuneração por serviço”.
+
+Lucchese (2000) reforça esta idéia, questionando a viabilidade de se definir quais
+procedimentos de Visa deveriam compor uma tabela, como atribuir valor a cada um
+destes procedimentos e, até mesmo, o interesse dos gestores de saúde em vincular
+o repasse à produção em Visa, quando se conhecem as distorções geradas por este
+mecanismo na assistência ambulatorial e hospitalar (BRITO, 2007).
+
+Já a remuneração direta às SES e às SMS para a execução das ações de média e
+alta complexidade em Visa foi formalizada posteriormente nos procedimentos da
+Portaria SAS nº 18, de 21 de janeiro de 1999, embora dependessem ainda de
+publicação posterior com a definição de seus componentes e valores.
+
+Conforme já adiantado, com a edição da Portaria GM/MS nº 1.882, de 18 de
+dezembro de 1997, foi extinto o PBVS, criando um novo incentivo às ações básicas
+de vigilância sanitária, o PAB — Visa, que consistia em um montante de recursos
+financeiros destinado ao incremento das ações básicas de fiscalização e controle
+sanitário de produtos, serviços e ambientes sujeitos à ação da Visa, bem como às
+atividades de educação em vigilância sanitária.
+
+A referida portaria criou o Piso da Atenção Básica (PAB), um montante de recursos
+financeiros destinado exclusivamente ao custeio de procedimentos e ações de
+atenção básica à saúde, que seria composto por uma parte fixa, destinada à
+assistência básica e de uma parte variável, relativa aos incentivos para o
+
+desenvolvimento de ações no campo especifico da atenção básica.
+
+Os valores relativos ao PAB deveriam ser transferidos aos municípios de forma
+regular e automática do Fundo Nacional de Saúde (FNS) para o Fundo Municipal de
+Saúde (FMS). Só seriam transferidos valores aos Fundos Estaduais de Saúde
+(FES), em caráter provisório, exclusivamente para a cobertura da população
+residente em municípios não habilitados. O critério per capita foi escolhido para a
+30
+
+alocação da parte fixa do PAB, portanto, cada município receberia o equivalente ao
+valor per capita definido, multiplicado pela sua população.
+
+Os critérios e os requisitos para a qualificação dos municípios ao incentivo às ações
+básicas de vigilância sanitária foram estabelecidos na Portaria nº 2.283, de 10 de
+março de 1998. Nela foi definido um valor de R$ 0,25 (vinte e cinco centavos) por
+habitante/ano a ser repassado a cada município habilitado em gestão plena da
+atenção básica.
+
+Brito (2007, p. 46), acertadamente, analisa que, embora com um valor baixo e
+abrangendo apenas as ações básicas de Visa no âmbito municipal, “o pagamento do
+PAB variável para a vigilância sanitária representou uma medida concreta no sentido
+de colocar na ordem do dia o debate sobre as responsabilidades e as parcerias
+necessárias para o desenvolvimento das ações de Visa nas três esferas de
+governo”.
+
+É importante ressaltar que a NOB 96 diversificou os mecanismos e os fluxos de
+financiamento, reduzindo a remuneração contra a prestação de serviços e
+ampliando as transferências (fundo a fundo) com base na programação do uso dos
+recursos (MELAMED; COSTA, 2003).
+
+Através da NOAS 01/2001 e NOAS 01/2002 foram regulamentadas regras para a
+regionalização e a hierarquização do sistema de saúde, conforme afirma De Seta
+(2007), trava-se de “uma tentativa de se reforçar a instância estadual e a
+cooperação horizontal e vertical entre os entes federados”.
+
+Os critérios de habilitação foram atualizados. A NOAS 01/2001 instituiu a Gestão
+Plena da Atenção Básica Ampliada (GPAB-A) como uma das condições de gestão
+do sistema municipal e modificou o Piso de Atenção Básica, ampliando as atividades
+contempladas, que passou a denominar-se PAB — Ampliado (PAB-A). À semelhança
+do que ocorria com o PAB, era composto por uma parte fixa e outra variável, relativa
+aos incentivos (BARROS, 2003).
+
+A NOAS 01/2002 trouxe a vigilância sanitária apenas como um dos requisitos para
+31
+
+habilitação dos municípios às condições de gestão estabelecidas (SOLLA; COSTA,
+2007). Apesar dos aspectos acima levantados, estas duas normas não
+apresentaram mudanças significativas no tocante ao financiamento das ações de
+
+vigilância sanitária.
+
+3.2. A criação da Anvisa, o Termo de Ajuste de Metas (TAM) e as mudanças
+
+nas transferências federais.
+
+Outro importante momento de inflexão no financiamento da vigilância sanitária inicia-
+se em 1999, com a edição da Lei nº 9.782, que cria a Agência Nacional de Vigilância
+Sanitária (Anvisa). Autarquia especial, vinculada ao Ministério da Saúde,
+coordenadora do Sistema Nacional de Vigilância Sanitária (SNVS), com a
+responsabilidade de prestar cooperação técnica e financeira aos estados, municípios
+e Distrito Federal, a agência passou a conduzir o processo de descentralização e a
+discussão dos mecanismos de financiamento, papel que até então era
+desempenhado pela Secretaria de Vigilância Sanitária do Ministério da Saúde.
+
+A descentralização das ações de vigilância sanitária, iniciada com NOB 96, foi
+intensificada com a redistribuição para os estados dos recursos arrecadados pela
+Anvisa e com a regulamentação do financiamento das ações de média e alta
+complexidade em vigilância sanitária através do Termo de Ajuste de Metas (TAM).
+
+O ano de 2000 foi marcado por importantes avanços para o processo de
+descentralização e financiamento das ações de vigilância sanitária. Com o objetivo
+de consolidar a implantação de mecanismos de financiamento e de pactuação de
+compromissos da esfera federal com os Estados foram editadas a portaria ministerial
+nº 1.008, de 08 de setembro de 2000, e a Portaria Conjunta nº 874, de 20 de
+novembro de 2000.
+
+A portaria nº 1.008 veio regulamentar as transferências fundo a fundo para o
+financiamento das ações de média e alta complexidade executadas por estados,
+
+municípios e Distrito Federal. Tal marco normativo representou um avanço, pois
+32
+
+ampliou a abrangência da descentralização, até então restrita às ações de atenção
+básica através do PAB variável.
+
+Além de definir o montante de recursos a ser transferido pela esfera federal, no ano
+de 2000, para o financiamento das ações de média e alta complexidade (R$
+26.345.312,00), a portaria nº 1.008 estabeleceu o Termo de Ajuste de Metas como o
+instrumento para pactuação das ações.
+
+Mediante a pactuação de metas, envolvendo ações de fiscalização, de
+desenvolvimento de recursos humanos, de desenvolvimento e implantação de
+sistema de informação e de fortalecimento dos laboratórios, dentre outras, o TAM
+viabilizou o repasse de recursos financeiros adicionais, fundo a fundo, para que os
+estados executassem mais ações de vigilância sanitária. Quatro anos depois, em
+2004, os municípios foram incorporados à lógica do TAM
+
+É importante destacar que o Termo de Ajuste de Metas foi o instrumento de
+planejamento que viabilizou o processo de descentralização das ações de média e
+alta complexidade em Visa. Sua construção foi negociada entre os gestores do SUS
+(inicialmente apenas União e estados) e proporcionou melhores condições de
+gestão no âmbito da vigilância sanitária (BRASIL, 2006d).
+
+Pela portaria nº 1.008, os recursos financeiros destinados a cada unidade federada
+eram constituídos de um valor de R$ 0,15 por habitante/ano, acrescido de um valor
+proporcional à arrecadação da Taxa de Fiscalização em Vigilância Sanitária — TFVS
+(b), por fato gerador, apurado em cada unidade federada. Estabeleceu-se ainda um
+piso financeiro de R$ 420.000,00 para as unidades federadas com população inferior
+a cinco milhões de habitantes.
+
+Do valor destinado às unidades federadas, ficou estabelecida a quantia de R$ 0,06
+(seis centavos) per capita a ser utilizada a título de incentivo à municipalização das
+ações de Visa. A norma ainda coloca que se as ações pactuadas forem de
+responsabilidade preferencial dos estados ficaria estabelecido o valor de R$ 0,09
+(nove centavos) per capita para repasse a municípios.
+33
+
+Note-se que não foi estabelecido nessa portaria um montante de recursos a ser
+diretamente transferido pela União aos municípios. O repasse direto do ente federal
+ficou restrito aos estados. Aos municípios apenas coube receber uma parte dos
+recursos destinados aos estados a título de incentivo à municipalização e ainda
+assim dependiam de pactuação e do cumprimento de critérios por parte dos
+municípios, tais como: estar habilitado nas condições de gestão estabelecidas na
+NOB 96, comprovar a capacidade técnica para execução das ações de Visa por
+nível de complexidade, possuir equipe técnica que atendesse às necessidades de
+cobertura local, comprovar a existência de estrutura administrativa responsável
+
+pelas ações de Visa e abrir conta específica vinculada ao fundo municipal de saúde.
+
+Isto implicou na fragilização do financiamento para o ente municipal uma vez que, ao
+contrário do que ocorria com os repasses do PAB-VISA, onde as transferências do
+governo federal ocorriam diretamente do FNS para o FMS, inicialmente, no TAM não
+havia recursos diretamente destinados aos municípios. Em havendo capacidade
+técnica para execução das ações de média e alta complexidade em Visa o recurso
+recebido pelo município era parte daquele destinado aos estados.
+
+Na portaria conjunta nº 874/MS, de 29 de novembro de 2000, foi regulamentado o
+repasse relativo às taxas de fiscalização de vigilância sanitária — TFVS, por fato
+gerador. O critério definido para a distribuição dos R$ 17.250.000,00, então
+aprovado pela portaria, foi o número de estabelecimentos sujeitos à vigilância
+sanitária fornecido pela Relação Anual de Informações Sociais — RAIS combinado
+com o cadastro de estabelecimentos empregadores — CEE do Ministério do Trabalho
+e Emprego.
+
+Aqui também foi previsto que os recursos somente poderiam ser utilizados nas
+ações de Visa previstas nos Termos de Ajustes de Metas, aprovados em reuniões
+plenas das Comissões Intergestores Bipartites — CIB, e assinados entre a Anvisa e
+as unidades federadas. O repasse destes recursos seria efetuado através do Fundo
+Nacional de Saúde para os fundos estaduais e distritais de saúde, em única parcela,
+em uma conta específica da Visa. Apenas mediante deliberação da CIB, o FNS
+poderia transferir os recursos do incentivo à descentralização das ações de Visa
+
+diretamente aos fundos municipais.
+34
+
+Perceba-se que não se adota a distribuição per capita para a alocação do recurso.
+Ademais, o critério utilizado também não implica em uma divisão equitativa com
+base nas necessidades de saúde da população. Isso, contudo, não impedem que se
+reconheçam os avanços trazidos por essas duas portarias do ano de 2000.
+
+No ano de 2001, foram editadas outras duas portarias, regulamentando o repasse
+para a execução das ações de média e alta complexidade em Visa nos estados,
+municípios e Distrito Federal, sendo elas a Portaria/MS/nº 145, de 31 de janeiro de
+2001, e a Portaria Conjunta/MS/ANVISA/nº 151, de 24 de setembro de 2001.
+
+Não houve muitas alterações com relação às portarias editadas no ano anterior. A
+mudança essencial foi o estabelecimento de um novo critério para obtenção do valor
+nominal proporcional à arrecadação da TFVS, por fato gerador. Agora, as unidades
+seriam estratificadas segundo o número de estabelecimentos sujeitos à fiscalização
+sanitária presentes em sua área geográfica agrupadas por macro-setores de
+atuação (medicamentos, alimentos e tecnologia em saúde). No total, as normas
+previam o repasse de R$ 50.863.542,70 para as ações de média e alta
+complexidade em Visa, sendo R$ 23.900.000,00 relativos ao TFVS — Fato Gerador.
+
+Os anos de 2002 e 2003 tampouco assistiram a alterações significativas quanto aos
+critérios para alocação dos recursos, bem como aos mecanismos utilizados para
+transferência (fundo a fundo). Contudo, através da edição da Resolução da Diretoria
+Colegiada - RDC nº 200, de 12 de julho de 2002, foram estabelecidas novas normas
+para a aplicação e o controle dos recursos transferidos fundo a fundo para estados,
+Distrito Federal e municípios para financiamento das ações de média e alta
+complexidade em Visa.
+
+Tais normas vedaram a utilização do recurso repassado em ações diversas
+daquelas pactuadas no TAM, ou seja, vincularam a utilização do recurso, o que
+implicou na redução da autonomia do gestor. Ainda foi estabelecido que a
+comprovação da utilização do recurso se daria através da apresentação à Anvisa de
+relatórios de acompanhamento trimestral e de gestão anual que contemplassem a
+execução física, a avaliação dos resultados alcançados no período e a execução
+financeira do recurso transferido e da respectiva contrapartida.
+35
+
+Num primeiro momento com financiamento restrito a estados e Distrito Federal, em
+2004, com a repactuação prevista na Portaria nº 2.473, de 29 de dezembro de 2008,
+os municípios foram incorporados ao TAM. Como estímulo à adesão dos municípios
+para a execução das ações de média e alta complexidade em vigilância sanitária —
+MACANISA, foi estabelecido o repasse direto de recursos do Fundo Nacional de
+Saúde para os Fundos Municipais de Saúde, sendo os mesmos aplicados em conta
+especifica para a Visa (recurso rubricado), mediante a aprovação da CIB e
+homologação na CIT.
+
+Aqueles municípios que pactuassem a realização das ações de média e alta
+complexidade receberiam do ente federal um valor de R$ 0,10 por habitante/ano que
+seria deduzido do teto global do estado e um valor per capita/ano de mesmo valor a
+ser alocado pela Anvisa. Os recursos do TAM transferidos aos municípios, que até
+então se limitavam à parte daquilo que era transferido pela União aos estados,
+passou a contar com um montante extra, oriundo diretamente do órgão sanitário
+federal.
+
+A ampliação do repasse financeiro do MAC-VISA contribuiu para a incorporação do
+gestor municipal ao Sistema Nacional de Vigilância Sanitária e favoreceu a
+coordenação das ações de Visa. Dessa forma, ampliou-se a capacidade de
+cumprimento das atividades pactuadas pelos órgãos estaduais e municipais de
+vigilância sanitária, de acordo com os critérios e parâmetros definidos pela Portaria
+GM/MS nº. 2.473/2003 (BRASIL, 2005)
+
+Além da ampliação do incentivo financeiro para o custeio das ações de média e alta
+complexidade, que passou a contemplar repasses diretos para os municípios, o ano
+de 2004 foi marcado pela criação do fundo de compensação em Visa.
+
+O fundo de compensação era composto pelos valores correspondentes aos saldos
+financeiros livres relativos aos recursos transferidos aos estados, municípios e ao
+Distrito Federal, que não foram executados no cronograma pactuado. Se os
+recursos que ficaram em conta bancária depois de excluídos aqueles empenhados e
+os comprovadamente comprometidos pelas unidades federadas ultrapassassem
+36
+
+40% dos valores liberados no período de seis meses, o saldo era bloqueado e
+direcionados para o fundo de compensação em Visa.
+
+Estes recursos eram então destinados às atividades de fortalecimento da vigilância
+sanitária realizadas pelos Estados, Municípios ou Distrito Federal. Conforme previsto
+na portaria, os critérios de elegibilidade e acesso aos recursos do fundo de
+compensação seriam propostos pelo Comitê Consultivo de Vigilância Sanitária da
+CIT e aprovados pelo plenário da CIT.
+
+O que se percebe com a análise destas normas é que o Termo de Ajuste de Metas
+trouxe para o Sistema Nacional de Vigilância Sanitária uma nova fonte de recursos
+para financiar suas ações, bem como representou o surgimento de um mecanismo a
+ser utilizado pelos gestores para a elaboração do planejamento estratégico e das
+programações. O TAM veio a reforçar o processo de descentralização e representou
+um real incremento no montante de recursos financeiros transferidos aos entes
+subnacionais.
+
+Conforme assinala Brito (2007), apesar dos avanços, alguns fatores contribuíram
+para uma baixa adesão ao TAM. A pactuação com os estados e municípios ocorria
+sem respeitar as diferenças entre as diversas regiões do país e o critério utilizado
+(per capita) para a alocação dos recursos financeiros tinha baixo poder indutivo, uma
+vez que se revelavam insuficientes para o desenvolvimento adequado das ações
+propostas. Na avaliação da Anvisa (BRASIL, 2006c), isso provocava um
+descompasso entre as responsabilidades a serem assumidas na gestão dos
+serviços de média e alta complexidade em Visa e o volume de recursos destinados a
+esta execução.
+
+Novas mudanças no financiamento federal das ações de saúde surgem com o Pacto
+pela Saúde, como descrito no item a seguir. Perceberemos o esforço do governo
+
+federal em minimizar os problemas acima referidos.
+37
+
+3.3. O Pacto pela Saúde e suas implicações no financiamento das ações de
+
+vigilância sanitária
+
+Para falar em financiamento federal da saúde e mais especificamente da vigilância
+sanitária, é impossível não nos remetermos ao Pacto pela Saúde 2006, indutor das
+mais recentes mudanças ocorridas no sistema de saúde brasileiro. Formalizado pela
+Portaria GM/MS nº. 399/2006, ele engloba o Pacto pela Vida, o Pacto em Defesa do
+SUS e o Pacto de Gestão.
+
+As diretrizes operacionais do Pacto pela Saúde reconhecem a significativa evolução
+do SUS no tocante ao processo de descentralização e municipalização das ações e
+serviços de saúde. É perceptível a intenção de se refletir a complexidade envolvida
+na gestão deste sistema em um país com dimensões continentais composto por
+estados federados que vivenciam realidades sociais, políticas e administrativas tão
+dispares.
+
+Este documento, resultante de um processo de discussão que envolveu as três
+esferas de gestão na Comissão Intergestores Tripartite (CIT), buscou superar a
+fragmentação das políticas e programas de saúde, vigentes até então, através da
+formalização de um pacto no qual cada uma das esferas de governo assume, de
+maneira negociada, parte da responsabilidade pela saúde da população (BRASIL,
+2006b). Os gestores também se comprometem a desenvolver ações comuns a fim
+de garantir o cumprimento das prioridades previstas nos seus três componentes:
+Pacto pela Vida, Pacto em Defesa do SUS e Pacto de Gestão do SUS.
+
+Sua implementação se dá pela adesão ao Termo de Compromisso de Gestão (TCG)
+que substitui os processos de habilitação das várias formas de gestão anteriormente
+vigentes? e estabelece metas e compromissos de impacto sobre a situação de saúde
+da população para cada ente da federação. Este novo modelo de pactuação ainda
+estabelece a regionalização como eixo estruturante do processo de descentralização
+
+O Pacto manteve as prerrogativas e responsabilidades dos municípios e estados contidas na Norma
+Operacional Básica — NOB 01/96 e na Norma Operacional da Assistência à saúde — NOAS 01/2002
+enquanto os entes federados não firmassem o Termo de Compromisso de Gestão (TCG) (SANTOS;
+ANDRADE, 2007)
+38
+
+e integra as várias formas de repasse de recursos financeiros no formato de blocos
+
+de financiamento.
+
+Conforme afirmam Santos e Andrade (2007, p. 83):
+
+“(...) o pacto vem a ser o novo instrumento para a gestão compartilhada do
+SUS, e algumas das reivindicações dos gestores de estados e municípios,
+como o reconhecimento da autonomia, são consideradas, deixando, assim,
+de existir as “habilitações” que, teoricamente, implicavam a “permissão” do
+Ministério da Saúde para que o município e o estado fossem reconhecidos
+como gestores da saúde em seus territórios. Em substituição à
+“habilitação”, é instituído o termo de compromisso, instrumento que vai
+formalizar os acordos e os pactos entre os gestores da saúde”.
+
+O Pacto pela Vida se assenta em torno de um conjunto de compromissos sanitários,
+firmados pelas três esferas de gestão do SUS, que visam melhorar a situação de
+saúde da população. Foram estabelecidas como prioridades: a saúde do idoso, o
+controle do câncer de colo de útero e de mama, a redução da mortalidade infantil e
+materna, o fortalecimento da capacidade de resposta a doenças emergentes e
+endemias, a promoção da saúde e o fortalecimento da atenção básica (Brasil,
+2006b).
+
+O Pacto em Defesa do SUS expressa os compromissos dos gestores em
+desenvolver e articular ações que visem qualificar e assegurar o SUS como política
+pública. Ele deve ser firmado na repolitização da saúde, aproximando-a dos atuais
+desafios do SUS, na promoção da cidadania como estratégia de mobilização social
+de forma a reforçar a saúde como um direito do cidadão e na garantia de
+financiamento de acordo com as necessidades do sistema (contempla a
+regulamentação da Emenda Constitucional - EC nº. 29 e a aprovação do orçamento
+do SUS, composto pelos orçamentos das três esferas de gestão). Prevê-se ainda o
+estabelecimento de diálogo com a sociedade, a ampliação e o fortalecimento das
+relações com os movimentos sociais, em especial os que lutam pelos direitos da
+saúde e cidadania e o estabelecimento e a divulgação dos Direitos dos Usuários do
+sus.
+
+Já o Pacto de Gestão estabelece as responsabilidades dos entes federativos e
+39
+
+explicita, dentro das competências concorrentes, o que cada um deve realizar,
+reconhecendo, assim, as grandes diferenças locais e regionais do país (SANTOS;
+ANDRADE, 2007). De forma adicional, define diretrizes para a gestão do sistema
+nos aspectos da descentralização, regionalização, financiamento, planejamento,
+programação pactuada integrada (PPI), regulação, participação e controle social,
+gestão do trabalho e educação em saúde.
+
+Enfocando o financiamento, objeto deste estudo, o Pacto reforça a disposição
+constitucional e da lei orgânica da saúde de estabelecer como princípio geral do
+financiamento para o Sistema Único de Saúde a responsabilidade das três esferas
+de gestão. A modalidade preferencial de transferência de recursos entre gestores
+deve ser o repasse fundo a fundo e o método de alocação de recursos deveria
+contribuir para a redução das iniquidades macrorregionais, estaduais e regionais.
+
+Muitas foram as mudanças no financiamento federal das ações de saúde
+decorrentes do Pacto. A portaria GM/MS nº. 204, de 29 de janeiro de 2007,
+regulamentou estas inovações e estabeleceu que os recursos federais destinados às
+ações e aos serviços de saúde passariam a ser organizados e transferidos na forma
+de blocos de financiamento, cada um deles constituído de componentes, conforme
+as especificidades de suas ações e dos serviços de saúde pactuados.
+
+Como pode ser aferido na norma, a criação dos blocos de financiamento simplificou
+a quantidade de contas para transferência de recursos aos entes sub-nacionais e
+buscou ampliar a autonomia dos gestores com relação aos gastos em saúde.
+
+Foram constituídos cinco blocos de financiamento para o custeio das ações de
+saúde em substituição às mais de cem “caixinhas” que eram utilizadas para essa
+finalidade, sendo eles: Atenção Básica; Atenção de Média e Alta Complexidade
+Ambulatorial e Hospitalar; Vigilância em Saúde; Assistência Farmacêutica; e Gestão
+do SUS.
+
+Os recursos federais que compõem cada bloco de financiamento passam a ser
+transferidos aos estados, ao Distrito Federal e aos municípios, fundo a fundo, em
+40
+
+conta única e específica para cada bloco de financiamento e devem ser aplicados
+nas ações e serviços de saúde relacionados ao próprio bloco.
+
+Com o Pacto, os recursos federais destinados às ações da vigilância sanitária
+passam a compor o bloco da Vigilância em Saúde junto com os recursos da
+vigilância epidemiológica e ambiental em saúde. Dessa forma, o limite financeiro
+deste bloco veio a ser composto pelos componentes da vigilância epidemiológica e
+ambiental e da vigilância sanitária em saúde, sendo o componente da vigilância
+sanitária constituído pelo teto financeiro de vigilância sanitária (TFVISA - MAC Visa,
+PAB Visa) e pelas taxas de fiscalização (TX Visa).
+
+Conforme determina a portaria de regulamentação, os recursos deste bloco devem
+ser utilizados de acordo com a Programação Pactuada Integrada (PPI) e com os
+Planos de Saúde. Cabe destacar que, a PPI foi posteriormente substituída pela
+Programação das Ações Prioritárias de Vigilância em saúde (PAP-VS) que por sua
+vez resultou da revisão e unificação dos indicadores dos extintos Pacto da Atenção
+Básica e da própria PPI-VS.
+
+Mesmo com as mudanças no financiamento da saúde, em 2007, as fontes de
+custeio das ações de Visa permaneceram com as denominações TAM-MAC VISA,
+destinado às ações consideradas de média e alta complexidade, e PAB VISA,
+destinados às ações da atenção básica”. Entretanto, é importante lembrar que a
+nova estrutura das ações a ser pactuada em Vigilância Sanitária não obedecerá
+mais a essa classificação de complexidade prevista na NOB/96, estando às mesmas
+dispostas em um “Elenco Norteador de Ações de Visa” para a elaboração das
+respectivas programações estaduais ou municipais. Esta referência é composta por
+dois grupos de ação - estruturação e fortalecimento da gestão e ações estratégicas
+para o gerenciamento do risco sanitário -, conforme detalhado nos quadros a seguir
+(BRASIL, 20071).
+
+* Em 2008, o repasse já ocorre com a nova denominação estabelecida na Portaria GM/MS nº 1.998, de 21 de
+agosto de 2007, ou seja, Piso Estratégico e Piso Estruturante.
+Quadro 01
+
+41
+
+Grupo |: Ações para a estruturação e fortalecimento da gestão
+
+ÁREADE |
+ESTRUTURAÇÃO
+
+1. Estrutura legal
+
+PARÂMETROS
+
+Profissional ou equipe de VISA investida na função por ato legal.
+
+Instrumento legal de criação da VISA, com definição de atribuições
+
+e competências.
+
+Inclusão na estrutura organizacional da respectiva Secretaria de
+Saúde.
+
+Código Sanitário ou instrumento que viabilize a utilização de
+legislação estadual e/ou federal.
+
+ 
+
+2. Estrutura física e
+recursos materiais
+
+Espaço físico para o desenvolvimento das atividades.
+
+Canais de comunicação: telefone/fax/internet.
+
+ 
+
+Equipamentos específicos para fiscalização, impressos (termos
+legais).
+
+ 
+
+ 
+
+3. Estrutura
+administrativa e
+operacional
+
+4. Gestão de pessoas
+
+Cadastro de estabelecimentos sujeitos à vigilância sanitária.
+Sistema de informação.
+
+Normas para padronização de procedimentos administrativos e
+fiscais.
+
+Profissional ou equipe de VISA em número adequado ao
+desenvolvimento das atividades.
+
+ 
+
+ 
+
+Plano de Capacitação.
+
+ 
+
+Fonte: Núcleo de Assessoramento em Descentralização das Ações de VISA (NADAV/Anvisa), 2008.
+42
+
+QUADRO 02
+Grupo Il: Ações estratégicas para o gerenciamento do risco sanitário
+
+INTERVENÇÃO
+1. Produtos, serviços e | Inspeção sanitária.
+ambientes de interesse
+
+ 
+
+à saúde Coleta de amostra para análise.
+
+Notificação.
+Investigação.
+
+Atividade educativa para profissionais do setor regulado.
+
+ 
+
+ 
+
+ 
+
+2. Educação e Elaboração de materiais educativos.
+
+comunicação em Divulgação de alerta sanitário.
+
+saúde para a
+
+sociedade Atendimento à denúncia/ reclamação.
+
+3. Ações integrais de Ações de notificação, investigação e inspeção conjuntas com a
+
+saúde Vigilância Epidemiológica, Ambiental, Saúde do Trabalhador e
+Assistência.
+Participação nos processos de educação destinados às equipes de
+saúde da família e agentes comunitários de saúde.
+
+ 
+
+ 
+
+ 
+
+4. Ações intersetoriais | Ações de intervenção no risco sanitário em parceria com Agricultura,
+Saneamento, Educação, Meio Ambiente, Ciência e Tecnologia, etc.
+
+5. Ações laboratoriais | Fomentar estrutura laboratorial para ações de monitoramento de
+produtos.
+
+ 
+
+Fonte: Núcleo de Assessoramento em Descentralização das Ações de VISA (NADAV/Anvisa), 2008.
+
+Ao prever a possibilidade dos recursos de um componente serem utilizados nas
+ações de outro, bem como a possibilidade de remanejamento de recursos entre os
+blocos, a Portaria GM/MS nº 204/2007 se propõe a contribuir para que os gestores
+de saúde tenham maior flexibilidade para alocar os recursos de acordo com as
+necessidades de saúde da população de seu estado ou município. Da mesma forma
+que proporciona maior flexibilidade à gestão e reforça o sentido da descentralização
+do SUS e a autonomia dos gestores, tal mudança também pode representar uma
+ameaça à alocação de recursos para financiar as ações de vigilância sanitária uma
+vez que seus recursos poderiam ser utilizados nas ações de vigilância
+epidemiológica e ambiental.
+43
+
+A regulamentação do componente de vigilância sanitária do bloco de vigilância em
+saúde ocorre com a edição da Portaria GM/MS nº 1.998, de 21 de agosto de 2007.
+Além de definir o montante a ser repassado aos estados, municípios e Distrito
+Federal no período de junho a dezembro de 2007, a referida portaria estabeleceu a
+composição do componente vigilância sanitária do bloco da vigilância em saúde.
+Com recursos oriundos do Programa de Governo “Vigilância Sanitária de Produtos,
+Serviços e Ambientes” do Fundo Nacional de Saúde e da Agência Nacional de
+Vigilância Sanitária, este relativo às taxas de fiscalização arrecadadas pela
+autarquia, ficou definido que o Teto Financeiro de Vigilância Sanitária (TFVISA)
+passa a ser constituído do piso estratégico e do piso estruturante, sendo este último
+destinado apenas aos municípios.
+
+O piso estruturante, focado em elementos de estrutura para o funcionamento dos
+serviços, foi então composto pelos recursos financeiros oriundos do Piso da Atenção
+Básica da Vigilância Sanitária (PAB/VISA) e das Taxas de Fiscalização de Vigilância
+Sanitária arrecadadas pela ANVISA mediante a prestação de serviços. Já o piso
+estratégico, focado no gerenciamento do risco sanitário, foi composto pelos recursos
+financeiros oriundos das ações básicas de Média e Alta Complexidade em Vigilância
+Sanitária (MAC/VISA) e pela taxas de fiscalização de VISA.
+
+A partir dessa nova regulamentação, o recurso destinado a compor o Teto
+Financeiro de Vigilância Sanitária dos Estados passa a ser calculado a partir do piso
+estratégico que corresponde ao valor de R$ 0,21 (vinte e um centavos) por
+habitante/ano ou pelo Piso Estadual de Vigilância Sanitária, no valor de R$
+450.000,00 (quatrocentos e cinquenta mil reais) para unidades federadas com até
+2.142.587 habitantes, ou seja, de baixa densidade populacional.
+
+O Teto Financeiro de Vigilância Sanitária do Distrito Federal é composto de piso
+estruturante, de R$ 0,36 (trinta e seis centavos) por habitante/ano, e piso
+estratégico, calculado pelo valor de R$ 0,21 (vinte e um centavos) por habitante/ano
+e Taxa de Fiscalização de Vigilância Sanitária.
+
+Para os municípios são repassados os pisos estruturante e estratégico. O piso
+estruturante é calculado pelo valor de R$ 0,36 (trinta e seis centavos) por
+44
+
+habitante/ano ou pelo Piso Municipal de Vigilância Sanitária, no valor de R$ 7.200,00
+(sete mil e duzentos reais) por ano para municípios cujo valor per capita configurar
+um teto abaixo desse valor (ou seja, municípios com até 20 mil habitantes) e
+compõe o segmento Estruturante do Elenco Norteador das Ações de VISA. Como
+fator de incentivo à descentralização, ao município também será repassado o piso
+estratégico, calculado pelo valor de R$ 0,20 (vinte centavos) por habitante/ano,
+independente do valor repassado ao Estado, se pactuados na Comissão
+Intergestores Bipartite (CIB), conforme critérios que compõem o segmento de
+Gerenciamento de Risco do Elenco Norteador das Ações de VISA.
+
+Aqui fica claro o aumento no valor per capita repassado aos estados, municípios e
+Distrito Federal tendo em vista que no TAM MAC-VISA o valor per capita era de R$
+0,15 habitante/ano (com piso de R$ 420.000,00 para estados com menos de 5
+milhões de habitantes), sujeito ainda a redução de parte deste valor como incentivo
+à municipalização, e no PAB era de R$ 0,25 habitante/ano.
+
+A diretora da Anvisa, Maria Cecília Martins de Brito, avalia (notícia publicada em
+10/09/07 na página interna da Agência) que “o piso estruturante de vigilância
+
+sanitária é uma grande conquista. Significa um avanço sobre os valores pouco
+
+significativos recebidos anteriormente pelos pequenos municípios”.
+
+É importante destacar que os recursos financeiros destinados aos estados, além de
+serem aplicados na execução das ações de vigilância sanitária, também devem
+contemplar a coordenação e acompanhamento das vigilâncias sanitárias municipais.
+No tocante aos municípios, os recursos servem para a estruturação dos serviços e
+para a execução das ações pactuadas através do Plano de Ação. (BRASIL, n.d)
+
+Para receber o repasse, os estados e os municípios devem possuir um
+planejamento quadrienal, com planos de ação para cada ano, aprovados pelos
+conselhos de saúde. E esses planos devem estar articulados com as prioridades
+estabelecidas nos Planos de Saúde, e pactuados nas CIB, fortalecendo o papel
+destes fóruns no aprimoramento do Sistema Único de Saúde (SUS).
+45
+
+No contexto do Pacto pela Saúde, em 2006, também surge o Plano Diretor de
+Vigilância Sanitária (PDVISA). Construído no intuito de representar o instrumento de
+eleição das prioridades em Visa e fortalecer o SNVS, o PDVISA se articula com as
+diretrizes do Pacto e prevê a construção de um instrumento de planejamento,
+negociação e cooperação pactuada, o Plano de Ação em Visa. Integrado com o
+Plano de Saúde, o Plano de Ação estabelece o elenco de ações a serem
+desenvolvidas pelos entes sub-nacionais, as metas e os resultados esperados, os
+meios de verificação, bem como os recursos financeiros para custeio e investimento
+das ações da Visa e os responsáveis e as parcerias necessárias para execução
+destas ações. O Plano de Ação passou, portanto, a ser o mecanismo de
+operacionalização do PDVISA e parte integrante do Termo de Compromisso de
+Gestão previsto no Pacto. (BRITO, 2007)
+
+Ainda em 2007, surgem (aparentemente) duas novas fontes de recurso para as
+ações da vigilância sanitária focadas no incentivo a laboratórios da Rede Nacional
+de Laboratórios de Vigilância Sanitária.
+
+O primeiro marco normativo deste incentivo foi a Portaria GM/MS nº 3.202, de 18 de
+dezembro de 2007. Através dela foi regulamentado o incentivo financeiro destinado
+aos Laboratórios Centrais de Saúde Pública (Lacen), prevendo o montante de R$
+16.720.000,00 no ano. O valor do incentivo financeiro varia de acordo com o porte e
+o nível do laboratório (estágio de implementação do sistema de qualidade atual e
+capacidade técnica e operacional instalada) e é transferido pelo Fundo Nacional de
+Saúde, fundo a fundo, em parcela única, para os estados e Distrito Federal.
+
+O incentivo tem a finalidade de fortalecer a estruturação dos laboratórios de saúde
+pública para que possam realizar as ações laboratoriais demandadas pelas ações
+das vigilâncias sanitárias. Tais recursos são oriundos dos saldos do Piso Estratégico
+não pactuado pelos municípios e têm efeitos financeiros retroativos à novembro de
+2007, ou seja, neste caso a norma deixa evidente não se tratar de recurso novo para
+a Visa, uma vez que decorre da impossibilidade de repasse para municípios face a
+não pactuação.
+46
+
+O segundo marco legal foi a Portaria GM/MS nº 3.271, de 27 de dezembro de 2007.
+Aqui é regulamentado o incentivo financeiro destinado aos Laboratórios de Saúde
+Pública (Finlacen-Visa) com vistas à execução das ações de vigilância sanitária.
+Utilizando-se do mesmo critério de alocação de recurso da portaria anterior (porte e
+nível do laboratório), os repasses neste caso ocorrerem mensalmente, mas de forma
+automática e regular, fundo a fundo, aos estados e Distrito Federal. Aqui o objetivo
+também é contribuir para a estruturação dos laboratórios de saúde pública de forma
+a possibilitar que executem programas de monitoramento de produtos de risco e
+estabeleçam padrões de qualidade/segurança de produtos regionais e de outros
+produtos de interesse da saúde, definidos com os serviços de vigilância sanitária
+estadual e municipal.
+
+Apesar de o incentivo ser destinado aos laboratórios estaduais e do Distrito Federal,
+os laboratórios municipais de saúde pública podem pactuar, na Comissão
+Intergestores Bipartite (CIB), a realização de ações laboratoriais em Visa. A portaria
+também possibilita aos laboratórios que se tornem referência nacional e regional da
+Rede Nacional de Vigilância do SISLAB, podendo vir a receber de recursos
+adicionais. O montante a ser repassado previsto na portaria era de R$
+25.080.000,00.
+
+Em 2008, é editada a Portaria nº 133, de 21 de janeiro de 2008, que atualiza a
+regulamentação dos repasses de recursos financeiros federais do componente
+vigilância sanitária do bloco de financiamento da vigilância em saúde. Apesar da
+denominação “atualiza” a legislação não traz nada de novo aos mecanismos de
+transferência e alocação de recursos, apenas determina o montante total a ser
+
+transferido no ano.
+
+Neste mesmo ano, é editada uma regulamentação da Anvisa que traz novidades e
+certa controvérsia para o financiamento da Visa. Através da Resolução da Diretoria
+Colegiada RDC nº 3, de 28 de janeiro de 2008, a Anvisa tenta estabelecer normas
+sobre a aplicação, o controle e o acompanhamento dos recursos federais
+transferidos fundo a fundo para estados, municípios e Distrito Federal.
+47
+
+Contrariando o estabelecido no art. 19 da Portaria GM/MS nº 204/2007, o qual
+claramente determina que os recursos de um componente do bloco podem ser
+utilizados nas ações de outro componente, a referida resolução, tenta vincular
+recursos para execução nas ações de Visa, conforme pode ser percebido em seu
+art. 1º “os repasses do Teto Financeiro de Vigilância Sanitária (TFVISA) e o fator de
+incentivo financeiro para os laboratórios de saúde pública da rede nacional de
+laboratórios da vigilância sanitária (Finlacen-Visa) do componente de vigilância
+sanitária no bloco de financiamento de vigilância em saúde, transferidos fundo a
+fundo, deverão ser aplicados na execução das ações de vigilância sanitária
+contempladas nos planos de saúde” (grifos nossos)
+
+De forma adicional, a resolução determinava que o acompanhamento da aplicação
+dos recursos financeiros por parte dos entes sub-nacionais deveria ser efetuado por
+meio de relatórios trimestrais a serem encaminhados ao Núcleo de Assessoramento
+de Descentralização de Ações de Vigilância Sanitária (NADAV), o que também
+contraria as determinações do Pacto que define ser o Relatório Anual de Gestão o
+instrumento para o acompanhamento da execução destes recursos (art. 39 da
+Portaria nº 204/2007).
+
+Após questionamentos do Conselho Nacional de Secretarias Municipais de Saúde
+(Conasems) sobre a legalidade e legitimidade da Agência quanto à edição e ao
+conteúdo da norma e mediante parecer da Procuradoria Federal da Agência
+(Parecer Cons. Nº 12/2008 — PROCR/ANVISA) a resolução é revogada.
+
+É importante destacar que o referido parecer reforça a competência da Anvisa para
+regulamentar e disciplinar questões especificas do ramo da vigilância sanitária
+acerca da aplicação, controle e acompanhamento dos recursos transferidos desde
+que não haja contrariedade às normas gerais emanadas por órgãos superiores.
+Contudo, vai ao encontro do entendimento do Conasems de que a norma contraria o
+estabelecido no Pacto ao tentar vincular recurso para as ações de Visa afirmando
+que a RDC nº 3, de 28 de janeiro de 2008, fere o determinado no art. 19 da Portaria
+nº 204/2007, bem como afirma que dada a plausibilidade do acompanhamento
+trimestral caberia a Agência buscar, ao menos, consensuar a decisão junto ao
+
+Conass e Conasems.
+48
+
+No final do mesmo ano é editada a portaria nº 3.080, de 23 de dezembro de 2008,
+regulamentando o repasse de recursos financeiros como incentivo à execução da
+ação referente à gestão de pessoas em vigilância sanitária. Utilizando como critério
+de repasse o Censo Nacional de Trabalhadores de vigilância sanitária de 2004,
+estratificado pela proporção de número de trabalhadores de Visa por estado, em três
+níveis, computados aqueles vinculados as esfera estadual e municipal, tal repasse
+previu a destinação de um montante da ordem de R$ 12.350.000,00 (doze milhões e
+trezentos e cinquenta mil reais). À semelhança do que ocorreu com os recursos
+destinados ao financiamento dos laboratórios, este não representa recurso novo e
+
+sim a tentativa de execução de recurso “antigo”.
+
+Tal recurso é destinado, prioritariamente, às equipes municipais de Visa, contudo o
+repasse é efetuado aos estados e Distrito Federal, em parcela única, fundo a fundo,
+e sua utilização deve estar em conformidade com a Política Nacional de Educação
+Permanente em Saúde, estabelecida através do disposto no art. 2º da Portaria
+GM/MS nº 1.996, de 20 de agosto de 2007. Aqui, apesar do critério utilizado para a
+alocação dos recursos fazer sentido (quem tem uma equipe maior ganha mais
+recurso para capacitar), reforça-se a manutenção de maiores repasses para as
+regiões mais ricas (exemplo: Rio de Janeiro e São Paulo), ou seja, mantêm a
+iniquidade na partição do recurso.
+
+É importante que se diga que as mudanças trazidas pelo Pacto (com a exceção da
+tentativa de vinculação promovida pela Anvisa através da RDC nº 3, de 28/01/2008)
+vêm ao encontro das proposições, relativas ao financiamento da saúde, dos
+participantes da | Conferência de Vigilância Sanitária. Na ocasião, houve um
+posicionamento no sentido de se garantir a autonomia dos estados e municípios em
+dispor dos recursos de saúde. Não deveria haver destinações obrigatórias de
+recursos financeiros para ações específicas, por definição exclusiva do âmbito
+federal.
+
+O aumento do valor per capita a ser transferido a estados, municípios e Distrito
+Federal, o aumento do piso estadual e o surgimento de um piso municipal para
+ações de Visa trouxe avanços para o financiamento, favorecendo principalmente os
+municípios de pequeno porte. Contudo, percebe-se que um item importante previsto
+49
+
+no Pacto não teve grandes avanços: a utilização de uma metodologia de alocação
+de recursos que contribuísse para a redução das iniquidades macroregionais,
+
+estaduais e regionais.
+
+A manutenção do critério per capita único (de valor único), apesar do aumento, não
+favoreceu uma distribuição equitativa que implicasse em uma alocação de recursos
+que atendesse as diferentes necessidades de saúde da população.
+50
+
+CAPÍTULO 4
+ANÁLISE DOS REPASSES FEDERAIS PARA AS AÇÕES DE VISA
+
+ 
+
+Neste capítulo são apresentados os resultados da análise dos dados financeiros
+relativos ao montante de recursos federais transferidos a estados, municípios e
+Distrito Federal, no período de 1998 a 2008, para financiar as ações de vigilância
+sanitária. Estes dados, já atualizados para valores de dezembro de 2008 através do
+Índice de Preços ao Consumidor Amplo (IPCA) do IBGE, são analisados de forma a
+evidenciar a relação entre as mudanças ocorridas no marco normativo que orientou
+o financiamento das ações de Visa nos últimos onze anos e o montante de recursos
+
+transferidos.
+
+De forma adicional, a análise dos dados identifica se houve modificação, e em qual
+proporção, no montante de recursos federais transferidos a estados e municípios
+para o financiamento das ações de Visa, bem como quais mecanismos e fatores
+
+podem ter sido determinantes para o aumento ou a redução dos recursos.
+
+4.1. Foco de Análise 1 — Montante global de recursos repassados pela esfera
+federal para financiar as ações de Visa.
+
+Ao analisarmos a tabela abaixo, podemos constatar que nos últimos onze anos, o
+montante de recursos transferidos pelo governo federal para que estados,
+municípios e Distrito Federal financiassem as ações de Visa cresceu 153,85%,
+passando de R$ 70.873.271,74 para R$ 179.913.189,00.
+51
+
+Quadro 3 — Repasses federais destinados ao financiamento das ações de Visa nos estados, municípios e Distrito Federal.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Anvisa FNS
+Estados e DF | Var % Municípios |Var% Estados e DF | Var % Municípios Var % Total Var %
+1998 0,00 É 0,00 0,00 a 70.873.271,74 - 70.873.271,74 -
+1999 582.772,80 - 0,00 0,00 2 66.755.284,05 | -5,81% 67.338.056,85 | -4,99%
+2000 | 55.500.800,60 |9423,57% 2.891,78 z 843.506,27 = 63.838.353,44 | -4,37% | 120.185.646,33 | 78,48%
+2001 | 16.077.912,89) -71,03%| 2.115.036,09 | 73039,58% | 33.369.255,32 | 3856,02% | 62.714.719,50 | -1,76%| 114.277.692,04 | -4,92%
+2002| 21.793.792,98| 35,55% 86.880,00 | -95,89%| 43.540.738,81| 30,48% | 59.352.308,02 | -5,36%| 124.773.719,51 9,18%
+2003| 2.448.267,62] -88,77% 0,00 | -100,00% | 42.696.265,72| -1,94%| 56.252.287,34 | -5,22%| 101.396.818,77 | -18,74%
+2004 | 12.621.626,59| 415,53%| 3.133.686,27 = 37.239.536,16] -12,78%| 52.926.614,59] -5,91%| 105.921.467,63| 4,46%
+2005 | 27.709.337,06 | 119,54%| 7.752.379,67 | 147,39%| 22.551.550,16|] -39,44%| 56.068.169,12| 5,94%| 114.081.438,29| 7,70%
+2006 | 29.058.784,79 4,87%| 8.243.786,54 6,34% | 31.151.015,71] 38,13%| 79.638.018,00 | 42,04% | 148.091.605,53| 29,81%
+2007 | 16.448.872,07 | -43,39% | 13.024.765,34 57,99% | 34.757.585,56| 11,58%| 72.452.321,21| -9,02%| 136.683.544,45| 7,70%
+2008| 39.532.891,00 | 140,34% | 16.495.800,00 26,65% | 37.709.481,00 8,49% | 86.175.017,00 | 18,94% | 179.913.190,75| 31,63%
+Total |221.775.058,40 - 50.855.225,70 - 283.858.934,70 - 727.046.364,01 - 1.283.536.451,90 -
+
+ 
+
+Fonte: SIGA BRASIL, Senado.
+
+Obs 1: Variação % com relação ao ano imediatamente anterior.
+Obs 2: Valores atualizados para dezembro de 2008 através do IPCA/IBGE.
+
+ 
+52
+
+Nestes onze anos, podem ser destacados três momentos com incrementos mais
+significativos no repasse de recursos. O primeiro momento ocorre no ano de 2000, e
+representa o maior aumento percentual no período. Neste ano, o repasse federal
+totalizou o montante de R$ 120.189.009,09, o que significou um incremento de
+78,49% em relação às transferências realizadas no ano de 1999, que foi de R$
+67.338.056,85.
+
+Este crescimento coincide com as edições da Portaria Interministerial nº 1.008, de
+08/09/2000, e Portaria Conjunta nº 874, de 20/11/2000, que regulamentaram as
+ações de média e alta complexidade em vigilância sanitária (MAC-Visa) para
+estados e Distrito Federal e o repasse dos recursos relativos às Taxas de
+Fiscalização em Vigilância Sanitária — TFVS — por fato gerador arrecadadas pela
+Anvisa. A análise documental demonstra, portanto, que a criação de uma fonte de
+recursos para o financiamento das ações da área (até então a Visa só contava com
+o repasse regular do PAB-VISA) foi responsável pelo incremento no repasse de
+
+recurso.
+
+Após as variações negativas no repasse ocorridas em 2001 (-4,92%) e 2003 (-
+18,74%) com relação aos valores transferidos no ano imediatamente anterior,
+percebe-se que a partir de 2004, com a inclusão dos municípios no TAM (até então
+este ente não fazia juz a repasses diretos da União para financiar ações de média e
+alta complexidade em Visa), o montante de recursos repassados à Visa retoma sua
+tendência de crescimento, apresentando incrementos percentuais de 4,46%, 7,70%
+e 29,81% no período de 2004 a 2006. Neste último ano, as transferências atingem
+um montante de R$ 148.091.605,04 contra os R$ 114.081.436,02 repassados em
+2005. Aqui se identifica o terceiro maior incremento na série.
+
+O terceiro momento de incremento desta série ocorre no ano de 2008 quando o
+repasse efetuado totaliza R$ 179.913.189,00, valor este 31,63% superior ao do ano
+de 2007 que foi de R$ 136.83.544,19. Neste repasse, são computados os incentivos
+aos Laboratórios Centrais de Saúde Pública (Portaria GM/MS nº 3.202, de
+18/12/2007), cujos recursos eram oriundos dos saldos do Piso Estratégico não
+pactuado pelos municípios no ano de 2007, o que de certa forma pode explicar a
+queda de 7,7% no repasse ocorrido no ano de 2007, bem como o Incentivo aos
+53
+
+Laboratórios de Saúde Pública (Portaria GM/MS nº 3.271, de 27/12/2007). Note-se
+que apesar da regulamentação destes incentivos ter ocorrido em 2007, seu repasse
+apenas foi computado no ano de 2008. De forma adicional, no exercício 2008, ainda
+se registra no marco normativo o surgimento do incentivo à execução da ação de
+gestão de pessoas em vigilância sanitária, regulamentado pela Portaria nº 3.080, de
+23/12/2008. Este incentivo previa um repasse de R$ 12.350.000,00, mas a execução
+
+de tal recurso só vem a ocorrer e representar impacto financeiro no ano de 2009.
+
+É importante se destacar que para o ano de 2008, a Portaria nº 133, de 21/01/2008,
+que atualizou o repasse do componente vigilância sanitária do bloco da vigilância em
+saúde, previu um repasse da ordem de R$ 178.563.278,89, sendo R$
+132.511.715,41 oriundo do FNS e R$ 46.051.563,48 da Anvisa. Se considerarmos
+que neste ano, foram repassados recursos adicionais relativos aos incentivos
+destinados aos laboratórios centrais de saúde pública e laboratórios de saúde
+pública, cuja regulamentação previa um montante de R$ 16.720.000,00 para o
+primeiro e R$ 25.080.000,00 para o segundo, conclui-se que apesar das evoluções
+previstas no marco normativo, a execução dos recursos por parte do ente federal
+está aquém do esperado uma vez que em 2008 a União apenas repassou a
+estados, municípios e Distrito Federal o montante de R$ 179.913.189,00.
+
+Isto nos leva a avaliar que estes “novos” incentivos aparentemente representam o
+esforço do governo federal de repassar para o sistema os recursos que não foram
+objeto de pactuação e que, portanto, não poderiam ser repassados através das
+normas vigentes até então. Essa sensação é reforçada pelo fato destes dois
+regulamentos serem publicados no final de dezembro do referido ano, estando até
+mesmo claro em uma delas, a Portaria GM/MS nº 3.202, de 18/12/2007, que o
+recurso é proveniente do piso estratégico não pactuado com municípios.
+
+Como adiantado nos parágrafos anteriores, estes onze anos também foram
+marcados por reduções percentuais no repasse. A redução mais significativa
+ocorreu no ano de 2003 e implicou em uma redução no repasse da ordem de
+18,74% com relação ao ano de 2002 (o repasse passou de R$ 124.773.719,81 em
+2002 para 101.396.820,68 em 2003). O segundo momento de maior redução
+54
+
+ocorreu em 2007 quando o montante transferido atingiu R$ 136.683.544,19, valor
+este 7,70% menor que o realizado em 2006 (R$ 148.091.605,04).
+
+A Anvisa, em seu Relatório de Gestão do exercício 2007, apresenta dois fatores
+para explicar a diminuição do repasse neste exercício. Um deles foi a mudança nos
+critérios de repasse federais para as ações de vigilância sanitária, definidos na
+Portaria nº 1.998, de 21 de agosto de 2007. Como a regulamentação do componente
+da vigilância sanitária no bloco da vigilância em saúde somente veio a ocorrer no
+segundo semestre do ano, a agência alega que ficou inviabilizada a execução total
+do orçamento programado e aprovado para 2007. O outro fator refere-se à
+pactuação do piso estratégico de Visa. Como a referida portaria previa aporte de
+recursos financeiros para todos os municípios e a pactuação prevista na norma
+somente se efetivou em 14% destes, houve comprometimento na execução dos
+recursos financeiros programados, implicando, inclusive, em realocação dos
+recursos para incentivo aos Laboratórios Centrais de Saúde Pública como já
+mencionado.
+
+Ao relacionarmos estas variações com as mudanças nos marcos normativos acerca
+do financiamento da Visa, percebemos que, no decorrer dos anos, as normas foram
+prevendo novas fontes de recursos para a vigilância sanitária, elevando os valores
+per capita e instituindo pisos a fim de elevar o montante de recursos repassados aos
+entes que possuíam baixa densidade populacional. O financiamento do período
+assumiu para a alocação de recursos, essencialmente, o critério de base
+populacional e geográfica, ou seja, a distribuição per capita (salvas as exceções dos
+incentivos aos laboratórios, que tinha por critério o porte e nível do laboratório, e o
+incentivo às ações de gestão de pessoas, cujo critério é o número de trabalhadores
+de Visa por estado).
+
+A princípio, não há no marco normativo qualquer fator que justifique as variações
+negativas identificadas nos repasses efetuados pela esfera federal aos estados,
+municípios e Distrito Federal. Tendo por base a análise dos relatórios de gestão da
+Anvisa e das normas do financiamento da Visa neste período, estas variações
+podem ser explicadas essencialmente pelas dificuldades de pactuação do governo
+federal com as demais esferas de governo (as transferências de recursos para
+55
+
+financiamento das ações de Visa é decorrente de pactuações). Em alguns
+momentos, pelas dificuldades para operacionalização de mudanças nos critérios de
+repasse e, até mesmo, pelos bloqueios de repasse por saldo livre em conta corrente
+acima do permitido pela legislação. Estas situações acabaram por contribuir para
+uma menor execução do orçamento federal destinado à execução das ações de
+Visa nos entes subnacionais.
+
+De toda forma, observando o gráfico abaixo, pode-se afirmar que apesar dos
+momentos de retrocesso acima mencionados, percebe-se que o período avaliado
+apresentou uma tendência de crescimento no repasse efetuado pelo ente federal a
+estados, municípios e Distrito Federal. Impossível avaliar, porém, é se este
+
+crescimento foi suficiente para suprir a carência de recursos do sistema.
+
+Gráfico 1 — Evolução do Repasse Federal para Financiamento das Ações de
+VISA.
+
+Repasses da União no período de 1998 a 2008 (Corrigido pelo IPCA)
+
+200.000.000,00
+180.000.000,00 rá
+160.000.000,00
+
+140.000.000,00 Fa
+
+120.000.000,00 ES
+
+100.000.000,00 e =*TOTAL
+80.000.000,00 E
+
+60.000.000,00
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+40.000.000,00
+
+ 
+
+ 
+
+20.000.000,00
+
+ 
+
+0,00
+
+ 
+
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+ 
+
+Fonte: SIGA BRASIL, Senado
+56
+
+4.2. Foco de Análise 2 — Comparação entre o montante global de recursos
+repassados e a modalidade de aplicação
+
+Neste item, o foco da análise é a evolução no montante de recursos transferidos por
+modalidade de aplicação (estados e Distrito Federal versus municípios) de forma a
+se evidenciar se o comportamento do repasse foi similar para as duas modalidades
+de aplicação. O primeiro aspecto percebido na tabela abaixo se refere à total
+ausência registros de repasse de recursos para estados e Distrito Federal no ano de
+1998 no banco de dados consultado, bem como o surgimento de alguns registros de
+repasse no ano de 1999 e o elevado incremento ocorrido no ano 2000.
+
+Com um repasse que totalizava R$ 582.772,80 em 1999, no ano seguinte, com a
+regulamentação do MAC-Visa e as pactuações do TAM, a União passa a transferir
+fundo a fundo para estados e Distrito Federal o montante de R$ 56.344.306,87, o
+que representa um incremento da ordem de 9.568,31% em um ano. É importante
+lembrar que os regulamentos até então vigente só previam transferências de
+recursos do PAB para estados para dar cobertura à população dos municípios não
+habilitados nas condições de gestão da NOB/96.
+
+Quadro 4 — Repasses Federais destinados às ações de Visa por modalidade de
+aplicação
+
+ 
+
+Estados e DF | Var% Municípios | Var%
+1998 0,00 - 70.873.271,74 -
+1999 582.772,80 - 66.755.284,05 | -5,81%
+2000 | 56.344.306,87 | 9568,31%| 63.844.702,22 | -4,36%
+2001 | 49.447.168,21| -12,224%| 64.829.755,59 | 1,54%
+2002 | 65.334.531,78| 32,13%| 59.439.188,02 | -8,31%
+2003| 45.144.533,34| -30,90%| 56.252.287,34 | -5,36%
+2004 | 49.861.162,75 10,45% | 56.060.300,86 | -0,34%
+2005 | 50.260.887,22 0,80% | 63.820.548,80 | 13,84%
+2006 | 60.209.800,50 19,79% | 87.881.804,54 | 37,70%
+2007 | 51.206.457,63| -14,95%| 85.477.086,56 | -2,74%
+2008| 77.242.372,00 | 50,84% | 102.670.817,00 | 20,12%
+Total | 505.633.993,10 - 777.905.046,71 -
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: SIGA BRASIL, Senado.
+Obs 1: Variação % com relação ao ano imediatamente anterior.
+Obs 2: Valores atualizados para dezembro de 2008 através do IPCA/IBGE.
+57
+
+Após este período, apesar dos três momentos de queda no repasse, nota-se entre
+2000 a 2008 um crescimento no montante de recursos transferidos da ordem de
+37,08%, passando de R$ 56.344.306,87 em 2000 para R$ 77.242.372,00 em 2008.
+Em 2008, se identifica o maior percentual de aumento (50,84%), quando o repasse
+atinge R$ 77.242.32,00 contra R$ 51.206.457,63 do ano anterior. Esse aumento do
+repasse decorreu do aumento do valor per capita a ser transferido, bem como a
+instituição do piso estratégico em Visa para aqueles estados com baixa densidade
+demográfica.
+
+Em 2002, identifica-se o segundo momento de maior incremento no repasse,
+quando o montante passa de R$ 49.447.168,21 para 65.334.531,78, o que
+representa um acréscimo de 32,13% no repasse. O terceiro maior incremento ocorre
+em 2006, quando o repasse cresce 19,79% em relação ao ocorrido no ano anterior
+(de R$ 50.260.887,22 para R$ 60.209.800,50).
+
+As reduções nos repasses ocorrem em três momentos 2001, 2003 e 2007. A mais
+significativa destas reduções ocorre em 2003 (30,90%) quando o repasse cai de R$
+65.334.531,78 para R$ 45.144.533,34. Em 2001 e 2007, as reduções são de
+respectivamente 12,24% e 14,95%. Aqui também não se vê no marco normativo
+federal qualquer mudança no financiamento que justifique esta redução.
+
+No que se refere aos repasses efetuados para os municípios, até o ano de 2004 é
+clara a tendência de queda no repasse, o que denota uma priorização do governo
+federal em fortalecer o financiamento da esfera estadual. Esta tendência inicial de
+queda é revertida a partir de 2005, provavelmente decorrente da inclusão dos
+municípios no TAM no ano anterior. De toda forma, no período de 1998 a 2008, os
+recursos repassados aos municípios passaram de R$ 70.873.271,74 para
+R$102.670.817,00, o que significa um crescimento de 44,87% no repasse para esta
+esfera de governo.
+
+No período avaliado identificam-se três momentos mais significativos para
+incremento do repasse efetuado, sendo que o principal destes é no ano de 2006,
+cujo repasse de R$ 87.881.804,54 foi 37,7% maior com relação aos recursos
+transferidos no ano anterior (R$ 63.820.54,80). O segundo momento de maior
+58
+
+crescimento no repasse aos municípios ocorre em 2008, quando da instituição dos
+pisos estruturante e estratégico o montante de R$ 102.670.817,00 constituiu-se
+20,12% maior que o ocorrido em 2007 (R$ 85.477.086,56).
+
+No tocante às reduções nos repasse, frise-se que a queda mais significativa ocorre
+em 2002 (com uma redução de 8,31%), ficando os demais períodos (1999, 2000 e
+2003) com redução em torno dos 5,0%.
+
+Gráfico 2 — Evolução do repasse federal para financiar as ações de Visa por
+modalidade de aplicação.
+
+Repasses da União por Modalidade de Aplicação (Corrigido pelo IPCA)
+
+120.000.000,00
+
+ 
+
+100.000.000,00
+
+ 
+
+80.000.000,00
+
+ 
+
+ 
+
+/ [+ Estados e DF
+
+60.000.000,00 E
+PA —E- Municípios
+
+40.000.000,00 /
+
+20.000.000,00 /
+
+0,00 -——
+
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: SIGA BRASIL, Senado.
+
+Analisando o gráfico 2 acima, nota-se que as variações mais acentuadas ocorreram
+nos repasses efetuados para estados e Distrito Federal (positiva e negativamente),
+sendo que os repasses destinados aos municípios apresentaram mais variações
+negativas, mas mesmo assim menos significativas. Ambas as séries apresentaram
+uma tendência de crescimento. Descartando os anos de 1998 e 1999 da série (em
+virtude da brusca variação ocorrida no período para os repasses destinados a
+estados e Distrito Federal), verifica-se que o crescimento no repasse destinado aos
+59
+
+municípios (60,81%) foi superior ao realizado para estados e Distrito Federal
+(37,08%), provavelmente em função da inclusão dele no TAM/MAC-VISA.
+
+Nota-se na série um aumento no repasse para os estados no período de 1998 a
+2000, acompanhada de uma variação negativa nos repasses para os municípios.
+Quando da criação da Anvisa, percebe-se uma priorização por parte da agência em
+promover a regulamentação do financiamento e o repasse para as ações de média e
+alta complexidade para a esfera estadual mediante pactuação o que explica a
+evolução favorável para estados e a variação negativa dos municípios uma vez que
+não houve nova fonte de recursos, nem reajuste significativo de valores para estes
+
+últimos.
+
+4.3. Foco de Análise 3 — Evolução do repasse por unidade orçamentária.
+
+No quadro abaixo são apresentados os montantes de recursos transferidos pela
+União para financiar as ações de Visa nos estados, municípios e Distrito Federal por
+unidade orçamentária, ou seja, são detalhados os recursos transferidos cuja origem
+é o Fundo Nacional de Saúde (FNS) e aqueles que têm por origem a Agência
+Nacional de Vigilância Sanitária (Anvisa).
+
+Inicialmente analisamos os recursos financeiros transferidos pela Anvisa. Nota-se
+que o quadro abaixo apresenta um valor zero de repasse para os entes
+subnacionais no ano de 1998, pois a agência foi criada apenas em 1999. Contudo,
+já em 1999, apesar da baixa execução, é efetuado o primeiro repasse da nova
+agência para os demais integrantes do SNVS.
+60
+
+Quadro 5 — Repasses federais destinados às ações de Visa por unidade
+orçamentária.
+
+ 
+
+Anvisa Var % FNS Var %
+1998
+[1999] 58277280]  . | 66.755.284,05| -5,81% |
+55.503.692,38 | 9424,07% 64.685.316,71 | -3,10%
+18.192.948,98 | -67,22% 96.083.978,03 | 48,54%
+21.880.672,98| 20,27% 102.893.046,83 | 7,09%
+
+[2003] 2.448.267,62] -8881% 98.948.553,06 | -3,83%
+
+ 
+
+ 
+
+[2004] 15.75531286] 543,53% | 90.166.150,75] -8,88% |
+[2005] 35461.71674] 12508% | 78.619.719,28] 12,81% |
+37.302.571,33 | 5,19% 110.789.033,71 | 40,92%
+29.473.637,41 | -20,99% 107.209.906,77 | -3,23%
+Total| 272.630.284,10]  - | 1.010.908.758,93] |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: SIGA BRASIL, Senado.
+Obs 1: Variação % com relação ao ano imediatamente anterior.
+Obs 2: Valores atualizados para dezembro de 2008 através do IPCA/IBGE.
+
+O valor inicialmente transferido pela Anvisa foi de pouco mais de R$ 500 mil, já em
+2000 o repasse teve um crescimento de 9.424,07%, passando para R$
+55.503.692,38, já que as taxas por ela arrecadadas passam a ser transferidas para
+os demais entes do SNVS via TAM/MAC-VISA. A partir deste momento, ocorrem
+duas grandes oscilações negativas. A primeira delas logo em 2001, quando o
+repasse cai para R$ 18.192.948,98, ou seja, uma queda de 67,22% com relação ao
+montante repassado no ano anterior. A segunda ocorre em 2008, quando o repasse
+atinge o surpreendente valor de R$ 2.448.267,62, 88,81% inferior ao realizado em
+2002 que totalizou um montante de R$ 21.880.672,62. Em 2007, também nota-se
+uma variação negativa no repasse na ordem de 20,99%.
+
+Contudo, o período também foi marcado por variações positivas bastante relevantes
+para o financiamento da Visa, além da ocorrida em 2000. A mais significativa ocorre
+em 2004, com um crescimento de 543,53% com relação ao repasse do ano anterior
+que havia sofrido uma queda de 88,81%. Isso implicou em uma recuperação no
+repasse efetuado em 2003 que havia sofrido uma grande redução com relação ao
+61
+
+ano de 2002. Em 2005, há também um aumento no repasse da ordem de 125,08% e
+um outro de 90,10% em 2008.
+
+Apesar das muitas e significativas variações negativas dos repasses efetuados pela
+Anvisa, houve crescimento no repasse. Se considerarmos o período de 2000 a
+2008, as transferências cresceram apenas 0,95%, mas se avaliarmos essa evolução
+a partir de 2001, quando há a primeira queda após o significativo crescimento
+identificado no ano de 2000, este percentual sobe para 207,97%.
+
+No tocante aos repasses realizados pelo FNS, há claramente uma tendência de
+crescimento no período, mas com maior estabilidade nas transferências do que o
+ocorrido com os repasses realizados pela Anvisa. De 1998 a 2008, o crescimento no
+repasse foi 74,80%. Neste período o maior crescimento ocorre em 2001, ocasião em
+que o repasse atinge R$ 96.083.978,03, valor este 48,54% maior que o ocorrido no
+ano 2000 (R$ 64.685.316,71). O segundo maior incremento ocorre em 2006, quando
+o repasse atinge R$ 110.789.033,71, um valor 40,92% superior ao realizado em
+2005. O ano de 2008 também foi marcado por um crescimento da ordem de 15,55%
+com relação a 2007.
+
+As variações negativas foram bem menos expressivas que no caso da Anvisa.
+Ocorridas nos anos de 1999, 2000, 2003, 2004, 2005 e 2007, a maior queda no
+repasse se deu em 2005, com 12,81%. A causa provável destas variações foi um
+reajuste no repasse em percentual inferior à inflação do período.
+
+Analisando o gráfico abaixo, percebe-se que tanto os repasses efetuados pela
+Anvisa quanto os efetuados diretamente pelo Fundo Nacional de Saúde
+apresentaram tendência de crescimento. Excluindo da análise os anos de 1998 e
+1999, tendo em vista que a agência surgiu em 1999 e neste ano ainda se
+organizava, no período de 2000 a 2008 o repasse cresceu apenas 0,95% no caso da
+Anvisa e 91,51 no caso das transferências realizadas diretamente pelo Fundo
+Nacional de Saúde.
+62
+
+Gráfico 3 — Evolução do repasse federal para financiar as ações de Visa por
+unidade orçamentária
+
+Repasses da União por Unidade Orçamentária, 1998-2008 (Corrigido pelo IPCA)
+
+140.000.000,00
+120.000.000,00 ESA
+100.000.000,00 Fa:
+
+80.000.000,00 a:
+
+60.000.000,00
+
+40.000.000,00 N /
+20.000.000,00 / a
+
+0,00 . J
+
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+—— Anvisa
+—E-FNS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: SIGA BRASIL, Senado
+
+4.4. Foco de Análise 4 — Repasse por unidade orçamentária e modalidade de
+aplicação
+
+Aqui a análise enfocará a comparação dos repasses efetuados pela Anvisa e FNS
+por modalidade de aplicação.
+
+Nestes últimos onze anos o governo federal repassou para estados, municípios e
+Distrito Federal o montante de R$ 1.283.535.582,81. Deste valor, a Anvisa foi
+responsável por R$ 272.630.354,10, sendo R$ 221.775.088,40 repassados para
+estados e Distrito Federal e R$ 50.855.265,70 destinados aos municípios. Já o FNS
+repassou R$ 1.010.905.368,72, sendo R$ 283.858.964,70 destinados a estados e
+Distrito Federal e R$ 727.046.404,01 aos municípios.
+63
+
+Estes números demonstram que 81,35% dos repasses efetuados pela Anvisa foram
+destinados aos estados e Distrito Federal. No caso do FNS, a maior concentração
+ocorre nos repasses para municípios, que totalizam 71,92% dos recursos
+transferidos.
+
+Ao analisarmos o quadro 6 abaixo, no qual é apresentada a evolução dos repasses
+da Anvisa por modalidade de aplicação, notamos que os repasses para municípios
+são menos expressivos, contudo apresentam poucas variações negativas e têm uma
+
+tendência de crescimento.
+
+No caso dos repasses para estados e Distrito Federal, há um expressivo
+crescimento no repasse no ano de 2000 com a regulamentação do financiamento
+das ações de média e alta complexidade em Visa, ocasião em que a transferência
+atinge R$ 55.500.800,60, ou seja, um aumento de 9.423,57% com relação à
+
+realizada no ano anterior.
+
+Quadro 6 — Repasses efetuados pela Anvisa, por modalidade de aplicação,
+para financiar as ações de Visa.
+
+ 
+
+ 
+
+Estados e DF | Var% Municípios Var %
+
+ 
+
+ 
+
+1998 0,00 0,00 a
+1999 582.772,80 E 0,00 g
+2000 | 55.500.800,60 | 9423,57% 2.891,78 á
+
+ 
+
+2001 | 16.077.912,89) -71,03%| 2.115.036,09 | 73039,58%
+2002 | 21.793.792,98| 35,55% 86.880,00 -95,89%
+2003 | 2.448.267,62| -88,77% 0,00 | -100,00%
+2004 | 12.621.626,59| 415,53%| 3.133.686,27 -
+2005 | 27.709.337,06 | 119,54%| 7.752.379,67 |  147,39%
+2006 | 29.058.784,79 4,87% | 8.243.786,54 6,34%,
+2007 | 16.448.872,07 | -43,39% | 13.024.765,34 57,99%
+2008 | 39.532.891,00 | 140,34% | 16.495.800,00 26,65%
+Total | 221.775.088,40 - 50.855.265,70 -
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: SIGA BRASIL, Senado.
+Obs 1: Variação % com relação ao ano imediatamente anterior.
+Obs 2: Valores atualizados para dezembro de 2008 através do IPCA/IBGE.
+64
+
+Contudo, no decorrer dos anos, o repasse para estados e Distrito Federal vai
+sofrendo variações negativas que, apesar dos momentos de recuperação (2002,
+2004 e 2005 e 2008), não permitem o retorno ao patamar de repasse ocorrido em
+2000. Note-se que repasse sofre uma redução de 71,03% em 2001 atingindo um
+montante um pouco acima de 16 milhões de reais. No ano seguinte há uma
+recuperação de 35,55% e o repasse fica um pouco abaixo de 22 milhões. Em 2003
+ocorre uma nova queda no repasse, desta vez da ordem de 88,77%, o que fez com
+que o recurso destinado às ações de Visa nos Estados e Distrito Federal atingisse
+uma quantia em torno de 2,5 milhões.
+
+A partir de 2004, os repasses passam a evoluir de forma positiva, à exceção de nova
+redução no ano de 2007 da ordem de 43,39%, com crescimentos de 415,53%,
+119,54%, 4,87% e 140,34% respectivamente nos anos de 2004, 2005, 2006 e 2008.
+
+Houve na fase final do período de análise uma considerável recuperação nos
+valores de repasse para as ações de Visa nos estados e Distrito Federal, entretanto,
+sem atingir um valor próximo ao ocorrido no ano de 2000. Aqui não existe do ponto
+de vista normativo, justificativa para a redução apresentada, uma vez que o
+orçamento neste período evoluiu com crescimento. A causa, portanto, pode ser
+creditada às dificuldades de operacionalização das pactuações do TAM.
+
+No caso dos repasses aos municípios, há um grande incremento no repasse no ano
+de 2001 quando se atinge a cifra de R$ 2.115.036,09, ou seja, um aumento de
+73039,58% com relação ao repasse do ano anterior que foi de R$ 2.891,78. Logo
+em seguida o repasse tem uma queda de 95,89%, totalizando em 2002 uma
+transferência de R$ 86.880,00. No ano seguinte, não houve registros de qualquer
+repasse.
+
+Em 2004, o repasse atinge o montante de R$ 3.133.686,27 e a partir daí passa por
+um crescimento sucessivo até o ano de 2008 (147,39%, 6,34%, 57,99% e 26,65%)
+quando foram repassados R$ 16.495.800,00. Este período coincide com a inserção
+dos municípios ao Termo de Ajuste de Metas.
+65
+
+Na análise, fica evidente que o foco de repasse da agência neste período tem sido
+os estados, face às dificuldades de pactuação com os mais de cinco mil municípios
+brasileiros. Percebe-se ainda o estabelecimento de normas que implicam na
+necessidade de que o ente estadual descentralize parte dos recursos recebidos do
+ente federal para os municípios, o que de certa forma reforça o SUS como sistema
+hierarquizado, mas fragiliza os municípios do ponto de vista do financiamento
+federal.
+
+Gráfico 4 — Evolução dos Repasses efetuados pela Anvisa, por modalidade de
+aplicação, para financiar as ações de Visa.
+
+Repasses da Anvisa por Modalidade de Aplicação (Corrigido pelo IPCA)
+
+60.000.000,00
+
+50.000.000,00 À
+
+40.000.000,00
+
+ 
+
+ 
+
+ 
+
+—— Estados e DF
+
+IN —s- Municípios
+
+20.000.000,00 A / Ny
+10.000.000,00 Vá
+
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+30.000.000,00
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: SIGA BRASIL, Senado
+
+No tocante aos repasses efetuados pelo FNS para estados e Distrito Federal,
+conforme pode ser evidenciado no gráfico e no quadro abaixo há um grande
+crescimento no repasse no ano de 2001 quando se atinge um montante de R$
+33.369.255,32, valor 3.856,02% superior ao realizado em 2000 que foi de R$
+843.506,27.
+66
+
+Quadro 7 -— Repasses efetuados pelo Fundo Nacional de Saúde, por
+modalidade de aplicação, para financiar as ações de Visa.
+
+ 
+
+Estados e DF Var % Municípios | Var%
+| 1998] *º 000] - | rosraariga) . |
+| 1999] *º*º 000] - | 6675528405] -581%|
+
+843.506,27 63.838.353,44 | -4,37%
+33.369.255,32 | 3856,02% | 62.714.719,50
+2002| 43.540.738,81 59.352.308,02 | -5,36%
+
+| | 2003] 42696.265,72] -1,94%| 56.252.287,34 | -5,22%
+
+ 
+
+ 
+
+| 2004] 37.239.536,16] -12,78%| 52.926.614,59] 5,91%]
+| 2005] 22.551550,16] -39,44%| 56.068.169,12] 5,94%]
+
+2007| 34.757.585,56 11,58% | 72.452.321,21 | -9,02%
+| Total/283.858.964,70] - [727046.40401] - |
+
+ 
+
+ 
+
+ 
+
+Fonte: SIGA BRASIL, Senado.
+Obs 1: Variação % com relação ao ano imediatamente anterior.
+Obs 2: Valores atualizados para dezembro de 2008 através do IPCA/IBGE.
+
+Esta tendência de crescimento é mantida até o ano seguinte, com um repasse de
+R$43.540.738,81, valor 30,48% superior ao realizado em 2001. A partir daí durante
+três anos ocorrem reduções sucessivas, sendo a maior delas em 2005, quando o
+valor repassado foi de R$ 22.551.550,16.
+
+Nos anos seguintes a tendência de crescimento é retomada, e em 2008, o repasse
+atinge R$ 37.709.481,00, este 13% superior ao grande pico ocorrido no ano de
+2001.
+
+No caso dos repasses efetuados para os municípios, é perceptível uma maior
+regularidade na transferência do recurso. No período de 1999 a 2004 há uma
+variação negativa na transferência em torno de 5% ao ano, tendo como causa
+provável a correção dos valores de repasse em índice abaixo da variação da
+inflação.
+67
+
+A análise do gráfico abaixo nos leva a conclusão de que, apesar dos momentos de
+retrocesso, há uma tendência de crescimento no repasse efetuado pelo FNS tanto
+para estados e Distrito Federal como para municípios. Se considerarmos o período
+de 2001 a 2008, o incremento para os estados e o Distrito Federal, foi de 13% e
+para os municípios foi de 37,41%.
+
+Gráfico 5 — Evolução dos repasses efetuados pelo Fundo Nacional de Saúde,
+por modalidade de aplicação, para financiar as ações de Visa.
+
+Repasses FNS por Modalidade de Aplicação (Corrigido pelo IPCA)
+
+100.000.000,00
+
+ 
+
+ 
+
+90.000.000,00
+
+80.000.000,00
+
+ 
+
+ 
+
+70.000.000,00
+
+60.000.000,00
+
+ 
+
+ 
+
+—— Estados e DF
+
+50.000.000,00 ,
+E Municípios
+
+40.000.000,00 RES
+
+30.000.000,00 É e
+20.000.000,00 /
+
+10.000.000,00 /
+
+0,00 + ny
+
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: SIGA BRASIL, Senado
+68
+
+4.5. Foco de Análise 5 — Repasse global por região
+
+Diferentemente das outras análises, quando foi possível avaliar o intervalo de tempo
+compreendido entre 1998 a 2008, a análise do repasse global por região limita-se ao
+período de 2002 a 2008, tendo em vista que os bancos de dados oficiais acerca do
+repasse só apresentam valores completos por região para esse período.
+
+Tendo em vista que o critério de repasse utilizado é essencialmente o per capita, a
+análise dos dados, conforme indica a figura 1 abaixo, demonstra que as regiões
+mais populosas obtiveram os maiores repasses no período. A região Sudeste ficou
+com 43% da fatia de recursos transferidos nestes seis anos e o Nordeste, com 26%.
+Em sequência, aparecem as regiões Sul, Norte e Centro-Oeste com
+respectivamente 15%, 9% e 7%.
+
+Figura 1 — Repasses federais por região (2002-2008)
+
+Sudeste
+
+Teia
+26%
+
+ 
+
+Fonte: SIGA BRASIL, Senado.
+69
+
+Como pode ser percebido no quadro 8 abaixo, a região Norte apresentou um
+crescimento do montante de recursos transferidos no período da ordem de 6,16%,
+passando de R$10.204.123,19 em 2002 para R$ 10.832.513,31 em 2008. Neste
+intervalo, ocorreram duas reduções nas transferências, nos anos de 2003 e 2004,
+sendo elas de respectivamente 12,09% e 29,09%. Em seguida, mantém-se uma
+tendência de crescimento, excetuado pelo ano de 2007, quando há uma queda de
+3,60% no repasse.
+
+Para a região Nordeste o período registra um crescimento no repasse da ordem de
+27,15% no período de 2002 a 2008, passando de R$ 26.845.656,06 para R$
+34.134.549,35. Por dois anos consecutivos, são registradas duas variações
+negativas no repasse: 5,71% em 2003 e 16,34% em 2004. A partir do ano seguinte,
+mantém-se a tendência de crescimento observada para a região norte, com uma
+
+redução de 3,38% também no ano de 2007.
+
+O incremento no repasse registrado no período para a região centro-oeste foi de
+34,29%. As transferências passaram de R$ 6.819.612,67 em 2002 para R$
+9.158.297,86 em 2008. Entre 2003 e 2005, são registradas três reduções no
+repasse, sendo elas de 2,24%, 10,50% e 8,37%. O repasse só vem a se recuperar
+em 2006 e 2008, quando há um crescimento de 42,82% e 18,04%, motivo pelo qual
+o período avaliado apresentou uma variação positiva.
+
+Na região Sudeste, o repasse efetuado em 2008 foi 17,57% maior que o realizado
+em 2002. O montante transferido passou de R$ 42.264.862,32 para R$
+49.691.969,83. Em 2004 e 2005 são verificadas duas reduções da ordem de 2,49%
+e 24,87%. A partir de 2006 é estabelecida uma tendência de crescimento, 44,9% em
+2006 e 11,08% em 2008, tendência esta que só é um pouco prejudicada no ano de
+2007, quando há uma queda no repasse na ordem de 4,98%.
+Quadro 8 — Repasses da União pra financiar as ações de Visa por região (2002-2008)
+
+70
+
+ 
+
+Repasse Global por Região - Com correção IPCA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Norte Var % Nordeste Var% | Centro-Oeste | Var % Sudeste Var % Sul Var %
+
+2002 | 10.204.123,19 - 26.845.656,06 - 5.406.763,89 - 42.264.862,32 - 14.361.654,71 -
+
+2003| 8.970.902,31 | -12,/09%| 25.312.999,69| -5,71%| 5.456.364,87 | 0,92%| 44.446.082,97 5,16% | 13.551.736,35 | -5,64%
+2004 | 6.352.420,86 | -29,19%| 21.176.693,44 | -16,34%| 4.999.777,14| -8,37%| 43.337.649,94 | -2,49%| 13.332.866,29 -1,62%
+2005 | 7.516.105,82 | 18,32%| 21.782.885,91 2,86% | 4.451.594,47 | -10,96% | 32.561.383,96 | -24,87% | 11.292.190,80| -15,31%
+2006 | 9.735.797,35 | 29,53%| 29.920.623,80 | 37,36% | 6.420.964,98 | 44,24% | 47.080.801,49| 44,59% | 16.243.921,48| 43,85%
+2007| 9.384.838,17 | -3,60%| 28.909.638,35 | -3,38%| 6.538.471,32] 1,83% | 44.736.375,45 | -4,98%| 16.420.571,19 1,09%
+2008 10.832.513,31| 15,43%| 34.134.549,35 | 18,07%| 7.862.256,33 | 20,25% | 49.691.969,83 | 11,08% | 20.067.168,58|] 22,21%
+Total | 62.996.701,01 - 188.083.046,60 - 41.136.193,00 - 304.119.125,97 - 105.270.109,40 -
+
+ 
+
+Fonte:
+Obs 1:
+Obs 2:
+
+SIGA BRASIL, Senado.
+
+Variação % com relação ao ano imediatamente anterior.
+
+Valores atualizados para dezembro de 2008 através do IPCA/IBGE.
+
+ 
++71
+
+Por fim, a região Sul teve um crescimento de 39,72% no período, atingindo em 2008
+um montante de R$ 20.067.168,58 quando o repasse realizado em 2002 foi de R$
+14.361.654,71. À semelhança do que ocorreu com a região centro-oeste, os anos de
+2003 a 2005 foram marcados pela redução no repasse para as ações de Visa,
+quedas de 5,64%, 1,62% e 15,31%. O repasse veio se a recuperar a partir de 2006
+com aumentos sucessivos, sendo o maior deles de 43,85% ainda em 2006.
+
+Gráfico 6 — Evolução no repasse global federal por região (2002-2008)
+
+Repasse da União por Região (Corrigido pelo IPCA)
+
+60.000.000
+
+ 
+
+50.000.000
+
+ 
+
+40.000.000
+
+ 
+
+ 
+
+ 
+
+30.000.000
+
+20.000.000
+
+ 
+
+ 
+
+10.000.000
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2002 2003 2004 2005 2006 2007 2008
+
+Fonte: SIGA BRASIL, Senado
+
+Analisando o gráfico 6 acima, percebe-se que a tendência de crescimento ocorreu
+para todas as regiões, sendo que os maiores incrementos se deram nas regiões
+com a menor participação no repasse efetuado nestes anos: região Sul (39,72%) e
+região Centro-Oeste (34,29%). A região Nordeste, região com a segunda maior
+participação no repasse, obteve um crescimento de 27,15%. Adicionalmente,
+percebe-se que as curvas são semelhantes para todas as regiões, sendo que no
+caso do Sudeste as variações se mostram mais acentuadas e o volume de recursos
+
+recebidos é bem superior aos das regiões Centro Oeste, Norte e Sul.
+72
+
+CAPÍTULO 5
+CONCLUSÕES POSSÍVEIS A RESPEITO DO FINANCIAMENTO DA VISA
+
+ 
+
+A análise dos documentos e normas federais regulamentadoras do financiamento da
+saúde e da vigilância sanitária, nos leva ao entendimento de que muitos foram (sob
+
+o ponto de vista legal) os avanços no financiamento da vigilância sanitária.
+
+Percebe-se claramente o esforço do ente federal de ampliar as fontes e o volume de
+recursos destinados à execução das ações de vigilância sanitária no país, bem
+como de adotar as transferências fundo a fundo como a modalidade preferencial de
+repasse para o SNVS.
+
+A regulamentação do processo de descentralização das ações de saúde promovidas
+pelas normas operacionais, detalhando os procedimentos e critérios para o
+financiamento e as responsabilidades de cada um dos entes da federação, apesar
+das críticas quanto a um eventual desrespeito à autonomia dos gestores estaduais e
+municipais, induzidos a aceitar a liderança do governo federal na definição de
+prioridades em saúde, representou uma evolução significativa para o processo de
+construção e financiamento do Sistema Único de Saúde
+
+Entre as normas operacionais, a que representou maior avanço para o
+financiamento da vigilância sanitária foi a NOB/96. Nesta ocasião foi instituído o Piso
+da Assistência Básica, posteriormente convertido em Piso da Atenção Básica (PAB),
+no qual foi previsto recurso per capita para a Visa a ser transferido direta e
+automaticamente do Fundo Nacional de Saúde para os fundos municipais.
+
+Apesar das críticas por tratar-se de um critério de alocação de recursos que não
+prezava pela equidade e, conforme afirma Brito (2007), que ainda tinha um baixo
+valor e previsão de recursos apenas para as ações básicas, a NOB/96 constitui-se
+um importante momento para o financiamento da saúde e, mais especificamente, da
+Visa, ao diminuir a remuneração contra a prestação de serviços e representar um
+
+marco inicial para a consolidação das transferências fundo a fundo no âmbito do
+73
+
+SUS que até então era essencialmente marcado por transferências mediante
+
+convênios.
+
+O PAB possibilitou uma maior previsibilidade de receitas por parte dos gestores
+municipais do sistema, sendo um ponto importante até mesmo para o planejamento
+de ações do setor, afinal, não se pode conceber o planejamento sem a
+correspondente previsão financeira para execução das ações.
+
+A criação da Anvisa também merece ser destacada uma vez que o setor passa a ter
+um órgão federal com atribuição de prestar colaboração técnica e financeira, assim
+como de conduzir o processo de discussão da descentralização e do financiamento
+
+da vigilância sanitária.
+
+Neste contexto ainda destacam-se o Termo de Ajuste de Metas e a regulamentação
+do financiamento para as ações de média e alta complexidade (MAC) em vigilância
+sanitária para os estados, posteriormente ampliado para os municípios. Este pode
+ser identificado como um dos momentos normativos mais importantes para a
+garantia da manutenção de um fluxo de recursos financeiros para execução das
+ações de Visa, bem como para o seu incremento uma vez que implicou no
+surgimento de mais uma fonte de recursos para os entes subnacionais. Tal
+regulamentação ganha maior significado se considerarmos que a Anvisa,
+coordenadora do sistema, também começa a distribuir os recursos por ela
+arrecadados em cada esfera de governo.
+
+Mesmo com os avanços, alguns percalços tiveram que ser superados no contexto
+de implantação do TAM. O primeiro deles refere-se ao fato da regulamentação ter
+inicialmente previsto transferências diretas apenas para os estados e Distrito
+Federal. Esta esfera ficou dependendo de transferências de parte dos recursos
+repassados aos estados. O financiamento para municipalização das ações de média
+e alta complexidade em Visa, então, ficou à cargo da esfera estadual. Os municípios
+só foram inseridos neste marco normativo, para percepção de transferências diretas
+
+do ente federal, em 2004.
+74
+
+O segundo percalço, conforme pode ser aferido pela análise dos relatórios de gestão
+da Anvisa neste período, refere-se às dificuldades do gestor federal em formalizar as
+pactuações que promoveriam o repasse dos recursos. Se considerarmos as
+dimensões do país, a organização federativa do estado brasileiro com um número
+muito elevado de entes para pactuação, as limitações de pessoal para envolver todo
+o sistema e, principalmente, o descompasso entre as ações que deveriam ser
+executadas a partir da pactuação e o montante de recursos a ser recebido ficam
+claras as dificuldades do gestor federal de realizar estas pactuações. Quando
+confrontamos os dados do repasse com os marcos legais, esta situação é facilmente
+identificada.
+
+Este entendimento está de acordo com as considerações levantadas por Brito
+(2007). Ele adicionalmente ainda credita a dificuldade de pactuação ao fato desta
+ocorrer sem respeitar as diferenças entre as diversas regiões do país.
+
+O Pacto pela Saúde também traz avanços para o financiamento. Os repasses
+deixam de ocorrer mediante habilitação a condições de gestão para relacionar-se
+com o cumprimento de metas e compromissos de melhoria da situação de saúde.
+Nele, os repasses são integrados em blocos de financiamento com a finalidade de
+simplificar as transferências e tentar viabilizar maior flexibilidade e autonomia ao
+
+gestor estadual e municipal na execução do orçamento.
+
+Aqui foram instituídos o piso estratégico e o piso estruturante, decorrentes da
+regulamentação do componente vigilância sanitária do bloco da vigilância em saúde
+previsto no Pacto pela Saúde, e elevados os valores per capita, o que contribuiu
+para uma elevação no montante de recursos recebidos. São avanços, mesmo que o
+montante de recursos ainda não seja o ideal na visão de alguns gestores e que o
+critério de repasse não contribua para a redução das iniquidades macrorregionais,
+regionais e estaduais, como previsto no Pacto.
+
+Também se percebe que parte das “novas” fontes de recursos para a vigilância
+sanitária (vide o incentivo financeiro destinado aos Laboratórios Centrais de Saúde
+Pública e o recurso repassado para execução da ação gestão de pessoas em
+vigilância sanitária), representa repasses pontuais do órgão federal para os entes
+75
+
+subnacionais. Como parte dos repasses depende de pactuações firmadas entre
+União, estados, municípios e Distrito Federal, e considerando as dificuldades
+envolvidas no processo de pactuação, em muitas situações percebe-se a não
+execução dos recursos orçamentários previstos em lei e a correspondente criação
+de uma “nova” fonte para viabilizar repasses de recursos “antigos”. Em
+consequência, o crescimento do financiamento se dá de forma mais lenta e com
+momentos de retrocesso e há a dificuldade de previsão por parte do gestor estadual
+e municipal quanto aos recursos disponíveis para execução de suas ações, tendo
+
+em vista que o fluxo de recursos pode não assumir um caráter regular.
+
+Contraditoriamente à normatização geral do SUS, nota-se em alguns momentos da
+regulamentação do financiamento para as ações da Visa, tentativas, de vinculação
+de recursos que acabariam por implicar no engessamento dos gestores em âmbito
+municipal e estadual. É evidente que se mostra razoável que a agência federal,
+coordenadora do Sistema Nacional de Vigilância Sanitária, tente encontrar
+mecanismos para garantir que os recursos por ela repassados sejam efetivamente
+aplicados nas ações às quais se destina. Contudo, devemos avaliar esta relação
+com a necessidade de se garantir aos gestores a autonomia necessária para que
+estes recursos sejam aplicados de acordo com as necessidades de saúde da
+população, afinal a complexidade da ação da vigilância sanitária não permite que ela
+se desenvolva isoladamente das ações das demais áreas da saúde.
+
+De modo geral, a análise dos dados financeiros realizada neste estudo demonstra
+claramente que as transferências federais assumiram uma tendência de crescimento
+no repasse, principalmente quando da regulamentação das ações de média e alta
+complexidade em Visa no ano de 2000, da inclusão dos municípios no TAM em
+2004 e da regulamentação do componente Visa do bloco de vigilância em saúde no
+ano de 2008.
+
+Desconsiderando os anos de 1998 e 1999 tendo em vista a instabilidade das
+transferências no período avaliado, os repasses destinados aos municípios tiveram
+um crescimento maior do que aqueles efetuados para estados e Distrito Federal.
+Apesar da concentração inicial no estabelecimento de fontes de recursos para
+financiamento destinado a estados e Distrito Federal, nota-se a preocupação de se
+76
+
+reforçar o financiamento municipal para as ações de Visa (inclusão destes no MAC e
+a instituição do piso municipal) uma vez que os recursos recebidos pelos municípios
+pouco populosos eram insignificantes para execução de qualquer ação de vigilância.
+
+Na análise do repasse por região, pela característica do critério de alocação de
+recursos utilizado no sistema de saúde brasileiro, fica evidente que recebem maiores
+repasses aquelas regiões com maior população. Entretanto, a tendência de
+crescimento é mantida para todas as regiões.
+
+Além do incremento no repasse, identifica-se que na série ocorreram retrocessos
+que não podem ser explicados apenas através da análise de normas já que esta
+apenas demonstra uma evolução sempre positiva no repasse. A explicação é de que
+as dificuldades de pactuação entre os entes do SNVS têm sido um dos principais
+entraves para o crescimento do repasse ou até mesmo para a integralização do
+
+repasse conforme previsão orçamentária.
+
+O crescimento do repasse é um fato. Contudo, o percentual de 153,85% de
+incremento atingido no período de onze anos pode ser considerado ínfimo, se
+comparado com a complexidade, a quantidade e o custo das ações de vigilância
+sanitária a serem desempenhadas. Além disso, o aumento do repasse não significa
+necessariamente que os estados, municípios e Distrito Federal tenham recursos
+suficientes para a execução das ações de vigilância sanitária.
+
+Enfim, com a análise realizada neste estudo percebe-se que a regulamentação do
+MAC-VISA, a elevação do valor per capita percebido pelos demais entes do sistema,
+a instituição dos pisos de vigilância sanitária municipal, o surgimento de fontes
+adicionais de financiamento e o esforço do ente federal para repassar aqueles
+recursos não executados constituem avanços inegáveis. Contudo, continua aberta a
+questão se os recursos hoje disponibilizados para o financiamento das ações de
+Visa pelas várias esferas de governo são suficientes para a garantia da segurança
+sanitária da população e se os recursos repassados vêm sendo efetivamente
+aplicados no financiamento das ações de Visa.
+JT
+
+6. CONSIDERAÇÕES FINAIS
+
+Esta dissertação teve por objetivo efetuar uma análise da evolução histórica do
+financiamento federal para as ações de vigilância sanitária no período de 1998 a
+2008. Para isso, foram descritos os marcos normativos relativos ao financiamento
+federal, apresentada a série histórica dos repasses efetuados pela união, ajustando
+os valores para preços de 2008, de forma a viabilizar a discussão de se houve
+variação deste recurso e as influências do marco normativo em uma eventual
+modificação no montante de recursos transferidos à estados, municípios e Distrito
+Federal.
+
+Os resultados obtidos desta análise revelam que as normas regulamentadoras do
+financiamento da saúde e, mais especificamente, da vigilância sanitária foram
+favoráveis a uma evolução positiva no montante de recursos federais destinados ao
+financiamento das ações de vigilância sanitária no âmbito dos estados, municípios e
+Distrito Federal.
+
+Contudo também indicaram variações negativas que não poderiam ser explicadas
+apenas pelas mudanças ocorridas nas normas uma vez que nestas sempre surgiram
+fatores favoráveis a uma maior alocação de recursos na Visa. Portanto, se foram
+regulamentadas novas fontes de recursos (MAC-VISA/TAM), ampliados os entes
+contemplados por estes (inclusão dos municípios no MAC-VISA/TAM), elevados os
+valores per capita e instituídos pisos mínimos de transferência para unidades
+federadas pouco populosas (que consequentemente recebiam pouco recurso), não
+
+haveria por que se identificar nas séries variações negativas no repasse.
+
+A análise ainda permite creditar estas variações negativas às dificuldades de
+pactuação entre os gestores do SNVS uma vez que se percebe que boa parte do
+recurso repassado depende de pactos formalizados entre as esferas. Esta
+dificuldade tem gerado prejuízos ao financiamento uma vez que se percebe que a
+execução dos recursos orçamentários previstos nas normas não ocorre em sua
+integralidade.
+78
+
+Se considerarmos que, apesar do SUS ser um sistema descentralizado, boa parte
+dos recursos destinados ao financiamento da saúde e da própria Visa ainda
+continuam sendo arrecadados pelo ente federal, o completo entendimento de como
+se dá as transferências é essencial para que se possa garantir que as ações de Visa
+sejam plenamente realizadas uma vez que as mudanças nos critérios de repasses
+da união podem impactar positiva ou negativamente nos orçamentos estaduais e
+
+municipais.
+
+Esta análise do financiamento federal para as ações de Visa contribui para que os
+gestores possam conhecer as mudanças ocorridas nos últimos anos, identificando-
+se os acertos do governo federal no tocante à política de financiamento adotada e
+seus retrocessos a fim de que se possam corrigir os rumos para o futuro e assegurar
+
+o cumprimento da missão para o qual a vigilância sanitária foi constituída.
+
+É importante destacar que por se caracterizar como um estudo descritivo esta
+dissertação apresenta algumas limitações que acabam por levantar novas questões
+a serem investigadas. Aponta-se a necessidade de se analisar a execução dos
+recursos repassados pela União por parte dos entes subnacionais de forma a se
+evidenciar se eles estão sendo efetivamente aplicados nas ações de Visa, a
+qualidade destes gastos e se estes são suficientes para a execução das ações
+pactuadas de forma a se obter um real cenário do financiamento do setor.
+
+Mesmo entendendo-se a importância dos gestores de saúde ter liberdade para
+aplicar recursos de acordo com as necessidades de saúde da população e
+considerando o avanço proporcionado pelo Pacto pela Saúde neste sentido, não se
+pode desconsiderar a relevância de se conhecer como vem ocorrendo a aplicação
+destes recursos até mesmo para se verificar se a política de incentivos financeiros
+do governo federal tem logrado êxito e de fato induzido os entes subnacionais a
+
+aplicarem recursos na execução de ações de vigilância sanitária.
+
+Em se mantendo os repasses mediante pactuação, também se faz extremamente
+relevante pesquisar como têm se dado este processo entre as esferas de governo,
+identificando seus gargalos de forma a evitar que as dificuldades inerentes a este
+79
+
+processo prejudiquem o financiamento das ações de Visa e a manutenção de um
+fluxo regular de recursos para as esferas subnacionais.
+
+Considerando-se que a responsabilidade pelo financiamento da saúde é das três
+esferas de governo, faz-se imperativo ainda ampliar o escopo deste trabalho para
+englobar os recursos aplicados por estados, municípios e Distrito Federal, bem
+como relacionar estes repasses às necessidades de saúde a fim de se obter um
+cenário mais amplo para a situação da vigilância no país.
+
+É incontestável a importância da ação sanitária para a saúde e segurança da
+população. Em um sistema de saúde que, apesar de descentralizado, ainda
+depende de repasses federais, viabilizar um fluxo de recursos suficiente e constante
+para que os gestores de saúde possam executar estas ações é condição
+imprescindível para que o Sistema Único de Saúde funcione de forma plena e
+garanta o direito à saúde previsto no texto constitucional.
+80
+
+7. REFERÊNCIAS BIBLIOGRÁFICAS
+
+1. ALMEIDA FILHO, N. de; ROUQUAYROL; M. Z. Elementos de Metodologia
+Epidemiológica. In: ROUQUAYROL; M. Z; FILHO, N. de A. Epidemiologia &
+Saúde. 6º ed. Rio de Janeiro: MEDSI, 2008. p. 149-177.
+
+2. ARAÚJO JR., J. L do A. C. de. Decentralization in the health sector: the
+brazilian process, issues and problems, 1988-1994. Dissertação de
+Mestrado. Nuffield Institute for Health. University of Leeds, 1994.80p.
+
+3. BARROS, E. Financiamento do sistema de saúde no Brasil: marco legal e
+comportamento do gasto. In: Organização Pan-Americana da Saúde. Série
+técnica do projeto de desenvolvimento de sistemas e serviços de saúde,
+v. 4. Brasília: OPAS, 2008. p. 17-70.
+
+4. BRASIL. Congresso Nacional. Constituição da República Federativa do
+Brasil. promulgada em 5 de outubro de 1988. Brasília: Diário Oficial da
+União; Poder Executivo, de 05 de outubro de 1988.
+
+5. —  . Congresso Nacional. Lei nº 8.080, de 19 de setembro de 1990.
+Dispõe sobre as condições para a promoção, proteção e recuperação da
+saúde, a organização e o funcionamento dos serviços de saúde
+correspondentes e dá outras providências. Brasília: Diário Oficial da União;
+Poder Executivo, de 20 de setembro de 1990. (1990a)
+
+6. — . Congresso Nacional. Lei nº 8.142, de 28 de dezembro de 1990.
+Dispõe sobre a participação da comunidade na gestão do Sistema Único de
+Saúde (SUS) e sobre as transferências intergovernamentais de recursos
+financeiros na área da saúde e dá outras providências. Ministério da Saúde,
+Brasília. Brasília: Diário Oficial da União; Poder Executivo, de 31 de
+dezembro de 1990 (1990b).
+
+7... Ministério da Saúde. Portaria nº. 234, de 07 de fevereiro de 1992.
+Edita a norma operacional básica do Sistema Único de Saúde para 1992
+(NOB-SUS/92), conforme texto constante no anexo | da presente portaria.
+Brasília: Diário Oficial da União; Poder Executivo, de 10 de fevereiro de 1992.
+81
+
+8. Ministério da Saúde. Portaria nº. 545, de 20 de maio de 1998.
+Estabelece normas e procedimentos reguladores do processo de
+descentralização da gestão das ações e serviços de saúde através na Norma
+Operacional Básica - SUS 01/93. Brasília: Diário Oficial da União; Poder
+Executivo, de 24 de maio de 1998.
+
+9. Instituto de Pesquisa Econômica Aplicada. O novo pacto federativo.
+In: Coleção Subsídios para a reforma do estado, v. 1. Rio de Janeiro:
+IBAM/ENAP, 1994. 125p.
+
+10. . Ministério da Saúde. Portaria nº. 2.203, de 05 de novembro de 1996.
+Aprovar, nos termos do texto anexo a esta portaria, a NOB 1/96, a qual
+redefine o modelo de gestão do Sistema Único de Saúde, constituindo, por
+conseguinte, instrumento imprescindível à viabilização da atenção integral à
+saúde da população e ao disciplinamento das relações entre as três esferas
+de gestão do sistema. Brasília: Diário Oficial da União; Poder Executivo, de
+06 de novembro de 1996.
+
+11... Ministério da Saúde. Portaria nº 1.882/GM, de 18 de dezembro de
+1997. Estabelece o Piso da Atenção Básica - PAB e sua Composição.
+Brasília: Diário Oficial da União; Poder Executivo, de 22 de dezembro de
+1997;
+
+12... Ministério da Saúde. Portaria nº 2.283, de 10 de março de 1998.
+Estabelece critérios e requisitos para a qualificação dos municípios ao
+incentivo as ações básicas de vigilância sanitária. Brasília: Diário Oficial da
+União; Poder Executivo, de 11 de março de 1998.
+
+13... Ministério da Saúde. Portaria SAS nº 18, de 21 de janeiro de 1999.
+Brasília: Diário Oficial da União, Poder Executivo, de 28 de janeiro de 1999
+(1999a);
+
+14.  . Congresso Nacional. Lei nº 9.782, de 26 de janeiro de 1999. Define o
+Sistema Nacional de Vigilância Sanitária, cria a Agência Nacional de
+Vigilância Sanitária, e dá outras providências. Brasília: Diário Oficial da
+União; Poder Executivo, de 27 de janeiro de 1999. (1999b).
+
+15.  . Ministério da Saúde. Portaria nº 1.008/GM, de 8 de setembro de
+2000. Regulamenta as transferências fundo a fundo para o financiamento das
+ações de média e alta complexidade executadas pelos estados, municípios e
+82
+
+distrito federal, na área de vigilância sanitária. Brasília: Diário Oficial da
+União; Poder Executivo, de 11 de setembro de 2000.
+
+16... Ministério da Saúde. Portaria nº 145, de 31 de janeiro de 2001.
+Regulamenta as transferências fundo a fundo para o financiamento das
+ações de média e alta complexidade executadas pelos estados, municípios e
+distrito federal, na área de vigilância sanitária. Brasília: Diário Oficial da
+União; Poder Executivo, de 01 de fevereiro de 2001. (2001a)
+
+17... Ministério da Saúde. Portaria Conjunta nº 151, de 24 de setembro de
+2001. Aprova as transferências fundo a fundo para o financiamento das
+ações de média e alta complexidade executadas pelos estados, distrito
+federal e municípios, na área de vigilância sanitária. Brasília: Diário Oficial da
+União; Poder Executivo, de 26 de setembro de 2001. (2001b)
+
+18. . Agência Nacional de Vigilância Sanitária. Relatório de Gestão e
+Avaliação de Desempenho: Exercício 2004. Brasília, 2005. 84 p.
+
+19. . Ministério da Saúde. Diretrizes operacionais dos Pactos pela Vida,
+em Defesa do SUS e de Gestão. Brasília: Ministério da Saúde, 2006, 76 p.
+(Série A. Normas e Manuais Técnicos). (2006a)
+
+20. —  . Ministério da Saúde. Portaria nº. 399, de 22 de fevereiro de 2006.
+Divulga o Pacto pela Saúde 2006 — Consolidação do SUS e aprova as
+diretrizes operacionais do referido pacto. Brasília: Diário Oficial da União;
+Poder Executivo, de 23 de fevereiro de 2006. (2006b)
+
+21.  . Agência Nacional de Vigilância Sanitária. Núcleo de Assessoramento
+à Descentralização das Ações de Vigilância Sanitária. Novas Perspectivas
+para Pactuação e Financiamento da Vigilância Sanitária em 2007. Nota
+Técnica. Brasília, 27/10/2006. (2006c)
+
+22. . Agência Nacional de Vigilância Sanitária. Relatório de Gestão e
+Avaliação de Desempenho: Exercício 2005. Brasília, 2006. 156 p. (2006d)
+28. . Ministério da Saúde. Portaria GM/MS nº. 204, de 29 de janeiro de
+
+2007. Regulamenta o financiamento e a transferência de recursos federais
+para as ações e serviços de saúde, na forma de blocos de financiamento,
+com o respectivo monitoramento e controle. Brasília: Diário Oficial da União;
+Poder Executivo, de 31 de janeiro de 2007. (2007a)
+
+24. Ministério da Saúde. Portaria GM/MS nº. 1.998, de 21 de agosto de
+2007, Regulamenta o repasse de recursos financeiros destinados à execução
+83
+
+das ações de vigilância sanitária na forma do componente vigilância sanitária
+do bloco de financiamento de vigilância em saúde. Brasília: Diário Oficial da
+União; Poder Executivo, de 22 de agosto de 2007. (2007b)
+
+25. , Agência Nacional de Vigilância Sanitária. Plano Diretor de Vigilância
+Sanitária. 1.ed. Brasília: Anvisa, 2007. 56 p. (2007c)
+26. . Agência Nacional de Vigilância Sanitária. Relatório de Atividades
+
+NADAV 2007. Brasília: Núcleo de Assessoramento em Descentralização das
+ações de VISA, 2008. 37 p. (2007d)
+
+27. . Conselho Nacional de Secretários de Saúde. O financiamento da
+saúde. 1. ed. Brasília: CONASS, 2007. 164p. (Coleção Progestores). (2007e)
+28. . Agência Nacional de Vigilância Sanitária. Guia de orientações para a
+
+elaboração do plano de ação em vigilância sanitária: planejamento,
+programação, pactuação e monitoramento das ações de Visa. V. 1.2.
+Brasília: ANVISA, 2007. 17 p. (20071)
+
+29. — . Agência Nacional de Vigilância Sanitária. Reflexão sobre a portaria
+nº 204 de 29 de janeiro de 2007 — financiamento das ações de saúde.
+Brasília: Núcleo de Assessoramento em Descentralização das ações de VISA,
+2007. 14 p. (20079)
+
+30. — . Ministério da Saúde. Portaria nº. 3.202, de 18 de dezembro de 2007,
+Regulamenta o incentivo financeiro destinados aos laboratórios centrais de
+saúde pública — LACEN, para a execução das ações de vigilância sanitária,
+na forma do bloco de financiamento da vigilância em saúde e dá outras
+providências. Brasília: Diário Oficial da União; Poder Executivo, de 10 de
+dezembro de 2007. (2007h);
+
+31. . Ministério da Saúde. Portaria nº. 3.271, de 27 de dezembro de 2007,
+Regulamenta o repasse de recursos financeiros destinados aos laboratórios
+de saúde pública para execução das ações de vigilância sanitária, na forma
+do bloco de financiamento de vigilância em saúde. Brasília: Diário Oficial da
+União; Poder Executivo, de 28 de dezembro de 2007. (2007)
+
+32. Ministério da Saúde. Portaria nº. 1.996, de 20 de agosto de 2007,
+Dispõe sobre as diretrizes para a implantação da política nacional de
+educação permanente em saúde. Brasília: Diário Oficial da União; Poder
+Executivo, de 22 de agosto de 2007. (2007))
+84
+
+33. . Ministério da Saúde. Portaria GM/MS nº. 133, de 21 de janeiro de
+2008, Atualiza a regulamentação do repasse de recursos financeiros federais
+do componente vigilância sanitária do bloco de financiamento de vigilância em
+saúde, destinado à execução das ações de vigilância sanitária. Brasília: Diário
+Oficial da União; Poder Executivo, de 23 de janeiro de 2008. (2008a)
+
+34.  . Conselho Nacional de Secretários de Saúde. Gestão e
+Financiamento do Sistema Único de Saúde. 1. ed. Brasília: CONASS,
+2008. 150p. (CONASS Documenta; 14). (2008b)
+
+35. —  . Agência Nacional de Vigilância Sanitária. Resolução RDC nº 3, de 28
+de janeiro de 2008, Estabelece normas sobre aplicação, controle e
+acompanhamento dos recursos federais transferidos fundo a fundo para
+Estados, Distrito Federal e Municípios e da execução das ações de Vigilância
+Sanitária, na forma do Componente de Vigilância Sanitária, do Bloco de
+Financiamento de Vigilância em Saúde. Brasília: Diário Oficial da União;
+Poder Executivo, de 29 de março de 2008. (2008c)
+
+36. . Ministério da Saúde. Portaria nº 3.080, de 23 de dezembro de 2008,
+Regulamenta o repasse de recursos financeiros como incentivo à execução
+das ações de gestão de pessoas em vigilância sanitária na forma do
+componente de vigilância sanitária do bloco de financiamento de vigilância em
+saúde. Brasília: Diário Oficial da União; Poder Executivo, de 24 de dezembro
+de 2008. (2008d)
+
+37. . Agência Nacional de Vigilância Sanitária. Nota Técnica
+ANVISA/CONASS/CONASEMS. Brasília: Núcleo de Assessoramento em
+Descentralização das ações de VISA, nd. 5p. Disponível em:
+http://www .anvisa.gov.br/institucional/snvs/descentralizacao/nota tecnica.
+Acesso em 13 jan.2009.
+
+38.BRITO, R.L.de. Análise da política de descentralização das ações de
+vigilância sanitária no Brasil: do debate sobre o repasse de recursos ao
+compromisso com a responsabilidade sanitária. Recife, 2007. 175 p.
+Dissertação (Mestrado em Saúde Pública) — Fundação Oswaldo Cruz.
+
+39.CARVALHO, G. C. O. Financiamento Público Federal do Sistema Único
+de Saúde, 1988-2001. São Paulo: PaperCrom Editora e Gráfica, 2002.
+
+40. CONFERÊNCIA Nacional de Vigilância Sanitária, 1., 2001, Brasília. Relatório
+Final. Brasília: Agência Nacional de Vigilância Sanitária, 2001. 159 p.
+85
+
+41.COSTA, L. R. L da. Os critérios de alocação de recursos financeiros no
+Sistema Único de Saúde: uma visão a partir das Normas Operacionais,
+1991 a 2002. São Paulo, 2003. 121 p. Dissertação (Mestrado em
+Administração) — Escola de Administração de Empresas de São Paulo:
+Fundação Getúlio Vargas.
+
+42.COSTA, E. A; ROZENFELD, S. Constituição da vigilância sanitária no Brasil.
+In: ROZENFELD, S. Fundamentos da vigilância sanitária. Rio de Janeiro:
+FIOCRUZ; 2004. p. 15-40.
+
+43.COUTTOLENC, B. F; ZUCCHI, P. Série Saúde & Cidadania - Gestão de
+Recursos Financeiros. São Paulo: Faculdade de Saúde Pública da
+Universidade de São Paulo, 1998.
+
+44.DE SETA, M. H. A construção do sistema nacional de vigilância sanitária:
+uma análise das relações intergovernamentais na perspectiva do
+federalismo. [tese]. Rio de Janeiro: UERJ; 2007.
+
+45.LAVILLE, C; DIONNE, J. A construção do saber: manual de metodologia
+da pesquisa em ciências humanas. Belo Horizonte: Editora UFMG, 1999.
+
+46.LUCCHESE, P. A vigilância sanitária segundo as normas operacionais
+básicas do Ministério da Saúde. In: ROZENFELD, S. Fundamentos da
+Vigilância Sanitária. Rio de Janeiro: Editora FIOCRUZ, 2000. p. 99-112.
+
+47.LUCCHESE, P. Equidade na gestão descentralizada do SUS: desafios para a
+redução de desigualdade em saúde. Ciência & Saúde Coletiva, Rio de
+Janeiro, v. 8, n. 2, 439-448, 2008.
+
+48.LUCCHESE, P. A vigilância sanitária segundo as normas operacionais
+básicas do Ministério da Saúde. In: ROZENFELD, Suely. Fundamentos da
+vigilância sanitária. 20. Ed. Rio de Janeiro: Fiocruz; 2004. p. 99-112.
+
+49.MALIK, A. M. Planejamento, financiamento e orçamento da saúde: alterações
+no Sistema Único de Saúde nos anos 90 (a reforma da reforma). In: Curso de
+Especialização à distância em Direito Sanitário para Membros do
+Ministério Público e da Magistratura Federal. Brasilia: Unb/FIOCRUZ,
+2002, p. 513-528.
+
+50.MARQUES, M. C. da C. A prática da vigilância sanitária e a ética. In:
+UNIVERSIDADE DE SÃO PAULO. FACULDADE DE SAÚDE PÚBLICA.
+CENTRO COLABORADOR EM VIGILÂNCIA SANITÁRIA. Vigilância
+Sanitária: textos e contextos. São Paulo: CECOVISA — USP, 2004, p. 28-34.
+86
+
+51.MELAMED, C; COSTA, N. R. Inovações no Financiamento Federal à atenção
+básica. Ciência & Saúde Coletiva, Rio de Janeiro, V.8, n. 2, p. 393-401,
+2008.
+
+52.MENDES, E. V. Os grandes dilemas do SUS: Tomo Il. Salvador: Casa da
+Qualidade. Editora, 2001. 176p.
+
+53.MINAYO, M. C. S; SANCHES, O. Quantitativo-qualitativo: oposição ou
+complementaridade? Cadernos Saúde Pública, Rio de Janeiro, v. 9, n. 3, p.
+2387-248. 1998.
+
+54.OLIVEIRA JUNIOR, M. de. O financiamento das ações de vigilância sanitária
+no Sistema Único de Saúde. Cadernos de Saúde, Belo Horizonte, n. 4, 79-
+88, 2001.
+
+55.SANTOS, L; ANDRADE, L. O. M de. SUS: Espaço da gestão inovada e dos
+consensos interfederativos — Aspectos jurídicos, administrativos e
+financeiros. São Paulo: Idisa, 2007.
+
+56.SOLLA, J. J. S. P; COSTA, E. A. Evolução das transferências financeiras
+no processo de descentralização da vigilância sanitária no SUS. Revista
+Baiana de Saúde Pública, Bahia, v. 31, n. 1, p. 161-177, jan./jun. 2007.
+
+57. UGÁ, M. A. et al. Descentralização e alocação de recursos no âmbito do SUS.
+Ciência & Saúde Coletiva, Rio de Janeiro, V. 8, n. 2, p. 417-437, 2008.
+

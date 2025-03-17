@@ -1,0 +1,3667 @@
+Biblioteca
+
+ 
+
+DIGITAL Lo E
+
+CÂMARA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+O Poder Legislativo e o Programa Nacional
+de Segurança Pública com Cidadania - PRONASCI
+
+) uarez Nunes Cavalcante
+
+2011
+
+Biblioteca Digital da Câmara dos Deputados
+Centro de Documentação e Informação
+Coordenação de Biblioteca
+http://bd.camara.gov.br
+
+"Dissemina os documentos digitais de interesse da atividade legislativa e da sociedade.”
+ 
+
+CÂMARA DOS DEPUTADOS
+CENTRO DE FORMAÇÃO, TREINAMENTO E APERFEIÇOAMENTO
+PROGRAMA DE PÓS-GRADUAÇÃO
+
+JUAREZ NUNES CAVALCANTE
+
+O Poder Legislativo e o Programa Nacional de Segurança Pública
+com Cidadania - PRONASCI
+
+Brasilia
+2011
+JUAREZ NUNES CAVALCANTE
+
+O Poder Legislativo e o Programa Nacional de Segurança Pública
+com Cidadania - PRONASCI
+
+Monografia apresentada ao Programa de Pós-
+Graduação do Centro de Formação, Treinamento e
+Aperfeiçoamento da Câmara dos Deputados, como
+parte das exigências do curso de Especialização em
+Legislativo e Políticas Públicas.
+
+Orientador: Maurício Matos Mendes
+
+Brasilia,
+2011
+ 
+
+Autorização
+
+Autorizo a divulgação do texto completo no sítio da Câmara dos Deputados e a reprodução
+
+total ou parcial, exclusivamente, para fins acadêmicos e científicos.
+
+A ssinatura:
+
+Data: de janeiro de 2011.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cavalcante, Juarez Nunes.
+
+O Poder Legislativo e o Programa Nacional de Segurança Pública com Cidadania-Pronasci
+[manuscrito] / Juarez Nunes Cavalcante. -- 2011.
+
+70 f.
+
+Orientador: Maurício Matos Mendes.
+
+Impresso por computador.
+
+Monografia (especialização) -- Curso em Legislativo e Políticas Públicas, Câmara dos
+Deputados, Centro de Formação, Treinamento e A perfeiçoamento (Cefor), 2011.
+
+1. Programa Nacional de Segurança Pública com Cidadania (Brasil) (Pronasci). 2. Poder
+egislativo, Brasil. 3. Medida provisória, Brasil. 4. Processo legislativo, Brasil. 5. Política de
+segurança, Brasil. 6. Políticas públicas, Brasil. I. Título.
+
+CDU 351.78 (81)
+
+ 
+
+ 
+
+ 
+O Poder Legislativo e o Programa Nacional de Segurança Pública
+com Cidadania - PRONASCI
+
+Monografia - Curso de Especialização em Legislativo e Políticas
+
+Públicas.
+
+Aluno: Juarez Nunes Cavalcante
+
+Banca Examinadora:
+
+Professor Willian Mario de Lucia Júnior
+Dedico este trabalho aos meus pais, Tibúrcio e
+Genedite; aos meus filhos, Guilherme e Vinícius, e a
+minha esposa Adriana; a todos os meus familiares; aos
+meus amigos; aos meus colegas de trabalho e aos meus
+colegas de curso, com quem tive a grande satisfação de
+compartilhar dificuldades e alegrias, objetivando a
+
+aquisição de novos conhecimentos e valores.
+Agradecimentos
+
+Antes de tudo e depois de tudo a Deus, pelo o que sou e
+pelo o que ainda virei a ser.
+
+Ao meu orientador e agora amigo Maurício Matos
+Mendes, pela grande paciência e sabedoria em me bem
+conduzir pelos caminhos que permitiram a elaboração
+deste trabalho.
+
+Ao professor Eduardo Femandez, pelos valiosos
+ensinamentos que me proporcionou durante e depois do
+
+Curso.
+
+Ao diretor da Consultoria Legislativa da Câmara dos
+Deputados, Dr. Ricardo José Pereira Rodrigues e ao
+diretor da Coordenação de Apoio Técnico-Legislativo
+da Consultoria Legislativa da Câmara dos Deputados,
+Luiz Cláudio Pires dos Santos, pelo grande apoio,
+incentivo e compreensão que me proporcionaram em
+todos os momentos da elaboração da presente
+monografia.
+
+Aos colegas, amigos e amigas da Consultoria
+Legislativa, e em especial, aos da Seção de Recuperação
+de Dados e Documentos pelo grande apoio, incentivo e
+compreensão que me dedicaram durante a elaboração
+deste trabalho.
+
+À toda equipe do CEFOR, sempre atenta, disponível e
+prestativa.
+Pessoas sem egoísmo iluminam o ambiente.
+É bom expressarmos natural e espontaneamente a nossa
+alegria, sem nenhuma segunda intenção ou preocupação da
+pequena inteligência humana. Essa expressão natural e
+espontânea é que ilumina as pessoas e as salva. A expressão
+
+isenta de intenção do ego é a mais bela e a mais produtiva.
+(Do livro A verdade da Vida, vol 30 - Masaharu Taniguchi)
+Resumo
+
+O presente trabalho analisa e sintetiza de forma bastante objetiva, a criação da
+política pública de segurança denominada Programa Nacional de Segurança Pública com
+Cidadania - Pronasci, pelo instituto da medida provisória. É analisada sua tramitação no
+Congresso Nacional, os pareceres apresentados em plenário, os discursos dos parlamentares
+favoráveis e contrários à matéria e às modificações que foram efetuadas. O trabalho,
+utilizando critérios pré-definidos de alcance social da política pública, verifica se as
+modificações efetuadas pelos parlamentares aprimoraram ou não o texto recebido do Poder
+Executivo por meio da Medida Provisória nº 384, de 20 de agosto de 2007. Por fim, é
+analisada a viabilidade do Congresso Nacional de poder criar ou otimizar alguma ação ou
+projeto que, porventura, não esteja produzindo os efeitos esperados ou que ainda não tenha
+
+sido contemplado pelo Pronasci.
+
+Palavras-chave: Pronasci, medida provisória, programa nacional, política pública, segurança
+
+pública, Congresso Nacional, lei, projeto, criminalidade, violência, cidadania, parlamentares.
+11
+1.2
+1.21
+1.2.2
+1.2.3
+124
+1.3
+
+2.1
+22
+
+3.1
+3.2
+3.2.1
+3.2.2
+3.2.3
+3.3
+
+Jo q
+
+SUMÁRIO
+
+ 
+
+ 
+
+Introdução.........ererereererereneeerenearererearerererrerererearererereererereacererereaerereasarenerrarers 9
+O Programa Nacional de Segurança Pública com Cidadania - Pronasci.............. 10
+Pronasci=-FUNQAMENOS, eso panorama esa 10
+Pronasci - ProjeloS: sussa nes ni as a ns na 13
+O Projeto ProtejO;azmansnaansaasa DRT 13
+O Projeto Mulheres da Paz.............eeeeeeeearararararararaearaeaeaearararaareraaa 14
+O Projeto Reservista-Cidadão.... 15
+O Projeto Bolsa - Formação................eeeeerereeereeerereerereeremrersererrertanea 15
+Pronasci - Ações de APOIO, sa sesensenanasa manera cava seram 15
+A Questão da Segurança Pública. sassansa numas ncacannnauicentanannamaso 16
+Uma Pequena Abordagem Conceitual................ rr ereeeerereeerererenõos 16
+A Segurança Pública no Brasil - Alguns Pontos Relevantes............emenes 17
+O Pronasci e a Ação do Congresso Nacional... eee 20
+
+O Alcance Social da Medida Provisória.
+
+ 
+
+A Proposta Originániasasesesaasuzearen ceras
+
+A Tramitação na Câmara dos Deputados............eeereeremereeereerenrereerenrereereroos 23
+A Tramitação no Senado Federal............ieereerereereererereerererenrererereererertareros 28
+O Retorno da Matéria à Câmara dos Deputados... 31
+As Inovações Introduzidas................iereeeeeeereererereerereeearerrererrereeereeneas 33
+
+Os Projetos de Lei que tramitam no Congresso Nacional tratando do Pronasci. 35
+Conclusão 37
+
+ 
+
+Referências.........eremeeerereerererearerereearerereaeereeeaeererereaerereaearerereereerereererenenos 38
+
+ÂNEXOS......ccrireeerereeerereeerererreereereeereraeeeerer nene era aera rea ere rar ras rena ra eraen es aeea era saeererasta 40
+Introdução
+
+Hodiemamente, sabe-se que o bem-estar da sociedade já não é mais apenas
+responsabilidade do Estado. O mercado, as organizações não governamentais e a própria
+sociedade, também são, de certa forma, co-responsáveis. Solidificou-se entre todos, a idéia da
+responsabilidade social. Por isso, quando se planeja a criação de uma política pública, há que
+se pensar na participação e envolvimento de todos: sociedade, mercado, organizações não
+governamentais e Estado. O Programa Nacional de Segurança Pública com Cidadania -
+Pronasci, objeto deste trabalho, assimilou muito dessa nova forma de tratar os interesses da
+sociedade. Tratando do tema criação de políticas públicas, os ensinamentos do doutor em
+sociologia, Luis Flávio Sapori em sua obra Segurança Pública no Brasil: desafios e
+perspectivas (2007, p. 71,72), são de singular importância para uma breve e fácil compreensão
+
+da matéria:
+
+A noção de política pública pressupõe a existência de uma esfera da vida que
+não é privada ou puramente individual, e sim sustentada pelo que é comum e
+público. À medida, portanto, que certos bens vão se coletivizando, tornam-se
+necessariamente objetivo de políticas públicas. Ter uma política pública
+significa ter razões ou argumentos que contenham não só a compreensão de
+um problema como também a sua solução. Pôe em questão o que é e o que
+deve ser feito. Desse ponto de vista, espera-se que os políticos tenham
+políticas (policies) ou mesmo que planejem e executem políticas (policy-
+makers). Não se deve ignorar que a implementação de políticas públicas nas
+sociedades modernas não está sujeita apenas à dualidade Estado/mercado. A
+participação de organizações voluntárias, sem fins lucrativos, como é o caso
+das organizações não-governamentais, também se faz presente. Nos anos
+recentes disseminou-se em muitos países ocidentais o conceito de que a
+responsabilidade social não é mais um atributo exclusivo do Estado, nem da
+ação cívica dos cidadãos considerados individualmente. A sociedade e o
+govemo estão realizando cada vez mais parcerias entre si e assumindo a co-
+responsabilidade pela oferta de alguns bens públicos.
+
+O objetivo deste trabalho é analisar alguns aspectos da atuação do Congresso
+Nacional na tramitação e aprovação da medida provisória que deu origem ao Pronasci,
+respondendo a questionamentos, como: É possível evitar que políticas públicas tão
+importantes como essa, sejam implantadas através do instituto da medida provisória, onde não
+é possível a apreciação da matéria pelas comissões temáticas especializadas do Congresso
+Nacional? Apesar da exiguidade de tempo que a apreciação de medida provisória requer, o
+10
+
+Congresso Nacional contribuiu na melhoria da normatização da referida política pública? É
+possível, ainda, ao Congresso Nacional efetuar mudanças no Pronasci, criando ou otimizando
+alguma ação ou projeto que, porventura, não esteja produzindo os efeitos esperados ou que
+
+ainda não tenha sido contemplado pelo mesmo?
+
+Antes de adentrar-se no mérito das questões a que este trabalho se propôs, foi
+feita uma breve apresentação da política pública do Pronasci. Foram apresentados os seus
+fundamentos, as suas principais ações e projetos, e os argumentos da exposição de motivos da
+Medida Provisória nº 384, de 20 de agosto de 2007, que justificaram a sua criação.
+
+Em seguida, passou-se a expor conceitualmente, a questão da segurança pública.
+Como a nossa Carta Magna a estruturou, quais são os órgãos que a compõe, e quais os seus
+principais objetivos.
+
+Feitas estas apresentações julgadas necessárias, passou-se então a análise da
+criação da política pública do Pronasci pelo instituto da medida provisória. Foi analisada a
+atuação do Congresso Nacional a partir da data em que este recebeu a Medida Provisória nº
+384, de 20 de agosto de 2007, até a sua posterior conversão na Lei nº 11.530, de 24 de
+outubro de 2007.
+
+Nesta etapa, foram destacados e analisados os principais pontos dos pareceres
+apresentados na Câmara dos Deputados e no Senado Federal, bem como, dos discursos
+parlamentares favoráveis e contrários a aprovação da matéria.
+
+Finalizando o presente trabalho, foi analisado se as modificações introduzidas
+pelo Congresso Nacional no decorrer da apreciação da Medida Provisória n. 384, de 20 de
+agosto de 2007, aprimoraram ou não o texto recebido do Poder Executivo. Para tanto,
+utilizou-se como parâmetro pré-definido o alcance social da referida medida provisória.
+
+10 Programa Nacional de Segurança Pública com Cidadania - Pronasci
+
+1.1 Pronasci - Fundamentos
+
+No dia 21 de agosto de 2007 o Presidente da República fez publicar no Diário
+Oficial da União a Medida Provisória nº 384/2007, criando a política pública de segurança
+denominada Programa Nacional de Segurança Pública com Cidadania - Pronasci, destinada à
+prevenção, controle e repressão da criminalidade nas raízes sócio-culturais das regiões
+metropolitanas brasileiras, unificando ações de segurança pública e políticas sociais por meio
+11
+
+da integração entre União, Estados, Distrito Federal e Municípios com a participação da
+sociedade.
+
+Sem querer apequenar os méritos do programa, é matéria pacífica na literatura que
+o instituto da medida provisória não é o melhor caminho para a implantação de políticas
+públicas, tendo em vista tratar-se de um instrumento jurídico de emergência, no qual, o
+Congresso Nacional, especialista na elaboração das leis não dispõe do tempo adequado para a
+sua devida apreciação.
+
+Constitucionalistas credenciados como Alexandre de Moraes, em sua obra Direito
+Constitucional (2008), referendam tal posição. Na mesma linha vai José Afonso da Silva, em
+seu livro Curso de Direito Constitucional Positivo (2010, p. 524) quando afirma que “As
+medidas provisórias não constavam da enumeração do art. 59, como objeto do processo
+legislativo, e não tinham mesmo que constar, porque sua formação não se dá por processo
+
+legislativo. São simplesmente editadas pelo Presidente da República”.
+
+Como os requisitos de relevância e urgência na edição de medidas provisórias são,
+de certa forma, subjetivos e políticos, isso amplia a competência do Poder Executivo e
+consequentemente, reduz a do Poder Legislativo. Corroborando essa mesma linha de
+raciocínio, o eminente especialista José Levi Mello do Amaral Júnior, em sua obra intitulada
+“Medida Provisória e a sua conversão em Lei: a Emenda Constitucional n. 32 e o papel do
+
+Congresso Nacional”(2004, p. 156), assim escreveu:
+
+Na realidade do texto constitucional, seja o originário, seja o emendado, a
+medida provisória subordina-se à ocorrência de dois requisitos
+constitucionais, a saber: relevância e urgência. Ambas, relevância e urgência,
+são requisitos de natureza eminentemente política. Inicialmente tocam ao
+Presidente da Republica mas são escrutináveis. No entanto -
+excepcionalmente e à luz de critérios objetivos - a jurisprudência do
+Supremo Tribunal Federal admite sejam também controlados pelo Poder
+Judiciário os requisitos de relevância.
+12
+
+O Programa Nacional de Segurança Pública com Cidadania, mais conhecido
+como Pronasci, conforme se depreende da Exposição de Motivos da Medida Provisória nº
+384, de 20 de agosto de 2007, que deu origem ao referido programa, foi criado pelo Governo
+Federal como uma nova proposta para a segurança pública no Brasil e tem como objetivo a
+prevenção, o controle e a repressão da criminalidade nas raízes sócio-culturais das regiões
+
+metropolitanas brasileiras.
+
+O programa combina ações de segurança pública e políticas sociais em regime de
+cooperação entre a União, Estados, Distrito Federal e Municípios, com a participação das
+famílias e da comunidade, mediante projetos e ações de assistência social, técnica e financeira
+
+e mobilização social, visando à melhoria da segurança pública.
+
+O Pronasci tem como público-alvo jovens de 15 a 24 anos expostos à violência
+doméstica ou urbana ou moradores de rua, detentos ou que se encontram em conflito com a lei
+e jovens oriundos do serviço militar, além dos profissionais do sistema de segurança pública.
+O objetivo é a inclusão e o acompanhamento do jovem em um percurso social e formativo
+
+que lhe permita o resgate da cidadania.
+
+Destaca, ainda, a referida Exposição de Motivos as seguintes ações como
+principais eixos do Pronasci:
+- À valorização dos profissionais de segurança pública com cursos de capacitação, projeto de
+transferência direta de renda e plano habitacional para as categorias.
+- A reestruturação do sistema penitenciário criando penitenciária especial para jovens, com
+idade entre 18 e 24 anos, que vai gerar muitas vagas com ambiente integrado para cursos
+educacionais e profissionalizantes. Cada detento ficará em uma cela com outros cinco
+apenados e, se necessário, terá à disposição uma modema sala de saúde, com médicos,
+psicólogos e também assistentes sociais. Com essas novas unidades, será possível separar
+detentos por faixa etária e pelo tipo do crime cometido. A medida evitará o contato de jovens
+que cometeram pequenos delitos com bandidos de maior periculosidade, além de oferecer
+oportunidade de ressocialização para o jovem do sistema prisional.
+- O envolvimento da comunidade na prevenção da violência.
+- À interação constante entre a polícia e a comunidade é uma das prioridades do Programa
+para prevenir e conter a violência nas grandes cidades brasileiras. O objetivo é estabelecer
+uma nova relação com a população, baseada na confiança e na proximidade. Os policiais
+
+permanecem sempre na mesma região tomando-se conhecidos dos moradores.
+13
+
+Os programas, projetos e ações que compõem o Pronasci, conforme o art. 4º, da
+
+Lei 11.530, de 24 de outubro de 2007, têm quatro focos prioritários: o primeiro é o foco etário
+
+- população juvenil de 15 (quinze) a 24 (vinte e quatro) anos; o segundo é o foco social -
+
+jovens e adolescentes egressos do sistema prisional ou em situação de moradores de rua,
+
+familias expostas à violência urbana, vítimas da criminalidade e mulheres em situação de
+
+violência; o terceiro é o foco territorial - regiões metropolitanas e aglomerados urbanos que
+
+apresentem altos índices de homicídios e de crimes violentos; o quarto é o foco repressivo -
+
+combate ao crime organizado.
+
+O secretário executivo do Pronasci, Ronaldo Teixeira da Silva (2009), em recente
+
+apresentação do programa, assim discorreu sobre o tema:
+
+O Programa Nacional de Segurança Pública com cidadania (Pronasci)
+propõe-se a promover uma mudança de paradigma para o setor no país. Essa
+proposta teve origem em 16 de marco de 2007, quando o ministro Tarso
+Genro chegou ao Ministério da Justiça e instituiu um grupo de trabalho para
+a formulação do programa. Naquela oportunidade, poder-se-ia imaginar o
+ministro da Justiça convocaria os principais nomes da área da segurança
+pública no país - policiais federais, civis e militares, profissionais que, regra
+geral, dedicam-se exclusivamente às questões ligadas ao setor. O ministro,
+no entanto, tinha em mente algo diferente; formou-se, então, um grupo
+heterogêneo constituído não só por policiais, mas também por educadores,
+psicólogos, assistentes sociais e juristas. O resultado foi uma proposta que
+prevê a superação da dicotomia entre políticas tradicionais de segurança -
+mais armas, mais viaturas, mais repressão - e políticas sociais - mais
+emprego, mais saúde, mais educação.
+
+Prosseguindo, Ronaldo Teixeira da Silva destaca a alteração de paradigmas do
+
+Pronasci no enfrentamento da questão:
+
+O Pronasci propõe substituir simbolicamente um “ou” - polícias repressivas
+ou políticas sociais - por um “e”. É preciso implementar medidas de
+segurança publica com ações sociais, articulando prevenção e repressão. A
+mudança de paradigma refere-se, também, a uma nova forma de articular a
+ação dos agentes estatais. A Constituição estabelece que segurança pública é
+prerrogativa dos govemnos estaduais; com o Pronasci, o governo federal
+propõe-se a partilhar essa responsabilidade, envolvendo também os
+municípios nesse esforço para qualificar a gestão das políticas de combate à
+violência e à criminalidade. Trata-se de uma iniciativa que reforça a
+orientação conceitual do Sistema Unico de Segurança Pública (Susp), uma
+conquista do primeiro mandato do presidente Luiz Inácio Lula da Silva.
+(OLIVEIRA, Fátima Bayma de, et al, 2009, p. 31-32).
+
+1.2 Pronasci - Projetos
+
+1.2.1 Protejo
+14
+
+Um dos projetos do Pronasci, tratado pelos artigos 8&e 8%C da Lei 11.530, de 24
+de outubro de 2007, mais conhecido como Protejo - Projeto de Proteção de Jovens em
+Território Vulnerável, oferece uma série de atividades com o foco na formação da cidadania
+e no resgate dos jovens de áreas violentas por meio de atividades culturais, esportivas e
+
+educacionais.
+
+O projeto é destinado à formação e inclusão social de jovens e adolescentes
+expostos à violência doméstica ou urbana ou em situações de moradores de rua, nas áreas
+geográficas abrangidas pelo Pronasci. O trabalho desenvolvido pelo Protejo tem duração de 1
+(um) ano, podendo ser prorrogado por igual período, e tem como foco a formação cidadã dos
+jovens e adolescentes a partir de práticas esportivas, culturais e educacionais que visem a
+resgatar a auto-estima, a convivência pacífica e o incentivo à reestruturação do seu percurso
+
+socioformativo para sua inclusão em uma vida saudável.
+
+Os participantes do projeto recebem auxílio financeiro de R$ 100,00 (cem reais)
+mensais, conforme determina o inciso 1, do art. 8 F, da Lei 11.707, de 19 de junho de 2008.
+
+1.2.2 Mulheres da Paz
+
+O projeto Mulheres da Paz, citado nos artigos 8º e 8 D da Lei 11.530, de 24 de
+outubro de 2007, é destinado à capacitação de mulheres socialmente atuante nas áreas
+geográficas abrangidas pelo Pronasci.
+
+O trabalho desenvolvido pelas Mulheres da Paz tem como foco a mobilização
+social para afirmação da cidadania, tendo em vista a emancipação das mulheres e prevenção e
+enfrentamento da violência contra as mulheres, e a articulação com jovens e adolescentes,
+com vistas na sua participação e inclusão em programas sociais de promoção da cidadania e
+na rede de organizações parceiras capazes de responder de modo consistente e permanente às
+
+suas demandas por apoio psicológico, jurídico e social.
+
+As mulheres participantes do projeto recebem auxílio financeiro de R$ 190,00
+(cento e noventa reais) mensais, conforme determina o inciso II, do art. 8-F, da Lei 11.707,
+de 19 de junho de 2008.
+15
+
+1.2.3 O Projeto Reservista-Cidadão
+
+O projeto Reservista-Cidadão, elencado nos artigos 8º e 8-B da Lei 11.530, de 24
+de outubro de 2007, é destinado à capacitação de jovens recém-licenciados do serviço militar
+obrigatório, para atuar como agentes comunitários nas áreas geográficas abrangidas pelo
+
+Pronasci.
+
+O trabalho desenvolvido pelo Reservista-Cidadão, tem como foco a articulação
+com jovens e adolescentes para sua inclusão e participação em ações de promoção da
+cidadania. Os participantes do projeto recebem formação sociojurídica e têm atuação direta na
+
+comunidade.
+
+Os participantes do projeto recebem auxílio financeiro de R$ 100,00 (cem reais)
+mensais, conforme determina o inciso I, do art. 8-F, da Lei 11.707, de 19 de junho de 2008.
+
+1.2.4 Projeto Bolsa-Formação
+
+O Projeto Bolsa-Formação, constante dos artigos 8º e 8- E da Lei 11.530, de 24 de
+outubro de 2007, é destinado à qualificação profissional dos integrantes das Carreiras já
+existentes das polícias militar e civil, do corpo de bombeiros, dos agentes penitenciários, dos
+agentes carcerários e dos peritos, contribuindo com a valorização desses profissionais e
+
+consequente benefício da sociedade brasileira.
+
+A Secretaria Nacional de Segurança Pública do Ministério da Justiça é a
+responsável pelo oferecimento e reconhecimento dos cursos destinados aos peritos e aos
+policiais militares e civis, bem como aos bombeiros. O Departamento Penitenciário Nacional
+do Ministério da Justiça é o responsável pelo oferecimento e reconhecimento dos cursos
+
+destinados aos agentes penitenciários e agentes carcerários.
+
+Os participantes do projeto recebem um valor referente à Bolsa-Formação, de
+acordo com o previsto em regulamento.
+
+1.3. Pronasci - Ações de A poio
+16
+
+A bolsa para estudar, os cursos de qualificação, a pós-graduação e o acesso à
+moradia são exemplos de algumas iniciativas que o Ministério da Justiça mantém, por meio
+do Pronasci, para a valorização dos profissionais de segurança pública. Os servidores de
+segurança pública de todo o País recebem, inclusive, incentivo financeiro para estudar, se
+qualificar e prestar melhores serviços à comunidade. Para ter direito ao benefício, o servidor
+terá que participar de cursos de capacitação promovidos pelo Ministério da Justiça (MJ).
+
+A qualificação profissional não chega só aos profissionais que recebem bolsa. Por
+meio da Rede Nacional de Altos Estudos em Segurança Pública (Renaesp), o Ministério da
+Justiça, permite o acesso a cursos de especialização destinados à formação de profissionais de
+segurança pública de todo o País.
+
+Para proporcionar uma moradia mais digna ao profissional de segurança pública e
+retirá-lo de áreas de risco onde possa ter sua vida e de sua família ameaçada, o Pronasci
+oferece o Plano Habitacional, viabilizado pela Caixa Econômica.
+
+2 A Questão da Segurança Pública
+2.1. Uma Pequena Abordagem Conceitual
+
+Determina o art. 144, da Constituição Federal, que a segurança pública é dever do
+Estado, direito e responsabilidade de todos, é exercida para a preservação da ordem pública e
+da incolumidade das pessoas e do patrimônio, através dos seguintes órgãos: polícia federal,
+polícia rodoviária federal, polícia ferroviária federal, polícias civis e polícias militares e
+corpos de bombeiros militares.
+
+O debate conceitual sobre o tema é bastante interessante. Contudo,
+considerando os limites desse trabalho, não é recomendável alongar-se muito nessa questão.
+Porém, objetivando um melhor entendimento sobre o tema, é oportuno destacar que, como
+elementos parametrizadores da nossa abordagem e como norteadores das nossas conclusões ,
+os ensinamentos do professor da Universidade Federal Fluminense e Doutor em direito pela
+Universidade do Estado do Estado do Rio de Janeiro, Cláudio Pereira de Souza Neto, que no
+livro Desafios da Gestão Pública de Segurança (2009, p. 61), falando sobre o tema
+“Parâmetros para a conceituação constitucionalmente adequada da segurança pública,
+
+concluiu que:
+17
+
+As maiores ameaças à democracia e ao Estado de direito no Brasil de hoje
+advêm das políticas de segurança pública, que têm assumido uma orientação
+predominantemente autoritária. A política de “combate”; a criação de
+“inimigos públicos”; a criminalização do negro e do pobre; o apelo ao
+emprego das Forcas Armadas: é nesse tipo de retórica que germinam os
+elementos irracionais do ambiente cultural adequado à emergência do
+autoritarismo. Não há duvidas de que parte considerável da população
+brasileira é objeto de práticas autoritárias. Não há duvida tampouco de que,
+em parcela do território, não vigora o Estado democrático de direito. A
+imprensa, quando flerta com esse imaginário, não esta senão fomentando as
+bases culturais que põem em xeque a estabilidade das instituições
+democráticas. O Judiciário e o Ministério Público, quando se omitem no
+controle das políticas de segurança, ou decidem em desconformidade com a
+lei e o direito, não cumprem um dos principais papeis que a Constituição de
+1988 lhes incumbiu: a defesa das instituições democráticas. Romper com a
+ilegalidade normal das políticas de segurança figura ainda como um objetivo
+fundamental a ser perseguido pelo Estado brasileiro, como etapa
+indispensável de nosso processo civilizatório e como condição de
+possibilidade do progresso social.
+
+Da mesma forma, no campo jurídico, no que tange aos balizadores necessários à
+fixação do alcance do trabalho e suas conclusões, é de grande valia também ao perfeito
+entendimento dos parâmetros conceituais utilizados nesse trabalho, o ensinamento do
+constitucionalista José Afonso da Silva que em seu livro Curso de Direito Constitucional
+Positivo (2010, p.778) afirma que segurança pública “consiste numa situação de preservação
+ou restabelecimento da convivência social que permite que todos gozem de seus direitos e
+exerçam suas atividades sem perturbação de outrem, salvo nos limites de gozos e
+
+reivindicação de seus próprios direitos e defesa de seus legítimos interesses”.
+
+2.2. A Segurança Pública no Brasil - Alguns Pontos Relevantes
+
+Uma das maiores preocupações dos últimos governos tem sido com a segurança
+pública. Como fazer cessar a crescente e assustadora onda de violência e criminalidade que
+infemniza o povo brasileiro a várias décadas, é a pergunta que tem sido feita, diutumamente,
+aos govemantes, e estes, resignadamente, até os dias atuais, tem admitido não saber o que
+responder. A cada novo noticiário da mídia, mais cenas estarrecedoras de violência, de
+barbárie e de impunidade que vai minando a confiança do cidadão nas instituições do Estado,
+responsáveis pela segurança.
+
+O desembargador do Tribunal Regional Federal, Dr. José Eduardo Carrera
+
+Alvim, em seminário realizado em 2002, na Câmara dos Deputados, publicado na obra
+Violência e Políticas Públicas: em busca de soluções (2003, p. 18), acerca do tema, fez o
+18
+
+seguinte pronunciamento:
+
+Precisamos repensar certas situações. Quem conhece o processo criminal
+brasileiro sabe que, apesar de ser um instrumento seguro, ele é perverso, faz
+mal à alma do cidadão, machuca o espírito de quem está sendo processado.
+As pessoas, depois que passam por um processo, mesmo que absolvidas, não
+chegam do lado de lá da mesma forma como entraram. Muitas vezes se faz
+um inquérito policial com pessoas capacitadas à sua frente, com delegados
+altamente capacitados, e o processo roda durante dois, três anos. Saindo dali,
+se se trata de crime doloso contra a vida, vai para um juiz e repete-se tudo;
+depois, vai para o tribunal do júri, onde se faz tudo novamente. Fica
+parecendo que, afinal de contas, tudo o que se fez antes não tem valor.
+
+Continuando, o ilustre desembargador fala da necessidade de uma política para a polícia e
+
+para aqueles jovens que são dispensados do serviço militar obrigatório:
+
+Precisamos pensar também em uma política para a polícia, em relação
+aqueles que são dispensados, porque essas pessoas vão encontrar abrigo na
+marginalidade. Fico preocupado quando o Exército dispensa jovens
+preparados para prestar o serviço militar, porque faltam recursos. Em que
+essas pessoas vão trabalhar? Alguns vão ser aliciados pelo crime. Afinal de
+contas, não se pode exigir de um cidadão que tenha família para criar que
+seja um super-homem. E quem já passou fome, como eu cheguei a passar,
+para estudar - se eu fosse ao cinema, não tomava meu lanche no final de
+semana -, sabe 0 que é isso.
+
+A questão da segurança pública envolve pelo menos dois aspectos: um de
+
+natureza legal e outro de natureza sociológica. No aspecto legal é oportuno registrar os
+fundamentos levantados pelos constitucionalistas José Afonso da Silva e Alexandre de
+Moraes, pois são absolutamente adequados. No Brasil, afirma José Afonso da Silva (2010,
+
+p.779):
+
+A segurança pública é exercida pelos seguintes órgãos: polícia federal,
+polícia rodoviária federal, polícia ferroviária federal, polícias civis e polícias
+militares e corpos de bombeiros militares. Há contudo, uma repartição nessa
+matéria entre a União e os Estados, de tal sorte que o princípio que rege é o
+de que o problema de segurança publica é de competência e responsabilidade
+de cada unidade da Federação, tendo em vista as peculiaridades regionais e o
+fortalecimento do princípio federativo, como aliás, é da tradição do sistema
+brasileiro.
+
+Alexandre de Moraes (2008, p.794), assegura que “A multiplicidade dos órgãos
+
+de defesa da segurança pública, pela nova Constituição, teve dupla finalidade: o atendimento
+
+dos reclamos sociais e a redução da possibilidade de intervenção das Forcas Armadas na
+
+segurança interna”.
+
+Novamente, os ensinamentos de um dos mais citados expoentes da literatura
+
+jurídica brasileira, José Afonso da Silva (2010, p. 777), esclarece com muita propriedade, a
+
+diferença entre a segurança jurídica e a segurança social:
+19
+
+Segurança jurídica consiste na garantia de estabilidade e de certeza dos
+negócios jurídicos, de sorte que as pessoas saibam de antemão que, uma vez
+envolvidas em determinada relação jurídica, esta mantém-se estável, mesmo
+se se modificar a base legal sob a qual se estabeleceu. “Segurança social”
+significa a previsão de vários meios que garantam aos indivíduos e suas
+famílias condições sociais dignas; tais meios se revelam basicamente como
+conjunto de direitos sociais.
+
+A doutora em sociologia, Maria Stela Grossi Porto, tratando do tema violência,
+
+assim discorreu:
+
+Interrogado o componente objetividade, violência seria o que os números e
+as estatísticas assinalam como tal, fazendo ressaltar o caráter “inegável” da
+realidade do fenômeno. Por outro lado, pensada de um ponto de vista
+subjetivo, violência precisaria considerar, igualmente, o que diferentes
+indivíduos e sociedades reputam (representam) como violência.
+Representação que poderia em última instância, interferir na própria
+realidade da violência, reforçando a necessidade de uma estratégia de análise
+que se interrogue sobre as relações objetividade/subjetividade enquanto
+componentes que participam da definição do fenômeno da violência e
+interferem nas práticas e nas representações que diferentes grupos elaboram
+de tais práticas.
+
+Concluindo, a socióloga assegura que definir algo ou alguém como violento
+implica captar as relações entre objetividade e subjetividade da violência, estratégia que o
+enfoque das representações sociais parece possibilitar:
+
+Aprofundando um pouco mais esta linha de raciocínio, é possível supor que
+existam, por um lado, contextos (objetivos) mais ou menos favoráveis ao
+desenvolvimento da violência, e que por outro, o que é representado como
+violência (dimensão subjetiva) “participe” igualmente da realidade da
+violência. Se determinados contextos favorecem o desenvolvimento de
+manifestações de violência, esta, uma vez posta em ação, manifesta aos
+atores o poder de sua utilização. Neste sentido, uma violência que
+inicialmente se constitui a partir de um contexto propício produz, ou pode
+produzir, a violência como lógica de intervenção. O que está em questão não
+é algo como o círculo vicioso da violência mas o fato, já ressaltado, de serem
+objetividade e subjetividade dois elementos interagindo solidariamente na
+constituição do fenômeno. Assim, definir algo ou alguém como violento
+implica captar as relações entre objetividade e subjetividade da violência,
+estratégia que o enfoque das representações sociais parece possibilitar."
+
+No artigo Cultura e Segurança Pública: Um Debate sobre a Ordem Social (2008),
+
+o doutorando em educação pela UFRJ, Bruno Gawryszewski, destaca que houve mudanças na
+orientação das políticas sociais, com foco nas camadas mais pobres, nos seguintes termos:
+
+! PORTO, Maria Stela Grossi. Crenças, valores e representações. Sociologias, Porto Alegre,ano 8, nº 16, jul/dez
+2006, p. 250-273. Disponível em:
+
+< http://www .scielo.br/pdf/soc/n16/a1 0n16.pdf>
+
+Acesso em: 16 jan. 2011
+
+ 
+20
+
+Em linhas gerais, o que se observa nessas mudanças de orientação de política
+social é o foco nas camadas mais pobres com a ideia de desenvolvimento
+econômico agregado ao desenvolvimento social local, a volta de uma
+atuação incisiva das instituições públicas, ampliada com o envolvimento da
+“sociedade civil” e a participação dos próprios pobres na solução de
+problemas imediatos. Há uma gama maior de sujeitos envolvidos para
+implementar uma política de “administração da pobreza”.
+
+Continuando, fala sobre a relação entre pobreza e violência urbana, e como vem
+
+agindo o Estado:
+
+As políticas de ajuste macroeconômico não seriam possíveis sem a prévia
+definição de uma territorialização da pobreza, a partir da definição de que as
+favelas e as áreas de maior concentração de habitações populares fossem
+conceituadas como territórios fragmentados e delimitadas por fronteiras
+invisíveis, mas, ao mesmo tempo, reais (Leher,2008). Invisíveis porque
+oficialmente pertencem e estão integradas à cidade; porém reais porque são
+alvos de uma política de duplo movimento que combina abandono e
+esquecimento de uma efetiva intervenção do Estado com a incursão
+sucessiva de aparatos policial-militares amparada no combate ao crime
+organizado. São usualmente designadas como Complexos ou Comunidades.
+Essas áreas vêm se caracterizando por receberem políticas públicas de baixo
+custo e focalizadas, preferencialmente empreendidas com a participação da
+população local na esfera de uma sociedade civil abstrata e descamada.
+
+No Brasil, a organização e o controle das polícias civis e militares são de
+responsabilidade dos Estados. Isso de certa forma, contribui para que o governo federal mantenha-se
+menos importunado com a crescente onda de violência e criminalidade que assola o país. Contudo,
+considerando a crescente onda de criminalidade e impunidade que vem martirizando a população
+brasileira, as políticas de segurança pública implementadas pelos últimos govemnos, ainda são
+bastante tímidas. Entretanto, iniciativas como as do Pronasci, e outros programas federais de
+ajuda financeira às famílias de baixa renda, como o Bolsa Família, reacendem nos cidadãos
+
+brasileiros a esperança de uma vida melhor, com mais segurança e menos violência.
+
+3 O Pronasciea Ação do Congresso Nacional
+
+A política pública do Pronasci recebeu muitos elogios no Congresso Nacional. Como
+por exemplo, o fato dele articular a ação dos órgãos federais em cooperação com Estados, Distrito
+
+2 Gawryszewski, Bruno. Cultura e Segurança Pública: Um Debate sobre a Ordem Social. Rio de Janeiro/RJ
+(2008).Disponível em :
+
+< http://www .ufs).edu.br/portal-repositorio/File/V ertentes/Bruno%20Gawryszewski.pdf >
+
+ 
+
+Acesso em: 17 jan. 2011
+21
+
+Federal e Municípios e com a participação das famílias e da comunidade. Outro ponto bastante
+elogiado do Programa, foi a análise da violência sob o viés humanitário e social.
+
+Contudo, a espécie normativa adotada para a sua implemenação, a medida provisória,
+foi muito criticada pelos parlamentares. Dentre as principais críticas, merece destaque o fato dessa
+espécie normativa não permitir a sua apreciação pelas comissões temáticas especializadas do
+Congresso Nacional. Também, alguns parlamentares argumentaram que os pressupostos
+constitucionais de relevância e urgência, exigidos para edição de medidas provisórias, não foram
+atendidos.
+
+3.1 O Alcance Social da Medida Provisória
+
+Considerando a natureza deste trabalho, entende-se ser de bom alvitre, a utilização
+do parâmetro pré-definido de alcance social da medida provisória, ou seja, pretende-se
+demonstrar se as modificações efetuadas pelo Congresso Nacional na proposição recebida do
+Poder Executivo, ampliou ou restringiu a proposta original, e consequentemente, se
+
+aprimorou ou não a normatização da política pública em estudo.
+
+Corroborando nesse sentido, o Relator da matéria na Câmara dos Deputados,
+
+Deputado Marcelo Melo, em pronunciamento defendendo o Parecer Reformulado ao Projeto
+de Lei de Conversão da Medida Provisória que criou o Pronasci, assim argumentou:
+
+(...) Além disso, entendemos que, no art. 42 a expressão “em situação
+
+infracional ou em conflito com a lei” deve ser substituída por “em situação
+
+de risco social”, o que abrange uma categoria de adolescentes que não
+
+necessariamente estarão em conflito com a lei, por apresentar vantagem
+
+pedagógica, permitindo que o foco social possa estender-se a outros
+adolescentes que convivem no mesmo contexto social.º
+
+3.2A Proposta Originária
+
+Através da Mensagem Presidencial nº MSG 613, de 20 de agosto de 2007,
+acompanhada da Exposição de Motivos nº EMI 00139, da mesma data, a Presidência da
+República fez chegar ao Congresso Nacional, no dia 21 de agosto de 2007, e ao mesmo tempo
+3 Diário da Câmara dos Deputados, 9 out. 2007, p.52952. Disponível em:
+
+<http://www.camara.gov.br/intemnet/sileg/Prop Detalhe.asp?id=371109>
+Acesso em: 9 jan. 2011
+
+ 
+22
+
+publicar no Diário Oficial da União a Medida Provisória nº 384, de 20 de agosto de 2007,
+instituindo o Programa Nacional de Segurança Pública com Cidadania - PRONASCI.
+
+Em 21/08/07, a Medida Provisória nº 384, de 20 de agosto de 2007 foi recebida no
+protocolo do Congresso Nacional. Despachada à Subsecretaria de Coordenação Legislativa do
+Congresso - SSCLCN, a referida Medida Provisória, seguiu sua tramitação nos termos do
+Regimento Intemo do Congresso e da Resolução nº 01/2002-CN.
+
+Em 22/08/2007, foi constituída a Comissão Mista! formada por Deputados e
+Senadores para emitir parecer sobre a Medida Provisória.
+
+Em 27-08-07, foi anexado ao processo, Nota Técnica da Consultoria de
+Orçamento, Fiscalização e Controle - CONORF, do Senado Federal, nos termos do artigo 19,
+da Resolução nº 1/2002-CN, que assim concluiu:
+
+A Medida Provisória, da forma que está proposta não indica fontes de
+recursos para a execução das despesas no exercício de 2007, a Exposição de
+Motivos declara, in verbis: “Para fins do cumprimento do que dispõe o art.
+17 da Lei de Responsabilidade Fiscal - LRF (Lei Complementar nº 101, de
+04 de maio de 2000), cumpre ressaltar que as despesas decorrentes dos
+auxílios financeiros serão atendidas dentro da Margem de Expansão das
+despesas obrigatórias de caráter continuado, previsto no Anexo de metas
+Fiscais da Lei de Diretrizes Orçamentárias de 2008, Lei nº 11514, de 13 de
+agosto de 2007”. Esclarecemos que ao remeter a adequação da
+compatibilidade financeira e orçamentária para o próximo exercício, isso
+impede a aplicação da autorização legislativa para o exercício de 2007 e,
+conforme vacatio expresso no art. 13. “Art. 13 - Fica o Poder Executivo
+autorizado a conceder auxílio financeiro aos participantes a que se referem
+os arts. 10, 11 e 12, a partir do exercício de 2008, nos seguintes valores:”. A
+Medida Provisória deve possuir os pressupostos de urgência e relevância
+constitucionais, isto posto, também é questionável a inserção de dispositivos
+para inclusão no próximo orçamento existindo mais de seis meses para a sua
+efetiva aplicação. Conclusão: são esses os elementos objetivos que
+entendemos pertinentes propiciar para subsidiar os trabalhos e as decisões da
+Relatoria e da Comissão.”
+
+No prazo determinado pelo regimento foram apresentadas na Comissão Mista, 24
+(vinte e quatro) emendas à Medida Provisória, de autoria dos seguintes parlamentares:
+Senador Álvaro Dias, emendas nºs 18, 19 e 20; Deputado Betinho Rosado, emenda nº 4;
+Deputado Bruno Araújo, emenda nº 14; Deputado Carlos Eduardo Cadoca, emendas nºs 12 e
++08 28, do art. 2º da Resolução nº 1, de 2002-CN, assim dispõe: A Comissão Mista será integrada por 12 (doze)
+
+Senadores e 12 (doze) Deputados e igual número de suplentes, indicados pelos respectivos Líderes, obedecida,
+tanto quanto possível, a proporcionalidade dos partidos ou blocos parlamentares em cada Casa.
+
+3 Avulso do Projeto de Lei de Conversão nº 32, de 2007, p. 47. Disponível em:
+<http://www.senado.gov.br/atividade/materia/getPD F.asp?t=39683&tp=1 >
+
+ 
+23
+
+17; Senador Expedito Júnior, emendas nºs 1, 6, 15 e 16; Deputado Flávio Dino, emendas nºs
+9, 10, 11 e 23; Deputada Gorete Pereira, emendas nºs 7 e 24; Senador Marcelo Crivella,
+emendas nºs 8, 13 e 22; Deputado Onyx Lorenzoni, emendas nºs 2, 3, 5 e 21.
+
+Convocada várias vezes, a Comissão Mista não se instalou por falta de quórum
+conforme Lista de Presença e Termo de Reunião. Como se esgotou o prazo regimental sem
+instalação da Comissão Mista, a matéria foi encaminhada à Câmara dos Deputados em
+04/09/2007.
+
+3.2.1 A Tramitação na Câmara dos Deputados
+
+Na Câmara dos Deputados, em Sessão Plenária do dia 18/09/2007, a Medida
+Provisória 384/07 não foi apreciada em face da não conclusão da apreciação de outra Medida
+Provisória, a 381/07, item 03 da pauta, com prazo encerrado. Somente, na Sessão Plenária do
+dia 02/10/2007, foi possível à Presidência da Câmara dos Deputados iniciar a apreciação da
+matéria e designar o Dep. Marcelo Melo como Relator pela Comissão Mista para proferir
+parecer à Medida Provisória e às 24 emendas apresentadas.
+
+Em 03/10/2007, depois da votação de vários Requerimentos de solicitação de
+retirada de pauta (adiamento da apreciação) da Medida Provisória, foi proferido o parecer em
+Plenário pelo Relator Deputado Marcelo Melo, em substituição à Comissão Mista, que
+conclui pelo atendimento dos pressupostos constitucionais de relevância e urgência; pela
+constitucionalidade, juridicidade e técnica legislativa; pela adequação financeira e
+orçamentária; e, no mérito, pela aprovação do mesmo texto da Medida Provisória como veio
+do Poder Executivo, e pela rejeição de todas as emendas que foram apresentadas na Comissão
+Mista, no total de 24, com os seguintes argumentos:
+
+(...) Destacados os aspectos que desejávamos analisar, passamos à
+apreciação das 24 emendas apresentadas. As emendas 1, 6, 15 e 16 tratam de
+incluir, nas diretrizes, focos principais do programa e nos seus objetivos os
+adolescentes e jovens em situação de rua. Entendemos que essa medida já
+está prevista no texto em análise, uma vez que a categoria proposta se
+encontra contemplada nos focos social e etário que são jovens e adolescentes
+em situação de risco social. Portanto, votamos pela rejeição. As emendas nos
+3,4, 7,8,9,12, 17, 18, 19, 21, 23 e 24, conforme anteriormente descritas, se
+acolhidas podem comprometer a implantação do programa, uma vez que têm
+em comum a ampliação de um ou mais dos seus escopos, seja pela
+ampliação da base física, etária ou financeira que dá suporte à proposta.
+Desta forma, por entendermos que podem comprometer a implantação bem
+
+ 
+
+Acesso em: 4 jan. 2011.
+24
+
+sucedida do programa, votamos pela rejeição dessas emendas.
+
+Justificando a rejeição do restante das emendas apresentadas na Comissão Mista
+do Congresso Nacional, argumenta o Relator que com exceção da emenda nº 22 que trata da
+proibição de contingenciamento e que por fugir do objetivo da proposta em análise, também
+merece ser rejeitada, as outras têm como elemento comum fazerem parte de ações futuras do
+Pronasci, o que segundo o Relator, não é o melhor caminho, e por isso mesmo, opina pela
+rejeição, nos termos seguintes:
+
+As emendas nos 2, 5, 10, 11, 13, 14 e 20, também como anteriormente
+descritas, têm como elemento comum fazerem parte de ações futuras
+do PRONASCI. Entendemos que a melhor articulação dessas ações
+deve ficar a cargo dos Executivos dos entes federados em negociação
+com a sociedade nas diversas regiões metropolitanas em que as
+medidas forem implementadas. A vantagem dessa estratégia se dá na
+medida em que as diferenças de prioridades podem ser satisfeitas
+dentro da grande diversidade de problemas de segurança pública que
+existem no Brasil. Portanto, votamos pela rejeição dessas emendas. A
+emenda nº 22 trata da questão da proibição de contingenciamento que,
+apesar de entendermos ser uma discussão legítima, foge ao escopo da
+presente proposta, pois é muito mais ampla e deve ser discutida pelo
+Congresso Nacional, não somente para esse caso. Tal discussão já foi
+iniciada nos debates sobre o modelo de orçamento que o País
+necessita e pensamos que esse é o fórum adequado para essa demanda,
+não sendo esse o momento para tal iniciativa, motivos pelos quais
+sugerimos a sua rejeição. Em face do exposto voto favoravelmente à
+Medida Provisória nº 384, de 2007, na forma como apresentada pelo
+Poder Executivo, sendo rejeitadas as Emendas de nos 1 a 24. Sala das
+Sessões, em 03 de outubro de 2007.
+
+Logo após a leitura em plenário do parecer acima descrito, o Presidente da
+Câmara dos Deputados, Deputado Arlindo Chinaglia, informa aos deputados que houve um
+acordo para apreciação da matéria, nos seguintes termos:
+
+Informo também que foi produzido um acordo de procedimentos e todos os
+requerimentos de obstrução ou de outra natureza serão retirados. Hoje seria
+debatida a matéria - 3 falariam a favor e 3, contra - e amanhã
+continuaríamos o processo de encaminhamento de votação.”
+
+$ Parecer do Relator à Medida Provisória 384, de 2007. Disponível em:
+<http://www.camara.gov.br/sileg/integras/510437.pdf>
+
+Acesso em: 9 jan. 2011.
+
+7 Diário da Câmara dos Deputados, 4 out. 2007, p. 52030. Disponível em:
+<http://imagem.camara.gov.br/Imagem/d/pdf/D CD 040UT2007a.pdftpage=374>
+Acesso em: 15 jan. 2007.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+25
+
+Iniciados os debates sobre a matéria, em pronunciamento contrário à aprovação
+da Medida Provisória nº 384, de 2007, o Deputado Zenaldo Coutinho faz a seguinte
+
+argumentação:
+
+(Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, no nosso
+entendimento, o PRONASCI é, no mínimo, um gravíssimo equívoco. A
+intenção é interessante, mas a idéia é mal concebida, o programa é mal
+concebido. Em primeiro lugar, porque pretende que jovens reservistas sejam
+transformados em assistentes sociais para trabalhar com jovens infratores,
+egressos das casas de recuperação.Ora, sabemos que esses jovens reservistas
+nem sequer têm preparo técnico e adequada maturidade para lidar com a
+complexa situação de jovens infratores. Esse é o primeiro grande
+equívoco.Segundo grande equívoco do programa: pretende-se que jovens
+infratores recebam bolsa pecuniária financeira, o que é um estimulo à
+marginalidade, ao ato infracional. O jovem infrator necessita, primeiro, de
+medidas socioeducativas e, segundo, de qualificação profissional; não de
+estímulo pecuniário, porque isso vai na contramão daquilo que pretendemos.
+
+(...)
+
+E continua o Deputado, em seus argumentos contrários à aprovação da Medida
+
+Provisória.
+
+(...)Insisto em dizer que o PRONASCI, apesar da boa intenção, pode
+transformar-se em uma deformação da juventude brasileira. Em vez do
+arrefecimento da violência, teremos o seu agravamento a partir do estímulo
+ao cometimento de atos infracionais. Por isso, faço questão de, mesmo tarde
+da noite, no encerramento desta sessão, posicionar-me contra a matéria de
+maneira enfática. Essa não é, nem de longe, uma questão de oposição ou de
+governo. Minha preocupação básica é a recuperação do jovem. Trata-se de
+um posicionamento de defesa da sociedade brasileira, de combate à
+violência, por meio de mecanismos de educação e qualificação.Trago à
+reflexão de V.Exas. essas preocupações, para que possamos aprimorar as
+idéias. A demais, a matéria precisa de regulamentação. Ela não tem caráter de
+urgência e relevância. Por isso, somos contrários a ela, Sr. Presidente. Muito
+obrigado é
+
+Em seguida o Deputado Dr. Ubiali, faz pronunciamento favorável à matéria:
+
+(Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, apesar do
+cansaço, eu não poderia deixar de discutira matéria.Trata-se de algo muito
+simples. Ouvimos alguns Deputados, principalmente da Oposição, dizerem
+que esse programa não serve; ouvimos que o aplicado será apenas paliativo.
+Talvez eles tenham razão. No entanto, se ainda não foi proposto algo melhor
+do que isso, por que não aplicar esse programa? No momento é o que temos,
+é do que dispomos. Declarou-se que o PRONASCI está concentrado na
+prevenção, mas é muito melhor prevenir do que depois ter de fazer a
+contenção, a repressão. Para que os senhores tenham uma idéia, hoje, para
+cada4 presos, só temos 3 vagas nas prisões. Há cerca de 103.400 presos,
+hoje, sem vaga nas prisões, e se todos os mandados de prisão fossem
+
+É Diário da Câmara dos Deputados, 4 out. 2007, p. 52035-52036. Disponível em:
+<http://imagem.camara.gov.br/Imagem/d/pdf/D CD 040UT2007a.pdftpage=374>
+
+ 
+
+Acesso em: 15 jan. 2011.
+26
+
+cumpridos esse número passaria para 653 mil. Se considerarmos que o custo
+de cada preso num presídio federal é de R$10 mil, isso corresponderia a
+R$65 bilhões por ano,valor correspondente a 7 vezes o do Bolsa Família e
+uma vez e meia o da CPMF.
+
+Defendendo a aprovação da matéria, o Deputado justifica que se essa política
+pública não é a ideal, é melhor fazer o que é possível do que ficar esperando o ideal:
+
+Portanto, se temos um programa que busca a formação e a valorização dos
+profissionais de segurança pública, que busca a restruturação do sistema
+penitenciário, o combate à corrupção policial, o envolvimento da
+comunidade na prevenção da violência, é não só fundamental como
+extremamente urgente que ele seja implantado. Talvez existam programas
+melhores, mas esse é o que temos, e vai funcionar.Nada se faz de uma vez.
+Se fosse fácil, os Governos Estaduais, tanto os da Oposição quanto os da
+Situação, já teriam resolvido o problema prisional nos Estados - e o
+problema da segurança também, já que na sua maior parte ele está a cargo
+dos Govemos Estaduais. Por isso, Sras. e Srs. Deputados, fiz questão de vir
+aqui para dizer que somos favoráveis aa PRONASCI(...)
+
+Em 08/10/2007, foi proferido no Plenário da Câmara dos Deputados, em Sessão
+Extraordinária, um novo parecer, denominado Parecer Reformulado de Plenário pelo Relator,
+Deputado Marcelo Melo, pela Comissão Mista, que introduz modificações relevantes no texto
+recebido do Poder Executivo, e conclui pelo atendimento dos pressupostos constitucionais de
+relevância e urgência; pela constitucionalidade, juridicidade e técnica legislativa; pela
+adequação financeira e orçamentária; e, no mérito, pela aprovação da Medida Provisória
+384/2007, na forma do Projeto de Lei de Conversão apresentado, e pela rejeição das emendas
+de n$s 1 a 24, que assim discorreu:
+
+(...) No entanto, apesar de louváveis iniciativas, entendemos que o previsto a
+partir do art. 9º até o art. 15, inclusive, é matéria que necessita maiores
+discussões no seio do Congresso Nacional. Tal providência se faz necessária
+devido ao caráter corajoso, mas também heterodoxo das medidas que se
+adotarão no enfrentamento ao crime organizado e à violência em geral. Um
+programa audacioso, com mais de nove dezenas de propostas, algumas
+envolvendo alta complexidade, não pode prescindir da colaboração desta
+Casa quanto à discussão e priorização de tantas ações e projetos. Dessa
+forma, somos pela supressão destes artigos. Além disso, entendemos que, no
+art. 4º, a expressão “em situação infracional ou em conflito com a lei” deve
+ser substituída por “em situação de risco social”, o que abrange uma
+categoria de adolescentes que não necessariamente estarão em conflito com
+a lei, por apresentar vantagem pedagógica, permitindo que o foco social
+possa estender-se a outros adolescentes que convivem no mesmo contexto
+social. No art. 7º é necessária a troca da expressão “entidades de direito
+público e privado sem fins lucrativos” por “entidades de direito público e
+organizações da sociedade civil de interesse público”, o que constituirá em
+avanço para o controle do emprego de recursos do programa.
+27
+
+Após justificar as mudanças introduzidas no Projeto de Lei de Conversão, passa 0
+
+Relator à análise das emendas:
+
+Destacados os aspectos que desejávamos analisar, passamos à apreciação das
+24 emendas apresentadas. As emendas 1, 6, 15 e 16 tratam de incluir, nas
+diretrizes, focos principais do programa e nos seus objetivos os adolescentes
+e jovens em situação de rua. Entendemos que essa medida já está prevista no
+texto em análise, uma vez que a categoria proposta se encontra contemplada
+nos focos social e etário que são jovens e adolescentes em situação de risco
+social. Portanto, votamos pela rejeição.As emendas nos 3, 4, 7, 8, 9, 12, 17,
+18, 19, 21, 23 e 24, conforme anteriormente descritas, se acolhidas podem
+comprometer a implantação do programa, uma vez que têm em comum a
+ampliação de um ou mais dos seus escopos, seja pela ampliação da base
+física, etária ou financeira que dá suporte à proposta. Desta forma, por
+entendermos que podem comprometer a implantação bem sucedida do
+programa, votamos pela rejeição dessas emendas. As emendas nos 2, 5, 10,
+11, 13, 14 e 20, também como anteriormente descritas, têm como elemento
+comum fazerem parte de ações futuras do PRONASCI. Entendemos que a
+melhor articulação dessas ações deve ficar a cargo dos Executivos dos entes
+federados em negociação com a sociedade nas diversas regiões
+metropolitanas em que as medidas forem implementa das. A vantagem dessa
+estratégia se dá na medida em que as diferenças de prioridades podem ser
+satisfeitas dentro da grande diversidade de problemas de segurança pública
+que existem no Brasil. Portanto, votamos pela rejeição dessas emendas.
+
+Segue o relator analisando a emenda nº 22, cujo conteúdo trata da questão
+
+orçamentária:
+
+A emenda nº 22 trata da questão da proibição de contingenciamento que,
+apesar de entendermos ser uma discussão legítima, foge ao escopo da
+presente proposta, pois é muito mais ampla e deve ser discutida pelo
+Congresso Nacional, não somente para esse caso. Tal discussão já foi
+iniciada nos debates sobre o modelo de orçamento que o País necessita e
+pensamos que esse é o fórum adequado para essa demanda, não sendo esse o
+momento para tal iniciativa, motivos pelos quais sugerimos a sua rejeição.
+Em face do exposto voto favoravelmente à Medida Provisória nº 384, de
+2007, na forma do Projeto de Lei de Conversão em anexo, sendo rejeitadas
+as Emendas de nos 1 a 24. Sala das Sessões, em 08 de outubro de 2007.º
+
+Em 09/10/2007, a Medida Provisória é votada e aprovada na Câmara dos
+
+Deputados, sendo todas as emendas rejeitadas, nos termos do Projeto de Lei de Conversão nº
+32, de 2007, apresentado pelo Relator, Deputado Marcelo Melo.
+
+Concluída a votação na Câmara dos Deputados, em 15/10/2007 a matéria é
+
+encaminhada ao Senado Federal onde passa a tramitar como Projeto de Lei de Conversão
+
+(PLV) nº 32/2007.
+
+º Parecer do Relator à Medida Provisória 384, de 2007. Disponivel em:
+<http://www.camara.gov.br/intemnet/sileg/Prop Detalhe.asp?id=371109>
+
+ 
+28
+
+3.2.2 A Tramitação no Senado Federal
+
+No Senado Federal, em 17/10/2007, é proferido pelo Senador Romeu Tuma,
+
+Relator Revisor designado, Parecer de Plenário concluindo favoravelmente ao Projeto de Lei
+
+de Conversão com emendas. (Parecer nº 876, de 2007-PLEN). O Projeto de Lei de Conversão
+
+é aprovado com as emendas de nºs 01 a 11 apresentadas pelo Relator, nos seguintes termos:
+
+(...) No que diz respeito ao mérito, resta sobejamente justificado neste caso,
+porquanto se legitima pelas mesmas razões que motivaram o Presidente da
+República a adotar o instrumento da medida provisória. No que conceme ao
+mérito do projeto de lei de conversão em tela, que trata da criação do
+Programa Nacional de Segurança Pública com Cidadania, julgamos estar
+perfeitamente condizente com os requisitos da relevância e da urgência
+disciplinados na Constituição Federal. Também estão atendidos os requisitos
+formais, quanto ao envio da medida ao Congresso Nacional.
+Compartilhamos da avaliação do relator Deputado Marcelo Melo, que
+julgou adequadas as propostas da MPV nº 384/2007, na medida em que
+estabeleceu as bases legais para a articulação das políticas de segurança com
+as ações sociais, ao mesmo tempo em que priorizou a prevenção no intuito
+de atingir as origens da violência, “sem abrir mão das estratégias de
+ordenamento social e de repressão qualificada”.
+
+Justificando o acolhimento da emenda que trata dos policiais civis, policiais
+
+militares, bombeiros militares e servidores do sistema penitenciário, o Relator tece os
+
+seguintes argumentos:
+
+Com a inclusão do dispositivo sobre programas de formação em direitos
+humanos para os policiais civis, policiais militares, bombeiros militares e
+servidores do sistema penitenciário, fruto de emenda apresentada pelo
+Deputado Flávio Dino, ficou evidente a importância da formação e
+valorização dos profissionais de segurança pública. Outros aspectos
+importantes do programa são a reestruturação do sistema penitenciário; o
+combate à corrupção policial e o envolvimento da comunidade na prevenção
+da violência. Nesse aspecto, concordamos plenamente com o entendimento
+da Câmara dos Deputados que julgou o programa fundamental para um
+verdadeiro enfrentamento dos cenários de falta de segurança que se
+estabeleceu em alguns municípios brasileiros. Resumidamente, as ações
+propostas visam à valorização dos profissionais da área da segurança; à
+ressocialização de egressos do sistema prisional; à promoção do acesso de
+jovens e adolescentes às políticas sociais do governo; à promoção do acesso
+à Justiça em territórios de descoesão social e à intensificação das medidas de
+enfrentamento ao crime organizado e à corrupção policial. Por fim, a
+proposta é articular programa de segurança pública e ações sociais, com
+prioridade para ações preventivas.
+
+Nesse ponto do Parecer, o Relator justifica porque não concordou com a retirada
+
+ 
+
+Acesso em: 9 jan. 2011.
+29
+
+dos três projetos do Programa apresentado, feita pelo relator Deputado Marcelo Melo, na
+Câmara dos Deputados. Também, entendemos ser pertinente, o reconhecimento de que
+seguindo o parâmetro de alcance social da medida, há um aprimoramento do normativo
+proposto pelo Poder Executivo, quando o Congresso Nacional substitui o nome do projeto
+Mães da Paz por Mulheres da Paz, o que é óbvio, aumenta o alcance social do projeto,
+conforme explicita o Relator:
+
+Numa análise mais cuidadosa das duas propostas (MPV nº 384 e PLV nº 32),
+contudo, avaliamos não ser pertinente a retirada dos três projetos do
+Programa apresentado, visto que são essenciais para dar legitimidade
+imediata às ações a serem desenvolvidas. O Projeto Mães da Paz, por
+exemplo, possibilitará a capacitação das mulheres participantes do
+Programa, em temas como ética, direitos humanos e cidadania. No caso
+específico do projeto acima descrito, entendemos ser pertinente alterarmos o
+nome para “Mulheres da Paz”, em atendimento às considerações
+apresentadas por parlamentares ligadas à bancada feminina na Câmara dos
+Deputados e no Senado Federal. O projeto Reservista-Cidadão, igualmente
+tem seu mérito. Seu objetivo primordial é potencializar o aprendizado
+adquirido pelos jovens durante o tempo passado nas Forças Armadas,
+reconhecidas escolas de cidadania, e capacitá-los para atuar como agentes
+comunitários. Dessa forma, pretende-se evitar o aliciamento desses jovens
+pelo crime organizado.
+
+Merece destaque o aprimoramento efetuado pelo Congresso Nacional no
+normativo recebido do Poder Executivo, quando no Projeto PROTEJO, substituiu a
+expressão “jovens em situação infracional ou em conflito com a lei” por “jovens em situação
+de risco social”, o que aumentou o alcance do referido projeto, conforme destaca o Relator:
+
+O Projeto Proteção de Jovens e Adolescentes em Território Vulnerável -
+PROTEJO, também merece ser reincorporado ao texto do projeto de lei de
+conversão, incluídas as modificações decorrentes do profícuo debate
+realizado na Câmara dos Deputados e neste Senado da República. O texto
+apresentado pelo Poder Executivo, ao definir o público-alvo do programa,
+gerava a equivocada impressão de que seria priorizado o atendimento de
+jovens infratores. A partir da nova redação ora proposta, fica claro que o
+objetivo do projeto é alcançar aqueles jovens moradores de áreas expostas à
+violência que merecem tratamento diferenciado pelo Estado, justamente para
+prevenir sua entrada no mundo do crime.
+
+Acolhendo a emenda do Senador Marcelo Crivella, que trata do projeto
+Comunicação Cidadã Preventiva, o relator destaca seus pontos positivos e justifica também, o
+
+acolhimento das outras emendas:
+
+Julgamos, ainda, ser importante incluir um projeto de forte viés preventivo,
+oriundo de emenda do Senador Marcelo Crivella: o projeto Comunicação
+Cidadã Preventiva, destinado a promover a divulgação de ações educativas e
+motivadoras para a cidadania, principalmente por meio de serviços
+concedidos de radiodifusão comunitária. As ações desse projeto serão
+direcionadas à redução de risco de atos infracionais ou contrários à
+30
+
+convivência social. É importante ressaltar a superação da lacuna verificada
+no texto original no que se refere ao atendimento às vítimas da violência.
+Apresentamos emenda no sentido de condicionar o repasse de recursos
+federais à criação de centros de referência e apoio às vítimas. Acolhemos,
+ainda, duas emendas do Deputado Onyx Lorenzoni que tratam do apoio e
+tratamento às vítimas da criminalidade, que passam a fazer parte do foco
+social do Programa. Os jovens e adolescentes em situação de moradores de
+rua também passam a ser alcançados pelo programa, em atendimento a
+emendas do Senador Expedito Júnior. O foco etário do Programa também
+será modificado, passando de vinte e nove para vinte e quatro anos de idade.
+Ao atendermos emenda do Senador Marcelo Crivella, incluímos um foco
+repressivo ao Programa, qual seja, o combate ao crime organizado. Com
+relação ao auxílio financeiro, julgamos ser importante explicitar que, ao
+acatarmos a emenda do Deputado Carlos Eduardo Cadoca, seus valores
+passarão a ser corrigidos anualmente, tomando como base a variação do
+Índice Nacional de Preços ao Consumidor, acumulado no período anterior.
+Ainda com relação ao auxílio financeiro, emenda do Senador Álvaro Dias
+altera a redação do caput do artigo que define os valores a serem pagos,
+retirando da discricionariedade do Poder Executivo a concessão do auxílio
+aos participantes dos projetos.
+
+Finalizando o seu parecer, o Relator destaca a importância da contrapartida dos
+beneficiários do Pronasci, ou seja, a assiduidade e o comprometimento com as atividades dos
+Projetos, o que é condição para o recebimento do auxílio financeiro.
+
+Ressalte-se, ainda, que a assiduidade e comprometimento com as atividades
+dos Projetos toma-se, expressamente, condição para o recebimento do
+auxílio. Quanto ao modelo de gestão, propomos emenda que garantirá o
+fortalecimento dos Conselhos Tutelares, bem como a participação desses
+organismos no processo de acompanhamento e fiscalização do Pronasci.
+Introduzimos, ainda, dispositivo que estabelece que a escolha dos
+participantes dos Projetos será feita por meio de seleção pública, pautada por
+critérios a serem estabelecidos conjuntamente pelos estados e municípios
+conveniados.Por fim, são necessárias algumas alterações relativas às
+despesas com a execução dos projetos: é essencial que os projetos não sejam
+objeto de limitação financeira, de empenho e de pagamento, conforme
+preceitua emenda do Senador Marcelo Crivella e acatada por este Relator.
+Também, conforme emendado Deputado Flávio Dino, restará expresso no
+texto que, observadas as dotações orçamentárias, até o ano de 2010, o Poder
+Executivo deverá progressivamente estender os projetos para regiões
+metropolitanas de todos os Estados.!º
+
+Finalmente, foi lido e aprovado o Parecer 877, de 2007, da Comissão Diretora,
+
+Relator Senador Efraim Morais, que oferece a redação final das emendas do Senado ao
+Projeto.
+
+10 Diário do Senado Federal, 8 out. 2007, p. 36152-36164Disponível
+em::<http://www6.senado.gov .br/diarios/BuscaPaginasDiario?codDiario=656&seqPaginaInicial=696&segPagin
+aFinal=714>
+
+Acesso em: 10 jan. 2011
+31
+
+Em 22/10/2007, a matéria foi encaminhada novamente à Câmara dos Deputados
+para apreciação da matéria aprovada pelo Senado Federal.
+
+3.2.3 O Retorno da Matéria à Câmara dos Deputados
+
+Em 23/10/2007, O Deputado Marcelo Melo, relator da matéria na Câmara dos
+Deputados apresenta parecer à matéria aprovada pelo Senado, favorável ao Projeto de Lei de
+Conversão nº 32/2007 e às emendas de nºs 01 a 11, aprovadas pelo Senado, nos seguintes
+
+termos:
+
+(...JAntes de analisar o mérito das alterações propostas pelo Senado Federal
+ao PLV nº 32, de 2007, cabe registrar que as emendas de nº 1 a 11 não
+apresentam vícios constitucionais formais ou matérias, além de atenderem
+plenamente os requisitos de juridicidade e boa técnica legislativa. Ademais,
+não apresentam incompatibilidades ou inadequações financeiras e
+orçamentárias.Quanto ao mérito, as emendas de nº 1 a 11 introduzem
+modificações importantes no texto do projeto de lei de conversão aprovado
+por esta Câmara do Deputados, ao conferir novos contomos aos três projetos
+do Programa, além de dar melhor tratamento à questão das vítimas da
+violência e às questões de gênero e buscar o aprimoramento dos mecanismos
+de gestão do PRONASCI.
+
+Analisando todas as emendas apresentadas na Comissão Mista, o relator fez
+questão de salientar que nenhuma delas modificava significativamente o mérito ou os
+princípios fundamentais do Programa e que a conjuntura política daquele momento, permitia
+o entendimento para a promoção de melhorias no texto original do Projeto de Lei de Conversão:
+
+Durante o prazo regimental, à MP 384 foram oferecidas vinte e quatro
+emendas. Doze destas - apresentadas por Deputados e Senadores tanto da
+oposição e quanto da base do govemo - foram incorporadas ao texto das
+modificações aprovadas pelo Senado Federal, conforme já indicado no
+relatório. E importante destacar que nenhuma das vinte e quatro emendas
+originalmente apresentadas à Medida Provisória buscava desfigurar o ceme
+do PRONASCI. Nenhuma delas alterava significativamente o mérito ou os
+princípios fundamentais do Programa ora proposto pelo Governo Federal
+para a prevenção, controle e repressão da criminalidade. Durante o primeiro
+processo de deliberação pelo qual passou a proposição nesta Casa, vários
+Colegas trouxeram questionamentos e preocupações quanto a certos aspectos
+do Programa. O processo de negociação que se iniciou naquela ocasião pode
+estender-se ao Senado Federal em um contexto político bastante diverso,
+longe das turbulências pelas quais passava o contexto político na segunda
+semana do mês de outubro. Tal alteração da conjuntura política ensejou
+ocasião para a convergência de esforços e entendimento no sentido de criar
+condições para a promoção de sensíveis melhorias no texto original do
+Projeto de Lei de Conversão, incorporando-se sugestões de diversos
+Deputados, o que passo a tratar a seguir.
+32
+
+Nesse ponto do Parecer, o Relator destaca as melhorias efetuadas pelos senadores:
+
+Quanto ao Programa de Proteção aos Jovens, o PROTEJO,as emendas do
+Senado retiraram do texto da Medida as expressões que geravam incertezas
+quanto ao público-alvo do Programa. Agora, expressamente, o público alvo à
+violência, que vivam em áreas geográficas com altos índices de
+criminalidade. Além disso, o limite de idade para participação no Projeto foi
+reduzido de vinte e nove para vinte e quatro anos.Com relação ao modelo de
+gestão do Programa, questão tão cara a vários deputados, o PLV aprovado
+pelo Senado agora dispõe, como já mencionado, sobre o processo de escolha
+dos participantes dos Projetos, bem como sobre condições para o
+recebimento dos auxílios. Além disso, passam a ser diretrizes do
+PRONASCI a transparência de sua execução, a articulação com os
+Conselhos Tutelares e a garantia da participação da sociedade civil. Quanto
+ao Projeto inicialmente denominado Mães da Paz, diante das graves
+considerações trazidas pela bancada feminina, importantes modificações
+foram introduzidas, a começar pelo nome do Projeto, que passa a ser
+Mulheres da Paz. A questão de gênero também ganhou relevo ao longo de
+todo o texto do projeto de lei de conversão. Por exemplo, as mulheres em
+situação de violência tornam-se foco do programa. Além disso, o trabalho
+das Mulheres da Paz passa a ter como foco, também, a emancipação e
+proteção das Mulheres contra a violência.
+
+E segue justificando a aprovação das alterações feitas pelo Senado Federal:
+
+Quanto às vítimas da violência, havia, de fato, a necessidade de uma
+abordagem mais clara do que a encontrada na proposta original do Poder
+Executivo. Tal lacuna foi plenamente preenchida com a aprovação, pelo
+Senado, de emendas que condicionam o repasse de recursos federais à
+criação de centros de referência e apoio às vítimas, bem como de emendas
+que definem como diretriz do Programa o apoio e tratamento às vítimas da
+criminalidade, que passam a fazer parte de seu foco social.0 que se
+depreende da análise às emendas aprovadas pelo Senado Federal é que todo
+o debate feito na Câmara dos Deputados foi incorporado pelo Senado, numa
+demonstração de que o Parlamento é o for o principal para a formulação e o
+aprimoramento das Políticas Públicas.Face ao exposto, o voto é pela
+constitucionalidade, juridicidade e técnica legislativa das Emendas de nos 1
+a 11, pela sua adequação financeira e orçamentária e quanto ao mérito, pela
+sua aprovação.”
+
+Nesta mesma data, 23/10/2007, o Parecer do Deputado Marcelo Melo foi votado e
+rejeitado pelo Plenário da Câmara dos Deputados. Todas as emendas aprovadas pelo Senado
+são rejeitadas, e é aprovada a Medida Provisória 384, de 2007, nos termos do Projeto de Lei
+de Conversão nº 32, de 2007, que é enviado ao Presidente da República para sanção.
+
+! Parecer do Relator às emendas aprovadas pelo Senado Federal. Disponível
+
+em-http://www.camara.gov.br/sileg/integras/516159.pdf
+Acesso em: 10 jan. 2011.
+http://www.camara.gov.br/sileg/integras/516159.pdf
+
+ 
+
+ 
+
+ 
+33
+
+Em 24/10/2007, o Projeto de Lei de Conversão nº 32, de 2007 (Medida Provisória
+384, de 2007) foi sancionado, transformado na Lei Ordinária nº 11.530, de 2007, e publicado
+
+no Diário Oficial da União em 25/10/2007.
+
+3.3 As Inovações Introduzidas
+
+Comparando os textos da Medida Provisória nºs 384, de 20/08/07 que criou o
+
+Pronasci, com o texto aprovado pelo Congresso Nacional, conforme se verifica no quadro
+
+comparativo seguinte, é fácil perceber? as inovações que foram efetuadas pelos
+
+parlamentares.
+
+ 
+
+MODIFICAÇÕES FEITAS PELO CONGRESSO NACIONAL NA MPYV 384/2007
+
+ 
+
+Texto da Medida Provisória 384/2007
+
+Texto da Lei nº 11.530/2007
+
+ 
+
+Art. 4º São focos prioritários dos programas,
+projetos e ações que compõem o Pronasci:
+
+H-
+situação
+
+foco social: jovens e adolescentes, em
+
+infracional (modificado) ou em
+conflito com a lei (suprimido), e egressos do
+sistema prisional e famílias expostas à violência
+
+urbana;
+
+Art. 4º São focos prioritários dos
+programas, projetos e ações que compõem
+o Pronasci:
+
+II - foco social: jovens e adolescentes, em
+situação de risco social, (modificado) e
+egresso do sistema prisional e famílias
+
+expostas á violência urbana;
+
+ 
+
+ 
+
+Art. 6º Para aderir ao PRONASCI, o ente
+federativo deverá aceitar as seguintes condições,
+sem prejuízo do disposto na legislação aplicável
+e do pactuado no respectivo instrumento de
+cooperação:
+
+ 
+
+Art. 6º Para aderir ao Pronasci, o ente
+federativo deverá aceitar as seguintes
+condições, sem prejuízo do disposto na
+legislação aplicável e do pactuado no
+
+respectivo instrumento de cooperação:
+
+VI -
+
+programas continuados de formação em
+
+compromisso de implementar
+
+direitos humanos para os policiais civis,
+
+ 
+
+12 Modificações em negrito
+
+ 
+34
+
+ 
+
+policiais militares, bombeiros militares e
+servidores do sistema penitenciário.
+
+(incluído).
+
+ 
+
+Art. 7º Para fins de execução do PRONASCI, a
+União fica autorizada a realizar convênios,
+outros
+órgãos
+
+instrumentos
+da
+administração pública dos Estados, do Distrito
+
+acordos, ajustes ou
+
+congêneres com e entidades
+Federal e dos Municípios, bem assim com
+entidades de direito público e privado sem fins
+lucrativos, (modificado) observada a legislação
+
+pertinente.
+
+Art. 7º Para fins de execução do Pronasci, a
+União fica autorizada a realizar convênios,
+acordos, ajustes ou outros instrumentos
+congêneres com órgãos e entidades da
+administração pública dos Estados, do
+Distrito Federal e dos Municípios, assim
+como com entidades de direito público e
+Organizações da Sociedade Civil de
+Interesse Público - OSCIP, (modificado)
+observada a legislação pertinente.
+
+ 
+
+ 
+
+Os artigos 92 ao 15, foram suprimidos.
+
+ 
+
+ 
+
+Conforme se depreende do quadro acima, apesar do Congresso Nacional ter
+
+rejeitado todas as emendas apresentadas na Comissão Mista, houve mudanças significativas
+
+que contribuiram para a otimização do texto recebido do Poder Executivo.
+
+No art. 4º da Medida Provisória, a permuta da expressão “infracional ou em
+
+conflito com a lei” pela expressão “de risco social”, permitiu alcançar um maior contingente
+
+de jovens e adolescentes que, embora não estejam em situação infracional ou em conflito
+
+com a lei, encontram-se com dificuldades em relação ao desemprego, motivação, cultura e
+
+esportes. O Relator da Matéria pela Comissão Mista, Deputado Marcelo Melo, defendeu a
+
+alteração argumentando que:
+
+Além disso, entendemos que, no art. 4º, a expressão “em situação infracional
+ou em conflito com a lei” deve ser substituída por “em situação de risco
+
+social”,
+
+o que abrange uma categoria de adolescentes que não
+
+necessariamente estarão em conflito com a lei, por apresentar vantagem
+pedagógica, permitindo que o foco social possa estender-se a outros
+adolescentes que convivem no mesmo contexto social.
+
+33 Parecer do Relator à Medida Provisória 384, de 2007. Disponível em:
+<http://www.camara.gov.br/sileg/Prop Detalhe.asp?id=371109>
+
+ 
+
+Acesso em: 10 jan. 2011.
+
+ 
+39
+
+O art. 68 que determina os requisitos para que o ente federado possa aderir ao
+Pronasci, ganhou a inclusão do inciso VI, que impõe o compromisso do ente federado de
+implementar programas continuados de formação em direitos humanos para os policiais civis,
+policiais militares, bombeiros militares e servidores do sistema penitenciário, o que contribui
+para a formação de uma polícia mais humanizada. Em seu parecer no Senado Federal, o
+Senador Romeu Tuma, fez a seguinte afirmação acerca do tema:
+
+(...) Com a inclusão do dispositivo sobre programas de formação em direitos
+humanos para os policiais civis, policiais militares, bombeiros militares e
+servidores do sistema penitenciário, fruto de emenda apresentada pelo
+Deputado Flávio Dino, ficou evidente a importância da formação e
+valorização dos profissionais de segurança pública.
+
+No art. 7º houve a substituição da expressão “privado sem fins lucrativos” pela
+expressão “Organizações da Sociedade Civil de Interesse Público - OSCIP”, o que também,
+foi de grande valia, pois permitirá um maior controle dos recursos orçamentários do
+programa. O Deputado Marcelo Melo em seu Parecer Reformulado de Plenário, teceu o
+seguinte comentário acerca da modificação:
+
+(...) No art. 7º, é necessária a troca da expressão "entidades de direito público
+e privado sem fins lucrativos" por "entidades de direito público e
+organizacões da sociedade civil de interesse público", o que constituirá
+avanço para o controle de recursos do programa.!
+
+4 Os Projetos de Lei que tramitam no Congresso Nacional tratando do Pronasci
+
+Nesta data, 07-12-2010, conforme pesquisa realizada no banco de dados de
+proposições da Câmara dos Deputados - SILEG e no do Senado Federal - SICON, tramitam
+no Congresso Nacional, cinco projetos de leia seguir descritos, que tratam do Pronasci.
+
+I - Identificação : PL 5235/2009
+
+Data de apresentação : 19/05/2009
+
+Autor: Deputado Paes de Lira
+
+Ementa : Altera a Lei nº 11.530, de 24 de outubro de 2007, que institui o Programa Nacional
+de Segurança Pública com Cidadania - PRONASCI, e a Lei nº4.375, de 17 de agosto de
+
+““ Diário do Senado Federal, 18 out. 2007, p. 36152-36164. Disponível em:
+<http://www6.senado.gov .br/diarios/BuscaPaginasDiario?codDiario=656&segPaginalnicial=696&segPaginaFin
+al=714>
+
+Acesso em: 10 jan. 2011
+36
+
+1964, Lei do Serviço Militar, e dá outras providências;
+
+IH - Identificação : PL 5435/2009
+
+Data de apresentação : 17/06/2009
+
+Autor: Deputado Capitão Assumção
+
+Ementa : Altera o dispositivo da Lei nº 11.530, de 24 de outubro de 2007, que Institui o
+Programa Nacional de Segurança Pública com Cidadania - PRONASCI e dá outras
+
+providências;
+
+HI - Identificação : PL 6588/2009
+
+Data de apresentação : 09/12/2009
+
+Autor: Deputado Elismar Prado
+
+Ementa : Altera a Lei nº 11.530, de 24 de outubro de 2007, incluindo os profissionais que
+trabalhem com socioeducação de adolescentes como beneficiários do Projeto Bolsa-
+
+Formação;
+
+IV - Identificação : PL 7171/2010
+
+Data de apresentação : 20/04/2010
+
+Autor: Deputado Marcelo Itagiba
+
+Ementa : Altera a Lei nº 11.530, de 24 de outubro de 2007, que Institui o Programa Nacional
+de Segurança Pública com Cidadania - PRONASCI, a fim de incluir os agentes das guardas
+portuárias no rol das categorias profissionais beneficiárias da "Bolsa-Formação";
+
+V - Identificação : PL 7410/2010
+
+Data de apresentação : 26/05/2010
+
+Autor: Deputado Daniel Almeida
+
+Ementa : Altera o 8 9º do art. 8. E, da Lei nº 11.530, de 24 de outubro de 2007, para incluir os
+agentes de trânsito entre os beneficiários do programa Bolsa-Formação.
+
+ 
+
+15 Diário da Câmara dos Deputados, 9 out. 2007, p. 52948
+37
+
+5 Conclusão
+
+Ao longo de todo esse trabalho foi possível visualizar de forma clara e objetiva
+que a utilização do instituto da Medida Provisória na criação de políticas públicas, além de
+controverso, por impor a sua deliberação pelo Poder Legislativo em tempo insuficiente, na
+maioria das vezes em que é utilizado quase sempre se questiona se os requisitos de relevância
+e urgência a que está condicionado foram plenamente atendidos. Também, nos debates
+legislativos, doutrinários e jurisprudenciais, há entendimentos que em muitos casos, os
+conceitos de relevância e urgência são um tanto quanto subjetivos, o que acaba ampliando as
+possibilidades de utilização do referido instituto pelo Poder Executivo, e consequentemente,
+dificultando a sua devida apreciação pelo Congresso Nacional.
+
+Os pressupostos materiais para edição de medida provisória elencados no
+parágrafo 1º, do art. 62, da Constituição Federal, vedam a edição de medida provisória sobre
+diversas matérias. Havendo vontade política, é possível ao Congresso Nacional acrescentar ao
+referido parágrafo, por intermédio de emenda constitucional, nos termos do Art. 60, da
+Constituição Federal, a proibição de criação de políticas públicas por meio de medidas
+provisórias.
+
+Conforme ficou demonstrado na análise do processo legislativo da medida
+provisória que criou a política pública do Pronasci, apesar do exíguo tempo que foi destinado
+ao Congresso Nacional para deliberação, o trabalho foi muito profícuo, pois permitiu que a
+proposta vinda do Poder Executivo fosse aprimorada, tomando-se mais técnica e precisa, o
+que ficou bastante claro, quando por exemplo, na proposta original, trocou-se a expressão “
+jovens e adolescentes em situação infracional ou em conflito com a lei” por “jovens e
+adolescentes em situação de risco social”, o que permitiu que a norma alcançasse todos os
+
+jovens e adolescentes que mereciam a tutela do normativo em questão.
+
+A nossa Carta Magna em seu artigo 61, dispõe que a iniciativa das leis
+complementares e ordinárias cabe a qualquer membro ou comissão da Câmara dos Deputados,
+do Senado Federal ou do Congresso Nacional. Desta forma, não há nenhum empecilho à
+propositura de mudanças na Lei nº 11.530, de 24 de outubro de 2007 que criou o Pronasci.
+Atualmente, já tramita no Congresso Nacional várias propostas de alteração da referida Lei.
+Dentre elas, destacamos a título de exemplo, o Projeto de Lei Ordinária (PL) nº 6588/2009, de
+autoria do Deputado Elismar Prado, apresentado em 09 de dezembro de 2009, cuja ementa,
+dispõe: “altera a Lei nº 11.530, de 24 de outubro de 2007, incluindo os profissionais que
+38
+
+trabalhem com socioeducação de adolescentes como beneficiários do Projeto Bolsa-
+
+Formação”.
+
+Foi observado durante o desenvolvimento desse trabalho que nas discussões e
+encaminhamentos das votações que antecedem as decisões de aprovação ou rejeição das
+matérias, existe sempre um grande embate político, o que é perfeitamente compreensível e
+salutar no regime democrático de direito. Esse embate, muitas vezes, toma as deliberações
+
+mais demoradas.
+
+Também, foi observado que quando as matérias são levadas diretamente ao
+Plenário da Câmara dos Deputados ou do Senado Federal, sem a devida participação das
+Comissões Temáticas Especializadas, tem-se a sensação, de que há uma certa incompletude
+no processo legislativo.
+
+Por fim, filiamo-nos a todos aqueles que vêem no Pronasci, apesar de todas as
+suas deficiências, como a falta de análise pelas comissões temáticas especializadas do
+Congresso Nacional e as suas deficiências devido a necessidade da magnitude da proposta,
+além de uma esperança, também, uma mudança de paradigma no enfrentamento da violência
+e da criminalidade, com a implementação de medidas de segurança pública com ações sociais,
+
+e da combinação de prevenção com repressão.
+
+6 Referências
+
+AMARAL JÚNIOR, José Levi Mello do. Medida Provisória e a sua conversão em Lei: a
+Emenda Constitucional n. 32 e o papel do Congresso Nacional. Editora Revista dos
+Tribunais - São Paulo, SP - 2004.
+
+BRASIL. Congresso. Câmara dos Deputados. Regimento Interno da C âmara dos
+Deputados: 7. ed. Brasília: Coordenação de Publicações, 2006.
+
+BRASIL. Constituição (1988). Constituição da República Federativa do Brasil. 322 ed.
+Brasília: Câmara dos Deputados, Coordenação de Publicações, 2010.
+39
+
+FORTINI, Cristiana; ESTEVES, Júlio César dos Santos; DIAS, Maria Tereza Fonseca.
+Políticas Públicas - Possibilidades e Limites.
+Editora Fórum Ltda - Belo Horizonte, MG - 2008.
+
+GAWRY SZEWSKI, Bruno. Cultura e Segurança Pública: Um Debate sobre a Ordem
+Social. Rio de Janeiro/RJ (2008).Disponível em :
+
+http://www .ufs).edu.br/portal-repositorio/File/V ertentes/B runo% 20Gawryszewski.pdf
+
+ 
+
+Acesso em: 17 jan. 2011
+
+MORAES, Alexandre de; Direito C onstitucional. Editora Atlas S.A. - São Paulo, SP - 232
+edição - 2008;
+
+OLIVEIRA, Fátima Bayma de; ZOUAIN, Deborah Moraes; RUEDIGER, Marco Aurélio;
+RICCIO, Vicente. Desafios da Gestão Pública de Segurança.
+
+Editora FGV - Rio de Janeiro, RJ - 12edição - 2009
+
+PORTO, Maria Stela Grossi. Crenças, valores e representações. Sociologias, Porto
+Alegre,ano 8, nº 16, jul/dez 2006, p. 250-273. Disponível em:
+
+http://www .scielo.br/pdf/soc/n16/a10n16.pdf
+
+Acesso em: 16 jan. 2011
+
+SAPORI, Luis Flávio. Segurança Pública no Brasil: desafios e perspectivas. Editora FGV
+- Rio de Janeiro, RJ - 2007
+
+SILVA, José Afonso da; Curso de Direito Constitucional Positivo. Editora Malheiros
+Editores Ltda - São Paulo, SP - 332 edição - 2010
+40
+
+7 Anexos
+
+Presidência da República
+Casa Civil
+Subchefia para Assuntos Jurídicos
+
+LEI Nº 11.530, DE 24 DE OUTUBRO DE 2007.
+
+ 
+
+Institui o Programa Nacional de Segurança
+Conversão da MPy nº 384, de 2007. Pública com Cidadania - PRONASCI e dá
+outras providências.
+
+ 
+
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu
+sanciono a seguinte Lei:
+
+Art. 1º Fica instituído o Programa Nacional de Segurança Pública com Cidadania -
+PRONASCI, a ser executado pela União, por meio da articulação dos órgãos federais, em
+regime de cooperação com Estados, Distrito Federal e Municípios e com a participação das
+famílias e da comunidade, mediante programas, projetos e ações de assistência técnica e
+financeira e mobilização social, visando à melhoria da segurança pública.
+
+Art. 2º O Pronasci destina-se a articular ações de segurança pública para a prevenção, controle
+e repressão da criminalidade, estabelecendo políticas sociais e ações de proteção às vítimas.
+(Redação dada pela Lei nº 11.707, de 2008)
+
+Art. 3º São diretrizes do Pronasci:
+
+I - promoção dos direitos humanos, intensificando uma cultura de paz, de apoio ao
+desarmamento e de combate sistemático aos preconceitos de gênero, étnico, racial, geracional,
+de orientação sexual e de diversidade cultural; (Redação dada pela Lei nº 11.707, de 2008)
+
+II - criação e fortalecimento de redes sociais e comunitárias; (Redação dada pela Lei nº
+11.707, de 2008)
+
+HI - fortalecimento dos conselhos tutelares; (Redação dada pela Lei nº 11.707, de 2008)
+
+IV - promoção da segurança e da convivência pacífica; (Redação dada pela Lei nº 11.707, de
+2008
+
+V - modemização das instituições de segurança pública e do sistema prisional; (Redação dada
+pela Lei nº 11.707, de 2008
+
+VI - valorização dos profissionais de segurança pública e dos agentes penitenciários;
+(Redação dada pela Lei nº 11.707, de 2008)
+
+VII - participação de jovens e adolescentes, de egressos do sistema prisional, de famílias
+expostas à violência urbana e de mulheres em situação de violência; (Redação dada pela Lei
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+41
+
+nº 11.707, de 2008)
+
+VIII - ressocialização dos indivíduos que cumprem penas privativas de liberdade e egressos
+do sistema prisional, mediante implementação de projetos educativos, esportivos e
+profissionalizantes; (Redação dada pela Lei nº 11.707, de 2008)
+
+IX - intensificação e ampliação das medidas de enfrentamento do crime organizado e da
+corrupção policial; (Redação dada pela Lei nº 11.707, de 2008)
+
+X - garantia do acesso à justiça, especialmente nos territórios vulneráveis; (Redação dada pela
+Lei nº 11.707, de 2008)
+
+XI - garantia, por meio de medidas de urbanização, da recuperação dos espaços públicos;
+(Redação dada pela Lei nº 11.707, de 2008)
+
+XII - observância dos princípios e diretrizes dos sistemas de gestão descentralizados e
+participativos das políticas sociais e das resoluções dos conselhos de políticas sociais e de
+defesa de direitos afetos ao Pronasci; (Redação dada pela Lei nº 11.707, de 2008)
+
+XIII - participação e inclusão em programas capazes de responder, de modo consistente e
+permanente, às demandas das vitimas da criminalidade por intermédio de apoio psicológico,
+jurídico e social; (Incluído pela Lei nº 11.707, de 2008)
+
+XIV - participação de jovens e adolescentes em situação de moradores de rua em programas
+educativos e profissionalizantes com vistas na ressocialização e reintegração à família;
+(Incluído pela Lei nº 11.707, de 2008)
+
+XV - promoção de estudos, pesquisas e indicadores sobre a violência que considerem as
+dimensões de gênero, étnicas, raciais, geracionais e de orientação sexual; (Incluído pela Lei nº
+11.707, de 2008)
+
+XVI - transparência de sua execução, inclusive por meios eletrônicos de acesso público; e
+(Incluído pela Lei nº 11.707, de 2008)
+
+XVII - garantia da participação da sociedade civil. (Incluído pela Lei nº 11.707, de 2008)
+
+Art. 4º São focos prioritários dos programas, projetos e ações que compõem o Pronasci:
+
+I- foco etário: população juvenil de 15 (quinze) a 24 (vinte e quatro) anos; (Redação dada
+pela Lei nº 11.707, de 2008)
+
+II - foco social: jovens e adolescentes egressos do sistema prisional ou em situação de
+moradores de rua, famílias expostas à violência urbana, vítimas da criminalidade e mulheres
+em situação de violência; (Redação dada pela Lei nº 11.707, de 2008)
+
+HI - foco territorial: regiões metropolitanas e aglomerados urbanos que apresentem altos
+índices de homicídios e de crimes violentos; e (Redação dada pela Lei nº 11.707, de 2008)
+
+IV - foco repressivo: combate ao crime organizado.(Redação dada pela Lei nº 11.707, de
+2008)
+
+Art. 5º O Pronasci será executado de forma integrada pelos órgãos e entidades federais
+envolvidos e pelos Estados, Distrito Federal e Municípios que a ele se vincularem
+voluntariamente, mediante instrumento de cooperação federativa.
+
+Art. 6º Para aderir ao Pronasci, o ente federativo deverá aceitar as seguintes condições, sem
+prejuízo do disposto na legislação aplicável e do pactuado no respectivo instrumento de
+cooperação:
+
+I- criação de Gabinete de Gestão Integrada - GGI; (Redação dada pela Lei nº 11.707, de
+2008)
+
+II - garantia da participação da sociedade civil e dos conselhos tutelares nos fóruns de
+segurança pública que acompanharão e fiscalizarão os projetos do Pronasci; (Redação dada
+pela Lei nº 11.707, de 2008)
+
+HI - participação na gestão e compromisso com as diretrizes do Pronasci; (Redação dada pela
+Lei nº 11.707, de 2008)
+
+IV - compartilhamento das ações e das políticas de segurança, sociais e de urbanização;
+(Redação dada pela Lei nº 11.707, de 2008)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+42
+
+V - comprometimento de efetivo policial nas ações para pacificação territorial, no caso dos
+Estados e do Distrito Federal; (Redação dada pela Lei nº 11.707, de 2008)
+
+VI - disponibilização de mecanismos de comunicação e informação para mobilização social e
+divulgação das ações e projetos do Pronasci; (Redação dada pela Lei nº 11.707, de 2008)
+
+VII - apresentação de plano diretor do sistema penitenciário, no caso dos Estados e do Distrito
+Federal; (Incluído pela Lei nº 11.707, de 2008)
+
+VIII - compromisso de implementar programas continuados de formação em direitos humanos
+para os policiais civis, policiais militares, bombeiros militares e servidores do sistema
+penitenciário; (Incluído pela Lei nº 11.707, de 2008)
+
+IX - compromisso de criação de centros de referência e apoio psicológico, jurídico e social às
+vítimas da criminalidade; e (Incluído pela Lei nº 11.707, de 2008)
+
+X - (VETADO) (Incluído pela Lei nº 11.707, de 2008)
+
+Art. 7º Para fins de execução do Pronasci, a União fica autorizada a realizar convênios,
+acordos, ajustes ou outros instrumentos congêneres com órgãos e entidades da administração
+pública dos Estados, do Distrito Federal e dos Municípios, assim como com entidades de
+direito público e Organizações da Sociedade Civil de Interesse Público - OSCIP, observada a
+legislação pertinente.
+
+Art. 8º A gestão do Pronasci será exercida pelos Ministérios, pelos órgãos e demais entidades
+federais nele envolvidos, bem como pelos Estados, Distrito Federal e Municípios
+participantes, sob a coordenação do Ministério da Justiça, na forma estabelecida em
+regulamento.
+
+Art. 8-A. Sem prejuízo de outros programas, projetos e ações integrantes do Pronasci, ficam
+instituídos os seguintes projetos: (Incluído pela Lei nº 11.707, de 2008)
+
+I- Reservista-Cidadão; (Incluído pela Lei nº 11.707, de 2008)
+
+II - Proteção de Jovens em Território Vulnerável - Protejo; (Incluído pela Lei nº 11.707, de
+2008)
+
+HI - Mulheres da Paz; e (Incluído pela Lei nº 11.707, de 2008)
+
+IV - Bolsa-Formação. (Incluído pela Lei nº 11.707, de 2008)
+
+Parágrafo único. A escolha dos participantes dos projetos previstos nos incisos I a III do caput
+deste artigo dar-se-á por meio de seleção pública, pautada por critérios a serem estabelecidos
+conjuntamente pelos entes federativos conveniados, considerando, obrigatoriamente, os
+aspectos socioeconômicos dos pleiteantes. (Incluído pela Lei nº 11.707, de 2008)
+
+Art. 8ºB. O projeto Reservista-Cidadão é destinado à capacitação de jovens recém-
+licenciados do serviço militar obrigatório, para atuar como agentes comunitários nas áreas
+geográficas abrangidas pelo Pronasci. (Incluído pela Lei nº 11.707, de 2008)
+
+$ 1º O trabalho desenvolvido pelo Reservista-Cidadão, que terá duração de 12 (doze) meses,
+tem como foco a articulação com jovens e adolescentes para sua inclusão e participação em
+ações de promoção da cidadania. (Incluído pela Lei nº 11.707, de 2008)
+
+$ 2º Os participantes do projeto de que trata este artigo receberão formação sociojurídica e
+terão atuação direta na comunidade.” (Incluído pela Lei nº 11.707, de 2008)
+
+Art. 8-C. O projeto de Proteção de Jovens em Território Vulnerável - Protejo é destinado à
+formação e inclusão social de jovens e adolescentes expostos à violência doméstica ou urbana
+ou em situações de moradores de rua, nas áreas geográficas abrangidas pelo Pronasci.
+(Incluído pela Lei nº 11.707, de 2008)
+
+$ 1º O trabalho desenvolvido pelo Protejo terá duração de 1 (um) ano, podendo ser
+prorrogado por igual período, e tem como foco a formação cidadã dos jovens e adolescentes a
+partir de práticas esportivas, culturais e educacionais que visem a resgatar a auto-estima, a
+convivência pacífica e o incentivo à reestruturação do seu percurso socioformativo para sua
+inclusão em uma vida saudável. (Incluído pela Lei nº 11.707, de 2008)
+
+$ 2º A implementação do Protejo dar-se-á por meio da identificação dos jovens e adolescentes
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+43
+
+participantes, sua inclusão em práticas esportivas, culturais e educacionais e formação
+sociojurídica realizada por meio de cursos de capacitação legal com foco em direitos
+humanos, no combate à violência e à criminalidade, na temática juvenil, bem como em
+atividades de emancipação e socialização que possibilitem a sua reinserção nas comunidades
+em que vivem. (Incluído pela Lei nº 11.707, de 2008)
+
+$ 3º A União bem como os entes federativos que se vincularem ao Pronasci poderão autorizar
+a utilização dos espaços ociosos de suas instituições de ensino (salas de aula, quadras de
+esporte, piscinas, auditórios e bibliotecas) pelos jovens beneficiários do Protejo, durante os
+finais de semana e feriados. (Incluído pela Lei nº 11.707, de 2008)
+
+Art. 8-D. O projeto Mulheres da Paz é destinado à capacitação de mulheres socialmente
+atuantes nas áreas geográficas abrangidas pelo Pronasci. (Incluído pela Lei nº 11.707, de
+2008
+
+$ 1º O trabalho desenvolvido pelas Mulheres da Paz tem como foco: (Incluído pela Lei nº
+11.707, de 2008)
+
+I - a mobilização social para afirmação da cidadania, tendo em vista a emancipação das
+mulheres e prevenção e enfrentamento da violência contra as mulheres; e (Incluído pela Lei nº
+11.707, de 2008
+
+IH - a articulação com jovens e adolescentes, com vistas na sua participação e inclusão em
+programas sociais de promoção da cidadania e na rede de organizações parceiras capazes de
+responder de modo consistente e permanente às suas demandas por apoio psicológico, jurídico
+e social. (Incluído pela Lei nº 11.707, de 2008)
+
+$ 2º A implementação do projeto Mulheres da Paz dar-se-á por meio de: (Incluído pela Lei nº
+11.707, de 2008
+
+I- identificação das participantes; (Incluído pela Lei nº 11.707, de 2008)
+
+II - formação sociojurídica realizada mediante cursos de capacitação legal, com foco em
+direitos humanos, gênero e mediação pacífica de conflitos; (Incluído pela Lei nº 11.707, de
+2008
+
+HI - desenvolvimento de atividades de emancipação da mulher e de reeducação e valorização
+dos jovens e adolescentes; e (Incluído pela Lei nº 11.707, de 2008)
+
+IV - colaboração com as ações desenvolvidas pelo Protejo, em articulação com os Conselhos
+Tutelares. (Incluído pela Lei nº 11.707, de 2008)
+
+$ 3º Fica o Poder Executivo autorizado a conceder, nos limites orçamentários previstos para 0
+projeto de que trata este artigo, incentivos financeiros a mulheres socialmente atuantes nas
+áreas geográficas abrangidas pelo Pronasci, para a capacitação e exercício de ações de justiça
+comunitária relacionadas à mediação e à educação para direitos, conforme regulamento.
+(Incluído pela Lei nº 11.707, de 2008)
+
+Art. 8º-E. O projeto Bolsa-Formação é destinado à qualificação profissional dos integrantes
+das Carreiras já existentes das polícias militar e civil, do corpo de bombeiros, dos agentes
+penitenciários, dos agentes carcerários e dos peritos, contribuindo com a valorização desses
+profissionais e consequente benefício da sociedade brasileira. (Incluído pela Lei nº 11.707, de
+2008)
+
+$ 1º Para aderir ao projeto Bolsa-Formação, o ente federativo deverá aceitar as seguintes
+condições, sem prejuízo do disposto no art. 6º desta Lei, na legislação aplicável e do pactuado
+no respectivo instrumento de cooperação: (Incluído pela Lei nº 11.707, de 2008)
+
+I- viabilização de amplo acesso a todos os policiais militares e civis, bombeiros, agentes
+penitenciários, agentes carcerários e peritos que demonstrarem interesse nos cursos de
+qualificação; (Incluído pela Lei nº 11.707, de 2008)
+
+II - instituição e manutenção de programas de polícia comunitária; e (Incluído pela Lei nº
+11.707, de 2008)
+
+HI - garantia de remuneração mensal pessoal não inferior a R$ 1.300,00 (mil e trezentos reais)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+44
+
+aos membros das corporações indicadas no inciso I deste parágrafo, até 2012. (Incluído pela
+Lei nº 11.707, de 2008
+
+$ 2º Os instrumentos de cooperação não poderão ter prazo de duração superior a 5 (cinco)
+anos. (Incluído pela Lei nº 11.707, de 2008)
+
+$ 3º O beneficiário policial civil ou militar, bombeiro, agente penitenciário, agente carcerário
+e perito dos Estados-membros que tiver aderido ao instrumento de cooperação receberá um
+valor referente à Bolsa-Formação, de acordo com o previsto em regulamento, desde que:
+(Incluído pela Lei nº 11.707, de 2008)
+
+I- frequente, a cada 12 (doze) meses, ao menos um dos cursos oferecidos ou reconhecidos
+pelos órgãos do Ministério da Justiça, nos termos dos 88 4º a 7º deste artigo; (Incluído pela
+Lei nº 11.707, de 2008)
+
+II - não tenha cometido nem sido condenado pela prática de infração administrativa grave ou
+não possua condenação penal nos últimos 5 (cinco) anos; e (Incluído pela Lei nº 11.707, de
+2008)
+
+HI - não perceba remuneração mensal superior ao limite estabelecido em regulamento.
+(Incluído pela Lei nº 11.707, de 2008)
+
+$ 4º A Secretaria Nacional de Segurança Pública do Ministério da Justiça será responsável
+pelo oferecimento e reconhecimento dos cursos destinados aos peritos e aos policiais militares
+e civis, bem como aos bombeiros. (Incluído pela Lei nº 11.707, de 2008)
+
+$ 5º O Departamento Penitenciário Nacional do Ministério da Justiça será responsável pelo
+oferecimento e reconhecimento dos cursos destinados aos agentes penitenciários e agentes
+carcerários. (Incluído pela Lei nº 11.707, de 2008)
+
+$ 6º Serão dispensados do cumprimento do requisito indicado no inciso 1 do 8 3º deste artigo
+os beneficiários que tiverem obtido aprovação em curso de especialização reconhecido pela
+Secretaria Nacional de Segurança Pública ou pelo Departamento Penitenciário Nacional do
+Ministério da Justiça. (Incluído pela Lei nº 11.707, de 2008)
+
+8 7º O pagamento do valor referente à Bolsa-Formação será devido a partir do mês
+subsequente ao da homologação do requerimento pela Secretaria Nacional de Segurança
+Pública ou pelo Departamento Penitenciário Nacional, de acordo com a natureza do cargo
+exercido pelo requerente. (Incluído pela Lei nº 11.707, de 2008)
+
+$ 8º Os requisitos previstos nos incisos I a III do $ 3º deste artigo deverão ser verificados
+conforme o estabelecido em regulamento. (Incluído pela Lei nº 11.707, de 2008)
+
+$ 9º Observadas as dotações orçamentárias do programa, fica autorizada a inclusão de guardas
+civis municipais como beneficiários do programa, mediante o instrumento de cooperação
+federativa de que trata o art. 5º desta Lei, observadas as condições previstas em regulamento.
+(Incluído pela Lei nº 11.707, de 2008)
+
+Art. 8-F, O Poder Executivo concederá auxílio financeiro aos participantes a que se referem
+os arts. 8-B, 8º-C e 8º-D desta Lei, a partir do exercício de 2008, nos seguintes valores:
+(Incluído pela Lei nº 11.707, de 2008)
+
+I- R$ 100,00 (cem reais) mensais, no caso dos projetos Reservista-Cidadão e Protejo; e
+(Incluído pela Lei nº 11.707, de 2008)
+
+II - R$ 190,00 (cento e noventa reais) mensais, no caso do projeto Mulheres da Paz. (Incluído
+pela Lei nº 11.707, de 2008
+
+Parágrafo único. A concessão do auxílio financeiro dependerá da comprovação da assiduidade
+e do comprometimento com as atividades estabelecidas no âmbito dos projetos de que tratam
+os arts. 8º-B, 8º-C e 8º-D desta Lei, além de outras condições previstas em regulamento, sob
+pena de exclusão do participante. (Incluído pela Lei nº 11.707, de 2008)
+
+Art. 8-G. A percepção dos auxílios financeiros previstos por esta Lei não implica filiação do
+beneficiário ao Regime Geral de Previdência Social de que tratam as Leis nº 8.212 e 8.213,
+ambas de 24 de julho de 1991. (Incluído pela Lei nº 11.707, de 2008)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+45
+
+Art. 8º-H. A Caixa Econômica Federal será o agente operador dos projetos instituídos nesta
+Lei, nas condições a serem estabelecidas com o Ministério da Justiça, obedecidas as
+formalidades legais. (Incluído pela Lei nº 11.707, de 2008)
+
+Art. 9º As despesas com a execução dos projetos correrão à conta das dotações orçamentárias
+consignadas anualmente no orçamento do Ministério da Justiça. (Redação dada pela Lei nº
+11.707, de 2008)
+
+Parágrafo único. Observadas as dotações orçamentárias, o Poder Executivo deverá, até o ano
+de 2012, progressivamente estender os projetos referidos no art. 8-A desta Lei para as regiões
+metropolitanas de todos os Estados federados. (Incluído pela Lei nº 11.707, de 2008)
+
+Art. 10. (Revogado pela Lei nº 11.707, de 20080
+
+Art. 11. Esta Lei entra em vigor na data de sua publicação.
+
+Brasília, 24 de outubro de 2007; 186º da Independência e 119º da República.
+
+LUIZ INÁACIO LULA DA SILVA
+
+Tarso Genro
+
+Este texto não substitui o publicado no DOU de 25.10.2007
+
+ 
+
+ 
+
+Presidência da República
+Casa Civil
+Subchefia para Assuntos Jurídicos
+
+MEDIDA PROVISÓRIA Nº 384, DE 20 DE AGOSTO DE 2007.
+
+Institui o Programa Nacional de Segurança
+Convertida na Lei nº 11.530, de 2007. Pública com Cidadania - PRONASCI, e dá
+outras providências.
+
+ 
+
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da
+Constituição, adota a seguinte Medida Provisória, com força de lei:
+
+Ant. 1º Fica instituído o Programa Nacional de Segurança Pública com Cidadania -
+PRONASCI, a ser executado pela União, por meio da articulação dos órgãos federais, em
+regime de cooperação com Estados, Distrito Federal e Municípios e com a participação das
+famílias e da comunidade, mediante programas, projetos e ações de assistência técnica e
+financeira e mobilização social, visando a melhoria da segurança pública.
+
+Art. 220 PRONASCI destina-se à prevenção, controle e repressão da criminalidade, atuando
+em suas raizes sócio-culturais, articulando ações de segurança pública e das políticas sociais.
+Art. 3º São diretrizes do PRONASCI:
+
+I- promoção dos direitos humanos, considerando as questões de gênero, étnicas, raciais,
+geracionais, de orientação sexual e de diversidade cultural;
+
+II - criação e fortalecimento de redes sociais e comunitárias;
+
+II - promoção da segurança e da convivência pacífica;
+
+IV - modemização das instituições de segurança pública e do sistema prisional;
+
+V - valorização dos profissionais de segurança pública e dos agentes penitenciários;
+
+VI- participação do jovem e do adolescente em situação infracional ou em conflito com a lei,
+do egresso do sistema prisional e famílias;
+46
+
+VII - promoção e intensificação de uma cultura de paz, de apoio ao desarmamento e de
+combate sistemático aos preconceitos;
+
+VIII - ressocialização dos indivíduos que cumprem penas privativas de liberdade e egressos
+do sistema prisional, mediante a implementação de projetos educativos e profissionalizantes;
+IX - intensificação e ampliação das medidas de enfrentamento do crime organizado e da
+corrupção policial;
+
+X - garantia do acesso à justiça, especialmente nos territórios vulneráveis;
+
+XI - garantia, por meio de medidas de urbanização, da recuperação dos espaços públicos; e
+XII - observância dos princípios e diretrizes dos sistemas de gestão descentralizados e
+participativos das políticas sociais e resoluções dos conselhos de políticas sociais e de defesa
+de direitos afetos aa PRONASCI.
+
+Art. 4º São focos prioritários dos programas, projetos e ações que compõem o PRONASCI:
+I- foco etário: população juvenil de quinze a vinte e nove anos;
+
+II - foco social: jovens e adolescentes, em situação infracional ou em conflito com a lei, e
+egressos do sistema prisional e famílias expostas à violência urbana; e
+
+HI - foco territorial: regiões metropolitanas e aglomerados urbanos que apresentem altos
+índices de homicídios e de crimes violentos.
+
+Art. 5º O PRONASCI será executado de forma integrada pelos órgãos e entidades federais
+envolvidos e pelos Estados, Distrito Federal e Municípios, que a ele se vincularem
+voluntariamente, mediante instrumento de cooperação federativa.
+
+Art. 6º Para aderir aa PRONASCI, o ente federativo deverá aceitar as seguintes condições,
+sem prejuízo do disposto na legislação aplicável e do pactuado no respectivo instrumento de
+cooperação:
+
+I- participação na gestão e compromisso com as diretrizes do programa;
+
+II - compartilhamento das ações e das políticas de segurança, sociais e de urbanização;
+
+II - comprometimento de efetivo policial nas ações para pacificação territorial, no caso dos
+Estados e do Distrito Federal;
+
+IV - disponibilização de mecanismos de comunicação e informação para mobilização social e
+divulgação das ações e projetos do programa; e
+
+V - apresentação de plano diretor do sistema penitenciário, no caso dos Estados e do Distrito
+Federal.
+
+Art. 7º Para fins de execução do PRONASCI, a União fica autorizada a realizar convênios,
+acordos, ajustes ou outros instrumentos congêneres com órgãos e entidades da administração
+pública dos Estados, do Distrito Federal e dos Municípios, bem assim com entidades de
+direito público e privado sem fins lucrativos, observada a legislação pertinente.
+
+Art. 8º A gestão do PRONASCI será exercida pelos Ministérios, órgãos e demais entidades
+federais nele envolvidos, bem como pelos Estados, Distrito Federal e Municípios
+participantes, sob a coordenação do Ministério da Justiça, na forma estabelecida em
+regulamento.
+
+Art. 9º Sem prejuízo de outros programas, projetos e ações integrantes do PRONASCI, ficam
+instituídos os Projetos Reservista-Cidadão, Proteção de Jovens em Território Vulnerável -
+PROTEJO e Mães da Paz.
+
+Art. 10. O Projeto Reservista-Cidadão é destinado à capacitação de jovens recém-licenciados
+do serviço militar obrigatório, para atuar como líderes comunitários nas áreas geográficas
+abrangidas pelo PRONASCI.
+
+$ 1º O trabalho desenvolvido pelo reservista-cidadão, que terá duração de doze meses, tem
+como foco a articulação com jovens e adolescentes em situação infracional ou em conflito
+com a lei, para sua inclusão e participação em ações de promoção da cidadania.
+
+$ 2º A implementação do Projeto Reservista-Cidadão dar-se-á por meio da identificação dos
+participantes, dentre jovens licenciados, os quais receberão formação sócio-jurídica e terão
+47
+
+atuação direta na comunidade.
+
+Art. 11. O Projeto de Proteção dos Jovens em Território Vulnerável - PROTEJO é destinado à
+formação e inclusão social de jovens e adolescentes que se encontrem em situação infracional
+ou em conflito com a lei, e expostos à violência doméstica ou urbana, nas áreas geográficas
+abrangidas pelo PRONASCI.
+
+$ 1º O trabalho desenvolvido pelo PROTEJO, que terá duração de um ano, podendo ser uma
+única vez prorrogado por igual período, tem como foco a formação cidadã dos jovens e
+adolescentes a partir de práticas esportivas, culturais e educacionais que visem resgatar a
+auto-estima, a convivência pacífica e incentivo à reestruturação do seu percurso social-
+formativo para sua inclusão em uma vida saudável.
+
+$ 2º A implementação do PROTEJO dar-se-á por meio da identificação dos jovens e
+adolescentes participantes, sua inclusão em práticas esportivas, culturais e educacionais e
+formação sócio-jurídica realizada por meio de cursos de capacitação legal com foco em
+direitos humanos, combate à violência e à criminalidade, temática juvenil, bem como em
+atividades de emancipação e socialização que possibilitem a sua reinserção nas comunidade
+em que vivem.
+
+Art. 12. O Projeto Mães da Paz é destinado à capacitação de mulheres líderes comunitárias
+atuantes nas áreas geográficas abrangidas pelo PRONASCI.
+
+$ 1º O trabalho desenvolvido pelas mães da paz tem como foco a articulação com jovens e
+adolescentes, em situação infracional ou em conflito com a lei, para sua participação e
+inclusão em programas sociais de promoção da cidadania e na rede de organizações parceiras,
+capazes de responder, de modo consistente e permanente às suas demandas por apoio
+psicológico, jurídico e social.
+
+$ 2º A implementação do Projeto Mães da Paz dar-se-á por meio de:
+
+I- identificação das participantes;
+
+II - formação sócio-jurídica realizada mediante cursos de capacitação legal, com foco em
+direitos humanos, gênero, combate à violência e à criminalidade; e
+
+HI - desenvolvimento de atividades de emancipação e reeducação dos jovens e adolescentes
+em situação infracional ou em conflito com a lei, que possibilitem a sua reinserção nas
+comunidades em que vivem.
+
+Ant. 13. Fica o Poder Executivo autorizado a conceder auxílio financeiro aos participantes a
+que se referem os arts. 10, 11 e 12, a partir do exercício de 2008, nos seguintes valores:
+
+I- R$ 100,00 (cem reais) mensais, no caso dos Projetos Reservista-Cidadão e PROTEJO; e
+II - R$ 190,00 (cento e noventa reais) mensais, no caso do Projeto Mães da Paz.
+
+Parágrafo único. E vedada a cumulatividade da percepção dos auxílios referidos no caput com
+qualquer outro de natureza semelhante concedido pela União, e, se for o caso, deverá o
+participante optar por apenas um deles, na forma do disposto em regulamento.
+
+Art. 14. A percepção do auxílio financeiro referido no art. 13 não implica filiação do
+beneficiário ao Regime Geral de Previdência Social de que tratam as Leis nºº 8.212 e 8.213
+de 24 de julho de 1991.
+
+Art. 15. A Caixa Econômica Federal será o agente operador dos projetos instituídos nesta
+Medida Provisória, nas condições a serem estabelecidas com o Ministério da Justiça,
+obedecidas as formalidades legais.
+
+Art. 16. As despesas com a execução dos projetos correrão à conta das dotações
+orçamentárias consignadas anualmente no orçamento do Ministério da Justiça, observados os
+limites de movimentação, de empenho e de pagamento da programação orçamentária e
+financeira anual.
+
+Parágrafo único. O Poder Executivo deverá compatibilizar a quantidade de beneficiários dos
+Projetos instituídos nesta Medida Provisória com as dotações orçamentárias existentes.
+
+Art. 17. Ato do Poder Executivo regulamentará esta Medida Provisória, dispondo sobre as
+48
+
+demais regras de funcionamento do PRONASCI e dos Projetos nela instituídos, inclusive no
+que se refere à avaliação, monitoramento, controle social e critérios adicionais de execução e
+gestão.
+
+Art. 18. Esta Medida Provisória entra em vigor na data de sua publicação.
+
+Brasília, 20 de agosto de 2007; 186º da Independência e 119º da República.
+
+LUIZ INÁCIO LULA DA SILVA
+
+Tarso Genro
+
+Paulo Bernardo Silva
+
+Patrus Ananias
+
+Dilma Rousseff
+
+Luiz Soares Dulci
+
+Este texto não substitui o publicado no DOU de 21.8.2007
+
+Presidência da República
+Casa Civil
+Subchefia para Assuntos J urídicosx
+
+EMI nº 00139 - MJ/MP/MDS/SR-PR/C.CIVIL-PR
+
+Brasília, 20 de agosto de 2007
+Excelentíssimo Senhor Presidente da República,
+Submetemos à consideração de Vossa Excelência o anexo anteprojeto de lei que Institui o
+Programa Nacional de Segurança Pública com Cidadania - PRONASCI e dá outras
+providências.
+2. A segurança pública em nosso país tem sido uma preocupação constante de governantes,
+juristas, políticos, estudiosos e também da sociedade civil como um todo. Historicamente, o
+Estado tem enfrentado esse problema com políticas essencialmente repressivas -
+intensificação de ações policiais, construção de novos presídios, endurecimento assistemático
+de penas. Tais iniciativas, no entanto, não têm apresentado os resultados esperados - e não
+têm o condão de os obter.
+3, Nesse sentido, o Ministério da Justiça, órgão responsável pela implementação das políticas
+de segurança nacional, instalou um grupo de trabalho com o fim específico de elaborar um
+programa nacional apto a tratar do tema da segurança pública sob um viés social e humanista
+que, sem se olvidar dos aspectos repressivos, possa priorizar os aspectos preventivos. Do
+amplo debate realizado - seja internamente, seja com especialistas e atores da sociedade civil -
+surge o Programa Nacional de Segurança Pública com Cidadania - PRONASCI.
+4. A proposta parte de um diagnóstico do ciclo da violência, cuja origem é, aliada a muitos
+outros elementos, a falta de resposta adequada às demandas sociais que crescem
+exponencialmente. A violência, em grande parte, é gerada por fatores sociais como famílias
+em estado de pobreza e miséria, violência familiar, exploração de trabalho infantil, violência
+sexual, consumo de drogas lícitas e ilícitas, gravidez na adolescência, desemprego dos pais,
+equipamentos públicos inadequados ou inexistentes, ausência de espaços de cultura, esporte e
+lazer.
+5. A questão da violência, pois, passa a ser analisada sob outro viés, e a União se propõe a
+enfrentá-la de maneira mais qualificada e humanista, com foco etário, social e territorial. O
+PRONASCI destina-se à prevenção, controle e repressão da criminalidade, atuando em suas
+raízes sócio-culturais, articulando ações de segurança pública e políticas sociais mediante a
+cooperação entre União, Estados e Municípios.
+49
+
+6. O presente ato normativo estabelece, assim, as bases do Programa, positivando seus
+objetivos específicos, suas diretrizes, o modelo de integração entre todos os órgãos e
+entidades públicas que são parceiros na gestão e na execução do PRONASCI, a forma de
+participação da sociedade civil e das famílias, o modelo de cooperação dos entes federativos
+com as condições daqui oriundas - respeitado, por certo, o pacto federativo - e, finalmente, os
+princípios básicos a serem observados em sua gestão.
+
+7. De se notar, ainda, que os marcos normativos do PRONA SCI não se esgotam no presente
+projeto de lei. As ações e projetos que o constituem serão criados - ou modificados e
+intensificados, quando já existentes - por instrumentos normativos próprios que, por certo,
+respeitarão os objetivos e as diretrizes basilares aqui instituídas.
+
+8. Ressalte-se ainda que, no âmbito do PRONASCI, podemos destacar três projetos
+inovadores e que consideramos relevantes para o enfrentamento da problemática da segurança
+pública e da questão juvenil em nosso País. O primeiro deles denominamos Projeto
+Reservista-cidadão, destinado à capacitação de jovens recém-licenciados do serviço militar
+obrigatório para atuar como líderes comunitários nas áreas geográficas abrangidas pelo
+PRONASCI. O trabalho desenvolvido pelos reservistas-cidadão tem como foco a articulação
+com jovens e adolescentes em situação infracional ou em conflito com a lei, para inclusão e
+participação em programas de promoção da cidadania.
+
+9. O segundo, denominamos Projeto de Proteção dos Jovens em Território de Descoesão -
+PROTEJO, destinado à formação e inclusão social de jovens e adolescentes que se encontrem
+em situação infracional ou em conflito com a lei, e expostos à violência doméstica ou urbana,
+nas áreas geográficas abrangidas pelo PRONASCI.
+
+10. O Projeto visa a formação e acompanhamento desses jovens, com baixa escolaridade e
+acesso ao mercado de trabalho, exposto à violência doméstica ou urbana, facilmente
+cooptados pela criminalidade e não identificados e incluídos nos programas sociais existentes,
+sejam esses do govemo federal, estadual ou municipal.
+
+11. A formação e o acompanhamento desses jovens serão desenvolvidos por entidades não
+governamentais e do poder público que tenham inserção ou capilaridades junto às áreas infra-
+urbanas definidas pelo PRONASCI, e serão contemplados com um auxílio financeiro que
+busque incentivar a participação do público-alvo nos projetos citados.
+
+12. A formação destes grupos de jovens tem papel decisivo no processo da prevenção
+criminal e da reintegração do jovem na sociedade, já que tem foco na formação cidadã dos
+jovens a partir de práticas esportivas, culturais e educacionais que visem resgatar a auto-
+estima, sentimento de pertencimento, convivência pacífica e incentivo à reestruturação do seu
+percurso social-formativo para sua inclusão em uma vida saudável.
+
+13. O terceiro Projeto denominamos Mães da Paz, que tem por objetivo capacitar mulheres
+líderes comunitárias para qualificar sua atuação nas áreas geográficas abrangida pelo
+PRONASCI. Essas mulheres serão responsáveis por construir e articular uma rede social que
+atuará junto aos jovens e adolescentes de 15 a 29 anos em situação infracional ou em conflito
+com a lei, para sua inclusão e participação em programas sociais de promoção da cidadania.
+14. O trabalho desenvolvido por essa rede de mulheres será de extrema relevância para a
+implementação e êxito do PRONASCI, visto que atuarão como interlocutoras das demandas e
+necessidades dos jovens aliciados pelo tráfico e envolvidos com a criminalidade e as políticas
+públicas, auxiliarão a constituição de uma rede de serviços de apoio jurídico, psicológico e
+social capacitada para o atendimento desses jovens; informarão os jovens e adolescentes em
+situação infracional ou em conflito com a lei e seus familiares sobre seus direitos e os
+mecanismos de sua efetivação.
+
+15. A formação destes grupos de mães tem papel decisivo no processo da prevenção criminal
+e da reintegração do jovem em situação infracional ou em conflito com a lei na sociedade, já
+que estas mulheres, importantes lideranças locais, atuam como defensoras de direitos e
+50
+
+promotoras da cidadania.
+16. A junção desses projetos, aliado às demais ações que, em seu conjunto, constituem o
+PRONASCI são, a nosso juízo, as medidas mais pertinentes para que possamos enfrentar a
+questão da segurança pública de forma mais eficiente, sem tratar nossa juventude como algo a
+ser combatido.
+17. Para fins de cumprimento do que dispõe o art. 17 da Lei de Responsabilidade Fiscal - LRF
+(Lei Complementar nº 101, de 4 de maio de 2000), cumpre ressaltar que as despesas
+decorrentes dos auxílios financeiros serão atendidas dentro da margem de expansão das
+despesas obrigatórias de caráter continuado, prevista no Anexo de Metas Fiscais da Lei de
+Diretrizes Orçamentárias de 2008, Lei nº 11.514, de 13 de agosto de 2007.
+18. Por fim, Senhor Presidente, considerando a relevância do tema segurança pública, bem
+como a urgência para que o PRONASCI seja instituído ainda no ano de 2007, entendemos ser
+pertinente avaliar a possibilidade de edição de Medida Provisória, nos moldes do art. 62 da
+Constituição da República.
+19. São essas, Senhor Presidente, as razões que nos levam a submeter a anexa proposta ao
+elevado descortino de Vossa Excelência, acreditando que, se aceita, contribuirá sobremaneira
+à melhoria da segurança pública e das condições sociais no Brasil.
+Respeitosamente,
+Tarso Fernando Herz Genro
+Ministro de Estado da Justiça
+Paulo Bemardo Silva
+Ministro de Estado do Planejamento Orçamento e Gestão
+Patrus Ananias
+Ministro de Estado do Desenvolvimento Social e Combate à Fome
+Luiz Soares Dulci
+Ministro de Estado Chefe da Secretaria-Geral da Presidência da República
+Dilma Rousseff
+Ministra de Estado Chefe da Casa Civil da Presidência da República
+
+Presidência da República
+Casa Civil
+Subchefia para Assuntos Jurídicos
+
+LEI Nº 11.707, DE 19 DE JUNHO DE 2008.
+Altera a Lei nº 11.530, de 24 de outubro de
+
+2007, que institui o Programa Nacional de
+Segurança Pública com Cidadania - Pronasci.
+
+Mensagem de veto
+Conversão da Medida Provisória nº 416-08
+
+ 
+
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu
+sanciono a seguinte Lei:
+
+Art. 1º Os arts. 2º, 3º, 4º, 6º e 9º da Lei nº 11.530, de 24 de outubro de 2007, passam a vigorar
+com a seguinte redação:
+51
+
+“Art. 2º O Pronasci destina-se a articular ações de segurança pública para a
+prevenção, controle e repressão da criminalidade, estabelecendo políticas
+sociais e ações de proteção às vítimas.” (NR)
+
+ 
+
+1 - promoção dos direitos humanos, intensificando uma cultura de paz, de
+apoio ao desarmamento e de combate sistemático aos preconceitos de gênero,
+étnico, racial, geracional, de orientação sexual e de diversidade cultural;
+
+II - criação e fortalecimento de redes sociais e comunitárias;
+
+HI - fortalecimento dos conselhos tutelares;
+
+IV - promoção da segurança e da convivência pacífica;
+
+V - modemização das instituições de segurança pública e do sistema prisional;
+
+VI - valorização dos profissionais de segurança pública e dos agentes
+penitenciários;
+
+VII - participação de jovens e adolescentes, de egressos do sistema prisional,
+de famílias expostas à violência urbana e de mulheres em situação de
+violência;
+
+VIII - ressocialização dos indivíduos que cumprem penas privativas de
+liberdade e egressos do sistema prisional, mediante implementação de projetos
+educativos, esportivos e profissionalizantes;
+
+IX - intensificação e ampliação das medidas de enfrentamento do crime
+organizado e da corrupção policial;
+
+X - garantia do acesso à justiça, especialmente nos territórios vulneráveis;
+
+X1- garantia, por meio de medidas de urbanização, da recuperação dos espaços
+públicos;
+
+XII - observância dos princípios e diretrizes dos sistemas de gestão
+descentralizados e participativos das políticas sociais e das resoluções dos
+conselhos de políticas sociais e de defesa de direitos afetos ao Pronasci;
+
+XIII - participação e inclusão em programas capazes de responder, de modo
+consistente e permanente, às demandas das vítimas da criminalidade por
+intermédio de apoio psicológico, jurídico e social;
+
+XIV - participação de jovens e adolescentes em situação de moradores de rua
+em programas educativos e profissionalizantes com vistas na ressocialização e
+reintegração à família;
+
+XV - promoção de estudos, pesquisas e indicadores sobre a violência que
+considerem as dimensões de gênero, étnicas, raciais, geracionais e de
+orientação sexual;
+
+XVI- transparência de sua execução, inclusive por meios eletrônicos de acesso
+público; e
+52
+
+XVII - garantia da participação da sociedade civil.” (NR)
+
+I- foco etário: população juvenil de 15 (quinze) a 24 (vinte e quatro) anos;
+
+IH - foco social: jovens e adolescentes egressos do sistema prisional ou em
+situação de moradores de rua, famílias expostas à violência urbana, vítimas da
+criminalidade e mulheres em situação de violência;
+
+HI - foco territorial: regiões metropolitanas e aglomerados urbanos que
+apresentem altos índices de homicídios e de crimes violentos; e
+
+IV - foco repressivo: combate ao crime organizado.” (NR)
+
+1- criação de Gabinete de Gestão Integrada - GGI;
+
+IH - garantia da participação da sociedade civil e dos conselhos tutelares nos
+fóruns de segurança pública que acompanharão e fiscalizarão os projetos do
+Pronasci;
+
+HI - participação na gestão e compromisso com as diretrizes do Pronasci;
+
+IV - compartilhamento das ações e das políticas de segurança, sociais e de
+urbanização;
+
+V - comprometimento de efetivo policial nas ações para pacificação territorial,
+no caso dos Estados e do Distrito Federal;
+
+VI - disponibilização de mecanismos de comunicação e informação para
+mobilização social e divulgação das ações e projetos do Pronasci;
+
+VII - apresentação de plano diretor do sistema penitenciário, no caso dos
+Estados e do Distrito Federal;
+
+VIII - compromisso de implementar programas continuados de formação em
+direitos humanos para os policiais civis, policiais militares, bombeiros
+militares e servidores do sistema penitenciário;
+
+IX - compromisso de criação de centros de referência e apoio psicológico,
+jurídico e social às vítimas da criminalidade; e
+
+X - (VETADO)
+
+“Art. 9º As despesas com a execução dos projetos correrão à conta das
+dotações orçamentárias consignadas anualmente no orçamento do Ministério
+da Justiça.
+
+Parágrafo único. Observadas as dotações orçamentárias, o Poder Executivo
+deverá, até o ano de 2012, progressivamente estender os projetos referidos no
+art. 8-A desta Lei para as regiões metropolitanas de todos os Estados
+federados.” (NR)
+
+Art.2º A Lei nº 11.530, de 24 de outubro de 2007, passa a vigorar acrescida dos seguintes
+
+ 
+arts. 8-A, 8º-B, 8-C, 8º-D, 8-E, 8º-F, 8-.G e 8H:
+
+“Art. 8º-A, Sem prejuízo de outros programas, projetos e ações integrantes do
+Pronasci, ficam instituídos os seguintes projetos:
+
+I- Reservista-Cidadão;
+
+II - Proteção de Jovens em Território Vulnerável - Protejo;
+III - Mulheres da Paz; e
+
+IV - Bolsa-Formação.
+
+Parágrafo único. A escolha dos participantes dos projetos previstos nos incisos
+Ia HI do caput deste artigo dar-se-á por meio de seleção pública, pautada por
+critérios a serem estabelecidos conjuntamente pelos entes federativos
+conveniados, considerando, obrigatoriamente, os aspectos socioeconômicos
+dos pleiteantes.”
+
+“Art. 8º-B. O projeto Reservista-Cidadão é destinado à capacitação de jovens
+recém-licenciados do serviço militar obrigatório, para atuar como agentes
+comunitários nas áreas geográficas abrangidas pelo Pronasci.
+
+$ 1º O trabalho desenvolvido pelo Reservista-Cidadão, que terá duração de 12
+(doze) meses, tem como foco a articulação com jovens e adolescentes para sua
+inclusão e participação em ações de promoção da cidadania.
+
+$ 2º Os participantes do projeto de que trata este artigo receberão formação
+sociojurídica e terão atuação direta na comunidade.”
+
+“Art. 8º-C. O projeto de Proteção de Jovens em Território Vulnerável - Protejo
+é destinado à formação e inclusão social de jovens e adolescentes expostos à
+violência doméstica ou urbana ou em situações de moradores de rua, nas áreas
+geográficas abrangidas pelo Pronasci.
+
+$ 1º O trabalho desenvolvido pelo Protejo terá duração de 1 (um) ano, podendo
+ser prorrogado por igual período, e tem como foco a formação cidadã dos
+jovens e adolescentes a partir de práticas esportivas, culturais e educacionais
+que visem a resgatar a auto-estima, a convivência pacífica e o incentivo à
+reestruturação do seu percurso socioformativo para sua inclusão em uma vida
+saudável.
+
+$ 2º A implementação do Protejo dar-se-á por meio da identificação dos jovens
+e adolescentes participantes, sua inclusão em práticas esportivas, culturais e
+educacionais e formação sociojurídica realizada por meio de cursos de
+capacitação legal com foco em direitos humanos, no combate à violência e à
+criminalidade, na temática juvenil, bem como em atividades de emancipação e
+socialização que possibilitem a sua reinserção nas comunidades em que vivem.
+
+$ 3º A União bem como os entes federativos que se vincularem ao Pronasci
+poderão autorizar a utilização dos espaços ociosos de suas instituições de
+ensino (salas de aula, quadras de esporte, piscinas, auditórios e bibliotecas)
+pelos jovens beneficiários do Protejo, durante os finais de semana e feriados.”
+
+53
+“Art. 8-D. O projeto Mulheres da Paz é destinado à capacitação de mulheres
+socialmente atuantes nas áreas geográficas abrangidas pelo Pronasci.
+
+8 1º O trabalho desenvolvido pelas Mulheres da Paz tem como foco:
+
+I - a mobilização social para afirmação da cidadania, tendo em vista a
+emancipação das mulheres e prevenção e enfrentamento da violência contra as
+mulheres; e
+
+II - a articulação com jovens e adolescentes, com vistas na sua participação e
+inclusão em programas sociais de promoção da cidadania e na rede de
+organizações parceiras capazes de responder de modo consistente e
+permanente às suas demandas por apoio psicológico, jurídico e social.
+
+$ 2º A implementação do projeto Mulheres da Paz dar-se-á por meio de:
+I- identificação das participantes;
+
+II - formação sociojurídica realizada mediante cursos de capacitação legal, com
+foco em direitos humanos, gênero e mediação pacífica de conflitos;
+
+HI - desenvolvimento de atividades de emancipação da mulher e de reeducação
+e valorização dos jovens e adolescentes; e
+
+IV - colaboração com as ações desenvolvidas pelo Protejo, em articulação com
+os Conselhos Tutelares.
+
+$ 3º Fica o Poder Executivo autorizado a conceder, nos limites orçamentários
+previstos para o projeto de que trata este artigo, incentivos financeiros a
+mulheres socialmente atuantes nas áreas geográficas abrangidas pelo Pronasci,
+para a capacitação e exercício de ações de justiça comunitária relacionadas à
+mediação e à educação para direitos, conforme regulamento.”
+
+“Art. 8º-E. O projeto Bolsa-Formação é destinado à qualificação profissional
+dos integrantes das Carreiras já existentes das polícias militar e civil, do corpo
+de bombeiros, dos agentes penitenciários, dos agentes carcerários e dos peritos,
+contribuindo com a valorização desses profissionais e consequente benefício
+da sociedade brasileira.
+
+$ 1º Para aderir ao projeto Bolsa-Formação, o ente federativo deverá aceitar as
+seguintes condições, sem prejuízo do disposto no art. 6º desta Lei, na
+legislação aplicável e do pactuado no respectivo instrumento de cooperação:
+
+I - viabilização de amplo acesso a todos os policiais militares e civis,
+bombeiros, agentes penitenciários, agentes carcerários e peritos que
+demonstrarem interesse nos cursos de qualificação;
+
+II - instituição e manutenção de programas de polícia comunitária; e
+
+II - garantia de remuneração mensal pessoal não inferior a R$ 1.300,00 (mil e
+trezentos reais) aos membros das corporações indicadas no inciso 1 deste
+parágrafo, até 2012.
+
+54
+$ 2º Os instrumentos de cooperação não poderão ter prazo de duração superior
+a à (cinco) anos.
+
+8 3º O beneficiário policial civil ou militar, bombeiro, agente penitenciário,
+agente carcerário e perito dos Estados-membros que tiver aderido ao
+instrumento de cooperação receberá um valor referente à Bolsa-Formação, de
+acordo com o previsto em regulamento, desde que:
+
+I- frequente, a cada 12 (doze) meses, ao menos um dos cursos oferecidos ou
+reconhecidos pelos órgãos do Ministério da Justiça, nos termos dos 88 4º a 7º
+deste artigo;
+
+Il - não tenha cometido nem sido condenado pela prática de infração
+administrativa grave ou não possua condenação penal nos últimos 5 (cinco)
+anos; e
+
+II - não perceba remuneração mensal superior ao limite estabelecido em
+regulamento.
+
+$ 4º A Secretaria Nacional de Segurança Pública do Ministério da Justiça será
+responsável pelo oferecimento e reconhecimento dos cursos destinados aos
+peritos e aos policiais militares e civis, bem como aos bombeiros.
+
+8 5º O Departamento Penitenciário Nacional do Ministério da Justiça será
+responsável pelo oferecimento e reconhecimento dos cursos destinados aos
+agentes penitenciários e agentes carcerários.
+
+$ 6º Serão dispensados do cumprimento do requisito indicado no inciso I do $
+3º deste artigo os beneficiários que tiverem obtido aprovação em curso de
+especialização reconhecido pela Secretaria Nacional de Segurança Pública ou
+pelo Departamento Penitenciário Nacional do Ministério da Justiça.
+
+$ 7º O pagamento do valor referente à Bolsa-Formação será devido a partir do
+mês subsequente ao da homologação do requerimento pela Secretaria Nacional
+de Segurança Pública ou pelo Departamento Penitenciário Nacional, de acordo
+com a natureza do cargo exercido pelo requerente.
+
+8 8º Os requisitos previstos nos incisos I a III do 8 3º deste artigo deverão ser
+verificados conforme o estabelecido em regulamento.
+
+8 9º Observadas as dotações orçamentárias do programa, fica autorizada a
+inclusão de guardas civis municipais como beneficiários do programa,
+mediante o instrumento de cooperação federativa de que trata o art. 5º desta
+Lei, observadas as condições previstas em regulamento.”
+
+“Art. 8º-F, O Poder Executivo concederá auxílio financeiro aos participantes a
+que se referem os arts. 8º-B, 8º-C e 8º-D desta Lei, a partir do exercício de
+2008, nos seguintes valores:
+
+I- R$ 100,00 (cem reais) mensais, no caso dos projetos Reservista-Cidadão e
+Protejo; e
+
+H - R$ 190,00 (cento e noventa reais) mensais, no caso do projeto Mulheres da
+Paz.
+
+o
+56
+
+Parágrafo único. A concessão do auxílio financeiro dependerá da comprovação
+da assiduidade e do comprometimento com as atividades estabelecidas no
+âmbito dos projetos de que tratam os arts. 8º-B, 8º-C e 8º-D desta Lei, além de
+outras condições previstas em regulamento, sob pena de exclusão do
+participante.”
+
+“Art. 8º-G. A percepção dos auxílios financeiros previstos por esta Lei não
+implica filiação do beneficiário ao Regime Geral de Previdência Social de que
+tratam as Leis nº 8.212 e 8.213, ambas de 24 de julho de 1991.”
+
+“Art. 8º-H. A Caixa Econômica Federal será o agente operador dos projetos
+instituídos nesta Lei, nas condições a serem estabelecidas com o Ministério da
+Justiça, obedecidas as formalidades legais.”
+
+Art. 3º Fica revogado o art. 10 da Lei nº 11.530, de 24 de outubro de 2007.
+Art. 4º Esta Lei entra em vigor na data de sua publicação
+
+Brasília, 19 de junho de 2008; 187º da Independência e 120º da República.
+LUIZ INÁCIO LULA DA SILVA
+
+Tarso Genro
+
+Paulo Bernardo Silva
+
+Patrus Ananias
+
+Antônio Roberto Lambertucci
+
+Este texto não substitui o publicado no DOU de 20.6.2008
+
+ 
+
+Presidência da República
+Casa Civil
+Subchefia para Assuntos Jurídicos
+
+MEDIDA PROVISÓRIA Nº 416, DE 23 DE JANEIRO DE 2008.
+
+Altera a Lei nº 11.530, de 24 de outubro de
+
+1 1 nº
+Convertida na Lei nº 11.707, de 2008 2007, que institui o Pro a Nodlonal ds
+
+ 
+57
+
+Segurança Pública com Cidadania -
+. PRONASCI, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da
+Constituição, adota a seguinte Medida Provisória, com força de lei:
+Art. 1º Os arts. 2º, 3º,4º, 6º e 9º da Lei nº 11.530, de 24 de outubro de 2007, passam a vigorar
+com a seguinte redação:
+
+“Art. 2º O PRONASCI destina-se a articular ações de segurança pública para a
+prevenção, controle e repressão da criminalidade, estabelecendo políticas
+sociais e ações de proteção às vítimas.” (NR)
+
+I- promoção dos direitos humanos, intensificando uma cultura de paz, de
+apoio ao desarmamento e de combate sistemático aos preconceitos de gênero,
+étnico, racial, geracional, de orientação sexual e de diversidade cultural;
+
+II - criação e fortalecimento de redes sociais e comunitárias;
+
+III - fortalecimento dos conselhos tutelares;
+
+IV - promoção da segurança e da convivência pacífica;
+
+V - modemização das instituições de segurança pública e do sistema prisional;
+
+VI- valorização dos profissionais de segurança pública e dos agentes
+penitenciários;
+
+VII - participação de jovens e adolescentes, de egressos do sistema prisional,
+de famílias expostas à violência urbana e de mulheres em situação de
+violência;
+
+VIII - ressocialização dos indivíduos que cumprem penas privativas de
+liberdade e egressos do sistema prisional, mediante implementação de projetos
+educativos e profissionalizantes;
+
+IX - intensificação e ampliação das medidas de enfrentamento do crime
+organizado e da corrupção policial;
+
+X - garantia do acesso à justiça, especialmente nos territórios vulneráveis;
+
+X1- garantia, por meio de medidas de urbanização, da recuperação dos espaços
+públicos;
+
+XII - observância dos princípios e diretrizes dos sistemas de gestão
+descentralizados e participativos das políticas sociais e resoluções dos
+conselhos de políticas sociais e de defesa de direitos afetos aa PRONASCI;
+
+XIII - participação e inclusão em programas capazes de responder, de modo
+consistente e permanente, às demandas das vítimas da criminalidade por
+intermédio de apoio psicológico, jurídico e social;
+
+XIV - participação de jovens e adolescentes, em situação de moradores de rua,
+em programas educativos e profissionalizantes com vistas à ressocialização e
+reintegração à família;
+58
+
+XV - promoção de estudos, pesquisas e indicadores sobre a violência, que
+considerem as dimensões de gênero, étnicas, raciais, geracionais e de
+orientação sexual;
+
+XVI- transparência de sua execução; e
+
+XVII - garantia da participação da sociedade civil.” (NR)
+
+I- foco etário: população juvenil de quinze a vinte e quatro anos;
+
+II - foco social: jovens e adolescentes, egressos do sistema prisional, famílias
+expostas à violência urbana, vítimas da criminalidade e mulheres em situação
+de violência;
+
+HI - foco territorial: regiões metropolitanas e aglomerados urbanos que
+apresentem altos índices de homicídios e de crimes violentos; e
+
+IV - foco repressivo: combate ao crime organizado.” (NR)
+
+I- criação de Gabinete de Gestão Integrada - GGI;
+
+II - garantia da participação da sociedade civil e dos conselhos tutelares nos
+fóruns de segurança pública que acompanharão e fiscalizarão os projetos do
+PRONASCI;
+
+HI - participação na gestão e compromisso com as diretrizes do PRONASCI;
+
+IV - compartilhamento das ações e das políticas de segurança, sociais e de
+urbanização;
+
+V - comprometimento de efetivo policial nas ações para pacificação territorial,
+no caso dos Estados e do Distrito Federal;
+
+VI - disponibilização de mecanismos de comunicação e informação para
+mobilização social e divulgação das ações e projetos do PRONASCI;
+
+VII - apresentação de plano diretor do sistema penitenciário, no caso dos
+Estados e do Distrito Federal;
+
+VIII - compromisso de implementar programas continuados de formação em
+direitos humanos para os policiais civis, policiais militares, bombeiros
+militares e servidores do sistema penitenciário; e
+
+IX - compromisso de criação de centros de referência e apoio psicológico,
+jurídico e social às vítimas da criminalidade.” (NR)
+
+“Art. 9º As despesas com a execução dos projetos correrão à conta das
+dotações orçamentárias consignadas anualmente no orçamento do Ministério
+da Justiça.” (NR)
+
+Art. 2ºA Lei nº 11.530, de 2007, passa a vigorar acrescida dos seguintes artigos:
+59
+
+“Art. 8º-A. Sem prejuízo de outros programas, projetos e ações integrantes do
+PRONASCI, ficam instituídos os seguintes projetos:
+
+I- Reservista-Cidadão;
+
+II - Proteção de Jovens em Território Vulnerável - PROTEJO;
+HI - Mulheres da Paz;
+
+IV - Comunicação Cidadã Preventiva; e
+
+V - Bolsa-Formação.
+
+Parágrafo único. A escolha dos participantes dos Projetos previstos nos incisos
+Ia III dar-se-á por meio de seleção pública, pautada por critérios a serem
+estabelecidos conjuntamente pelos entes federativos conveniados,
+considerando, obrigatoriamente, os aspectos socioeconômicos dos pleiteantes.
+
+Art. 8º-B. O Projeto Reservista-Cidadão é destinado à capacitação de jovens
+recém-licenciados do serviço militar obrigatório, para atuar como agentes
+comunitários nas áreas geográficas abrangidas pelo PRONASCI.
+
+8 1º O trabalho desenvolvido pelo reservista-cidadão, que terá duração de doze
+meses, tem como foco a articulação com jovens e adolescentes, para sua
+inclusão e participação em ações de promoção da cidadania.
+
+$ 2º Os participantes do projeto receberão formação sociojurídica e terão
+atuação direta na comunidade.
+
+Art. 8º-C. O Projeto de Proteção de Jovens em Território Vulnerável -
+PROTEJO é destinado à formação e inclusão social de jovens e adolescentes
+expostos à violência doméstica ou urbana, nas áreas geográficas abrangidas
+pelo PRONASCI.
+
+$ 1º O trabalho desenvolvido pelo PROTEJO terá duração de um ano, podendo
+ser prorrogável por igual período, e tem como foco a formação cidadã dos
+jovens e adolescentes a partir de práticas esportivas, culturais e educacionais
+que visem a resgatar a auto-estima, a convivência pacífica e o incentivo à
+reestruturação do seu percurso socioformativo para sua inclusão em uma vida
+saudável.
+
+$ 2º A implementação do PROTEJO dar-se-á por meio da identificação dos
+jovens e adolescentes participantes, sua inclusão em práticas esportivas,
+culturais e educacionais e formação sociojurídica realizada por meio de cursos
+de capacitação legal com foco em direitos humanos, combate à violência e à
+criminalidade, temática juvenil, bem como em atividades de emancipação e
+socialização que possibilitem a sua reinserção nas comunidade em que vivem.
+
+Art. 8º-D. O Projeto Mulheres da Paz é destinado à capacitação de mulheres
+socialmente atuantes nas áreas geográficas abrangidas pelo PRONASCI.
+
+$ 1º O trabalho desenvolvido pelas Mulheres da Paz tem como foco:
+60
+
+I- a mobilização social para afirmação da cidadania, tendo em vista a
+emancipação das mulheres e prevenção e enfrentamento à violência contra as
+mulheres; e
+
+IH - a articulação com jovens e adolescentes, com vistas a sua participação e
+inclusão em programas sociais de promoção da cidadania e na rede de
+organizações parceiras capazes de responder de modo consistente e
+permanente às suas demandas por apoio psicológico, jurídico e social.
+
+$ 2º A implementação do Projeto Mulheres da Paz dar-se-á por meio de:
+I- identificação das participantes;
+
+II - formação sociojurídica realizada mediante cursos de capacitação legal, com
+foco em direitos humanos, gênero, combate à violência e à criminalidade;
+
+HI - desenvolvimento de atividades de emancipação da mulher e de reeducação
+e valorização dos jovens e adolescentes; e
+
+IV - colaboração com as ações desenvolvidas pelo PROTEJO, em articulação
+com os Conselhos Tutelares.
+
+Art. 8-E. O Projeto Comunicação Cidadã Preventiva é destinado a promover a
+divulgação de ações educativas e motivadoras para a cidadania, direcionadas à
+redução de risco de atos infracionais ou contrários à convivência social, e para
+a propagação dos programas, projetos e ações de formação, inclusão social,
+mudança de atitude e promoção da cidadania, no âmbito do PRONASCI
+
+Parágrafo único. A difusão e a propagação de que trata o caput poderão ser
+promovidas por intermédio do Serviço de Radiodifusão Comunitária, nos
+termos do art. 3º da Lei nº 9.612, de 19 de fevereiro de 1998.
+
+Art. 8º-F. O Projeto Bolsa-Formação é destinado à qualificação profissional
+dos integrantes das carreiras já existentes das polícias militar e civil, do corpo
+de bombeiros, dos agentes penitenciários, dos agentes carcerários e dos peritos,
+contribuindo com a valorização desses profissionais e consequente benefício
+da sociedade brasileira.
+
+$ 1º Para aderir ao Projeto Bolsa-Formação, o ente federativo deverá aceitar as
+seguintes condições, sem prejuízo do disposto no art. 6º, na legislação
+aplicável e do pactuado no respectivo instrumento de cooperação:
+
+I- viabilização de amplo acesso a todos os policias militares e civis,
+bombeiros, agentes penitenciários, agentes carcerários e peritos que
+demonstrarem interesse nos cursos de qualificação;
+
+II - instituição e manutenção de programas de polícia comunitária; e
+
+HI - garantia de remuneração mensal pessoal não inferior a R$ 1.300,00 (mil e
+trezentos reais) aos membros das corporações indicadas no inciso I, até 2012.
+
+$ 2º Os instrumentos de cooperação não poderão ter prazo de duração superior
+a cinco anos.
+61
+
+$ 3º O beneficiário, policial civil ou militar, bombeiro, agente penitenciário,
+agente carcerário e perito dos estados-membros que tiverem aderido ao
+instrumento de cooperação, receberá um valor referente à Bolsa-Formação, de
+acordo com o limite indicado no Anexo, desde que:
+
+I- frequente, a cada doze meses, ao menos um dos cursos oferecidos ou
+reconhecidos pelos órgãos do Ministério da Justiça, nos termos dos 88 4º a 7º;
+
+II - não tenha cometido e nem sido condenado pela prática de infração
+administrativa grave ou não possua condenação penal nos últimos cinco anos;
+e
+
+HI - não perceba remuneração pessoal superior a R$ 1.400,00 (mil e
+quatrocentos reais) por mês.
+
+$ 4º A Secretaria Nacional de Segurança Pública do Ministério da Justiça será
+responsável pelo oferecimento e reconhecimento dos cursos destinados aos
+peritos e aos policiais militares e civis, bem como aos bombeiros.
+
+$ 5º O Departamento Penitenciário Nacional do Ministério da Justiça será
+responsável pelo oferecimento e reconhecimento dos cursos destinados aos
+agentes penitenciários e agentes carcerários.
+
+$ 6º Serão dispensados do cumprimento do requisito indicado no inciso IT do $
+3º os beneficiários que tiverem obtido aprovação em curso de especialização
+reconhecidos pela Secretaria Nacional de Segurança Pública ou pelo
+Departamento Penitenciário Nacional do Ministério da Justiça.
+
+$ 7º O pagamento do valor referente à Bolsa-Formação será devido a partir do
+
+mês subsequente ao da homologação do requerimento pela Secretaria Nacional
+de Segurança Pública ou pelo Departamento Penitenciário Nacional, de acordo
+com a natureza do cargo exercido pelo requerente.
+
+$ 8º Serão excluídos do Projeto Bolsa-Formação os beneficiários que, a
+qualquer tempo, deixarem de preencher os requisitos previstos nos incisos I a
+HI do $ 32 ressalvado o disposto no $ 6º.
+
+Art. 8º-G. O Poder Executivo concederá auxílio financeiro aos participantes a
+que se referem os arts. 8º-B, 8º-C e 8º-D, a partir do exercício de 2008, nos
+seguintes valores:
+
+I- R$ 100,00 (cem reais) mensais, no caso dos Projetos Reservista-Cidadão e
+PROTEJO; e
+
+H - R$ 190,00 (cento e noventa reais) mensais, no caso do Projeto Mulheres da
+Paz.
+
+Parágrafo único. A concessão do auxílio financeiro dependerá da comprovação
+da assiduidade e comprometimento com as atividades estabelecidas no âmbito
+
+dos Projetos de que tratam os arts. 8º-B, 8º-C e 8º-D, além de outras condições
+previstas em regulamento, sob pena de exclusão do participante.
+62
+
+Art. 8-H. A percepção dos auxílios financeiros previstos por esta lei não
+implica filiação do beneficiário ao Regime Geral de Previdência Social de que
+tratam as Leis nº 8.212 e 8.213, de 24 de julho de 1991.
+
+Art. 8º-1. A Caixa Econômica Federal será o agente operador dos projetos
+instituídos nesta Lei, nas condições a serem estabelecidas com o Ministério da
+Justiça, obedecidas as formalidades legais.” (NR)
+
+Art. 3º A Lei nº 11.530, de 2007, passa a vigorar acrescida do Anexo a esta Medida
+Provisória.
+
+Art. 4º Fica revogado o art. 10 da Lei nº 11.530, de 24 de outubro de 2007.
+
+Art. 5º Esta Medida Provisória entra em vigor na data de sua publicação.
+
+Brasília, 23 de janeiro de 2008; 187º da Independência e 120º da República.
+
+LUIZ INÁCIO LULA DA SILVA
+
+Tarso Genro
+
+Patrus Ananias
+
+Paulo Bernardo Silva
+
+Luiz Soares Dulci
+
+ 
+
+Este texto não substitui o publicado no DOU de 24.1.2008.
+
+ANEXO
+Descrição da remuneração pelo Projeto Bolsa-Formação
+Remuneração
+
+Até R$ 1.000,00 R$ 300,00/R$ 350,00 R$ 400,00
+Acima de R$ 1.000,00 até R$ 1.200,00 R$ 240,00]R$ 280,00 R$ 320,00
+Acima R$ 1.200,00 até R$ 1.400,00 R$ 180,00]R$ 210,00 R$ 240,00
+
+ 
+
+Presidência da República
+Casa Civil
+Subchefia para Assuntos Jurídicos
+
+EM nº 00007 - MJ/MP/MDS/SG-PR
+
+Em 23 de janeiro de 2008.
+Excelentíssimo Senhor Presidente da República,
+Temos a honra de submeter à consideração de Vossa Excelência o anexo projeto de Medida
+63
+
+Provisória que altera a Lei nº 11.530, de 24 de outubro de 2007, para criação dos Programas
+Reservista-Cidadão, Mulheres da Paz, Proteção de Jovens em Território Vulnerável
+(PROTEJO), Comunicação Cidadã Preventiva e Bolsa-Formação, em consonância com o
+Programa Nacional de Segurança Pública com Cidadania - PRONASCI.
+
+2. O encaminhamento dos projetos acima mencionados verificou-se através de projeto de lei,
+fruto de acordo realizado pela Liderança do Governo na Câmara dos Deputados, pois
+constavam na versão original da Medida Provisória nº 384, de 2007, que instituiu o
+PRONASCI. Entretanto, apesar do pedido de urgência constitucional requerido, até o presente
+momento não houve apreciação pelo Parlamento, cuja sessão legislativa encerrou em 22 de
+dezembro, dos PL 's nº 1935/07 e 2313/07. Entrementes, além de o Orçamento para o ano de
+2008 prever a destinação de verbas para estes programas, a questão é de importância
+significativa, pois a não apreciação dos referidos PL 's prejudica, de maneira considerável,
+toda a política governamental direcionada ao PRONASCI e, consegentemente, à Segurança
+Pública nacional.
+
+3. Destarte, entendemos ser pertinente, ao menos, um breve relato dos projetos, a fim de
+demonstrar a estrita ligação entre eles e o sucesso do PRONASCI.
+
+4. O Projeto Reservista-Cidadão destina-se à capacitação de jovens recém-licenciados do
+serviço militar obrigatório para atuar como líderes comunitários nas áreas geográficas
+abrangidas pelo PRONASCI. Seu objetivo primordial é potencializar o aprendizado adquirido
+pelos jovens em serviço nas Forças Armadas, reconhecidas escolas de cidadania, e capacitá-
+los para atuar como agentes comunitários, pois além do conhecimento conquistado durante o
+período de serviço militar, também exercem importante influência sobre os outros jovens da
+comunidade em que vivem. Dessa forma, pretende-se evitar o aliciamento desses recém-
+licenciados pelo crime organizado e incentivá-los a seguir um caminho no qual as
+perspectivas de progressos significativos em suas vidas sejam reais.
+
+5. O Projeto Mulheres da Paz objetiva capacitar mulheres líderes comunitárias para qualificar
+sua atuação nas áreas geográficas abrangidas pelo PRONASCI. O projeto possibilitará, por
+exemplo, a capacitação das mulheres participantes do Programa em temas como ética, direitos
+humanos e cidadania e terão a incumbência de identificar os jovens com os quais o
+PRONASCI vai trabalhar. Importante destacar que, originariamente, o Projeto se denominava
+“Mães da Paz”, porém em atendimento às considerações apresentadas por parlamentares
+ligadas à bancada feminina na Câmara dos Deputados e no Senado Federal, entendeu-se
+pertinente a mudança a fim de uma melhor compreensão do instituto pretendido.
+
+6. Essas mulheres serão responsáveis por construir e articular uma rede social que atuará junto
+aos jovens de 15 a 24 anos em situação de risco social ou em conflito com a lei, para sua
+inclusão e participação em programas sociais de promoção da cidadania.
+
+7. A formação destes grupos tem papel decisivo no processo da prevenção criminal e da
+reintegração na sociedade destes jovens, visto que estas mulheres, importantes lideranças
+locais, atuam como defensoras de direitos e promotoras da cidadania.
+
+8. Por sua vez, o Projeto de Proteção dos Jovens em Território Vulnerável - PROTEJO é
+destinado à formação e inclusão social de jovens e adolescentes expostos à violência
+doméstica ou urbana, ou em situação de moradores de rua, nas áreas geográficas abrangidas
+pelo PRONASCI Estes jovens encontram-se em situação de elevado risco, pois, uma vez que
+contam com baixa escolaridade e consegiente acesso limitado ao mercado de trabalho, são
+facilmente cooptados pela criminalidade, servindo como repositório de “soldados” ao crime.
+9. A formação destes grupos de jovens tem papel decisivo no processo da prevenção criminal
+e da reintegração do jovem na sociedade, já que tem foco na formação cidadã dos jovens a
+partir de práticas esportivas, culturais e educacionais que visem resgatar a auto-estima,
+sentimento de pertencimento, convivência pacífica e incentivo à reestruturação do seu
+percurso social-formativo para sua inclusão em uma vida saudável.
+64
+
+10. Já o Projeto Comunicação Cidadã Preventiva é destinado a promover a divulgação de
+ações educativas e motivadoras para a cidadania, principalmente por meio de serviços
+concedidos de radiodifusão comunitária, direcionadas à redução de risco de atos infracionais
+ou contrários à convivência social, e para a propagação dos programas, projetos e ações de
+formação, inclusão social, mudança de atitude e promoção da cidadania, no âmbito do
+PRONASCI.
+11. Por seu turno, o Projeto Bolsa-Formação visa a contribuir para a valorização profissional
+dos integrantes das carreiras já existentes das polícias militar e civil, dos corpos de bombeiros,
+dos agentes penitenciários, dos agentes carcerários e dos peritos. O Projeto será adotado nos
+estados-membros que, ao assinarem os instrumentos jurídicos de cooperação,
+comprometerem-se, dentre outros requisitos, a instituir um piso salarial de R$ 1.300,00 até
+2012. A junção desses projetos, aliado às demais ações que constituem o PRONASCI, são as
+medidas mais pertinentes para enfrentarmos a questão da segurança pública de forma mais
+eficiente.
+12. Para fins de cumprimento do que dispõe o art. 17 da Lei de Responsabilidade Fiscal - LRF
+(Lei Complementar nº 101, de 4 de maio de 2000), cumpre ressaltar que as despesas
+decorrentes dos auxílios financeiros serão atendidas dentro da margem de expansão das
+despesas obrigatórias de caráter continuado, prevista no Anexo de Metas Fiscais da Lei de
+Diretrizes Orçamentárias de 2008, Lei nº 11.514, de 13 de agosto de 2007.
+13. Por fim, Senhor Presidente, considerando a relevância do tema segurança pública, bem
+como a urgência para que o PRONASCI seja instituído de maneira integral, entendemos ser
+pertinente a edição de Medida Provisória, nos moldes do art. 62 da Constituição da República.
+14. São essas, Senhor Presidente, as razões que nos levam a submeter a anexa proposta de
+Medida Provisória ao elevado descortino de Vossa Excelência, acreditando que, se aceita,
+contribuirá sobremaneira à melhoria da segurança pública e das condições sociais no Brasil.
+Respeitosamente,
+Tarso Fernando Herz Genro
+Paulo Bernardo Silva
+Patrus Ananias de Sousa
+Luiz Soares Dulci
+
+Senado Federal
+Subsecretaria de Informações
+
+Este texto não substitui o original publicado no Diário Oficial.
+
+Faço saber que o Congresso Nacional aprovou, e eu, Ramez Tebet, Presidente do
+Senado Federal, nos termos do parágrafo único do art. 52 do Regimento Comum, promulgo a
+seguinte
+
+RESOLUÇÃO Nº1, DE 2002-CN
+
+Dispõe sobre a apreciação, pelo
+Congresso Nacional, das Medidas
+Provisórias a que se refere o art. 62 da
+65
+
+Constituição Federal, e dá outras
+providências.
+
+O CONGRESSO NACIONAL RESOLVE:
+
+Art. 1º Esta Resolução é parte integrante do Regimento Comum e dispõe sobre a
+apreciação, pelo Congresso Nacional, de Medidas Provisórias adotadas pelo Presidente da
+República, com força de lei, nos termos do art. 62 da Constituição Federal.
+
+Art. 2º Nas 48 (quarenta e oito) horas que se seguirem à publicação, no Diário Oficial
+da União, de Medida Provisória adotada pelo Presidente da República, a Presidência da Mesa
+do Congresso Nacional fará publicar e distribuir avulsos da matéria e designará Comissão
+Mista para emitir parecer sobre ela.
+
+$ 1º No dia da publicação da Medida Provisória no Diário Oficial da União, o seu texto
+será enviado ao Congresso Nacional, acompanhado da respectiva Mensagem e de documento
+expondo a motivação do ato.
+
+$ 22 A Comissão Mista será integrada por 12 (doze) Senadores e 12 (doze) Deputados e
+igual número de suplentes, indicados pelos respectivos Líderes, obedecida, tanto quanto
+possível, a proporcionalidade dos partidos ou blocos parlamentares em cada Casa.
+
+$ 3º O número de membros da Comissão Mista estabelecido no $ 2º é acrescido de mais
+uma vaga na composição destinada a cada uma das Casas do Congresso Nacional, que será
+preenchida em rodízio, exclusivamente, pelas bancadas minoritárias que não alcancem, no
+cálculo da proporcionalidade partidária, número suficiente para participar da Comissão (Res.
+nº 2, de 2000-CN).
+
+$ 4º A indicação pelos Líderes deverá ser encaminhada à Presidência da Mesa do
+Congresso Nacional até as 12 (doze) horas do dia seguinte ao da publicação da Medida
+Provisória no Diário Oficial da União.
+
+8 5º Esgotado o prazo estabelecido no 8 4, sem a indicação, o Presidente da Mesa do
+Congresso Nacional fará a designação dos integrantes do respectivo partido ou bloco,
+recaindo essa sobre o Líder e, se for o caso, os Vice-Líderes.
+
+$ 6º Quando se tratar de Medida Provisória que abra crédito extraordinário à lei
+orçamentária anual, conforme os arts. 62 e 167, $ 3, da Constituição Federal, o exame e o
+parecer serão realizados pela Comissão Mista prevista no art. 166, 8 12 da Constituição,
+observando-se os prazos e o rito estabelecidos nesta Resolução.
+
+$ 7º A constituição da Comissão Mista e a fixação do calendário de tramitação da
+matéria poderão ser comunicadas em sessão do Senado Federal ou conjunta do Congresso
+Nacional, sendo, no primeiro caso, dado conhecimento à Câmara dos Deputados, por ofício,
+ao seu Presidente.
+
+Art. 3º Uma vez designada, a Comissão terá o prazo de 24 (vinte e quatro) horas para
+sua instalação, quando serão eleitos o seu Presidente e o Vice-Presidente, bem como
+designados os Relatores para a matéria.
+
+$ 1º Observar-se-á o critério de alternância entre as Casas para a Presidência das
+Comissões Mistas constituídas para apreciar Medidas Provisórias, devendo, em cada caso, o
+Relator ser designado pelo Presidente dentre os membros da Comissão pertencentes à Casa
+diversa da sua.
+
+8 220 Presidente e o Vice-Presidente deverão pertencer a Casas diferentes.
+66
+
+$ 3º O Presidente designará também um Relator Revisor, pertencente à Casa diversa da
+do Relator e integrante, preferencialmente, do mesmo Partido deste.
+
+$ 4º Compete ao Relator Revisor exercer as funções de relatoria na Casa diversa da do
+Relator da Medida Provisória.
+
+$ 5º O Presidente designará outro membro da Comissão Mista para exercer a relatoria
+na hipótese de o Relator não oferecer o relatório no prazo estabelecido ou se ele não estiver
+presente à reunião programada para a discussão e votação do parecer, devendo a escolha
+recair sobre Parlamentar pertencente à mesma Casa do Relator e também ao mesmo Partido
+deste, se houver presente na reunião da Comissão outro integrante da mesma bancada
+partidária.
+
+$ 6º Quando a Medida Provisória estiver tramitando na Câmara dos Deputados ou no
+Senado Federal, a substituição de Relator ou Relator Revisor, na hipótese de ausência, ou a
+designação desses, no caso de a Comissão Mista não haver exercido a prerrogativa de fazê-lo,
+será efetuada de acordo com as normas regimentais de cada Casa.
+
+Art. 4º Nos 6 (seis) primeiros dias que se seguirem à publicação da Medida Provisória
+no Diário Oficial da União, poderão a ela ser oferecidas emendas, que deverão ser
+protocolizadas na Secretaria-Geral da Mesa do Senado Federal.
+
+$ 1º Somente poderão ser oferecidas emendas às Medidas Provisórias perante a
+Comissão Mista, na forma deste artigo.
+
+$ 2º No prazo de oferecimento de emendas, o autor de projeto sob exame de qualquer
+das Casas do Congresso Nacional poderá solicitar à Comissão que ele tramite, sob a forma de
+emenda, em conjunto com a Medida Provisória.
+
+8 32º O projeto que, nos termos do 8 2º, tramitar na forma de emenda à Medida
+Provisória, ao final da apreciação desta, será declarado prejudicado e arquivado, exceto se a
+Medida Provisória for rejeitada por ser inconstitucional, hipótese em que o projeto retornará
+ao seu curso normal.
+
+$ 4º E vedada a apresentação de emendas que versem sobre matéria estranha àquela
+tratada na Medida Provisória, cabendo ao Presidente da Comissão o seu indeferimento
+liminar.
+
+$ 5º O autor da emenda não aceita poderá recorrer, com o apoio de 3 (três) membros da
+Comissão, da decisão da Presidência para o Plenário desta, que decidirá, definitivamente, por
+maioria simples, sem discussão ou encaminhamento de votação.
+
+8 6º Os trabalhos da Comissão Mista serão iniciados com a presença, no mínimo, de 1/3
+(um terço) dos membros de cada uma das Casas, aferida mediante assinatura no livro de
+presenças, e as deliberações serão tomadas por maioria de votos, presente a maioria absoluta
+dos membros de cada uma das Casas.
+
+Art. 5º A Comissão terá o prazo improrrogável de 14 (quatorze) dias, contado da
+publicação da Medida Provisória no Diário Oficial da União para emitir parecer único,
+manifestando-se sobre a matéria, em itens separados, quanto aos aspectos constitucional,
+inclusive sobre os pressupostos de relevância e urgência, de mérito, de adequação financeira e
+orçamentária e sobre o cumprimento da exigência prevista no $ 1º do art. 2º.
+
+$ 1º O exame de compatibilidade e adequação orçamentária e financeira das Medidas
+Provisórias abrange a análise da repercussão sobre a receita ou a despesa pública da União e
+da implicação quanto ao atendimento das normas orçamentárias e financeiras vigentes, em
+67
+
+especial a conformidade com a Lei Complementar nº 101, de 4 de maio de 2000, a lei do
+plano plurianual, a lei de diretrizes orçamentárias e a lei orçamentária da União.
+
+$ 2º Ainda que se manifeste pelo não atendimento dos requisitos constitucionais ou pela
+inadequação financeira ou orçamentária, a Comissão deverá pronunciar-se sobre o mérito da
+Medida Provisória.
+
+$ 3º Havendo emenda saneadora da inconstitucionalidade ou injuridicidade e da
+inadequação ou incompatibilidade orçamentária ou financeira, a votação far-se-á primeiro
+sobre ela.
+
+$ 4º Quanto ao mérito, a Comissão poderá emitir parecer pela aprovação total ou parcial
+ou alteração da Medida Provisória ou pela sua rejeição; e, ainda, pela aprovação ou rejeição
+de emenda a ela apresentada, devendo concluir, quando resolver por qualquer alteração de seu
+texto:
+
+I- pela apresentação de projeto de lei de conversão relativo à matéria; e
+
+H - pela apresentação de projeto de decreto legislativo, disciplinando as relações
+jurídicas decorrentes da vigência dos textos suprimidos ou alterados, o qual terá sua
+tramitação iniciada pela Câmara dos Deputados.
+
+$ 5º Aprovado o parecer, será este encaminhado à Câmara dos Deputados,
+acompanhado do processo e, se for o caso, do projeto de lei de conversão e do projeto de
+decreto legislativo mencionados no 8 4º,
+
+Art. 62 A Câmara dos Deputados fará publicar em avulsos e no Diário da Câmara dos
+Deputados o parecer da Comissão Mista e, a seguir, dispensado o interstício de publicação, a
+Medida Provisória será examinada por aquela Casa, que, para concluir os seus trabalhos, terá
+até o 28º (vigésimo oitavo) dia de vigência da Medida Provisória, contado da sua publicação
+no Diário Oficial da União.
+
+$ 1º Esgotado o prazo previsto no caput do art. 5º, o processo será encaminhado à
+Câmara dos Deputados, que passará a examinar a Medida Provisória.
+
+$ 2º Na hipótese do 8 1º, a Comissão Mista, se for o caso, proferirá, pelo Relator ou
+Relator Revisor designados, o parecer no Plenário da Câmara dos Deputados, podendo estes,
+se necessário, solicitar para isso prazo até a sessão ordinária seguinte.
+
+$ 3º Na hipótese do 8 2º, se o parecer de Plenário concluir pela apresentação de Projeto
+de Lei de Conversão, poderá, mediante requerimento de Lider e independentemente de
+deliberação do Plenário, ser concedido prazo até a sessão ordinária seguinte para a votação da
+matéria.
+
+Art. 7º Aprovada na Câmara dos Deputados, a matéria será encaminhada ao Senado
+Federal, que, para apreciá-la, terá até o 42º (quadragésimo segundo) dia de vigência da
+Medida Provisória, contado da sua publicação no Diário Oficial da União.
+
+$ 1º texto aprovado pela Câmara dos Deputados será encaminhado ao Senado Federal
+em autógrafos, acompanhado do respectivo processo, que incluirá matéria eventualmente
+rejeitada naquela Casa.
+
+$ 2 º Esgotado o prazo previsto no caput do art. 6º, sem que a Câmara dos Deputados
+haja concluída a votação da matéria, o Senado Federal poderá iniciar a discussão dessa,
+devendo votá-la somente após finalizada a sua deliberação naquela Casa (CF. art. 62, 8 89).
+
+$ 3º Havendo modificação no Senado Federal, ainda que decorrente de restabelecimento
+de matéria ou emenda rejeitada na Câmara dos Deputados, ou de destaque supressivo, será
+68
+
+esta encaminhada para exame na Casa iniciadora, sob a forma de emenda, a ser apreciada em
+tumo único, vedadas quaisquer novas alterações.
+
+$ 4º O prazo para que a Câmara dos Deputados aprecie as modificações do Senado
+Federal é de 3 (três) dias.
+
+$ 5º Aprovada pelo Senado Federal Medida Provisória, em decorrência de preferência
+sobre projeto de lei de conversão aprovado pela Câmara dos Deputados, o processo retomará
+à esta Casa, que deliberará, exclusivamente, sobre a Medida Provisória ou o projeto de lei de
+conversão oferecido a esta pelo Senado Federal.
+
+$ 6º Aprovado pelo Senado Federal, com emendas, projeto de lei de conversão
+oferecido pela Câmara dos Deputados, o processo retornará à Câmara dos Deputados, que
+deliberará sobre as emendas, vedada, neste caso, a apresentação, pelo Senado Federal, de
+projeto de lei de conversão.
+
+$ 7º Aplicam-se, no que couber, os demais procedimentos de votação previstos nos
+Regimentos Internos de cada Casa.
+
+Art. 8º O Plenário de cada uma das Casas do Congresso Nacional decidirá, em
+apreciação preliminar, o atendimento ou não dos pressupostos constitucionais de relevância e
+urgência de Medida Provisória ou de sua inadequação financeira ou orçamentária, antes do
+exame de mérito, sem a necessidade de interposição de recurso, para, ato contínuo, se for o
+caso, deliberar sobre o mérito.
+
+Parágrafo único. Se o Plenário da Câmara dos Deputados ou do Senado Federal decidir
+no sentido do não atendimento dos pressupostos constitucionais ou da inadequação financeira
+ou orçamentária da Medida Provisória, esta será arquivada.
+
+Art. 9º Se a Medida Provisória não for apreciada em até 45 (quarenta e cinco) dias
+contados de sua publicação no Diário Oficial da União, entrará em regime de urgência,
+subsequentemente, em cada uma das Casas do Congresso Nacional, ficando sobrestadas, até
+que se ultime a votação, todas as demais deliberações legislativas do Plenário da Casa em que
+estiver tramitando.
+
+Art. 10º Se a Medida Provisória não tiver sua votação encerrada nas 2 (duas) Casas do
+Congresso Nacional, no prazo de 60 (sessenta) dias de sua publicação no Diário Oficial da
+União, estará automaticamente prorrogada uma única vez a sua vigência por igual período.
+
+$ 1ºA prorrogação do prazo de vigência de Medida Provisória será comunicada em Ato
+do Presidente da Mesa do Congresso Nacional publicado no Diário Oficial da União.
+
+$ 2º A prorrogação do prazo de vigência de Medida Provisória não restaura os prazos da
+Casa do Congresso Nacional que estiver em atraso, prevalecendo a sequência e os prazos
+estabelecidos nos arts. 5º, 6º e 7º.
+
+Art. 11. Finalizado o prazo de vigência da Medida Provisória, inclusive o seu prazo de
+prorrogação, sem a conclusão da votação pelas 2 (duas) Casas do Congresso Nacional, ou
+aprovado projeto de lei de conversão com redação diferente da proposta pela Comissão Mista
+em seu parecer, ou ainda se a Medida Provisória for rejeitada, a Comissão Mista reunir-se-á
+para elaborar projeto de decreto legislativo que discipline as relações jurídicas decorrentes da
+vigência de Medida Provisória.
+
+$ 1º Caso a Comissão Mista ou o relator designado não apresente projeto de decreto
+legislativo regulando as relações jurídicas decorrentes de Medida Provisória não apreciada,
+modificada ou rejeitada no prazo de 15 (quinze) dias, contado da decisão ou perda de sua
+69
+
+vigência, poderá qualquer Deputado ou Senador oferecê-lo perante sua Casa respectiva, que o
+submeterá à Comissão Mista, para que esta apresente o parecer correspondente.
+
+$ 2º Não editado o decreto legislativo até 60 (sessenta) dias após a rejeição ou a perda
+de eficácia de Medida Provisória, as relações jurídicas constituídas e decorrentes de atos
+praticados durante sua vigência conservar-se-ão por ela regidas.
+
+$ 32 A Comissão Mista somente será extinta após a publicação do decreto legislativo ou
+do transcurso do prazo de que trata o 8 2º.
+
+Art. 12. Aprovada Medida Provisória, sem alteração de mérito, será o seu texto
+promulgado pelo Presidente da Mesa do Congresso Nacional para publicação, como Lei, no
+Diário Oficial da União.
+
+Art. 13. Aprovado projeto de lei de conversão será ele enviado, pela Casa onde houver
+sido concluída a votação, à sanção do Presidente da República.
+
+Art. 14. Rejeitada Medida Provisória por qualquer das Casas, o Presidente da Casa que
+assim se pronunciar comunicará o fato imediatamente ao Presidente da República, fazendo
+publicar no Diário Oficial da União ato declaratório de rejeição de Medida Provisória.
+
+Parágrafo único. Quando expirar o prazo integral de vigência de Medida Provisória,
+incluída a prorrogação de que tratam os 88 32 e 7º do art. 62 da Constituição Federal, com a
+redação dada pela Emenda Constitucional nº 32, de 2001, o Presidente da Mesa do Congresso
+Nacional comunicará o fato ao Presidente da República, fazendo publicar no Diário Oficial da
+União ato declaratório de encerramento do prazo de vigência de Medida Provisória.
+
+Art. 15. A altemância prevista no 8 1º do art. 3º terá início, na primeira Comissão a ser
+constituída, após a publicação desta Resolução, com a Presidência de Senador e Relatoria de
+Deputado.
+
+Art. 16. A Câmara dos Deputados e o Senado Federal adaptarão os seus Regimentos
+Intemos com vistas à apreciação de Medidas Provisórias pelos respectivos Plenários de
+acordo com as disposições e os prazos previstos nesta Resolução.
+
+Art. 17. Norma específica disporá sobre o funcionamento das Comissões Mistas de que
+tratam os arts. 2º a 5º desta Resolução.
+
+Art. 18. Os prazos previstos nesta Resolução serão suspensos durante o recesso do
+Congresso Nacional, sem prejuízo da plena eficácia de Medida Provisória.
+
+Parágrafo único. Se for editada Medida Provisória durante o período de recesso do
+Congresso Nacional, a contagem dos prazos ficará suspensa, iniciando-se no primeiro dia de
+sessão legislativa ordinária ou extraordinária que se seguir à publicação de Medida Provisória.
+
+Art. 19. O órgão de consultoria e assessoramento orçamentário da Casa a que pertencer
+o Relator de Medida Provisória encaminhará aos Relatores e à Comissão, no prazo de 5
+(cinco) dias de sua publicação, nota técnica com subsídios acerca da adequação financeira e
+orçamentária de Medida Provisória.
+
+Art. 20. Às Medidas Provisórias em vigor na data da publicação da Emenda
+Constitucional nº 32, de 2001, aplicar-se-ão os procedimentos previstos na Resolução nº 1, de
+1989-CN.
+
+$ 1º São mantidas em pleno funcionamento as Comissões Mistas já constituídas,
+preservados os seus respectivos Presidentes, Vice-Presidentes e Relatores, e designados
+70
+
+Relatores Revisores, resguardada aos Líderes a prerrogativa prevista no art. 5º do Regimento
+Comum.
+
+$ 2º São convalidadas todas as emendas apresentadas às edições anteriores de Medida
+Provisória.
+
+$ 3º São convalidados os pareceres já aprovados por Comissão Mista.
+
+Art. 21. Ao disposto nesta Resolução não se aplica o art. 142 do Regimento Comum.
+
+Art. 22. Revoga-se a Resolução nº 1, de 1989-CN, prorrogando-se a sua vigência
+apenas para os efeitos de que trata o art. 20.
+
+Art. 23. Esta Resolução entra em vigor na data de sua publicação.
+
+Congresso Nacional, em 8 de maio de 2002
+
+SENADOR RAMEZ TEBET
+Presidente do Senado Federal
+

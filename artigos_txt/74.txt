@@ -1,0 +1,4195 @@
+Ministério da Saúde = o
+FIOCRUZ
+ESCOLA NACH! PUBLIC,
+Fundação Oswaldo Cruz e"
+ENSP
+
+“Desafios da gestão intersetorial na Política Nacional de Segurança
+Alimentar e Nutricional”
+
+por
+
+Juliane Heiriguel de Melo Perini
+
+Dissertação apresentada com vistas à obtenção do título de Mestre
+
+Modalidade Profissional em Saúde Pública.
+
+Orientadora: Prof.2 Dr.2 Jeni Vaitsman
+
+Brasília, novembro de 2013.
+Ministério da Saúde e 2
+
+ROCRUZ ESCOLA NACIONAL DE SAÚDE PÚBLICA
+
+Fundação Oswaldo Cruz SERGIO AROUCA
+ENSP
+
+Esta dissertação, intitulada
+
+“Desafios da gestão intersetorial na Política Nacional de Segurança
+Alimentar e Nutricional”
+
+apresentada por
+
+Juliane Helriguel de Melo Perini
+
+foi avaliada pela Banca Examinadora composta pelos seguintes membros:
+
+Prof.2Dr.2Maya Takagi
+Prof.2Dr.º Sandra A parecida V enâncio de Siqueira
+
+Prof.º Dr.2Jeni V aitsman — Orientadora
+
+Dissertação defendida e aprovada em 26 de novembro de 2013.
+Catalogação na fonte
+Instituto de Comunicação e Informação Científica e Tecnológica
+Biblioteca de Saúde Pública
+
+ 
+
+ 
+
+P445
+
+Perini, Juliane Helriguel de Melo
+
+Desafios da gestão intersetorial na Política Nacional de
+Segurança Alimentar e Nutricional. / Juliane Helriguel de
+Melo Perini. -- 2013.
+
+xv,79f.: il. ; graf.
+
+Orientador: Vaitsman, Jeni
+Dissertação (Mestrado) — Escola Nacional de Saúde
+Pública Sergio Arouca, Rio de Janeiro, 2013.
+
+1. Segurança Alimentar e Nutricional. 2. Gestão
+Intersetorial. 3. Políticas Públicas. 4. Fragmentação e
+Integração de Políticas Públicas. |. Título.
+
+CDD - 22.ed.-363.8
+
+ 
+
+ 
+Ministério da Saúde = o
+FIOCRUZ
+
+ESCOLA NACH! PUBLIC,
+Fundação Oswaldo Cruz e"
+
+ENSP
+
+AUTORIZAÇÃO
+
+Autorizo, exclusivamente para fins acadêmicos e científicos, a
+reprodução total ou parcial desta dissertação, por processos
+fotocopiadores.
+
+Brasília, 26 de novembro de 2013.
+
+) uliane Helriguel de Melo Perini
+
+Serviço de Gestão Acadêmica - Rua Leopoldo Bulhões, 1.480, Térreo — Manguinhos-RJ — 21041-210
+Tel.: (0-XX-21) 2598-2969 ou 08000-230085
+
+E-mail: secaprofissionalO ensp.fiocruz.br Homepage: http://www.ensp.fiocruz.br
+Dedico este trabalho a todos os Povos e Comunidades
+Tradicionais, que esperam o reconhecimento de suas
+especificidades nas políticas implementadas pelo
+Estado brasileiro. São especialmente esses indivíduos
+que me fazem seguir em frente e que são a razão do
+meu esforço de cada dia, do meu ideal de se construir
+um país mais igual e mais justo.
+AGRADECIMENTOS
+
+Ao meu querido amigo, companheiro e alma-gêmea, Daniel, com quem divido
+minha vida, pelo seu amor incondicional, agradeço pelo ininterrupto suporte e apoio.
+Sem você teria sido impossível finalizar mais esta etapa da minha vida.
+
+Aos meus familiares que me auxiliaram em todo tempo e compreensivamente
+entenderam minhas ausências. Aos meus queridos sobrinhos Giovana e Guilherme,
+futura geração, nos quais coloco minha confiança para o desenvolvimento de um país
+melhor.
+
+Especialmente, agradeço à Carmem Priscila Bocchi, exemplo de pessoa
+comprometida com o interesse público e com a causa da Segurança Alimentar e
+Nutricional. Sua capacidade de realização foge à regra e merece ser destacada.
+Obrigada pelo constante incentivo e apoio e por ter sempre acreditado em mim.
+
+À Maya Takagi pela pronta aceitação ao convite para integrar a banca
+examinadora. Sua capacidade analítica e amplitude do conhecimento teórico são
+qualidades que impressionam e inspiram a todos que têm o privilégio de trabalhar com
+ela. Suas ideias e estudos foram indispensáveis ao desenvolvimento deste trabalho.
+
+À minha professora e orientadora, Jeni Vaitsman, pelo encorajamento e
+conselhos preciosos e por ter me indicado o caminho, apontando os limites, para a
+construção desse trabalho. Por compartilhar seu amplo conhecimento de forma tão
+generosa e pelas inúmeras discussões, muitas vezes difíceis, que influenciaram este
+trabalho.
+
+Aos meus colegas de trabalho, Rafaela Gonçalves, do Ministério do
+Desenvolvimento Social e Combate à Fome, e Kalid Nogueira, do Ministério do
+Planejamento, Orçamento e Gestão, pelo companheirismo, trabalho em equipe e pela
+grande ajuda na extração dos dados.
+
+Agradeço a oportunidade de estudo ao Ministério do Desenvolvimento Social e
+Combate à Fome, especificamente à Secretaria Nacional de Segurança Alimentar e
+Nutricional, pelo apoio à participação no mestrado, reconhecendo a importância desse
+curso para o melhor desempenho do meu trabalho.
+
+vi
+Aos professores e funcionários da Escola Nacional de Saúde Pública Sergio
+Arouca - ENSP, da Fundação Oswaldo Cruz - FIOCRUZ, e do Instituto de Pesquisa
+Econômica Aplicada - IPEA.
+
+Aos colegas de turma, pelo aprendizado conjunto, pelas intensas discussões,
+longos debates e diversos impasses, que contribuíram para o amadurecimento deste
+trabalho.
+
+Por fim, agradeço a Deus, minha força nos momentos mais críticos e minha
+base para seguir em frente.
+
+vii
+“Um dos grandes obstáculos ao planejamento
+de soluções adequadas ao problema da
+alimentação dos povos reside exatamente no
+pouco conhecimento que se tem do problema
+em conjunto, como um complexo de
+manifestações simultaneamente biológicas,
+
+econômicas e sociais.”
+
+) osué de Castro
+
+“É mesmo esta a característica essencial do
+desenvolvimento econômico do tipo
+colonialista, bem diferente do desenvolvimento
+econômico autêntico de tipo nacionalista. O
+colonialismo promoveu pelo mundo uma certa
+forma de progresso, mas sempre a serviço dos
+seus lucros exclusivos, ou quando muito
+associado a um pequeno número de nacionais
+privilegiados que se desinteressavam pelo
+futuro da nacionalidade, pelas aspirações
+políticas, sociais e culturais da maioria. Daí o
+desenvolvimento anômalo, setorial, limitado a
+certos setores mais rendosos, de maior atrativo
+para o capital especulativo, deixando no
+abandono outros setores básicos,
+indispensáveis ao verdadeiro progresso social."
+
+) osué de Castro
+
+viii
+RESUMO
+
+Diante da necessidade do equacionamento do problema da fome, a questão da
+segurança alimentar e nutricional no Brasil e no mundo tem ocupado o centro das
+discussões nas últimas décadas. A Lei nº 11.346, de 15 de setembro de 2006, Lei
+Orgânica da Segurança Alimentar e Nutricional (LOSAN) veio expressar o amplo
+conceito de Segurança Alimentar e Nutricional (SAN) do governo brasileiro e
+estabelecer as diretrizes para a construção da política e do plano nacional, colocando
+a SAN como objetivo permanente a demandar ações contínuas e intersetoriais do
+governo e da sociedade. Entretanto, observa-se que os arranjos institucionais da
+estrutura governamental geram obstáculos que dificultam a execução de ações
+intersetoriais que levem em consideração uma concepção mais ampliada da SAN.
+
+Este estudo procura entender como se dá a gestão intersetorial da política de
+SAN e como, dentro do aparato administrativo do Estado brasileiro, é possível
+desenvolver ações intersetoriais que consigam incluir toda a multidimensionalidade da
+temática da SAN no Brasil. Ademais, tenta responder a estas perguntas trazendo para
+o debate o orçamento e planejamento do governo federal.
+
+Buscou-se identificar os limites e desafios para a gestão intersetorial das
+políticas públicas com um foco mais específico na PNSAN. Constatou-se que, apesar
+da fragmentada estrutura administrativa estatal do país, o processo de implementação
+de uma gestão intersetorial tem avançado, mesmo verificando-se que há um longo
+caminho a ser percorrido em direção a um planejamento governamental que integre a
+lógica orçamentária à gestão da PNSAN. Há o desafio de construção de um
+orçamento pactuado entre os setores, que seja integrado à gestão e ao monitoramento
+
+da política.
+
+Palavras-Chave: segurança alimentar e nutricional, intersetorialidade, gestão
+intersetorial, fragmentação e integração de políticas públicas.
+ABSTRACT
+
+As the problem of hunger continues to plague society, food and nutrition
+security subject keeps heading discussions worldwide. In Brazil, the Organic Law on
+Food and Nutrition Security (LOSAN) - Law No. 11.346, September 15”, 2006 -
+embraced the wide concept of Food Security and Nutrition (SAN), as well as
+established guidelines for the construction of the Brazilian Policy and the National Plan.
+Italso has placed the SAN as a permanent government goal, and as result, the need of
+a continuous and intersectoral actions has become a hard task, which must involve
+both government and civil society. The actual institutional arrangement do not make it
+any easier, and demands a lot of effort to cope with the wide concept of the SAN and
+the means available to achieve its objectives.
+
+This study tries to map how is the intersectoral management for the national
+policy on food and nutrition security and how, within the administrative structure of the
+Brazilian State, itis possible to develop intersectoral actions that can include all the
+multidimensionality of this subject. Moreover, it attempts to answer those questions by
+bringing to the debate the Brazilian's budget structure and the major planning of the
+federal government.
+
+Some limits and challenges of the intersectoral public policies management are
+identified, with a close look on the PNSAN. Then it is shown that despite the
+fragmented state structure in found in the country, the process of implementing an
+intersectoral management has somehow succeeded, even though there still have some
+gaps to be fulfilled towards a government planning that integrates its budget structure
+to the PNSAN management. There is also the challenge of constructing a budget that
+is agreed among many different sectors, and which is well integrated into the
+management and monitoring policy.
+
+Keywords: food and nutrition security, intersectionality, intersectoral management,
+fragmentation and integration policies.
+SUMÁRIO
+
+TIN LR: 0 ]D JO [67 (6 PR 1
+
+CAPÍTULO 1 A POLÍTICA NACIONAL DE SEGURANÇA ALIMENTAR E
+
+NUTRICIONAL sans DD oa 6
+1.1. Antecedentes.............. si teeetertraereeeerraeee errar 6
+12. A institucionalização da PNSAN asesanscansenana nana canas 7
+
+1.3. O arranjo institucional da Política Nacional de Segurança Alimentar e
+Nutricional... rente aerenarena cana neee aaa aa anna aaa aaa ana near 9
+
+1.4. O Plano Nacional de Segurança Alimentar e Nutricional como instrumento de
+
+articulação e implementação da PNSAN......... serenata 15
+CAPÍTULO 2 A GESTÃO INTERSETORIAL NA TEMÁTICA DA SEGURANÇA
+ALIMENTAR E NUTRICIONAL... aeee rear cana 17
+
+2.1. Segurança Alimentar e Nutricional: Conceito e dimensões ..........i 17
+
+didi, INENS CONAMA: casa sosussuntar sosassencam soreacrncam someneracam sareseranas sarenenarass iarenenanas is 23
+
+2.3. A Fragmentação das Políticas Públicas ............seseeerererereeeeeeseeteeos 29
+CAPÍTULO 3 METODOLOGIA... irmas seriamente 38
+
+3.1. Percurso metodológico ...........rereeererereereereereere err ereereerereeereeseetenees 38
+
+3.2. Considerações sobre a ética em pesquisa... 39
+
+CAPÍTULO 4 LIMITES DO GOVERNO FEDERAL PARA A IMPLEMENTAÇÃO DE
+UMA POLÍTICA INTERSETORIAL .......c ss eeeerereerrerteaee aereas arara mremrerrenarts 41
+
+4.1. O Planejamento Estratégico Governamental e o Orçamento Federal............ 41
+
+4.2. A Segurança Alimentar e Nutricional nos Planos Plurianuais 2008-2011 e
+
+2012-2015... rear eee arena aeee rear 44
+
+4.3. APNSAN: Algumas considerações à luz da teoria da fragmentação de
+
+políticas públicas «ssa usas acc manugas 56
+CAPÍTULO 5 CONCLUSÃO ...... imensas nrastas 67
+REFERENCIAS BIBLIOGRÁFICAS sassseazananarasaneea meneame namo 71
+
+xi
+Lista de Quadros
+
+Quadro 2.1. Determinantes da SAN categorizados a partir do cruzamento das quatro
+
+dimensões da SAN com os três níveis sócio-organizacionais (KEPPLE, 2010).......... 21
+Quadro 2.2. Dimensões da coerência (modificado de OCDE, 2003)... 32
+Quadro 2.3. Alguns fatores estruturais que favorecem a integração ou a fragmentação
+(modificado de MARTINS, 2003). ......issiiereeeerreerrereereeaaaaananananeaneeaeeereereerrensa 35
+Quadro 2.4. Modelo de análise qualitativa da fragmentação/integração (modificado de
+MARTINS: 2000). sus uzuena rs sneno recon Ucn ns Ucos ns uco sus susn susana 36
+Quadro 4.1. Distribuição das ações orçamentárias segundo tema e órgão executor -
+PPA 2008-2011, ano 2011 (BRASIL, 20130)... 47
+Quadro 4.2. Orçamento autorizado, liquidado e percentual de execução da SAN,
+segundo temas, por órgão, 2008, 2009, 2010 e 2011 (BRASIL, 2013d)..................... 49
+Quadro 4.3. Programa temático “Segurança Alimentar e Nutricional - PPA 2012-2015
+SETTE TEES ESTEIO STATE IT IT a T air Tassienresa ras imirnresata 53
+Quadro 4.4. Síntese dos fatores estruturais aplicados à PNSAN............ 61
+
+xii
+Lista de figuras
+
+Figura 1.1. Componentes do Sistema de Segurança Alimentar e Nutricional no nível
+
+federal (modificado - BRASIL, 2011a)...........ieeeeeereererrrereeraraaaaaaeaneanteateera 10
+Figura 1.2. Componentes do Sistema de Segurança Alimentar e Nutricional nos três
+
+níveis de governo (modificado de LEÃO e MALUF, 2012)... 13
+Figura 2.1. Marco conceitual da SAN (Modificado de GROSS etal, 2000). ................ 20
+Figura 2.2. A coerência como um processo (modificado de OCDE, 2003).................. 30
+
+Figura 2.3. Escala de integração de Políticas (modificado de METCALFE, 1994)...... 31
+
+Figura 2.4. Modelo de Análise da Fragmentação/Integração (modificado de MARTINS,
+2005) susnauesnen arena Us USn RESELLER Ucn SUE Ucn sus usn susana 34
+
+Figura 4.1. Distribuição (%) das ações orçamentárias por órgão - PPA 2008-2011, ano
+2011 (BRASIL, 20136)... ira arena eae 48
+
+xiii
+Lista de Siglas
+
+IADB
+ANVISA
+APF
+AS
+BSM
+CAISAN
+CER
+Cr
+CGU
+CNS
+CNSAN
+COEP
+CONAB
+CONEP
+CONSEA
+DHAA
+EAN
+ENSP
+
+FAO
+
+FBSAN
+FNDE
+FUNAI
+INSAN
+IPEA
+
+LDO
+
+Inter American Development Bank
+
+Agência Nacional de Vigilância S anitária
+
+Administração Pública Federal
+
+Agenda Social
+
+Plano Brasil sem Miséria
+
+Câmara Interministerial de Segurança Alimentar e Nutricional
+Comitê de Ética em Pesquisa
+
+Constituição Federal
+
+Controladoria Geral da União
+
+Conselho Nacional de Saúde
+
+Conferência Nacional de Segurança Alimentar e Nutricional
+Comitê de Entidades Públicas no Combate à Fome e pela Vida
+Companhia Nacional de Abastecimento
+
+Comissão Nacional de Ética em Pesquisa
+
+Conselho Nacional de Segurança Alimentar e Nutricional
+Direito Humano à Alimentação Adequada
+
+Educação Alimentar e Nutricional
+
+Escola Nacional de Saúde Pública Sergio Arouca
+
+Organização das Nações Unidas para a Alimentação e
+Agricultura
+
+Fórum Brasileiro de Segurança Alimentar e Nutricional
+Fundo Nacional de Desenvolvimento da Educação
+Fundação Nacional do Índio
+
+Insegurança Alimentar e Nutricional
+
+Instituto de Pesquisa Econômica e Aplicada
+
+Lei de Diretrizes Orçamentárias
+
+xiv
+LOA
+LOSAN
+MAPA
+MCTI
+DA
+
+DS
+
+= = E E = = =
+5 n
+o)
+
+ 
+
+MMA
+
+MPA
+
+MS
+
+ 
+
+MTE
+OCDE
+PAA
+
+PAC
+
+PCT
+
+PDE
+
+PFZ
+PLANSAN
+PNSAN
+PPA
+
+PR
+
+SAE
+
+Lei Orçamentária Anual
+
+Lei Orgânica da Segurança Alimentar e Nutricional
+Ministério da Agricultura Pecuária e Abastecimento
+Ministério da Ciência, Tecnologia e Inovação
+
+Ministério do Desenvolvimento Agrário
+
+Ministério do Desenvolvimento Sociale Combate à Fome
+Ministério da Educação
+
+Ministério da Fazenda
+
+Ministério da Integração Nacional
+
+Ministério da Cultura
+
+Ministério da J ustiça
+
+ 
+
+Ministério do Meio Ambiente
+
+Ministério do Planejamento, Orçamento e Gestão
+Ministério da Pesca e Aquicultura
+
+Ministério da Saúde
+
+Ministério do Trabalho e Emprego
+
+Organização para a Cooperação e Desenvolvimento Econômico
+Programa de Aquisição de Alimentos
+
+Programa de Aceleração do Crescimento
+
+Programa Bolsa Família
+
+Povos e Comunidades Tradicionais
+
+Plano de Desenvolvimento da Educação
+
+Programa Fome Zero
+
+Plano Nacional de Segurança Alimentar e Nutricional
+Política Nacional de Segurança Alimentar e Nutricional
+Plano Plurianual
+
+Presidência da República
+
+Secretaria de Assuntos Estratégicos
+
+xv
+SAN
+
+SE
+SEPPIR
+SESAN
+SF
+SIOP
+SISAN
+
+SISPLANSAN
+
+SUS
+
+SUAS
+
+Segurança Alimentar e Nutricional
+
+Secretaria E xecutiva
+
+Secretaria de Políticas de Promoção da Igualdade Racial
+Secretaria Nacional de Segurança Alimentar e Nutricional
+Senado Federal
+
+Sistema Integrado de Orçamento e Planejamento
+Sistema Nacional de Segurança Alimentar e Nutricional
+
+Sistema de Monitoramento do Plano Nacional de Segurança
+Alimentar e Nutricional
+
+Sistema Único de Saúde
+
+Sistema Único de Assistência Social
+INTRODUÇÃO
+
+Diante da necessidade do equacionamento do problema da fome, a questão da
+segurança alimentar e nutricional no Brasil e no mundo tem ocupado o centro das
+discussões nas últimas décadas.
+
+A Lei nº 11.346, de 15 de setembro de 2006, Lei Orgânica da Segurança
+Alimentar e Nutricional (LOSAN) veio expressar o amplo conceito de Segurança
+Alimentar e Nutricional (SAN) do governo brasileiro e estabelece as diretrizes para a
+construção da política e do plano nacional, colocando a SAN como objetivo
+
+permanente a demandar ações contínuas e intersetoriais do governo e da sociedade.
+
+"Segurança alimentar e nutricional é a realização do direito de todos ao acesso
+regular e permanente a alimentos de qualidade, em quantidade suficiente, sem
+comprometer o acesso a outras necessidades essenciais tendo como base práticas
+alimentares promotoras de saúde, que respeitem a diversidade cultural e que sejam
+social, econômica e ambientalmente sustentáveis." (BRASIL, 2006).
+
+Esta concepção que a Lei apresenta inclui a garantia do Direito Humano à
+Alimentação Adequada (DHAA) e, de acordo com Kepple (2010), envolve pelo menos
+quatro dimensões de análise da SAN das quais não se poderia prescindir no
+planejamento da gestão da política pública de SAN nas diferentes áreas e esferas do
+governo: disponibilidade do alimento, acesso físico e econômico aos alimentos,
+utilização biológica dos alimentos pelo organismo e estabilidade, que implica no grau
+de perenidade da utilização, acesso e disponibilidade dos alimentos.
+
+Em 2010, com a incorporação da alimentação aos direitos sociais previstos no
+artigo 6º da Constituição Federal, por meio da Emenda Constitucional nº 64, de 4 de
+fevereiro de 2010 e a regulamentação da LOSAN através do Decreto nº 7.272, de 25
+de agosto de 2010 (BRASIL, 2010), foi instituída a Política Nacional de SAN (PNSAN)
+e estabelecidas as diretrizes para a elaboração do Plano Nacional de SAN
+(PLANSAN), principal instrumento de planejamento, gestão, execução e
+implementação da PNSAN.
+
+Em 2011, por exigência do Decreto nº 7.272, foi elaborado e publicado o
+PLANSAN, com vigência a partir de janeiro de 2012 e término em dezembro de 2015,
+com revisões sistemáticas a cada dois anos. O documento reúne diversas iniciativas
+
+1
+do Governo Federal com repercussão direta na SAN e apresenta, de forma detalhada,
+todas as ações e metas a serem executadas de forma articulada e coordenada entre
+Estado, no âmbito intra e intergovernamental e sociedade civil organizada.
+
+Trata-se de um plano, baseado no planejamento estratégico do governo
+federal, o Plano Plurianual (PPA 2012-2015), que envolve vários setores e nesse
+sentido coloca a discussão da intersetorialidade na agenda pública de SAN, não só
+porque é um princípio intrínseco e imprescindível à política de SAN, mas porque
+representa uma inovação na gestão dos programas e ações contidos no PLANSAN. A
+intersetorialidade remete a uma concepção de natureza substantiva sobre como
+compreender e analisar a SAN e também a uma estratégia de gestão que decorre
+dessa perspectiva.
+
+Entretanto, observa-se a inadequação dos arranjos institucionais que deem
+conta, de forma ampla, da SAN. Isso se dá, entre outros motivos, a partir da
+compreensão limitada desse conceito, que costuma ser caracterizado apenas
+enquanto acesso inadequado aos alimentos, com decorrências nos quadros de
+desnutrição e fome, por conta de insuficiência de renda entre segmentos mais pobres
+da sociedade. Contudo, pensar em SAN deveria envolver uma noção que
+contemplasse um conjunto de dimensões, e que agregasse significados e conteúdos
+de diferentes áreas do conhecimento. Trata-se de um esforço de depurar o conceito e
+melhor compreendê-lo a partir da análise de alguns processos associados à política de
+SAN (BRONZO, 2007).
+
+Considerando a complexidade do conceito de SAN e suas dimensões, dentro
+de seu arcabouço jurídico-institucional no Brasil é que emerge o problema analisado
+neste estudo. De que forma se dá a gestão intersetorial da política de SAN? Como,
+dentro da estrutura administrativa do Estado brasileiro, é possível desenvolver ações
+intersetoriais que consigam incluir toda a multidimensionalidade da temática da SAN no
+Brasil?
+
+Este trabalho busca responder, pelo menos em parte, a estas perguntas
+trazendo para o debate a estrutura do orçamento e planejamento do governo federal,
+tendo como foco os programas, ações, e políticas setoriais vis à vis as políticas
+transversais e multissetoriais, como é o caso da PNSAN. O principal objeto desta
+análise são as implicações para a execução da política, advindas do atual formato de
+alocação e execução orçamentária, bem como do planejamento estratégico
+governamental para a PNSAN.
+A gestão intersetorial constitui uma oportunidade de estudo fundamental para
+entender esse problema. Foi relatada por Bernardi (2010) como um processo
+desafiante para o governo que precisa ser consolidado, principalmente considerando o
+contexto jurídico-institucional da política de SAN estabelecido recentemente e que vem
+modificando sua posição em relação ao conjunto de políticas sociais prioritárias no
+Brasil.
+
+Entender a conformação da estrutura administrativa do Estado e apontar os
+obstáculos colocados por seu próprio desenho para dar conta de tal desafio pode
+contribuir para indicar possibilidades de uma nova lógica de organização estatal
+baseada no princípio da intersetorialidade, muitas vezes assimilado de forma fácil
+pelos gestores, mas de difícil aplicação, considerando a hierarquia setorial do Estado
+brasileiro. O Brasil tem sido modelo para diversos países, principalmente para a
+América Latina e Caribe, em condições diversas de insegurança alimentar, e é preciso
+identificar quais são os avanços e tentar entender que tipo de desafios estão colocados
+para que se alcance efetividade em políticas que lidam com problemas complexos e
+multifatoriais, como é o caso da PNSAN.
+
+A intersetorialidade corresponde à essência da SAN e, ao mesmo tempo, ao
+seu maior desafio, e tem como concepção a forma de articulação dos diversos
+segmentos e setores do aparato governamental e não governamental, que possuem
+percepções, propostas e interesses divergentes. Dessa forma, compreender as normas
+e os espaços institucionais criados para a PNSAN permite uma análise mais profunda
+com possíveis desdobramentos para a construção de um modelo institucional
+potencialmente capaz de permitir a concretização da intersetorialidade.
+
+Embora esse formato que abrange a SAN seja uma novidade, a temática tem
+se feito presente na agenda governamental há longa data e diante disso, é necessário
+produção de novos estudos que deem conta de explicar as questões e os porquês
+envolvidos nessa nova institucionalidade. Trata-se também de indagar se ela
+responderá a contento de forma a garantir a SAN e o direito humano à alimentação
+adequada (DHAA) em sua concepção mais ampla, sendo este trabalho uma maneira
+de se abordar o tema.
+
+Apesar de grande parte da literatura saliente que a estratégia de ação
+intersetorial pode permitir maior eficiência e resultados mais significativos quanto ao
+impacto e sustentabilidade das políticas, evitando sobreposições, é preciso estudos
+mais específicos, como este que fizemos, que poderão contribuir para descrever as
+iniciativas inovadoras que vêm ocorrendo dentro do Estado brasileiro, no que se refere
+à sua estrutura administrativa e identificar os desafios concretos relacionados à
+superação da fragmentação e à articulação das políticas públicas.
+
+O atual modelo de planejamento e orçamento governamentais pode não estar
+alinhado com políticas cujo enfoque é intersetorial e que precisa atender às demandas
+do cidadão de forma efetiva, não fragmentada, mas enxergando-o como titular de
+direitos garantidos pela Constituição Federal. A análise desses dois instrumentos pode
+fornecer pistas importantes para o diagnóstico e mapeamento da ação governamental
+em relação a uma política específica.
+
+Embora se tenha uma inovação na estrutura normativa e institucional,
+privilegiando a gestão intersetorial da Política Nacional de SAN, o novo modelo esbarra
+em estruturas de orçamento e planejamento federais, que em maior ou menor grau
+privilegiam o formato setorial da atuação governamental. Entender o ambiente
+institucional da PNSAN, assim como analisar os instrumentos de planejamento e
+orçamento federais tornam-se pontos-chave para tomadas de decisão mais efetivas.
+
+Posto isso, este trabalho, além da introdução, está estruturado em quatro
+capítulos, a conclusão e as recomendações. No primeiro capítulo, há uma abordagem
+da gestão intersetorial, considerando a temática da SAN e sua relevância no atual
+contexto brasileiro. São apresentadas a motivação para o estudo, as principais
+questões a serem respondidas no decorrer do texto e a hipótese principal.
+
+Ainda, discorre-se sobre os antecedentes que culminaram no recente processo
+de instituição da estrutura organizacional e política para a gestão da PNSAN,
+utilizando-se do arcabouço jurídico e detalhando os componentes que integram a
+política nacional.
+
+Já no capítulo dois, é realizada a revisão da literatura que estrutura todo o
+conjunto teórico que deu sustentação para o desenvolvimento da hipótese e análise
+dos dados. Nele estão conceituadas as categorias-chave desta pesquisa: a SAN e
+suas dimensões e a intersetorialidade. Com a abordagem da teoria da fragmentação e
+o auxílio de esquemas e diagramas, foi possível realizar uma análise qualitativa do
+processo de gestão intersetorial, identificando possíveis entraves para o alcance da
+integração e uma possível explicação para o fenômeno da fragmentação de políticas,
+especialmente a PNSAN.
+No terceiro capítulo foi descrito o método proposto para a análise da gestão
+intersetorial da PNSAN, incluindo aspectos relacionados à questão da ética em
+
+pesquisa.
+
+O quarto capítulo constitui o cerne do trabalho onde são apresentados os dados
+relacionados ao planejamento e orçamento do governo federal para a política de SAN
+com corte temporal para os anos de 2008 a 2011. Além disso, aborda-se de forma
+comparativa o modelo de gestão do PPA 2008-2011 e a nova metodologia adotada
+para o PPA 2012-2015 tendo como referência a temática da SAN.
+
+Seguindo a lógica proposta para o estudo, discute-se também a propensão à
+integração ou fragmentação da PNSAN com base na teoria da fragmentação das
+
+políticas.
+
+Finalmente, no capítulo cinco são apresentadas as conclusões do trabalho e as
+recomendações para futuros estudos.
+CAPÍTULO 1 A POLÍTICA NACIONAL DE SEGURANÇA ALIMENTAR E
+NUTRICIONAL
+
+1.1. Antecedentes
+
+O Estado brasileiro inaugurou, no período de 1937 a 1945, um conjunto de
+políticas sociais de alimentação e nutrição e nas décadas seguintes desenvolveu
+ações direcionadas a melhorar as condições de SAN da população brasileira.
+Entretanto, essas ações, normalmente pulverizadas e difusas, não tinham prioridade
+dentro do governo e consistiam apenas em programas de caráter paliativo.
+
+O precursor de todo o processo, o médico, sociólogo e geógrafo J osué de
+Castro, nas décadas de 1940 e 1950, já alertava que a questão da fome não era um
+fenômeno natural ou apenas uma fatalidade, mas social, decorrente de uma série de
+idiossincrasias relacionadas não apenas à produtividade agrícola, mas a uma desigual
+e concentrada distribuição de riquezas (alimentos, terra, renda).
+
+No período militar, o debate ficou arrefecido pela repressão e só em 1985, o
+primeiro governo civil fez uso oficial, pela primeira vez, da expressão “Segurança
+Alimentar”, em documento do Ministério da Agricultura (MENEZES, 2010, grifo do
+autor). Todavia, a temática apenas margeava a agenda governamental, tendo uma
+acalorada discussão dentro da sociedade civil organizada.
+
+Um marco para a recolocação da centralidade do problema da fome foi a inédita
+mobilização da sociedade para arrecadação e doação de alimentos, no início da
+década de 90, por meio da Ação da Cidadania contra a Fome, a Miséria e pela Vida,
+mais conhecida como Campanha do Betinho, em referência ao sociólogo Herbert de
+Souza, que a liderou (TAKAGI, 2006).
+
+Como decorrência deste grande movimento na sociedade, ocorreu a
+implantação do CONSEA — Conselho Nacional de Segurança Alimentar, em 1993, a
+elaboração do primeiro Mapa da Fome e a realização da | Conferência Nacional de
+Segurança Alimentar e Nutricional (TAKAGI, 2006).
+
+A partir de 2003, as pequenas ações difusas e pulverizadas do governo
+receberam impulso significativo, quando foram agregadas em um conjunto de políticas
+e programas denominado Programa Fome Zero (PFZ) - Uma proposta de Política de
+Segurança Alimentar para o Brasil — inspirado no documento “Projeto Fome Zero”
+elaborado pelo Instituto da Cidadania!. O combate à fome passou a ser a maior
+prioridade do governo a partir do então projeto.
+
+O PFZ colocou a SAN na agenda de governo tendo como eixo central a
+conjugação entre políticas estruturais, voltadas à redistribuição de renda, crescimento
+da produção, geração de empregos e reforma agrária, e intervenções emergenciais.
+
+O desenho institucional do PFZ contou com a (re) organização do Conselho
+Nacional de Segurança Alimentar e Nutricional (CONSEA); a criação do Ministério
+Extraordinário de Segurança Alimentar e Combate à Fome (Mesa), ligado à
+Presidência da República (PR) para formular e implementar a política de SAN; um
+amplo processo de mobilização popular, inclusive com a criação de uma assessoria
+especial na PR para cuidar do tema; e a utilização da estrutura física, de pessoal e
+orçamentária da Secretaria executiva da Comunidade Solidária, também vinculada à
+PR (TAKAGI, 2010).
+
+O PFZ se constituiu na principal ação que norteou e levou à institucionalização
+da SAN no Brasil. A construção participativa da política de SAN envolveu importante
+atuação da sociedade civil e papel preponderante do CONSEA, que passou a ser mais
+ativo no debate, a partir de 2003, atuando como um instrumento entre governo e
+sociedade na proposição de diretrizes.
+
+Em 2004, foi realizada a segunda Conferência Nacional de Segurança
+Alimentar e Nutricional (Il CNSAN) significando forte mobilização da sociedade civil e
+governo desencadeando um vigoroso processo de institucionalização da SAN no
+Estado brasileiro.
+
+1.2. A institucionalização da PNSAN
+
+Como resultado de todo o processo de mobilização descrito anteriormente, foi
+elaborada e sancionada a Lei 11.346, de 15 de setembro de 2006, intitulada Lei
+Orgânica de Segurança Alimentar e Nutricional (LOSAN), que instituiu o Sistema
+Nacional de Segurança Alimentar e Nutricional (SISAN) com vistas a garantir a
+realização do direito de todos ao acesso regular e permanente a alimentos de
+qualidade, em quantidade suficiente, sem comprometer o acesso a outras
+necessidades essenciais, tendo como base práticas alimentares promotoras da saúde
+
+2 O Instituto da Cidadania é uma organização não governamental, cujo objetivo, na época, era propor uma
+política de segurança alimentar e nutricional para o país.
+que respeitem a diversidade cultural e que sejam ambiental, cultural, econômica e
+socialmente sustentáveis.
+
+A LOSAN dispõe sobre a estrutura do SISAN pelo qual os órgãos
+governamentais dos três níveis de governo e as organizações da sociedade civil
+devem atuar conjuntamente na formulação e implementação de políticas e ações de
+combate à fome e de promoção da segurança alimentar e nutricional. Também
+estabelece mecanismos de acompanhamento, monitoramento e avaliação da situação
+nutricional da população, definindo direitos e deveres do poder público, da família, das
+empresas e da sociedade.
+
+A LOSAN foi regulamentada pelo Decreto nº 7.272, de 25 de agosto de 2010,
+que instituiu a Política Nacional de Segurança Alimentar e Nutricional (PNSAN) e suas
+diretrizes. Por determinação do mencionado Decreto, foi elaborado, em 2011, o
+primeiro Plano Nacional de Segurança Alimentar e Nutricional - PLANSAN 2012/2015,
+principal instrumento de planejamento, gestão e execução da PNSAN no nível federal.
+
+O PLANSAN foi estruturado de acordo com as oito diretrizes da política
+dispostas no Artigo 3º do Decreto 7.272/2010. Cada uma delas é resultado de intensos
+debates com a sociedade civil, principalmente nas Conferências de SAN, e busca
+nortear a ação do governo nesta temática. A diretriz 1 trata do acesso à alimentação
+adequada e saudável, prioritariamente às famílias e pessoas em situação de
+Insegurança Alimentar e Nutricional. Na diretriz 2, a prioridade é promover o
+abastecimento e a estruturação de sistemas descentralizados de base agroecológica e
+sustentáveis de produção, extração, processamento e distribuição de alimentos.
+
+A diretriz 3 visa a instituição de processos permanentes de Educação Alimentar
+e Nutricional (EAN). A diretriz 4 abarca toda a temática da SAN para Povos e
+Comunidades Tradicionais (PCT), incluindo o acesso a terra e território. A diretriz 5
+direciona as ações do governo para o fortalecimento de medidas voltadas para a
+alimentação e nutrição em todos os níveis de atenção à saúde.
+
+Na diretriz 6, o acesso universal à água para o consumo humano e para a
+produção da agricultura familiar, pesca e aquicultura em qualidade e em quantidade
+suficiente é um eixo prioritário voltado especificamente para as famílias em situação de
+insegurança hídrica. A diretriz 7 trata do apoio a iniciativas de promoção da soberania
+alimentar, da SAN e do Direito Humano à Alimentação Adequada (DHAA) em âmbito
+internacional. De acordo com o Artigo 5º da LOSAN, o respeito à soberania alimentar
+
+confere aos países a primazia de suas decisões sobre a produção e o consumo de
+
+8
+alimentos. A última diretriz do plano remete ao monitoramento da realização do DHAA,
+
+etapa importante para avaliação do desempenho governamental.
+
+Com a inclusão do direito à alimentação no artigo 6º da Constituição Federal
+(Dos Direitos Sociais), o poder público passou a ter a obrigação de adotar políticas e
+ações que se façam necessárias para promover e assegurar a segurança alimentar e
+
+nutricional da população.
+
+Para que se alcance esse propósito, é preciso, que todos os órgãos e entidades
+da União, dos Estados, do Distrito Federal e Municípios integrem esforços e sinergias,
+em conjunto com a sociedade civil, para o acompanhamento, monitoramento e
+avaliação da SAN e da realização progressiva do DHAA.
+
+1.3. O arranjo institucional da Política Nacional de Segurança Alimentar e
+
+Nutricional
+
+As instâncias do SISAN, instituídas pela LOSAN, apresentam algumas
+semelhanças e não poucas diferenças em relação aos outros sistemas de políticas
+setoriais como o Sistema Único de Saúde (SUS) e o Sistema Único de Assistência
+Social (SUAS). O SISAN é um sistema público criado com o objetivo de possibilitar a
+gestão intersetorial e participativa, tendo como perspectiva a complementaridade e
+otimização das potencialidades de cada setor.
+
+É um sistema aberto”, o que o diferencia dos demais, em função do seu
+propósito de organizar e monitorar as ações e políticas públicas dos diversos setores
+governamentais e não-governamentais. A opção pelo sistema aberto faz com que ele
+tenha reduzido grau de autonomia em relação ao contexto em que se insere
+diferentemente dos sistemas fechados que organizam e implementam políticas ou
+programas específicos, quase sempre setoriais e com fundos orçamentários próprios
+(BURLANDY; MAGALHÃES; MALUF, 2006).
+
+A estrutura criada para dar conta de tal complexidade apresenta características
+determinantes que podem contribuir para a mudança do paradigma da ação
+setorializada, conforme apresentado na figura 1.1.
+
+2 Sistemas fechados, dentro do escopo que se tem trabalhado aqui, organizam e implementam políticas ou
+programas específicos, quase sempre setoriais e com fundos orçamentários próprios. Para fins de
+comparação, o SUS se enquadraria na categoria de sistema fechado, sem com isto desconsiderar que ele
+interage com outros setores de governo e com as organizações sociais (BURLANDY; MAGALHÃES;
+MALUF, 2006).
+ 
+
+Figura 1.1. Componentes do Sistema de Segurança Alimentar e Nutricional no nível
+federal (modificado - BRASIL, 2011a).
+
+As características desse sistema tornam sua dinâmica de funcionamento mais
+complexa, em especial, de seus mecanismos de coordenação. Diferentemente dos
+sistemas setoriais que gerem programas próprios — nesse sentido, são fechados — as
+políticas de SAN têm a pretensão de sugerir diretrizes e propor ações integradas
+envolvendo participantes de outros sistemas ou processos decisórios. Assim, a
+dinâmica de funcionamento do SISAN envolve processos decisórios mais complexos,
+critérios peculiares de representação em seus espaços próprios de coordenação e
+procedimentos intersetoriais para implementar e monitorar ações integradas
+(BURLANDY; MAGALHÃES; MALUF, 2006).
+
+As relações que o SISAN pode manter com sistemas associados devem, em
+princípio, ser pautadas pelo respeito à autonomia dos respectivos processos decisórios
+(por isso a reduzida autonomia do SISAN) e sem hierarquias outras, colocando como
+prioridade a busca de objetivos conjuntos (BURLANDY; MAGALHÃES; MALUF, 2006).
+
+10
+Componentes do SISAN
+
+»
+4
+
+Conferência Nacional de Segurança Alimentar (CNSAN): Constitui-se
+em uma importante referência no processo de implementação da
+Política Nacional de Segurança Alimentar e Nutricional — PNSAN.
+Responsável pela indicação ao Conselho Nacional de Segurança
+Alimentar e Nutricional (CONSEA) e à Câmara Interministerial de
+Segurança Alimentar e Nutricional (CAISAN) das diretrizes e prioridades
+da Política e do Plano Nacional de SAN, é um processo que inclui as
+Conferências Estaduais, Distrital e Municipais, nas quais são escolhidos
+os delegados para o encontro nacional. Envolve mobilização social,
+construção de conhecimento e proposição de prioridades para a agenda
+nacional.
+
+Tem periodicidade não superior a 4 (quatro anos) com representação de
+1/3 de delegados do govemo e 2/3 de delegados da sociedade civil.
+Desde 1994, foram realizadas quatro Conferências Nacionais — em
+1994, 2004, 2007 e 2011 — convocadas pelo CONSEA, nas quais foram
+propostas, ao Poder Executivo Federal, diretrizes e prioridades para a
+PNSAN.
+
+Importante destacar que a cada 2 anos, entre as Conferências, ocorre a
+realização de Encontros Nacionais com o objetivo de monitorar se as
+propostas da Conferência Nacional foram incorporadas nas ações de
+governo. Com metodologia inovadora, também aponta ajustes e
+aperfeiçoamento para o Plano Nacional.
+
+Conselho Nacional de Segurança Alimentar e Nutricional
+(CONSEA): Instância colegiada do SISAN responsável pela articulação
+entre o governo e a sociedade civil nas questões relacionadas a SAN.
+Diferentemente de outros conselhos de políticas públicas, o CONSEA
+tem caráter consultivo, cujas deliberações são propositivas, e assessora
+o Presidente da República na formulação das políticas e nas orientações
+para que o país garanta o DHAA.
+
+Foi (re) instituído no dia 30 de janeiro de 2003 e conforme disposto no
+Decreto 6.272, de 23 de novembro de 2007, é formado por 2/3 (dois
+terços) de representantes da sociedade civil organizada e 1/3 (um terço)
+de representantes do Governo Federal, além de observadores
+
+11
+convidados. Sempre presidido por um integrante da sociedade civil,
+indicado pelo colegiado de conselheiros, sua atuação é considerada
+serviço de relevante interesse público e não remunerada.
+
+Tem como atribuição principal a proposição ao Executivo Federal,
+considerando as deliberações da CNSAN, das diretrizes e prioridades da
+política e do plano nacional de SAN, incluindo-se os requisitos
+orçamentários para sua consecução. Além disso, é responsável por
+convocar a CNSAN, assim como definir seus parâmetros de
+composição, organização e funcionamento (BRASIL, 2006).
+
+“ Câmara Interministerial de Segurança Alimentar e Nutricional
+(CAISAN): Corresponde a uma instância de coordenação horizontal e
+vertical, sendo uma novidade na ousada estrutura do SISAN. Foi
+instituída pelo Decreto 6.273, de 23 de novembro de 2007 e iniciou seus
+trabalhos em 10 de abril de 2008. Formada por Ministros de Estado e
+Secretários Especiais, tem o objetivo de articular ações e programas de
+governo a partir das proposições advindas do CONSEA, de acordo com
+as diretrizes que surgem das Conferências Nacionais de SAN.
+
+Compõem a CAISAN 19 (dezenove) órgãos federais, os mesmos que
+participam do CONSEA, sob a coordenação do Secretário-Geral do
+CONSEA, cargo exercido pelo titular do Ministério do Desenvolvimento
+Social e Combate à Fome (MDS). Esse colegiado tem a prerrogativa de
+elaborar a Política Nacional de SAN, indicando as suas diretrizes e o
+Plano Nacional de Segurança Alimentar e Nutricional (PLANSAN),
+indicando metas, fontes de recursos e instrumentos de
+acompanhamento, monitoramento e avaliação de sua execução.
+
+A CAISAN é o principal lócus de discussão da política e do plano de SAN
+dentro do governo. É uma instância colegiada de articulação e coordenação intra e
+intergovernamental dos diversos setores envolvidos com a SAN no nível federal,
+estadual e municipal. Dentro da arquitetura organizacional do governo federal, a gestão
+da CAISAN é exercida por sua Secretaria Executiva (SE), que se insere dentro do
+MDS, na Secretaria Nacional de Segurança Alimentar e Nutricional (SESAN), com
+status de Departamento.
+
+Segundo o Decreto 7.272/2010, esta estrutura no âmbito federal deve ser
+replicada nos entes subnacionais (estados, Distrito Federal e municípios), permitindo a
+
+12
+articulação entre os três níveis de governo, o que ocorreria por meio da instituição de
+instâncias de pactuação bipartites (estados com seus municípios) e tripartite (União,
+estados/Distrito Federal e municípios), na perspectiva de formulação, execução,
+monitoramento e avaliação da Política Nacional de Segurança Alimentar e Nutricional
+(PNSAN) e dos Planos Nacional, Estaduais/Distrital e Municipais de Segurança
+Alimentar e Nutricional.
+
+  
+ 
+ 
+   
+
+CONFERÊNCIA NACIONAL
+CONSEA 3 CAISAN
+SOCIEDADE CIVIL+GOVERNO SETORES DE GOVERNO
+(Locus: Presidência da República) (Locus; Minitério do Desenvolvimento Social)
+
+POLÍTICA E PLANO NACIONAL DE SAN
+
+ 
+    
+   
+
+   
+
+1
+Y
+CONFERÊNCIA ESTADUAL
+
+CONSELHO ESTADUAL | E | CÂMARA INTERSETORIAL
+
+POLÍTICA E PLANO ESTADUAL DE SAN
+1
+
+1
+Y
+CONFERÊNCIA MUNICIPAL
+
+CONSELHO MUNICIPAL E CÂMARA INTERSETORIAL
+
+POLÍTICA E PLANO MUNICIPAL DE SAN
+
+   
+
+ILLHVARL ANHQI
+
+ILLHVAIS ANHOS
+
+Figura 1.2. Componentes do Sistema de Segurança Alimentar e Nutricional nos três
+níveis de governo (modificado de LEÃO e MALUF, 2012)
+
+Outra novidade que está prevista, mas ainda não foi devidamente
+regulamentada, é a participação de instituições privadas, com ou sem fins lucrativos,
+no SISAN, desde que manifestem interesse na adesão e que respeitem os critérios,
+princípios e diretrizes do sistema.
+
+13
+A estruturação do SISAN é um processo muito recente e depende da adesão
+voluntária de estados e municípios e, principalmente, dos mecanismos de integração
+entre estas esferas verticais e diferentes instâncias horizontais. Na medida em que as
+tais instâncias avançarem no mecanismo de coordenação, o sistema ganhará,
+gradativamente maior consistência e coerência e será possível formular e implementar
+ações e programas mais integrados.
+
+O financiamento da SAN no Brasil é central e, se não devidamente
+regulamentado, pode colocar em xeque a implementação da estrutura do SISAN ora
+apresentada. O Artigo 14 do Decreto 7.272/2010 menciona que “o financiamento da
+PNSAN será de responsabilidade do Poder Executivo Federal, assim como dos
+Estados, Distrito Federal e Municípios que aderirem ao SISAN e se dividirá em
+dotações orçamentárias de cada ente federado destinadas aos diversos setores que
+compõem a segurança alimentar e nutricional; e em recursos específicos para gestão e
+manutenção do SISAN, consignados nas respectivas leis orçamentárias anuais”.
+
+Em relação aos tipos de financiamento destacados pelo normativo jurídico, as
+dotações orçamentárias para programas e ações são aquelas definidas de forma
+setorial e sobre as quais a CAISAN tem papel mais propositivo. Já os recursos
+específicos para a gestão do sistema parece ser um dos maiores desafios para a sua
+consolidação. Não existe, ainda, uma regulamentação que garanta recursos para a
+manutenção dos componentes do SISAN no nível nacional e nos níveis subnacionais.
+
+O grande desafio do formato do financiamento vigente no Estado brasileiro é
+romper a barreira da lógica setorial e construir um orçamento baseado na
+intersetorialidade e considerando as diferentes realidades dos entes federativos. Para
+que isso é necessário investir em novas formas de governança ou estrutura
+administrativa estatal que dê conta dessa complexidade. O SISAN constitui-se em uma
+nova forma de governança, cujo financiamento passa necessariamente pelo
+fortalecimento de suas instâncias.
+
+14
+1,4, O Plano Nacional de Segurança Alimentar e Nutricional como instrumento
+
+de articulação e implementação da PNSAN
+
+De acordo com o Decreto nº 7.272/2010, em seu artigo 8º, o Plano Nacional de
+Segurança Alimentar e Nutricional (PLANSAN), é o principal instrumento de
+
+planejamento, gestão e execução da PNSAN.
+
+A CAISAN elaborou e instituiu o primeiro Plano de SAN, o PLANSAN 2012-
+2015, por meio da resolução nº 01 de 30 de abril de 2012, à partir das diretrizes da
+PNSAN e com a participação da sociedade civil representada pelo Consea, que
+compreende 42 objetivos e 331 metas voltadas para o acesso à alimentação e à água,
+a produção, o fortalecimento da agricultura familiar, o abastecimento alimentar e a
+
+promoção da alimentação saudável e adequada.
+
+O PLANSAN, de acordo com o artigo 19 do Decreto nº 7.272/2010, tem
+periodicidade quadrienal com vigência correspondente ao Plano Plurianual (PPA). Com
+relação ao alinhamento dos dois planos de governo, de acordo com dados do Sistema
+de Monitoramento do PLANSAN (SISPLANSAN), 70% das metas do PLANSAN
+correspondem a metas que estão no PPA 2012-2015 e as demais (30%) não possuem
+qualquer relação com metas e objetivos do referido PPA.
+
+Os programas dispostos no PLANSAN abarcam todas as dimensões da SAN e
+está organizado segundo as diretrizes da PNSAN. As metas estão relacionadas a:
+
+“ Oferta de alimentos a pessoas em situação de vulnerabilidade alimentar;
+“ Transferência de renda;
+
+“ Educação Alimentar e Nutricional;
+
+“ Fortalecimento da agricultura familiar;
+
+* Acesso a terra considerando Povos Indígenas, Quilombolas e demais
+
+Povos e Comunidades Tradicionais (PCT);
+* Conservação, manejo e uso sustentável da agrobiodiversidade;
+* Alimentação e nutrição para a saúde;
+
+* Vigilância sanitária;
+
+15
+* Acesso à água de qualidade para consumo e produção;
+* Assistência humanitária e cooperação internacional em SAN.
+
+Um plano que considera as dimensões da SAN porsi só já é bastante complexo
+e possui enormes desafios para sua implementação. Seu caráter intersetorial, no mais
+alto grau, demonstra que uma nova forma de gestão deve ser pensada e colocada em
+prática. É um projeto de governo diferenciado e muito ambicioso, contudo com alto
+grau de legitimidade. Além de dar conta das diferentes dimensões contidas no conceito
+da SAN, foi elaborado de forma participativa entre governo e sociedade civil.
+
+16
+CAPÍTULO 2 A GESTÃO INTERSETORIAL NA TEMÁTICA DA SEGURANÇA
+ALIMENTAR E NUTRICIONAL
+
+2.1. Segurança Alimentar e Nutricional: Conceito e dimensões
+
+A Segurança Alimentar e Nutricional (SAN) é uma temática que perpassa as
+ações governamentais de vários países desde meados do século XX, como resultado
+de uma agenda internacional na qual a Organização das Nações Unidas para a
+Agricultura e Nutrição (FAO) teve papel relevante. Instituída em 1945, após o final da Il
+Grande Guerra Mundial, foi um ator importante na discussão de planos relacionados a
+alimentos e agricultura no bojo da reconstrução posterior ao final do conflito (MALUF,
+2011).
+
+No Brasil, a partir da década de 1940, a fome passou a assumir importância
+pelo pioneirismo de Josué de Castro?, que abordou a temática não apenas pela
+ausência de alimentos ligada à agricultura e abastecimento, mas por seu caráter
+político, de responsabilidade dos governos. A partir da década de 1980, após diversas
+iniciativas para o equacionamento da capacidade produtiva da agricultura, passou a ter
+grande relevância a perda do poder aquisitivo dos salários, sendo esta uma das novas
+variáveis explicativas para a ocorrência do fenômeno da fome (TAKAGI, 2006).
+
+Diante desse contexto, a SAN, de forma gradual, assumiu seu lugar nas
+discussões dada a necessidade do equacionamento do problema da fome. Avalia-se
+que a introdução do conceito no país tenha ocorrido em 1985, a partir de um
+documento para uma política de abastecimento do Ministério da Agricultura (MALUF,
+MENEZES & VALENTE, 1996).
+
+Já na primeira metade da década de 1990, uma série de outras iniciativas
+serviu como marco para construção da Política de SAN no país. A formulação de uma
+proposta de caráter de política nacional ocorreu com o lançamento do documento
+“Política Nacional de Segurança Alimentar”, em 1991, por meio do Governo Paralelo”.
+
+A preocupação era pensar em ações para o acesso aos alimentos complementando o
+
+3 CASTRO,). Geografia da Fome: o dilema brasileiro: pão ou aço. 7a ed. Rio de J aneiro: Gryphus Editora,
+1961.
+
+* O Governo Paralelo, coordenado pelo grupo que atuou na campanha de Luiz Inácio Lula da Silva, em
+1989, foi criado para acompanhar e fiscalizar a gestão do Presidente eleito Fernando Collor de Mello.
+
+17
+outro lado correspondente às políticas agrícolas e agrárias voltadas para a oferta de
+alimentos (TAKAGI, 2006).
+
+Entre 1993 e início da década de 2000, a temática da SAN não teve prioridade
+na agenda governamental. No entanto, existiam várias iniciativas dentro da sociedade
+civil organizada que mantinha aquecido o debate sobre a SAN. A mobilização
+voluntária permaneceu acesa com a Ação da Cidadania contra a Fome, a Miséria e
+pela Vida e pelo Comitê de Entidades Públicas no Combate à Fome e pela Vida
+(COEP) (TAKAGI, 2006).
+
+Em 1996, foi realizada a Cúpula Mundial da Alimentação em Roma. Nessa
+ocasião, na preparação da delegação brasileira, foi constituído um grupo de trabalho,
+composto de representantes dos ministérios e da sociedade civil (incluindo o setor
+empresarial), para elaborar o documento oficial brasileiro. Decorrente deste processo,
+teve grande destaque a criação, em novembro de 1998, do Fórum Brasileiro de
+Segurança Alimentar e Nutricional (FBSAN), com cerca de 40 representantes de
+organizações e entidades da sociedade civil, visando promover a articulação das ações
+da sociedade brasileira no combate à fome e à miséria (TAKAGI, 2006).
+
+Em 2003, com a nova instituição do Conselho Nacional de Segurança Alimentar
+e Nutricional (CONSEA) e a criação do Ministério Extraordinário de Segurança
+Alimentar e Combate à Fome (MESA), a pauta do combate à fome incorporou a
+responsabilidade de enfrentar suas causas e assim organizar, em nível institucional,
+uma política mais ampla para a garantia do direito humano à alimentação adequada
+(PINHEIRO, 2009).
+
+Embora o combate à fome e a desnutrição tenham sido questões condutoras da
+inserção da SAN na agenda governamental, é importante identificar o que a literatura
+coloca a respeito da SAN e a natureza polissêmica do conceito que, ao mesmo tempo,
+dá conta de um conjunto de conteúdos comuns a distintas áreas do conhecimento e
+com graus diversos de relação com a noção de alimentos e alimentação (GOMES
+JUNIOR, 2007).
+
+Para o senso comum, a noção de SAN fica restrita ao caráter emergencial,
+sempre associado à manifestação mais imediata da pobreza, ou seja, a restrição física
+de acesso aos alimentos. Entretanto, para Gomes Junior (2007) a
+multidimensionalidade da Segurança Alimentar e Nutricional corresponde a algo que
+supera os limites do emergencial, definido como garantia de acesso aos mínimos de
+
+18
+subsistência, suficientes para a superação dos riscos envolvendo a sobrevivência
+
+biológica dos indivíduos.
+
+A reafirmação da importância da garantia de acesso suficiente, regular e estável
+aos alimentos descarta concepções do plano emergencial. Nesse ponto, a definição
+dada pela Lei 11.346, de 15 de setembro de 2006 - Lei Orgânica da Segurança
+Alimentar (LOSAN) - cria uma nova institucionalidade, dentro de uma perspectiva
+sistêmica, que exige a articulação das políticas econômicas, sociais e ambientais como
+condição essencial para a promoção da Segurança Alimentar. Não se trata, pois,
+apenas de mitigar a fome e reduzir a miséria:
+
+“A segurança alimentar e nutricional consiste na realização do direito de todos
+ao acesso regular e permanente a alimentos de qualidade, em quantidade suficiente,
+sem comprometer o acesso a outras necessidades essenciais, tendo como base
+práticas alimentares promotoras de saúde que respeitem a diversidade cultural e que
+
+sejam ambiental, cultural, econômica e socialmente sustentáveis.” (BRASIL, 2006).
+
+Seguindo esse conceito construído no Brasil, o objetivo da SAN converte-se
+num dos eixos ordenadores das estratégias de desenvolvimento do país, sugerindo
+formas mais equitativas e sustentáveis de produzir e comercializar os alimentos,
+questionando o padrão de consumo alimentar e requalificando as ações dirigidas para
+os grupos sociais mais vulneráveis à fome, à desnutrição e aos demais problemas
+nutricionais. Portanto, há uma difícil tarefa de associar dinamismo econômico,
+promoção de equidade social e melhoria sustentável da qualidade de vida
+(BURLANDY; MAGALHÃES; MALUF, 2006).
+
+Com efeito, a complexidade do conceito de segurança alimentar e nutricional
+implica na análise de outras dimensões, para além da condição nutricional e da
+disponibilidade de alimentos. O acesso a uma alimentação adequada, em todas as
+culturas, constitui-se em uma experiência que transpassa o biológico, sendo uma
+construção cultural, simbólica, referenciada pelos diferentes perfis de consumo
+compartilhado em cada sociedade que criam expectativas e valores em torno deste
+processo (BURLANDY, 2007).
+
+A proposta de Gross et al (2000) apresenta um modelo visando a uma
+compreensão integral do conceito de SAN definido pela LOSAN. No esquema
+apresentado na figura 2.1, o marco conceitual de SAN está ancorado em quatro
+
+dimensões específicas: disponibilidade do alimento, acesso físico e econômico aos
+
+19
+alimentos, utilização dos nutrientes e, por fim, estabilidade de disponibilidade, acesso e
+utilização do alimento.
+
+DISPONIBILIDADE ACESSIBILIDADE UTILIZAÇÃO
+
+q q
+
+ESTADO NUTRICIONAL
+
+AÇÕES ARTICULADAS
+
+Figura 2.1. Marco conceitual da SAN (Modificado de GROSS et al, 2000).
+
+ESTABILIDADE
+
+Para que a SAN se concretize, é necessário, em primeiro lugar, garantir a
+disponibilidade de alimentos suficientes para toda a população. Essa dimensão
+envolve condições de produção suficiente, incluindo o acesso à terra, importações,
+sistemas de armazenamento e distribuição.
+
+A segunda dimensão, acesso aos alimentos, se dá na medida em que todos
+têm a capacidade de obter alimentos em quantidade suficiente, de qualidade
+nutricional adequada, aceitabilidade cultural e obtidos de forma social e
+ambientalmente aceitáveis. Dessa forma, a abordagem é bastante complexa, pois
+envolve renda, preços, despesas com alimentação e sua priorização dentro do
+orçamento familiar, entre outros.
+
+A dimensão da utilização dos nutrientes refere-se ao efetivo aproveitamento
+biológico dos alimentos, influenciado pelas condições de saúde das pessoas.
+Considera-se, ainda, a segurança microbiológica do alimento, bem como condições
+adequadas de saneamento. Gross et al (2000) ainda menciona que não pode ser
+esquecido o papel social da alimentação na família e na sociedade e que as escolhas e
+hábitos alimentares incidem diretamente nessa dimensão.
+
+20
+A estabilidade corresponde à dimensão temporal das três dimensões citadas
+
+anteriormente. A incorporação da estabilidade no conceito refere-se ao aspecto da
+
+sustentabilidade social, econômica, cultural e ambiental disposto na definição legal de
+
+SAN.
+
+Associado às quatro dimensões presentes no conceito de SAN, é possível,
+
+ainda, identificar um componente transversal, que se refere à situação sócio-
+
+organizacional, caracterizada em três níveis: micro, mais imediato - nível domiciliar ou
+
+individual; meso - comunidade ou região; e macro - país e contexto mundial.
+
+Kepple (2010), a partir do modelo proposto por Gross et al (2000), elaborou um
+
+quadro, no qual estão incluídos os determinantes da SAN de acordo com as quatro
+
+dimensões da SAN e os três níveis sócio-organizacionais.
+
+Quadro 2.1. Determinantes da SAN categorizados a partir do cruzamento das quatro
+
+dimensões da SAN com os três níveis sócio-organizacionais (KEPPLE, 2010).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nível Disponibilidade Acesso Utilização Estabilidade
+Políticas agrícolas - Apoio à agricultura Políticas nacionais | Mecanismos
+incentivos e subsídios familiar de saneamento internacionais e
+
+básico e vigilância nacionais para
+Competição com Geração de renda sanitária manter
+atividades agrícolas não estabilidade
+alimentares Políticas econômicas, Políticas de econômica
+Macro sociais e assistenciais | educação alimentar
+Preços no mercado e nutricional Leis trabalhistas
+internacional Preços internos Políticas de saúde
+Sustentabilidade
+Desastres ambientais e social, econômica
+guerras e ambiental de
+políticas
+Inserção na rede de Emprego e salários Saneamento Crescimento do
+distribuição de básico e vigilância mercado de
+alimentos - transporte Preços dos alimentos sanitária emprego formal
+e de outras
+Produção local necessidades básicas | Disponibilidade de Disponibilidade de
+serviços de saúde creche
+Meso
+Educação Variabilidade
+alimentar e climática
+nutricional
+Flutuações de
+preço
+Proximidade aos pontos | Renda/estabilidade Saúde dos Emprego formal
+de venda de alimentos e | financeira moradores
+abastecimento dos Seguro
+mesmos Inserção numa rede Práticas de higiene | desemprego
+social
+Micro Produção para o o Acesso ao o Capacidade de
+autoconsumo Participação em saneamento básico | armazenar
+programas da e água potável alimentos
+
+ 
+
+ 
+
+assistência social
+
+ 
+
+Educação
+alimentar e
+nutricional
+
+ 
+
+Vagas na creche
+
+ 
+
+ 
+
+21
+O quadro representa o amplo escopo da SAN e reforça que essa temática não
+fica restrita a apenas questões emergenciais, como se pensava no passado, ou ainda
+a apenas uma questão de produção de alimentos. O aumento da produção de
+alimentos é apenas uma das condições para satisfazer as necessidades dos
+indivíduos. No entanto, não permitirá um significativo progresso na erradicação da
+fome e da desnutrição e do consequente alcance de plenas condições de SAN se não
+forem combinadas medidas de garantia de renda e melhores condições de vida, por
+meio de acesso a serviços básicos de qualidade a toda a população, especialmente a
+mais vulnerável.
+
+A adoção dessa abordagem é justificada por uma razão de escala e por outra
+ligada ao fenômeno dos encadeamentos. A questão alimentar se manifesta em
+distintas escalas — desde os indivíduos e domicílios até os âmbitos nacional e global —
+as quais interagem entre si em diversos aspectos, dando origem a relações de
+condicionamento e de determinação entre elas. A condição alimentar dos indivíduos é
+afetada por fatores de ordem geral que condicionam a evolução do emprego e da
+renda, enquanto que a condição alimentar da população de um país pode ser alterada
+como resultado das ações desenvolvidas, localmente, junto aos indivíduos e às
+famílias (BURLANDY; MAGALHÃES; MALUF, 2006).
+
+Para Kepple e Segall-Corrêa (2011), a definição do conceito da SAN, no Brasil,
+representa um desafio para sua abordagem, especialmente levando em consideração
+que cada área do conhecimento envolvida, como economia, direito, agricultura,
+educação, saúde, nutrição, assistência social, sociologia, antropologia e psicologia,
+entre outras, tem sua própria perspectiva e expectativa na compreensão e utilização
+desse conceito, o que equivale a dizer que tem um marco teórico particular. Entretanto,
+esses marcos conceituais e disciplinares, bem como seus indicadores, tomados
+isoladamente, não são suficientes para a compreensão integral do problema.
+
+22
+2.2. Intersetorialidade
+
+De acordo com a literatura recente, o tema da intersetorialidade emerge na
+agenda pública, muito mais como retórica do que como uma ação que se vê na prática
+dos gestores (CUNILL GRAU, 2005). Tem sido apropriada por diversos atores no
+governo e fora dele de forma rápida, mas um pouco imprecisa, sem a clareza suficiente
+que sua concepção reguer.
+
+Contudo, Bronzo (2007) coloca que há suficiente consenso em relação ao
+conceito e que este acena para um conjunto de inovações no âmbito da gestão
+pública, em um contexto no qual os sistemas técnicos especializados e as estruturas
+fortemente hierarquizadas, setorializadas e verticais são confrontados com novos
+objetivos e demandas políticas e sociais, novas temáticas e problemas de segmentos
+específicos da população, que exigem uma remodelagem das velhas estruturas
+organizacionais, novas respostas das quais a intersetorialidade é uma das alternativas
+possíveis.
+
+De fato, há um processo de mudança em curso que aponta modelos de gestão
+de políticas públicas pautados pela intersetorialidade. Por outro lado, é uma temática
+ainda pouco explorada pela literatura, principalmente quando se observa a ausência de
+trabalhos empíricos sobre o tema.
+
+Ao longo de vários anos, os governos têm passado por inúmeras reformas e
+reorganização de suas estruturas administrativas com o objetivo de constituição de
+espaços de articulação. Isso demonstra que há o imperativo de busca por novos
+formatos e estruturas de governança que incorporem a complexidade dos problemas
+sociais (PETERS, 2005).
+
+Os problemas sociais transpõem os limites setoriais impostos pela estrutura
+administrativa do Estado e necessitam de uma atuação integrada e articulada capaz de
+reconhecer efetivamente o indivíduo como titular de direitos e, portanto, não segmentá-
+lo. A integração entre os setores dentro do governo federal, deste com os demais entes
+subnacionais e do governo como um todo com a sociedade civil constitui-se em uma
+árdua tarefa eivada de intensos conflitos de interesses.
+
+A necessidade de promover o desenvolvimento social e reduzir a exclusão
+implica uma ação para a qual o atual modelo do aparato do governo, que planeja,
+regula, realiza e avalia de acordo com os velhos paradigmas, tem-se mostrado
+inadequado (INOJOSA, 1998).
+
+23
+Realizar um projeto que articule vários setores e atores demanda a mudança de
+práticas e padrões da cultura organizacional das instituições públicas gestoras da
+política, a criação de novos arranjos político-institucionais, conceito cunhado por
+Gomide e Pires (2013), caracterizado como “o conjunto de regras, organizações e
+processos que definem a forma de coordenação de atores e interesses em torno de
+uma política pública.” (GOMIDE e PIRES, 2013).
+
+Além disso, não se pode desconsiderar na proposta de um novo modelo de
+gestão intersetorial a singular e forte estrutura federativa brasileira sabendo que o
+modelo federativo, bastante estudado pela literatura, enfrenta desafios robustos. “A
+combinação entre, de um lado, a estratégia de descentralização dos sistemas públicos
+e das políticas nacionais e a necessidade de dotar os municípios de recursos
+necessários à execução de ações abre uma nova vertente do desenho federalista
+brasileiro” (LASSANCE, 2012).
+
+Não parece haver outra forma mais adequada de utilizar instrumentos de
+planejamento público sem levar em conta a necessidade de construção de arranjos
+federativos em que as ações e os recursos federais, estaduais e municipais atuem de
+maneira cooperativa ou compartilhada. Somente assim, os esforços empenhados no
+desenho e na implementação de políticas públicas podem ser potencializados,
+reduzindo-se as sobreposições e fragmentações nas ações entre os entes federados
+(LINHARES; MENDES; LASSANCE, 2012).
+
+Um componente imprescindível para a análise das políticas públicas quanto à
+capacidade de integração é que o sucesso dessas políticas num Estado federativo
+depende da capacidade de instaurar mecanismos de controle mútuo e de
+coordenação entre os níveis de governo (ABRUCIO e FRANZESE, 2007, grifo meu).
+
+A autonomia dos entes federativos — aliada, no caso brasileiro, a um vasto rol
+de competências compartilhadas, por determinação constitucional — possibilita que
+União, Estados e Municípios se omitam diante de uma questão e a população
+permaneça sem uma ação governamental. Isto é, tem-se um processo não
+transparente e de responsabilização difusa, que possibilita que cada esfera de governo
+culpe a outra pelo problema, sem que nenhuma ação efetiva seja tomada (ABRUCIO e
+FRANZESI, 2007). Isso é um problema que deve ser levado em consideração para o
+alcance de integração na PNSAN e em outras políticas intersetoriais.
+
+Outra possibilidade, de ocorrência frequente, é a efetivação, nas diferentes
+esferas de governo, ao mesmo tempo, de iniciativas de políticas públicas sem
+
+24
+nenhuma integração, ou até mesmo em direções opostas. Esta prática faz com que os
+recursos públicos de cada ente federativo sejam aplicados isoladamente, atacando de
+maneira sobreposta praticamente os mesmos problemas (ABRUCIO e FRANZESI,
+2007). O desafio é encontrar caminhos que permitam a melhor adequação entre
+competição e cooperação entre os entes federados (ABRUCIO, 2005, grifo meu).
+
+Dessa forma, a abordagem intersetorial dos problemas de determinado grupo
+populacional reconhece que é necessário moldar a ação governamental por um novo
+paradigma, de modo a promover a inclusão dos grupos alijados dos mínimos sociais e
+de elevar os padrões de qualidade de vida (INOJ OSA, 1998).
+
+Azevedo (2003) menciona que a intersetorialidade apresenta dificuldades no
+que se refere à crescente especialização do poder público e a tendência de
+maximização do desempenho de cada um dos órgãos do setor estatal. Acrescente-se,
+ainda, a forma de planejamento governamental segmentada e a disputa na alocação
+de recursos orçamentários em nível nacional, regional e local.
+
+Segundo Knopp e Alcoforado (2010) as políticas públicas contemporâneas
+requerem uma nova governança para fornecerem respostas efetivas aos problemas
+sociais concretos, que se tornam cada vez mais complexos. Os autores entendem que
+uma nova governança se processa com novos arranjos institucionais baseados na
+intersetorialidade, que envolvam a cooperação e a atuação conjunta e concertada de
+
+atores públicos e privados.
+
+As relações intersetoriais têm o potencial de promover mais eficácia às políticas
+públicas formuladas para a sociedade como um todo, principalmente quando se lida
+com problemas complexos (wicked problems), conceito trabalhado por Head e Alford
+(2001) para indicar um determinado tipo de problema persistente, cuja característica é
+de alta especificidade, não existindo uma única organização ou pessoa que consiga
+transacionar o seu objeto de resolução.
+
+De fato, wicked problems não são passíveis de resolução apenas por meio da
+intervenção governamental isolada. Ao enfrentá-los é natural que diferenças de valores
+e de perspectivas se imponham de tal modo que uma decisão clara e consensual seja
+difícil de ser alcançada pelos atores e instituições envolvidos.
+
+Inojosa (2001), ao abordar a intersetorialidade, cita a complexidade do conceito
+pelo fato de lidar com a diversidade. Nesse sentido, é preciso superar a fragmentação,
+já que as clausuras setoriais não dão conta de enxergar a diversidade.
+
+25
+Junqueira (2001) discorre sobre a ação intersetorial como sendo um processo
+de aprendizagem e de determinação dos sujeitos, que deve resultar em uma gestão
+integrada, capaz de responder com eficácia à solução dos problemas da população de
+um determinado território, saindo, entretanto, do âmbito da necessidade para o da
+liberdade. “O homem é considerado na sua integralidade, superando a autonomização
+e a fragmentação que têm caracterizado a gestão das políticas sociais para uma
+dimensão intersetorial.” (| UNQUEIRA, 2001).
+
+Seguindo essa lógica, Draibe (1998) coloca que a setorialização estaria então
+diretamente associada à baixa eficiência da ação estatal na resolutividade de
+problemas complexos por gerar falta de articulação entre as políticas sociais,
+superposições de objetivos e de competências, e, principalmente de públicos-alvo. A
+pesquisadora conclui que cada setor busca respostas diferentes aos mesmos
+problemas enfrentados por outros setores e que atuam sobre a mesma população
+específica.
+
+A intersetorialidade pode ser considerada como um método ou modelo de
+gestão de políticas públicas que se baseia na contratualização de relações entre
+diferentes setores de diferentes níveis de governo, onde responsabilidades, metas e
+recursos são compartilhados, compatibilizando uma relação de respeito à autonomia
+de cada setor, mas também de interdependência (NAVARRO, 2011). Pode se
+desenvolver por meio de uma nova modelagem administrativa ou estratégias de gestão
+
+articuladas.
+
+Na SAN e mais especificamente na Política Nacional de SAN , que tem como
+modelo de gestão a intersetorialidade, as características descritas anteriormente
+podem aparecer de forma mais acentuada, considerando, a grande diversidade de
+atores de diferentes setores envolvidos, a diversidade de arenas de discussão e
+negociação, e, ainda a inevitável interdependência das ações entre os setores e
+também entre os entes subnacionais. Tudo isso exige um esforço de coordenação e de
+
+grandes entraves no aparato governamental do Estado.
+
+A inserção da SAN em cada política setorial implica numa mudança de lógica
+de atuação e na revisão de valores sociais, que impõe necessariamente o diálogo
+entre os diversos setores envolvidos. Impõe, antes de tudo um questionamento das
+próprias contradições da sociedade que se expressam nos objetivos setoriais mais
+específicos e que fazem com que muitas vezes as ações de determinados setores
+
+26
+amortizem ou mesmo anulem o impacto dos demais (BURLANDY; MAGALHÃES;
+MALUF, 2006).
+
+Por ser uma política intersetorial, a SAN contempla diferentes objetivos e per se
+sua concepção traz um de seus maiores desafios: A resistência dos diferentes setores
+do governo nacional e dos entes subnacionais atuarem de forma integrada na
+implementação da política, compartilhando recursos, metas e desenvolvendo
+
+estratégias conjuntamente a partir de troca de experiências.
+
+O formato setorial predominante não prevê essa dinâmica de relações, embora
+tenha a intersetorialidade como princípio. Pelo contrário, a excessiva e progressiva
+especialização setorial e a verticalização tornam políticas públicas multissetoriais e
+interescalares ineficientes (TAKAGI, 2006). Estas fronteiras artificiais não refletem nem
+a lógica, nem a complexa dinâmica dos problemas encontrados na sociedade, como é
+
+o caso da fome (mais alto grau de insegurança alimentar) e da pobreza.
+
+A participação da sociedade civil no processo de formulação e implementação
+da PNSAN é outra característica relevante da intersetorialidade no contexto do
+desenho participativo das políticas públicas no Brasil e confere à política caráter de
+legitimidade. Abarca à estrutura institucional e organizacional certo grau de
+complexidade, havendo a necessidade de se coordenar atores governamentais e
+societais, como também os interesses que permeiam a política pública.
+
+Para Gomide e Pires (2012), a capacidade técnico-administrativa do Estado é
+um dos fatores que influenciam na avaliação do desempenho governamental, mas eles
+incluem pelo menos uma dimensão que teria interferência direta na performance do
+governo e com isso no alcance da intersetorialidade: a societal-participativa.
+
+Essencial à PNSAN, a dimensão societal-participativa diz respeito ao controle
+social nos processos de formulação e gestão das políticas públicas, seja ele formal ou
+informal. Para J unqueira (2001) esses processos ganham consistência e legitimidade
+quando as necessidades dos grupos populacionais que se distribuem em um território
+articulam soluções intersetoriais. A população passa a ser considerada como sujeito e
+não como objeto de intervenção. Ela passa a assumir um papel ativo, colaborando na
+identificação dos problemas e na sua solução. “Há uma mudança na lógica da política
+social, que sai da visão da carência, da solução de necessidades, para aquela dos
+direitos dos cidadãos a uma vida digna e com qualidade.” (] UNQUEIRA, 2001).
+
+27
+Inojosa (1998) reforça que a estrutura governamental modelada segundo a
+lógica intersetorial se apresenta como mais permeável à participação do cidadão, tanto
+no planejamento quanto na avaliação, já que suas necessidades e demandas podem
+ser expressas tal como existem no mundo real, intrinsecamente interligadas .
+
+“A intersetorialidade é tarefa desafiadora que exige a confluência de distintos
+mecanismos, processos e instrumentos institucionais. O balanço entre a autonomia
+dos subsistemas e sua integração é especialmente complexo no campo da SAN. Por
+ser uma política suprassetorial, inclui ações e subsistemas com estruturas
+institucionais próprias e robustas, e também de políticas setoriais.” (BURLANDY, 2009,
+
+grifo meu).
+
+28
+2.3. A Fragmentação das Políticas Públicas
+
+Em um primeiro momento, o fenômeno da fragmentação das políticas públicas
+pode ser caracterizado como um dos fatores que levam à ineficiência de determinada
+política. No entanto, características e explicações para as causas de tal fenômeno
+carecem de um referencial teórico metodológico específico.
+
+Uma teoria da fragmentação de políticas públicas poderia ajudar a identificar
+fatores e condições sob os quais as políticas públicas, especificamente a Política
+Nacional de Segurança Alimentar e Nutricional, podem se tornar mais eficientes,
+eficazes e efetivas. Martins (2003) coloca que, a partir da aplicação do modelo de
+análise, procura-se, ao final, identificar a “melhor estrutura que potencialmente
+promove os melhores resultados” — o que implica estruturas e resultados ótimos ou
+satisfatórios, e não a suposição de que exista uma única melhor estrutura (Martins,
+2003, grifos do autor).
+
+Segundo o autor, uma teoria da fragmentação de políticas propõe que a
+fragmentação, definida como a perda de coerência, consistência e coordenação nas
+políticas de um mesmo subsistema e entre diversos subsistemas, é um resultado
+indesejado associado a elementos estruturais dos processos de formulação e
+
+implementação de políticas.
+
+As competições se estabelecem pela superposição de autoridades sobre as
+mesmas áreas de produção de um bem ou serviço. O conflito surge quando a
+organização com jurisdição sobreposta discorda da política da outra (ou das demais),
+situação que leva a uma “quase-solução” (MARTINS 2003, grifo do autor). Quanto
+mais abrangentes forem os objetivos e a quantidade de organizações envolvidas, mais
+difusa será a autoridade do formulador.
+
+Este trabalho está ancorado na análise de três categorias contidas no conceito
+de fragmentação elaborado por Martins (2003) que, ausentes em maior ou em menor
+grau, definem a fragmentação de políticas públicas. Nesse sentido, faz-se necessário
+conceituá-las:
+
+“ Coordenação: Diz respeito ao processo formal de formulação e
+implementação de políticas conduzido de dentro do aparato
+governamental. Significa fazer com que os diversos sistemas
+
+29
+institucionais e gerenciais que formulam e implementam políticas
+trabalhem juntos de forma congruente (OCDE, 2003).
+
+* Consistência: Processo que garante que os objetivos das políticas
+sejam alcançados e que essas não sejam contraditórias entre si. As
+políticas que se opõem ao alcance de um determinado objetivo
+devem ser evitadas (OCDE, 2003).
+
+* Coerência: Constitui um conceito mais amplo e envolve a promoção
+sistemática de ações que se reforcem mutuamente nos diferentes
+órgãos do governo, criando sinergias para a realização dos objetivos
+comuns. Consiste em um processo que demanda ações integradoras
+mediante coordenação e consistência (OCDE, 2003).
+
+A figura 2.2 representa o esquema lógico que encadeia os conceitos de
+coerência, consistência e coordenação de políticas públicas.
+
+   
+   
+   
+ 
+
+Coerência
+
+Consistência
+
+OVÍVHDI LN] sieu esed sousuu 2Q
+
+Coordenação
+
+Figura 2.2. A coerência como um processo (modificado de OCDE, 2003).
+
+30
+A ideia é mostrar um processo que, partindo-se da base da pirâmide sentido
+“topo”, há um ganho inegável de integração, ao mesmo tempo em que o estreitamento
+
+sentido “coerência” significa grau crescente de complexidade para seu alcance.
+
+A antítese da fragmentação é a integração. A questão da integração é
+essencial e presume-se que seja eficaz quando se tem arranjos eficientes de
+coordenação (MARTINS, 2003, grifo meu).
+
+Nesse sentido é muito útil a escala de integração de políticas proposta por
+Metcalfe (1994) apresentada na figura 2.3. Ela é cumulativa no sentido em que as
+funções de coordenação no nível mais alto (topo da escala) dependem da existência e
+da confiabilidade das funções no nível mais baixo (base da escala).
+
+Por exemplo, o estabelecimento de prioridades governamentais depende das
+práticas interministeriais de comunicação e consulta e da abertura dos ministérios para
+buscar consenso e resolver conflitos. A coordenação consome tempo e recursos e se
+um método simples de coordenação for suficiente, não há necessidade de se utilizar
+um mais complexo. No entanto, quando surgem problemas de coordenação mais
+complexos, deve haver uma reserva de capacidade de coordenação de nível mais alto
+para lidar com esses problemas.
+
+INTEGRAÇÃO
+
+Estratégia governamental geral
+Estabelecendo prioridades governamentais
+Estabelecendo parâmetros para os
+ministérios
+
+Arbitragem de diferenças interministeriais
+
+Busca interministerial de acordo
+Evitando divergências entre ministérios
+Consulta com outros ministérios
+Comunicação com outros ministérios
+
+Formulação de políticas independente pelos
+ministérios
+
+ 
+
+ 
+
+ 
+
+ 
+
+Estratégia unificada
+
+Estabelecendo prioridades em
+comum
+
+Estabelecendo parâmetros em
+comum
+
+Arbitragem de conflitos
+organizacionais
+
+Busca de consenso nas políticas
+Evitando divergências de políticas
+Consulta entre organizações
+
+Intercâmbio de informações entre
+organizações
+
+Organizações independentes dentro
+de suas jurisdições
+
+Figura 2.3. Escala de integração de Políticas (modificado de METCALFE, 1994).
+
+31
+No esquema proposto, a coordenação pode ser visualizada como um conjunto
+de arranjos formais para promover a cooperação. No entanto, a consistência vai além e
+está baseada em processos de formulação de políticas compatíveis. Já a coerência
+consiste em avançar nesse processo de integração (OCDE, 2003).
+
+A coerência, ainda, pode ser categorizada em três dimensões que necessitam
+ser abordadas de modo pari passu, reconhecendo que a complexidade é comum às
+três tipologias:
+
+Quadro 2.2. Dimensões da coerência (modificado de OCDE, 2003)
+
+ 
+
+Coerência horizontal: Significa assegurar que os objetivos individuais e as políticas desenvolvidas por
+várias entidades se reforcem mutuamente. Fortalecer a interconectividade das políticas e promover uma
+perspectiva do “governo como um todo” são maneiras de promover a perspectiva horizontal da coerência
+nas políticas.
+
+ 
+
+Coerência vertical: Significa assegurar que as práticas das agências, autoridades e órgãos autônomos,
+bem como o comportamento dos níveis subnacionais do governo, se reforcem mutuamente com os
+compromissos políticos mais amplos.
+
+ 
+
+ 
+
+Coerência temporal: Significa assegurar que as políticas continuem sendo efetivas ao longo do tempo e
+que as decisões de curto prazo não se oponham aos compromissos de longo prazo.
+
+ 
+
+ 
+
+A premissa básica de uma teoria da fragmentação de políticas públicas é que a
+fragmentação é um problema. A questão teórica central que se apresenta é a seguinte:
+que fatores podem explicar um determinado grau de fragmentação dos processos de
+formulação e implementação de políticas? Que modelo/composição de variáveis
+poderia ser utilizado para se explicar a formação de processos fragmentadores e,
+consequentemente, políticas fragmentadas?
+
+Esta teoria é útil para auxiliar a compreensão de processos complexos de
+gestão de políticas públicas, porque sua proposição toca algumas questões basilares
+que permeiam o debate contemporâneo em políticas públicas. Campbell e Peters
+(1988) colocam que o processo de fragmentação seria decorrência da democracia e do
+crescente pluralismo de interesses. Nesse sentido, a teoria da fragmentação de
+políticas não descarta tal hipótese, mas sugere que a fragmentação também pode ser
+uma combinação disfuncional de fatores de integração.
+
+Martins (2003) considera que a diversidade de atores e interesses é um
+requisito de legitimidade (democracia e pluralismo) e constitui mecanismo de
+aprendizagem, na medida em que impede a conformidade à padronização.
+
+Segundo a perspectiva do modelo garbage can, desenvolvido por Cohen,
+March e Olsen (1972), a diversidade é um padrão esperado. A fragmentação é uma
+
+32
+forma de ineficiência e induz ao reducionismo, embora haja críticas sobre esta
+afirmação. O limite entre ambas as consequências — diversidade e fragmentação — é
+tênue e de difícil visualização (MARTINS, 2003).
+
+A mensuração da fragmentação é complexa, embora sua qualificação seja
+possível. A quantidade de políticas, de atores envolvidos (pessoas, organizações etc.)
+e de domínios jurisdicionais pode ser bom indicador de complexidade e indicar
+potenciais problemas de coordenação (IADB, 2003).
+
+Para Martins (2003), a principal proposição causal/associativa de uma teoria da
+fragmentação de políticas públicas se dá entre estruturas e processos: arranjos
+estruturais fragmentadores geram processos fragmentadores, que, por sua vez, geram
+políticas fragmentadas.
+
+O autor ainda acrescenta que a fragmentação, embora seja considerada um
+padrão recorrente e uma conseguência esperada, representa ineficiência. É tratada
+tanto como conflito ou ambiguidade, característicos das políticas intersetoriais e dos
+contextos institucionais complexos, quanto como um custo de oportunidade que produz
+ineficiência alocativa de recursos, ineficácia e reducionismo.
+
+Gomide e Pires (2012) argumentam que não há como pensar a produção de
+políticas de desenvolvimento social sem aprofundar o olhar nos arranjos institucionais
+que dão sustentação aos processos decisórios, de execução e controle destas. Em
+torno de cada política, estarão arranjadas organizações com seus mandatos, recursos,
+competências e instrumentos legais, mecanismos de coordenação, espaços de
+negociação e decisão entre atores do governo, do sistema político e da sociedade,
+além de imposições de transparência, prestação de contas e controle por parte dos
+cidadãos e órgãos dos poderes Legislativo e J udiciário.
+
+Nessa mesma perspectiva, Fiani (2013) coloca que os arranjos institucionais
+apresentam grande importância para a formulação de políticas, principalmente as de
+desenvolvimento social, nas quais se exige alto grau de articulação e integração. Há
+evidências de que a construção de arranjos institucionais adequados é condição para a
+consecução de políticas públicas bem-sucedidas (FIANI, 2013).
+
+Evans (2004) reforça que a capacidade do Estado para atuar com políticas mais
+adequadas depende significativamente de sua estrutura institucional e de sua
+capacidade organizacional. Nesse sentido, as instituições desempenham papel
+significativo, podendo interferir na implementação de políticas (FIANI, 2013).
+
+33
+O modelo analítico trabalhado por Martins (2003) é uma adaptação do modelo
+de correntes múltiplas (multiple streams) de Kingdon (2003). O multiple streams é uma
+variação do garbage can model - GCM (March e Olsen, 1989), que permite explicações
+para situações complexas, fluidas e difusas utilizado, neste trabalho na análise da
+PNSAN.
+
+Fatores Processos de formulação e
+Estruturantes implementação de políticas
+
+Resultado
+
+Liderança
+executiva
+
+Estratégia Política pública
+Ajustamento
+mútuo ou fragmentação
+Estrutura
+
+Processos
+
+Pessoas
+
+ 
+
+Figura 2.4. Modelo de Análise da Fragmentação/Integração (modificado de MARTINS,
+2003)
+
+O modelo acima apresentado pode ser utilizado para explicar a fragmentação
+de uma política pública e é composto por seis categorias de variáveis
+independentes ou fatores estruturais: liderança executiva, estratégia,
+ajustamento mútuo, estrutura, processos e pessoas. Essas categorias de variáveis
+independentes são consideradas elementos potenciais e indicam a propensão à
+integração/fragmentação, a partir dos quais os processos de formulação e
+implementação de políticas podem ser dotados de maior convergência entre sie com
+as macroestratégias de governo (MARTINS, 2003, grifo meu).
+
+Ao se formular e implementar uma política pública como a PNSAN sabe-se, a
+partir de suas características descritas no capítulo 1, que a busca por uma integração
+plena é uma situação hipotética que na prática é quase impossível. Por outro lado,
+tampouco o outro extremo, a completa fragmentação, dificilmente ocorrerá. Nesse
+sentido, a teoria da fragmentação de uma política não pressupõe nem o caos (a
+fragmentação total) nem a ordem (a integração total), mas reconhece que a natureza
+fragmentária de algumas políticas estão associadas a alguns fatores estruturais que as
+(re)produzem assim e que estes fatores podem ser, em alguma medida, controláveis.
+
+34
+O Quadro 2.3 apresenta os seis fatores estruturais categorizados por Martins
+(2003) dos quais 3 serão utilizados na discussão dos dados no capítulo 5 deste
+trabalho. Tais fatores podem, em maior ou menor grau, explicitar a fragmentação ou a
+integração da PNSAN, indicando os limites e os desafios enfrentados na
+implementação da política ao mesmo tempo que potenciais ações poderão ser
+vislumbradas para ajustes tanto nos mecanismos de coordenação, como coerência e
+consistência.
+
+Quadro 2.3. Fatores estruturais que favorecem a integração ou a fragmentação
+(modificado de MARTINS, 2003).
+
+ 
+
+FATOR ESTRUTURAL DEFINIÇÃO
+
+ 
+
+Liderança Executiva A liderança executiva como fator de integração dos
+processos de formulação de política não está
+centrada no empreendedor da política pública, que
+exerce claras funções de liderança dentro do
+subsistema da política, mas na liderança executiva
+de governo, exercida pela autoridade executiva
+principal.
+
+ 
+
+Estratégia Governamental Conjunto de ações com o objetivo de promover a
+convergência de propósitos e o casamento do
+planejamento (apontando resultados) com a gestão
+(apontando como alcançá-los)
+
+ 
+
+Ajustamento Mútuo Possibilidade de os diversos atores envolvidos
+numa formulação ou implementação de políticas
+cooperarem de forma autônoma, sem a
+necessidade de arranjos formais de coordenação,
+sem um ideal de resultado previamente
+estabelecido e mesmo sem a influência
+direcionadora de uma liderança.
+
+ 
+
+Estrutura Desenho institucional/organizacional que orienta a
+coordenação macro-governamental e as
+integrações verticais e horizontais entre órgãos e
+entidades na estrutura de governo. Pode facilitar
+ou dificultar a coordenação
+
+ 
+
+Processos Modo de execução e de fluxo de atividades.
+Podem implicar em maior ou menor autonomia.
+
+ 
+
+ 
+
+Pessoas Pessoas são fatores de integração na medida em
+que compartilham, na qualidade de membros de
+um ou de vários subsistemas de política pública,
+valores, crenças e opiniões em torno de questões
+relativas a formulação e implementação.
+
+ 
+
+ 
+
+ 
+
+O Quadro 2.4 apresenta as características de cada um destes fatores em
+termos de propensão à integração ou à fragmentação, a partir de um modelo de
+análise qualitativa.
+
+35
+Quadro 2.4. Modelo de análise qualitativa da fragmentação/integração (modificado de
+
+MARTINS, 2006).
+
+ 
+
+GRUPO
+
+VARIÁVEL
+
+PROPENSÃO À
+INTEGRAÇÃO
+
+PROPENSÃO À
+FRAGMENTAÇÃO
+
+ 
+
+Liderança Executiva
+
+Gestão do poder
+
+O executivo principal
+exerce forte liderança e
+governa (administra o
+conflito) buscando o
+consenso (e um
+integrador)
+
+O executivo principal
+não exerce forte
+liderança ou divide para
+governar, mediante
+incentivo à competição
+interna
+
+ 
+
+ 
+
+Visão O executivo principal O discurso político do
+manifesta sua visão, e executivo principal não
+esta aparece de forma revela claramente uma
+central no seu discurso visão mobilizadora
+político
+
+Estratégia Plano Há um projeto nacional | As diretrizes e os
+governamental ou de governo expresso | objetivos centrais de
+
+ 
+
+claramente sob a forma
+de um plano
+
+governo não estão
+claros nem integrados
+sob a forma de um
+plano
+
+ 
+
+Ajustamento Mútuo
+
+Há evidências de que
+predominam formas de
+coordenação negociada
+(coordenação negativa,
+barganha, solução de
+problemas e
+coordenação positiva)
+
+Há evidências de que
+predominam formas de
+coordenação não-
+negociada (ajustamento
+paramétrico e
+ajustamento
+deferencial)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Estrutura Desenho organizacional | A macroestrutura está Há uma pulverização da
+agrupada de tal forma macroestrutura, com
+que as áreas de perda de supervisão e
+responsabilidade estão sobreposições e
+claras e sob a paralelismos não-claros
+supervisão do
+Presidente da República
+Coordenação Os mecanismos de Os mecanismos de
+coordenação coordenação não
+conseguem promover o | logram promover
+mínimo de integração integração lateral ou
+horizontal e vertical vertical
+necessária
+Processos Autonomia Os processos Os domínios
+pertinentes ao institucionais são
+subsistema de política preponderantemente
+perpassam diversos autônomos na execução
+domínios institucionais, | de atividades
+tornando-os
+interdependentes
+Integração vertical e Poucos stakeholders, Grande diversidade de
+horizontal baixo conflito de stakeholders, limitações
+autoridade dos na autoridade dos
+domínios institucionais, | domínios institucionais,
+resultados claros e demandas conflitantes e
+formas de integração múltiplas e complexas
+bem estabelecidas formas de integração
+Pessoas Valores Uma ou poucas Diversas comunidades
+
+ 
+
+ 
+
+comunidades
+epistêmicas dotadas de
+meios de interlocução
+
+ 
+
+epistêmicas sem meios
+de interlocução
+
+ 
+
+ 
+
+36
+O roteiro de análise elaborado por Martins (2003) pode ser muito útil para se
+identificar, no capítulo 4, os limites e desafios da gestão intersetorial da PNSAN. A
+partir do diagnóstico dos fatores estruturais de integração/fragmentação é possível
+avaliar o nível de coordenação, consistência e coerência da política. O fato é que a
+PNSAN como uma política com um alto grau de complexidade exige uma análise
+qualitativa que permita identificar os possíveis fatores causais da fragmentação,
+potencializando ações com o objetivo de se alcançar um nível de integração aceitável
+
+versus um nível mínimo “quase” ótimo de fragmentação.
+
+Para este trabalho, optou-se pela escolha de três fatores estruturais que
+determinam a análise do planejamento e orçamento governamentais: a estratégia, a
+estrutura e os processos. Nesse sentido, o estudo teve um escopo limitado pela
+disponibilidade de dados e pelo período de realização da pesquisa. De todo modo,
+como a teoria carece mais dados empíricos, este primeiro mapeamento não se esgota
+em si mesmo e pretende iluminar uma pequena parte da complexa tarefa de se
+identificar os fatores de fragmentação de uma determinada política.
+
+37
+CAPÍTULO 3 METODOLOGIA
+
+3.1. Percurso metodológico
+
+O objetivo geral deste estudo foi realizar uma reflexão crítica sobre os limites e
+desafios da gestão intersetorial na Política de Segurança Alimentar e Nutricional
+tomando como base a análise a adequação entre o planejamento e o orçamento do
+governo federal.
+
+Para se introduzir a discussão da gestão intersetorial na temática da SAN, foi
+apresentada a estrutura instituída para a gestão da PNSAN no Brasil e seus
+instrumentos de coordenação. A seguir, foi trabalhado o conteúdo teórico que deu a
+base para a pesquisa, discutindo-se o conceito abrangente da Segurança Alimentar e
+Nutricional em âmbito nacional e internacional e suas dimensões; o conceito de
+intersetorialidade, apresentando as deficiências da ação setorial, o potencial e os
+desafios da ação intersetorial e sua estreita articulação com a SAN. Para dar maior
+robustez ao estudo, utilizou-se como referencial téorico a teoria da fragmentação de
+políticas proposta por Martins (2003) que embasou toda a análise dos dados realizada
+
+no capítulo 4.
+A pesquisa, de caráter documental, teve os seguintes passos:
+
+Foram analisadas as normas constitucionais, legais e infralegais que instituíram
+a SAN no Brasil, procurando apresentar o arcabouço jurídico e institucional que
+sustenta o conceito de SAN, que criou o sistema Nacional de SAN, instituiu a CAISAN,
+bem como estabeleceu as diretrizes para a elaboração da PNSAN e do PLANSAN.
+
+Como referenciais para a análise explicitada anteriormente, foram consultados
+os sites da Presidência da República, do Conselho Nacional de Segurança Alimentar e
+Nutricional e do Ministério do Desenvolvimento Social e Combate à Fome.
+
+Foi feito um levantamento documental em fontes secundárias - documentos
+impressos e disponibilizados na internet referentes ao PLANSAN: boletins, pareceres,
+relatórios, outros documentos publicados no Diário Oficial da União, artigos de jornais,
+matérias publicadas na mídia impressa e eletrônica, atas de reuniões, notas técnicas e
+
+memórias de eventos.
+
+Ademais, foi realizada pesquisa documental em fontes secundárias -
+
+documentos impressos e disponibilizados na internet - relacionados ao plano plurianual
+
+38
+do governo federal (PPA) e ao orçamento federal. Foram visitados os sites da
+Presidência da República, do Ministério do Planejamento, Orçamento e Gestão da
+Secretaria de Orçamento Federal - SOF.
+
+As informações disponíveis no Sistema Integrado de Planejamento e
+Orçamento (SIOP), base de dados do governo federal que trata do planejamento e
+orçamento dos órgãos envolvidos na implementação das diversas políticas, dentre elas
+a PNSAN, foram utilizadas como subsídios para a discussão realizada na capítulo 4,
+assim como dados públicos sobre a execução orçamentária disponíveis no site do
+projeto Siga Brasil do Senado Federal (SF).
+
+Os dados relacionados ao PPA 2008-2011 foram extraídos do portal do MP
+(BRASIL, 2007) e do Senado Federal - SF (BRASIL, 2013d). Já os dados do PPA
+2012-2015 foram extraídos do portal do SIOP (BRASIL, 2012). Ainda, foi feito um
+pareamento com as ações orçamentárias, de forma a identificar aqueles programas e
+ações com maior alocação de recursos.
+
+Trata-se de um estudo exploratório e qualitativo que aplicou a teoria da
+fragmentação à PNSAN, com a utilização das categorias coordenação, coerência e
+consistência para discutir a integração ou a fragmentação da política. O caminho foi
+percorrido a partir da análise dos fatores estruturais que tem capacidade de interferir
+no grau de propensão à integração ou à fragmentação da PNSAN.
+
+3.2. Considerações sobre a ética em pesquisa
+
+De acordo com a proposta metodológica apresentada, este estudo não
+envolveu pesquisa, na forma direta, com seres humanos. Assim, não houve
+necessidade de submetê-lo à apreciação do Comitê de Ética em Pesquisa da Escola
+Nacional de Saúde Pública (CEP/ENSP/FIOCRUZ).
+
+Com relação ao levantamento de informações provenientes de fontes
+secundárias, todas as informações utilizadas neste trabalho são públicas e estão
+disponíveis em mídia impressa ou eletrônica.
+
+De acordo com o CEP/ENSP/FIOCRUZ, as pesquisas que utilizam apenas
+dados de domínio público de acesso irrestrito que não identifiquem sujeitos, ou apenas
+
+5 Referência: Resolução do Conselho Nacional de Saúde (CNS) Nº 196, de 1996, que aprova as diretrizes
+e normas regulamentadoras de pesquisas envolvendo seres humanos.
+
+39
+revisão bibliográfica, sem envolvimento de seres humanos, não necessitam aprovação
+por parte do Sistema CEP - Comissão Nacional de Ética em Pesquisa (CONEP).
+
+40
+CAPÍTULO 4 LIMITES DO GOVERNO FEDERAL PARA A IMPLEMENTAÇÃO DE
+UMA POLÍTICA INTERSETORIAL
+
+4.1. O Planejamento Estratégico Governamental e o Orçamento Federal
+
+No Brasil, planejamento sempre esteve ligado à elaboração de planos e a
+controle. É oportuno destacar que o Brasil é considerado um país com tradição em
+planejamento, sendo que os primeiros esforços nesse sentido podem ser identificados
+no início da década de 1930 do século XX (PAULO, 2010).
+
+A Constituição Federal (CF) estabelece que o Poder Executivo deve elaborar o
+Plano Plurianual (PPA), com abrangência de quatro anos, contendo as diretrizes, os
+objetivos e as metas da Administração Pública Federal (APF) para os programas. Ele
+constitui-se em um plano de médio prazo, com período de vigência que vai do segundo
+ano do mandato presidencial e alcança o primeiro ano do mandato subsequente,
+
+característica essa que garante o princípio da continuidade dos programas.
+
+O PPA é uma Lei, de iniciativa do Poder Executivo, que deve estabelecer as
+diretrizes, objetivos e metas da APF para as despesas com investimento e para as
+relativas aos programas de duração continuada (CF/88, art. 165, $ 10). É uma peça
+prevista no Título VI (Da Tributação e do Orçamento), Capítulo Il (Das Finanças
+Públicas), Seção Il (Dos Orçamentos), juntamente com a Lei de Diretrizes
+Orçamentárias (LDO) e a Lei Orçamentária Anual (LOA).
+
+De acordo com Paulo (2010) é possível afirmar que a CF atribuiu ao PPA um
+papel central de organização da ação do Estado, uma vez que submete a elaboração
+dos demais documentos de planejamento e orçamento às suas disposições. De forma
+textual, a Carta Magna estabelece que os planos e programas nacionais, regionais e
+setoriais devem ser elaborados em consonância com o PPA (art. 165, 8 40). No
+mesmo sentido, a LDO e a LOA não devem conter dispositivos incompatíveis com o
+PPA (art. 166). Com isso, a materialização do PPA só é possível se o mesmo for
+
+contemplado nas LOAs.
+
+O PPA é o instrumento que faz a ligação entre objetivos de Estado, presentes
+em um planejamento de longo prazo, políticas de governo, de médio prazo, e
+realização dos gastos, previstos pelo orçamento anual (PAULO, 2010).
+
+O primeiro Plano Plurianual (1992-1995) tinha como principais objetivos o
+controle das contas públicas e um projeto de desestatização e abertura comercial.
+
+41
+Esse primeiro PPA não foi reconhecido como instrumento derivado de um exercício de
+planejamento, mas apenas uma peça burocrática, aprovado sem maiores debates no
+Congresso Nacional, de forma a cumprir somente a formalidade da previsão
+constitucional (PAULO, 2010).
+
+Já o PPA 1996-1999 foi elaborado em um contexto de estabilidade econômica
+alcançado pela implementação do Plano Real, no qual buscou-se um novo formato de
+gestão com o objetivo da retomada do crescimento.
+
+A partir do PPA 2000-2003 houve uma mudança na metodologia de
+organização das ações e no modelo de gestão do Plano. O conceito de programa”
+passou a disciplinar a integração entre planejamento e gestão.
+
+A gestão do Plano até 2011 foi baseada no conceito de planejamento e
+orçamento por programa, a partir do qual se constituiu toda estrutura de execução dos
+processos e recursos e geração dos produtos e resultados das ações governamentais.
+(BRASIL, 2002). O Plano, como instrumento de planejamento estratégico, se reduziu a
+apenas um controle de ações, com vistas à redução dos gastos públicos,
+
+Nesse ponto, de 2000 a 2011, o PPA se constituiu, basicamente, em um
+“orçamento-programa”, conceito que combina planejamento com orçamento. Wildavsky
+(1982) já apontava, na década de 1980, que esse modelo apresenta inconsistências:
+“Não sendo nem programa nem orçamento, a estrutura do programa se torna inútil.”
+(WILDAVSKY, 1982).
+
+Com o novo PPA 2012-2015 foram introduzidas alterações significativas nessa
+estrutura adotada pelos três últimos planos plurianuais do Governo Federal.
+
+De acordo com o Ministério do Planejamento, Orçamento e Gestão (BRASIL,
+2011b), o sentido geral das mudanças é o da busca por um caráter mais estratégico
+para o Plano, criando condições efetivas para a formulação, a gestão e a
+implementação das políticas públicas.
+
+'o Programa é um conjunto articulado de ações que concorrem para um objetivo comum, previamente
+estabelecido. Os programas são instituídos pelo plano plurianual, visando a solução de um problema, o
+atendimento a uma demanda da sociedade ou ainda o aproveitamento de uma oportunidade como causa
+de instituição de um programa. Os programas são desdobrados em ações, que podem ser projetos ou
+atividades dos quais resultam a produção de bens e serviços. (SIQUEIRA, 2006).
+
+O programa é módulo de ligação entre planejamento e orçamento. Em termos de planejamento, o
+programa é um instrumento de organização das ações do Governo. Em termos de gerenciamento, o
+programa é uma unidade de gestão, constituindo o âmbito das atividades de monitoramento, controle e
+avaliação de desempenho. (SIQUEIRA, 2006)
+
+42
+As categorias a partir das quais o Plano se organiza foram redesenhadas. No
+lugar de “Programa-Ação” foi concebida a ideia de “Programas Temáticos, Objetivos,
+Metas e Iniciativas”. Isto significa que o Plano tem como foco a organização da ação de
+governo nos níveis estratégico e tático e o orçamento responde pela organização no
+nível operacional. Uma das premissas para a mudança foi, fundamentalmente, o
+estabelecimento de condições para um melhor tratamento da multissetorialidade que
+caracteriza diversas políticas (BRASIL, 2011b).
+
+Nesse contexto, o PPA corresponde, ou pelo menos corresponderia, à
+estratégia do governo que, em tese, levaria à atuação integrada. Na prática isso não
+acontece. As afirmações de Paulo (2010) colocam que o PPA constitui-se em
+instrumento de trabalho, principalmente para os órgãos de controle, mas, para os
+planejadores e tomadores de decisão, limita-se apenas uma peça burocrática.
+
+Essa situação fica mais evidente quando, em 2007 a Presidência da República
+(PR) ignorou os trabalhos de preparação do PPA 2008-2011 desenvolvidos no âmbito
+do MP e lançou uma série de planos em paralelo, com destaque para o Programa de
+Aceleração do Crescimento (PAC), o Plano de Desenvolvimento da Educação (PDE) e
+a Agenda Social (AS) (PAULO, 2010). Atualmente o governo implementa um novo
+Plano, Plano Brasil sem Miséria (BSM), elaborado em 2011 com vigência até 2014. É o
+principal principal compromisso do governo, tendo um modelo de gestão próprio que o
+diferencia do PPA 2012-2015.
+
+Com efeito, o governo federal elegeu novas formas para definir e comunicar
+quais são suas prioridades e metas. Esse tipo de prática acontece também na temática
+da SAN. O PLANSAN foi elaborado, em 2011, de forma que as questões da PNSAN
+fossem tratadas com o olhar sistêmico da SAN, já que o PPA ainda não consegue ser
+esse instrumento estratégico para a política. No entanto, para que a maior parte das
+metas que estão no PLANSAN sejam concretizadas, elas devem constar no PPA para
+que o orçamento seja garantido.
+
+A questão orçamentária, de certa forma dita, o planejamento dentro da
+formulação e implementação das políticas sendo a causa de divergências e
+interferências que trazem à tona os interesses e prioridades. Não coincidente, observa-
+se que há um grau de importância atribuído às políticas setoriais, por atenderem à
+conjuntura e à necessidade dos interesses em jogo, expressas exatamente pelo
+financiamento de cada uma delas (NASCIMENTO, 2010).
+
+43
+Cabe aqui ressaltar que o planejamento estratégico governamental envolve
+questões que vão além da técnica. Aspectos políticos podem pesar muito mais do que
+questões técnicas. O escopo deste trabalho limitou-se à análise de dados e
+informações disponíveis, não se aprofundando no aspecto politico, sendo esta mais
+uma linha de estudo importante a ser desencadeada.
+
+Grande parte dos conflitos se dá na alocação dos recursos públicos, fazendo
+com que organizações situadas em diferentes setores governamentais e da sociedade
+acabem se tornando competidores potenciais pelos recursos existentes. O
+comprometimento com projetos integradores implica abrir mão de objetivos e recursos
+de curto e médio prazo, em função de ganhos futuros. A adesão dos atores depende
+do quanto este projeto é consistente politicamente e do quanto é construído
+coletivamente e de forma pactuada, ajustando as diferentes lógicas setoriais
+(BURLANDY; MAGALHÃES; MALUF, 2006).
+
+Isso quer dizer que é preciso levar em conta na análise tanto os interesses em
+jogo e os processos de privilegiamento de determinada política setorial quanto as
+concepções e formatação das políticas pelos diferentes órgãos públicos. Cunill Grau
+(2005) coloca que a estrutura da administração pública é caracterizada por ministérios
+que atendem a uma especialização setorial e os mecanismos de destinação de
+recursos seguem essa mesma lógica.
+
+A estrutura instituída para a gestão da política de SAN foi pensada na lógica de
+que os problemas são complexos, a realidade é sistêmica e as demandas da
+sociedade devem ser respondidas de forma coerente e efetiva. No entanto, este novo
+formato esbarra em um modelo de gestão cuja estrutura administrativa é segmentada
+em diversas instituições com variadas especificidades e, de certa forma, consolidado
+no âmbito do governo federal.
+
+A hipótese deste trabalho é de que o atual modelo de planejamento estratégico
+e de alocação orçamentária constituem-se, dentre outros, limites da estrutura
+governamental para o efetivo alcance da intersetorialidade e da integração na PNSAN.
+
+4.2. A Segurança Alimentar e Nutricional nos Planos Plurianuais 2008-2011 e
+2012-2015
+
+44
+Como explicitado no capítulo 2, o conceito de SAN adotado pelo Estado
+brasileiro, a partir da promulgação da LOSAN, é amplo porque considera uma
+perspectiva sistêmica e compreende diversas áreas do conhecimento. O conjunto de
+ações e programas formulados e implementados pelo governo federal que têm
+interferência na melhoria das condições de SAN da população brasileira muitas vezes
+estão distribuídos por diversos órgãos executores de políticas setoriais e acabam não
+sendo reconhecidos como componentes da PNSAN.
+
+As diversas ações distribuídas pelos ministérios têm sido analisadas e
+debatidas na ótica da SAN, de forma sistemática, pelo CONSEA desde 2005, período
+em que a minuta do projeto de lei da LOSAN já estava em tramitação no Congresso
+Nacional. O CONSEA identificou 37 programas” do Plano Plurianual (PPA) e ações
+orçamentárias correspondentes relacionados à temática da SAN (BRASIL, 20103).
+
+Para isso, os programas e ações foram classificados e organizados em 16
+temáticas:
+
+»
+4
+
+Abastecimento alimentar;
+
+»
+e
+
+Acesso à alimentação;
+
+O
+4
+
+Ações estruturantes (geração de trabalho e renda);
+
+»
+4
+
+Agricultura Familiar;
+
+»
+4
+
+Alimentação escolar;
+
+»
+e
+
+Alimentação saudável;
+
+7 1-Abastecimento agroalimentar; 2-Acesso à Alimentação; 3-Agricultura Familiar; 4-Assentamentos para
+trabalhadores rurais; 5-Assistência técnica e extensão rural na agricultura familiar; 6-Atenção básica em
+saúde; 7-Brasil escolarizado; 8-Brasil Quilombola; 9-Cidadania e efetivação do direito das mulheres; 10-
+Combate à desertificação; 11-Comunidades tradicionais; 12-Conservação e uso sustentável da
+biodiversidade e dos recursos genéticos; 13-Conservação, manejo e uso sustentável da
+agrobiodiversidade; 14-Crédito fundiário; 15-Cultura afro-brasileira; 16-Cultura viva - arte, educação e
+cidadania; 17-Desenvolvimento da agricultura irrigada; 18-Desenvolvimento integrado e sustentável do
+semiárido; 19-Desenvolvimento sustentável da aquicultura; 20-Desenvolvimento sustentável da pesca; 21-
+Desenvolvimento sustentável de projetos de assentamento; 22-Desenvolvimento sustentável de territórios
+rurais; 23-Economia solidária em desenvolvimento; 24-Erradicação do trabalho infantil; 25-Gestão da
+política aquícola e pesqueira; 26-Gestão da política de desenvolvimento social e combate à fome; 27-
+Infraestrutura hídrica;. 28-Paz no campo; 29-Pesquisa e desenvolvimento agropecuário e agroindustrial
+para a inserção social; 30-Proteção da sustentabilidade de espaços sub-regionais; 31-Promoção do
+desenvolvimento da faixa de fronteira; 32-P roteção e promoção dos povos indígenas; 33-Revitalização de
+bacias hidrográficas em situação de vulnerabilidade e degradação ambiental; 34-Saneamento rural; 35-
+Serviços urbanos de água e esgoto; 36-Transferência de renda com condicionalidades - Programa Bolsa
+Família; 37-Vigilância e prevenção de riscos decorrentes da produção e do consumo (BRASIL, 2007).
+
+45
+“* Biodiversidade e populações tradicionais;
+
+* Gestão de políticas;
+
+“ Pesca e aquicultura,
+
+* Reforma agrária, regularização fundiária e Unidades de Conservação;
+* SAN das populações negras;
+
+* SAN dos povos indígenas;
+
+“ SAN no Semiárido;
+
+“* Saneamento - água e esgoto;
+
+“ Transferência de Renda;
+
+* Vigilância Sanitária.
+
+A seguir, será apresentado um mapeamento de programas do governo federal,
+que constam nos PPAs 2008-2011 e 2012-2015 e estão vinculados à PNSAN e seus
+órgãos executores, considerando a categorização elaborada pelo CONSEA.
+
+Foram identificadas 129 (cento e vinte nove) ações orçamentárias na área de
+SAN distribuídas ao longo do PPA 2008-2011 em 37 Programas que se encontram
+categorizados nas temáticas monitoradas pelo CONSEA, conforme mostra o quadro
+4.1.
+
+46
+Quadro 4.1. Distribuição das ações orçamentárias segundo tema e órgão executor -
+PPA 2008-2011, ano 2011 (BRASIL, 2013e).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ÓRGÃO AÇÕES EM 2011
+TEMA
+EXECUTOR A %
+Abastecimento Agroalimentar 4 44,4
+MAPA Agricultura Familiar (Plano Safra e Aquisição de Alimentos) 2 22,2
+Biodiversidade e populações tradicionais a 333
+Ações do MAPA no conjunto total de ações de SAN 9 7,1
+Biodiversidade e populações tradicionais (Quantidade e
+MCTI Percentual de ações do MCTI no conjunto total de ações de 1 0,8
+SAN)
+Agricultura Familiar (Plano Safra e Aquisição de Alimentos) 10 33,3
+Biodiversidade e populações tradicionais 2 6,7
+Reforma Agrária, Regularização Fundiária e Unidades de 1 367
+MDA Conservação '
+SAN das populações negras 4 13,3
+SAN dos povos indígenas Vi 33
+SAN no semiárido 2 6,7
+Ações do MDA no conjunto total de ações de SAN 30 23,3
+Acesso à Alimentação 3 17,6
+Ações Estruturantes 4 23,5
+Agricultura Familiar (Plano Safra e Aquisição de Alimentos 2 11,8
+Alimentação saudável 1 5,9
+MDS Gestão de políticas 1 5,9
+SAN dos povos indígenas 1 5,9
+SAN no semiárido 2 11,8
+Transferência de renda 3 17,6
+Ações do MDS no conjunto total de ações de SAN 17 13,4
+Alimentação escolar 2 66,7
+MEC SAN em populações negras t 33,3
+Ações do MEC no conjunto total de ações de SAN 3 2,3
+Agricultura Familiar (Plano Safra e Aquisição de Alimentos 2 66,7
+MF pia Agrária, Regularização Fundiária e Unidades de 1 333
+onservação
+Ações do MF no conjunto total de ações de SAN 3 2,3
+Ações estruturantes 4 26,7
+MI SAN no semiárido 11 73,3
+Ações do MI no conjunto total de ações de SAN 15 11,6
+MinC SAN das populações negras Quantidade e Percentual de 6 47
+ações do MinC no conjunto total de ações de SAN) ,
+MJ SAN dos povos indígenas (Quantidade e Percentual de ações 5 39
+do MJ no conjunto total de ações de SAN) ,
+Biodiversidade e populações tradicionais 12 66,7
+SAN das populações negras 1 5,6
+MMA SAN dos povos indígenas 3 16,7
+SAN no semiárido 2 1a
+Ações do MMA no conjunto total de ações de SAN 18 14,2
+MPA Pesca e Aquicultura (Quantidade e Percentual de ações do 4 31
+MPA no conjunto total de ações de SAN) ,
+Alimentação saudável 1 11,1
+SAN de populações negras 1 11,1
+MS SAN dos povos indígenas 3 333
+Vigilância Sanitária 2 222
+Saneamento - água e esgoto 2 22,2
+Ações do MS no conjunto total de ações de SAN 9 7,0
+MTE Ações estruturantes (Quantidade e Percentual de ações do 5 39
+MTE no conjunto total de ações de SAN) ,
+PRISEPPIR SAN das populações negras (Quantidade e Percentual de 2 16
+ações da SEPPIR no conjunto total de ações de SAN) ú
+TOTAL GERAL 129 100
+
+ 
+
+ 
+
+ 
+
+ 
+
+47
+Os dados apontam para um conjunto importante de instituições responsáveis
+pela implementação da PNSAN (n=14 órgãos) e para uma multiplicidade de ações
+orçamentárias (n=129 ações). MDA, MMA, MDS e MI detêm, respectivamente, 23,3%,
+14%, 13,2% e 11,6% das ações, considerando o universo total de 129 ações para a
+SAN. Importante notar que a maior parte (62,1%) das ações se concentram nesses
+quatros órgãos. Na figura a seguir é apresentada a distribuição percentual das ações
+de SAN por órgãos.
+
+PRISEPPIR BMDA
+1,5% MCTI BIIMA
+
+ME 0,8%
+
+    
+   
+
+mpa MEC 23% oMDS
+3,1% 23% a
+na Mi
+MinC BMAPA
+4,7%
+ams
+BMinc
+10% OMJ
+
+BMTE
+DMPA
+OMeEc
+
+Our
+MPRISEPPIR
+ECT
+
+11,6% 13,2%
+
+ 
+
+Figura 4.1. Distribuição (%) das ações orçamentárias por órgão - PPA 2008-2011, ano
+2011 (BRASIL, 2013).
+
+Quando os valores de cada ação orçamentária são analisados, essa
+distribuição ocorre de forma diferenciada. No quadro 4.2 é possível verificar o
+orçamento destinado a cada tema por ação, o quanto de despesa foi autorizado e o
+quanto foi liquidado* para os anos 2008, 2009, 2010 e 2011.
+
+Considerando que a programação orçamentária é a manifestação acerca do
+que é essencial para uma organização na alocação dos recursos, a partir da
+
+º Despesa liquidada é o segundo estágio da despesa e é uma categoria utilizada pelo MP para avaliar a
+execução de uma ação orçamentária. Conforme previsto no art. 63 da Lei nº 4.320/1964 a liquidação
+consiste na verificação do direito adquirido pelo credor tendo por base os títulos e documentos
+comprobatórios do respectivo crédito e tem como objetivos: apurar a origem e o objeto do que se deve
+pagar; a importância exata a pagar; e a quem se deve pagar a importância, para extinguir a obrigação. A
+liquidação das despesas com fornecimento ou com serviços prestados terão por base: o contrato, ajuste
+ou acordo respectivo; a nota de empenho; e os comprovantes da entrega de material ou da prestação
+efetiva do serviço (BRASIL, 2013a).
+
+48
+desagregação das ações do quadro 4.1, nota-se, por um lado, a pulverização do
+orçamento da SAN em diversas ações ou projetos de pequeno vulto (até R$ 20
+milhões), além daquelas ações onde se encontram recursos de grande vulto? (igual ou
+superior a R$ 20 milhões) e que não necessariamente coincidem com os órgãos que
+apresentaram maior quantidade de ações.
+
+Quadro 4.2. Orçamento autorizado, liquidado e percentual de execução da SAN,
+
+segundo temas, por órgão, 2008, 2009, 2010 e 2011 (BRASIL, 2013€).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(continua)
+2008
+Autorizado (R$) Liquidado (R$) Executado (%)
+MAPA 2.422.235.162,00 671.987.213,54 27,1%
+MCTI 400.000,00 99.649,64 24,9%
+MDA 3.091.402.724,00 1.960.348.165,50 63,4%
+MDS 11.617.768.580,00 11.562.405.393,51 99,5%
+MEC 1.536.636.808,00 1.493.049.810,49 97,2%
+MF 3.730.222.000,00 2.434.841.725,97 65,3%
+MI 242.215.124,00 113.950.990,07 47,0%
+MinC 28.674.982,00 7.844.635,06 27,4%
+MJ 75.324.153,00 42.181.250,88 56,8%
+MMA 126.446.966,00 38.333.051,68 30,3%
+MPA 152.423.876,00 91.672.816,37 60,1%
+MS 686.815.401,00 656.499.343,56 95,6%
+MTE 18.439.726,00 7.185.398,25 39,0%
+PR/SEPPIR 6.420.000,00 4.650.054,26 72,4%
+TOTAL 23.735.425.502,00 19,085.649.498,78 80,4%
+2009
+Autorizado (R$) Liquidado (R$) Executado (%)
+MAPA 3.331.584.582,00 2.903.208.432,76 87,1%
+MCTI 200.000,00 200.000,00 100,0%
+MDA 2.637.337.849,00 2.174.730.874,95 82,5%
+MDS 13.183.701.819,00 12.878.830.341,86 97,7%
+MEC 2.033.712.808,00 2.028.067.096,72 99,7%
+MF 3.317.504.000,00 2.904.544.998,32 87,6%
+MI 290.034.554,00 164.206.472,11 56,6%
+MinC 17.461.651,00 15.990.275,65 91,6%
+MJ 61.712.499,00 44.156.582,10 71,6%
+MMA 57.882.677,00 17.974.667,44 31,1%
+MPA 128.993.901,00 87.256.251,43 67,6%
+Lei 11.653, de 07 de abril de que dispõe sobre o Plano Plurianual para o período 2008-2011.
+
+ 
+
+Art. 10. Consideram-se, para efeito deste Plano, como Projetos de Grande Vulto, ações orçamentárias:
+EL]
+
+Il - financiadas com recursos dos orçamentos fiscal e da seguridade social, ou com recursos do orçamento
+das empresas estatais que não se enquadrem no disposto no inciso anterior, cujo valor total estimado seja
+igual ou superior a vinte milhões de reais (BRASIL, 2008).
+
+49
+Quadro 4.2. Orçamento autorizado, liquidado e percentual
+
+de execução da SAN,
+segundo temas, por órgão, 2008, 2009, 2010 e 2011 (BRASIL, 2013€).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(conclusão
+MS 730.302.321,00 713.958.060,64 97,8%
+MTE 15.501.658,00 9.499.213,47 61,3%
+PR/SEPPIR 9.916.000,00 5.178.087,05 52,2%
+TOTAL 25.815.846.319,00 23.947.801.354,50 92,8%
+2010
+Autorizado (R$) Liquidado (R$) Executado (%)
+
+MAPA 2.342.430.742,00 .284.264.512,02 54,8%
+MCTI 200.000,00 0,00 0,0%
+
+MDA 3.094.450.960,00 .915.939.142,82 61,9%
+MDS 14.891.764.792,00 4.763.136.185,37 99,1%
+MEC 3.062.580.610,00 3.045.281.132,24 99,4%
+MF 2.876.500.000,00 2.106.772.341,71 73,2%
+MI 386.398.070,00 228.937.313,92 59,2%
+MinC 17.388.114,00 1.909.469,63 68,5%
+MJ 63.450.000,00 43.792.977,63 69,0%
+MMA 43.966.496,00 0.408.624,90 23,7%
+MPA 312.120.328,00 10.317.100,93 35,3%
+MS 764.093.494,00 736.584.841,09 96,4%
+MTE 13.914.000,00 7.686.065,03 55,2%
+PR/SEPPIR 13.416.000,00 0.304.068,72 76,8%
+TOTAL 27.882.673.606,00 24,275.333.776,01 87,1%
+
+2011
+Autorizado (R$) Liquidado (R$) Executado (%)
+
+MAPA 2.231.142.196,00 .259.971.442,83 56,5%
+MCTI 200.000,00 0,00 0,0%
+
+MDA 86.409.289,00 70.346.823,56 81,4%
+MDS 18.500.848.813,00 8.357.864.067,13 99,2%
+MEC 3.107.156.556,00 3.066.460.648,28 98,7%
+MF 4.861.804.000,00 4.057.966.118,21 83,5%
+MI 206.420.204,00 52.286.431,95 25,3%
+MinC 22.024.492,00 4.241.814,16 19,3%
+MJ 55.065.912,00 43.042.992,27 78,2%
+MMA 51.532.483,00 22.332.126,67 43,3%
+MPA 231.290.061,00 53.306.805,53 23,0%
+MS 733.853.037,00 678.002.683,25 92,4%
+MTE 44.574.703,00 8.201.321,02 18,4%
+PR/SEPPIR 19.682.122,00 3.935.373,90 20,0%
+TOTAL 30.152.003.868,00 27.677.958.648,76 91,8%
+
+ 
+
+ 
+
+A análise do quadro 4.2 apresenta um conjunto importante de características
+
+impostas pela lógica orçamentária. Embora exista um grande contingente de ações
+
+distribuídas por diversos ministérios, como apontado no quadro anterior, essas ações
+
+se concentram em determinados órgãos no que se refere ao número e em outros
+
+órgãos no que se refere ao valor orçamentário autorizado. De 2008 a 2011,
+
+aproximadamente 95% do total do orçamento autorizado se concentrou em apenas
+
+50
+cinco de um total de 14 órgãos. Este dado é bastante significativo, pois a pulverização
+de ações, no que se refere à quantidade, identificada no quadro 4.1 não se comporta
+da mesma forma quando analisamos o total de recursos orçamentários destinado a
+cada órgão.
+
+Para se ter uma ideia, em 2011, o valor total do orçamento autorizado para a
+PNSAN correspondeu a R$30.152.003.868,00 (trinta bilhões, cento e cinquenta e dois
+milhões, três mil oitocentos e sessenta e oito reais) dos quais 61,4% estavam sob a
+responsabilidade do MDS, 15% do MF, 9,6% do MEC, 7,5% do MDA e 6,9 do MAPA,
+resultando em uma concentração de 95,8% do total. Importante notar que o MEC
+possui apenas 3 ações sendo uma delas o Programa Nacional de Alimentação Escolar
+PNAE, o que corresponde a 2,3% do total de ações de SAN, mas seu orçamento tem
+um peso muito grande, sendo considerado de grande vulto.
+
+A análise da execução orçamentária pode indicar o grau de dificuldade
+enfrentado pelos órgãos para que a PNSAN seja implementada de forma eficiente, ou
+mais do que isso, de forma eficaz e efetiva. A figura 4.2 apresenta a evolução do
+orçamento autorizado da PNSAN e o valor executado nos anos de 2008, 2009, 2010 e
+2011.
+
+—*— autorizado total
+8 Liquidado total
+
+ 
+
+Figura 4.2. Evolução do orçamento total autorizado da PNSAN e do total executado,
+2008-2011 (BRASIL, 2013€).
+
+Si,
+Observa-se uma evolução significativa de recursos destinados à PNSAN, o que
+pode indicar uma prioridade governamental para o tema. De 2008 a 2011 o percentual
+de aumento foi de 36,9%. O gráfico aponta também para um aumento no total de
+recursos efetivamente executados. Em 2008, do total autorizado, 80,4% foi executado.
+Já em 2009, 2010 e 2011, 92,7%, 87% e 90,6% dos recursos foram executados,
+respectivamente.
+
+O desempenho foi bastante satisfatório, todavia, não foi acompanhado quando
+as ações foram desagregadas por órgãos. Verificou-se que alguns órgãos encontraram
+dificuldades na execução dos seus recursos. Supõe-se que, além das dificuldades
+enfrentadas nos diferentes instrumentos de repasse de recursos contidos no
+arcabouço jurídico para o financiamento dos programas, possivelmente os órgãos
+executam suas ações de forma autônoma, não havendo, na dinâmica orçamentária,
+um coordenador para integração do orçamento no que diz respeito a PNSAN.
+
+Maior eficácia alocativa dos recursos públicos pressupõe uma reorientação do
+processo orçamentário, de modo que se tenha um alinhamento estratégico entre plano
+e orçamento. Contudo, a ligação entre esses instrumentos é tão tênue que o
+orçamento federal anual, em si mesmo, quase prescinde inteiramente do PPA. Só não
+prescinde da LDO pela necessidade de cumprimento dos parâmetros fiscais
+estabelecidos, já que os parâmetros estratégicos não têm sido decisivos para a
+
+definição do orçamento ao longo dos anos.
+
+Com a mudança de metodologia, o MP teve a intenção de transformar o PPA
+de um grande “orçamento-programa” em um instrumento realmente estratégico que
+orienta a ação governamental. O plano busca retratar a agenda de governo organizada
+pelos temas das políticas públicas. Sua abrangência deve ser suficiente para
+representar os desafios e organizar a gestão, o monitoramento, a avaliação, as
+transversalidades, as multissetorialidades e a territorialidade (BRASIL, 2011b).
+
+Nesse escopo, foi desenhado e proposto no novo PPA o programa temático!?
+
+denominado “Segurança Alimentar e Nutricional” que representa, em tese, todas as
+
+19 No PPA 2012-2015 a categoria “Programa Temático” retrata a agenda de governo organizada pelos
+temas das Políticas Públicas e orienta a ação governamental. Sua abrangência deve ser a necessária para
+representar os desafios e organizar a gestão, o monitoramento, a avaliação, as transversalidades, as
+multissetorialidades e a territorialidade. O Programa Temático se desdobra em objetivos, metas e
+iniciativas. Ao articular um conjunto de objetivos afins, permite uma agregação de iniciativas
+governamentais mais aderentes à gestão pública e, desse modo, aprimora a coordenação das ações de
+
+52
+ações do governo federal relacionadas à Política Nacional de SAN apresentado no
+quadro abaixo.
+
+Quadro 4.3. Programa temático “Segurança Alimentar e Nutricional - PPA 2012-2015
+
+ 
+
+(continua
+ÓRGÃO EXECUTOR | TEMA AÇÕES EM oe
+n lo
+
+Abastecimento Agroalimentar (Quantidade e
+MAPA Percentual de ações do MAPA no conjunto total de 2 10,5
+ações de SAN)
+
+Agricultura Familiar (Plano Safra e Aquisição de
+MDA Alimentos (Quantidade e Percentual de ações do 2 10,5
+MDA no conjunto total de ações de SAN)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Acesso à Alimentação 3 231
+Ações Estruturantes 3 23,1
+Agricultura Familiar (Plano Safra e Aquisição de 2 153
+Alimentos '
+MDS Alimentação saudável 1 711
+Gestão de políticas 1 7,1
+SAN dos povos indígenas 1 7,7
+SAN no Semiárido 2 15,3
+Quantidade e Percentual de ações do MDS no 13 684
+conjunto total de ações de SAN r
+MMA SAN no Semiárido (Quantidade e Percentual de 1 53
+
+ações do MMA no conjunto total de ações de SAN)
+
+ 
+
+ 
+
+governo. Além disso, incorpora os desafios governamentais e justifica a ação do governo por meio de
+ações consideradas determinantes para o desenvolvimento do país (BRASIL, 2011b).
+
+Existem no PPA 2012-2015 65 programas temáticos, incluindo a SAN, destacados a seguir: 1- Agricultura
+Familiar; 2- Agricultura irrigada; 4- Agropecuária sustentável, abastecimento e comercialização; 5-
+Aperfeiçoamento do Sistema Único de Saúde (SUS); 5- Autonomia e emancipação da juventude; 6-
+Aviação civil; 7- Biodiversidade; 8- Bolsa Família; 9- Cidadania e Justiça; 10- Ciência, tecnologia e
+inovação; 11- Combustíveis; 12- Comércio e serviços; 13- Comércio exterior; 14- Comunicações para o
+desenvolvimento, a inclusão e a democracia; 15- Conservação e gestão de recursos hídricos; 16-
+Coordenação de políticas de prevenção, atenção e reinserção social de usuários de crack, álcool e outras
+drogas; 17- Cultura: preservação, promoção e acesso; 18- Defesa agropecuária; 19- Democracia e
+aperfeiçoamento da gestão pública; 20- Desenvolvimento produtivo; 21- Desenvolvimento regional,
+territorial sustentável e economia solidária; 22- Educação básica; 23- Educação profissional e tecnológica;
+24- Educação superior - graduação, pós-graduação, ensino, pesquisa e extensão; 25- Energia elétrica; 26-
+Enfrentamento ao racismo e promoção da igualdade racial; 27- Esportes e grandes eventos esportivos; 28-
+Florestas, prevenção e controle do desmatamento e dos incêndios; 29- Fortalecimento do Sistema Único
+da Assistência Social (SUAS); 30- Gestão da política econômica e estabilidade do sistema financeiro
+nacional; 31- Gestão de riscos e resposta a desastres; 32- Gestão estratégica da geologia, da mineração e
+da transformação mineral; 33- Inovações para a agropecuária; 34- Integração sul-americana; 35-
+Licenciamento e qualidade ambiental; 36- Mar, Zona Costeira e Antártida; 37- Micro e pequenas
+empresas; 38- Mobilidade urbana e trânsito; 39- Moradia digna; 40- Mudanças climáticas; 41- Oferta de
+água; 42- Pesca e aquicultura; 43- Petróleo e gás; 44- Planejamento urbano; 45- Política espacial; 46-
+Política externa; 47- Política nacional de defesa; 48- Política nuclear; 49- Política para as mulheres:
+promoção da autonomia e enfrentamento à violência; 50- Previdência social; 51- Promoção dos direitos de
+crianças e adolescentes; 52- Promoção dos direitos da pessoa com deficiência; 53- Promoção e defesa
+dos direitos humanos; 54- Proteção e promoção dos direitos dos povos indígenas; 55- Reforma agrária e
+ordenamento da estrutura fundiária; 56- Resíduos sólidos; 57- Saneamento básico; 58- Segurança
+alimentar e nutricional; 59- Segurança pública com cidadania; 60- Trabalho, emprego e renda; 61-
+Transporte ferroviário; 62- Transporte hidroviário; 63- Transporte marítimo; 64- Transporte rodoviário; 65-
+Turismo (BRASIL, 2013b).
+
+53
+Quadro 4.3. Programa temático “Segurança Alimentar e Nutricional - PPA 2012-2015
+
+ 
+
+ 
+
+ 
+
+ 
+
+(conclusão)
+Alimentação saudável 1 50,0
+MS Vigilância Sanitária 1 50,0
+Quantidade e Percentual de ações do MS no conjunto 2 10,5
+total de ações de SAN ”
+TOTAL GERAL 19 100
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Naquele momento havia a possibilidade de que o programa temático de SAN
+refletisse a PNSAN e que sua gestão fosse acompanhada por este instrumento. As
+informações disponíveis no quadro 4.3 apontam que, na prática, isso não se
+concretizou. O conjunto de ações que constam dentro do programa de SAN
+praticamente corresponde a apenas 15,9% do total de ações que eram acompanhadas
+pelo CONSEA no PPA 2008-2011. As demais ações (84,1%) estão distribuídas pelos
+outros programas temáticos contidos no Plano.
+
+Para tentar minimizar esse problema de fragmentação da PNSAN gerada por
+diversos tipos de disputas, incluindo a orçamentária, entre os órgãos, o MP criou as
+chamadas agendas transversais, documentos que reúnem o conjunto dos
+compromissos de governo relativos a temas de natureza transversal e multissetorial a
+partir das informações contidas no PPA 2012-2015.
+
+São formas alternativas de organização das informações contidas no Plano,
+que permitem apreender a ação planejada para assuntos que estão dispersos nos
+programas temáticos, fazendo uso da maior capacidade do PPA 2012-2015 de revelar
+os compromissos de governo para os públicos e temas específicos (BRASIL, 2013d).
+
+A novidade das agendas transversais permitiu revelar políticas para grupos
+sociais específicos, mesmo em programas não voltados exclusivamente a esses
+públicos. Além da identificação das temáticas por populações específicas, é possível
+agregar por temáticas como Água, Desenvolvimento Regional, Meio Ambiente,
+
+H 1. Brasil Maior; 2. Brasil sem Miséria; 3. Água; 4. Ciência, Tecnologia e Inovação; 5. Criança e
+Adolescente; 6. Desenvolvimento Regional; 7. Desertificação, Produção e Uso de Recursos Hídricos e de
+Combate à Pobreza; 8. Fórum Desenvolvimento Econômico; 9. Geo Informação; 10. Igualdade Racial e
+Comunidades Quilombolas; 11. Juventude; 12. Meio Ambiente; 13. Organização Produtiva, Inovação,
+Território, Desenvolvimento Regional e Socioambiental; 14. Pessoas com Deficiência; 15. Políticas para as
+Mulheres; 16. Políticas para Idoso; 17. Políticas para os Objetivos do Milênio; 18. Políticas para
+Prevenção, Atenção e Reinserção Social para Usuários de Crack, Álcool e Outras Drogas; 19. População
+em Situação de Rua; 20. População LGBT; 21. Povos Indígenas; 22. Segurança Alimentar e Nutricional
+(BRASIL, 2013c).
+
+54
+Agricultura Familiar, Aperfeiçoamento do Sistema Único de Saúde (SUS), Segurança
+Alimentar e Nutricional, dentre outros.
+
+O levantamento da agenda transversal de SAN no PPA realizado pelo MP
+(BRASIL, 2013c) considerou as metas do programa temático Segurança Alimentar e
+Nutricional e metas de outros programas temáticos do PPA 2012-2015, todas incluídas
+na elaboração do PLANSAN 2012/2015. Ademais, o PLANSAN extrapola tanto o
+programa temático da SAN como a agenda transversal de SAN do PPA 2012-2015.
+
+É evidente que há um grande esforço em elaborar uma agenda de gestão mais
+integrada da PNSAN. O trabalho de análise e monitoramento das ações iniciado pela
+sociedade civil, representada pelo CONSEA, certamente contribuiu para uma
+reorganização da PNSAN no novo PPA. Ainda assim, a reflexão realizada nesta seção
+aponta para a necessidade de se olhar a SAN de forma menos fragmentada.
+
+A análise orçamentária permite concluir que o orçamento impõe limites à
+estratégia de gestão integrada e, não apenas isso, ele em si mesmo corresponde à
+estratégia, prescindindo, de alguma forma, do instrumento de planejamento
+governamental.
+
+A tentativa de elaboração de um plano mais completo para a PNSAN pode ser
+uma das formas de cobrir as limitações apresentadas no PPA. Entretanto, embora o
+PLANSAN possibilite a gestão mais integrada da política de SAN, suas metas,
+necessariamente, devem estar contidas no PPA, garantindo que ele seja um
+instrumento de planejamento in action.
+
+55
+4.3. A PNSAN: Algumas considerações à luz da teoria da fragmentação de
+políticas públicas
+
+Este tópico tem como objetivo avaliar, a partir do referencial teórico
+apresentado no capítulo 3 e dos dados públicos relacionados à SAN no PPA
+discutidos na seção anterior, a propensão à fragmentação ou à integração da PNSAN,
+baseando-se nos conceitos de coerência, consistência e coordenação das políticas.
+Em função das informações disponíveis e do tempo previsto para a pesquisa, foi
+realizado um pequeno recorte dos fatores estruturais propostos por Martins (2003)
+aplicando-os ao contexto da PNSAN.
+
+A PNSAN é essencialmente uma política intersetorial e, com isso, enfrenta
+desafios de grande monta na sua implementação. Suas características inovadoras
+foram legitimamente instituídas para dar conta de um cenário bastante complexo de
+grande diversidade, cujos controles não estão ainda bem estabelecidos. Para este tipo
+de política é possível realizar uma análise qualitativa de um processo de fragmentação
+ou integração de ações. Com isso, pode-se chegar a um diagnóstico bastante próximo
+de alguns entraves presentes na coordenação, consistência, coerência e integração
+das ações de SAN no governo e proposta de soluções.
+
+Como já mencionado anteriormente, este trabalho constitui-se no embrião para
+novos estudos detalhados sobre o fenômeno da fragmentação de políticas, mais
+especificamente da PNSAN. Dentre os seis fatores estruturais apresentados, foram
+escolhidos três que determinam a análise do orçamento e do planejamento
+governamentais: a estratégia, a estrutura e os processos.
+
+A seguir, serão apresentados os fatores estruturais que favorecem a integração
+ou a fragmentação da PNSAN selecionados para este estudo:
+
+* Estratégia
+
+A análise da estratégia para a PNSAN é um fator de extrema relevância, mas
+sozinho não garante a integração das ações.
+
+Uma das questões que leva ao não planejamento integrado de uma política
+pública é, primeiramente a orientação de curto prazo do processo decisório, devido à
+curta duração dos ciclos eleitorais (4 anos). Os políticos focalizam nos interesses de
+
+56
+curto prazo, quando a análise e os compromissos devem ser de longo prazo. O PPA
+não corresponde a um planejamento governamental estratégico de longo prazo. A
+cada quatro anos deve ser elaborado um novo plano.
+
+Embora se tenha o PPA como estratégia do governo para solução dos
+problemas apontados pela sociedade, observa-se, a partir da análise dos seus
+programas e ações orçamentárias, que a temática da SAN está pulverizada em
+diversos órgãos, com objetivos e metas não muito claros e alocação de recursos que
+não espelham a lógica de uma política efetivamente coordenada.
+
+O processo de monitoramento e avaliação do PPA é tido mais como uma etapa
+burocrática, de prestação de contas à sociedade via extensos relatórios, do que uma
+correção de rumo e tomada de decisão. A elaboração do PLANSAN responde a uma
+tentativa de dar conta da PNSAN de forma mais coordenada. Entretanto, os órgãos
+seguem a implementação das ações de forma autônoma, independentemente do
+PLANSAN, tendo apenas o compromisso de executar os recursos e prestar contas ao
+MP, colocando na discussão o importante papel de coordenação horizontal da
+CAISAN apresentado no capítulo 1.
+
+Ademais, a co-existência de dois planos (PPA e PLANSAN) já sinaliza que
+existe um problema de estratégia. Esse indicativo aponta para uma propensão à
+fragmentação da PNSAN.
+
+Estabelecer uma estrutura estratégica para a formulação da política ajuda a
+garantir que as políticas individuais que compõem a PNSAN sejam consistentes com
+as metas e prioridades do governo. A existência de uma visão geral central, bem como
+de uma capacidade de coordenação central seria essencial para assegurar a
+integração da PNSAN.
+
+Embora o PLANSAN seja um instrumento de planejamento estratégico,
+instituído por lei, que confere uma visão única da PNSAN, ao mesmo tempo suas
+metas devem, necessariamente, estar no PPA a fim de que os recursos financeiros
+para a execução de suas ações sejam garantidos. Neste ponto, evidencia-se a
+existência de um trade off entre PPA e PLANSAN, ou seja, ao mesmo tempo em que o
+PPA não consegue garantir uma gestão mais integrada da PNSAN, o PLANSAN tem
+potencial para isso, mas não sem colocar em risco a própria integração da política na
+medida em que fragmenta a estratégia governamental.
+
+57
+“% Estrutura
+
+A análise da estrutura organizacional para a formulação e implementação da
+PNSAN permite identificar um arranjo fragmentário. Pelo dados apresentados
+anteriormente, existem múltiplos domínios institucionais alocados em distintos
+ministérios. Logicamente, quanto mais fragmentador o desenho organizacional,
+compartimentando domínios, maior a relevância e maior a complexidade dos
+mecanismos de coordenação, não apenas técnicos, mas também políticos.
+
+Para Gamier (2000), apesar de o mecanismo de coordenação ter um
+componente técnico, ela se constitui, ao mesmo tempo ou essencialmente, em uma
+função política que não se limita a compatibilizar as ações e programas
+governamentais evitando com isto as duplicidades, paralelismos e conflitos que podem
+ocorrer quando ocorrem sobreposições não planejadas, ou quando essa mesma falta
+de coordenação deixa lacunas na ação pública. A coordenação pressupõe algo mais:
+“[..] trata-se de coordenar as políticas de modo que se consiga integrar distintas
+decisões e ações do governo de uma única visão de conjunto e com uma clara
+perspectiva de longo prazo.”(GARNIER, 2000).
+
+Na medida em que há um amplo conjunto de órgãos executando ações de uma
+mesma política dentro de um mesmo governo e nos governos subnacionais, de acordo
+com a figura 4.2, o grau de complexidade vai aumentando e com isso fica mais difícil
+de ser alcançar a integração da política. É exatamente isso que acontece com a
+PNSAN.
+
+Existe uma pluralização interna e a fragmentação de perspectivas dentro do
+APF. Decorrente desse quadro, há uma intensificação do conflito e, em geral, um
+aumento da imprevisibilidade no longo prazo e nos supostos efeitos sinérgicos de
+políticas individuais quase “impossíveis” de se coordenar.
+
+Se por um lado a CAISAN como instância de coordenação do SISAN pode
+reduzir a propensão à fragmentação das ações, por outro sua atuação fica limitada
+pela sua posição dentro da estrutura de governança do governo federal. Formalmente
+este órgão colegiado é coordenado pelo MDS e sua Secretaria Executiva encontra-se
+dentro da estrutura do Ministério. Obviamente deve haver conflitos de jurisdição
+quando se tem que coordenar 19 Ministérios. Dentro dos limites desse trabalho não é
+
+58
+possível identificar claramente os conflitos, sendo este tema um possível
+desdobramento do estudo.
+
+Com efeito, o arranjo institucional da PNSAN incide diretamente em sua
+formulação e implementação. Certamente a estrutura e a capacidade organizacional
+são condições necessárias, mas não suficientes, para que a PNSAN seja bem
+sucedida. Por haver a existência de dois planos estratégicos, problema já identificado
+anteriormente, pode-se afirmar que necessariamente haverá disputa pelos mesmos
+recursos. Esta situação é evidenciada nos sistemas de monitoramento e avaliação que
+competem entre si.
+
+Dessa forma observa-se que a PNSAN resulta de mais um constrangimento,
+sendo as questões institucionais tratadas até aqui apenas uma das variáveis deste
+processo. A CAISAN pode funcionar como um mecanismo integrador. No entanto, da
+forma como está posicionada na estrutura do governo, seu papel limita-se a um fórum
+de debate entre órgãos do governo federal e entre os governos subnacionais, além de
+um mecanismo de interlocução com a sociedade civil organizada, representada pelo
+CONSEA.
+
+A estrutura instituída para a gestão da PNSAN representa um avanço, mas
+esbarra-se na estrutura setorialzada e com rotinas de trabalho, de certa forma, já
+consolidadas. A CAISAN e o CONSEA representam mecanismos de coordenação
+potentes e podem exercer um papel muito mais ativo se estiverem posicionados mais
+estrategicamente dentro da estrutura administrativa do governo federal e também nos
+governos estaduais e municipais. O CONSEA faz parte da estrutura da PR, mas sua
+função é apenas consultiva, podendo o Presidente da República acatar ou não suas
+decisões.
+
+Já a situação da CAISAN destaca a incoerência de suas atribuições instituídas
+na LOSAN e o que de fato acontece na prática. Por estar encapsulada na estrutura de
+um Ministério, sua capacidade de coordenação obviamente fica limitada. Essa questão
+apresenta um indicativo de que, talvez, por quaisquer questões políticas, não haja o
+interesse em fortalecer esta instância, na medida em que poderá haver interferências
+e perdas de poder de outras. No entanto, na medida em que se trabalhe com um
+objetivo comum, pode-se criar meios de fortalecimento mútuo.
+
+59
+“% Processos
+
+As decisões da CAISAN podem gerar convergência sobre as soluções
+propostas por distintos órgãos ou entidades vinculadas incumbidas de propor e
+implementar políticas de SAN, entretanto, tanto órgãos centrais, quanto as demais
+organizações que seguem suas orientações, aplicam as regras de forma autônoma,
+somente considerando as decisões da CAISAN como consultivas.
+
+Isso pode ser identificado quando na análise do orçamento e as diferenças de
+execução entre os diversos órgãos.
+
+As trajetórias de implementação dos órgãos seguem direcionamentos
+relativamente autônomos e fragmentários, na medida em que ainda se pautam por
+visões muito distintas de problemas e soluções, resultando em ações que competem
+entre si formando distintas coalizões. O papel da CAISAN como instrumento apenas
+consultivo exacerba esse quadro.
+
+Uma perspectiva baseada na lógica intersetorial implica mais do que justapor
+projetos formulados e realizados setorialmente (INOJ OSA, 2001). A análise dos dados
+reforça a tese de que isso ainda ocorre com a PNSAN. A política é composta por um
+conjunto de outras políticas que foram elaboradas de forma setorial e que previamente
+não houve um acordo para integrá-las. Por outro lado, pressupõe-se que, embora o
+arcabouço jurídico-formal não seja suficiente para promover a intersetorialidade, já
+existe um importante processo de mudança em curso na gestão da PNSAN.
+
+Uma avaliação inicial permite perceber que, ao intencionar harmonizar
+objetivos nem sempre compatíveis — ou, pelo menos, não automaticamente
+harmonizáveis os arranjos político-institucionais em questão acabam por trazer à tona
+novas “tensões” entre atores, estruturas e interesses. Contudo, entende-se que estas
+novas tensões são justamente o elemento diferenciador da realização de políticas de
+corte desenvolvimentista em contexto democrático. O contexto democrático favorece a
+inclusão de atores e interesses nos processos, e a implementação das políticas
+
+precisa lidar e processar os conflitos provenientes (GOMIDE e PIRES, 2013).
+
+Pressupõe-se também que o processo é revelador de contrastes entre as
+perspectivas formais e informais dos arranjos já aqui apresentados — ou seja,
+
+60
+constituem-se de atos normativos (in books) vis-à-vis suas manifestações na prática
+(in action). (Gomide e Pires, 2013)
+
+propensão à integração ou à fragmentação da PNSAN.
+
+Quadro 4.4. Síntese dos fatores estruturais aplicados à PNSAN.
+
+O quadro a seguir apresenta a síntese dos fatores estruturais que indicam a
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GRUPO VARIÁVEL PROPENSÃO À PROPENSÃO À PNSAN PROPENSAÃO
+INTEGRAÇÃO FRAGMENTAÇÃO
+Estratégia Plano Há um projeto As diretrizes e os Há a existência de dois
+governamental nacional ou de objetivos centrais planos estratégicos -
+governo expresso | de governo não PPA e PLANSAN. No
+claramente soba | estão claros nem PPA a SAN está
+forma de um integrados sob a pulverizada em Fragmentação
+plano forma de um plano diversas ações que
+não necessariamente
+estão no programa
+temático da SAN.
+Estrutura Desenho A macroestrutura Há uma Existe uma
+organizacional | está agrupada de | pulverização da macroestrutura para a
+tal forma que as macroestrutura, gestão da PNSAN
+áreas de com perda de instituída em lei. Este
+responsabilidade supervisão e formato propicia a integração
+estão claras e sob | sobreposições e integração. Entretanto
+a supervisão do paralelismos não- há um trade off entre a
+Presidente da claros estrutura instituída em
+República leie a que ocorre na
+prática.
+Coordenação Os mecanismos Os mecanismos de | Os mecanismos de
+de coordenação coordenação não coordenação - CAISAN
+conseguem logram promover e CONSEA conseguem
+promover o integração lateral promover um mínimo
+mínimo de ou vertical de integração Fragmentação
+integração horizontal, mas não
+horizontal e vertical.
+vertical
+necessária
+Processos Autonomia Os processos Os domínios Na execução da
+pertinentes ao institucionais são PNSAN observa-se
+subsistema de preponderantement | diversos domínios
+política e autônomos na institucionais que
+perpassam execução de executam suas Fragmentação
+diversos domínios | atividades políticas setoriais de
+institucionais, forma autônoma
+tornando-os
+interdependentes
+Integração Poucos Grande diversidade | Grande diversidade de
+vertical e stakeholders, de stakeholders, atores. Inúmeros
+horizontal baixo conflito de limitações na domínios institucionais.
+autoridade dos autoridade dos Complexas formas de
+domínios domínios integração
+institucionais, institucionais, Fragmentação
+resultados claros demandas
+e formas de conflitantes e
+integração bem múltiplas e
+
+ 
+
+ 
+
+estabelecidas
+
+ 
+
+complexas formas
+de integração
+
+ 
+
+ 
+
+ 
+
+61
+
+ 
+A PNSAN, de acordo com a análise dos mecanismos estruturais, apresenta
+uma importante propensão à fragmentação. A identificação dos fatores destacados no
+quadro acima oferecem um diagnóstico capaz de fornecer pistas para minimizar todo
+esse contexto de fragmentação, buscando um mínimo de integração capaz de colocar
+a PNSAN como referência na integração de políticas altamente complexas e
+intensamente intersetoriais.
+
+Não basta apenas lidar com a estrutura. A estratégia é igualmente e
+potencialmente capaz de levar a PNSAN a uma situação de integração. O ideal é que
+exista apenas um instrumento de planejamento estratégico. A existência de planos
+específicos para políticas específicas demonstra que o PPA não consegue ainda suprir
+todo o conjunto de soluções para a multiplicidade de problemas com que as políticas
+têm que lidar. Daí a elaboração de inúmeros planos tanto no governo federal quanto
+nos governos subnacionais.
+
+Igualmente, processos coordenados são necessários quando se deseja
+alcançar um mínimo de integração. O fato é que demandas conflitantes, decorrentes
+de um amplo processo democrático, o que é um fator positivo e legítimo,
+complexificam os processos, normalmente com muitos atores e instituições
+envolvidas. Nesse ponto a PNSAN não foge à essa característica e um ator importante
+essencial nesse processo de articulação pode ser a CAISAN funcionando em um lócus
+institucional estratégico.
+
+“& INTEGRAÇÃO DA PNSAN
+
+As visões e estratégias são apenas pré-requisitos básicos para a coordenação,
+consistência e coerência de uma política pública. Uma política coerente pode
+apresentar um grau satisfatório de integração. Mas quando se trata de políticas
+complexas com nível exacerbado de detalhes, são necessários mecanismos
+específicos para integrar os diversos objetivos, metas e iniciativas.
+
+O nível político é responsável por identificar questões de políticas, elaborar
+estratégias, ajustar objetivos e prioridades, formular respostas, alocar recursos, fazer
+julgamentos sobre resultados e adequar as políticas de acordo com as necessidades.
+Por isso alcançar a coerência depende muito dos processos políticos, que não são
+muito previsíveis. Conseguir a coerência de políticas públicas será,
+consequentemente, mais do que uma tarefa puramente técnica.
+
+62
+e COORDENAÇÃO E CONSISTÊNCIA
+
+A CAISAN é o mecanismo formal de coordenação da PNSAN dentro do
+governo. Na prática, como comentado anteriormente, isso não acontece,
+principalmente por sua localização não estratégica dentro da estrutura administrativa
+do governo federal. A Câmara tem funcionado mais como um conselho consultivo do
+que como uma instância de tomada de decisão e capaz de dar maior consistência e
+coerência à política.
+
+Considerando a estrutura do SISAN, essa instância também deve ser replicada
+nos níveis subnacionais para garantir a coordenação vertical ou intergovernamental.
+As CAISANs dos entes subnacionais ainda se encontram em processo inicial de
+instituição, considerando que estados e municípios devem aderir ao Sistema
+assinando, deve existir um acordo de pactuação com o governo federal. A CAISAN
+Nacional e seus congêneres subnacionais servem para reunir os diferentes setores e
+interesses precipuamente para a tomada de decisões finais.
+
+Com relação aos mecanismos de coordenação vertical, eles existem também
+para garantir o nível desejado de consistência dos três níveis de governo (União,
+estados e municípios). Isso particularmente, no caso do Brasil é crucial, já que os
+governos subnacionais são dotados de independência administrativa e política,
+exigindo formas amplas de pactuação e o processo é mais tenso quando se lida com a
+PNSAN.
+
+A questão a ser colocada é se estas instâncias contribuem efetivamente para a
+solução coordenada de conflitos dentro da PNSAN. Nesse ponto, a pesquisa realizada
+neste estudo não permite responder a tal pergunta. A resolução de conflitos pela
+CAISAN carece de uma análise mais aprofundada, possivelmente um estudo
+qualitativo com realização de entrevistas com atores-chave e análise das atas das
+reuniões do Pleno Executivo da CAISAN.
+
+De qualquer modo e como já explicitado neste trabalho, nem a estrutura,
+apesar de importante, nem a estratégia se constituem em condição suficiente para
+garantir o êxito da coordenação e da consistência. A coordenação eficaz requer
+processos eficazes. A questão importante a ser destacada é que mecanismos formais
+de coordenação não requerem, necessariamente um sistema altamente complexo de
+tomada de decisão. Pelo contrário, quanto mais simples, mais efetivo.
+
+63
+Uma tendência geral no setor público é a exigência de uma crescente
+especialização organizacional, além de uma ampla delegação de autoridades e
+criação de entidades independentes. Essa tendência justifica-se pela necessidade de
+lidar com questões emergentes e complexas. Essa crescente necessidade de
+conhecimento especializado levou à fragmentação dentro das organizações do
+governo com diferentes processos de coordenação.
+
+Nesse ponto há um novo trade off. Se por um lado, a intersetorialidade surgiu
+para atender às demandas complexas exigindo uma necessária integração das
+políticas e ações governamentais, por outro a necessidade crescente de conhecimento
+especializado levou ao aumento da fragmentação, reduzindo seu desempenho em
+processos de coordenação e alcance de consistência dentro da política. Quando se
+trata de questões complexas e transversais, a capacidade do governo de fornecer
+soluções adequadas aos problemas é cada vez mais testada.
+
+Enquanto a descentralização e a transferência de responsabilidades ocorrem
+em diversas instituições do governo, mecanismos como a criação de uma instância de
+coordenação sugerem que um "centro mais forte" garantirá a coordenação efetiva e
+melhor consistência das políticas. A CAISAN poderia exercer esse papel, caso não
+estivesse com seu papel tão reduzido em função de sua localização institucional.
+
+e COERÊNCIA
+
+Com relação à coerência, é particularmente difícil sua abordagem no caso de
+problemas complexos como é a garantia de SAN da população. Uma abordagem de
+coerência necessariamente exige que se vá além das práticas usuais de coordenação
+(primeiro estágio para o alcance da integração).
+
+O conceito de coerência é diferente dos conceitos de coordenação e de
+consistência. No capítulo 2, em síntese, destacou-se a coordenação como sendo um
+processo formal de formulação de políticas conduzido dentro do aparelho do governo.
+) á a consistência como sendo o processo que assegura que os objetivos das políticas
+sejam atingidos e que não sejam contraditórios.
+
+“A coerência assegura a promoção sistemática de ações mutuamente
+reforçadoras realizadas pelos atores governamentais e não-governamentais visando
+criar e manter sinergias para atingir o objetivo definido.“ (MARTINS, 2003, grifo do
+autor).
+
+64
+Uma das conclusões deste trabalho é que as soluções puramente
+organizacionais podem ser úteis mas não são suficientes para o alcance da coerência.
+Requer-se uma reengenharia das instituições e uma capacidade de aproveitar melhor
+as ferramentas de coordenação de políticas para monitorar a integração destas.
+
+Deve-se também destacar que o impacto da criação de novas instituições
+dependerá de como o novo órgão está posicionado estrategicamente no sistema
+administrativo. É interessante notar que geralmente leva um certo tempo para uma
+instituição nova tornar-se operacional e esse fator não deve ser subestimado. Este é o
+caso da CAISAN, criada em 2006, mas que somente passou a funcionar em 2008.
+
+Com relação ao orçamento, embora seja um instrumento, evidenciado pelos
+dados, que prescinde quase que totalmente da estratégia, possui capacidade
+moderada de promover a coerência pelo fato de sua aprovação ocorrer anualmente,
+por meio da LOA e não permitir realizar a gestão efetiva dos gastos para os
+programas, ações e projetos dispostos no PPA, já que seu horizonte temporal é de
+curtíssimo prazo.
+
+O processo orçamentário reflete as prioridades do governo para determinados
+temas. O controle do processo está sob a responsabilidade do MF e MP, levando a
+uma tendência amplamente verificada para a política econômica. Entretanto, dada a
+sua natureza central no processo de formulação de políticas, o processo orçamentário
+poderia desempenhar um papel maior na integração de objetivos mais abrangentes.
+As análises realizadas não apontaram nesse sentido, pelo contrário, detectou-se que o
+orçamento é um mecanismo independente.
+
+Uma outra implicação da coerência é que a qualidade da interação entre
+diversas organizações seja eficaz. Ao tentar fazer com que diversas organizações
+trabalhem juntas e bem, a inércia de práticas já estabelecidas na subcultura de uma
+organização deve ser levada em conta. Ao mesmo tempo, o fato de que alguma
+mudança decisiva pode ocorrer devido à agenda interna de uma organização, o que
+afetaria a coerência de todo o processo de interação, também deve ser levado em
+
+conta.
+
+A tendência geral de transferência de responsabilidades ao nível subnacional
+geralmente é motivada por uma combinação de interesses políticos e preocupações
+com a eficiência. Embora a descentralização possa ter contribuído para a promoção
+de inovações nas políticas e para melhorar a efetividade, ela também criou uma série
+de desafios, dos quais as questões fiscais e de coordenação são as mais urgentes.
+
+65
+Alcançar a coerência parece ser um processo que envolve, por um lado,
+instrumentos específicos para melhorar a coordenação e, por outro, a consistência das
+políticas selecionadas. As ferramentas precisam ser aplicadas às políticas com
+cuidado para evitar que uma política possa comprometer a efetividade de outra.
+
+Para ser efetiva, a coerência requer a promoção de mudanças
+comportamentais dentro do governo. Isso se torna possível através de um
+compromisso com a melhoria dos métodos de gestão de conhecimento, inclusive
+através de uma interação mais aberta com a sociedade civil. O grau de consistência
+existente na PNSAN se deve, principalmente, pela ampla participação da sociedade
+civil no processo de discussão e formulação da política e também pelo importante
+papel do CONSEA, como mecanismo coordenador e garantidor da integração da
+política.
+
+Por fim, a avaliação crítica da formulação de estratégias setoriais e de sua
+implementação consiste em um ferramenta para o alcance de coerência e um mínimo
+de integração. Quando um objetivo de política se transforma numa prioridade nacional,
+é essencial que a execução da estratégia seja monitorada por uma instituição com
+ampla jurisdição e com localização institucional estratégica, atuando como um
+“catalisador”.
+
+66
+CAPÍTULO 5 CONCLUSÃO
+
+Ao longo dos capítulos deste trabalho procurou-se identificar os limites e
+desafios para a gestão intersetorial das políticas públicas com um foco mais apurado
+para a PNSAN. O diagnóstico da situação de fragmentação ou integração é essencial
+e não se esgota neste estudo, pelo contrário, aponta para o desenvolvimento de novas
+pesquisas aplicadas a outros campos de políticas públicas, visando a apresentação de
+modelos mais propícios à integração.
+
+As principais questões que provocaram este estudo foram: 1- De que forma se
+dá a gestão intersetorial da política de SAN? 2- Como, dentro da estrutura
+administrativa do Estado brasileiro, é possível desenvolver ações intersetoriais que
+consigam incluir toda a multidimensionalidade da temática da SAN no Brasil?
+
+A apresentação e análise feita até aqui tentou responder a estas perguntas,
+não tendo a pretensão de, a partir do estudo da PNSAN, prover algum padrão para as
+demais políticas.
+
+A construção de uma política integrada de governo permanece como um
+desafio. Deve-se considerar as dificuldades de articulação de diversos ministérios,
+além das estruturas dos órgãos subnacionais. Um desses desafios consiste na
+articulação e no aproveitamento de potenciais sinergias, ganhos de escopo e de
+escala entre políticas sociais diferentes, mas que, por pertencerem a um mesmo
+sistema em estruturação, devem estar integradas para melhor atender a seus
+destinatários e evitar duplicidade de procedimentos e multiplicação de custos.
+
+A CAISAN é um colegiado potencialmente capaz de promover a coordenação e
+consistência da PNSAN. O desafio de resolver conflitos entre 19 ministérios e entes
+federados é de grande escopo. Por ser uma estrutura recente, em processo de
+implementação, principalmente nos governos estaduais e municipais, deve enfrentar
+dificuldades inerentes a um processo novo e inédito.
+
+O CONSEA, como um Conselho suprassetorial, tem a possibilidade de
+interferir nas dinâmicas setoriais como um mecanismo coordenador e esta atuação é
+potencializada por sua vinculação à Presidência da República, o que caracteriza
+desempenho privilegiado e diferenciado deste espaço na promoção da
+intersetorialidade.
+
+67
+A PNSAN estruturou-se como política pública possivelmente de forma mais
+integrada no território, (mais estudos sobre a implementação de políticas nos
+municípios, onde a realidade acontece, devem ser realizados), e pulverizada
+administrativamente dentro do governo federal. Tanto a estrutura territorial/local,
+quanto a estadual e a nacional integram um mesmo sistema, mas apresentam
+características muitas vezes contraditórias. Fatalmente haverá problemas de
+coerência decorrentes do modelo federativo brasileiro.
+
+Mecanismos para antecipar, detectar e resolver conflitos entre as políticas no
+início do processo de formulação e implementação ajudam a identificar inconsistências
+e reduzir a incoerência. O processo decisório deve ser organizado para alcançar a
+conciliação efetiva entre as prioridades nas políticas e os imperativos orçamentários.
+
+Manter um nível suficiente de coerência nas políticas é um objetivo que deve
+ser considerado caso a caso. Apesar de alguns estudos na literatura, não há nenhum
+"modelo" ou padrão que ajude a definir o nível ideal de coerência a ser aplicada em
+todas as circunstâncias. Vários mecanismos que contribuem para a coerência nas
+políticas podem ser destacados: integração das políticas através de ferramentas
+orçamentárias, avaliação direcionada das políticas e avaliação de impacto. Todos
+contribuem para melhorar a coerência de políticas específicas e podem ajudar a
+garantir que as escolhas e as práticas sejam mais coerentes.
+
+Algumas das barreiras à coerência derivam do fato de que é um desafio
+técnico alcançar a coerência de processos e instituições governamentais. Isso resulta
+da dificuldade de avaliar a coerência nos processos das políticas e de provocar
+mudanças organizacionais. Realmente não é um processo trivial. Mudanças em
+processos assim como em instituições requerem um grande esforço para lidar com a
+memória institucional, a trajetória dessas organizações (path dependence), valores e
+ideias.
+
+O PPA constitui-se em um projeto ambicioso cujo enfoque visa submeter todas
+as ações de governo a uma formatação padronizada. Entretanto, a categoria
+“Programa” é cheia de ambiguidades e a lógica dos “Programas”, na maioria dos
+casos, é incompatível com a das organizações reais e com as pressões
+orçamentárias.
+
+A padronização esperada no PPA ignora as diferenças entre as organizações
+quanto aos objetivos e presume que a melhoria do desempenho é o produto da
+
+68
+aplicação de uma fórmula padrão. Ela pulveriza a distribuição dos recursos e não
+
+sinaliza claramente as reais prioridades do governo.
+
+O modelo de gestão do novo PPA, recentemente estabelecido, avança no
+tratamento de questões intersetoriais, mas deixa pendente a questão da
+intersetorialdade da SAN reproduzindo lacunas das abordagens anteriores. A nova
+metodologia do Plano, aparentemente, ainda não obteve o alcance do qual necessita
+uma política altamente intersetorial como a PNSAN, na medida em que os arranjos de
+
+am”
+
+“gestão” do PPA continuam a reproduzir a lógica “autônoma” de cada órgão setorial.
+
+Ainda persiste a predominância do racionalismo orçamentário em detrimento
+de uma proposta de planejamento in books. O plano exerce pouca influência para a
+orientação estratégica do orçamento, sendo seriamente questionada na literatura a
+sua real utilidade.
+
+O detalhamento excessivo do PPA obedece à estrutura orçamentária. Isso
+porque o PPA não se restringe a apontar diretrizes, objetivos e metas organizadas por
+meio de programas, mas discrimina inclusive as ações orçamentárias e não-
+orçamentárias com previsão de recursos. Essa estrutura desvia a discussão
+estratégica de planejamento, essencialmente política, para um enfoque técnico-
+orçamentário. Na prática, o PPA foi incorporado à dinâmica orçamentária, tornando-se
+
+pouco capaz de orientá-la.
+
+Em meio a fragmentada estrutura estatal do país, o processo de
+implementação de uma gestão intersetorial tem demonstrado êxito discreto e ainda há
+um longo caminho a ser percorrido em direção a um planejamento governamental que
+integre o orçamento das ações à gestão da PNSAN. Há o desafio de construção de
+um orçamento pactuado entre os setores, que seja integrado à gestão e ao
+
+monitoramento da política.
+
+Para o alcance da integração nas políticas é necessária a estreita articulação
+entre planejamento, orçamento e programas. No caso da PNSAN, essa coordenação é
+essencial e vital para a efetividade da política. Certamente, o novo modelo do PPA
+amplia os mecanismos para a gestão das políticas, dos programas e do plano, no
+entanto, aponta para a necessidade de serem promovidas mudanças na gestão das
+organizações públicas, buscando envolver dirigentes e equipes de todos os órgãos e
+de entidades da APF.
+
+69
+Para concluir esse trabalho é importante lembrar que a intersetorialidade como
+modelo de gestão de políticas públicas é uma proposta bastante recente e ainda em
+construção e implementação. Outros estudos devem ser realizados, lembrando que
+este trabalho não teve a pretensão de esgotar o debate sobre o assunto, mas iniciar
+um método de diagnóstico das possíveis causas da fragmentação de políticas a fim de
+suscitar, aos que trabalham no governo, algumas soluções potenciais que agreguem
+valor à gestão intersetorial, além de trazer para o campo acadêmico a discussão sobre
+
+este novo formato de gestão de políticas públicas.
+
+70
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+IADB - Inter-American Development Bank. (2003). Political Institutions,
+Policymaking Processes, and Policy Outcomes — a Guide to Theoretical Modules
+and Possible Empirics. IADB.
+
+ABRUCIO, F.L. (2005). A coordenação federativa no Brasil: a experiência do
+período FHC e os desafios do Governo Lula. Revista de Sociologia e Política, n.24,
+p. 41-67, junho.
+
+ABRUCIO, F.L.; FRANZESE, C. (2007). Federalismo e políticas públicas: o
+impacto das relações intergovernamentais no Brasil. In: Maria Fátima Infante
+Araújo; Lígia Beira. (Org.). Tópicos de Economia Paulista para Gestores Públicos. 1
+ed. Edições FUNDAP: São Paulo, v. 1, p. 13-31.
+
+AZEVEDO, S. (2003). Políticas públicas: discutindo modelos e alguns problemas de
+implementação. In: Políticas públicas e gestão local: programa interdisciplinar de
+capacitação de conselheiros municipais. Rio de J aneiro: Fase, p. 38-44.
+
+BERNARDI, A.P etal. (2010). Intersetorialidade - Um desafio de gestão em Saúde
+Pública. Saúde & Transformação Social, Florianópolis, v.1, n.1, p.137-142.
+
+BRASIL. (2010a). Conselho Nacional de Segurança Alimentar e Nutricional. A
+Segurança Alimentar e Nutricional e o Direito Humano à Alimentação Adequada
+no Brasil: Indicadores e Monitoramento da Constituição de 1988 aos dias atuais.
+Brasília, DF.
+
+(2013a). Controladoria Geral da União. Glossário. Disponível em
+
+http://www.portaldatransparencia.gov.br/glossario/DetalheGlossario.asp? letra =d.
+Acesso em 01/09/2013
+
+o . (2010b) Constituição (1988). Emenda constitucional nº 64, de 4 de
+
+fevereiro de 2010. Altera o art. 6º da Constituição Federal, para introduzir a
+alimentação como direito social. Diário Oficial [da] República Federativa do Brasil,
+
+71
+Poder Executivo, Brasília, DF, 5 fev. 2010b. p. 1, c 3. Disponível em:
+<http://www presidencia.gov.br/legislacao>. Acesso em 20/06/2012.
+
+is . (2010c). Decreto nº 7.272, de 25 de agosto de 2010. Regulamenta a Lei
+no 11.346, de 15 de setembro de 2006, que cria o Sistema Nacional de Segurança
+Alimentar e Nutricional - SISAN com vistas a assegurar o direito humano à
+alimentação adequada, institui a Política Nacional de Segurança Alimentar e
+Nutricional - PNSAN, estabelece os parâmetros para a elaboração do Plano Nacional
+de Segurança Alimentar e Nutricional, e dá outras providências. Disponível em
+<http://www.planalto.gov.br/ccivil 03/ ato2007-2010/2010/decreto/d7272.htm>.
+Acesso em 20/06/2012.
+
+ 
+
+. (2006). Lei nº 11.346, de 15 de setembro de 2006. Cria o Sistema
+
+Nacional de Segurança Alimentar e Nutricional - SISAN com vistas a assegurar o
+
+direito humano à alimentação adequada e dá outras providências. Disponível em
+
+http://www. planalto.gov.br/ccivil 03/ Ato2004-2006/2006/Lei/L11346.htm. Acesso em
+20/06/2012.
+
+a ma . (2008). Lei nº 11.653, de 7 de abril de 2008. Dispõe sobre o Plano
+Plurianual para 0 período 2008/2011. Disponível em
+http://www.planalto.gov.br/ccivil 03/ ato2007-2010/2008/Lei/L11653.htm. Acesso em
+10/05/2013.
+
+ 
+
+aeee . (2011a). Ministério do Desenvolvimento Social e Combate à Fome.
+
+Estruturando o Sistema Nacional de Segurança Alimentar e Nutricional - SISAN.
+In: Cadernos SISAN nº 01/2011, Brasília, DF.
+
+o . (2013b). Ministério do Planejamento, Orçamento e Gestão. Lei nº 11.593,
+de 18 de janeiro de 2012 - Institui o Plano Plurianual da União para o período de
+
+2012 a 2015 - Anexo | (Programas Temáticos): atualizado em 2013. Disponível em
+http://www.planejamento.gov.br/secretarias/upload/Arquivos/spi/P PA/2012/130802 An
+
+exo | Programas Tematicos atualizado 2013.pdf. Acessado em 01/10/2013.
+
+ 
+
+is . (2013c). Ministério do Planejamento, Orçamento e Gestão. Plano Mais
+
+Brasil, Mais Desenvolvimento, Mais Igualdade, Mais Participação. PPA 2012-2015
+- Agendas Transversais. Disponível em
+
+72
+http://www. planeja mento.gov.br/secretarias/upload/Arquivos/spi/PP A/2012/111206 ag
+endas transversais.pdf. Acessado em 01/10/2013.
+
+is . (2013d). Ministério do Planejamento, Orçamento e Gestão. Plano Mais
+Brasil - PPA 2012-2015 : agendas transversais - monitoramento participativo :
+ano base 2012. Volume 1: Sumário Executivo. Disponível em
+http://www.planejamento.gov.br/secretarias/upload/Arquivos/spi/P PA/2013/Agendas T
+
+ransversais-Resumo %20Exec.pdf. Acesso 07/09/2013.
+
+ 
+
+o . (2007). Ministério do Planejamento, Orçamento e Gestão. Mensagem
+
+Presidencial - Volume I e seus anexos. Disponível em
+http://www. planeja mento.gov.br/ministerio.asp? index=10&ler=s175. Acesso em
+
+ 
+
+19/06/2012.
+
+e ed . (2002). Ministério do Planejamento, Orçamento e Gestão. Formação de
+
+Multiplicadores do Novo Modelo de Planejamento, Orçamento e Gestão. Brasília:
+ENAP, 2002.
+
+cn . (2011b). Ministério do Planejamento, Orçamento e Gestão. Secretaria de
+
+Planejamento e Investimentos Estratégicos. PPA 2012-2015 - Orientações para
+elaboração do Plano Plurianual 2012-2015. Brasília, DF.
+
+ue (2013). Senado Federal. SIGA Brasil. Disponível em
+http://www12.senado.gov.br/orcamento/sigabrasil. Acesso em 12/05/2013.
+
+ 
+
+BRONZO, C. (2007). Intersetorialidade como princípio e prática nas políticas
+públicas: reflexões a partir do tema do enfrentamento da pobreza. In: XX
+Concurso do CLAD sobre Reforma do Estado e Modernização da Administração
+Pública. Como enfrentar os desafios da transversalidade e da intersetorialidade na
+
+gestão pública? Caracas.
+BURLANDY, L.A. (2007). Transferência condicionada de renda e segurança
+
+alimentar e nutricional. Ciência & Saúde Coletiva, Rio de J aneiro, v.12, n.6, p.1441-
+1451,
+
+73
+es . (2009). Construção da política de segurança alimentar e nutricional
+
+no Brasil: estratégias e desafios para a promoção da intersetorialidade no
+âmbito federal de governo. Ciênc. saúde coletiva vol.14 n.3 Rio de J aneiro, maifjun.
+
+o ; MAGALHÃES, R.; MALUF, R.S. (2006). Construção e Promoção de
+Sistemas Locais de Segurança Alimentar e Nutricional: Aspectos produtivos, de
+consumo, nutricional e de políticas públicas. Série Relatórios Técnicos 3. Rio de
+Janeiro: CPDA/UFRRJ.
+
+CAMPBELL, C.; PETERS, B. G. (1988). Organizing Governance, Goveming
+Organizations. University of Pittsburgh Press, Pittsburgh.
+
+COHEN, M. D. MARCH, J.G. and OLSEN, J.P. (1972). A Garbage Can Model of
+Organizational Choice. Administrative Science Quarterly; 17 (1) March.
+
+CUNILL GRAU, N. (2005). La intersectorialidad en el gobierno y gestión de la
+política social. In: X Congresso Internacional del CLAD sobre la Reforma del Estado y
+de la Administración Pública, Santiago, Chile.
+
+DRAIBE, S. M. (1998). A Política Brasileira de Combate à Pobreza. In: Velloso,
+oão Paulo dos Reis (Coord.). O Brasil e o Mundo no Limiar do Novo Século. Rio de
+
+aneiro: J osé Olympio, v. 2.
+
+EVANS, P. (2004). Autonomia e parceria: estados e transformação industrial. Rio
+de J aneiro: Editora UFRJ.
+
+FIANI, R. (2013). Arranjos institucionais e desenvolvimento: O papel da
+coordenação em estruturas híbridas. In: 1815 Texto para discussão. Rio de janeiro:
+
+nstituto de Pesquisa Econômica e Aplicada (IPEA).
+
+GARNIER, L. (2000). Función de coordinación de planes y políticas. Instituto
+Latinoamericano y del Caribe de Planificación Económica y Social, Naciones Unidas-
+LPES, Santiago de Chile.
+
+ 
+
+GOMES JUNIOR, N.N. (2007). Segurança alimentar e nutricional como princípio
+orientador de políticas públicas no marco das necessidades humanas básicas.
+
+74
+339f. Tese (Doutorado em Política Social) - Programa de Pós-Graduação em Política
+Social, Universidade de Brasília, Brasília.
+
+GOMIDE, A.; PIRES. R; (2013). Arranjos institucionais de políticas críticas ao
+desenvolvimento. Boletim de análise político-institucional, Brasília: Ipea, n. 3, p. 71-
+76.
+
+GOMIDE, A.; PIRES, R. (2012a). Arranjos institucionais de políticas
+desenvolvimentistas em um Estado democrático: uma proposta metodológica.
+Brasília: Ipea, jan.
+
+GOMIDE, A.; PIRES, R. (2012b). Capacidades Estatais para o Desenvolvimento no
+Século XXI. Boletim de análise político-institucional, Brasília: Ipea, n. 2, p. 25-30.
+
+GROSS, R., SCHOENEBERGER H, PFEIFER, H., PREUSS, HJ. (2000). Four
+dimensions of food and nutrition security: definitions and concepts. SCN News;
+20:22-26.
+
+HEAD, B.; ALFORD, J. (2001). Wicked Problems: The implications for Public
+Management. Panel on Public Management Practice. International Research Society
+for Public Management 12th Annual Conference, Brisbane, Australia, 26-28 March,
+26p.
+
+INOJOSA, R. M. (2001). Sinergia em Políticas e Serviços Públicos:
+Desenvolvimento Social com Intersetorialidade. Cadernos Fundap, n. 22, p. 102-
+110.
+
+INOJOSA, R. M. (1998). Intersetorialidade e a configuração de um novo
+paradigma organizacional. Revista de Administração Pública — RAP, Rio de J aneiro,
+v.32,n.2, p. 35-48, mar./abr.
+
+JUNQUEIRA, L.A.P. (2004). A Gestão Intersetorial das Políticas Sociais e o
+Terceiro Setor. Revista Saúde e Sociedade, v. 13, n. 1, p. 25-36, jan-abr.
+
+KEPPLE, A. W. (2010). Relatório do produto 1: documento técnico contendo
+análise reflexiva sobre o conjunto dos principais resultados dos estudos
+realizados pela SAGI a respeito dos programas de Segurança Alimentar e
+
+75
+Nutricional - PAA e Cisternas. Brasília, DF: Ministério do Desenvolvimento Social e
+
+Combate à Fome - MDS, Secretaria de Avaliação e gestão da Informação - SAGI.
+
+res! ; SEGALL-CORRÊA, A.M. (2011). Conceituando e Medindo Segurança
+Alimentar e Nutricional. Ciência & Saúde Coletiva, Rio de J aneiro, v.16, n.1, p.187-
+199,
+
+KINGDON, J.W. (2003). Agendas, Alternatives and Public Policies. 2"“ Edition. New
+York: Longman.
+
+KNOPP, G.; ALCOFORADO, F. (2010). Govemança Social, Intersetorialidade e
+territorialidade em políticas públicas: o caso da OSCIP do Centro Mineiro de
+Alianças Interseotoriais (CEMAIS). In: Ill Congresso Consad de Gestão Pública.
+Brasília.
+
+LASSANCE, A. (2012). Federalismo no Brasil: Trajetória institucional e
+alternativas para um novo patamar de construção do Estado. In: LINHARES,
+P.T.F; MENDES, C.C.; LASSANCE,A. (Orgs.). Federalismo à Brasileira questões para
+discussão. Diálogos para o Desenvolvimento. Brasília: IPEA, v.8, 249p.
+
+LEÃO, M.; MALUF, R. (2012). A construção social de um sistema público de
+segurança alimentar e nutricional - A experiência brasileira. la ed. Brasília, DF,
+ABRANDH, 72p.
+
+LINHARES, P.T.F; MENDES, C.C; LASSANCE, A. (2012). Federalismo à Brasileira
+questões para discussão. Diálogos para o Desenvolvimento. Brasília: IPEA, v.8, 249.
+
+MALUF, R.S. (2011). Segurança Alimentar e Nutricional: conceitos fundamentais.
+3º ed. Petrópolis, RJ: Vozes.
+
+MALUF, R.S; MENEZES, F.; VALENTE, F. (1996). Contribuição ao Tema da
+Segurança Alimentar no Brasil. Revista Cadernos de Debate. Núcleo de Estudos e
+Pesquisas em Alimentação da Unicamp, vol. IV.
+
+MARTINS, H.F. (2006). Políticas de Gestão Pública no Governo Lula: Um Campo
+ainda Fragmentado. Revista Eletrônica sobre a Reforma do Estado. Salvador:
+número 5 - março/abril/maio.
+
+76
+MARTINS, H.F. (2003). Uma teoria da fragmentação de políticas públicas:
+desenvolvimento e aplicação na análise de três casos de políticas de gestão
+pública. 254f. Tese de Doutorado, EBAPE/FGV.
+
+MENEZES, F. (2010). Participação Social no Fome Zero. In: GRAZIANO DA SILVA,
+).; DEL GROSSI, M.; FRANÇA, C.G (Orgs.). Fome Zero - A Experiência Brasileira.
+Brasília: MDA, 586f.
+
+METCALFE, L. (1994). International Policy Coordination and Public Management
+Reform. International Review of Administrative Sciences, vol. 60, no. 2, pp. 271-290.
+
+NASCIMENTO, S. (2010). Reflexões sobre a Intersetorialidade entre as Políticas
+Públicas. In: Revista do Serviço Social & Sociedade, São Paulo, n. 101, p. 95-120,
+jan./mar.
+
+NAVARRO, N. (2011). A Intersetorialidade como modelo de gestão das políticas
+de combate à pobreza no Brasil. O caso do Programa Bolsa Família no Município
+de Guarulhos. 166f. Dissertação (Mestrado em Administração Pública e Governo) -
+Programa de Pós-Graduação em Transformações do Estado e Políticas Públicas,
+Escola de Administração de Empresas de São Paulo da Fundação Getulio Vargas,
+
+São Paulo.
+
+OCDE (2003). Coerência nas Políticas: Relatório Final de Atividades. Comitê de
+Gestão Pública.
+
+PAULO, L.F.A. (2010). O PPA como instrumento de planejamento e gestão
+estratégica. In: : Revista do Serviço Público (RSP), Brasília 61 (2): 171-187, Abr./) un.
+
+PETERS, B.G. (2005). Gobernanza y Burocracia Pública: Nuevas formas de
+democracia o nuevas formas de control? Foro Internacional 182, XLV, 585-598p.
+
+PINHEIRO, A.R. de O. (2009). Análise Histórica do Processo de Formulação da
+Política Nacional de Segurança Alimentar e Nutricional (2003-2006): atores,
+ideias, interesses e instituições na construção do consenso político. 234f. Tese
+
+77
+(Doutorado em Política Social) - Programa de Pós-Graduação em Política Social,
+Universidade de Brasília, Brasília.
+
+SIQUEIRA, T.R. (2006). O Modelo de Gestão dos Planos Plurianuais. 180f.
+Dissertação (Mestrado em Ciência Política) - Instituo de Ciência Política da
+Universidade de Brasília, Brasília.
+
+E . (2008). Reflexões sobre o Processo Histórico / Político de Construção
+
+da Lei Orgânica de Segurança Alimentar e Nutricional. Revista Segurança
+Alimentar e Nutricional, Campinas, 15(2): 1-15.
+
+TAKAGI, M. (2010). A implantação do Programa Fome Zero em 2003. In:
+GRAZIANO DA SILVA, J.; DEL GROSSI, M.; FRANÇA, C.G (Orgs.). Fome Zero - A
+Experiência Brasileira. Brasília: MDA, 586f.
+
+is . (2006). A implantação da Política de Segurança Alimentar e Nutricional
+no Brasil: seus limites e desafios. 205f. Tese (Doutorado em Economia Aplicada) —
+Programa de Pós-Graduação em Desenvolvimento Econômico, Espaço e Meio
+
+Ambiente, Instituto de Economia, Universidade de Campinas, Campinas.
+
+WILDAVSKY, A. (1982). Economia Política de Eficiência, Análise de Custo-
+Benefício, Análise de Sistemas de Orçamento-Programa. In: Política x Técnica no
+Planejamento. BROMLEY, R.; BUSTELO, E. (Orgs.). Brasília: Editora Brasiliense e
+UNICEF.
+
+78
+SITES CONSULTADOS
+
+www.mds.gov.br/sagi
+
+www .planejamento.gov.br
+
+www .planalto.gov.br/legislacao
+www4,planalto.gov.br/consea
+www.orcamentofederal.gov.br
+www.portaldatransparencia.gov.br
+Wwww.siop.planejamento.gov.br
+
+www12.senado.gov.br/orcamento/sigabrasil
+
+79
+

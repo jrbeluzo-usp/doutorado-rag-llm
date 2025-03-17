@@ -1,0 +1,14 @@
+<answer_examples>Esta resposta poderá ser univalorada ou multivalorada. Siga os exemplos a seguir de acordo com o encontrado no contexto:
+
+Exemplo de Resposta 1 (univalorada): 
+{"funcao_despesa_orcamentaria": "Educação"}
+
+Exemplo de Resposta 2 (multivalorada): 
+{"funcao_despesa_orcamentaria": "Saúde; Transporte;Urbanismo"}
+
+Exemplo de Resposta 3 (multivalorada): 
+{"funcao_despesa_orcamentaria": "Desporto e Lazer; Habitação"}
+
+Exemplo de Resposta 4 (univalorada - Quando não encontrar a resposta no contexto): 
+{"funcao_despesa_orcamentaria": "-1"}
+</answer_examples>

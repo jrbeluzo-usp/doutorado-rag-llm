@@ -1,0 +1,940 @@
+XIV COLÓQUIO INTE RNAC IONAL DE
+GESTAO UNIVERSITARIA - CIGU
+A Gestão do Conhecimento e os Novos Modelos de Universidade
+
+Florianópolis — Santa Catarina — Brasil
+3,4e 5 de dezembro de 2014.
+
+ 
+
+ISBN: 978-85-68618-00-4
+
+EXECUÇÃO ORÇAMENTÁRIA: UM ESTUDO SOBRE A INSCRIÇÃO
+DE RESTOS A PAGAR NAS UNIVERSIDADES FEDERAIS DO
+NORDESTE
+
+Clariovaldo Enias Tavares da Silva
+Universidade Federal de Pemambuco
+enisilvamadalenaç hotmail.com
+
+Thiago José Galvão das Neves
+Universidade Federal de Pemambuco
+
+thiago.neves( ufpe.br
+
+Jansen Dodo da Silva Campos
+Universidade Federal de Pemambuco
+
+jansencampos(» hotmail.com
+
+Ana Lúcia Fontes de Souza Vasconcelos
+Universidade Federal de Pernambuco
+
+anafontes ufpe( yahoo.com.br
+
+RESUMO
+
+A presente pesquisa tem como objetivo verificar se houve modificação na situação dos restos
+a pagar nas Universidades Federais do Nordeste com o advento do decreto nº 7654 de 23 de
+dezembro de 2011. Para tanto, analisou-se a execução orçamentária em catorze universidades
+de nordeste, por meio das informações disponibilizadas no site de Tribunal de Contas da
+União (TCU) e do Senado Federal (SIGA Brasil). O levantamento de dados foi feito através
+da pesquisa documental e a análise foi realizada por meio de software estatístico Statistical
+Package for Social Sciences (SPSS), utilizando-se dos testes de Shapiro-Wilk e Wilcoxon,
+media e desvio padrão, com 5% de significância. Conclui-se que não houve diferenças
+estatísticas entre o antes e o depois do decreto em relação ao percentual de restos a pagar
+sobre o montante empenhado pelas IFES (p=0,551). Contudo, em relação às despesas de
+capital, foram constatadas diferenças estatisticamente significantes entre o percentual médio
+empenhado/autorizado antes do decreto com o depois do decreto (p=0,006),ou seja, as IFES
+passaram a emprenhar menos depois do decreto, sendo estas as que mais contribuíram para
+inscrição de restos a pagar. Já quanto às despesas correntes, não houve diferenças
+estatisticamente significantes entre as IFES ante e depois do decreto. Ressalta-se ainda que
+houve um pequeno aumento em relação aos restos a pagar nas despesas com pessoal para as
+IFES com menos orçamento.
+
+Palavras-chave: Execução orçamentária. Restos a pagar, Universidades federais.
+1. INTRODUÇÃO
+
+A reforma e modemização do Estado Brasileiro, na década de 90 do século XX,
+trazem algumas modificações para setor público, dentre elas, podemos destacaras exigências
+das políticas educacionais, que propõe novos modelos de gestão para enfrentar a crise
+educacional e a implementação de sistemas de avaliação (XAVIER e DEITOS; 2006). Nota-
+se que a Constituição Federal de 1988, no seu art. 205, assegurou que a educação é um direito
+de todos, sendo dever do Estado e da familia promover e incentivar a colaboração da
+sociedade, visando o pleno desenvolvimento da pessoa, seu preparo para o exercício da
+cidadania e sua qualificação para o trabalho.
+
+A Lei de Diretrizes e Bases da educação nacional (LDB), referindo no seu artigo (54)
+diz que: “as universidades mantidas pelo Poder Público gozarão, na forma da lei, de Estatuto
+Jurídico especial para atender às peculiaridades de sua estrutura, organização e financiamento
+pelo Poder Público”. E, no artigo seguinte (55), é destacado que caberá “a União assegurar,
+anualmente, em seu Orçamento Geral, recursos suficientes para a manutenção e
+desenvolvimento das instituições de educação superior por ela mantidas” (LDB, 1996).
+
+As atividades financeiras do Ensino Superior Público Brasileiro (em suas esferas
+federais, estaduais e municipais) dependem principalmente das verbas do poder público via
+orçamento, para sua manutenção, já que nelas o ensino é gratuito e somente cerca de 3,5% do
+orçamento global é constituído por recursos por elas diretamente arrecadados (SOARES,
+2001).
+
+Nos anos de 1998 e 2000, o processo de planejamento do orçamento brasileiro passou
+por uma reformulação com a introdução de novos conceitos e classificações, com objetivo de
+possibilitar as avaliações quantitativas e qualitativas dos resultados das ações do govemo.
+(GIACOMONI, 2003).
+
+As Universidades Federais, como sendo as autarquias vinculadas ao Ministério da
+Educação, não fogem à regra das demais instituições públicas quanto à necessidade de
+adequação a um novo modelo de gerenciamento, pois como descreve Neves (2013, p.14),
+
+Elas têm um papel importante na formação de profissionais qualificados e com
+análise crítica, que podem modificar uma realidade social. Para tanto, também
+
+devem buscar acompanhar a mudança de uma cultura burocrática para uma gerencial
+e utilizar os novos instrumentos de gestão pública.
+
+Quando se fala em controle de recursos públicos, se pensa imediatamente em
+prestação de contas, responsabilização do poder público, transparência e accountability, que
+devem ser acompanhados por um sistema eficiente de contabilidade. Segundo Lei n.º
+4.320/64 (art. 83) constata-se que esta define o objetivo da contabilidade pública como de:
+“evidenciar perante a Fazenda Pública, a situação de todos quantos, de qualquer modo,
+arrecadem receitas, efetuem despesas, administrem ou guardem bens a ela pertencentes ou
+confiados”. E, uma das formas da informação contábil é ser útil ao processo de controle,
+utilizando-a como meio de verificação, uma vez que a administração necessita avaliar
+periodicamente a qualidade dos serviços prestados por seus empregados (FARBER e
+SEGRET, 2006).
+
+Decorrente da necessidade de estabelecer mais controle dos Recursos Públicos, o
+decreto nº 7654,de 23 de dezembro de 2011, alterou o decreto nº 93.872, de 23 de dezembro
+de 1986, que dispõe sobre a unificação dos recursos de caixa do Tesouro Nacional, o que, por
+seu tumo, atualiza e consolida a legislação pertinente, e dá outras providências. O artigo 68
+passou a vigorar de seguinte forma: $ 2º Os restos a pagar inscritos na condição de não
+processados e não liquidados posteriormente terão validade até 30 de junho do segundo ano
+subsequente ao de sua inscrição. No 8 5º, aporta que para fins de cumprimento do disposto no
+$ 2º, a Secretaria do Tesouro Nacional do Ministério da Fazenda efetuará, na data prevista no
+referido parágrafo, o bloqueio dos saldos dos restos a pagar não processados e não liquidados,
+em conta contábil específica no Sistema Integrado de A dministração Financeira do Governo
+Federal (SIA FI).
+
+Nesse contexto, surge a indagação a ser investigada: Houve modificação na situação
+dos restos a pagar nas Universidades Federais do Nordeste com o advento do decreto nº 7654
+de 23 de dezembro de 2011?
+
+Dessa forma, tomou-se objetivo principal desta pesquisa a verificação da modificação
+na situação em restos a pagar nas Universidades Federais do nordeste com o advento do
+decreto nº 7654 de 23 de dezembro de 2011.
+
+Esse objetivo pode ser desmembrado nos seguintes tópicos: a) Comparar as
+Universidades Federais de Nordeste, em termos quantitativos, no que se refere à execução
+orçamentária das despesas. b) Levantar a situação de restos a pagar das universidades antes e
+depois do advento do decreto nº 7654 de 23 de dezembro de 2011; c) Identificar as categorias
+econômicas de despesas que mais contribui para inscrição de restos a pagar.
+
+Portanto, justifica-se esta pesquisa tendo em vista a importância social e econômica da
+execução das despesas orçamentária de maneira eficiente e transparente que atenda as
+exigências da Controladoria Geral da União (CGU) e do Tribunal de Contas da União (TCU).
+Além das necessidades essenciais da sociedade, bem como a relevância da mesma para a
+constituição de uma boa gestão púbica, possibilitando assim a melhoria na educação.
+
+2. REFERENCIAL TEÓRICO
+2.1 Relevância de Informação Contábil nas Entidades Públicas
+
+Fomecer a informação é objetivo principal da contabilidade de acordo com
+Iudicibus apud Slomski (2010, p. 28) “o objetivo principal da contabilidade (e de relatórios
+dela emanados) é fornecer informação econômica relevante para que cada usuário possa
+tomar suas decisões e realizar seus julgamentos com segurança”. Assim, o seu objeto de
+estudo é o patrimônio público. Contudo não se limita a isto, ou seja, não está interessada
+somente no patrimônio e suas variações, mas também na elaboração do orçamento e em sua
+execução, previsão e arrecadação da receita, bem como na fixação e a execução da despesa e
+na prestação de contas, de acordo com as Normas Brasileiras de Contabilidade A plicada a
+Setor Público NBCT, 16.1, vê-se que:
+
+O objetivo da Contabilidade Aplicada ao Setor Público é fornecer aos usuários
+informações sobre os resultados alcançados e os aspectos de natureza orçamentária,
+econômica, financeira e física do patrimônio da entidade do setor público e suas
+
+mutações, em apoio ao processo de tomada de decisão; a adequada prestação de
+contas; e o necessário suporte para a instrumentalização do controle social.
+
+Ao analisar a Lei n.º 4.320/64 (art. 83), constata-se que esta define o objetivo da
+contabilidade pública como de: “evidenciar perante a Fazenda Pública, a situação de todos
+quantos, de qualquer modo, arrecadem receitas, efetuem despesas, administrem ou guardem
+bens a ela pertencentes ou confiados”. Nota-se que a Contabilidade Pública além de registrar
+todos os fatos contábeis que alteram o patrimônio público, registra também todos os atos
+potenciais praticados pelos administradores que poderão alterar qualitativamente ou
+quantitativamente o patrimônio.
+Desta forma, seu campo de aplicação abrangerá todos os órgãos, pessoas jurídicas
+de direito público ou privado, a União, os Estados, o Distrito Federal, os Municípios, assim
+como os seus fundos,as suas autarquias e as fundações que guardem ou usem o dinheiro
+público para a realização de suas atividades. Para tal, a contabilidade busca então explicar de
+forma integrada os efeitos das ações de governo no patrimônio e nas finanças públicas, bem
+como o reflexo nos resultados do atendimento às demandas sociais. (CASTRO e CARCIA,
+2008).
+
+A função social da contabilidade conforme NBCT 16.1 “deve refletir,
+sistematicamente, o ciclo da administração pública para evidenciar informações necessárias à
+tomada de decisões, à prestação de contas e à instrumentalização do controle social”. No
+aparelho do estado, a função da contabilidade é indispensável para que haja efetividade no
+controle da execução orçamentária e financeira. Tal controle faz-se necessário em vista da
+importância de prestar as informações que representam à realidade econômica (prestação de
+contas com transparência) do conjunto dos órgãos e entidades públicas, levada o efeito por
+meio da atividade financeira do estado. (SILVA apud CRUZ 2008, p.08). Por isto, a
+finalidade de contabilidade consiste em fomecer as informações de qualidade aos seus
+usuários por meio de evidenciação da situação patrimonial, econômico e financeiro Para Cruz
+(2008, p. 08)
+
+A contabilidade constitui uma área do conhecimento que possui prerrogativas para
+fornecer informações tempestivas e fidedignas acerca da atuação governamental,
+
+configuradas através do orçamento, partindo-se da premissa que a linguagem
+orçamentária é essencialmente contábil.
+
+A informação contábil permite aos seus usuários a análise e a tomada de decisões
+com vistas a melhorar e a controlar as políticas públicas, proporcionando melhor programação
+dos gastos, de acordo com a Lei de Responsabilidade Fiscal (LRF) nos seu art.50, inciso HI
+define que: “as demonstrações contábeis compreenderão, isolada e conjuntamente, as
+transações e operações de cada órgão, fundo ou entidade da administração direta, autárquica e
+fundacional, inclusive empresa estatal dependente”. Decorrente disto, o julgamento dos
+administradores públicos, no que tange à gestão dos recursos, pode realizar-se sob a forma de
+peça contábil (demonstrações), que devem ser disponibilizadas para a análise dos cidadãos, os
+quais poderão, inclusive, questionar a sua legitimidade. Com isso, considera-se que as
+informações geradas pela contabilidade pública constituem elemento fundamental para que os
+govemos apresentem à sociedade a destinação que estão dando aos recursos públicos.
+
+2.2 Prestação de Conta das Universidades Federais
+
+Quando há movimentação de recursos públicos, requer-se que as organizações
+assumam mais responsabilidades sobre a qualidade de suas ações e do impacto que têm na
+sociedade. Isso demanda uma prestação de contas acerca da utilização de tais recursos, para a
+sequência do seu recebimento e, consequentemente, do funcionamento das entidades. Por
+prestação de conta o Conselho Federal de Contabilidade CFC (2008, p.78) define como:
+
+Conjunto de documentos e informações disponibilizados pelos dirigentes das
+entidades aos órgãos interessados e autoridades, de forma a possibilitar a apreciação,
+conhecimento e julgamento das contas e da gestão dos administradores das
+entidades, segundo as competências de cada órgão e autoridade, na periodicidade
+estabelecida no estatuto social ou na lei.
+
+O agente público é mero gestor do recurso, pois, como tal, o dinheiro utilizado não
+
+lhe pertence, sendo dever do mesmo informar ao povo a maneira como os recursos a este
+destinado foram empregados durante o exerciciopara qual foi legalmente autorizado a sua
+utilização. Consta no Código Civil (1973), artigo 914, que a ação de prestação de contas
+competirá a quem tivero direito de exigi-las ea obrigação de prestá-las.
+
+O Tribunal de Contas da União (TCU, 2008) trata a prestação de contas como uma
+obrigação social e pública de prestar informações sobre algo, pelo qual se é responsável e
+afirma que a ela é a base da transparência e do controle social. Assim, a prestação de contas
+constituiu um importante instrumento de transparência no processo da gestão dos gestores
+públicos, esse ato nada mais édo que um relatório elaborado por um administrador público. Já
+que, todos aqueles que receberam os valores que lhes foram confiados são obrigados por
+comprovar ao órgão competente o uso, o emprego ou a movimentação destes bens.
+
+O Art. 70 da Constituição Federal de 1988, em seu parágrafo único, define que
+“prestarão contas qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade,
+guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais a União
+responda, ou que, em nome desta, assuma obrigações de natureza pecuniária”. Dessa forma,
+as Universidades Públicas Federais, com administração própria que recebem os recursos
+públicos para implementação das suas ações, deverão prestar contas ao órgão de controle e da
+fiscalização, ao Poder Legislativo, o Tribunal de Contas, a Controladoria Geral e à Sociedade.
+
+Tais prestações de contas devem ser realizadas anualmente e tem seu conteúdo
+orientado por Normas de Execução da Controladoria Geral da União (CGU) e pelo Tribunal
+de Contas da União (TCU). A sua composição deve abranger o Relatório de Gestão, as
+Demonstrações Contábeis, o Rol de Responsáveis e o Parecer da Unidade de Auditoria
+Interna, entre outros documentos. Dentre essas peças, o Relatório de Gestão possui maior
+destaque, uma vez que contempla todas as informações sobre a execução dos programas e
+ações sobre responsabilidade dessas instituições, bem como sobre todos os recursos por ela
+gerenciados ao longo do ano e sua elaboração é obrigatória para todos os entes da
+Administração Pública Federal, independente de estar obrigada a apresentar suas contas ao
+TCU.
+
+O relatório de gestão constitui uma Fonte importante de informação tanto para a
+gestão das IFES como para o controle dos atos e fatos praticados pelos gestores, ressaltando-
+se que a sua elaboração devem seguir as determinações das Decisões Normativas e Portarias
+do TCU emitidas anualmente. Nesses normativos, após o exercício base de 2009, foi
+determinado aos gestores que quando da elaboração de seus Relatórios de Gestão efetuassem
+uma análise crítica da execução de cada programa orçamentário, informado os eventos
+negativos e positivos que facilitaram ou dificultaram sua execução.
+
+Pode-se dizer que o mais perfeito instrumento para a transparência da A dministração
+Pública é a Prestação de Contas dos atos por ela praticados. O que não significa que
+apenasaquilo que a esse título é remetido aos Tribunais de Contas ao fim de cada exercício,
+mas sim, a demonstração correta e sincera, a qualquer época, do que a administração vem
+fazendo em prol da sociedade, o que vem a fortalecer não apenas a democracia, mas também
+combate a corrupção, como se refere o Portal da Transparência.
+
+2.3 Execução Orçamentária
+
+O Orçamento Público tem característica diferente dos demais orçamentos por possuir
+uma multiplicidade de aspectos: político, jurídico, contábil, econômico, financeiro e
+administrativo. A reformulação, em sua essência, exigia que os orçamentos públicos
+devessem constituir-se em instrumentos de administração, de forma que auxiliassem o Poder
+Executivo nas varias etapas do processo administrativo, como o planejamento, execução e
+controle (GIACOMONI 2009). Assim sendo, o orçamento é uma ferramenta legal de
+planejamento, que contém as descriminações da previsão de receitas e a estimativa de
+despesas a serem realizadas por um Govemo em um determinado exercício, objetivando a
+execução de seus programas (geralmente compreendido por um ano).
+
+Como se trata de um documento com característica diversificada a sua elaboração
+exige a observância de certo princípios como constamna Lei nº 4.320/64 princípio da unidade,
+universalidade, do orçamento bruto, periodicidade, da não afetação das receitas,
+especialização, exclusividade e do equilíbrio. Era preciso, que antes de fixar despesas ou
+prever as receitas a distribuir, saber quais as reais deficiências e as necessidades sociais, além
+de categorizar as ações necessárias visando à correção ou minimização dos problemas para tal
+que o Decreto-Lei nº 200/67 criou o chamadoorçamento programa que consagrou a interação
+entre planejamento e o orçamento público.
+
+No orçamento brasileiro as ações que integram os programas orçamentários delimitam
+quais despesas podem ser executadas em cada parcela do orçamento. De acordo com a Lei
+4.320/64, a execução dessas despesas deve ocorrer em três fases, quais sejam: o empenho, a
+liquidação e o pagamento. Em seu Art. 58, essa Lei descreve empenho como “o ato emanado
+de autoridade competente que cria para o Estado obrigação de pagamento pendente ou não de
+implemento de condição”.
+
+No que conceme à liquidação, esta consiste na segunda fase da despesa pública. Ela
+representa a verificação do direito adquirido pelo credor após a comprovação do fornecimento
+do material ou da prestação do serviço, conforme previsto no Art.63 da Lei 4.320/64. A
+última fase da despesa, o pagamento, encontra-se prevista no Art.64 da Lei 4.320/64 e
+representa a transferência para o fornecedor dos recursos financeiros como forma de
+pagamento pelo material fomecido ou serviço prestado. A não realização dessa fase da
+despesa dentro do exercício em que ela foi empenhada é a responsável pelo surgimento dos
+restos a pagar, que podem se dividir, conforme previsto no Parágrafo Unico do Art.92 dessa
+Lei, em Processados e Não Processados. Estes quando não há a entrega do bem ou a
+prestação do serviço. Já naquele, houve a liquidação da despesa, mas resta ainda o seu
+pagamento pelo govemno.
+
+As novas determinações do govemno federal contidas no Decreto 7654/2011 de 23 de
+dezembro de 2011 não só aumentaram em seis meses o prazo de validade dos restos a pagar
+não processados, como também possibilitou exceções ao cancelamento de determinadas
+despesas após essa data, conforme pode ser observado em seus $ 32e 8 4º
+
+$ 3º Permanecem válidos, após a data estabelecida no 8 20, os restos a pagar não
+processados que:
+
+I- refiram-se às despesas executadas diretamente pelos órgãos e entidades da União
+ou mediante transferência ou descentralização aos Estados, Distrito Federal e
+Municípios, com execução iniciada até a data prevista no $ 2% ou
+
+II - sejam relativos às despesas:
+
+a) do Programa de Aceleração do Crescimento - PAC;
+
+b) do Ministério da Saúde; ou
+
+c) do Ministério da Educação financiadas com recursos da Manutenção e
+Desenvolvimento do Ensino.
+
+$ 4º Considera-se como execução iniciada para efeito do inciso I do 8 3%:
+
+I - nos casos de aquisição de bens, a despesa verificada pela quantidade parcial
+entregue, atestada e aferida; e
+
+II - nos casos de realização de serviços e obras, a despesa verificada pela realização
+parcial com a medição correspondente atestada e aferida.
+
+Ressaltando-se que cada órgão federal é beneficiado com orçamento próprio, para que
+
+possa desenvolver aquelas atividades relacionadas à sua área de atuação, uma vez que todos
+os programas desenvolvidos pelo Governo estão organizados por assuntos correspondentes
+aos ministérios. Nessa ordem o novo decreto cria um cerco para os gestores forjando eles
+eficácia e eficiência nas suas execuções orçamentárias, pois quando existem recursos para um
+determinado fim deveriam ser aplicá-los nestes.
+
+3. PROCEDIMENTOS METODOLÓGICOS
+
+Em consonância com os objetivos traçados, a pesquisa foi descritiva, adotando o
+entendimento de Lakatos (2011, p. 6), quando diz que esta aborda quatro aspectos: descrição,
+registro, analise e interpretação de fenômenos atuais objetivando o seu funcionamento no
+presente.
+
+O levantamento dos dados foi feitos através da pesquisa documental. As informações
+sobre a execução orçamentária foram consultadas no site do Senado Federal e do Tribunal de
+Contas da União. Os dados coletados foram submetidos a uma pesquisa que objetiva
+descrever as características de determinado fenômeno ou população, correlacionar fatos
+fenômenos (variáveis) sem, no entanto, manipulá-los (MARION, 2002).
+
+Para atingir os propósitos desta pesquisa foi utilizada a Microsoft Excel para tabulação
+dos dados e para analise dos dados foi usado o software estatístico Statistical Package for
+Social Sciences (SPSS), foram usado os testes de Shapiro-Wilk e Wilcoxon, media e desvio
+padrão, com 5% de significância.
+
+Outro procedimento metódico a ser adotado no estudo é da ordem dedutiva “que tem o
+objetivo explicar o conteúdo das premissas, por intermédio de uma cadeia de raciocínio em
+ordem descendente, de análise do geral para o particular”, diz (SILVA 2001), pois o estudo
+em questão propende verificar se houve modificação na situação em restos a pagar nas
+Universidades Federais do nordeste com o advento do decreto nº 7654 de 23 de dezembro de
+2011.
+
+3.1 Delimitação da Pesquisa
+
+Existem dezoito Universidades Federias no Nordeste do país, mas para atender aos
+propósitos desta pesquisa foram escolhidas quatorze, que possuem as informações dos quatro
+anos a serem analisados. A pesquisa analisou a execução orçamentária das universidades
+numa faixa de quatro (4) anos compreendidos entre 2010 a 2013, observando todas as
+mudanças ocorridas nesse espaço temporal e realizando todas as análises à luz da literatura
+estudada.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGLA DA UNIVERSIDADE UNIVERSIDADE
+UFAL Universidade Federal de Alagoas
+UFBA Universidade Federal da Bahia
+UFERSA Universidade Federal Rural do Semi Arido
+UFPB Universidade Federal da Paraíba
+UFPI Fundação Universidade Federal do Piauí
+UFRN Universidade Federal do Rio Grande do Norte
+UFS Fundação Universidade Federal de Sergipe
+UNIVASF Fundação Universidade Federal do Vale do São Francisco
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UFRPE Universidade Federal Rural de Pernambuco
+UFRB Universidade Federal do Recôncavo da Bahia
+UFPE Universidade Federal de Pernambuco
+
+UFMA Fundação Universidade Federal de Maranhão
+UFCG Universidade Federal de Campina Grande
+UFC Universidade Federal de Ceara
+
+ 
+
+ 
+
+ 
+
+Quadro 1: Lista das Universidades analisadas
+Fonte: Disponível em: hitp://pt.wikipedia.org/wiki/Anexo:Lista de universidades federais do Brasil. Aceso
+em: 01/09/2014
+
+3.2 ANÁLISE DOS DADOS
+
+Os dados foram digitados no Excel e a análise estatística foi realizada pelo software
+estatístico SPSS versão 20. Os dados foram analisados primeiramente para detectar a
+normalidade pelo teste de Shapiro-Wilk como eles não atingiram a normalidade, a análise foi
+realizada por meio de métodos não-paramétricos. Foi utilizado o teste de MWilcoxon para
+comparar o percentual antes e depois do decreto do Empenhado em relação ao Autorizado e
+do Resto a pagar em relação ao empenhado. Os dados foram expressos em média + desvio
+padrão. Foram adotados 5% de significância.
+
+4, RESULTADOS
+
+As quatorzes IFES foram escolhidas para presente trabalho, por serem entidades
+públicas que recebem recursos federais e, por conseguinte têm a obrigatoriedade não só de
+prestar conta, mas sim de executar os recursos recebidos de forma eficiente e que atende as
+necessidades sócias. O gráfico que se segue mostra valores dos restos a pagar das IFES de
+2010 a 2013. Nele, pode-se constatar ainda de que não houve melhora na situação de restos a
+pagar dessas universidades antes e depois do decreto.
+
+ 
+
+140.000.000 +
+
+120.000.000
+
+100.000.000
+
+80.000.000
+
+60.000.000 m2010
+
+=m2011
+40.000.000
+
+RESTOSA PAGAR
+
+=m2012
+20.000.000
+m2013
+
+ 
+
+o
+
+Ses <
+SÊ
+
+Se so S s>
+FÉ E ET S SÉ sas
+
+Read
+
+so
+E
+UNIVERSIDADES
+
+Gráfico 01- Análise descritiva situação de restos a pagar das IFES de 2010 a 2013
+Fonte: elaborado pelos autores.
+
+O gráfico 02 demonstra que as quatorzes IFES do estado do Nordeste receberam
+
+orçamentos proporcionais a sua população, caracterizando-se em três faixas de orçamento,
+conforme demonstrado a seguir:
+ 
+
+1.400.000.000
+UFC
+
+ 
+
+  
+
+ 
+
+ 
+
+1.200.000.000 UFPB o O SEE
+| o UFRN
+-E 1.000.000.000
+800.000.000 +
+UFAL
+
+600.000.000 E
+vrRPE UFS VU O vrrI
+o UEMA
+
+ 
+
+400.000.000 UFCG
+
+ 
+
+EB UFERSA
+
+e...
+UNIVASF
+
+200.000.000
+
+ 
+
+o
+
+o 5.000 10.000 15.000 20.000 25.000 30.000 35.000 40.000 45.000 50.000
+
+Nº de Alunos Equivalentes
+
+ 
+
+ 
+
+ 
+
+Gráfico 02: distribuição das IFES por valor do orçamento autorizado em 2013 segundo o numero o
+número de alunos equivalentes.
+Fonte: elaborado pelos autores.
+
+Segundo a tabela 01 a seguir, em relação às despesas de capital foram constatadas
+diferenças estatisticamente significantes entre o percentual médio empenhado/autorizado
+antes do decreto com o depois do decreto p=0,006 através do teste de Wilcoxon para amostras
+pareadas, destacando as IFES dos grupos de orçamento acima de um bilhão UFBA com
+91,7% antes do decreto para 64,7% depois do decreto, UFPE de 64,8% para 44,7% depois do
+decreto, ou seja, o percentual médio desta faixa de orçamento passou a empenhar menos após
+o decreto.
+
+Na faixa de orçamento entre 400 as 900 milhões, destacam-se a UFRPE que passou de
+95,2% para 44,8% do empenhado/autorizado e a UFS teve um pequeno aumento de 51,1%
+para 66,6%, já as IFES com faixa de orçamento de menos de 400 milhões a UFERSA,
+UFRBA e UNIVASF passagem da média acima dos 90% para em tomo de 70% do
+empenhado/autorizado. Quanto ao resto a pagar não houve diferenças estatisticamente do
+antes com o depois do decreto p=0,551.
+
+Tabela 01 - Comparativo entre os percentuais de Empenhado sobre os Autorizados e percentuais do resto a
+pagar sobre o empenhado antes e depois do decreto segundo as faixas de orçamento, IFES e o tipo de despesa.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+% Resto a % Resto a
+Faixa de IFES Tipo % PR % PRA fa pagar/Empenha | pagar/Empenha
+Orçamento Despesa utorizado Antes | utorizado Depois do Antes do Depois
+Decreto Decreto
+
+Decreto Decreto
+UFBA Capital 91,7+2,3 64,7 +18,1 82,7 +4,2 80,2 +9,5
+é UFPB Capital 989+14 85,5 +5,9 76,0 5,2 80,0 + 18,1
+4 UFRN Capital 98,6 2,0 730 +14 646+13 69,5 +12
+É UFC Capital 834+16 73,2 +4,7 69,1+24 89,7+0,7
+UFPE Capital 648 +14 44,7+5,0 71,2 +6,6 83,0 +5,2
+UFAL Capital 89,8 6,7 69,7 +32,9 82,8+3,5 86,1+14
+E UFP Capital 740+366 7654134 5484160 75,5 +81
+é ; UFS Capital 51,1+15,1 66,6 7,5 7184+6,1 33,8+371
+UFCG Capital 94,6+1,3 71,9+7,0 74,4 +40 55,6+14
+á UFMA Capital 97,3 +3,5 82,8 +164 721+1,2 534 +44
+UFRPE Capital 95,2 +0,6 44,8 +10,6 68,3 +9,8 87,8+0,9
+
+ 
+
+ 
+ 
+
+ 
+
+8 UFERSA Capital 99,9 +0,1 72,8 14,2 194+7,0 79,8+8,1
+é E Â UFRBA | Capital 92,9 +1,2 61,9 +24,5 89,2 +24 66,4 +27,2
+UNIVASE Capital 94,9 +3,6 72,3 +18,0 66,8 +4,5 71,3+6,9
+
+ 
+
+p-valor = 0,006 (% Empenhado/A utorizado antes e depois) e p=0,551 (%Resto a pagar/Empenhado antes e depois decreto)
+Fonte: elaborado pelo autor.
+
+Em relação às despesas correntes não houve diferenças estatisticamente significantes
+entre as IFES ante e depois do decreto para o percentual empenhado/autorizado e como
+também para o percentual do resto a pagar/Empenhado com p=0,109 e p=180,
+respectivamente, conforme tabela 02 a seguir:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabela 02 - Comparativo entre os percentuais de Empenhado sobre o Autorizado e percentuais do resto a pagar
+sobre o empenhado antes e depois do decreto segundo as faixas de orçamento, IFES e o tipo de despesa.
+
+Faixa de Tipo % Empenhado/A % Empenhado/A ncia Sra
+
+Orçamento IFES Despesa nina ana Les va Deus do Antes do Depois
+
+Decreto Decreto
+
+UFBA Corrente 94,9+24 91,8 +2,6 23,0+3,5 19,3+1,9
+
+á UEEB Corrente 97,0 +0,2 93,3+6,3 19,2+2,0 16,7 +6,6
+
+3 UFRN Corrente 97,7 +18 98,3 +1,7 104+11 18,2+1,0
+
+é UFC Corrente 974 +2,3 82,7+2,5 15,7+1,0 14,3+2,5
+
+UFPE Corrente 82,4+0,5 76,8+0,3 29,5 *7,5 38,8 +6,3
+
+UFAL Corrente 93,8 +3,9 88,2 +4,5 9,0 +0,2 14,2+1,8
+
+5 UFPI Corrente 95,1+2,7 894+1,3 25 A%47 21,7+6,1
+
+é á UFS Corrente 874+0,1 86,0 +3,3 16,3+7,0 13,7 +5,9
+
+7 UFCG Corrente 96,8 +2,5 91,243 MA sl 13,0+2,1
+
+é UFMA Corrente 95,7 +13 90,3 +0,8 41,9+1,9 234+1,0
+
+UFRPE Corrente 87,3 +71 85,8+1,9 20,8 + 0,2 227487
+
+UFERSA | Corrente 96,4 +2,4 99,0 + 0,2 17,7+7,5 294 +0,5
+
+É E É UFRBA Corrente 94,6 +1,7 93,1 +38 11,1 +6,0 14,8 +54
+
+$ UNIVASF | Corrente 96,2 +2,5 924 +41 176422 18713
+
+ 
+
+ 
+
+ 
+
+p-valor = 0,109 (Empenhado/A utorizado) e p=0,180 (%Resto a pagar/Empenhado antes e depois decreto)
+Fonte: elaborado pelo autor.
+
+De acordo com a tabela 03, em relação às despesas de pessoal foram constatadas
+diferenças estatisticamente significantes entre o percentual médio empenhado/autorizado
+antes do decreto com o depois do decreto p=0,002 através do teste de Wilcoxon para amostras
+pareadas, apesar de o percentual ficar acima dos 97%, houve uma pequena redução
+significativa após o decreto, ou seja, o percentual médio desta passou a empenhar um pouco
+menos após o decreto. Quanto ao resto a pagar houve diferenças estatisticamente do antes
+com o depois do decreto p=0,023, destaca-se a UFBA que tinha uma média de 4,3% de resto a
+pagar passou para 0%, a UFC passou de 0,1% para 1,2% ea UFAL de 0% para 1,2%, A UFPI
+de 0% para 0,4%, a UFCG de 0% paral,9%, UFMA de 0% para 1,5%, UFRPE de 0% para
+0,7%, a UFERSA de 0% para 0,6% e UFRBA de 0% para 0,8%, ou seja, as IFES com menos
+orçamento apresentaram uma piora em relação as despesas com pessoal depois do decreto.
+
+Tabela 03 - Comparativo entre os percentuais de Empenhado sobre o Autorizado e percentuais do resto
+a pagar sobre o empenhado antes e depois do decreto segundo as faixas de orçamento, IFES e o tipo de despesa.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Faixa de
+Orçamento
+
+ 
+
+IFES
+
+ 
+
+Tipo
+Despesa
+
+ 
+
+% Empenhado/A
+utorizado Antes
+
+ 
+
+% Empenhado/A
+utorizado Depois
+
+ 
+
+% Resto a
+pagar/Empenha
+
+ 
+
+% Resto a
+pagar/Empenha
+
+ 
+
+ 
+ 
+
+Decreto Decreto do Antes do Depois
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Decreto Decreto
+UFBA Pessoal 98,3 +04 98,7+14 43+54 0,0+0,0
+8 UFRB Pessoal 99,5 +0,1 99,1+0,2 0,0 +0,0 0,0+0,0
+Ê á UERN pessoal 99,5+0,1 98,5 +0,2 0,0 +0,0 0,1+0,1
+< UFC Pessoal 98,5 +0,8 97,8+11 0,1+0,1 12+1,7
+UFPE Pessoal 99,6 +0,2 99,4+0,2 0,0+0,0 0,0+0,0
+UFAL Pessoal 99,1+0,0 97214 0,0 +0,0 12+16
+5 UERI Pessoal 99,5 +0,0 99,0+1,2 0,0+0,0 0,4+0,5
+é Â ES Pessial 99,2 +0,0 98,4 +0,2 0,0 +0,0 0,0 +0,0
+; UFCG Pessoal 99,7 +0,2 98,3 +11 0,0 0,0 1,9+2,6
+á UFMA Pessoal 99,2 +0,3 97,9+2,5 0,0+0,0 15+2,2
+UEREE Pessoal 99,2 +04 99,1+0,1 0,3+04 0,7+0,9
+E UFERSA Pessoal 98,2 +0,9 97,4+0,9 0,0 +0,0 0,6+0,9
+é ã Â UERBA: Pessoal 98,8+14 98,1+04 0,0+0,0 0,8+11
+UNIVASF | Pessoal 99,2 +0,8 98,0+0,9 0,0+0,0 0,0+0,0
+
+p-valor = 0,002Empenhado/A utorizado e p=0,023 (%Resto a pagar/Empenhado antes e depois decreto)
+
+Fonte: elaborado pelo autor.
+
+5. CONCLUSÃO
+
+O estudo objetivou Verificar se houve modificação na situação em restos a pagar nas
+Universidades Federais do nordeste com o advento do decreto nº 7654, de 23 de dezembro de
+2011. Com base nos estudos realizados, Conclui-se que não houve diferenças estatísticas entre
+o antes e o depois do decreto em relação ao percentual de restos a pagar sobre o montante
+empenhado pelas IFES (p=0,551). E que as despesas que mais contribui para inscrição de
+restos a pagar são as despesas de capital. Já quanto às despesas correntes, não houve
+diferenças estatisticamente significantes entre as IFES antes e depois do decreto para o
+percentual empenhado/autorizado, nem para o percentual do resto a pagar/Empenhado com
+p=0,109 e p=180, respectivamente
+
+Observou-se que existem diferenças estatisticamente significantes em relação às
+despesas de capital entre o percentual médio empenhado/autorizado antes do decreto com o
+depois do decreto p=0,006, destacando as IFES dos grupos de orçamento acima de 1 bilhão
+que o percentual médio desta faixa de orçamento passou a ser empenhar menos após o
+decreto. Na faixa de orçamento entre 400 as 900 milhões, destaca-se a UFS que teve um
+aumento de 51,1% para 66,6%, já as IFES com faixa de orçamento de menos de 400 milhões
+passaram da média acima dos 90% para em tomo de 70% do empenhado/autorizado.
+
+No que concemem, as despesas no grupo despesas de pessoal foram constatadas
+diferenças estatisticamente significantes entre o percentual médio empenhado/autorizado
+antes do decreto com o depois do decreto, ou seja, o percentual médio desta passou a
+empenhar um pouco menos após o decreto, no que tange ao restos a pagar houve diferenças
+estatisticamente do antes com o depois do decreto destacando-se as IFES com menos
+orçamento que apresentaram um pequeno aumento em relação aos restos a pagar nas despesas
+com pessoal depois do decreto.
+
+ 
+Para estudos futuros, observou-se a necessidade de verificar as causas da alta
+percentagem de restos a pagar nas IFES do nordeste.
+
+6. REFERENCIAS
+
+BRASIL. DECRETO Nº 7.654, DE 23 DE DEZEMBRO DE 2011. Disponível em:
+http://www .planalto.gov.br/ccivil 03/ Ato2011-2014/2011/D ecreto/D'7654.htm. A cesso em:
+18/11/13.
+
+O . DECRETO-LEI Nº 200, DE 25 DE FEVEREIRO DE 1967. Disponível em:
+< http://www .planalto.gov.br/ccivil 03/decreto-lei/del0200.htm>.
+
+. Constituição (1988). Constituição da República Federativa do Brasil.
+
+nn LEI Nº4.320 - DE 17 DE MARÇO DE 1964 - DOU DE 23/3/64 Disponível
+em <http://www81.dataprev.gov.br>. Acesso em 02/06/2013.
+
+E LEI Nº 9.394, DE 20 DE DEZEMBRO DE 1996 Estabelece as diretrizes e
+
+bases da educação nacional. Disponível em:://www.planalto.gov .br/ccivil 03/leis/1/9394.htm.
+Acesso em 07/02/2013.
+
+apare LEI COMPLEMENTAR Nº 101, DE 4 DE MAIO DE 2000. Estabelece normas
+de finanças públicas voltadas para a responsabilidade na gestão fiscal e dá outras
+providências.Disponível em:< http://www .planalto.gov.br/ccivil 03/leis/lcp/lcp101.htm>.
+
+Acesso em: 23/02/2013.
+
+O LEI Nº 5.869, DE 11 DE JANEIRO DE 1973.Institui o Código de Processo
+Civil. Disponível em:http://www.planalto.gov.br/ccivil 03/leis//5869compilada.htm. A cesso
+em 20/02/2013.
+
+CASTRO Domingos Poubel, GARCIA Leice Maria Contabilidade Publica no Governo
+Federal 2º edição São Paulo Edit. Atlas 2008.
+
+CONTROLADORIA GERAL DA UNIÃO. Transferências de Recursos da União.
+Disponível em:
+
+<http://www.cgu.gov .br/publicacoes/C artilhaG estaoRecursosFederais/A rquivos/Transferencia
+RecursosUniao.pdf>acesso em 02/06/2014.
+
+CFC. Manual de Procedimentos Contábeis e Prestação de Contas das entidades de interesse
+social / 2.ed.reimpr-Brasília: CFC.,2008. Disponível em:
+<www.cfc.org.br/uparg/Manual procedimentos2008.pdf>. A cesso em 06/07/2013.
+
+e aee NBCT 16.1. RESOLUÇÃO CFC Nº. 1.128/08. Disponível em:
+<http://portalcfc.org.br/wordpress/wp-content/uploads/2013/01/Setor PYC3%BA blico.pdf>.
+Acesso em: 02/06/2014.
+
+CRUZ Cláudia Ferreira Transparência na Elaboração, Execução e Prestação de Contas
+do Orçamento Municipal: um estudo em um município brasileiro. Disponível em:
+<http://www .spell.org.br>. A cesso em: 04/07/2013.
+
+FARBER,J.C.; SEGRETI,J. B. Contribuição da Contabilidade para a Eficácia da
+Gestão e Controle de Condomínios. In: Congresso de Controladoria e contabilidade da USP.
+Disponível em: <http://www.congressoeac.localweb.com.br/art62006/401.pdf>. Acessoem
+16/08/2013.
+
+GIACOMONL James. Orçamento Público. São Paulo: Atlas, 2003.
+GIACOMONL James. Orçamento Público. São Paulo: Atlas, 2009.
+
+LAKATOS Maria Eva, Marconi Andrade Marina Metodologia Cientifica 5º Edi. S.P Atlas
+2011.
+
+MARION, José Carlos; DIAS, Reinaldo; TRALDI, Maria Cristina. Monografia para os
+cursos de administração, contabilidade e economia. São Paulo: Atlas, 2002.
+
+Neves, Thiago José Galvão das Um estudo de variáveis que impactam a execução física e
+orçamentária dos programas das universidades federais brasileiras. Dissertação
+(mestrado ciências contábeis) Universidade Federal de Pemambuco, Recife: 2013.
+
+PRADO, O.; etal. Discursos, prestação de contas e responsabilização democrática nas
+reformas da gestão pública. In: EnANPAD, 31., 2007, Rio de Janeiro. Anais... Rio de
+Janeiro, 2007. Promulgada em 5 de outubro de 1988.
+
+SILVA Edna Lúcia da, EsteraMuszkat Menezes M etodologia da Pesquisa e Elaboração de
+DissertaçãoFlorianópolis 2001.disponível em :<http://projetos.inf.ufsc.br>. A cesso
+15/05/2013.
+
+SLOMSKI ValmorM anual de Contabilidade Publica 2º edição São Paulo Edit. Atlas 2010.
+
+SOARES Thiago Coelho, SERRA Fernando Antônio Ribeiro correlação entre valor
+repassado pelo estado e conceito capes nas universidades federais brasileirasDisponível
+em <http://www .inpeau.ufsc.br>, acesso em 25/05/2013.
+
+TRIBUNAL DE CONTAS DA UNIÃO DecisãoNormativa TCU nº 100/2009, de 7 de
+outubro de 2009. Brasília, 2009.
+
+XAVIER,M.E.S.P.; DEITOS, R.A. Estado e Política Educacional no Brasil. In: DEITOS,
+R.A; RODRIGUES, R.M. (Orgs.). Estado, Desenvolvimento, Democracia & Políticas
+Sociais. Cascavel: Edunioeste, 2006.
+

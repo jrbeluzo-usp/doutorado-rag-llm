@@ -1,0 +1,1093 @@
+ 
+
+Biblioteca
+
+DigrraL
+
+CÂMARA
+
+pa CÂMARA DOS
+DEPUTADOS
+
+E-Legis | Revista Eletrônica do Programa de Pós-Graduação http:/linseer-ibict.br/e-legis
+
+Centro de Formação, Treinamento e Aperfeiçoamento da Câmara do Deputados http://bd.camara.gov.br
+
+ 
+
+ 
+
+SN 22727); NAN
+ORÇAMENTO PÚBLICO SEMI-IMPOSITIVO PARA TRANSFERÊNCIAS
+VOLUNTÁRIAS: DIAGNÓSTICO, PERSPECTIVAS E PROPOSTA DE
+MUDANÇAS!
+
+Romiro Ribeiro?
+
+Resumo: Diagnóstico do modelo legal de transferências voluntárias realizadas pelo Governo
+Federal para os entes subnacionais, em face das recorrentes irregularidades relatadas pelos
+órgãos de controle. Por que o modelo vem sendo mantido há décadas diante da notória
+
+ineficiência? O fim da descentralização tutelada é a solução recomendada pela pesquisa.
+Palavras-chaves: convênios, descentralização tutelada, orçamento público
+
+Abstract: Diagnose the model law of voluntary transfers made by the Federal Government to
+subnational entities in the face of constant irregularities reported by the control institutions.
+Why has the model been kept for decades regarding the notorious inefficiency? The end of
+
+supervised decentralization is the recommended solution.
+
+Keywords: agreements, supervised decentralizations, public budget
+
+1 Introdução
+
+Há anos, órgãos de imprensa e de controle vêm relatando problemas relacionados à
+ineficiência, desvios de recursos públicos, falta de prestação de contas, amadorismos, entre
+outras mazelas ligadas às transferências discricionárias de recursos financeiros do Governo
+Federal para estados, Distrito Federal e municípios. Se tais problemas são conhecidos e
+recorrentes, importa perguntar por que continuam ocorrendo com a mesma ou maior
+intensidade? Quais as suas reais causas? Quais as medidas já adotadas para combatê-los? Por
+
+que não se mostraram eficazes? Há alternativas mais eficazes?
+
+1 Este artigo tem por base Monografia apresentada pelo autor no curso de especialização em Processo Legislativo
+do CEFOR, Centro de Formação, Treinamento e Aperfeiçoamento da Câmara dos Deputados, concluído em
+novembro de 2009.
+
+2 Administrador de empresas. Especialista em Administração Pública e em Processo Legislativo. Consultor de
+Orçamentos e Fiscalização Financeira da Câmara dos Deputados. (romiro.ribeiro(o camara.gov.br)
+Romiro Ribeiro
+
+O tema é relevante do ponto de vista econômico, social e político. São formalizados,
+em média, 24 mil convênios a cada ano”. Em 2008, o valor das transferências voluntárias
+consignado na lei orçamentária correspondia a 64,5% do total dos investimentos autorizados e
+a quase três vezes (281%) o Programa Bolsa-Família (R$11,0 bilhões), considerado prioritário
+pelo Governo Federal.
+
+Abordagens superficiais do tema tendem a concluir que os notórios problemas
+decorrem de má gestão por parte dos dirigentes dos órgãos repassadores de recursos, falta de
+qualificação da mão de obra no serviço público, estrutura técnica e pessoal insuficiente.
+Análise mais percuciente, todavia, revela que essas hipóteses não explicam consistentemente
+o fenômeno por não serem sustentáveis no longo prazo. É razoável supor que problemas
+recorrentes, identificados há décadas, teriam sido solucionados pelas sucessivas
+administrações, de forma planejada, mediante os necessários aportes orçamentários. Como
+isso não ocorreu, conclui-se que existem fatores de outra ordem que impediram a realização
+
+dos investimentos necessários.
+
+2 Aspectos econômicos e políticos das transferências intergovernamentais
+
+As transferências intergovernamentais constituem-se em repasses de recursos
+financeiros entre os entes de um estado, com base em determinações constitucionais, legais ou
+em decisões discricionárias do órgão central, com vistas ao atendimento de objetivos
+específicos (obras de saneamento básico, construção de casas populares, manutenção de
+creches etc.) ou genérico (desenvolvimento regional).
+
+A literatura econômica registra, todavia, que são passíveis de descentralização
+diversas ações públicas, ao mesmo tempo em que é muito restrito o conjunto de tributos que
+pode ser arrecadado de forma eficiente pelos governos subnacionais. O resultado é um
+desequilíbrio entre receitas e despesas entre os membros da Federação que ficou conhecido
+pela expressão desequilíbrio vertical. As transferências visam, portanto, corrigir essas
+distorções.
+
+O fator político das transferências de recursos financeiros encontra ressonância na
+teoria reconhecida pela literatura como a “Teoria da Conexão Eleitoral” proposta por Mayhew
+(1974), segundo a qual o comportamento parlamentar dos congressistas nos Estados Unidos
+tem, como primeiro motor, o desígnio do deputado ou senador de disputar um novo mandato
+(Cintra e Lacombe, 2007). Cintra e Lacombe (2007) destacam que essa teoria tem sido
+
+3 No período entre 1996 e 2008, o Governo Federal formalizou cerca de 314 mil convênios com os estados,
+Distrito Federal, municípios e entidades privadas sem fins lucrativos, no montante global de R$221,4 bilhões,
+conforme dados divulgados pela Controladoria-Geral da União. Disponível em:
+<http://wwwportaltransparencia.gov.br/ convenios/ConveniosListaOrgaos. asp? TipoConsulta=1>. Acesso em 23
+jan. 2009.
+
+* O desequilíbrio horizontal seria aquele resultante das desigualdades regionais entre seus membros.
+
+150 E-legis, Brasília, n.4, p. 149-167, 1º semestre 2010, ISSN 2175.0688
+Orçamento Público Semi-Impositivo para Transferências Voluntárias: diagnóstico, perspectivas e proposta de
+mudanças
+
+contestada no Brasil, entre outros, por Figueiredo e Limongi. A visão destes autores focaliza e
+
+destaca a importância das estruturas e normas internas do Legislativo, o papel das lideranças
+
+como indutoras do comportamento parlamentar.
+
+Independentemente dessas diferentes interpretações, este estudo revelou que,
+historicamente, cerca de 40% do valor das emendas parlamentares destinam-se a
+transferências de recursos para estados e municípios”.
+
+O Relatório Final da CPMI das Ambulâncias (2006, p. 80), a respeito do uso das
+emendas parlamentares nas negociações entre Legislativo e Executivo, registra que o
+“govemo Fernando Henrique centralizou a distribuição de recursos” sob o controle do
+Executivo ao criar o Sistema de Acompanhamento Legislativo — SIAL, por meio do Decreto
+nº 1.403, de 21 de fevereiro de 1995.
+
+No governo atual, tal controle centralizado está evidenciado na existência de órgão
+estrategicamente situado na estrutura organizacional da Presidência da República - Subchefia
+de Assuntos Parlamentares - com o objetivo de “acompanhar”, “apoiar” e “recomendar”
+medidas quanto à execução de emendas parlamentares, nos termos do art. 6º do Decreto nº
+6.207/2007º.
+
+O trecho abaixo, extraído do Relatório Final da CPMI das Ambulâncias (2006, V.II,
+p. 702) é absolutamente cristalino quanto aos interesses políticos envolvidos:
+
+O pano de fundo no qual se estabelecem as transferências voluntárias é a
+execução orçamentária, em especial a execução das emendas parlamentares
+ao orçamento, individuais e de bancadas. O tema foi abordado
+consensualmente entre os parlamentares quanto à realidade de que a
+liberação de emendas é, de fato, instrumento para construção de maiorias
+de Governo no Parlamento, ao lado da concessão de cargos comissionados.
+[...] Na verdade, a origem de todos os ilícitos objetos desta CPMI está na
+execução orçamentária voltada para a composição de interesses políticos.
+(Relatório Final da CPMI das Ambulâncias, 2006, V.II, p. 702)
+
+Portanto, razões de ordem econômica, social e política justificam e motivam a
+
+existência de transferências intergovernamentais.
+
+3 Transferências Voluntárias
+3.1 Distorções nas estatísticas oficiais
+
+Nos últimos oito anos (2001 a 2008), o Governo Federal realizou transferências
+voluntárias de recursos aos estados, Distrito Federal e municípios no valor de R$53,6 bilhões.
+
+3 0s projetos de lei orçamentária aprovados pelo Congresso Nacional relativos aos exercícios de 2004 a 2009
+ampliaram as dotações para essa finalidade, em relação ao projeto encaminhado pelo Poder Executivo, em 80%,
+105,6%, 105,5%, 123,9%, 48,7% e 46,5%
+
+8 Art 6º À Subchefia de Assuntos Parlamentares compete: VIII - acompanhar, apoiar e, quando couber,
+recomendar medidas aos órgãos e entidades da administração pública federal quanto à execução das emendas
+parlamentares, constantes da Lei Orçamentária Anual, e sua adequação aos critérios técnicos e de compatibilização
+com a ação governamental; (Decreto nº 6.207/2007).
+
+E-legis, Brasília, n. 4, p. 149-167, 1º semestre 2010, ISSN 2175.0688 151
+Romiro Ribeiro
+
+Nesse montante não estão incluídos os convênios formalizados pelo Ministério da Saúde nem
+os Restos a Pagar inscritos ou pagos anualmente.
+
+A exclusão dos convênios firmados pelo Ministério da Saúde decorre da
+interpretação, a nosso ver equivocada, do contido no art. 25 da LRF” que excluiu
+expressamente do conceito de transferências voluntárias os recursos destinados ao Sistema
+Único de Saúde (SUS).
+
+Ocorre que, pela metodologia que vem sendo adotada pelo Govemo Federal,” são
+excluídos das estatísticas das transferências voluntárias não só os recursos destinados ao SUS,
+mas toda a programação do Ministério da Saúde (Órgão 36000).
+
+Com isso, nem os recursos destinados ao SUS nem aqueles transferidos
+discricionariamente pelo Ministério da Saúde às unidades da Federação são contabilizados nas
+estatísticas das transferências voluntárias, embora aquele Ministério formalize centenas de
+convênios a cada ano com as unidades subnacionais ou com entidades privadas sem fins
+lucrativos, conforme demonstrado na Tabela 1 abaixo. Assim, sob a perspectiva dos órgãos
+concedentes, observa-se que praticamente todos realizam transferências por meio de
+convênios aos entes subnacionais e entidades privadas”.
+
+Tabela 1 - Convênios Por Órgão Concedente - 1996 a 2008
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+R$ milhões
+
+Órgão Quantidade | Valor Conveniado
+MINISTÉRIO DO DES. SOCIAL E COMBATE À FOME 17.028 56.853
+MINISTÉRIO DA SAÚDE 69.206 36.572
+MINISTÉRIO DA EDUCAÇÃO 85.654 21.725
+MINISTÉRIO DA FAZENDA 533 18.814
+MINISTÉRIO DAS CIDADES 29.908 17.412
+MINISTÉRIO DOS TRANSPORTES 819 12.186
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL 11.435 11.030
+MINISTÉRIO DA CIÊNCIA E TECNOLOGIA 17.261 8.677
+MINISTÉRIO DO TRABALHO E EMPREGO 1.236 5.190
+MINISTÉRIO DO TURISMO 12.549 5.116
+MINISTÉRIO DO DESENVOLVIMENTO AGRÁRIO 15.153 4,830
+MINISTÉRIO DA JUSTIÇA 3.627 4.234
+MINISTÉRIO DO ESPORTE 13.794 3.240
+MINIST. DA AGRIC. PECUÁRIA E ABASTECIMENTO 14.744 2.910
+PRESIDÊNCIA DA REPÚBLICA 4.716 2.709
+MINISTÉRIO DO DESENV, IND. E COM. EXTERIOR 1.701 2.317
+MINISTÉRIO DO MEIO AMBIENTE 4.682 1.977
+7 Art. 25. Para efeito desta Lei Complementar, entende-se por transferência voluntária a entrega de recursos
+correntes ou de capital a outro ente da Federação, a título de cooperação, auxílio ou assistência financeira, que não
+decorra de determinação constitucional, legal ou os destinados ao Sistema Unico de Saúde.
+
+ 
+
+8 Orçamentos Fiscal e da Seguridade Social, Modalidade de Aplicação 30 e 40, exceto: os programas 903
+(transferências constitucionais e legais), 0083 (Previdências Social Básica), Órgão 36000 - Min. da Saúde, Fonte
+138 (Cota-parte Compensações Financeiras), Atividade 0E36 (complementação da União ao FUNDEB), Grupo
+Natureza de Despesa 1(Pessoal). Despesas liquidadas. Disponível em:
+
+http://www .stn.fazenda.gov.br/estados municipios/transferencias voluntarias.asp . Acesso em 15 jan 2009
+
+º Dados divulgados pela Controladoria-Geral da União. Disponível em: <http://www.portaltransparencia.gov.br/
+convenios/ConveniosListaOrgaos. asp? TipoConsulta=1>. Acesso em 23 jan. 2009.
+
+152 E-legis, Brasília, n.4, p. 149-167, 1º semestre 2010, ISSN 2175.0688
+Orçamento Público Semi-Impositivo para Transferências Voluntárias: diagnóstico, perspectivas e proposta de
+
+ 
+
+ 
+
+ 
+
+ 
+
+mudanças
+Órgão Quantidade | Valor Conveniado
+MINISTÉRIO DE MINAS E ENERGIA 549 1.446
+MINISTÉRIO DA CULTURA 7.021 1.345
+MINISTÉRIO DA DEFESA 1.628 1.159
+MINISTÉRIO DO PLANEJ. ORÇAMENTO E GESTÃO 1.346 949
+MINISTÉRIO DAS COMUNICAÇÕES 393 940
+COMANDO DA MARINHA 264 54
+MINISTÉRIO DA PREVIDÊNCIA SOCIAL Ho 50
+MINISTÉRIO DAS RELAÇÕES EXTERIORES 49 38
+COMANDO DO EXÉRCITO 21 17
+COMANDO DA AERONÁUTICA ô 2
+Total 315.341 221.793
+
+Fonte: CGU/Portal da Transparência. Período 1/1/1996 a 20/12/2008
+
+Outra distorção similar ocorre com os Restos a Pagar, pois não identificamos
+nenhuma explicação para a exclusão desses valores das estatísticas das transferências
+voluntárias. Na página eletrônica da Secretaria do Tesouro Nacional (STN) consta apenas a
+informação de que a estatística não contempla os Restos a Pagar.” A omissão do valor dos
+Restos a Pagar distorce a análise da matéria porque uma despesa a ser paga ou transferida no
+exercício seguinte ao qual estava programada não a descaracteriza e, portanto, não deveria ser
+excluída das informações estatísticas pertinentes.
+
+Tal situação é agravada quando se verifica que, de 2001 a 2008, 48% dos recursos
+destinados aos estados e ao Distrito Federal e 34% dos recursos destinados aos municípios
+somente foram empenhados nos últimos sessenta dias de cada ano, o que explica o expressivo
+volume de recursos inscrito em Restos a Pagar no período, mas não contemplados pelas
+estatísticas oficiais.
+
+A Tabela 2 demonstra o total das transferências voluntárias realizadas no período de
+2001 a 2008 pelo critério adotado pela STN!! e também com o acréscimo dos Restos a Pagar
+Pagos em cada exercício. O ajuste elevou as transferências totais do período de R$53,6
+bilhões para R$78,1 bilhões, ou seja, aumento de cerca de 50%,
+
+Tabela 2 - Transferências Voluntárias Realizadas - 2001 a 2008
+R$ milhões
+
+ 
+
+RESTOS A PAGAR NÃO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANO O MUNICÍPIOS | SUBTOTAL PROCESSADOS EAGUS Ee
+ESTADOS/DF | MUNICÍPIOS
+2001 3.587 1.969 5.556 1.012 2.022 8.591
+2002 2.476 2.194 4.670 1.082 551 6.305
+2003 2.406 2.598 5.004 184 302 5.489
+2004 2.734 3,010 5.744 434 660 6.838
+2005 3.050 3.518 6.568 891 1797 9.255
+2006 3.230 4.077 7.307 972 2.708 10.986
+
+10 Disponível em: http://www .stn.fazenda. gov.br/estados municipios/transferencias voluntarias.asp.
+Acesso em 23 jan. 2009.
+
+! Cf, Nota 7
+o ajuste do SUS depende de prévia conceituação das despesas que integram esse Sistema.
+
+E-legis, Brasília, n. 4, p. 149-167, 1º semestre 2010, ISSN 2175.0688 153
+Romiro Ribeiro
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RESTOS A PAGAR NÃO
+ANO ESTADOS! MUNICÍPIOS | SUBTOTAL | PROCESSADOS PAGOS EOTAL
+ESTADOS/DF | MUNICÍPIOS
+2007 4.130 4.377 8.508 3.074 4.183 15.765
+2008 4.754 5.559 10.313 2.369 2.265 14.947
+26.369 27.300 53.669 10.018 14.488 78.175
+
+Fonte: STN/MF e SIGA Brasil
+
+3.2 Características do modelo legal
+
+O modelo legal das transferências voluntárias possui três características básicas:
+formalismo processual, personalismo dos pleitos e descentralização tutelada.
+
+O formalismo processual é traduzido pelo extenso rol de documentos exigidos pela
+legislação para individualizar e especificar o objeto a ser conveniado, qualificar técnica e
+juridicamente o interessado, verificar a adimplência tributária e contratual perante órgãos e
+entidades da União, investigar se estes adotam gestão fiscal responsável, se atendem as
+normas constitucionais relativas a despesas mínimas com saúde e educação, comprovar a
+correta aplicação de recursos anteriormente repassados, entre outras exigências. A
+investigação do cumprimento de cada um desses aspectos exige a elaboração e análise de
+relatórios, pareceres, planos, projetos, cronogramas, certidões, documentos contábeis,
+prestações de contas etc. que nem os órgãos repassadores nem os entes beneficiários têm
+conseguido atender, como será visto na Seção 4.
+
+O personalismo na análise das transferências voluntárias é caracterizado pelo fato de
+os pleitos serem examinados individualmente, segundo as características de cada
+empreendimento, beneficiário ou mesmo a iniciativa da transferência, se do próprio órgão
+repassador ou do Congresso Nacional, por meio de emenda à Lei Orçamentária Anual. Com
+isso, a análise individual dos pleitos leva em consideração o atendimento das exigências
+técnicas e legais para a execução descentralizada do programa de governo, mas também
+critérios subjetivos relacionados ao mérito da proposta, ao autor do pedido, à comunidade
+beneficiada e à iniciativa da transferência, se do próprio órgão repassador ou do Congresso
+Nacional. As transferências originadas em emendas parlamentares, por exemplo, têm
+tratamento diferenciado nos diversos ministérios, tendo, muitos deles, sistemas próprios
+desenvolvidos para acompanhar essas transferências, como é o caso do Ministério da Saúde"?
+e do Ministério do Desenvolvimento Social e Combate à Fome",
+
+A terceira característica, ou seja, a descentralização tutelada, é a menos óbvia, mas
+seguramente é a que tem maior impacto na construção do sistema legal que rege as
+transferências discricionárias de recursos. Por que descentralização tutelada? Porque
+
+!3 Manual de Cooperação Técnica e Financeira, por meio de Convênios (2008, p. 17), aprovado pela Portaria n º
+1.074/GM, de 29 de maio de 2008.
+
+154 E-legis, Brasília, n.4, p. 149-167, 1º semestre 2010, ISSN 2175.0688
+Orçamento Público Semi-Impositivo para Transferências Voluntárias: diagnóstico, perspectivas e proposta de
+mudanças
+
+descentralizar, em sentido comum, é afastar do centro; descentralizar, em sentido jurídico-
+
+administrativo, é atribuir a outrem poderes da A dministração para que aja em nome próprio
+
+(Meirelles, 2009).
+
+No caso das transferências voluntárias, não ocorre este deslocamento de atribuições e
+distinção de funções. Há, na verdade, uma duplicação de esforços, pois o ente beneficiário age
+em nome próprio, mas sob intenso monitoramento do órgão repassador, ao qual compete tudo:
+planejar, analisar, avaliar, fiscalizar, aprovar, rejeitar e até mesmo verificar a observância, por
+parte do beneficiado, dos princípios norteadores da administração pública, entre eles a
+legalidade, impessoalidade, moralidade, publicidade e eficiência.
+
+Descentralizar, retendo para si tais atribuições, falseia o princípio, pois exige do órgão
+repassador a manutenção de estrutura organizacional e de pessoal semelhante àquela
+necessária para execução direta de empreendimentos, com a desvantagem de o procedimento
+se tornar mais complexo, na medida em que há a interposição de intermediário (estado, DF ou
+município) entre o órgão repassador e o objeto do convênio.
+
+As evidências do monitoramento espraiam-se por toda a legislação. O art. 10 do
+Decreto-lei nº 200, de 1967, e o art. 5º do Decreto nº 6.170, de 2007, impõem aos órgãos
+repassadores que somente promovam transferências voluntárias após a aferição da
+qualificação técnica e da capacidade operacional do convenente para a gestão do convênio.
+Todos os documentos destinados à instrução da tomada de decisão (projetos, laudos, planilhas
+de custos etc.) devem ser submetidos à prévia análise e aprovação do órgão repassador dos
+recursos (arts. 21 e 22 da Portaria Interministerial nº 127/2008). Mas importa perguntar por
+que o Governo Federal instituiu e mantém modelo legal com estas características diante dos
+claros sinais de ineficiência e dos recorrentes e graves problemas apontados pelos órgãos de
+controle.
+
+A análise da legislação reguladora das transferências voluntárias! revela que a tutela
+imposta aos entes subnacionais beneficiados com os repasses decorre essencialmente da
+necessidade de se dar cumprimento ao princípio constitucional da prestação de contas!*. A
+tutela e o formalismo processual são os instrumentos utilizados para dar efetividade a esse
+princípio e ambos condicionam completamente a atuação dos órgãos repassadores e entes
+
+beneficiados.
+
+ 
+
+!4 Sistema de Convênios (SISCON), nos termos consignados no Relatório de Gestão (2008), do MDS.
+
+Hã Constituição Federal, Lei Complementar nº 101, de 2000 (LRF), Decreto-lei nº 200, de 1967, Lei nº 11.768, de
+2008 (LDO 2009), Decreto nº 6.170, de 2007, Portaria Interministerial nº 127, de 2008 e alterações, IN nº 1/2007-
+STN, entre outras
+
+16 Art 70(..,).
+
+Parágrafo único. Prestará contas qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade,
+guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais a União responda, ou que, em
+nome desta, assuma obrigações de natureza pecuniária.
+
+E-legis, Brasília, n. 4, p. 149-167, 1º semestre 2010, ISSN 2175.0688 155
+Romiro Ribeiro
+
+Portanto, uma solução para as recorrentes mazelas seria investir mais em tecnologia,
+mais em treinamento, mais contratação de pessoal para analisar e fiscalizar as transferências
+realizadas, como indica o senso comum. A pesquisa indicou que esta não parece ser a solução
+
+mais adequada, como será demonstrado na Seção 6, deste trabalho.
+
+4 Principais problemas detectados nas transferências voluntárias
+
+Há dezoito anos o Relatório Final da CPMI do Collor (1992) já apontava a
+necessidade de “reduzir drasticamente [...] as chamadas transferências voluntárias” bem como
+a de “dar ao sistema de controle interno da administração pública federal [...] reais condições
+de avaliar o cumprimento das metas, privilegiando mecanismos de acompanhamento
+físico e financeiro” (1992, p. 580), o que demonstra a recorrência dos problemas (grifo
+nosso).
+
+Em 2002, a Corregedoria-Geral da União realizou auditoria com a finalidade de
+analisar mais profundamente o processo de gerenciamento das transferências de recursos
+públicos por meio de convênios e contratos de repasse, oportunidade em que constatou
+descumprimento da legislação aplicável em recursos da ordem de R$11 bilhões. Passados
+cinco anos da referida auditoria, o Relatório de Gestão da CGU relativo ao exercício de 2007
+registra, novamente, extenso rol de irregularidades identificado pelas fiscalizações por ela
+promovidas nos programas e ações relativos às transferências de recursos aos estados.
+
+O TCU, por seu turno, há anos vem apontando irregularidades nas transferências
+voluntárias. O Acórdão TCU n.º 1.936/2003 - Plenário, por exemplo, deliberou pela conversão
+de vários processos em tomadas de contas especiais em consequência de inspeções realizadas
+para averiguação de esquema fraudulento para agenciar convênios, manipular licitações e
+desviar recursos públicos federais em pelo menos trinta municípios do Estado de Minas
+Gerais. Mais grave ainda, consta deste Acórdão que um número expressivo de convênios, nos
+quais se encontraram irregularidades graves, havia sido aprovado pelos órgãos concedentes.
+Esse quadro de irregularidades, caracterizado por análises meramente superficiais, pro forma,
+existência de pareceres com datas posteriores ou incompatíveis com as datas de celebração
+dos convênios, orçamentos superdimensionados também foi apontado pelo Acórdão TCU n.º
+2.261/2005-Plenário.
+
+Mais recentemente, o TCU consignou no Relatório e Pareceres Prévios sobre as
+Contas do Governo da República, Exercício de 2006, que as transferências voluntárias têm
+sido alvo de fundadas críticas quanto aos seus mais diversos aspectos, dentre os quais: baixa
+efetividade; barganha entre os Poderes Executivo e Legislativo para liberação de emendas;
+fomento à montagem de esquemas criminosos objetivando a apropriação de recursos públicos;
+
+deficiências e disfunções operacionais.
+
+156 E-legis, Brasília, n.4, p. 149-167, 1º semestre 2010, ISSN 2175.0688
+Orçamento Público Semi-Impositivo para Transferências Voluntárias: diagnóstico, perspectivas e proposta de
+mudanças
+
+Diante desse quadro, o Parecer Prévio do TCU incluiu ressalva nas contas do
+Presidente da República relativas ao exercício de 2006, nos seguintes termos: “XXV - falta de
+controle das transferências voluntárias em todas as fases do processo: planejamento, análise e
+aprovação dos planos de trabalho, fiscalização da execução e prestação de contas” (Relatório e
+Pareceres Prévios sobre as Contas do Governo da República, Exercício de 2006, p. 317).
+
+5 Análise dos problemas identificados
+5.1 Deficiências de controle dos órgãos repassadores
+
+As deficiências de controle dos órgãos repassadores são responsáveis pela maioria das
+irregularidades. É em razão delas que convênios são assinados com planos de trabalho e
+projetos inexistentes ou mal elaborados, as análises técnicas são superficiais, as prestações de
+contas não são analisadas tempestivamente, e o acompanhamento dos empreendimentos é
+deficiente, o que estimula a ocorrência de outras irregularidades.
+
+Mas se os problemas são recorrentes, por que não foram resolvidos ao longo destes
+quase vinte anos? A análise das evidências indica que:
+
+I - analisar e fiscalizar cerca de 24 mil convênios e contratos de
+repasses anuais, pulverizados em praticamente todos os municípios
+brasileiros, exige estruturas de recursos humanos, materiais e
+
+tecnológicos não disponíveis na administração pública federal;
+
+II - dotar a Administração de tal estrutura não se revelou opção
+viável do ponto de vista político e econômico diante de restrições
+orçamentárias do País e de prioridades de gastos estabelecidos pelo
+
+govemo.
+
+Portanto, dotar a Administração de estruturas de recursos humanos, materiais e
+tecnológicos compatíveis com os serviços a realizar poderia levar a situação tal que o custo da
+fiscalização seria superior aos riscos, o que contraria princípio basilar do controle, nos termos
+expresso no art. 14 do Decreto-Lei nº 200, de 25 de fevereiro de 1967"”.
+
+5.2 Irregularidades na execução dos planos de trabalho
+
+Muitas das irregularidades mencionadas neste trabalho evidenciam o descompasso
+entre o planejado e o executado, ou seja, a execução tem-se mostrado incompatível com o
+formalismo estabelecido pela sistemática vigente. São exemplos desse tipo de irregularidades:
+
+os saques dos recursos do convênio sem levar em conta o cronograma físico-financeiro de
+
+17 E q E E Z
+Art. 14. O trabalho administrativo será racionalizado mediante simplificação de processos e supressão de
+controles que se evidenciarem como puramente formais ou cujo custo seja evidentemente superior ao risco.
+
+E-legis, Brasília, n. 4, p. 149-167, 1º semestre 2010, ISSN 2175.0688 157
+Romiro Ribeiro
+
+execução do objeto; prorrogação de contrato após ter expirado o prazo de vigência ou sem
+previsão legal; realização de pagamentos sem cobertura contratual; execução de objeto
+diverso do pactuado no convênio; acréscimos aos contratos de obras e/ou reformas acima dos
+percentuais permitidos, entre outros.
+
+Para ilustrar a natureza desse problema, veja-se o caso emblemático ocorrido no
+município de Conceição do Mato Dentro (MG), na execução do Convênio nº 864/1994, por
+meio do qual o Fundo Nacional de Saúde transferiu à municipalidade recursos para o
+Programa de Atendimento aos Desnutridos e às Gestantes de Risco Nutricional.
+
+As verbas do citado Convênio nº 864/1994, no valor de R$ 19.450,36, destinavam-se
+à aquisição e distribuição à população carente de 5.976 quilogramas de leite e 446 litros de
+óleo. Ao invés de cumprir este programa de trabalho, o prefeito adquiriu 3.590,4 quilogramas
+de leite em pó e, com os recursos referentes à contrapartida municipal, comprou cestas básicas
+para distribuição à população carente, no valor total de R$10.728,00. O TCU, diante da
+constatação de desvio de finalidade dos recursos do convênio, aplicou ao responsável multa
+no valor de R$4.000,00 e julgou suas contas irregulares com fundamento na legislação
+vigente!é (A córdão nº 2.690/2003 e Acórdão nº 1.126/2005, ambos da Primeira Câmara). Em
+razão da rejeição das contas do prefeito pelo TCU, o caso foi submetido à Justiça Eleitoral,
+uma vez que em tais circunstâncias o responsável fica impedido de concorrer a cargos
+eletivos. A matéria, depois de analisada em primeira instância, foi submetida em grau de
+recurso ao Tribunal Superior Eleitoral (TSE), onde é objeto do Recurso Especial Eleitoral -
+RESPE Nº 33.806, sob julgamento.
+
+O caso do município de Conceição do Mato Dentro, embora não tenha, de per si,
+valor estatístico, revela a natureza do problema ao desnudar suas diversas facetas. Primeiro,
+um convênio de valor mínimo, em tono de R$ 20 mil, vem, desde 1994, portanto há 15 anos,
+movimentando o aparelho do Estado (ministérios, CGU, TCU, TSE), despendendo tempo,
+recursos humanos e materiais. Segundo, neste caso e em outros similares, sabe-se que não está
+em jogo o valor financeiro de eventual dano ao erário provocado pelo procedimento apontado
+como irregular. Em casos assim, o aparato estatal se movimenta para proteger valores e
+princípios legais inerentes às sociedades democráticas e que, por isso mesmo, não podem ser
+postos de lado por agentes públicos e privados. Terceiro, não há que se fazer qualquer crítica à
+atuação e às decisões dos órgãos de controle e da Justiça Eleitoral, pois eles apenas exerceram
+sua função de exigir o cumprimento da lei, das normas estabelecidas e dos contratos. Esta é
+
+premissa básica para o bom funcionamento da sociedade.
+
+18 Art. 16, inciso III, alínea 'b”, da Lei nº 8.443, de 1992, que cuida de “prática de ato de gestão ilegal, ilegítimo,
+antieconômico, ou infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária,
+operacional ou patrimonial”
+
+158 E-legis, Brasília, n.4, p. 149-167, 1º semestre 2010, ISSN 2175.0688
+Orçamento Público Semi-Impositivo para Transferências Voluntárias: diagnóstico, perspectivas e proposta de
+mudanças
+
+A legalidade, a impessoalidade, o formalismo, a publicidade, a obediência a regras e
+contratos são princípios basilares aos quais estão submetidos agentes políticos e gestores
+públicos. A obediência a estas regras protege a sociedade de personalismos, voluntarismos e
+do patrimonialismo, em que não existem fronteiras entre o público e o privado. Entretanto, há
+que se perguntar se a legislação das transferências voluntárias promove e fortalece a ação
+conjunta dos entes da Federação, e se tal modelo está em sintonia com os princípios
+constitucionais da eficiência ou da autonomia dos entes da Federação, nos termos
+estabelecidos pelos arts. 18 e 37 da Constituição Federal.
+
+Os resultados obtidos neste trabalho indicam claramente que não. Pelo contrário, não
+parece razoável que os ministérios, órgãos máximos da estrutura governamental, responsáveis
+pelo planejamento e pelo estabelecimento das macrodiretrizes a serem observadas pelo País
+nas suas respectivas áreas, façam política pública assinando convênios de R$20 mil, como no
+caso relatado, mantendo para si a responsabilidade de fiscalizar integralmente a execução
+destes empreendimentos, localizados, na maioria das vezes, a milhares de quilômetros das
+
+sedes desses ministérios.
+
+6 Sugestão para melhoria do processo de transferências
+
+A Seção 1 demonstrou que existem razões de ordem econômica, política e social para
+a realização de transferências voluntárias. Em consequência, não é de se esperar que a solução
+dos problemas identificados neste trabalho passe pela supressão total do mecanismo de
+transferências.
+
+Solução estrutural como, por exemplo, um novo pacto federativo para redistribuição
+de tributos e atribuições pode, em tese, minimizar o problema, mas é alternativa de difícil
+implementação política, pois nem mesmo propostas de reforma tributárias mais modestas,
+com o objetivo básico de simplificar o sistema, têm logrado consenso para aprovação no
+Congresso Nacional, como revelam as dezenas de propostas de emendas à constituição ora em
+tramitação nas Casas Legislativas.
+
+De outro lado, a alternativa representada pela realização de investimentos maciços na
+capacidade de gestão dos órgãos repassadores e de controle — mais recursos humanos,
+materiais e tecnológicos — também não se apresenta viável do ponto de vista de prioridade de
+
+gastos e também de eficiência das ações de controle, conforme visto na Seção 5.
+
+6.1 Novo modelo de transferências voluntárias
+
+Diante dessas evidências, resta a altenativa de buscar eficiência no sistema mediante
+a simplificação do processo, clara definição de responsabilidade dos entes políticos que
+
+compõem a Federação e o fim da descentralização tutelada.
+
+E-legis, Brasília, n. 4, p. 149-167, 1º semestre 2010, ISSN 2175.0688 159
+Romiro Ribeiro
+
+O novo modelo deve cometer aos órgãos do Govemo Federal interessados na
+
+execução descentralizada de políticas públicas a responsabilidade para estabelecer os critérios
+
+de distribuição de recursos, as diretrizes, objetivos e as metas a serem alcançadas, cabendo-
+
+lhes fiscalizar os resultados obtidos pela ação empreendida. O foco passa a ser o resultado, ao
+
+invés da legalidade da execução da despesa.
+
+Os estados, Distrito Federal e municípios, por sua vez, passarão a responder pela
+
+regularidade e legalidade da aplicação dos recursos recebidos, prestando contas, de maneira
+
+simplificada, aos órgãos repassadores e de controle no âmbito Federal, no que diz respeito ao
+
+atingimento das metas e, de forma integral, aos órgãos de controle interno e externo existentes
+
+em seus próprios âmbitos, e à sociedade, destinatária final da prestação de contas.
+
+1)
+
+160
+
+Em síntese, o novo modelo deverá ter as seguintes características:
+
+transferências do Governo Federal diretamente para fundos multissetoriais de
+desenvolvimento criados no âmbito dos estados, Distrito Federal e dos municípios
+exclusivamente para a execução de empreendimentos em regime de mútua
+
+cooperação;
+
+os fundos multissetoriais devem apresentar programa de investimentos e
+desenvolvimento local mediante a integração das ações nas diversas áreas
+(saneamento, turismo, educação etc.), para um período de três anos, a partir de
+diagnóstico da realidade econômica e social local e das prioridades definidas pela
+população;
+
+revisão anual das metas e prioridades do fundo, com acréscimo de um ano, a cada
+
+revisão, de forma a manter o horizonte de planejamento de três anos;
+
+criação de conselhos para debater as prioridades e fiscalizar a aplicação dos recursos
+
+do fundo multissetorial de desenvolvimento;
+
+os órgãos federais deixariam de analisar propostas de trabalhos específicas para se
+concentrarem na análise do plano de desenvolvimento multissetorial apresentado e
+nos critérios a serem adotados para alocação descentralizada dos recursos, tais como
+
+IDH, população, carências estruturais da região, eliminação de gargalos, entre outros;
+
+flexibilidade na realização dos investimentos. O ente beneficiário tem flexibilidade
+para retardar ou acelerar cronogramas físico-financeiros dos projetos contemplados
+
+desde que, ao final do período considerado, todas as metas tenham sido atingidas;
+
+os recursos transferidos incorporam-se definitivamente ao patrimônio do ente
+beneficiário, cabendo a este, aos órgãos de controle intemo e extemo existentes em
+cada esfera zelar pela regularidade de sua aplicação, segundo a legislação vigente,
+
+assim como já o fazem para os demais recursos orçamentários;
+
+E-legis, Brasília, n.4, p. 149-167, 1º semestre 2010, ISSN 2175.0688
+Orçamento Público Semi-Impositivo para Transferências Voluntárias: diagnóstico, perspectivas e proposta de
+mudanças
+8) a falta de cumprimento das metas e objetivos sujeitará os entes subnacionais à
+devolução dos recursos correspondentes mediante retenção, pela União, diretamente
+do Fundo de Participação dos Estados — FPE e do Fundo de Participação dos
+Municípios — FPM, de que trata o art. 159 da Constituição;
+
+9) a inclusão das dotações no orçamento destinadas às transferências voluntárias não é
+obrigatória, mas, uma vez incluídas com a identificação do fundo multissetorial
+beneficiado, a transferência dos recursos financeiros correspondentes passa a
+constituir obrigação legal da União para atender ao planejamento do ente subnacional
+no âmbito do fundo multissetorial de desenvolvimento e assegurar a estabilidade do
+
+fluxo financeiro para execução do projeto;
+
+10) os recursos de transferências das áreas da saúde e assistência social seriam
+transferidos direta e exclusivamente para os fundos já existentes nessas áreas!”, para
+aplicação segundo normas e diretrizes estabelecidas por esses fundos, com os ajustes
+
+pertinentes, reservando-se a figura dos convênios para casos especialíssimos.
+
+6.2 Pseudoproblemas da sistemática proposta
+
+A sugestão deste novo modelo, que pressupõe mais atribuições aos entes
+subnacionais, parece paradoxal diante da gravidade, da quantidade e da frequência de
+irregularidades detectadas pelos órgãos de controle no processo de transferências voluntárias,
+como visto ao longo deste trabalho.
+
+Pode parecer a alguns que se está empurrando o problema para as unidades da
+Federação, que teriam menor qualificação técnica ou organizacional para gerir os recursos
+federais repassados. Pior, estar-se-ia ferindo o princípio constitucional da prestação de contas,
+ao qual estão sujeitas todas as pessoas físicas ou jurídicas, públicas ou privadas responsáveis
+por recursos públicos, como visto na Seção 3.2 deste trabalho.
+
+Mas é falsa essa impressão. Pesquisa realizada nos demonstrativos contábeis das
+unidades da Federação demonstrou que os recursos originários de transferências voluntárias
+representam, em média, menos de 5% da receita orçamentária total dos entes da Federação.
+Com efeito, os dados do Finanças do Brasil - 2007, da STN, que contém os demonstrativos
+contábeis de 5.285 municípios brasileiros, revelam que, em 2007, o volume de recursos
+originados em convênios formalizados com a União representa, em média, 1% da receita
+orçamentária total dos municípios com até 25.000 habitantes. Em municípios com mais de
+75.000 habitantes esta média cai para 0,66% da receita orçamentária total. A saber:
+
+Tabela 3 - Participação das Receitas de Convênios na Receita Total dos Municípios -
+2007
+
+19 Fundo Nacional da Saúde (FNS) e o Fundo Nacional da Assistência Social (FNAS).
+
+E-legis, Brasília, n. 4, p. 149-167, 1º semestre 2010, ISSN 2175.0688 161
+Romiro Ribeiro
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+R$ milhões
+NºDE RECEITA  [RECEITADE | %
+MUNICÍPIOS | ORÇAMENTARI | CONVÊNIOS
+A TOTAL
+
+MUNICÍPIOS COM POPULAÇÃO 4.124 45.981,2 462,7 1,0%
+ATÉ 25.000 habitantes
+MUNICÍPIOS COM POPULAÇÃO 620 21.409,6 191,9 0,9%
+ENTRE 25.001 e 50.000 habitantes
+MUNICÍPIOS COM POPULAÇÃO 188 13.230,8 72,0 0,5%
+ENTRE 50.001 e 75.000 habitantes
+MUNICÍPIOS COM POPULAÇÃO 353 131.436,4 867,9 0,6%
+
+SUPERIOR A 75.000 habitantes
+TOTAL 5.285 212.058,2 1.594,6 0,7%
+
+Fonte: FINBRA - 2007 - MF/STN
+
+Esses dados são consistentes com os balanços consolidados da União, elaborados pela
+STN, em cumprimento ao art. 51 da LRF. Segundo o Demonstrativo de Receitas e Despesas
+relativo ao período de 2003 a 2007, as receitas de transferências da União e suas entidades
+para os municípios, a título de convênios, correspondem a apenas 1,8% do total de suas
+receitas. Em relação aos Estados e ao Distrito Federal, esta relação cai para apenas 0,26%*?.
+Resultados semelhantes também podem ser encontrados no Relatório Perfil e Evolução das
+Finanças Municipais (2008), elaborado pela STN, que analisou os demonstrativos contábeis
+de 3.572 municípios, no período de 10 anos (1998-2007).
+
+Segundo esse Relatório (2008, p. 22-23), os dados consolidados de receitas mostram
+que, em média, a receita de arrecadação própria dos municípios (IPTU, ISS) responde por
+35,2% da receita total; as receitas de transferências constitucionais e legais (FPM, ICMS,
+IPVA, SUS, FUNDEF/FUNDEB, FNDE), por 60,8%, e as demais receitas, dentre as quais se
+incluem as transferências voluntárias da União e também de convênios firmados com os
+respectivos govemos estaduais, por apenas 4,8% da receita total.
+
+Portanto, negar-lhes competência para gerir esta pequena parcela de recursos é negar-
+lhes competência para gerir os demais 95% dos recursos colocados à sua disposição por
+determinação legal ou constitucional, o que equivaleria a refutar o princípio federativo, a
+autonomia administrativa, financeira e política de cada ente da Federação, cláusulas pétreas da
+Carta Magna.
+
+Nesse caso, insistir no raciocínio de falta de competência técnica ou institucional dos
+entes subnacionais equivaleria, também, a colocar em xeque não só as prestações de contas
+regularmente por eles apresentadas aos respectivos órgãos de controle intemo, Tribunais de
+Contas Estaduais e Municipais, Câmaras Municipais, Câmara Distrital e Assembleias
+Legislativas, mas a própria competência dessas instituições para a execução das funções de
+
+controle e fiscalização a elas outorgadas pela Carta Magna.
+
+“Disponível em: <http://www .stn.fazenda.gov.br/contabilidade governamental/execucao orcamentaria do GF/
+Consolidacao Contas publicas.xIs>. Acesso em: 15 julho 2009
+
+162 E-legis, Brasília, n.4, p. 149-167, 1º semestre 2010, ISSN 2175.0688
+Orçamento Público Semi-Impositivo para Transferências Voluntárias: diagnóstico, perspectivas e proposta de
+mudanças
+
+As evidências identificadas também desmistificam a ideia de que o Governo Federal
+possui capacidade técnica e de gestão superior à dos entes subnacionais, pelo menos na escala
+em que vem operando. Pelo contrário, os órgãos federais têm demonstrado extremas
+deficiências para planejar, analisar e fiscalizar os recursos descentralizados, conforme
+demonstrado na Seção 5.
+
+De outro lado, transferir recursos federais para os governos locais e exigir prestação
+de contas de forma simplificada, bem como estimular o controle social, por meio da
+instituição de conselhos locais, não é inovação, mas prática já adotada pelo governo,
+sobretudo na área de educação”! e na realização de investimentos.”
+
+A implantação de um novo modelo de transferências voluntárias exigirá alteração
+constitucional e edição de lei específica para regular as transferências.
+
+A alteração constitucional seria pontual e teria por objetivo: a) estabelecer que os
+recursos financeiros transferidos discricionariamente de uma para outra unidade da Federação
+incorporam-se ao patrimônio da beneficiária para todos os efeitos, cabendo-lhes, portanto,
+verificar a regularidade de sua aplicação; b) o descumprimento de metas e objetivos pactuados
+com o ente transferidor sujeitará o ente à devolução dos recursos correspondente mediante
+retenção diretamente dos recursos do FPE ou FPM.
+
+Essas alterações teriam por fundamento os princípios da autonomia financeira e
+política dos entes da Federação, da eficiência do serviço público e da prestação de contas à
+sociedade, o que coloca o cidadão beneficiário do gasto público como principal agente de
+fiscalização. A nova sistemática não afasta apoio técnico, atuação conjunta ou mesmo a
+possibilidade da formalização de convênios, sobretudo em projetos de grande vulto ou de
+singular complexidade.
+
+Sob o ângulo político, a criação de fundos multissetoriais de desenvolvimento com as
+características sugeridas tem impacto no processo de elaboração e execução de emendas
+parlamentares ao orçamento.
+
+De um lado, perdem os parlamentares por não poderem mais apresentar emendas para
+
+projetos específicos ou nominar entidades beneficiárias dos recursos, uma vez que os
+
+ 
+
+21 Programa Nacional de Alimentação Escolar - PNAE; Programa Dinheiro Direto na Escola - PDDE; Programa
+de Apoio aos Sistemas de Ensino para Atendimento de Jovens e Adultos; Programa Nacional de Apoio ao
+Transporte do Escolar - PNATE; Programa Brasil Alfabetizado; Auxílio Financeiro para Fomento às Exportações;
+Programa de Aceleração Econômica - PAC; ações de defesa civil; Fundo Nacional da Saúde (FNS) e o Fundo
+Nacional da Assistência Social (FNAS)
+
+22 Medida Provisória nº 387/2007 (Lei nº 11.578/2007) Programa de Aceleração Econômica (PAC). De maneira
+inusitada, uma vez que esse Programa trata de despesas tipicamente discricionárias, o Poder Executivo estabeleceu
+que as transferências para estados, DF e municípios para atender o PAC seriam tratadas como “transferências
+obrigatórias”. Com esse artifício, o Poder Executivo simplesmente afastou a aplicação de toda a legislação que
+rege a formalização de convênios e contratos de repasse para adotar mecanismos mais simplificados e ágeis de
+operação e prestação de contas.
+
+E-legis, Brasília, n. 4, p. 149-167, 1º semestre 2010, ISSN 2175.0688 163
+Romiro Ribeiro
+
+investimentos estarão previamente definidos nos planos de desenvolvimento multissetorial.
+De outro, ganham pela obrigatoriedade de execução dos recursos alocados no orçamento,
+libertando-os da discricionariedade do Poder Executivo.
+
+Do lado do Poder Executivo, a impositividade da execução orçamentária e financeira
+dos recursos destinados aos fundos multissetoriais de desenvolvimento pode vir a ser
+interpretada como enfraquecimento do instrumento hoje disponível para obter ou manter o
+apoio político, representado pelas emendas orçamentárias, conforme visto na Seção 2 deste
+
+trabalho. Esse é o potencial problema político a ser superado.
+
+7 Conclusão
+
+Os problemas identificados na pesquisa demonstram um quadro grave de descontrole
+da gestão dos recursos financeiros transferidos discricionariamente para as unidades da
+Federação. Diversas evidências obtidas na pesquisa comprovam a hipótese do trabalho no
+sentido de que o modelo legal das transferências voluntárias é o principal responsável pelas
+recorrentes irregularidades identificadas pelos órgãos de controle.
+
+Assim, a Seção 3 demonstrou que a complexidade do processo, representada por
+características de formalismo, personalismo e descentralização tutelada, levam à ineficiência,
+à pulverização de recursos e à falsa descentralização, criando o pano de fundo para a atuação
+dolosa de agentes públicos e privados.
+
+Análise dos balanços contábeis dos municípios, conforme consignado na Seção 6.2,
+revelou que o valor das transferências voluntárias destinado aos municípios, conquanto
+relevantes e até mesmo imprescindíveis para os entes, representam algo em torno de 5% do
+total das receitas orçamentárias das unidades da Federação.
+
+Diante dessa evidência, é inafastável a conclusão de que, se os municípios, os estados
+e o Distrito Federal não possuem competência técnica e institucional para gerir esta pequena
+parcela dos recursos federais, então é de se supor que também não as possuem para gerir os
+outros 95% dos recursos diretamente arrecadados ou a eles transferidos por força
+constitucional ou legal.
+
+Nesse caso, prosseguir com o raciocínio da falta de competência técnica ou
+organizacional dos entes subnacionais equivaleria a colocar em xeque não só as prestações de
+contas regularmente por eles apresentadas aos respectivos órgãos de controle intemo,
+Tribunais de Contas Estaduais e Municipais, Câmaras Municipais, Câmara Distrital e
+Assembleias Legislativas, mas a própria competência fiscalizatória destas instituições para o
+exercício das funções a elas atribuídas pela Constituição.
+
+A ideia central do mecanismo sugerido para aperfeiçoar a sistemática compreende a
+
+valorização do planejamento subnacional, o fim do personalismo e da descentralização
+
+164 E-legis, Brasília, n.4, p. 149-167, 1º semestre 2010, ISSN 2175.0688
+Orçamento Público Semi-Impositivo para Transferências Voluntárias: diagnóstico, perspectivas e proposta de
+mudanças
+
+tutelada, a criação de fundos multissetoriais de desenvolvimento no âmbito de cada ente para
+a execução de empreendimentos em regime de mútua cooperação, e possibilidade de retenção
+de recursos do FPE e FPM, na hipótese de não cumprimento das metas ajustadas, entre outras
+medidas, conforme detalhado na Seção 6.
+
+Referências
+
+BRASIL. Comissão Parlamentar Mista de Inquérito. CPMI das Ambulâncias: destinada a
+apurar as denúncias envolvendo a “Operação Sanguessuga”, realizada pela Polícia Federal,
+para investigar quadrilha que atuava na aquisição fraudulenta de insumos estratégicos para
+a Saúde. Relatório Final. 2006. Disponível em:
+
+http://www .senado.gov.br/sf/atividade/comissoes/default. asp?origem=CN. Acesso em: 26
+maio 2009.
+
+BRASIL. Comissão Parlamentar Mista de Inquérito. CPMI do Collor: destinada a apurar
+denúncias do Sr Pedro Collor de Mello sobre as atividades do Sr. Paulo Cézar Cavalcante
+Farias. Relatório Final. Diário do Congresso Nacional. Ano XLVII - Suplemento ao nº 41.
+Brasília. 1992.
+
+BRASIL. Constituição (1988). Constituição da República Federativa do Brasil: 1988 - texto
+constitucional de 5 de outubro de 1988 com as alterações adotadas pelas
+
+EmendasC onstitucionais de n. 1, de 1992, a 53, de 2006, e pelas Emendas Constitucionais de
+Revisão de n. 1 a 6, de 1994. - 25 ed. - Brasília: Câmara dos Deputados, Coordenação de
+Publicações 2007. 462 p.
+
+BRASIL. Controladoria-Geral da União. Relatório de Atividades da Corregedoria-Geral da
+União de 2002. Disponível em: <http://www.cgu.gov.br/Publicacoes/RelatG estao/A rquivos/
+relatorio gestao cgu 2002.pdf>. Acesso em: 01 maio 2009.
+
+BRASIL. Controladoria-Geral da União. Relatório de Gestão - 2007. Disponível em: < http:
+[www .cgu.gov.br/Publicacoes/RelatG estao/A rquivos/relatorio gestao cgu 2007.pdf>.
+Acesso em 11 jan. 2009.
+
+BRASIL. Decreto nº 6.170, de 25 de julho de 2007. Dispõe sobre as normas relativas às
+transferências de recursos da União mediante convênios e contratos de repasse, e dá outras
+providências.
+
+ 
+
+BRASIL. Lei Complementar nº 101, de 4 de maio de 2000. Estabelece normas de finanças
+públicas voltadas para a responsabilidade na gestão fiscal e dá outras providências. Disponível
+em: < http://www .planalto.gov.br/ccivil 03/Leis/LCP/Lcp101.htm>.
+
+BRASIL. Lei nº 4.320, de 17 de março de 1964. Estatui normas gerais de direito financeiro
+para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios,
+e Distrito Federal. Disponível em: http://www .planalto.gov.br/ccivil 03/Leis/L4320. htm.
+Acesso em 5 jul. 2009.
+
+BRASIL. Ministério da Fazenda. Secretaria do Tesouro Nacional. Perfil e Evolução das
+Finanças Municipais - 1998-2007 (Versão preliminar não submetida à discussão prévia).
+Brasília: 2008, 81 p. Disponível em: http://www .stn.fazenda.gov.br/estados municipios/
+index.asp. A cesso em: 8 jun. 2009.
+
+ 
+
+ 
+
+ 
+
+BRASIL. Ministério da Saúde. Manual de Cooperação Técnica e Financeira, por meio de
+Convênios, aprovado pela PORTARIA Nº 1.074/GM de 29 de maio de 2008. Disponível em:
+http://www .fns.saude.gov.br. A cesso em 14 abril 2009.
+
+BRASIL. Ministério do Desenvolvimento Social e Combate à Fome. Relatório de Gestão de
+2008. Disponível em: http://www.mds.gov.br/servicos/relatorio-gestao/2007/servicos/
+relatorio-gestao/2007/snas. A cesso em 15 abril 2009.
+
+ 
+
+ 
+
+E-legis, Brasília, n. 4, p. 149-167, 1º semestre 2010, ISSN 2175.0688 165
+Romiro Ribeiro
+
+BRASIL. Portaria Interministerial nº 127, de 29 de maio de 2008. Estabelece normas para
+execução do disposto no Decreto no 6.170, de 25 de julho de 2007, que dispõe sobre as
+normas relativas às transferências de recursos da União mediante convênios e contratos de
+repasse, e dá outras providências. Disponível em: <
+https://www.convenios.gov.br/portal/legislacao.html>. A cesso em 5 jul. 2009.
+
+BRASIL. Tribunal de Contas da União. Acórdão nº 1.126/2005 - TCU - 12Câmara.
+Disponível em: <http://contas.tcu.govbr/portaltextual/MostraD ocumento?qn=8>. A cesso em:
+10. ago 2009.
+
+BRASIL. Tribunal de Contas da União. Acórdão nº 1.188/2007 - TCU - Plenário. Disponível
+em: <http://contas.tcu.gov.br/portaltextual/MostraD ocumento?qn=6&doc=1 &dpp=208p=0>.
+Acesso em: 10. ago 2009.
+
+BRASIL. Tribunal de Contas da União. Acórdão nº 1.936/2003 - TCU - Plenário. Disponível
+em: <http://contas.tcu.gov.br/portaltextual/M ostraD ocumento?qn=3&doc=1 &dpp=20&p=0>.
+Acesso em: 10. ago 2009.
+
+BRASIL. Tribunal de Contas da União. Acórdão nº 2.261/2005 - TCU - Plenário. Disponível
+em: <http://contas.tcu.gov.br/portaltextual/M ostraD ocumento?qn=4&doc=1 &dpp=20&p=0>.
+Acesso em: 10. ago 2009.
+
+BRASIL. Tribunal de Contas da União. Acórdão nº 2.690/2003 - TCU - 12Câmara.
+Disponível em: <http://contas.tcu.gov br/portaltextual/MostraD ocumento?qn=7>. A cesso em:
+10. ago 2009.
+
+BRASIL. Tribunal de Contas da União. Acórdão nº 347/2007 - TCU - Plenário. Disponível
+em: <http://contas.tcu.gov.br/portaltextual/MostraD ocumento?qn=2&doc=1 &dpp=208&p =0>.
+Acesso em: 10. ago 2009.
+
+BRASIL. Tribunal de Contas da União. Acórdão nº 641/2007 - TCU - Plenário. Disponível
+em: <http://contas.tcu.gov.br/portaltextual/M ostraD ocumento?qn=5&doc=1 &dpp=20&p =0>.
+Acesso em: 10. ago 2009.
+
+BRASIL. Tribunal de Contas da União. Acórdão nº 788/2006 - TCU - Plenário. Disponível
+em: <http://contas.tcu.gov.br/portaltextual/ServletT cuProxy>. A cesso em: 10. ago 2009.
+
+BRASIL. Tribunal de Contas da União. Relatório e Pareceres Prévios sobre as Contas do
+Governo da República: exercício de 2006. Brasília: TCU, 2007. 360 p.
+
+BRASIL. Tribunal de Contas da União. Relatório e Pareceres Prévios sobre as Contas do
+Governo da República: exercício de 2007. Brasília : TCU, 2008. 447 p.
+
+BRASIL. Tribunal de Contas da União. Relatório e Pareceres Prévios sobre as Contas do
+Governo da República: exercício de 2008. Brasília: TCU, 2009. 431 p.
+
+BRASIL. Tribunal Superior Eleitoral. Recurso Especial Eleitoral nº 33.806. Relator Ministro
+Eros Roberto Grau. Agravo Regimental em Agravo Regimental. Registro de candidato.
+Prefeito. Rejeição de contas. Convênio. Julgamento pelo TCU. Irregularidade insanável.
+Inelegibilidade configurada. Município de Conceição do Mato Dentro (MG). Diário da Justiça
+Eletrônico de 18/06/2009, p. 22 Disponível em: < http://www-tsejus.br
+/intemet/jurisprudencia/inteiro teor blank.htm>. Acesso em: 5 jun. 2009.
+
+CINTRA, Antônio Octávio, LACOMBE, Marcelo Barroso. In: Sistema Político Brasileiro:
+uma introdução. AVELAR, Lúcia, CINTRA, Antônio Octávio (org). 2. ed. Rio de Janeiro:
+Unesp, 2007. 493 p.
+
+MAY HEW, D, Congress: The Electoral Connection. New Haven, Y ale University Press,
+(1974).
+
+MEIRELLES, Hely Lopes. Direito administrativo brasileiro. 35. ed., revista e atualizada. São
+Paulo: Malheiros Editores, 2009.
+
+ 
+
+ 
+
+ 
+
+ 
+
+166 E-legis, Brasília, n.4, p. 149-167, 1º semestre 2010, ISSN 2175.0688
+Orçamento Público Semi-Impositivo para Transferências Voluntárias: diagnóstico, perspectivas e proposta de
+mudanças
+
+RIBEIRO, Romiro. Estudo nº 12/2009 - Orçamento Semi-Impositivo para transferências
+voluntárias: diagnóstico, perspectivas e proposta. Câmara dos Deputados. 2009. Disponível
+em: < http://intranet2.camara.gov.br/internet/orcamentobrasil/orcamentouniao/estudos/2009>
+
+Acesso em 5 dez 2009.
+
+Artigo recebido em: 10/02/2010
+Artigo aceito para publicação em: 13/04/2010
+
+E-legis, Brasília, n. 4, p. 149-167, 1º semestre 2010, ISSN 2175.0688
+
+167
+

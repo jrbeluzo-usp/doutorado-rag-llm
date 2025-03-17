@@ -1,0 +1,1238 @@
+REVISTA DOS MESTRADOS PROFISSIONAIS
+ISsN: 2317-0115
+
+ 
+
+THE CONFIGURATION OF THE BUDGETARY RESOURCES EXECUTION OF THE
+JOAQUIM NABUCO FOUNDATION*
+
+A CONFIGURAÇÃO DA EXECUÇÃO DOS RECURSOS ORÇAMENTÁRIOS DA FUNDAÇÃO
+JOAQUIM NABUCO
+
+Wellingnton Estevam R. de Lima?
+Charles Ulises De M. Carmona?
+
+ABSTRACT
+
+This article presented the results of research conducted in the course of Master in Public
+Management at the Federal University of Pernambuco (UFPE), under the title "Analysis
+of Configuration Implementation of Budgetary Resources Foundation Joaquim Nabuco
+during the 2008-2011 PPA”, whose goal was to investigate how such implementation
+occurred in this period, whose aim was to investigate how such implementation
+occurred in this period. The purpose of this article was to elucidate the process of
+implementation of budget resources of Foundation Joaquim Nabuco as a model to be
+replicated in other federal public institutions. The research used primary and secondary
+sources, to analyze from performance indices arising from the clash between executed
+expenses and authorized expenses. Thus, it was presented in this article, the results of
+this research, whose analyzes were made by Primary Results Identifier , by action and
+Group of Kind of Expense, in which stood the factors that interfere directly or indirectly
+with the implementation of resources budget.
+
+KEYWORDS: Budget execution. Fundação Joaquim Nabuco. Budget planning.
+
+1 Mestre em Gestão Pública pela Universidade Federal de Pernambuco (UFPE). Graduado em
+Administração pela UFPE. Analista em C&T na Fundação Joaquim Nabuco (FUNDA)]) - Recife,
+Pernambuco Brasil. E-mail: letolimaQbol.com.br
+
+2 Doutor em Engenharia de Produção, com ênfase em Finanças e Análise de Investimentos, pela Pontifícia
+Universidade Católica do Rio de Janeiro (PUC-Rio). Realizou estudos de Pós-Doutorado na University of
+Illinois at Urbana-Champaign, USA. Associado do Departamento de Ciências Administrativas, do Programa
+de Pós-graduação em Administração (PROPAD) e do Mestrado Profissional em Gestão Pública (MGP) da
+Universidade Federal de Pernambuco (UFPE). Também integra o grupo de pesquisa Complexidade &
+Organizações (UFPB) e coordena o Núcleo de Estudos em Finanças e Investimentos (NEFI/UFPE) - Recife,
+Pernambuco /Brasil. E-mail: carmonaQufpe.br
+
+= 444 Mestrado Profissional
+CS WebQualis fas em Gestão Pública GD)
+CAPES Sea
+
+UFPE Volume 3, número 2, jul./dez. 2014
+120
+REVISTA DOS MESTRADOS PROFISSIONAIS
+ISsN: 2317-0115
+
+ 
+
+RESUMO
+
+Este artigo apresentou os resultados da pesquisa desenvolvida no curso de Mestrado em
+Gestão Pública na Universidade Federal de Pernambuco (UFPE), sob o título “Análise da
+Configuração da Execução dos Recursos Orçamentários da Fundação Joaquim Nabuco
+durante o PPA 2008-2011”, cujo objetivo foi investigar como ocorreu essa execução
+nesse período. O propósito deste artigo foi elucidar o processo de execução dos recursos
+orçamentários da Fundação Joaquim Nabuco, como um modelo a ser replicado em
+outras instituições públicas federais. A pesquisa se utilizou de fontes primárias e
+secundárias, para analisar a execução a partir de índices decorrentes do confronto entre
+despesas executadas e as despesas autorizadas. Assim, apresentaram-se, neste artigo, os
+resultados da referida pesquisa, cujas análises foram feitas por Identificador de
+Resultado Primário, por Ação e por Grupo de Natureza de Despesa, em que se
+levantaram os fatores que interferiram direta ou indiretamente na execução dos
+recursos orçamentários.
+
+PALAVRAS-CHAVE: Execução orçamentária. Fundação Joaquim Nabuco. Planejamento
+orçamentário.
+
+INTRODUÇÃO
+
+Este artigo apresenta os resultados da pesquisa desenvolvida recentemente no
+curso de Mestrado em Gestão Pública na Universidade Federal de Pernambuco (UFPE),
+sob o título “Análise da Configuração da Execução dos Recursos Orçamentários da
+Fundação Joaquim Nabuco durante o PPA 2008-2011”, que tratou dos recursos
+orçamentários da instituição, com o fim precípuo de investigar como ocorre a
+composição, destinação e o comportamento dos recursos orçamentários nela
+autorizados e executados, em uma instituição pública federal, cuja missão, além da
+produção, acúmulo e difusão do conhecimento, envolve o desenvolvimento da região
+Norte e Nordeste do Brasil.
+
+Nosso objetivo é apresentar o processo de execução dos recursos orçamentários
+da Fundação Joaquim Nabuco, como um modelo a ser replicado em outras instituições
+
+públicas federais.
+
+3 Cf. Homepage da Fundaj. Disponível em: www.fundaj.gov.br. Acesso em: 20 jul. 2013.
+
+tb4
+= . = Mestrado Profissional ED)
+G S ão Públi rf D)
+CAPES WebQualis fas em Gestão Pública GE ) Volume 3, número 2, jul./dez. 2014
+121
+REVISTA DOS MESTRADOS PROFISSIONAIS RMP
+ISsN: 2317-0115
+
+ 
+
+Nos procedimentos metodológicos da pesquisa que deu origem ao estudo
+dissertativo, cujos resultados da pesquisa estão sintetizados, abordou-se
+qualitativamente os dados a partir de fontes secundárias e primárias.
+
+Este artigo se justifica por contribuir para disseminação de um estudo de
+configuração de execução de recursos orçamentários de uma instituição pública federal
+
+que pode ser replicado por outras instituições.
+
+1. FUNDAMENTAÇÃO TEÓRICA
+
+1.10 DESENVOLVIMENTO DO ORÇAMENTO PÚBLICO
+
+O embrião das instituições orçamentárias está intrinsecamente relacionado à
+evolução da democracia. Logo, as questões orçamentárias estão associadas “[...] ao
+desenvolvimento dos princípios democráticos, à ideia da soberania popular e, por
+conseguinte, ao triunfo dos sistemas representativos do Governo” (SILVA, 2011, p. 172).
+
+O desenvolvimento do orçamento público deriva da evolução do controle
+parlamentar sobre o Poder Executivo e do progressivo controle da tributação
+estabelecido através dos embates travados entre o Rei e o parlamento. Como afirma
+Burkhead (1971, p. 4): “a longa história da luta pelo controle parlamentar das finanças,
+objetivava, na realidade, o da tributação”.
+
+Em vários povos da Europa, desde a alta Idade média, os reis não encontravam
+mais facilidades para criação de impostos novos sem o consentimento de certos órgãos
+colegiados (BALEEIRO, 2010, p. 523).
+
+As primeiras regras orçamentárias surgiram na Inglaterra cujo artigo 12 da
+Constituição de 1215 passou a estabelecer: “Nenhuma taxa de ajuda será imposta ao
+nosso reino, senão por um conselho comum do mesmo, exceto para resgatar a nossa
+pessoa, fazer de nosso filho mais velho um cavaleiro, ou casar nossa filha mais velha; e
+
+para esses, não serão cobrados mais do que uma ajuda razoável” (INGLATERRA, 1215)+.
+
+4 Tradução livre.
+
+tb4
+E — Mestrado Profissional
+CS WebQualis fas em Gestão Pública GD) )
+CAPES sEza, UFPE Volume 3, número 2, jul./dez. 2014
+
+122
+REVISTA DOS MESTRADOS PROFISSIONAIS
+ISsN: 2317-0115
+
+ 
+
+O Conselho funcionava como um parlamento nacional, onde para muitos autores,
+deu-se início a luta pelo controle parlamentar das finanças públicas. O orçamento surgiu
+como instrumento de controle dos poderes dos governantes (SILVA, 2011, p. 173).
+
+Com o passar do tempo, todavia, percebeu-se que a preocupação não deveria está
+apenas no que estava sendo arrecadado, mas também em como os recursos estavam
+sendo gastos.
+
+Paulatinamente o poder legislativo foi estabelecendo requisitos para o
+planejamento, a organização e demonstração das contas públicas (SANTOS, 2010, p.
+130). Giacomoni (2009) corrobora esse autor quanto à prestação de contas do setor
+público, contudo alerta para a fiscalização “a passagem do tempo ensinou que não
+bastava autorizar a cobrança das rendas públicas. Era necessário verificar se a sua
+aplicação correspondia às finalidades para as quais foram autorizadas” (GIACOMONI,
+2009, p. 32).
+
+Até se chegar a um modelo de orçamento plenamente desenvolvido, passaram-se
+mais de cinco séculos. A partir de 1822, o Poder Executivo da Inglaterra passou a
+apresentar ao Parlamento uma exposição que fixava a receita e a despesa de cada
+exercício (SANTOS, 2010, p. 130).
+
+Todo esse desenvolvimento do orçamento público pode ser ainda
+entendido a partir da evolução conceitual do próprio orçamento, que se deu em duas
+
+fases: orçamento tradicional e orçamento moderno.
+
+O orçamento tradicional era o instrumento utilizado pelo Estado para
+demonstrar as previsões de receitas e autorizações de despesas,
+classificando estas últimas, por objeto de gastos, sem se preocupar com
+as necessidades reais da administração pública e da população [...] se
+preocupava, basicamente, com as questões tributárias, deixando de lado
+os aspectos econômicos e sociais, e considerava a despesa pública,
+apenas, como meio necessário para se alcançar os fins pretendidos
+(PIRES, 2011, p. 77).
+
+No orçamento tradicional não havia especificação e quantificação das despesas
+
+com investimento. Na opinião de Angélico (2011, p. 22), se houvesse sobra de recursos,
+
+tb4
+E — Mestrado Profissional
+CS WebQualis fas em Gestão Pública GD) )
+CAPES sEza, UFPE Volume 3, número 2, jul./dez. 2014
+
+123
+REVISTA DOS MESTRADOS PROFISSIONAIS RMP
+ISsN: 2317-0115
+
+ 
+
+com o total das receitas superior ao total das despesas, ela seria aplicada
+circunstancialmente em investimentos.
+
+No orçamento moderno adquiriu-se uma nova filosofia conceitual quando, a
+partir do final do século XIX, o Estado passou a se preocupar com a economia. O
+orçamento tornou-se um instrumento de planejamento com intervenções na economia.
+
+Ao considerar essa era moderna do orçamento destacam-se ainda dois tipos de
+orçamento dentro dela. O primeiro é o orçamento base zero que é um instrumento de
+planejamento que obriga o administrador a fundamentar os recursos solicitados (PIRES,
+2011, p. 78).
+
+O segundo é o orçamento-programa, em que se expõem a política econômica do
+
+governo:
+
+Um plano de trabalho no qual são detalhados os programas e despesas
+que se pretende realizar durante o exercício financeiro, evidenciando a
+política econômica do governo. Nele são demonstrados os propósitos,
+objetivos e metas para as quais a administração solicita os recursos
+necessários, identificando os custos dos programas propostos para
+alcançar tais objetivos e os dados quantitativos que medem as
+realizações e o trabalho realizado dentro de cada programa (PIRES,
+2011, p. 79).
+
+Conforme explicitado, o orçamento-programa é o tipo de orçamento, cujo plano
+de trabalho contém as informações necessárias para a realização da política
+governamental na economia.
+
+O orçamento-programa é um programa de trabalho que representa um
+mecanismo de planejamento o qual evidencia as metas, os objetivos e as finalidades do
+Governo. Os planos são explicitados em unidades apreciáveis e seus custos
+determinados. Segundo Angélico (2011, p. 23), no orçamento tradicional, a preocupação
+era com a demonstração do que se intencionava gastar, já o foco do orçamento-
+programa não são os gastos, mas a ação, ou seja, o destaque é para o que se intenciona
+fazer.
+
+Um componente essencial do orçamento-programa é a mensuração das
+
+operações sob a responsabilidade do governo, sendo essa uma das preocupações
+
+tb4
+E — Mestrado Profissional
+CS WebQualis fas em Gestão Pública GD) )
+CAPES sEza, UFPE Volume 3, número 2, jul./dez. 2014
+
+124
+REVISTA DOS MESTRADOS PROFISSIONAIS RMP
+ISsN: 2317-0115
+
+ 
+
+centrais. Devido ao fato de o orçamento deixar explícito os objetivos, é compreensível
+que haja um sistema que verifique o resultado do trabalho por meio do qual os objetivos
+
+são almejados (GIACOMONI, 2009, p.176).:
+
+1.2 O Orçamento Público na Constituição de 1988
+
+Em 1988, o Brasil recebeu a sua sétima Constituição, que conferia destaque ao
+orçamento, e veio com novidades. A primeira principal novidade diz respeito à
+devolução ao Poder Legislativo da prerrogativa de propor emendas ao projeto de lei do
+orçamento, sobre despesa. Cabe registrar a resistência dos detentores do poder a que o
+
+povo pudesse controlar o orçamento público.
+
+[...] foram necessários vários anos para que o controle do orçamento por
+parte dos representantes do povo fosse reconhecido em todos os países
+e, uma vez admitido por quem detinha o poder, se incorporasse às
+cartas constitucionais (SILVA, 2011, p. 177).
+
+A segunda novidade, diz respeito à explicitação do sentido da universalidade
+orçamentária, considerando a multiplicidade de formas organizacionais e jurídicas do
+setor público, quais as receitas e despesas públicas que devem integrar o orçamento
+público e merecer a aprovação legislativa (GIACOMONI, 2009, p. 45).
+
+Nesta Constituição de 1988, estão estabelecidos como instrumentos de
+planejamento governamental a Lei do Plano Plurianual (PPA), a Lei de Diretrizes
+Orçamentárias (LDO) e a Lei do Orçamento Anual (LOA), conforme registrado por Silva
+(2011, p. 176).
+
+O PPA serve de guia para outros programas de governo: “O Plano Plurianual
+(PPA) passa a se constituir na síntese dos esforços de planejamento de toda a
+administração pública, orientando a elaboração dos demais planos e programa de
+governo, assim como do próprio orçamento anual” (GIACOMONI, 2009, p. 215).
+
+O Plano Plurianual (PPA) é um instrumento de planejamento estratégico de
+
+médio prazo no qual são ordenadas as ações do governo, de forma a atender objetivos e
+
+tb4
+E — Mestrado Profissional
+CS WebQualis fas em Gestão Pública GD) )
+CAPES sEza, UFPE Volume 3, número 2, jul./dez. 2014
+
+125
+REVISTA DOS MESTRADOS PROFISSIONAIS RMP
+ISsN: 2317-0115
+
+ 
+
+metas fixadas para um prazo de quatro anos (KOHAMA, 2010, p. 35). Ainda, a lei que
+
+prescrever o PPA traçará as coordenadas da Administração Pública.
+
+Estabelecerá, de forma regionalizada, as diretrizes, objetivos e metas da
+administração pública para as despesas de capital e outras delas
+decorrentes e para as relativas aos programas de duração continuada.
+Considera-se obrigatória de caráter continuado a despesa corrente
+derivada de lei, medida provisória ou ato administrativo normativo que
+fixem para o ente a obrigação legal de sua execução por um período
+superior a dois exercícios (LIBERALQUINO, 2012, p. 110).
+
+Essas diretrizes, objetivos e metas da administração, estabelecidas no Plano
+Plurianual servirão de base para elaboração dos orçamentos anuais, através do
+norteamento da Lei de Diretrizes Orçamentárias, a qual se constitui num instrumento de
+curto prazo. Devido a isso, a Lei de Diretrizes Orçamentárias conterá as metas e
+prioridades da administração pública, incluindo as despesas de capital, para o exercício
+posterior (LIBERALQUINO, 2012, p. 110).
+
+Na Lei Orçamentária Anual, são programadas as ações a serem executadas,
+visando alcançar objetivos determinados. Isso para viabilizar a concretização das
+situações planejadas no Plano Plurianual, obedecida a Lei de Diretrizes Orçamentárias
+(LIBERALQUINO, 2012, p. 110).
+
+De acordo com a Carta Magna, em seu art. 165, vejam-se os incisos que se
+
+referem à lei orçamentária:
+
+$ 5º A lei orçamentária anual compreenderá:
+
+I - o orçamento fiscal referente aos Poderes da União, seus fundos,
+órgãos e entidades da administração direta e indireta, inclusive
+fundações instituídas e mantidas pelo Poder Público;
+
+II - o orçamento de investimento das empresas em que a União, direta
+ou indiretamente, detenha a maioria do capital social com direito a voto;
+III - o orçamento da seguridade social, abrangendo todas as entidades e
+órgãos a ela vinculados, da administração direta ou indireta, bem como
+os fundos e fundações instituídos e mantidos pelo Poder Público
+(BRASIL, 1988).
+
+No texto constitucional, em seu art. 163, está reservado à Lei Complementar
+
+dispor sobre finanças públicas, etc. Essa determinação foi atendida parcialmente pela
+
+tb4
+E — Mestrado Profissional
+CS WebQualis fas em Gestão Pública GD) )
+CAPES sEza, UFPE Volume 3, número 2, jul./dez. 2014
+
+126
+REVISTA DOS MESTRADOS PROFISSIONAIS RMP
+ISsN: 2317-0115
+
+ 
+
+Lei complementar nº 101, de 4 de maio de 2000, Lei de Responsabilidade Fiscal (LRF),
+que se constitui em um rigoroso código de conduta dos administradores públicos
+(SILVA, 2011, p. 177).
+
+O referido código de conduta, segundo descrito por Silva (2011, p. 178), está
+
+pautado nestes objetivos:
+
+1. Melhora da administração das contas públicas, impondo aos
+governantes compromissos com a execução e controle do orçamento e
+das metas fiscais;
+2. estabelecimento de princípios e normas gerais das finanças públicas
+para as três esferas de governo;
+3. estabelecimento de uma gestão fiscal responsável, com ênfase no
+controle de gasto e do endividamento;
+4 melhora da transparência na gestão do gasto público a partir da
+padronização de contas e da ampliação do acesso à população, inclusive
+por meio eletrônico.
+
+Esses objetivos buscam respaldar a gestão pública em termos de otimizar o
+
+serviço público.
+
+2. ASPECTOS METODOLÓGICOS
+
+A pesquisa realizada foi descritiva, por caracterizar um fenômeno ou
+estabelecimento de relação entre variáveis (GIL, 2011, p. 20), tendo viabilizado a
+identificação e análise do comportamento de despesa pública no contexto do
+planejamento e da execução orçamentária, possibilitando a investigação de causas e
+conseguências. É também documental, uma vez que investigou dados contábeis
+apurados através de consulta ao SIGA Brasil, bem como a Lei Orçamentária Anual (LOA),
+além dos Relatórios de Gestão de 2008 a 2011.
+
+A abordagem que se deu à pesquisa foi qualitativa uma vez que não houve
+
+necessidade de controle estatístico dos dados coletados.
+
+tb4
+= — Mestrado Profissional
+GS WebQualis |[29 — emgestão Pública GD) .
+CAPES ca, UFPE Volume 3, número 2, jul./dez. 2014
+
+127
+REVISTA DOS MESTRADOS PROFISSIONAIS
+ISsN: 2317-0115
+
+ 
+
+Quanto à coleta dos dados, a pesquisa foi desenvolvida a partir de fontes
+primárias e secundárias. Como fonte primária utilizou-se a Entrevista semiestruturada,
+com roteiro previamente elaborado, com os gestores das respectivas diretorias da
+Fundaj à época do recorte temporal em estudo (2008-2011). Como fonte secundária,
+foram analisados alguns documentos: o SIGA Brasil e a LOA, uma vez que são fontes
+disponíveis à consulta conforme Vergara (2010).
+
+O SIGA Brasil foi definido como principal fonte de dado, por melhor subsidiar o
+alcance dos objetivos específicos, pois é de acesso público e oferece liberdade para que
+se possam montar determinadas consultas que atendam às necessidades de verificação
+do objeto de pesquisa, conforme descrito por Sérgio Pereira do Espírito Santo, em seu
+
+trabalho dissertativo sobre Gestão orçamentária:
+
+Sistema de acesso público, administrado pelo Senado Federal, que
+permite consultas por meio de combinações de diversos níveis da
+classificação orçamentária. Para as despesas possibilita o acesso aos
+dados da lei orçamentária e da respectiva execução. A sua utilização
+pode ser guiada por informações descritas em vídeo e em arquivos de
+ajuda. As consultas podem ser feitas pelo “acesso livre” ou pelo “acesso
+especialista”, este último exige senha, a qual pode ser obtida por
+solicitação e encaminhamento de dados pessoais por e-mail para fins de
+cadastro no sistema. Para o usuário cadastrado há a possibilidade de
+montar suas próprias consultas e armazená-las juntamente com os
+resultados em pastas de acesso restrito, com isso qualquer momento
+poderá consultá-las e modificá-las (SANTO, 2011, p. 66).
+
+Como dados das fontes secundárias foram utilizados também os Relatórios de
+Gestão da Fundaj referente aos exercícios de 2008, 2009, 2010, 2011, nos quais se
+encontram pontuadas as metas físicas executadas das ações.
+
+Para a coleta de dados, buscou-se apresentar os resultados a partir do estudo
+dissertativo em análise, o qual foi realizado a partir da classificação institucional
+(unidade orçamentária), estrutura programática (Ação), natureza de despesa (grupo de
+natureza de despesa) e identificador de resultado primário (despesas financeiras,
+
+despesas primárias obrigatórias e despesas primárias discricionárias).
+
+tb4
+E — Mestrado Profissional
+CS WebQualis fas em Gestão Pública GD) )
+CAPES sEza, UFPE Volume 3, número 2, jul./dez. 2014
+
+128
+REVISTA DOS MESTRADOS PROFISSIONAIS RMP
+ISsN: 2317-0115
+
+ 
+
+As entrevistas semiestruturadas foram realizadas com os gestores das seguintes
+Diretorias: Diretoria de Planejamento e Administração (Diplad), Diretoria de Pesquisas
+Sociais (Dipes), Diretoria de Cultura (DIC) e Diretoria de Documentação (Didoc). As
+entrevistas duraram em torno de uma hora, sendo devidamente gravadas para posterior
+análise. As entrevistas foram realizadas no atual ambiente de trabalho dos respectivos
+gestores, somente havendo necessidade de deslocamento para fora da Fundaj com um
+dos entrevistados porque já não mais trabalha nessa instituição. Houve o cuidado de
+preservação de identidades, sendo usadas letras maiúsculas do alfabeto arábico (A, B, C
+e D) para representar os sujeitos.
+
+A coleta de dados no SIGA Brasil aconteceu por meio do “acesso especialista”. Na
+opção “Lista de documentos”, depois opção “Novo”, foi utilizado o item “Documento do
+
+Web Intelligence”.
+
+3. APRESENTAÇÃO E INTERPRETAÇÃO DOS RESULTADOS
+3.1 CONFIGURAÇÕES DA DESPESA POR IDENTIFICADOR DE RESULTADO PRIMÁRIO
+3.1.1 Composição, Destinação e Comportamento da Despesa Autorizada
+
+No que se relaciona ao comportamento do índice médio da composição da
+despesa discricionária autorizada, este se apresenta bem inferior ao índice médio da
+despesa obrigatória. Mesmo que não seja possível declarar a adequação ou não da
+parcela da despesa discricionária “um maior volume desses recursos pode proporcionar
+mais flexibilidade aos gestores para ajustarem a alocação de acordo com as
+
+necessidades” (SANTO, 2011, p. 84).
+
+5 Portal do Senado Federal. Disponível em:
+<http://www9.senado.gov.br /portal/page/portal/orcamento senado/SigaBrasil>. Acesso em: 20 jan.
+2013.
+
+tb4
+E — Mestrado Profissional
+CS WebQualis fas em Gestão Pública GD) )
+CAPES sEza, UFPE Volume 3, número 2, jul./dez. 2014
+
+129
+REVISTA DOS MESTRADOS PROFISSIONAIS
+ISsN: 2317-0115
+
+ 
+
+Tabela 1 - Composição da despesa autorizada por identificador de Resultado Primário
+
+ 
+
+Identificador de Resultado Primário Índice médio
+O Desp. Financeira 8,8%
+1 Desp. Primária Obrigatória 71,2%
+2 Desp. Primária Discricionária 20,0%
+
+ 
+
+Fonte: adaptado de Santo (2011, p.84) / SIGA Brasil
+
+O Gráfico 1 vem traduzir a composição da despesa autorizada na Fundaj ao longo
+do período do PPA 2008-2011, assim como a destinação anual por identificador de
+
+resultado primário com as respectivas composições.
+
+Gráfico 1 - Composição da despesa autorizada por identificador de resultado primário
+
+ 
+
+ 
+
+HBO Desp. Financeira 1 Desp. Primária E2 Desp. Primária
+Obrigatória Discricionária
+2008 2009 2010 2011
+
+ 
+
+ 
+
+Fonte: SIGA Brasil
+
+A evidente desigualdade entre despesa primária discricionária e a despesa
+primária obrigatória se atribui ao grande montante de recursos designados ao
+pagamento do grupo de natureza de despesa 1 (Pessoal e Encargos Sociais), classificado
+como obrigatório. No período analisado, a despesa obrigatória foi composta pelos
+
+grupos 1 Pessoal e Encargos Sociais (média de 96,9%) e 3 Outras Despesa Correntes
+
+«= Mestrado Profissional
+CS WebQualis fas SRTA PS MIGD)
+CAES Sa, UFPE
+
+rr
+
+Volume 3, número 2, jul./dez. 2014
+130
+REVISTA DOS MESTRADOS PROFISSIONAIS RMP
+ISsN: 2317-0115
+
+ 
+
+(média de 3,1%). Os percentuais relativos à despesa financeira se atribuem
+exclusivamente ao pagamento de pessoal e encargos sociais.
+
+De acordo com os índices de 2008 e de 2011, houve um crescimento de 4,8
+pontos percentuais na participação da despesa primária discricionária autorizada na
+Fundaj, elevando assim o seu nível de participação, em relação ao total das despesas
+autorizadas e administradas pela Fundaj. Com base nas palavras do entrevistado A, foi
+constatado que o orçamento da Fundaj vem aumentando significativamente ao longo
+dos anos, a uma taxa de crescimento que gira em torno de 10% a cada ano, o que tem
+sido superior à taxa inflacionária. Esse percentual de elevação foi intensamente
+absorvido pelas despesas primárias discricionárias, haja vista ter sido, em 2007, o
+último grande acréscimo de recursos ao grupo 1 Pessoal e Encargos com a chegada dos
+novos concursados. O grupo 1, acrescenta o entrevistado, mantém-se mais ou menos
+constante, exceto com pequenas variações que existiram em virtude de reajustes em
+tabela de salários.
+
+Esse é um bom resultado, pois um maior volume de recursos orçamentários
+destinados às despesas primárias discricionárias possibilita aos gestores mais
+
+flexibilidade de alocação desses recursos de acordo com as necessidades.
+
+4.1.2 Índices das Despesas Executadas em Relação ao Crédito Autorizado
+
+Na Tabela 2, observa-se que as despesas financeiras e as despesas primárias
+obrigatórias tiveram, no período de 2008 a 2011, a quase integralidade do orçamento
+executado, o que não ocorreu com a execução média das despesas primárias
+
+discricionárias que ficou com uma execução média de 72,1%.
+
+tb4
+= — Mestrado Profissional
+GS WebQualis |[29 — emgestão Pública GD) .
+CAPES ca, UFPE Volume 3, número 2, jul./dez. 2014
+
+131
+REVISTA DOS MESTRADOS PROFISSIONAIS
+ISsN: 2317-0115
+
+ 
+
+Tabela 2 - Índice médio das despesas executadas em relação ao crédito autorizado - por
+identificador de Resultado Primário
+
+ 
+
+Identificador de Resultado Primário Índice médio
+O Desp. Financeira 95,2%
+1 Desp. Primária Obrigatória 97,7%
+2 Desp. Primária Discricionária 72,1%
+
+ 
+
+Fonte: adaptado de Santo (2011, p.87) / SIGA Brasil
+
+Quanto ao comportamento dos índices da despesa discricionária executada, que
+ocorreu na Fundaj ao longo do período em estudo, verifica-se que de 2009 a 2011 houve
+uma queda nos índices de execução de despesa.
+
+Comparando-se os índices de 2008 com os de 2011 observa-se que a queda foi de
+17,1 pontos percentuais. Isso ocorreu mesmo havendo uma elevação em 4,8 pontos
+percentuais no nível de participação da despesa discricionária (Gráfico 2) em relação ao
+total das despesas autorizadas e administradas pela Fundaj.
+
+Com base na entrevista realizada com o então responsável pela Diretoria de
+Planejamento e Administração (Diplad) (entrevistado A), ficou esclarecido que a
+variação dos índices de execução de despesa de 2008 a 2010 é normal. Alguns anos
+
+apresentam uma execução um pouco melhor que outros.
+
+Às vezes se tem uma frustração da possibilidade de execução de despesa
+como consequência de alguma normatização, impedindo a realização de
+gastos em Investimentos através de contingenciamentos do governo
+federal (EA - Diplad).
+
+A variação percentual no índice de execução, quando comparado 2008 a 2011, é
+bem significativa, sendo considerada consequência da mudança de gestão ocorrida em
+2011, em que os quatro primeiros meses desse ano ficaram indefinidos quanto à gestão.
+A presidência da Fundaj só foi substituída no mês de abril e, no decorrer do ano, foram
+acontecendo ajustes na nova gestão. Passaram-se meses se rediscutindo o planejamento
+estratégico da instituição, quando então se refletia o seu futuro. No entendimento do
+referido entrevistado A, esse tempo de reflexão, por ocasião da mudança de gestão,
+
+repercutiu na execução dos recursos orçamentários.
+
+= 444 Mestrado Profissional
+CS WebQualis fay em Gestão pit GD)
+
+Ema, UFPE Volume 3, número 2, jul./dez. 2014
+132
+REVISTA DOS MESTRADOS PROFISSIONAIS RMP
+ISsN: 2317-0115
+
+ 
+
+3.2 CONFIGURAÇÃO DA DESPESA POR AÇÃO
+
+3.2.1 Composição, Destinação e Comportamento da Despesa Discricionária Autorizada
+
+Na Tabela 3, verifica-se a composição da despesa autorizada com base nos
+índices de participação nas ações da Fundaj cujas despesas são discricionárias. Observa-
+se uma alocação bem significativa na Ação 2000 Administração da Unidade, que tem a
+finalidade de “constituir um centro de custos administrativos das unidades
+
+orçamentárias da União [...]” (FUNDAJ, 2009, p. 46).
+
+Tabela 3 - Comportamento dos índices da composição da despesa primária discricionária
+autorizada por Ação
+
+ 
+
+ 
+
+Ação 2008 2009 2010 2011 Índice médio
+2000 63,9% 61,5% 56,6% 614% 60,9%
+4006 0,1% 1,3% 1,2% 0,6% 0,8%
+4013 7,4% 5,0% 7,5% 4,7% 6,2%
+4572 1,9% 2,0% 1,8% 14% 1,8%
+6294 6,9% 7,7% 5,6% 6,6% 6,7%
+6297 5,1% 7,3% 7,3% 7,3% 6,8%
+6298 1,5% 1,1% 1,2% 0,9% 1,2%
+6417 6,8% 6,7% 10,4% 7,9% 8,0%
+6433 6,4% 7,4% 85% 9,2% 7,9%
+
+ 
+
+Fonte: elaborado pelo autor (SIGA Brasil)
+
+3.2.2 Índices das Despesas Executadas em Relação ao Crédito Autorizado
+
+A Ação 2000 Administração da Unidade apresenta o maior índice médio de
+execução orçamentária, seguida da Ação 4572 Capacitação de Servidores Federais em
+
+Processo de Qualificação e Requalificação.
+
+444
+= E Mestrado Profissional ED)
+cG > i fas GestãoPúblia ÃG
+CAPES WebQualis Ema, em Gestão Eualica GP) Volume 3, número 2, jul./dez. 2014
+
+133
+REVISTA DOS MESTRADOS PROFISSIONAIS RMP
+ISsN: 2317-0115
+
+ 
+
+Segue-se o comportamento dos índices despesas discricionárias executadas em
+várias Ações da Fundaj, cujas respectivas finalidades podem ser visualizadas no
+Relatório de Gestão*.
+
+Quanto ao comportamento dos índices da despesa discricionária executada na
+Ação 2000 Administração da Unidade, comparando-se os índices de 2009 aos de 2011,
+observa-se uma redução de 22,4 pontos percentuais no nível de execução. Com base na
+primeira entrevista (entrevistado A), foi constatada que essa redução se deve à mudança
+de gestão ocorrida em 2011, sendo essa mudança consequência de “certa paralisia na
+instituição”, pois, segundo o referido entrevistado, houve uma revisão de projetos e
+surgimento de novas perspectivas centradas em um plano de ação que só foi concluído
+no final de 2011.
+
+A Ação 4006 Funcionamento de Cursos de Pós-Graduação teve o menor índice
+médio de execução orçamentária por Ação. Além disso, observa-se uma inexecução
+orçamentária nos anos de 2009 a 2011, o que significou a não efetivação de cursos de
+pós-graduação devido ao não credenciamento da instituição junto ao MEC, a qual ficou
+no aguardo da deliberação dos órgãos do próprio MEC.
+
+Na Ação 4013, Preservação de Acervos Históricos, Administrativos e Artísticos, o
+comportamento dos índices de despesa discricionária executada apresentou um declínio
+no período de 2008 a 2010. Comparando-se os índices de 2008 com os de 2011 observa-
+se uma redução no nível de execução de 14,9 pontos percentuais e que o índice médio de
+execução da Ação foi de 62,0%.
+
+Com base nas palavras da entrevistada B, foi constatado que o principal problema
+que impacta o desempenho dos projetos da Ação 4013, e, consequentemente, a execução
+dos recursos orçamentários, é a carência de pessoal. Outro problema apontado foi a
+ausência de uma cultura de planejamento e monitoramento desses projetos. Por fim, a
+
+então responsável pela Diretoria de Documentação (Didoc) acusa ainda a falta de
+
+8 Fundaj, 2009. Disponível em: <www.fundaj.gov.br/geral/rg/relatorio gestão2009.pdf>. Acesso em: 10
+abril 2013.
+
+tb4
+E — Mestrado Profissional
+CS WebQualis fas em Gestão Pública GD) )
+CAPES sEza, UFPE Volume 3, número 2, jul./dez. 2014
+
+134
+REVISTA DOS MESTRADOS PROFISSIONAIS RMP
+ISsN: 2317-0115
+
+ 
+
+treinamento na elaboração de Termos de Referência como um fator que dificulta a
+prática laboral, o que se reflete na execução dos recursos orçamentários.
+
+Em relação ao comportamento dos índices da despesa discricionária executada
+da Ação 4572 Capacitação de Servidores Públicos Federais em Processo de Qualificação
+e Requalificação, apesar de possuir o segundo maior índice médio de execução entre as
+ações (78,0%), ao se comparar os índices de 2008 aos de 2011, verifica-se uma queda no
+nível de execução de 42 pontos percentuais.
+
+O entrevistado A também relaciona essa queda à mudança de gestão em 2011.
+Com relação ao índice de execução de 2009, informa que esse índice foi consequência de
+alguma “ineficiência” em se identificar cursos dentro do plano anual de capacitação.
+Outra possibilidade seria alguma dificuldade específica de contratação provocada pela
+mudança de regramento dos órgãos de controle da própria Advocacia Geral da União em
+que se muda o conceito de como se deve contratar, se é por inexigibilidade ou não. Cabe
+registrar outra justificativa dada pelo entrevistado A, em que relaciona o baixo índice de
+execução à dificuldade de contratação docente para ministrar curso interno.
+
+Quanto ao comportamento dos índices da despesa discricionária executada da
+Ação 6294 Promoção de Cursos para o Desenvolvimento Local Sustentável, houve, em
+2010, um pico no índice de execução chegando a 74,3%, porém condicionado pelo
+desempenho dos outros anos, sobretudo 2011, a média de execução orçamentária da
+Ação ficou em 61,9%.
+
+A entrevistada C, então responsável pela Diretoria de Cultura, como os demais
+entrevistados, justifica o desempenho de 2011 relacionando-o à mudança de gestão
+ocorrida nesse ano, quando se passou a discutir as novas prioridades que foram
+definidas no plano de ação no final do ano. Outra justificativa alegada é que as
+contratações externas de profissionais para darem os cursos passaram a ser dificultadas
+por entraves jurídicos e administrativos, refletindo-se na execução dos recursos
+orçamentários.
+
+A Ação 6297 Estudos e Pesquisas Socioeducativas, apresentou a média da
+
+execução orçamentária de 53,0%. Ao se comparar os índices de 2008 com os de 2011,
+
+= 444 Mestrado Profissional
+CS WebQualis fay em Gestão pit GD)
+
+Ema, UFPE Volume 3, número 2, jul./dez. 2014
+135
+REVISTA DOS MESTRADOS PROFISSIONAIS RMP
+ISsN: 2317-0115
+
+ 
+
+verifica-se uma queda no nível de execução de 42,5 pontos percentuais. Questionado
+sobre as razões que caracterizaram a execução orçamentária entre 2008-2011, o
+entrevistado D, então responsável pela Diretoria de Pesquisas Sociais (Dipes), limitou-se
+a justificar o desempenho orçamentário de 2011 pela mudança de gestão. Com relação
+ao baixo índice de execução da despesa de 2010, informou que a questão foi a redução
+dos custos para contratação de empresas para realização de pesquisa de campo.
+
+Ainda comparando 2008 a 2011, verifica-se que o comportamento dos índices da
+despesa discricionária executada da Ação 6298 Resgate da Cidadania da Criança e do
+Adolescente em Situação de Risco, apresenta uma diferença brusca (88,7% e 12,7%), o
+significa uma queda no nível de execução de 76 pontos percentuais.
+
+Sobre a referida Ação, a entrevistada B também se posiciona. Segundo ela, essa
+queda vertiginosa no nível de execução também se deve à mudança de gestão “associada
+ao processo de reestruturação pelo qual passou a Fundaj em 2011. Fenômeno que
+atingiu globalmente o desenvolvimento dos projetos e das atividades da instituição”.
+
+Outro motivo alegado foi que algumas funções e atividades necessárias ao
+desempenho desta Ação são quase todas especializadas, exigindo contratações externas
+que se esbarraram nos entraves jurídicos e administrativos como, por exemplo, a
+orientação normativa nº 17 da AGU que tornou obrigatória a comparação da proposta
+apresentada com os preços praticados pelos futuros contratados junto a órgãos públicos
+e privados. Esses entraves também ocorreram nos anos de 2009 e 2010.
+
+Em relação ao comportamento dos índices da despesa discricionária executada
+da Ação 6417 Difusão do Conhecimento por meio de Livros, Revistas, Vídeo e
+Multimídia, , verifica-se que, excetuando-se a Ação 4006, essa Ação 6417 apresentou a
+segunda menor média da execução orçamentária entre as ações (51,1%), e também o
+menor índice de execução entre as ações no ano de 2008 que foi de 42,6%.
+
+A entrevistada C informou que durante o período houve uma mudança em
+procedimentos administrativos, quando o departamento de compras ficara responsável
+pelas cotações para que se pudesse deflagrar o processo de licitação. O problema, no
+
+entanto, é que esse departamento não tinha pessoal suficiente para atender a toda
+
+= 444 Mestrado Profissional
+CS WebQualis fay em Gestão pit GD)
+
+Ema, UFPE Volume 3, número 2, jul./dez. 2014
+136
+REVISTA DOS MESTRADOS PROFISSIONAIS RMP
+ISsN: 2317-0115
+
+ 
+
+demanda da instituição. Isso se refletiu no desempenho orçamentário desta Ação. Outro
+ponto ratificado foi a questão da mudança de gestão em 2011 que afetou o andamento
+de todas as ações da Fundaj.
+
+A Ação 6433 Promoção e Intercâmbio de Eventos Educacionais e Culturais
+apresentou a média da execução orçamentária de 66,3%. Ao se observar os índices de
+2008 a 2011, verifica-se um declínio no nível de execução, que começou com 81,3% e
+terminou com 39,4%.
+
+De acordo com a entrevistada C, o declínio nos índice de execução, notadamente o
+de 2011, deve-se a alguns fatores: 1. a mudança de gestão com toda a reestruturação
+pela qual passou a Fundaj em 2011, 2. as determinações do Decreto Nº 7.446, de 1º de
+março de 2011 que estabeleceu limites para empenho de despesas com passagens e
+diárias e 3. a LDO de 2011 que vedava o pagamento de servidores públicos por serviços
+prestados, inviabilizando com isso algumas contratações previstas de servidores
+públicos federais que atuariam como palestrantes em eventos.
+
+Pode-se observar, a partir dos índices da execução orçamentária, que em todas as
+ações, umas mais, outras menos, recursos orçamentários deixaram de ser executados. A
+soma dos recursos orçamentários devolvidos durante o período analisado totalizou R$
+22.578.019,00, ultrapassando a média do crédito autorizado para todas as ações no
+mesmo período, que foi de R$ 19.630.261,00.
+
+No cômputo dos recursos devolvidos não estão considerados os valores da Ação
+4006 nos anos de 2009 a 2011 pois, como mencionado, o não credenciamento da
+instituição junto ao MEC, a qual ficou no aguardo da deliberação dos órgãos do próprio
+MEC, inviabilizou a efetivação de cursos de pós-graduação, provocando assim a
+
+devolução de recursos.
+
+tb4
+= — Mestrado Profissional
+GS WebQualis fas em Gestão Pública GD) .
+CAPES sEza, UFPE Volume 3, número 2, jul./dez. 2014
+
+137
+REVISTA DOS MESTRADOS PROFISSIONAIS RMP
+ISsN: 2317-0115
+
+ 
+
+3.3 CONFIGURAÇÃO DA DESPESA POR GRUPO DE NATUREZA DE DESPESA
+
+3.3.1 Composição, Destinação e Comportamento da Despesa Discricionária Autorizada
+
+No período analisado e quanto à participação do grupo de natureza de despesa 3
+Outras Despesas Correntes, o índice médio de participação na Fundaj foi de 74,8%.
+Houve uma tendência de queda dos índices de participação do grupo 3. Todavia, existiu
+uma elevação de 3,1 pontos percentuais em 2009, e de 0,3 pontos percentuais em 2011.
+Porém posteriormente houve uma queda significativa de 6,9 pontos percentuais em
+2011, ano em que houve a menor participação do grupo 3.
+
+No que se refere ao grupo de natureza de despesa 4 Investimentos, o
+comportamento foi oposto ao grupo 3, pois apresentou uma tendência de elevação dos
+índices de participação, o que é constatado ao se verificar a elevação de 6,9 pontos
+percentuais no ano de 2011. O índice de participação média foi de 25,2%.
+
+Quanto ao índice de participação do grupo 4 em 2011, em detrimento do grupo 3,
+o entrevistado A justifica pela tendência que havia no governo federal a se privilegiar
+Investimentos tais como atualização tecnológica, obras e reformas e renovação de frota.
+Ademais as instituições precisam alocar recursos em Investimentos para manter seu
+
+aparelhamento funcionando.
+
+3.3.2 Índices das Despesas Executadas em Relação ao Crédito Autorizado
+
+No grupo 3 Outras Despesas Correntes o índice médio da execução da despesa
+em relação ao crédito autorizado foi de 75,1%. Os índices anuais apresentaram uma
+tendência de elevação de 2008 a 2010. O maior índice de execução no grupo 3 ocorreu
+
+em 2010 (81,7%), porém foi seguido por queda de 20,5 pontos percentuais em 2011.
+
+tb4
+= — Mestrado Profissional
+GS WebQualis fas em Gestão Pública GD) .
+CAPES sEza, UFPE Volume 3, número 2, jul./dez. 2014
+
+138
+REVISTA DOS MESTRADOS PROFISSIONAIS RMP
+ISsN: 2317-0115
+
+ 
+
+Conforme o então diretor da Diplad, quando entrevistado sobre a execução,
+informou que a variação dos índices anuais de execução nos três primeiros anos foi
+pequena e que e a queda percentual em 2011 foi decorrente da mudança de gestão que
+trouxe consigo uma mudança de foco para Fundaj. O entrevistado A ratifica suas
+afirmações, sobre a situação de inércia em que se encontrava a Fundação em termos de
+resoluções práticas, uma vez que se discutia muito sobre o novo plano de ação o qual
+somente foi aprovado no final do ano de 2011.
+
+Com relação ao grupo 4 Investimentos o índice médio da execução da despesa em
+relação ao crédito autorizado foi de 63,5%. Confrontando-se as despesas executadas
+com as despesas autorizadas, observa-se que, embora os índices de participação da
+despesa autorizada tenha se elevado, os índices de execução do grupo 4 apresentaram
+uma tendência de queda no período.
+
+O entrevistado A ressaltou que, apesar da tendência de queda nos índices de
+execução da despesa, o desempenho de 2009 se deu em virtude dos gastos com a
+restauração do Engenho Massangana”, que foi reaberto ao público no ano seguinte, além
+dos gastos com informática mediante a replicação da base de dados no campus Gilberto
+Freire, na sede da Fundaj, em Casa Forte.
+
+Com relação à tendência de queda nos índices de execução do período, o
+entrevistado a chama atenção para o índice de 2011 que o justifica novamente pela
+
+mudança de gestão que provocou certa “paralisia” na instituição.
+
+7 O Engenho Massangana, localizado no Cabo de Santo Agostinho, é um monumento cultural vivo
+pertencente à Fundação Joaquim Nabuco. Tombado em nível estadual como Parque Nacional da Abolição,
+Massangana foi o lugar onde o ilustre pernambucano Joaquim Nabuco viveu durante a infância e é por ele
+referenciado como o local onde construiu a base de seus ideais abolicionistas. Ver mais sobre sua
+historiografia no site da Fundaj. Disponível em: <www.fundaj.gov.br>. Acesso em 14 set. 2013.
+
+44
+
+O Viebóvalis O) CM AGO)
+
+CAPES UFPE Volume 3, número 2, jul./dez. 2014
+
+139
+REVISTA DOS MESTRADOS PROFISSIONAIS
+ISsN: 2317-0115
+
+ 
+
+4. CONCLUSÃO
+
+Este artigo apresentou os resultados da Dissertação de Mestrado Profissional
+apresentada ao curso de Gestão Pública da UFPE, que analisou a configuração da
+execução dos recursos orçamentários da Fundação Joaquim Nabuco no período de 2008
+a 2011. O objetivo foi investigar como ocorria o processo de composição, destinação e o
+comportamento dos recursos orçamentários autorizados e executados nessa instituição
+pública federal.
+
+Atingidos os objetivos da pesquisa, os resultados levaram a algumas conclusões
+dispostas a seguir.
+
+Verificou-se a tendência de crescimento do nível de participação da despesa
+primária discricionária, em relação ao total das despesas autorizadas e administradas
+pela Fundaj. Isso ocorreu por ter sido, em 2007, o último acréscimo de recursos do
+grupo 1, Pessoal e Encargos, com a chegada dos novos concursados. Essas despesas
+primárias obrigatórias (Pessoal e Encargos) mantiveram-se mais ou menos constantes,
+exceto pelas pequenas variações que existiram em virtude de reajustes em tabela de
+salários.
+
+Na análise da despesa autorizada por Ação, verificou-se uma alocação de recursos
+significativa (60,9%) na Ação Administração da Unidade. Isso aconteceu porque essa
+Ação tem por finalidade compor um centro de custos administrativos da instituição.
+
+Quanto à análise do grupo por natureza de despesa, verificou-se que o grupo 3
+referente a Outras Despesas Correntes, teve predominância sobre o grupo
+Investimentos, em termos de média de participação, com 74,8%. Em 2011, porém, houve
+uma elevação no índice de participação desse último grupo. Isso se deveu às prioridades
+dadas pelo governo federal a Investimentos (novas tecnologias, obras e reformas etc.).
+
+Constatou-se que a significativa variação dos índices de execução das despesas
+primárias discricionárias, quando comparado os anos 2008 e 2011, deu-se por
+
+consequência da mudança de gestão ocorrida em 2011, em que os quatro primeiros
+
+tb4
+E — Mestrado Profissional
+CS WebQualis fas em Gestão Pública GD) )
+CAPES sEza, UFPE Volume 3, número 2, jul./dez. 2014
+
+140
+REVISTA DOS MESTRADOS PROFISSIONAIS RMP
+ISsN: 2317-0115
+
+ 
+
+meses desse ano ficaram indefinidos quanto à gestão uma vez que a presidência da
+Fundaj somente fora substituída no mês de abril e, no decorrer do ano, foram
+acontecendo ajustes na nova gestão. Passaram-se meses se rediscutindo o planejamento
+estratégico da instituição, quando então se refletia o seu futuro. Logo, entendeu-se que
+esse tempo de reflexão, por ocasião da mudança de gestão, repercutiu na execução dos
+recursos orçamentários, afetando o andamento de todas as Ações da Fundaj.
+
+Dessas Ações, as que apresentaram maior índice médio de execução
+orçamentária foram: Ação Administração da Unidade e Ação Capacitação de Servidores
+Públicos Federais em Processo de Qualificação e Requalificação. A que apresentou o
+menor índice médio de execução foi a Ação Funcionamento de Cursos de Pós-Graduação,
+pois durante o período de 2009 a 2011 não houve execução alguma. Isso se deveu ao
+fato de a instituição não estar ainda credenciada junto ao MEC, aguardando a
+deliberação para a efetivação dos cursos de Pós-Graduação.
+
+Ficou entendido que a readaptação administrativa contribuiu para a redução de
+execução orçamentária de algumas Ações devido à revisão de projetos e surgimento de
+novas perspectivas centradas em um plano de ação que só foi concluído no final de 2011.
+Vários foram os problemas enfrentados pela instituição nesse período de dificuldade em
+se identificar cursos dentro do plano anual de capacitação; entraves jurídicos e
+administrativos, refletindo-se na execução dos recursos orçamentários nas contratações
+externas de profissionais para ministrarem cursos, entre outros problemas.
+
+Apesar de as Ações terem sofrido o impacto da mudança de gestão, outros fatores
+também causaram impactos negativos, a exemplo das determinações do Decreto Nº
+7.446, de 1º de março de 2011, que estabeleceu limites para empenho de despesas com
+passagens e diárias, e a LDO de 2011 que vedava o pagamento de servidores públicos
+por serviços prestados, inviabilizando, com isso, algumas contratações previstas de
+servidores públicos federais que atuariam como palestrantes em eventos.
+
+Enfim, muitas dessas Ações apresentaram problemas que impactaram
+
+negativamente a execução orçamentária, quais sejam: entraves jurídicos e
+
+= 444 Mestrado Profissional
+CS WebQualis fay em Gestão pit GD)
+
+Ema, UFPE Volume 3, número 2, jul./dez. 2014
+141
+REVISTA DOS MESTRADOS PROFISSIONAIS RMP
+ISsN: 2317-0115
+
+ 
+
+administrativos, falta de capacitação da área fim em temas da área meio, escassez de
+servidores entre outros entraves.
+
+Quanto aos resultados previstos para o grupo natureza de despesa 3, Outras
+Despesas Correntes, verificou-se que a variação dos índices anuais de execução nos três
+primeiros anos foi pequena e que a queda percentual em 2011 foi decorrente da
+mudança de gestão. Com relação ao grupo natureza de despesa 4, Investimento, foi
+observado que, apesar da tendência de queda nos índices da despesa, o bom
+desempenho de 2009 se deu em virtude dos gastos com a restauração do Engenho
+Massangana, o qual foi reaberto ao público no ano seguinte, além dos gastos com
+informática mediante a replicação da base de dados no campus Gilberto Freyre, sede da
+Fundaj, em Casa Forte.
+
+Após o alcance dos objetivos, em que os resultados apontaram para fatores que
+impactaram negativamente na execução dos recursos orçamentários da Fundação
+Joaquim Nabuco, é possível apresentar sugestões de procedimentos que apresentem
+possíveis melhorias para a gestão desses recursos na instituição.
+
+Assim, foi sugerido primeiramente que se capacite servidores da área fim em
+temas da área meio. Não se trata apenas de capacitação em elaboração de Termos de
+Referência. Existe no setor público uma escassez crítica de servidores capacitados em
+temas da área meio, e esses servidores são essenciais também nas áreas finalísticas, os
+quais devem orientar a gestão nas questões técnicas relacionadas ao cenário jurídico-
+administrativo, ainda mais em um contexto em que esse cenário muda constantemente,
+impondo, muitas vezes, novas restrições e controles ainda mais rígidos.
+
+Ainda, tem-se a quantidade de servidores da instituição cada vez mais enxuta.
+Essa escassez crítica impacta o desempenho das Ações o que compromete a execução
+orçamentária. A área fim não consegue encaminhar, em tempo hábil, todos os
+procedimentos necessários à execução do orçamento, ainda mais quando há um grande
+número de projetos e processos de trabalho tão distintos, demandando atenção a
+aspectos bem específicos de cada um. A área meio propriamente dita, por sua vez, a
+
+exemplo da área de compras, fica igualmente sobrecarregada diante do perfil
+
+Re
+ne
+ne
+
+Mestrado Profissional
+em Gestão Pública GD)
+
+UFPE Volume 3, número 2, jul./dez. 2014
+
+142
+
+CS WebQualis
+
+CAPES
+
+JE
+REVISTA DOS MESTRADOS PROFISSIONAIS RMP
+ISsN: 2317-0115
+
+ 
+
+diversificado das solicitações que recebe. Devido a tal situação, sugere-se que se realize
+um novo concurso público.
+
+A seguir apresentaram-se outras sugestões de procedimentos para que haja uma
+melhoria na gestão dos recursos orçamentários: 1. Estabelecimento de critérios para
+emprego do orçamento de forma planejada e com prioridade em empreendimentos
+intimamente vinculados à missão institucional; 2. Construção de instrumentos de
+avaliações que detectem a eficácia do emprego dos recursos orçamentários; 3.
+Implantação de sistemática automatizada para o acompanhamento, monitoramento e
+avaliação das metas físicas da Instituição; 4. Avaliação das metas institucionais com
+repercussão na avaliação de gestores e coordenadores responsáveis pela execução das
+metas físicas; 5. Criação de indicadores que promovam a leitura da relação custo-
+benefício do orçamento empregado.
+
+Assim, ao viabilizar a compreensão da peça orçamentária, que possibilitou o
+entendimento do processo decisório dos dirigentes envolvidos na elaboração de
+atividades, e também a relação de nexo e pertinência dos gastos a partir de cada ponto
+isolado do orçamento, o estudo dissertativo do qual apresentamos os resultados
+constitui-se em um contributo à melhoria da gestão orçamentária da Fundação Joaquim
+
+Nabuco, prestando-se ainda à replicação em outras instituições públicas federais.
+
+REFERÊNCIAS
+
+ANGÉLICO, João. Contabilidade Pública. 8º ed. São Paulo: Atlas, 2011.
+
+BALEEIRO, Aliomar. Uma Introdução à Ciência das Finanças. 172 ed. Rev. e atualizada
+por Hugo de Brito Machado Segundo. Rio de Janeiro: Forense, 2010.
+
+BRASIL. Constituição (1824). Constituição Política do Império do Brasil. Disponível
+em: <http://www.planalto.gov.br /ccivil 03/constituicao /constitui%C3%A7ao24.htm>.
+Acesso em: 22 fev. 2010.
+
+= 444 Mestrado Profissional
+CS WebQualis fay em Gestão pit GD)
+
+Ema, UFPE Volume 3, número 2, jul./dez. 2014
+143
+REVISTA DOS MESTRADOS PROFISSIONAIS RMP
+ISsN: 2317-0115
+
+ 
+
+. Constituição (1988). Constituição da República Federativa do Brasil. 45º ed.
+São Paulo: Saraiva 2011.
+
+—  .Leinº 4.320, de 17 de março de 1964. Estatui Normas Gerais de Direito Financeiro
+para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos
+Municípios e do Distrito Federal. Disponível em:
+<http://www.planalto.gov.br /ccivil 03/leis/L4320.htm>. Acesso em: 16 jan. 2013.
+
+—  . Lei nº 11.635, de 7 de abril de 2008. Dispõe sobre o Plano Plurianual para o
+período 2008/2011. 2008. Disponível em:
+<http://www.planalto.gov.br /ccivil 03/ ato2007-2010/2008/Lei/L11653.htm>.
+Acesso em: 14 fev. 2013.
+
+—  . Ministério do Planejamento, Orçamento e Gestão. Secretaria de Orçamento
+Federal. Manual técnico de orçamento MTO. Versão 2011. Brasília, 2010, 189 p.
+Disponível em: < http://www.dnit.gov.br /planejamento-e-pesquisa/programacao-de-
+investimentos /mto-2011-090810.pdf >. Acesso em: 18 fev. 2013.
+
+BURKHEAD, Jesse. Orçamento Público. Rio de Janeiro: Fundação Getúlio Vargas, 1971.
+
+CRUZ, Claudia Ferreira et al. Um estudo empírico sobre a configuração das receitas e
+despesas em um município de grande porte do Estado da Bahia. Revista de
+Contabilidade da UFBA, Salvador, v. 3, n. 1, p. 72-87, jan./abr. 2009.
+
+Disponível em:
+
+<http://www.portalseer.ufba.br /index.php/rcontabilidade/article/view/3379/2480>.
+Acesso em: 9 jan. 2013.
+
+FARIA, Rodrigo de Oliveira de. Natureza jurídica do orçamento e flexibilidade
+orçamentária. 2009. Dissertação (Mestrado em Direito). Faculdade de Direito,
+Universidade de São Paulo (USP), São Paulo. 2009.
+
+FUNDA]. Relatório de Gestão 2009. Divulgado em 2010. Disponível em:
+<http://www.fundaj.gov.br /geral/rg/relatorio gestao2009.pdf>. Acesso em: 10 abr.
+2013.
+
+GIACOMONI, James. Orçamento Público. 142 ed. São Paulo: Atlas, 2009.
+
+GIL, Antonio Carlos. Métodos e técnicas de pesquisa social. 6º ed. São Paulo: Atlas,
+2011.
+
+INGLATERRA. Carta Magna de 1215. Disponível em:
+<http://www.constitution.org/eng/magnacar.htm>. Acesso em: 5 mai. 2013.
+
+= 484 Mestrado Profissional
+GS WebQualis fay em Gusto Pública NIGD)
+
+Sa, UFPE Volume 3, número 2, jul./dez. 2014
+144
+REVISTA DOS MESTRADOS PROFISSIONAIS RMP
+ISsN: 2317-0115
+
+ 
+
+KOHAMA, Heilio. Contabilidade Pública: Teoria e Prática. 112 ed. São Paulo: Atlas,
+2010.
+
+LIBERALQUINO, Joaquim. O Ciclo da Gestão Pública: Planos Plurianuais, Orçamento e
+Execução Orçamentária. GBRSP - Gestão Baseada em Resultados no Setor Público. São
+Paulo: Atlas, 2012.
+
+MACHADO JR. José Teixeira. Classificação das Contas Públicas. Rio de Janeiro:
+Fundação Getúlio Vargas, 1967.
+
+PIRES, João Batista Fortes de Souza. Contabilidade Pública. 102 ed. Brasília: Franco &
+Fortes, 2011.
+
+SANTO, Sérgio Pereira do Espírito. Gestão orçamentária: uma análise da
+configuração dos recursos executados na subfunção ensino superior em uma
+instituição federal de ensino. 2011. Dissertação (Mestrado) Contabilidade. Centro
+Sócio-Econômico, Universidade Federal de Santa Catarina, Santa Catarina. 2011.
+
+SANTOS, Rita de Cássia. Plano plurianual e orçamento público. Brasília: CAPES, 2010.
+
+SILVA, Lino Martins da. Contabilidade governamental: um enfoque administrativo
+da nova contabilidade pública. 9º ed. São Paulo: Atlas, 2011.
+
+VERGARA, Sylvia Constant. Projetos e relatórios de pesquisa em Administração. São
+Paulo: Atlas, 2010.
+
+* Artigo submetido em 15 de janeiro de 2014 e aceito para publicação em 30 de abril de 2014.
+
+= 484 Mestrado Profissional
+AD) WebQualis fay em Gestão Pública NG)
+
+Sa, UFPE Volume 3, número 2, jul./dez. 2014
+145
+

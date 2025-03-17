@@ -1,0 +1,2504 @@
+ 
+
+Ex
+
+UNIVERSIDADE DE BRASÍLIA
+FACULDADE DE DIREITO
+CURSO DE GRADUAÇÃO EM DIREITO
+
+ELABORAÇÃO E EXECUÇÃO DAS LEIS ORÇAMENTÁRIAS:
+Influência na Separação dos Poderes e no Princípio dos Freios e Contrapesos
+
+NIVALDO DE OLIVEIRA SOUSA
+
+Brasília, 2013.
+UNIVERSIDADE DE BRASÍLIA
+FACULDADE DE DIREITO
+CURSO DE GRADUAÇÃO EM DIREITO
+
+ELABORAÇÃO E EXECUÇÃO DAS LEIS ORÇAMENTÁRIAS:
+Influência na Separação dos Poderes e no Princípio dos Freios e Contrapesos
+
+Monografia de autoria do aluno Nivaldo de
+Oliveira Sousa, matrícula 10/03399,
+elaborada como requisito de conclusão do
+curso de Graduação em Direito da
+Universidade de Brasília.
+
+Orientador: Professor Doutor Antônio de
+Moura Borges.
+
+Brasília, 2013
+ELABORAÇÃO E EXECUÇÃO DAS LEIS ORÇAMENTÁRIAS:
+Influência na Separação dos Poderes e no Princípio dos Freios e Contrapesos
+
+NIVALDO DE OLIVEIRA SOUSA
+
+BANCA EXAMINADORA
+
+Antônio de Moura Borges
+Professor Doutor e Orientador
+
+Argemiro Cardoso Moreira Martins
+Professor Doutor e Examinador
+
+Rafael Martins Ferrari
+Mestre / Especialista na Área e Examinador
+“Não há nada no mundo que esteja melhor
+repartido do que a razão: toda a gente está
+convencida de que a tem de sobra.”
+
+René Descartes
+RESUMO
+
+O trabalho analisa a possibilidade de a dinâmica de elaboração e execução das Leis
+orçamentárias influírem no equilíbrio entre os poderes Executivo e Legislativo, com reflexo
+nos princípios de separação dos poderes e de freios e contrapesos. É nas Leis orçamentárias
+que são estabelecidos os programas do govemo e as despesas estatais e, por esse motivo, a
+elaboração e a execução quase sempre ocasionam conflitos entre os poderes. A Constituição
+estabelece a participação tanto do Executivo quanto do Legislativo na Elaboração. No
+entanto, tal não se dá de forma harmônica e coordenada. Daí que a participação do Legislativo
+somente se dá no processo de apreciação e votação, processo esse no qual os parlamentares
+emendam as leis orçamentárias, promovendo a alteração dos programas do govemo ou a
+criação/modificando das despesas no Orçamento. Embora tais leis sejam aprovadas pelo
+Congresso e fosse de se esperar algum grau de vinculação aos seus ditames, a dinâmica de
+formação e de execução destas leis e o caráter autorizativo delas atribuem ao Poder Executivo
+maior parcela do processo decisório. Assim, o Executivo executa as despesas de acordo com a
+sua conveniência e as emendas parlamentares raramente são executadas ou são utilizadas
+
+como moeda de troca pelo Executivo para fazer prevalecer sua agenda sobre o Legislativo.
+
+Palavras chave: Leis orçamentárias; elaboração e execução; separação dos poderes; freios e
+contrapesos; processo orçamentário; emendas parlamentares.
+LISTA DE SIGLAS
+
+CMO -— Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+CN — Congresso Nacional
+
+LDO - Lei de Diretrizes Orçamentárias
+
+LOA -— Lei Orçamentária Anual
+
+LRF — Lei de Responsabilidade Fiscal
+
+PLDO - Projeto de Lei de Diretrizes Orçamentárias
+
+PLOA - Projeto de Lei do Orçamento
+
+PLPPA — Projeto de Lei do Plano Plurianual
+
+PPA — Plano plurianual
+
+LISTA DE TABELAS
+
+Tabela 1 — empenho de ações orçamentárias oriundas de emendas parlamentares
+sobre o programa Planejamento Urbano no Estado da Bahia.
+
+Tabela 2 — Execução orçamentária por partido político.
+
+LISTA DE FIGURAS
+
+Figura 1 — Tramitação das Leis orçamentárias no Congresso Nacional.
+
+Figura 2 — amostra de Iniciativa com as respectivas ações orçamentárias de Programa do PPA
+2012-2015.
+
+Figura 3 — amostra de proposta de dotação orçamentária enviada pelo Executivo ao
+Congresso.
+
+Figura 4 — amostra de ação orçamentária na Lei Orçamentária sancionada, após a apreciação
+pelo congresso.
+
+LISTA DE GRÁFICOS
+
+Gráfico 1 — Relação entre as emendas aprovadas no Congresso e as emendas que tiveram
+algum valor empenhado pelo Executivo. Dados relativos ao programa Planejamento Urbano
+no Estado da Bahia.
+
+Gráfico 2 — Valor total das emendas entre as emendas aprovadas no Congresso e as emendas
+que tiveram algum valor empenhado pelo Executivo. Dados relativos ao programa
+Planejamento Urbano no Estado da Bahia.
+
+Gráfico 3 — Dotações orçamentárias totais do programa Planejamento Urbano no Estado da
+Bahia.
+
+Gráfico 4 — Relação de dotações orçamentárias empenhadas/pagas provenientes das emendas
+parlamentares por partido político.
+SUMÁRIO
+
+ 
+  
+  
+
+Introdução. .sussasssansas mena aenanaant onenaunoe nc enennanaasana 8
+Capítulo 1 — Natureza e Funções das L eis orçamentárias... 13
+1.1 A Natureza das Leis orçamentárias ........s al
+
+1.1.1 A Natureza política das Leis orçamentárias ............iistememeeeeeeatetans 15
+
+1.1.2 A Natureza Jurídica das Leis orçamentárias ............eeemeeseeeeeetan 16
+
+1:2 Funções assess an oa 17
+1:2;1 Funções'tradicionaisS ;z ssa e a cone re 17
+
+1,2:2 Funções:políticas-jurídicas; aasasavaranccansnnag renas arenas 19
+Capítulo 2 — As Leis orçamentárias em espécie... iene 21
+2:1:. Plano Plurianual assa re o ana 21
+2:2 Asdiretrizes orçamentárias «mansa aannanta cnacara auccan au amamaqusa 21
+2.30 Orçamento assina asa aa Ra ac ua causas 22
+
+ 
+ 
+  
+
+2.4 Interações entre as Leis... ..24
+2.5 Freios e contrapesos cristalizados nas Leis orçamentárias............. eee 25
+
+Capítulo 3 - O processo de elaboração, apreciação e votação e execução
+
+das Leis orçamentárias ................. ir rrerreeeeereaeaeeeee ee re ee rrereertertertarado 26
+3.1 Legitimidade para atuar no processo — preponderância do Executivo.................. 27
+3.2 Fase de elaboração — propostas elaboradas no Executivo...............eees 28
+3.3 Fase de elaboração — Tramitação dos projetos das Leis orçamentárias
+
+no:Congresso Nacional, sssiaamsensaaeana une caca ua 29
+3.4 Influência do Executivo na fase de elaboração no congresso...............sm 33
+3.5 Fase de execução — predominância do Executivo... 33
+
+Capítulo 4 — Os princípios da separação dos poderes e de freios e contrapesos
+
+nas relações orçamentárias.................. eee eerereereee rea eere reta rrerrereertesa 34
+4.1-A evolução da separação dos poderes..............eremereeeeeeerereeeereaererserersas 34
+4.2- A evolução dos freios e contrapesos................eereeeereereeremerereererreeita 36
+43-A separação dos poderes e os freios e contrapesos enquanto princípio
+Constitucional no Brasil... eeteeareeeaeaeeaeaerearaearararararaerearaeaearararareerererererads 37
+4.4 Visão contemporânea da separação dos poderes
+4.5 A separação dos poderes e os freios e contrapesos em matéria orçamentária............ 39
+Capítulo 5 — Análise e avaliação dos dados do PPA e do Orçamento...................... 41
+Conclusão... ir ieereeererereerererearererereererearecerereereerereerererereenerereaerererrerererrerarerearenes 49
+Bibliografia................. eee creeoeerera correa ra reane nar oaanene asa n era ne ese rere asa rerenaãs 52
+INTRODUÇÃO
+
+O sistema republicano brasileiro pressupõe a existência de poderes, a separação entre
+estes poderes e a fiscalização recíproca entre eles. A Constituição estabelece que cabe ao
+Poder Executivo elaborar os projetos de lei das Leis consideradas orçamentárias e enviá-los
+ao Congresso para a aprovação. Segundo previsão constitucional, a elaboração no Executivo
+deveria ser acompanhada pelo Congresso, entretanto, na prática isso não ocorre. Acaba que o
+Executivo insere na agenda do planejamento e da alocação dos recursos públicos aquelas
+políticas públicas e investimentos que entende serem factíveis para o período de vigência de
+
+cada uma dessas leis.
+
+Dentre as atribuições do Poder Legislativo, está a de participar na distribuição dos
+recursos públicos entre as diversas áreas da sociedade que demandam a intervenção estatal. A
+participação, contudo, se dá apenas na fase legislativa de elaboração, durante a apreciação e
+votação dos instrumentos pelos quais o Govemo vai operacionalizar os gastos públicos no
+atendimento às demandas sociais. Outra atribuição legislativa é a fiscalização da atuação
+governamental, fiscalização esta que inclui o acompanhamento dos planos, programas e
+
+projetos do govemo.
+
+Contudo, como se pretende demonstrar, as rotinas estabelecidas na elaboração,
+aprovação e implementação das Leis orçamentárias, do Orçamento anual em particular,
+interferem nas atribuições de cada poder com reflexos nas relações de forças e nas atribuições
+
+constitucionais de cada um deles.
+
+Ao não acompanhar a elaboração e não exercer sua faculdade de influir no momento
+da decisão alocativa estatal, o Congresso opta por alterar as opções feitas pelo Executivo no
+processo de apreciação e votação, através da apresentação de emendas. Nesse momento,
+recrudesce-se a relação de forças e o conflito entre os poderes, dado que as prioridades eleitas
+pelos parlamentares, no mais das vezes, não são coincidentes com as eleitas pelo Executivo,
+
+muitas vezes, desconfiguram completamente a programação inicialmente apresentada.
+
+A solução legal à disposição do Executivo para minimizar o que considera efeitos da
+atividade parlamentar na apreciação e votação dessas leis é o mecanismo do veto. Contudo, ao
+exercer esse direito, o Executivo corre o risco de pagar um preço político alto, uma vez que ao
+
+vetar, está dizendo claramente ao Congresso que não tem a intenção de executar as diretrizes,
+objetivos, metas ou dotações orçamentárias acrescentadas às Leis orçamentárias pelo
+Legislativo.
+
+Como dito acima, a relação de forças e o conflito entre os poderes se intensifica no
+processo de elaboração e na execução do Orçamento. É na especificação das dotações
+orçamentárias que o governo demonstra quais as políticas públicas e quais os investimentos
+terão aportes de recursos no exercício financeiro subsequente. Assim, para minimizar os
+efeitos da atuação legislativa, e considerando que o veto tem um preço político alto, o
+Executivo lança mão de outras estratégias para fazer prevalecer sua vontade.
+
+Na prática, tais estratégias vão do contingenciamento de recursos, à não execução
+das metas e iniciativas incluídas no plano ou de dotações orçamentárias incluídas no
+Orçamento no processo de emendamento no Legislativo, à liberação de recursos para cobrir
+emendas parlamentares em época de votações importantes para o Executivo no Congresso, até
+
+a utilização de mecanismos de controle das votações no Legislativo pelo Executivo.
+
+E é a prática que influi na relação entre os Poderes Executivo e Legislativo, muitas
+vezes, alijando esse último da competência de fiscalizar e deixando o primeiro refém de
+negociações para fazer prevalecer sua vontade, influindo no princípio de freios e contrapesos.
+Por outro lado, na medida em que o Executivo libera os recursos contingenciados, libera ou
+não recursos oriundos de emendas parlamentares. Isso é utilizado pelo Executivo como
+elemento de barganha e como forma de influir na agenda do Legislativo, mitigando o
+princípio de separação dos poderes.
+
+Dessa forma, o objetivo geral deste trabalho é analisar em que medida os princípios
+de separação dos poderes e dos freios e contrapesos são afetados pela relação de forças
+estabelecidas na elaboração e na execução dos orçamentos anuais e das demais Leis
+orçamentárias. Os objetivos específicos são: analisar uma possível prevalência do Poder
+Executivo sobre o Legislativo, no que diz respeito a questões relacionadas ao Direito
+Financeiro; demonstrar a eficácia do domínio do Poder que possui as chaves dos cofres
+públicos sobre o que tem a atribuição de legislar, fazendo com que este último não exerça
+com plenitude sua função de fiscalizadora, enfraquecendo os mecanismos de checks and
+balances; e, por fim, avaliar se as escolhas alocativas e a execução das despesas públicas
+previstas nos orçamentos influem no princípio de separação dos poderes.
+O que justifica a escolha do tema é o fato de ser justamente na elaboração dos
+programas do govemo, consubstanciados na Lei do Plano Plurianual (PPA), no
+estabelecimento das metas e prioridades, matérias da Lei de Diretrizes Orçamentárias (LDO)
+e, fundamentalmente, na alocação dos recursos públicos na Lei Orçamentária Anual (LOA)
+que as relações de forças e os subterfúgios para garantir a prevalência das escolhas de um
+Poder sobre as escolhas do outro se manifestam.
+
+Conforme sustentado anteriormente, justifica-se também o fato de se tratar de tema
+pouco abordado em obras anteriores, tampouco em estudos técnicos dos órgãos públicos
+envolvidos com o assunto. Ao fim do trabalho, espera-se esclarecer se a relação entre os
+poderes está realmente viciada pela dinâmica que envolve a existência das Leis orçamentárias
+e contribuir para o estudo desses instrumentos na operacionalização do Direito Financeiro, e
+na influência dos elementos que o compõe em princípios do Direito Constitucional.
+
+A hipótese levantada é de que as escolhas alocativas do Govemo, a interferência do
+Legislativo no processo orçamentário e a liberdade que detém o Executivo para executar ou
+não despesas fixadas no Orçamento, uma vez que a LOA apenas autoriza e não obriga certas
+categorias de despesas, influi faticamente nos princípios de separação dos poderes e dos freios
+e contrapesos. Acredita-se que a operacionalização dos instrumentos orçamentários influi
+efetivamente nestes princípios desvirtuando a relação Executivo/Legislativo na consecução
+
+das políticas públicas e dos programas de governo.
+
+Como dito, os orçamentos e planos não são impositivos, são autorizativos, e isso
+permite que o Executivo dê cumprimento às despesas de acordo com cronograma de liberação
+elaborado após a sanção das Leis orçamentárias e após especificação do contingenciamento
+das despesas. Essa prática robustece a prevalência do Executivo sobre o Legislativo na
+elaboração e na implementação das políticas públicas onde são alocados parcela significativa
+dos recursos do Orçamento.
+
+A pesquisa estará inserida na perspectiva jurídico-sociológica, na medida em que
+"propõe-se a compreender o fenômeno jurídico no ambiente social mais amplo, (...) preocupa-
+se com a facticidade do Direito e com as relações contraditórias que estabelece com o próprio
+Direito e com os campos sociocultural e político". O raciocínio será preponderantemente
+
+! GUSTIN, Miracy Barbosa de Sousa; DIAS, Maria Tereza Fonseca. (Re)pensando a pesquisa jurídica: teoria e
+prática. p. 28
+indutivo, não sendo descartada a possibilidade de raciocínio indutivo-dedutivo. O tipo
+investigativo adotado será o jurídico-compreensivo e, possivelmente, jurídico-propositivo,
+pois serão inicialmente coletadas informações orçamentárias esparsas e, posteriormente,
+
+formuladas conclusões a partir das observações.
+
+Devido ao direito orçamentário ser matéria concorrente entre a União, os Estados e
+os municípios, ocasionando diversidade de legislações acerca do tema, as Leis orçamentárias
+federais serão objeto deste trabalho. A pesquisa consistirá na reunião de informações
+orçamentárias e de programas de governo disponíveis nos diversos sistemas abertos ao
+público, tendo como base de avaliação LOA, o PPA e seus respectivos anexos, versões
+aprovadas no Parlamento, antes e depois do processo de emendamento parlamentar.
+Posteriormente, será feita a triagem dos dados, seguindo-se as diretrizes teóricas encontradas
+na doutrina do Direito Financeiro e do Direito Constitucional.
+
+Em seguida, as informações coletadas serão consolidadas de modo que se seja
+possível obter conclusões a respeito do comportamento do Executivo na execução, ao longo
+do exercício financeiro, dos recursos antes aprovados pelo parlamento. Em geral, durante a
+apreciação e votação das Leis orçamentárias, deputados e senadores acrescentam projetos,
+ações, metas ou destinam recursos para programas de govemno já existentes, mediante
+apresentação de emendas. Embora constitucionalmente prevista a interferência dos
+parlamentares na alocação dos recursos e na definição das prioridades nem sempre é bem
+recebida pelo govemno.
+
+O resultado que se busca demonstrar, é que, embora prevista a participação do
+Parlamento na decisão alocativa estatal e na fiscalização dessa alocação, o que se reflete no
+princípio dos freios e contrapesos, essa participação é mitigada. A crescente-se que o domínio
+das chaves dos cofres públicos e da estratégia de liberação dos recursos orçamentários faz
+com que o Congresso dependa da vontade do Executivo para ver executadas as políticas,
+programas ou ações que introduziu nas Leis orçamentárias e nos planos de govemo, o que, de
+certa forma, deixa o Poder Legislativo a mercê do Poder Executivo, com reflexos no princípio
+
+da separação dos poderes.
+
+O Estudo do papel dos gastos públicos na relação entre os poderes Legislativo e
+Executivo impõe o conhecimento de conceitos relacionados à atividade financeira do Estado.
+
+Impende também o conhecimento das teorias da separação dos poderes e dos freios e
+contrapesos, extensamente trabalhadas na literatura do Direito Constitucional. Fora do campo
+do direito ou das finanças, convém conhecer os marcos teóricos acerca da dinâmica do
+presidencialismo de coalizão, adotado pelo nosso sistema, e que influencia sobremaneira no
+comportamento do Executivo e do Legislativo em suas relações. Por fim, teorias acerca das
+políticas públicas e de planejamento governamental podem ser úteis para compreender a
+interdisciplinaridade que o tema demanda.
+
+O trabalho está dividido em cinco capítulos. No primeiro deles são apresentadas a
+natureza e as funções das Leis orçamentárias. No segundo, são apresentadas as Leis
+orçamentárias em espécie, a interação entre elas e como o princípio dos freios e contrapesos
+se cristaliza nestas leis. No terceiro capítulo, é apresentado o processo de elaboração,
+apreciação e votação e execução das Leis orçamentárias. O capítulo é construído a partir da
+fase de elaboração, considerada como tal a organização dos projetos de lei no Executivo e a
+apreciação e a votação no Legislativo, finalizando com a implementação, novamente pelo
+Executivo. O capítulo quarto cuida dos princípios constitucionais da separação dos poderes e
+de freios e contrapesos que são caros a este trabalho, em uma perspectiva contemporânea. No
+quinto capítulo são analisados execução de um programa constante do PPA 2012-2015 e a
+execução orçamentária do mesmo programa no exercício de 2012. A isso se segue a
+conclusão do trabalho.
+CAPÍTULO 1 - Natureza e Funções das Leis orçamentárias
+
+No sistema constitucional orçamentário está prevista a existência de três leis. A
+primeira institui o PPA, no qual serão estabelecidas as diretrizes, objetivos e metas do
+govemo, a segunda estabelece as diretrizes orçamentárias, que para além de diretrizes, trata de
+uma série de assuntos, e a terceira trata dos orçamentos anuais, nos quais estão consignadas a
+
+previsão das receitas e a fixação das despesas públicas.
+
+Entretanto, antes de iniciar o estudo das Leis orçamentárias, convém discorrer
+brevemente sobre a atividade financeira do Estado. Em perspectiva dinâmica e sintética, é a
+atividade através da qual o Estado institui, arrecada, gerencia e gasta recursos com os fins
+visados. "Consiste em uma atividade meio, instrumental, que não cumpre função de atender
+diretamente à satisfação das necessidades da coletividade, mas que possibilita o alcance dos
+fins colimados pelo Estado”?
+
+Esta atividade financeira se desenvolve em três campos: a receita, ou seja, a captação
+de recursos quer sejam obtidos por imposição, quer sejam criados diretamente pelo Estado; a
+gestão, que é a administração de tais recursos e a conservação do patrimônio público; e a
+despesa, que consiste no emprego desses recursos para a realização dos fins visados pelo
+Estado. Tal atividade é regulada por um conjunto de normas e princípios jurídicos
+
+denominado Direito Financeiro.
+
+Portanto, são três os momentos constitutivos da atividade financeira do Estado: a
+obtenção dos recursos; a gestão desses recursos; e a aplicação deles.
+
+Existem diversas teorias para explicar a atividade financeira do Estado. As que mais
+se destacaram foram a teoria do consumo, a teoria da troca, a teoria da produtividade
+marginal, a teoria da utilidade relativa, a teoria do sistema de preços, a teoria da luta de
+classes e a teoria corporativista.
+
+A teoria do consumo estabelece que o Estado, como outras comunidades políticas,
+gasta uma parcela das riquezas produzidas pela sociedade. O Estado não produz, consome
+riquezas. Portanto, os serviços públicos são improdutivos. A teoria da troca, afirma que o
+
+2? FURTADO, J. R. Caldas. Elementos de Direito Financeiro, p.23.
+
+* SOUSA, 1954, p. 5, APUD FURTADO, J. R. Caldas. Elementos de Direito Financeiro, p.23.
+fenômeno financeiro se caracteriza pela troca entre os indivíduos, que pagam tributo, e o
+Estado que presta serviços. Nestas relações de troca, os tributos constituem o preço a que os
+serviços lhes correspondem. Para esta teoria, o tributo nada mais é do que o preço pago pelos
+serviços públicos executados pelo Estado. Pela teoria da produtividade marginal, a
+produtividade de um fator produtivo é determinada pela eficácia da última unidade disponível
+desse fator, assim como o valor do produto é determinado por aquela das suas unidades que é
+destinada à satisfação da última necessidade. O Estado, na teoria da utilidade relativa, baseia
+sua atividade financeira no princípio da necessidade. A necessidade do indivíduo é igual à
+necessidade do Estado. Na teoria do sistema de preços, o Estado é considerado a maior
+empresa que existe na sociedade, exerce uma função de prestador de serviços, cobrando
+preços. Os fenômenos financeiros são vistos pela teoria da luta de classes como uma maneira
+de os poderosos se beneficiarem pela opressão dos menos fortes, originando a desigualdade
+evidente das classes sociais. Por fim, a teoria corporativista, assegura que o Estado é uma
+grande cooperativa, da qual participam todos os contribuintes.”
+
+Não muito conhecida, a teoria social analisa a atividade financeira do Estado do
+ponto de vista das necessidades. Esta teoria classifica as necessidades em individuais e
+coletivas. As necessidades individuais são particulares, recíprocas e comuns. As coletivas, são
+satisfeitas pelos grupos privados ou públicos. As individuais apareceram quando o indivíduo
+transformou o bem livre em bem econômico. Depois veio a necessidade suprirem-se
+mutuamente, uma vez que o desejo por bens era mutuamente compartilhado por muitos
+homens. Em colaboração, satisfizeram à necessidade comum. Todas essas manifestações de
+atividade, então isoladas e individuais, começaram a ser supridas pelos grupos, definidos
+como a expressão da maneira pela qual as necessidades individuais são transformadas em
+necessidades comuns. Daí ao Estado como supridor de necessidades comuns que os
+
+indivíduos não poderiam adquirir, seja individual, seja coletivamente.
+
+Do ponto de vista deste trabalho, interessam as teorias da troca, da utilidade relativa,
+a teoria social e a teoria institucionalista. A primeira devido ao fato de que não é dado ao
+Estado se apropriar da riqueza social com o intuito de acumular riqueza. A motivação para a
+instituição e cobrança de tributos deve ser a prestação de serviços para a melhoria da
+sociedade. Portanto, o Estado intervém na propriedade das riquezas para, em troca,
+
+incrementar o bem estar coletivo. As teorias da utilidade relativa e a social, interessam, pois
+
+* CAMPOS, Dejalma de. Direito Financeiro e Orçamentário, pp. 25-26
+abordam o tema das necessidades. A pressão social advinda das necessidades, sejam
+individuais, sejam coletivas, pode fazer com que tais necessidades entrem na agenda das
+despesas estatais. Já a teoria institucionalista refere-se às instituições, hábitos, regras e sua
+evolução. Para esta vertente, as interações entre instituições, tecnologia e valores são de
+
+fundamental importância.
+
+1.1A Natureza das Leis orçamentárias
+
+O estudo das Leis orçamentárias (notadamente a que institui o PPA e o Orçamento
+Anual) compreende os aspectos político, econômico, técnico e jurídico. O aspecto político
+revela em proveito de que grupos sociais ou para a solução de que problemas e necessidades a
+aparelhagem dos serviços públicos funcionará precipuamente. O aspecto econômico revela os
+aspectos recíprocos da política financeira e da conjuntura econômica, assim como as
+possibilidades de o govemo utilizá-los. O aspecto técnico envolve o estabelecimento das
+regras práticas para realização dos fins indicados anteriormente e para a classificação clara,
+metódica e racional da receita e das despesas. Por fim, o aspecto jurídico corresponde ao
+estudo da natureza dos documentos orçamentários à luz do direito e, especialmente, das
+instituições constitucionais do país.”
+
+Para este trabalho, interessa principalmente o aspecto político e o jurídico das Leis
+orçamentárias. Subsidiariamente interessa o aspecto técnico para auxiliar na compreensão dos
+aspectos jurídico e político.
+
+1.1.1 A Natureza política das Leis orçamentárias
+
+A natureza política das Leis orçamentárias decorre do fato de que é nelas que estão
+consignadas as escolhas, as políticas públicas, nas quais serão alocados os recursos públicos.
+
+“Quando o Executivo propõe o Orçamento para o exercício imediato, oferece na
+realidade um plano de realizações e serviços a serem cobertos por tais receitas e só
+estas. Aprovando a proposta orçamentária, as duas Casas do Congresso dão anuência
+aos fins a serem alcançados pelas despesas ou sacrifícios que regiões e grupos vão
+ser beneficiados pelas despesas e que classes sociais irão suportar maior ou menor
+parte do ônus”.
+
+5 CAMPOS, Dejalma de. Direito Financeiro e Orçamentário, p.74.
+
+$ BARROSO, Luís Roberto (org). A reconstrução democrática do direito público no Brasil. p. 64.
+A afirmação da citação anterior também é válida para o plano plurianual, uma vez
+que é neste que se consignam os programas, as metas, os objetivos e as iniciativas do Estado.
+E, de acordo com a Constituição, ao plano devem estar conformes as despesas executadas no
+Orçamento.
+
+Além das escolhas, a natureza política envolve também uma dimensão de controle da
+Administração. Tal controle se dá na medida em que cabem ao Legislativo a aprovação e
+fiscalização das despesas públicas. A fiscalização também pode ser exercida pela sociedade,
+entretanto diante da dinâmica da separação dos poderes, a fiscalização legislativa é um
+importante instrumento de freios e contrapesos.
+
+Portanto, caberia às Leis orçamentárias, e ao Orçamento em particular, dar concreção
+às decisões políticas que envolvem o dispêndio de recursos públicos, tomadas pelos poderes
+estatais no âmbito de suas respectivas competências; harmonizar as decisões políticas que
+envolvem dispêndio de recursos públicos, conferindo alguma visão de conjunto; e garantir a
+
+transparência e o controle dos gastos.
+
+1.1.2 A Natureza Jurídica das Leis orçamentárias
+
+A natureza jurídica das Leis orçamentárias diz respeito à dimensão da eficácia para
+produzir efeitos jurídicos. A discussão gira em tomo de serem as Leis orçamentárias de
+
+natureza material ou formal.
+
+Do ponto de vista material, as Leis orçamentárias instituiriam e gerariam direitos.
+Dessa forma, o que estivesse consignado nas Leis orçamentárias seria direito subjetivo dos
+interessados, sendo a sua inobservância passível de controle do judiciário. O PPA e o
+Orçamento propriamente ditos, uma vez que a LDO é norteadora da elaboração e execução da
+LOA, seriam leis em sentido pleno, de conteúdo normativo, com eficácia material constitutiva
+e inovadora, cuja força, impossibilita que seus comandos sejam derrogados ou modificados
+por simples regulamentos”. Sob esse prisma, as Leis orçamentárias perdem o caráter
+
+autorizativo, tomando-se impositivas. Esta não é a corrente adotada no Brasil.
+
+7 SAINZ DE BUJANDA, Fernando. Lecciones de Derecho Financiero. p. 453 apud TORRES, Ricardo Lobo.
+Curso de Direito Financeiro e Tributário, p. 178.
+A corrente mais aceita é a de que as Leis orçamentárias são entendidas como leis
+formais. Segundo tal entendimento, a apreciação pelo Legislativo das Leis orçamentárias é
+meramente autorização do Parlamento para que o Executivo possa exercer atos de natureza
+administrativa. Dessa forma, embora o PPA e o Orçamento sejam estabelecidos através de
+leis, são apenas planos de gestão, sujeitos a todas as contingências no processo de execução.
+
+A compreensão do Orçamento como autorização reside no receio de que a atribuição
+de efeitos legais típicos possa gerar direitos para terceiros, fazendo com que a
+administração esteja sujeita a demandas judiciais em razão dos atos de
+contingenciamento. Para evitar essa eficácia vinculativa extema, a doutrina
+
+brasileira tem entendido ser necessário negar também a possibilidade de qualquer
+grau de vinculação do próprio poder público é
+
+Portanto, em seus aspectos, predomina nas Leis orçamentárias o formal, pois não têm
+
+elas a função de modificar relações jurídicas ou de criar direitos.
+
+1.2 Funções
+1.2.1 Funções tradicionais
+
+Tradicionalmente, as Leis orçamentárias, o Orçamento em particular, possuem
+funções. Com efeito, possuem função alocativa, distributiva ou estabilizadora. Estas três
+funções são necessárias para entender os efeitos das Leis orçamentárias na sociedade, mas não
+se resumem a estas. As Leis orçamentárias exercem outras funções, políticas-jurídicas, tanto
+no âmbito da elaboração e execução, quanto na relação entre os poderes.
+
+Evidentemente que quando o Estado decide alocar recursos, distribuí-los ou atuar
+dispondo recursos para estabilizar as relações na sociedade, isso tem reflexo político-jurídico,
+além despertar relações de força entre os poderes acerca da maneira com se dará tais
+intervenções estatais. Portanto, é importante que se discorra brevemente acerca das funções
+tradicionais, para depois adentrar nas funções político-jurídicas das Leis orçamentárias,
+funções estas que podem interferir na relação entre os Poderes Executivo e Legislativo.
+
+A função alocativa se justifica fundamentalmente pela existência de falhas de
+mercado na oferta de bens ou serviços não sujeitos ao princípio da exclusão, ou seja, que não
+podem eliminar os não pagadores de seu consumo. Portanto, em termos alocativos, o Estado
+
+age em caráter complementar à economia de mercado naqueles casos em que não haja a
+
+º BARROSO, Luís Roberto (org). A reconstrução democrática do direito público no Brasil p. 665.
+necessária eficiência por parte do mecanismo de ação privada. Na função alocativa, portanto,
+o Estado atua oferecendo determinados bens e serviços necessários e desejados pela
+sociedade, porém que não são providos pelo mercado. Assim, o setor público pode atuar
+produzindo diretamente os produtos e serviços ou via mecanismos que propiciem condições
+
+para que sejam viabilizados pelo setor privado.
+
+Essencialmente a alocação dos recursos estatais se dá na infraestrutura econômica, na
+provisão de bens públicos e na provisão de bens meritórios. Os investimentos na
+infraestrutura econômica (transporte, energia, comunicações, armazenamento, etc) são
+indutores do desenvolvimento regional e nacional, sendo compreensível que se transformam
+em áreas de competência estatal. Os altos investimentos necessários e o longo período de
+carência entre as aplicações e o retorno desestimulam igualmente o desenvolvimento privado.
+
+No caso dos bens públicos e dos bens meritórios, a demanda por estes bens assume
+características especiais que inviabilizam o fomecimento dos mesmos pelo sistema de
+mercado. Bens públicos são aqueles não passíveis de exclusão pela parcela da população que
+não tem condição de pagar, e que, portanto, não traria o retorno em lucros esperados pela
+iniciativa privada. Já os meritórios, destacam-se mais pela sua utilidade social do que como
+
+bem privado (subsídios, programa de merenda escolar, programas de assistência social etc.).
+
+A função distributiva visa à promoção de ajustamentos na distribuição de renda. Os
+instrumentos mais usados para o ajustamento são os sistemas de tributos e as transferências.
+Cita-se como exemplo de medida distributiva o imposto de renda progressivo, realocando as
+receitas para programas de alimentação, transporte e moradia populares. Outro exemplo é a
+concessão de subsídios aos bens de consumo popular, financiados por tributos incidentes
+sobre os bens consumidos pelas classes de rendas mais altas.
+
+O orçamento público, assim como na função alocativa, é o principal instrumento
+para a viabilização das políticas públicas de distribuição de renda. Considerando que
+o problema distributivo tem por base tirar de uns para melhorar a situação de outros,
+o mecanismo fiscal mais eficaz é o que combina tributos progressivos sobre as
+
+classes de renda mais elevada com transferência para aquelas classes de renda mais
+baixa.!
+
+º MUSGRAVE, Richard e MUSGRAVE, Peggy. Finanças Públicas: teoria e prática, p. 41-48
+
+1º GIACOMONI, James. Orçamento Público, p. 25
+A função estabilizadora por sua vez, visa a manter a estabilidade econômica,
+diferenciando-se das outras funções por não ter como objetivo a destinação de recursos, ou
+seja, a capacidade que possui o Estado de intervir no mercado por meio da variação dos gastos
+públicos ou da arrecadação de impostos, de forma a equilibrar os excessos ou insuficiências
+
+da atividade econômica.
+
+O campo de atuação dessa função é principalmente a manutenção de elevado nível de
+emprego e a estabilidade nos níveis de preços. Destaca-se ainda a busca do equilíbrio no
+balanço de pagamentos e de razoável taxa de crescimento econômico. O mecanismo básico da
+estabilização é a atuação sobre a demanda agregada, que representa a quantidade de bens ou
+serviços que a totalidade dos consumidores deseja e está disposta a adquirir por determinado
+preço e em determinado período. Assim, a função estabilizadora age na demanda agregada de
+
+forma a aumentá-la ou diminuí-la.
+
+Para isso, de novo, um dos instrumentos utilizado pelo Estado na política
+estabilizadora é o orçamento público. “No plano da despesa pública, o impacto das compras
+do govemo sobre a demanda agregada é expressivo, assim como o poder de gasto dos
+funcionários públicos. No plano da receita, não só chama a atenção o volume, em termos
+absolutos, dos ingressos públicos, como também na a variação na razão existente entre a
+receita orçamentária e a renda nacional, como consequência das mudanças existentes nos
+
+componentes da renda (lucros, transações comerciais etc).
+
+1.2.2 Funções políticas-jurídicas
+
+Para além da estimativa da receita e da fixação das despesas, as Leis orçamentárias
+representam a vontade política dos govemos, dos poderes que o constitui e das necessidades
+públicas. A consignação dessa vontade depende de articulação entre os atores envolvidos.
+Primeiro para determinar quais demandas entrarão na agenda das despesas estatais. Nesse
+ponto as articulações políticas tanto podem envolver relações entre o Estado e a sociedade, e
+entre seus poderes constituídos.
+
+A inserção de programas, objetivos, metas ou iniciativas na fase de elaboração no
+PPA derivam da percepção estatal, ou de setores sociais, os quais pressionam o estado através
+
+! GIACOMONI, James. Orçamento Público, p. 26
+20
+
+da opinião pública ou de outros meios, das demandas e necessidades que justificam a atuação
+financeira do Estado. Na fase legislativa, outras demandas sociais ou parlamentares são
+inseridas no plano durante o processo de emendamento e votação. Desse processo resultam as
+diretrizes, objetivos e metas da atuação governamental, o planejamento de médio prazo.
+Percebe-se, que vários são os atores envolvidos, com interesses e pressões distintas.
+Considerando que os recursos públicos para atender a todas estas demandas são escassos,
+
+somente a coordenação política entre estes atores pode levar o processo a bom termo.
+
+Da mesma forma ocorre no processo de elaboração e aprovação do Orçamento. É
+nesta fase que as prioridades eleitas pelo governo, pelo parlamento e pela sociedade no plano
+recebem os recursos financeiros para a sua consecução. As relações de força entre os autores
+envolvidos no processo voltam a ocorrer tal qual na elaboração e aprovação do plano, com o
+agravante de que, por envolver recursos financeiros, e por repetir-se ano a ano, tais relações
+
+são recrudescidas.
+
+A função política das Leis orçamentárias está fundamentalmente atrelada ao princípio
+da separação de poderes.
+
+Já no que diz respeito à função jurídica, as Leis orçamentárias consignam a
+legalidade das escolhas estatais e dos gastos públicos. Portanto, uma vez aprovadas mediante
+leis, possibilitam o controle dos gastos, tanto social, quanto pelo parlamento, quanto pelo
+judiciário, além da constatação de sua regularidade e a responsabilização dos atores
+envolvidos em possíveis irregularidades.
+
+Juridicamente, portanto, é nas Leis orçamentárias que as escolhas políticas e os
+gastos estatais se encontram com o direito. No caso federal, o planejamento e a delimitação
+das políticas públicas tomam-se objetos jurídicos na Lei do PPA. As metas e prioridades são
+consignadas na Lei de Diretrizes Orçamentárias e as receitas e despesas na LOA.
+21
+
+CAPÍTULO 2- As Leis orçamentárias em espécie
+2.1. Plano Plurianual
+
+O Plano Plurianual (PPA) é o instrumento da ação governamental que norteia uma
+dinâmica de integração na qual o orçamento de determinado exercício financeiro se apresenta
+compatível com um esforço prévio de planejamento de médio prazo.” A provado de quatro em
+quatro anos, é no PPA que são consubstanciadas, nos termos do art. 165, $ 1º da Constituição
+Federal, de forma regionalizada, as diretrizes, objetivos e metas do Governo Federal para os
+quatro anos seguintes. Ou seja, consiste na declaração pelo govemo do que pretende ser
+realizado no período que vai do segundo ano do mandato do presidente (ou dos governadores
+e prefeitos) até o primeiro ano do mandato do govemo eleito em sequência. Pelo princípio da
+simetria, as regras constitucionais que estabelecem a obrigatoriedade do Plano, aplicam-se aos
+demais entes da federação.
+
+O atual PPA do em vigor para o Executivo federal está estruturado em programas
+temáticos, os quais possuem como atributos objetivos, metas e iniciativas. “O Plano
+propriamente dito é composto pelo texto da Lei e três anexos. A Lei estabelece as diretrizes
+do PPA, detalha a sua organização, a estrutura e a relação com o Orçamento, além de trazer
+parâmetros para a sua gestão. Os anexos contemplam a parte programática, de modo que no
+Anexo 1 estão todos os Programas Temáticos, com seus atributos. De forma análoga, o Anexo
+IH contempla todos os Programas de Gestão, Manutenção e Serviços ao Estado, enquanto que
+
+o Anexo III, lista todos os empreendimentos individualizados como iniciativas”.
+
+2.2 As diretrizes orçamentárias
+
+Destinada a estabelecer as metas e prioridades da administração, a Lei de Diretrizes
+Orçamentárias (LDO), em sua maior parte é dedicada a orientar a organização e estruturação
+do Projeto de lei Orçamentária (PLOA),!“ assim como, a estabelecer as diretrizes gerais e
+específicas para a elaboração e execução de cada um dos três orçamentos que compõem o
+Orçamento Anual da União: fiscal, da seguridade social e das empresas estatais. A LDO
+
+2 BIJOS, Paulo Roberto Simão. Direito Orçamentário na Constituição Federal de 1988. p. 48.
+
+3 NAVARRO, Cláudio; SANTOS, Eugênio dos; FRANKE, Femando. A estrutura do PPA 2012-2015, in
+Revista Brasileira de Planejamento e Orçamento, volume 2, nº 1, 2012, pp. 24-47, nota de rodapé 16.
+
+!4 A qui se trata da análise das LDOSs federais.
+22
+
+detém o papel de ligação entre o PPA e a LOA, permitindo a discussão das diretrizes e dos
+principais parâmetros que vão estruturar a peça orçamentária;
+
+Além dos dispositivos que integram a parte destinada a orientar a organização e
+estruturação do PLOA, na LDO também se estabelece normas relacionadas à transparência, à
+gestão fiscal, às transferências de recursos voluntários e à prestação de contas.
+
+No plano Político, a criação da LDO, uma lei que faria o meio de campo entre o
+planejamento e o orçamento, deriva em maior medida, da tentativa de assegurar ao
+Legislativo uma acentuada participação no processo orçamentário desde a elaboração da
+proposta orçamentária, e não apenas a partir do envio do PLOA ao Congresso Nacional para a
+apreciação e votação. Portanto, em vez de simplesmente homologar a proposta orçamentária
+do Executivo, o Legislativo passaria a ter condições, através da LDO, de definir,
+concatenadamente com o Executivo, as balizas que condicionam a própria proposta
+
+orçamentária a ser apreciada pelo parlamento.
+
+Portanto, é na função dessa lei que se vê mais claramente a cooperação entre os
+poderes em matéria orçamentária e que se destaca a participação parlamentar no processo de
+elaboração dos orçamentos.
+
+A Lei de Diretrizes Orçamentárias poderá representar o principal instrumento de
+integração entre os Poderes Executivo e Legislativo em matéria de política fiscal,
+abrindo uma alternativa ao autoritarismo da Constituição de 1967 e à anarquia
+permitida, nessa área, pela Constituição de 1946. Na prática, certos dispositivos do
+texto constitucional de 1967, mantidos pela Constituição de 1969, limitavam o
+Poder Legislativo à tarefa de simplesmente o projeto de lei orçamentária. (...) Abriu-
+
+se, portanto, o caminho para uma participação responsável pelos parlamentares no
+processo orçamentário. 'º
+
+2.3 0 Orçamento
+
+O conceito doutrinário de orçamento público não é pacífico. Dentre os mais aceitos,
+está o de Aliomar Baleeiro, segundo o qual, o Orçamento ato pelo qual o Poder Legislativo
+prevê e autoriza ao Poder Executivo, por certo período e em pormenor, as despesas destinadas
+
+!5 SERRA, José. 1994. pp. 9-10. APUD BIJOS, Paulo Roberto Simão. Direito Orçamentário na Constituição
+Federal. p.54.
+23
+
+ao funcionamento dos serviços públicos e outros fins adotados pela política econômica ou
+
+geral do país, assim como a arrecadação das receitas já criadas em lei.!º
+
+Dentre os autores estrangeiros, Dejalma de Campos cita o conceito de Rodrigues
+Bereijo. Segundo este autor, o orçamento público consiste no ato Legislativo mediante o qual
+se autoriza o máximo de gastos que o govemo pode realizar durante um período de tempo
+determinado nas obrigações que detalhadamente são especificadas e que prevêem os ingressos
+
+necessários para cobri-las.”
+
+O conceito legal de orçamento público é encontrado na Lei 4320/64. Neste caso, 0
+Orçamento é uma lei de iniciativa do Executivo, submetida à apreciação do Poder Legislativo,
+cujo conteúdo engloba todas as receitas e despesas da Administração Pública direta ou
+indireta, evidenciando a política econômica financeira e o programa de trabalho do govemo,
+obedecidos os princípios de unidade, universalidade e anualidade.
+
+A despeito da divergência conceitual, a previsão da receita e a fixação da despesa são
+constantes de um projeto de lei e que consubstanciam o orçamento público e, uma vez
+aprovado pelo Legislativo e sancionados pelo Chefe do Executivo, transforma-se na LOA.
+
+É na LOA que se equaciona os dois elementos essenciais para a atividade financeira
+do Estado: receita e despesa. Nela, é estimada a receita a ser carreada para os cofres públicos
+para o exercício financeiro a que se refere a lei orçamentária, e fixada a despesa para o mesmo
+exercício financeiro. “O orçamento público é uma previsão, em regra anual, das despesas a ser
+realizada pelo Estado e dos processos de cobri-las, incorporando a autorização concedida à
+administração para realizar despesas e cobrar receitas e limitando os poderes financeiros da
+
+administração a cada ano”.
+
+A fixação da despesa, entretanto, é entendida como autorização para a realização das
+despesas, não se confundindo com a criação de direitos subjetivos. A qui reina a tese de que a
+Lei orçamentária é lei formal, e que o Orçamento aprovado pelo Congresso é autorizativo,
+
+não impositivo.
+
+16 CAMPOS, Dejalma de. Direito Financeiro e Orçamentário, p.71.
+V IDEM, p. 72.
+
+!º FURTADO, . R. Caldas. Elementos de Direito Financeiro, p. 41.
+24
+
+O modelo de orçamento adotado no nível federal é o orçamento programa. Neste
+modelo o orçamento está estruturado em diversas categorias programáticas, ou níveis de
+programação, que representam objetivos da ação governamental em diversos níveis
+decisórios. Tal estrutura está dividida em programação qualitativa e programação
+quantitativa.!º
+
+2.4 Interações entre as Leis
+
+A Constituição Federal estabelece que as Leis orçamentárias devem ser compatíveis
+entre si. Dessa forma, entende-se que o PPA é lei supraordenadora das diretrizes
+orçamentárias e do Orçamento.
+
+De acordo com o parágrafo 4º do artigo 165 da Constituição Federal, “os planos e
+programas nacionais, regionais e setoriais previstos nesta Constituição serão elaborados em
+consonância com o Plano Plurianual e apreciados pelo Congresso Nacional”. O parágrafo 7º
+do mesmo artigo estabelece que os orçamentos fiscal e de investimento das empresas estatais
+deverão ser “compatibilizados com o Plano Plurianual, terão entre suas funções a de reduzir
+
+desigualdades inter-regionais, segundo critério populacional”.
+
+Mesmo a atuação legislativa na apreciação e votação (emendas parlamentares) do
+Orçamento é limitada às diretrizes, objetivos e metas declaradas no PPA e às metas e
+prioridades declaradas na LDO em vigor. É o que estabelece o inciso I do parágrafo 3º do
+artigo 166 da Constituição: “As emendas ao projeto de lei do Orçamento anual ou aos projetos
+que o modifiquem somente podem ser aprovadas caso: 1 - sejam compatíveis com o Plano
+Plurianual e com a Lei de diretrizes orçamentárias”. Mesmo emendas ao projeto de lei de
+diretrizes orçamentárias devem ser compatíveis com o PPA em vigor. É o que estabelece o
+parágrafo 4º do referido artigo 166: “As emendas ao projeto de lei de diretrizes orçamentárias
+
+não poderão ser aprovadas quando incompatíveis com o Plano Plurianual”.
+
+Contudo, a despeito do entendimento da natureza supraordenadora do PPA em
+relação à LDO e ao Orçamento, de fato todas as leis que instituem tais instrumentos são leis
+ordinárias. Desse ponto de vista, não há que se falar em supremacia de uma sobre a outra.
+
+1º BRASIL. Ministério do Planejamento, Orçamento e Gestão. Secretaria de Orçamento Federal. Manual técnico
+de Orçamento MTO. Versão 2013. Brasília, 2012.
+25
+
+Devido a isso, não é raro que mudanças no PPA sejam promovidas pela inserção de
+
+programações no Orçamento ou por normas inseridas na LDO.
+
+2.5 Freios e contrapesos cristalizados nas Leis orçamentárias.
+
+O tema dos freios e contrapesos será tratado com mais detalhe adiante, mas,
+inicialmente e sinteticamente, o princípio está relacionado com a possibilidade de um poder
+exercer controle e fiscalização na atuação de outro. O princípio está inserto em um ambiente
+de separação de poderes e existe para que um poder não exerça suas atribuições fora dos
+limites legais de atuação. É, portanto, um princípio que propicia o equilíbrio entre os poderes
+constituídos no Estado em um ambiente democrático.
+
+No caso das Leis orçamentárias, o controle e a fiscalização podem ser exercidos por
+diversas instâncias: sociedade, mídia, judiciário etc. Contudo, no âmbito dos poderes, cabe ao
+Legislativo a atribuição constitucional de controlar e fiscalizar a atuação do Executivo, tanto
+na consecução dos programas ou políticas constantes do Plano, quanto da execução das
+despesas orçamentárias.
+26
+
+CAPÍTULO 3 - O processo de elaboração, apreciação e votação e execução das Leis
+orçamentárias.
+
+O entendimento das fases pelas quais passam a elaboração dos projetos de Leis
+orçamentárias é interessante para identificar em que ponto se poderia dar a cooperação entre
+os poderes, bem como as possíveis intervenções de um poder sobre a autonomia do outro para
+decidir. No Executivo federal, o processo de elaboração das Leis orçamentárias se desenvolve
+no âmbito do sistema de planejamento e orçamento do Poder Executivo e consiste em um
+conjunto de tarefas, cuja complexidade varia em função do tamanho dos programas constantes
+do PPA, das metas e prioridades constantes das diretrizes orçamentárias ou das receitas e
+despesas nos orçamentos.
+
+Segundo o artigo 84, XXIII, da Constituição Federal, compete privativamente ao
+Presidente da República enviar ao Congresso Nacional os projetos de lei do PPA, de diretrizes
+orçamentárias e do Orçamento Anual. Pelo princípio da simetria, tal competência também é
+reconhecida aos governadores e prefeitos. A questão que se levanta é se a competência
+privativa do Executivo para enviar os projetos de lei ao Congresso lhe dá também a
+competência privativa para a elaboração.
+
+A competência do poder Executivo para elaboração da proposta orçamentária está
+consagrada universalmente, não tendo vingado as experiências feitas nos Estados
+Unidos e na França no sentido de atribuí-la ao Legislativo. Todavia, há quem
+defenda esta última orientação sob o fundamento de preservar a plena competência
+do Congresso Nacional na parte mais necessária aos reclamos da coletividade e
+
+porque os representantes do povo são os que mais conhecem as necessidades da
+comunidade social.?º
+
+Como afirmado no capítulo anterior, as Leis orçamentárias têm uma função política.
+Portanto, apesar de o Executivo deter juridicamente a competência privativa para enviar tais
+projetos de leis ao Congresso Nacional, tal não implica completo alijamento dos demais
+atores interessados na escolha de quais programas e quais políticas públicas serão objeto da
+atividade financeira do Estado.
+
+Assim, a participação do Legislativo ou de outras instâncias na elaboração das Leis
+orçamentárias não implica invasão da competência do Executivo, que, em última instância
+
+acolhe ou não a participação dos demais atores.
+
+2º ROSA JUNIOR, Luiz Emygdio F. da. Manual de direito financeiro e tributário. APUD FURTADO, J. R.
+Caldas. Elementos de direito financeiro. Belo Horizonte: Fórum, 2009. p. 117.
+27
+
+3.1 Legitimidade para atuar no processo — preponderância do Executivo
+
+Assim, considerando que as Leis orçamentárias tratarão de temas que vão influir em
+questões que são de interesse geral, é razoável considerar que todos os atores envolvidos
+possam interferir em todas as fases do processo. No que diz respeito à intervenção social, é
+possível afirmar que tal intervenção é facultada tanto na fase de elaboração das Leis
+orçamentárias no âmbito do Executivo quanto no âmbito do Legislativo.
+
+No âmbito do Executivo, durante a elaboração do Orçamento e do PPA é facultada a
+participação social. No caso do Orçamento são patrocinados diálogos sociais sobre o
+orçamento público federal. Em relação ao PPA, é realizado o fórum interconselhos. Há ainda
+no âmbito de várias unidades da federação a existência de orçamento participativo. Devido ao
+escopo deste trabalho, não se avaliou se o resultado dessa participação foi efetivo ou não, ou
+
+se o Executivo incorporou às Leis orçamentárias o resultado da deliberação social.
+
+Na fase legislativa de elaboração das Leis orçamentárias, a participação social é
+facultada mediante a elaboração de audiências públicas.
+
+O mesmo não se pode dizer da participação do Legislativo na fase de elaboração pelo
+Executivo dos projetos de Leis orçamentárias. Embora possa ser considerada legítima a
+participação, tanto do ponto de vista político, quanto do ponto de vista jurídico, os
+parlamentares não participam da delimitação de quais agendas serão objeto de atuação
+governamental, na fase de elaboração das Leis orçamentárias no Executivo.
+
+A ausência de participação legislativa nesta fase pode decorrer da falta de abertura do
+Executivo para a participação parlamentar, pela crença entre deputados e senadores de que tal
+participação é suficiente mediante o processo de emendamento no Congresso ou pela falta de
+
+interesse por temas nacionais pelos parlamentares individualmente.
+
+A última hipótese já foi levantada por Barry Ames, segundo ele:
+
+Políticos são incentivados a maximizar seus ganhos pessoais — em primeiro lugar,
+“suas finanças particulares" — e a cavar projetos e recursos para suas clientelas
+específicas. Ainda que seja possível encontrar deputados e senadores
+programaticamente orientados, esse tipo de parlamentar constitui a minoria. A
+maioria orienta sua carreira "para a oferta de contratos de obras públicas e
+
+nomeações para cargos burocráticos" >!
+
+2 AMES, Barry. Os entraves da democracia no Brasil. pp. 21-46.
+28
+
+Seja qual for o motivo, o fato é que a ausência ou insuficiência de coordenação entre
+os dois principais atores envolvidos no processo de criação de Leis orçamentárias, quase
+sempre ocasiona tensões e conflitos acerca da legitimidade para determinar as escolhas e
+
+conformação de programas ou delimitações de despesas irreais.
+
+3.2 Fase de elaboração — propostas elaboradas no Executivo.
+
+Considerando que é no PPA que são consignados os programas definidos como
+prioritários pelo governo, e é no Orçamento que as despesas para o alcance dessas prioridades
+são fixadas, serão demonstradas as etapas que, tanto o Plano como o Orçamento, passam para
+as respectivas formações, até o envio da proposta ao Legislativo.
+
+No caso do PPA 2012-2015, em vigor, inicialmente foi elaborado o modelo que seria
+seguido pelos formuladores do Plano e apresentado aos ministérios, em seguida, os programas
+foram elaborados pelos ministérios com a supervisão do órgão central de planejamento do
+Executivo. Os programas elaborados foram debatidos e ajustados com os ministérios? e com
+a sociedade, no fórum interconselhos. Em seguida o Plano foi consolidado pelo órgão central
+de planejamento e enviado ao Congresso através de mensagem presidencial.
+
+O Orçamento por sua vez, passa por uma etapa de planejamento do processo de
+elaboração da proposta, seguida pela definição de macrodiretrizes, pela revisão da estrutura
+programática, pela avaliação das necessidades de financiamento do governo central para a
+proposta orçamentária e pelo estudo, definição e divulgação de limites para as propostas
+setoriais (até aqui é considerada a fase qualitativa da elaboração do Orçamento). A fase
+quantitativa se dá com a captação das propostas setoriais, pela análise e ajustes destas
+propostas e, finalmente, pelo fechamento, compatibilização e consolidação da proposta
+orçamentária final.
+
+Embora nestas fases as equipes técnicas do Executivo debatam com as equipes
+técnicas das duas Casas do Congresso, bem como com o relator designado para comandar o
+processo de elaboração das Leis orçamentárias no Legislativo, não há indicativo de
+coordenação substancial entre Executivo e Legislativo nestas fases.
+
+2 BRASIL. Ministério do Planejamento Orçamento e Gestão. Secretaria de Planejamento e Investimentos
+Estratégicos. Orientações para a elaboração do Plano Plurianual 2015-2015. p. 16
+29
+
+3.3 Fase de elaboração — Tramitação dos projetos das Leis orçamentárias no C ongresso
+
+Nacional.
+
+A apreciação das Leis orçamentárias pelo Poder Legislativo possui rotinas e regras
+específicas que disciplinam a análise, o emendamento e a posterior votação destas leis. As
+nuances dessas etapas, entretanto, nem sempre são tão claras para os atores envolvidos na
+
+elaboração e envio do projeto de lei ao Parlamento.
+
+O processo Legislativo de apreciação e votação dos projetos de Leis orçamentárias
+no Congresso Nacional inicia-se com a designação do relator na Comissão Mista de Planos,
+Orçamentos Públicos e Fiscalização (CMO), o que ocorre no início da sessão legislativa.
+Posteriormente, dentro dos prazos constitucionais previstos para o envio de cada um deles, o
+Executivo encaminha a mensagem presidencial que contém os projetos de lei e os seus anexos
+ao Congresso Nacional. Recebidos os projetos de lei, é realizada a leitura da mensagem
+presidencial em sessão do Senado Federal e, na sequência, a publicação e a distribuição de
+cópias aos parlamentares.
+
+Todo o processo de apreciação ocorre na CMO, sendo ele regido pela Resolução nº 1
+de 2006 do Congresso Nacional. A CMO é composta por 30 deputados e 10 senadores, dentre
+os quais será escolhido um relator geral e, se necessário relatórios setoriais, cuja missão é
+emitir relatório preliminar que, uma vez votado, recebe o nome de parecer preliminar da
+Comissão. Poderá também ser constituídos comitês, a critério do relator, para apoiá-lo no
+processo de elaboração do relatório preliminar, fato que não tem sido observado no trâmite
+dos últimos planos.
+
+No relatório preliminar, o relator estabelece, com fundamento na Resolução nº
+1/2006-CN, o processo de emendamento parlamentar na CMO. Nessa parte, são estabelecidas
+orientações específicas referentes à apresentação e à apreciação de emendas, aos elementos
+que deverão constar da justificativa das emendas individuais, além de dispor sobre
+
+apresentação e apreciação de emendas individuais e coletivas ao projeto.
+
+Pode ainda o relator estabelecer quais partes do projeto de lei serão ou não
+emendadas, bem como o que é considerado emenda de texto ou emenda de despesa. Tal
+distinção se mostra importante devido ao fato de haver limites, tanto qualitativos quanto
+30
+
+quantitativos, para a apresentação das emendas de despesa. O relator analisa ainda os
+fundamentos, as justificativas, os cenários e outras informações relevantes do Plano.
+
+Podem emendar o relatório preliminar parlamentares individualmente, em conjunto
+representando as bancadas estaduais, além das comissões permanentes da Câmara ou do
+Senado. Nesse caso, como as emendas não são classificadas como emendas despesa, os
+parlamentares não têm limites para propor alteração nas regras do relatório preliminar acerca
+do processo de emendamento. Ao relator cabe julgar se as emendas apresentadas serão
+
+admitidas ou não.
+
+Superada essa fase, o relatório preliminar é votado pelo plenário da CMO e, uma vez
+aprovado, passa a ser denominado parecer preliminar e norteia o processo de emendamento e
+
+votação das Leis orçamentárias.
+
+As emendas ou são consideradas de despesa ou de texto. Dispõe a resolução acima
+citada que se aplicam, no que couber, às emendas às Ações orçamentárias do PPA, as
+disposições relativas às emendas à despesa do PLOA.
+
+As emendas de despesa se desdobram em emendas de remanejamento, de
+apropriação ou de cancelamento. A Resolução nº 1/2006-CN classifica as primeiras como
+sendo aquelas que propõem acréscimo ou inclusão de dotações tendo como fonte de recursos
+a anulação de dotações constantes do projeto, exceto os valores da reserva de contingência.
+Emendas de apropriação, da mesma forma, propõem acréscimo ou inclusão de dotações,
+porém os recursos provêm da reestimativa de receitas ou da reserva de contingência. Emendas
+de cancelamento por fim, são as que propõem, exclusivamente, a redução de dotações
+constantes do projeto.
+
+Acerca das emendas de despesa, poderão ser apresentadas até 5 (cinco) emendas
+pelas as Comissões Permanentes do Senado Federal ou da Câmara dos Deputados, até 5
+(cinco) emendas pelas bancadas estaduais do Congresso Nacional e até 10 (dez) emendas por
+parlamentar individualmente. Não existe limite para a apresentação de emendas de texto.
+Além da limitação numérica, a cada apreciação e votação das Leis orçamentárias é
+estabelecido no parecer preliminar um teto para valor financeiro do conjunto das dez emendas
+
+individuais de parlamentares.
+31
+
+Além do comitê eventualmente composto para assessorar o relator, outros três se
+manifestam no decorrer do processo na CMO: o Comitê Permanente de Exame da
+A dmissibilidade de Emendas propõe a inadmissibilidade das emendas; o Comitê de Avaliação
+da Receita analisa a estimativa das receitas; e o Comitê de Avaliação, Fiscalização e Controle
+da Execução Orçamentária analisa a consistência fiscal. Esses comitês são compostos por, no
+
+mínimo, cinco e, no máximo, dez membros ou suplentes da CMO.
+
+Embora previsto na Resolução 01/2006-CN, o último comitê não tem funcionado na
+prática. Assim, apenas a admissibilidade das emendas e a questões relacionadas à estimativa
+de receitas são avaliadas na tramitação das Leis orçamentárias.
+
+Outras condições e limitações acerca do processo de emendamento podem ser
+estabelecidas pelo relator no parecer preliminar, uma vez que a Resolução nº 1/2006-CN
+deixa espaço para a discricionariedade do relator em várias situações.
+
+Ultrapassada a fase de emendamento dos projetos de lei, o relator redige um segundo
+relatório, agora incorporando no texto o resultado do processo de emendamento. O texto que
+daí surge é chamado de substitutivo do relator. Nesse substitutivo, as emendas apresentadas
+recebem parecer sobre o atendimento ou não aos critérios estabelecidos no Parecer Preliminar.
+Uma vez feito o juízo de admissibilidade, o relator opina pela aceitação ou rejeição das
+emendas. Além da obediência às regras estabelecidas no Parecer, as emendas são analisadas
+
+tendo como parâmetro o atendimento das normas constitucionais e legais.
+
+O relatório então é submetido ao plenário da CMO para votação. Aprovado o
+relatório, os Projetos de lei são enviados ao plenário do Congresso Nacional onde será
+novamente votado pelas duas Casas (todos os Deputados e todos os Senadores) na forma do
+
+Regimento Comum.
+
+O fluxo apresentado a seguir ilustra o processo de tramitação das Leis orçamentárias
+no Congresso Nacional:
+32
+
+Figura 1 — Tramitação das Leis orçamentárias no Congresso Nacional
+
+Designação Criação de comissão para Apresentação do
+
+do Relator
+
+Envio da
+Mensagem
+Presidencial ao
+CN
+
+Leitura da
+Mensagem em
+sessão do Senado
+
+Publicação e
+distribuição de cópias
+dos PLs aos
+parlamentares
+
+Envio dos PLs à
+cMo
+
+assessoramento do
+relator*
+
+Realização de
+Audiências**
+
+Apresentação,
+publicação e distribuição
+do Relatório Preliminar
+
+Emendas ao
+Relatório
+Preliminar
+
+Votação do
+Relatório Preliminar
+na CMO
+
+ 
+
+* A comissão será criada a critério do relator.
+
+ 
+
+Parecer do
+Relator
+
+Emendas
+aos PLs
+
+Análise de
+admissibilidade
+
+Votação do
+Relatório
+
+Encaminhamento do
+relatório com o PL ao
+Congresso para
+votação conjunta.
+
+** Com ministros ou representantes dos órgãos de Planejamento, Orçamento e Fazenda do Poder Executivo
+e representantes órgãos e entidades integrantes das áreas temáticas.
+
+***Depreende-se do art. 25 da Res. 01/2006-CN que o processo de emendamento do relatório preliminar
+não está sujeito ao Comitê de A dmissibilidade de Emendas (CA E).
+
+**** Realizado pelo CAE e pelo Relator;
+33
+
+3.4 influência do Executivo na fase de elaboração no congresso
+
+Embora legalmente o Executivo não tenha poderes para influenciar no processo de
+apreciação e votação dos projetos de leis orçamentárias no Congresso, a relatoria destes
+projetos é sempre delegada a algum membro da base aliada. O Poder Executivo premia a
+disciplina e a cooperação dos relatores-gerais e presidentes da CMO com cargos importantes
+na hierarquia da administração pública federal ou da hierarquia legislativa.”
+
+Dessa forma, muitos filtros ao processo de emendamento são inseridos pelo relator
+no parecer preliminar que norteará a apresentação das emendas e os limites a serem
+
+observados.
+
+3.5 Fase de execução — predominância do Executivo
+
+Na fase de execução do PPA e do Orçamento a predominância é do Executivo. No
+caso do PPA, a evolução das metas é analisada anualmente, através de processo de
+monitoramento e avaliação. Destes processos são elaborados relatório de avaliação que é
+enviado ao Congresso. Anualmente, o Executivo avalia se há a necessidade revisão do Plano,
+
+com a necessidade ou não de envio de projeto de lei de revisão ao Congresso.
+
+No que diz respeito ao Orçamento, a execução é mais complexa. Resumidamente, o
+Executivo, em geral edita decreto de contingenciamento, elabora o cronograma de execução
+das despesas e libera o empenho dos recursos ao longo do ano. Ao Legislativo, são
+apresentados relatórios bimestrais de execução orçamentária e a prestação de contas anuais.
+
+23 PEREZINO, Luiz Fernando de Mello. A preponderância do poder Executivo no processo orçamentário, p. 14.
+34
+
+CAPÍTULO 4 — Os princípios da separação dos poderes e de freios e contrapesos nas
+
+relações orçamentárias
+
+A separação dos poderes se configura na limitação imposta ao poder político no
+exercício de suas atividades. Além da separação dos poderes, o controle, acompanhamento e
+fiscalização dos gastos públicos são também pressupostos de regimes republicanos e
+democráticos. Da junção da separação dos poderes com a necessidade de se ter controle e
+transparência da atuação dos govemnantes surgiu a noção orçamentos públicos, no caso desse
+trabalho, em particular, as Leis orçamentárias. Tal noção está intrinsecamente ligada à ideia
+de limitação, portanto, indissociável dos princípios de separação dos poderes e de freios e
+contrapesos.
+
+Contudo, antes de tratar de separação de poderes em matérias orçamentárias, é
+preciso avaliar como os princípios da separação dos poderes e de freios e contrapesos
+evoluíram, tanto doutrinária quanto constitucionalmente, sem perder de vista os aspectos
+dessa evolução que dizem respeito aos gastos públicos. Como os dados a serem analisados no
+próximo capítulo dizem respeito ao PPA em vigor e ao Orçamento de 2012, a análise final
+
+será lastreada por concepções contemporâneas dos princípios em questão.
+
+4,1 -A evolução da separação dos poderes
+
+A ideia de separação dos poderes remonta à antiguidade clássica. É da constituição
+mista de Aristóteles que se extrai a afirmação. O conceito de balanceamento e equilíbrio das
+classes que compunham a sociedade da época também induz à associação de que a teoria dos
+
+controles recíprocos remonta às formas de governo propostas pelo autor grego.
+
+(...) Constituição mista, para Aristóteles, será aquela em que os vários grupos ou
+classes sociais participam do exercício do poder político, ou aquela em que o
+exercício da soberania ou o governo, em vez de estar nas mãos de uma única parte
+constitutiva da sociedade, é comum a todas. A constituição mista atende, antes de
+mais, às desigualdades e diversidades existentes na sociedade com o objectivo de as
+compor na orgânica constitucional, de tal maneira que nenhuma classe adquira a
+preponderância sobre a outra. Neste sentido, constituição mista não é mais do que
+um sistema político-social pluralmente estruturado.
+
+A noção de constituição mista grega, com as devidas adaptações, foi utilizada pelos
+
+romanos, com uma ligeira diferença de que entre estes, cada classe social apenas tem acesso
+
+2 PIÇARRA, Nuno. A separação dos poderes como doutrina e princípio constitucional — um contributo para o
+estudo das suas origens e evolução, p. 31-33.
+35
+
+ao órgão constitucional que lhe é destinado. Antes do desenvolvimento das instituições
+representativas inglesas, consideradas como precursoras da separação moderna dos poderes, a
+tradição da constituição mista foi utilizada na Idade Média para defender a limitação do poder
+real.
+
+A doutrina da separação dos poderes mais próxima da que se conhece hoje surgiu na
+Inglaterra, no século XVII, diretamente ligada à ideia do que viria a ser o Estado
+Constitucional ou de Direito, o qual tem como um dos elementos essenciais a separação dos
+poderes. Surgiu, portanto, em um contexto em que a vontade do soberano era tida como do
+Estado. Dessa forma, o soberano poderia incorrer em tributação e em despesas sem que
+houvesse qualquer autorização do parlamento ou da sociedade. A concentração excessiva de
+poderes estatais em um só poder (o rei) levou a arbitrariedades e a abusos de poder.
+
+Com efeito, observava-se em quase toda a Europa continental, sobretudo em França,
+a fadiga resultante do poder político excessivo da monarquia absoluta, que pesava
+sobre todas as camadas sociais interpostas entre o monarca e a massa de súditos. (...)
+Todos os pressupostos estavam formados, pois, na ordem social, política e
+econômica a fim de mudar o eixo do Estado modemo, da concepção doravante
+retrógrada de um rei que se confundia com o Estado no exercício do poder absoluto,
+para a postulação de um ordenamento político impessoal, concebido segundo as
+
+doutrinas de limitação do poder, mediante as formas liberais de contenção da
+autoridade e as garantias jurídicas da iniciativa econômica.?
+
+Da intolerância com as práticas absolutistas da época desenvolveu-se,
+sistematizadamente, a noção modema de separação dos poderes como técnica de limitação do
+poder, e que tem em Locke e Montesquieu seus principais autores.
+
+Tanto Locke quanto Montesquieu identificavam a separação dos poderes com o
+Estado Constitucional ou de Direito (rule of law). Para o primeiro, a separação era pré-
+requisito para a rule of law, uma vez que para que a lei fosse imparcialmente aplicada seria
+necessário que os aplicadores não fossem os mesmos a fazê-la.” Montesquieu por sua vez,
+afirmava que “estaria tudo perdido se um mesmo homem, ou um mesmo corpo de principais
+ou nobres, ou do Povo, exercesse estes três poderes: o de fazer as leis; o de executar as
+resoluções públicas; e o de julgar os crimes ou as demandas dos particulares”.”
+
+2? BONAVIDES, Paulo. Ciência Política, p.134-136
+2º PIÇARRA, Nuno. A separação dos poderes como doutrina e princípio constitucional — um contributo para o
+estudo das suas origens e evolução, p. 71.
+
+” MONTESQUIEU. Do espírito das leis, p.167-168.
+36
+
+O temor à concentração de poder nas mãos do soberano acabou levando os modelos
+de separação dos poderes até então a favorecer a tirania do Legislativo. Foram os federalistas
+americanos que aprimoraram a doutrina da separação, de tal forma que se mitigasse a
+supremacia do Legislativo, conferindo equilíbrio à relação entre os poderes (a solução
+encontrada foi conferir mais poderes ao Executivo).
+
+Para manter a separação dos poderes, que todos assentam ser essencial à manutenção
+da liberdade, é de toda necessidade que cada um deles tenha uma vontade própria; e,
+por consegiência, que seja organizado de tal modo que aqueles que o exercitam
+
+tenham a menor influência possível na nomeação dos depositários dos outros
+poderes.
+
+4,2- A evolução dos freios e contrapesos
+
+Assim como a separação dos poderes, o sistema de freios e contrapesos remonta
+modernamente à Inglaterra e, remotamente, às formas de governo aristotélicas. O modelo
+inglês dizia respeito ao equilíbrio entre a Câmara dos Lordes e a Câmara dos Comuns.
+Portanto, surgiu no interior do próprio poder Legislativo, como um controle interno, “a fim de
+evitar que leis demagogas, ou formuladas pelo impulso momentâneo de pressões populares
+fossem aprovadas”.” Identifica-se também no modelo inglês o veto e o impeachment como
+mecanismos de controle e equilíbrio entre os poderes. No primeiro, a noção é de cooperação e
+aperfeiçoamento do processo Legislativo. Consistia na oposição do rei de que uma legislação
+aprovada pelo parlamento entrasse em vigor. O rei não mais legisla, mas possui como
+mecanismo de controle do parlamento o poder de negação. No caso do impeachment, é o
+parlamento quem controla os atos Executivos dos ministros do rei. O Parlamento não executa,
+
+mas controla o exercício da função executiva.”
+
+Novamente foram os americanos quem aprimoraram o mecanismo dos controles
+recíprocos. Para eles, a radical estratificação das funções de Estado deveria dar lugar à
+interação, posto que a partir da colaboração toma-se possível a instituição de mecanismos de
+controle entre os próprios poderes, contando-se resultados positivos para o sistema político.
+
+28 HAMILTON, Alexander; MADISON, James; JAY, John. O federalista, p.130.
+
+2 MALDONADO, Maurílio. Artigo - Separação dos poderes e sistema de freios e contrapesos:
+desenvolvimento no estado brasileiro, p. 16.
+
+* Tdem, p.17
+37
+
+Essa é a noção de freios e contrapesos mais aceita atualmente e também a que
+justifica a atuação do Legislativo na fiscalização da execução das despesas realizadas pelo
+Executivo na consecução das políticas públicas e dos programas de governo. Da mesma
+forma, justifica o veto do Executivo àquelas emendas parlamentares que operam modificações
+no PPA ou no Orçamento. Portanto, o modelo de controle recíproco baseado nos freios e
+contrapesos é decorre do desenvolvimento do princípio da separação dos poderes e dos
+
+ambientes democráticos.
+
+43 — A separação dos poderes e os freios e contrapesos enquanto princípio
+
+Constitucional no Brasil
+
+Desde o império o princípio da separação dos poderes já vigia nas constituições
+brasileiras. Porém, embora constasse do texto constitucional, até a República tal separação era
+meramente formal, uma vez que a supremacia do imperador (poder moderador) sobre os
+demais poderes era nítida. No império, o imperador era o “Chefe supremo da Nação, e seu
+Primeiro Representante, para que incessantemente vele sobre a manutenção da independência,
+equilibrio, e harmonia dos mais Poderes Políticos”.” Portanto, essa primeira aparição da
+separação dos poderes foi mitigada pela existência do poder moderador, que desequilibrou
+
+completamente a relação entre os poderes.
+
+Contudo, já na carta de 1824 é possível notar a ideia de interpenetração, equilíbrio e
+harmonia dos poderes e sua importância como técnica de limitação do poder em benefício da
+liberdade individual.”
+
+As constituições republicanas sofreram influência da doutrina norte-americana no
+que diz respeito à repartição de competência entre os poderes e ao equilíbrio esperado. Em
+todo o período democrático republicano, estes princípios estiveram presentes, tendo a
+Constituição de 1937, outorgada por Getúlio Vargas, silenciado quanto a tais princípios, a
+competência repartida entre os poderes no período de vigência desta Carta, foi meramente
+formal. Da mesma forma se procedeu durante os períodos de ditadura.
+
+A Constituição de 1988 não inova, reafirmando a necessidade de independência e
+
+harmonia entre os poderes. Embora não tenha inovado, há quem entenda que o princípio da
+
+*! Constituição Política do Império do Brazil de 1824, art. 98
+“2 SOARES DE PINHO, A. P. Freios e Contrapesos do Govemo na Constituição Brasileira, p. 27-28
+38
+
+separação dos poderes resta fortalecido com a promulgação da Magna Carta de 1988, isso
+porque:
+
+(...) através da compreensão da necessidade de equilíbrio, independência e harmonia
+entre os poderes, admitindo-se, inclusive a interferência entre eles, ganha força a
+idéia de controle e vigilância recíprocos de um poder sobre o outro relativamente ao
+cumprimento dos deveres constitucionais de cada um. Aí estão presentes os
+elementos essenciais caracterizadores do moderno conceito do princípio da
+separação dos poderes.”
+
+4.4 Visão contemporânea da separação dos poderes
+
+A teoria da separação dos poderes, tal qual concebida classicamente, advinha de uma
+intenção de se reduzir ao mínimo a atuação estatal. Foi, portanto, construída em um contexto
+dominado pelo liberalismo, contexto este não mais condizente com as novas funções
+assumidas pelo Estado a partir da crise do Estado Liberal e da conformação do Estado Social.
+
+A experiência contemporânea observa um afastamento da noção de separação
+estratificada dos poderes e aproximação a uma rotina de constante interação funcional entre os
+poderes. Assim, da noção de especialização funcional de cada poder, prega-se a cooperação
+funcional entre eles. Tal mudança de paradigma decorre, sobretudo, do advento do Estado
+Social, o qual incorreu em substancial ampliação das atividades estatais, impondo novas
+formas de relacionamento entre Executivo e Legislativo, com reflexo na concepção de
+
+separação dos poderes.
+
+Assim, a teoria da separação dos poderes teve que passar por uma revisão, através da
+ampliação de seus conceitos e da sua adaptação à realidade sócio-política, permanecendo nas
+Constituições democráticas a ideia de colaboração de poderes. A colaboração entre os poderes
+do Estado tomou-se possível através de técnicas que coadunaram a autonomia organizacional
+de cada poder com a possibilidade de intercomunicação de funções, desempenhadas
+
+sistematicamente em cooperação mútua.”
+
+É o que defende José Afonso da Silva:
+
+* MAURÍLIO MALDONADO. Artigo - Separação dos poderes e sistema de freios e contrapesos:
+desenvolvimento no Estado brasileiro, p. 19.
+
+* BARBOSA, Marília Costa. Artigo - Revisão da Teoria da Separação dos Poderes do Estado, p. 11.
+39
+
+Se ao Legislativo cabe a edição de normas gerais e impessoais, estabelece-se um
+processo para sua formação em que o Executivo tem participação importante, quer
+pela iniciativa das leis, quer pela sanção e pelo veto. Mas a iniciativa legislativa do
+Executivo é contra-balanceada pela possibilidade que o Congresso tem de
+modificar-lhe o projeto por via de emendas e até de rejeitá-lo. Tudo isso demonstra
+que os trabalhos do Legislativo e do Executivo, especialmente, mas também do
+Judiciário, só se desenvolverão a bom termo, se esses órgãos se subordinarem ao
+princípio da harmonia, que não significa nem o domínio de um pelo outro nem a
+usurpação de atribuições, mas a verificação de que, entre eles, há de haver
+consciente colaboração e controle recíproco (que, aliás, integra o mecanismo), para
+evitar distorções e desmandos. *
+
+Portanto, de um paradigma voltado para o equilíbrio de forças entre os poderes, para
+a limitação do poder, com o estabelecimento de competências rígidas e especializadas, a
+teoria da separação dos poderes passa a admitir que o relacionamento entre os órgãos de poder
+do Estado obedece ao princípio da harmonia e que o Estado só funciona bem quando as suas
+atividades fundamentais são exercidas por poderes distintos em colaboração, buscando como
+principal objetivo a garantia do bem-estar da coletividade.
+
+4.5 A separação dos poderes e os freios e contrapesos em matéria orçamentária
+
+Dentro da perspectiva de cooperação e harmonia entre os poderes, além,
+evidentemente, da necessidade dos controles recíprocos, foi estabelecida a dinâmica da
+relação entre os poderes em matéria de Leis orçamentárias. A primeira faceta dessa dinâmica
+diz respeito à autonomia de cada poder de elaborar os seus orçamentos, uma vez que a
+característica de elaborar planos é inerente ao Executivo. Dessa forma, estabelece o
+ordenamento constitucional que cada um dos poderes elaborará seus orçamentos, dentro dos
+limites estabelecidos pela LDO e os enviará ao Executivo, o qual está incumbido de
+consolidar as propostas no projeto de lei e enviá-lo para a apreciação do Congresso Nacional.
+
+A Segunda faceta refere-se à decisão alocativa das despesas estatais. Nesse ponto, o
+ordenamento estabelece que tanto Executivo quanto Legislativo têm legitimidade para atuar
+no processo. A dimensão da intervenção de cada um, especialmente na fase de elaboração é
+que não está bem delimitada, havendo, dentro do horizonte de cooperação e harmonia entre os
+poderes, espaço para uma atuação mais qualificada do Legislativo no momento em que os
+planos e programas são eleitos pelo Executivo para receberem recursos estatais.
+
+* SILVA, José Afonso da. Curso de direito constitucional positivo. pp. 110-111
+40
+
+No que diz respeito ao controle, é do Legislativo a atribuição de fiscalizar a
+regularidade da execução dos planos e programas aprovados pelo Congresso, bem como das
+despesas autorizadas nos Orçamentos Anuais. Ao Executivo cumpre prestar contas do que foi
+
+executado.
+41
+
+CAPÍTULO 5 - Análise e avaliação dos dados do PPA e do Orçamento
+
+Dentro da perspectiva contemporânea de separação dos poderes, adotando-se os
+pressupostos da harmonia, cooperação, equilíbrio e controles recíprocos entre os poderes
+Executivo e Legislativo, na formulação das Leis orçamentárias, passa-se à análise do
+comportamento Legislativo em relação ao Programa Planejamento Urbano constante do PPA
+2012-2015 e da estrutura programática do Orçamento 2012.
+
+Mas antes de analisar os dados, convém esclarecer a estrutura do PPA federal vigente
+e como as diretrizes, objetivos e metes dessa peça se relacionam com o Orçamento e se
+
+refletem nas despesas estatais.
+
+O atual PPA está dividido em programas temáticos, tais programas foram
+organizados em objetivos, os quais são detalhados em metas e iniciativas. Cada programa
+apresenta um valor global, não sendo seus objetivos, metas e iniciativas valorados, exceção às
+iniciativas que representam grandes empreendimentos. Dessa forma, não é possível
+acompanhamento físico-financeiro no Plano dos programas ou dos seus elementos
+constitutivos.
+
+Como o modelo orçamentário adotado no âmbito federal é o orçamento programa, a
+estrutura programática do Orçamento utiliza a mesma nomenclatura dos programas utilizados
+no PPA. Dessa forma, Um programa temático do PPA terá a mesma nomenclatura e códigos
+identificadores no Orçamento. Como a Constituição estabelece que as Leis orçamentárias
+devem se relacionar, esse relacionamento se dá através das iniciativas do Plano e as ações
+orçamentárias constantes do Orçamento. Assim, o volume II da Lei Orçamentária de 2012,
+traz esta relação.
+
+Figura 2 — amostra de Iniciativa com as respectivas ações orçamentárias de
+Programa do PPA 2012-2015.
+42
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+Programas Temáticos R$ 1,00
+LDO 2012, Anexo I, Inciso XIV Recursos de todas as Fontes
+Programa: 2054 Planejamento Urbano Valor do Programa Constante no PLOA: 2.332.638.676
+Iniciativa:
+o2p4 For stao municipal e tr
+Ação Título Valor
+1D73 Apoio à Política Nacional de Desenvolvimento Urbano 2.244.092.646
+56101 2.244.892.646
+20NP Aprimorar O Sistema Nacional de Informações das Cidades e Estruturar o 1.000.000
+Observatório das Cidades 56101 -Ministério das Cidades 2.000.000
+20NQ Serviço de Atendimento à Sociedade, aos Entes Federados e Outros
+Interessados 56101 -Mi
+4055 Suporte e Aprimoramento da Política Nacional de Desenvolvimento Urbano
+€10 dades
+4420 Conselho das Cidades
+6101 -Ministério das Cidades
+7830 Construção de Pontes Urbanas em Municípios do Litoral do Estado da Bania 2.500.000
+56101 28.500.000
+7833 Construção e Duplicação de Pontes Urbanas em Municípios do Estado de 32.947.125
+Tocantins sE101 - 32.947.125
+8872 Apoio à Capacitação de Gestores e Agentes Sociais para O Desenvolvimento 710.000
+Urbano por meio do Programa Nacional de Capacitação das Cidades se103 -Min 710.000
+
+ 
+
+ 
+
+ 
+
+Fonte: Volume 2 da Lei do Orçamento de 2012, extraído do site do Ministério do Planejamento
+(www.planejamento.gov.br) em 02/07/2013.%
+
+O processo de elaboração de cada uma dessas peças orçamentárias segue fases
+semelhantes: são elaboradas pelo Executivo e aprovadas pelo Legislativo. Portanto, as
+possibilidades de atuação dos atores em cada uma delas também são semelhantes, inclusive
+quanto à proposição de emendas parlamentares e de veto presidencial. Entretanto, dadas as
+peculiaridades do PPA (ser instrumento de planejamento de médio prazo, ter prazo de
+vigência de quatro anos, não possibilitar o acompanhamento físico-financeiro dos programas,
+com seus respectivos atributos ou do alcance de objetivos, iniciativas ou metas advindas de
+emendas parlamentares antes do fim do prazo de vigência), a análise da influência da
+elaboração e execução das Leis orçamentárias nos princípios da separação dos poderes e dos
+freios e contrapesos será efetuada a partir do Orçamento.
+
+Dessa maneira, foram analisadas informações orçamentárias relativas à elaboração e
+execução do programa temático “Planejamento Urbano”, primeiramente do ponto de vista da
+coordenação entre os poderes na fase de elaboração e, em seguida, do ponto de vista da
+execução das emendas parlamentares ao programa referido. Devido à magnitude das
+informações orçamentárias, apenas a execução das emendas parlamentares de uma unidade da
+
+38 A parte do referido volume da LOA está em anexo ao final do trabalho.
+
+ 
+43
+
+federação será apresentada, além disso, será apresentado um balanço consolidado da execução
+de todas as emendas parlamentares ao Orçamento 2012.
+
+O primeiro nível de análise demonstra a ausência de coordenação entre Executivo e
+Legislativo na delimitação dos valores das despesas a serem executadas no exercício seguinte.
+A ausência de coordenação é demonstrada pela discrepância do valor proposto pelo Executivo
+no Projeto de lei para a ação orçamentária nas figuras 3 e 4 abaixo e o valor resultante do
+processo de emendamento parlamentar no Congresso. O valor proposto pelo Executivo (R$
+4.095.000) foi alterado pelo Congresso em mais de quinhentas vezes (R$ 2.244.042.646).
+
+Figura 3 — amostra de proposta de dotação orçamentária enviada pelo Executivo ao
+
+Congresso.
+
+ 
+
+ 
+
+Valor do Programa Constante no PLOA: 18.043.905
+órgão:
+
+Fortalecer a gestão municipal e interfederativa para o desenvolvimento urbano integrado e com 56000 - Ministério das Cidades
+
+participação social.
+
+Iniciativa:
+
+ 
+
+ 
+
+ 
+
+Fortalecimento da gestão municipal e interfederativa para o desenvolvimento urbano integrado e com participação social
+rESS US Unidade Orçamentária
+
+D73 Apoio à Política Nacional de Desenvolvimento Urbano]
+
+ 
+
+58101- Ministério das Cidades
+
+ 
+
+ 
+
+ 
+
+Fonte: volume 2 do Projeto de lei do Orçamento 2012, extraído do site do Ministério do Planejamento
+(www.planejamento.gov.br) em 02/07/2013.
+
+Figura 4 — amostra de ação orçamentária na Lei Orçamentária sancionada, após a
+apreciação pelo congresso.
+
+ 
+
+Programas Temáticos R$ 1,00
+
+LDO 2012, Anexo I, Inciso XIV Recursos de todas as Fontes
+
+ 
+
+ 
+ 
+ 
+
+    
+
+valor do Programa Constante no PLOA: 2.332.630.676
+
+ 
+
+Iniciativa:
+
+ 
+
+to da gestao municipal
+
+ 
+
+ido e com participação soctal
+
+ 
+
+1D73 Apoio à Política Nacional de Desenvolvimento Urbano
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Volume 2 da Lei do Orçamento de 2012, extraído do site do Ministério do Planejamento
+(www.planejamento.gov.br) em 02/07/2013.
+
+O segundo nível de análise diz respeito à execução das despesas incluídas no
+Orçamento através das emendas parlamentares. O pressuposto dessa análise é, partindo da
+concepção de que o Orçamento é autorizativo e que a lei orçamentária é lei meramente
+formal, o uso que o Executivo faz da possibilidade de executar ou não as dotações incluídas
+nos orçamentos pelo Congresso. Como dito acima, será analisada a execução das emendas
+44
+
+parlamentares no programa “Planejamento Urbano” em uma unidade da federação, além de da
+análise consolidada, por partido político, da execução das emendas ao Orçamento como um
+todo.
+
+A tabela 1 abaixo apresenta a totalidade das emendas aprovadas pelo Congresso
+sobre o programa Planejamento Urbano no Estado da Bahia e a sua execução ou não. Para a
+determinação de que certa emenda foi executada, considerou-se o empenho da despesa, que
+nada mais é que a autorização para a unidade orçamentária executar a despesa. A partir desse
+pressuposto, chegou-se a um percentual da execução das emendas parlamentares pelo
+Executivo no programa em questão, na referida unidade da federação. Entretanto, o empenho
+de determinada despesa não assegura que a ela será liquidada e paga. Assim, uma vez
+empenhada, a despesa pode ser inscrita em restos a pagar do exercício e, caso não seja
+
+liquidada, ser cancelada ao término do exercício seguinte.
+
+Tabela 1 — empenho de ações orçamentárias oriundas de emendas parlamentares
+sobre o programa Planejamento Urbano no Estado da Bahia.
+
+AÇÕES ORÇAMENTÁRIAS EMENDA EMPENHO
+
+1 APOIO À POLÍTICA NACIONAL DEDESENVOLVIMENTO URBANO - AÇÕES DE
+
+INFRAESTRUTURA URBANA - ARAÇAS — BA 600.000
+2 APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+
+INFRAESTRUTURA URBANA EM MUNICÍPIOS - ESTADO DA BAHIA (38 emendas) 113.830.000 71.660.390
+3 APOIO A PROJETOS DE SISTEMAS DE TRANSPORTE COLETIVO URBANO - OBRAS E AÇÕES
+
+DE APOIO A MOBILIDADE URBANA EM MUNICÍPIOS - ESTADO DA BAHIA 300.000 300.000
+4 APOIO A PROJETOS DE SISTEMAS DE CIRCULAÇÃO NÃO-MOTORIZADOS - IMPLANTAÇÃO
+
+DE SISTEMAS DE CIRCULAÇÃO NÃO-MOTORIZADA EM MUNICÍPIOS - ESTADO DA BAHIA 3.900.000 1.300.000
+5 APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+
+INFRAESTRUTURA URBANA NO DISTRITO DO PROJETO FORMOSO - BOM JESUS DA LAPA
+
+-BA 100.000
+6 APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE 1.000.000
+
+INFRAESTRUTURA URBANA - CACHOEIRA — BA 1.000.000
+7 APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+
+INFRAESTRUTURA URBANA — CAFARNAUM — BA 500.000
+8 APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+
+INFRAESTRUTURA URBANA — CALDEIRÃO GRANDE — BA 500.000
+9 APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+
+INFRAESTRUTURA URBANA — CALDEIRÃO GRANDE — BA 500.000
+10 APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+
+INFRAESTRUTURA URBANA - CANDEIAS — BA 200.000
+11 APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+
+INFRAESTRUTURA URBANA — CANSANÇÃO — BA 400.000 400.000
+12 APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+
+INFRAESTRUTURA URBANA — CAPIM GROSSO — BA 600.000 600.000
+13 APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+
+INFRAESTRUTURA URBANA — CATOLÂNDIA — BA 200.000
+14 APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+
+INFRAESTRUTURA URBANA — DOM MACEDO COSTA — BA 200.000
+45: APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+
+INFRAESTRUTURA URBANA - FEIRA DE SANTANA — BA 2.700.000
+16 SERVIÇO DE ATENDIMENTO À SOCIEDADE, AOS ENTES FEDERADOS E OUTROS
+
+INTERESSADOS — IMPLANTAÇÃO DO POSTO DE SERVIÇO DE ATENDIMENTO AO CIDADÃO
+
+(SAC) - GUANAMBI — BA 1.750.000
+17 APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+
+INFRAESTRUTURA URBANA - IBICARAÍ — BA 1.000.000
+18 CONSTRUÇÃO DE PONTES URBANAS EM MUNICÍPIOS DO LITORAL DO ESTADO DA BAHIA
+
+- CONSTRUÇÃO DE PONTE EM ILHÉUS — BA 28.500.000
+
+ 
+19
+
+20
+
+21.
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+INFRAESTRUTURA URBANA - ITAPETINGA — BA
+
+APOIO À IMPLANTAÇÃO, AMPLIAÇÃO OU MELHORIAS DE SISTEMAS DE ESGOTAMENTO
+SANITÁRIO EM MUNICÍPIOS COM POPULAÇÃO SUPERIOR A 50 MIL HABITANTES OU
+MUNICÍPIOS INTEGRANTES DE REGIÕES METROPOLITANAS OU DE REGIÕES INTEGRADAS
+DE DESENVOLVIMENTO. - SISTEMAS DE ESGOTOS SANITÁRIOS NO BAIRRO CATUABA -
+
+JACOBINA — BA
+
+APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+INFRAESTRUTURA URBANA - JUSSIAPE — BA
+
+APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+INFRAESTRUTURA URBANA - MANSIDÃO — BA
+
+APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+INFRAESTRUTURA URBANA — MONTE SANTO — BA
+
+APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+INFRAESTRUTURA URBANA — MORTUGABA — BA
+
+APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+INFRAESTRUTURA URBANA - MUCURI — BA
+
+APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+INFRAESTRUTURA URBANA - MURITIBA — BA
+
+APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+INFRAESTRUTURA URBANA — NOVA SOURE — BA
+
+APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+INFRAESTRUTURA URBANA — NOVO TRIUNFO — BA
+
+APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+INFRAESTRUTURA URBANA — PORTO SEGURO — BA
+
+APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+INFRAESTRUTURA URBANA - SALVADOR — BA
+
+APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+INFRAESTRUTURA URBANA — SANTO ANTÔNIO DE JESUS — BA
+
+APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+INFRAESTRUTURA URBANA — SÃO SEBASTIÃO DO PASSÉ — BA
+
+APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+INFRAESTRUTURA URBANA - SENTO SÉ — BA
+
+APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+INFRAESTRUTURA URBANA - SÍTIO DO QUINTO — BA
+
+APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+INFRAESTRUTURA URBANA - TABOCAS DO BREJO VELHO — BA
+
+APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+INFRAESTRUTURA URBANA — TEOFILÂNDIA — BA
+
+APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+INFRAESTRUTURA URBANA - VALENÇA — BA
+
+APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+INFRAESTRUTURA URBANA - VÁRZEA DO POÇO — BA
+
+APOIO À POLÍTICA NACIONAL DE DESENVOLVIMENTO URBANO - AÇÕES DE
+INFRAESTRUTURA URBANA - VITÓRIA DA CONQUISTA — BA
+
+45
+
+500.000
+
+250.000 250.000
+
+500.000
+
+300.000
+
+600.000
+
+600.000
+
+700.000
+
+500.000
+
+250.000
+
+600.000
+
+700.000
+
+3.000.000
+
+200.000
+
+480.000
+
+700.000 700.000
+
+600.000
+
+250.000
+
+1.250.000
+
+400.000
+
+500.000
+
+2.000.000
+
+ 
+
+ 
+
+TOTAL
+
+171.660.000 76.210.390
+
+Fonte: Elaboração própria com base em dados do SIGA/SIA FI/SIOP/SELOR. Universo: LOA 2012 - Despesa
+Execução. Acesso em 30/06/2013.
+
+As ações orçamentárias da tabela acima resultaram de um total de 79 emendas
+
+parlamentares aprovadas. Destas, apenas 45 tiveram valores empenhados total ou
+
+parcialmente. Sendo que a maior parcela dessas emendas empenhadas total ou parcialmente
+
+(38) fazia parte da ação orçamentária de número 2 na tabela acima.
+
+Gráfico 1 — Relação entre as emendas aprovadas no Congresso e as emendas que
+
+tiveram algum valor empenhado pelo Executivo. Dados relativos ao programa Planejamento
+Urbano no Estado da Bahia.
+46
+
+ 
+
+E QUANTIDADE DE
+EMENDAS
+
+E EMENDAS EXECUTADAS
+
+ 
+
+QUANTIDADE DE EMENDAS
+EMENDAS EXECUTADAS
+
+ 
+
+ 
+
+ 
+
+Fonte: Elaboração própria com base em dados do SIGA/SIA FI/SIOP/SELOR. Universo: LOA 2012 - Despesa
+Execução. Acesso em 30/06/2013.
+
+Gráfico 2 — Valor total das emendas entre as emendas aprovadas no Congresso e as
+emendas que tiveram algum valor empenhado pelo Executivo. Dados relativos ao programa
+Planejamento Urbano no Estado da Bahia.
+
+ 
+
+200.000.000
+
+150.000.000
+
+100.000.000 76.310.39 Em VALOR DAS EMENDAS
+
+E EMPENHO
+
+50.000.000
+
+0
+VALOR DAS EMPENHO
+EMENDAS
+
+ 
+
+Fonte: Elaboração própria com base em dados do SIGA/SIAFI/SIOP/SELOR. Universo: LOA2012 - Despesa
+Execução. Acesso em 30/06/2013.
+
+Até aqui, percebe-se que o Executivo empenhou despesas em cerca de 57% do total
+das emendas nominalmente aprovadas. Mas quando o dado a ser considerado é o valor do
+grupo de emendas, esse percentual cai para cerca de 44%.
+
+Gráfico 3 - Dotações orçamentárias totais do programa Planejamento Urbano no
+Estado da Bahia.
+ 
+
+ 
+
+30.000.000.000 +
+25.000.000.000
+20.000.000.000
+15.000.000.000
+10.000.000.000
+
+5.000.000.000
+
+ 
+
+0
+
+ 
+
+E Dotação Inicial
+
+E Autorizado
+
+m Empenhado
+E Liquidado (Subelemento)
+
+E Pago
+
+ERP Pago
+
+ 
+
+ 
+
+47
+
+Fonte: Elaboração própria com base em dados do SIGA/SIA FI/SIOP/SELOR. Universo: LOA 2012 - Despesa
+Execução. Acesso em 30/06/2013.
+
+Já sobre as dotações totais previstas para o programa no mesmo estado, considerando
+
+a as dotações aprovadas pelo legislativo, resultante da proposta inicial do Executivo e das
+
+emendas parlamentares, o empenho foi de cerca de 85% dos valores autorizados.
+
+Quando a execução das emendas aprovadas é considerada por partido e no universo
+
+de programas que compõem o Plano e o Orçamento os valores variam a depender da posição
+
+do partido em relação ao govemo. A tabela 2 e o gráfico 3 abaixo trazem estas informações,
+
+além da demonstração de que os percentuais de execução caem sensivelmente quando se
+
+considera os valores pagos ou inscritos em restos a pagar.
+
+Tabela 2 — Execução orçamentária por partido político
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ão Orçame o do e E das po das d - io EXE
+a Valordas — poraçã Empenho Restosa Restosa so lEserci % Pago
+Partido | Emendas emendas iicial Autorizado | Empenhado  “mRITIIdO Liquidado Pago Pagar Pagar Eid ido (Exerciciosnp)|
+individuais Pt Inscritos” Pagos” Valor Emendas:
+DEM 48 42361000 42361000 4296100) 5199152 127% T6G4B2 766.482 0 0 T66.482 181%
+PCdoB 38 12900000 12900000 139000) 7444182 57% 244.189] 244.189 0 0 244.189] 1,89%
+PDT 60 44800000 44800000 45544500] 13779939] 30,76% 13883 1308374 0 0 1308374 2.92%
+PEN 4 1480000 1130000 830.000] 0 0,00% 0 0 0 0 0 0,00%
+PHS 2 580.000 560.000 580.000] 130.000 241% 0 0 0 0 0 0,00%
+PMDB 7  S0436000 S9436000 10163600) 33213353] 3340% 335171 323795 0 0 3237951 3,26%
+PMN 6 8350000 8350000 8350000 24.000 029% 24.000 24.000 0 0 24.000 0,29%
+PP 33 20780000 20780000 2078000) 10480585] 5044%  1ASOI0O 1499300 0 0 1459300 7,22%
+PPS 2 20460000 20460000 199000] 6892021 43,46% S76.963. 676.963 0 0 676.963. 331%
+PR 53 81480000 81480000 741000) 9824125 12,06% 150.000 150.000 0 0 150.000 0,18%
+E 9 TS0000 1950000 199000) 439.960 24% 0 0 0 0 0 0,00%
+PRP 1 100.000 100.000 100.000 0 0,00% 0 0 0 0 0 0,00%
+PSB 85 46615001 46615001 46615001] 16090425] 34,52% 135454 135454 0 0 135454 0,29%
+PSC 18 12170000 12470000 12170000] 4307561 35,39% 0 0 0 0 0 0,00%
+PSD 50 38100000 38100000 3760000) 1725544 45,29% 594.480 473.680 0 0 473.680 1,24%
+PSDB 81 52820000 52920000 5266415] 1209643 22,86% ATEAGA ATE 464 0 0 ATE AGA 0,90%
+PSL 1 600.000 600.000 Er 0 0,00% 0 0 0 0 0 0,00%
+PSOL 27 1080500 10805000 1050500) 1462782 13,54% 0 0 0 0 0 0,00%
+PT 218 154884851 15488485] 159116558) 50304363] 3248%  ATOBBBS 4698606 0 0 4.698.606, 3,03%
+PTB 23 12080000 12080000 1205000) 5409073] 44,76% 299.832. 299.832 0 0 299.832 248%
+PTC 2 450.000 450.000. 510.000] 250.000. 55,56% 0 0 0 0 0 0,00%
+PTdoB 6 A4T5O00  AT50000 475000] 1742448 36,68% 0 0 0 0 0 0,00%
+Pv 24 35471154 35471154 3617115) 1550000 4,37% 7500 7500 0 0 7500 0,02%
+TOTAL 908 703213006 703213006 703823363) 199.895.843 284% 14326555 13997796 0 0 AaS977% 1,99%
+
+ 
+
+“Execução das Funcionais Relativas às Emendas Individuais, por Partido Político. Subtíulos criados no Congresso (PL=0). Exclui funcionais que receberam emendas de autores de mais de um partido. Exclui, ainda, funcionais que receberam.
+emendas Coletivas e de Relator
+
+=* Restos a pagar inscritos em 2012 e pagos no exercício seguinte.
+
+Fonte: Fonte: SIGA/SELOR/SIDOR/SIAFI. Universo: LOA 2012 - Despesa Execução.
+48
+
+Gráfico 4 — Relação de dotações orçamentárias empenhadas/pagas provenientes das
+emendas parlamentares por partido político.
+
+PAD
+
+ 
+
+Execução Orçamentária, por Partido Político, das funcionais criadas por emendas de autores individuais do mesmo partido*
+
+60,00%
+
+50,00%
+
+40,00%
+
+30,00%
+
+20,00%
+
+10,00% |
+
+0,00%
+
+ 
+
+“ Empenhado / Valor
+
+E mm é Pago (Exercico+RP)
+Emendas “mendas"”
+
+| Valor Er
+
+“Execução das Funcionais Relativas às Emendas Individuais, por Partido Político. Subtítuios criados no Congresso (PL=0). Exclui funcionais que receberam emendas de autores de mais de um partido. Exclui, ainda, funcionais que receberam
+emendas Coletvas e de Relator.
+** Restos a pagar inscritos em 2012 e pagos no exercício seguinte.
+
+Fonte: Fonte: SIGA/SELOR/SIDOR/SIAFI. Universo: LOA 2012 - Despesa Execução.
+49
+
+CONCLUSÃO
+
+Que a atividade financeira do Estado deva seja racional, que os recursos públicos
+devam ser empregados com planejamento e que as escolhas alocativas sejam realizadas com a
+participação dos atores envolvidos ou alcançados pelas políticas públicas, é provável que
+ninguém se oponha. Essa racionalidade implica alguns papéis relevantes para a ordem
+jurídica. Um destes papéis é o de assegurar os processos decisórios para as escolhas
+orçamentárias sejam realizados de forma democrática. Outro papel é a provisão de meios para
+
+que as escolhas não sejam aleatórias e arbitrárias.
+
+É da essência do Estado de Direito que a ordem jurídica condicione e limite o
+exercício do poder político. Em matéria financeira, os instrumentos jurídicos a serviço da
+ordem jurídica são as Leis orçamentárias. Além disso, as Leis orçamentárias funcionam como
+sede do relacionamento entre os poderes estatais. Esse relacionamento está inscrito pelo
+
+ordenamento constitucional na existência da separação dos poderes e de controles recíprocos.
+
+Portanto, às Leis orçamentárias caberia dar concretude às decisões políticas que
+envolvem o dispêndio de recursos públicos tomadas pelos três Poderes Estatais (O Executivo
+e o Legislativo em particular) no âmbito das suas respectivas competências, além disso,
+caberia também harmonizar as decisões políticas que envolvem os mesmos dispêndios de
+
+recursos públicos, conferindo-lhes alguma visão de conjunto e de harmonia.
+
+Era de se crer que, dados os interesses envolvidos e a dinâmica de surgimento e
+execução dessas leis, que o Plano e o Orçamento aprovado pelo Congresso dessem concretude
+a essas decisões políticas e fossem resultado da coordenação, da cooperação, da harmonia e
+dos controles recíprocos entre os poderes. Isso dentro de um contexto contemporâneo de
+separação dos poderes, em que um poder estatal não prevaleça sobre o outro. A lógica do
+sistema de separação dos poderes é quebrada quando uma estrutura passa a ter poder
+
+discricionário sobre a realização prática das decisões produzidas pelas demais.”
+
+Essa lógica, em matéria orçamentária, é quebrada quando o Legislativo se abstém de
+participar da escolha das políticas que serão objetos de dispêndios públicos em cooperação
+com o Executivo, ocasionando um processo míope de apreciação e emendamento das Leis
+orçamentárias no Congresso, com resultados irreais e descolados de uma percepção nacional
+das políticas públicas e dos programas de govemo ou totalmente dissociada da proposta
+
+*” BARROSO, Luís Roberto (org). A reconstrução democrática do direito público no Brasil. p. 654
+50
+
+enviada pelo Executivo (Tal qual o caso da ação orçamentária 1D73 de apoio à política
+nacional de desenvolvimento urbano, citada no capítulo anterior, cuja dotação proposta pelo
+Executivo foi aumentada em mais de quinhentas vezes pelo Legislativo).
+
+A lógica também é quebrada quando o Executivo, respaldado pelo entendimento de
+que as Leis orçamentárias são autorizativas, pode, mediante decreto e sem justificativa
+adequada, alterar a configuração dos programas e das despesas que foram aprovadas e
+consignadas nas Leis orçamentárias. No caso da Lei Orçamentária, em sua forma atual, o
+Executivo pode ignorar a despesa considerada relevante pela decisão legislativa sem nem
+mesmo motivar seu ato, esvaziando a legalidade orçamentária.
+
+Ao fim e ao cabo, o que se verifica é a prevalência do Executivo sobre o Legislativo
+em matéria orçamentária dando pouca eficácia ao Plano e ao Orçamento como instrumento de
+cooperação e de equilíbrio entre os poderes. Isso devido ao fato de o Executivo concentrar o
+processo decisório acerca das Leis orçamentárias e, principalmente, poder executar ou não as
+despesas autorizadas no Orçamento ou os programas constantes dos planos de acordo com a
+sua conveniência. É o que se pôde inferir da análise dos dados orçamentários no capítulo
+
+anterior.
+
+Essa concentração do processo decisório influi na relação entre os poderes, uma vez
+que, não raro, o Executivo utiliza a liberação de despesas decorrentes de emendas
+parlamentares como moeda de troca para garantir a aprovação de matérias que são do
+interesse daquele poder em épocas que o Congresso as aprecia.” Dessa forma, o Executivo
+
+faz sobrepor seus interesses, influindo na agenda do Legislativo.
+
+Essa influência interfere na autonomia do Legislativo desequilibrando a relação de
+forças entre os poderes, evitando que esse último exerça plenamente sua competência
+fiscalizadora. Dessa forma, a supremacia do Executivo frente ao Legislativo em matérias
+orçamentárias mitigam tanto o princípio da separação dos poderes quanto o de freios e
+contrapesos.
+
+A solução que geralmente é defendida é a adoção do modelo de orçamento
+impositivo. Nesse caso, o Executivo não teria escolha senão executar todas as despesas ou os
+programas aprovados pelo parlamento. Entretanto, essa não parece ser a melhor solução uma
+vez que a própria receita para fazer frente às despesas fixadas no Orçamento ou decorrente
+
+*8 Matérias jornalísticas com esse teor foram anexadas ao final do trabalho a título de exemplificação.
+51
+
+dos programas de govemno está sujeita a contingenciamentos e pode não se realizar. Depois, é
+impossível que todas as necessidades públicas sejam previstas em uma lei e com a
+antecedência de um ano, no caso do Orçamento. Ainda que o planejamento governamental
+tenha feito com qualidade, necessidades públicas podem passar despercebidas, ainda não ter
+se manifestado ou manifestar-se de forma urgente.
+
+Assim, uma solução viável seria o meio termo entre o caráter autorizativo e
+impositivo. Sob esse prisma, seria reconhecida a alguma vinculação ao estabelecido na LOA e
+no PPA, admitindo que o Executivo possa deixar de executar determinada previsão nestas leis
+por desígnio próprio em caso de contingências e urgências, contudo, sendo necessária e
+obrigatória a motivação.
+
+Sob esse prisma, estaria mantida a cooperação e a harmonia entre os poderes, dado
+que o Executivo não mais ignoraria imotivada e irrestritamente o que foi aprovado no
+Congresso em matéria orçamentária, nem o Legislativo se imiscuiria na competência precípua
+do Executivo impondo autoritariamente sua vontade. Do ponto de vista do controle, uma vez
+que o Legislativo não estaria refém da liberação das verbas decorrentes de emendas ao
+
+Orçamento, poderia exercer com isenção e sem pressões sua função fiscalizadora.
+52
+
+BIBLIOGRAFIA
+
+AMES, Barry. 2003. Os entraves da democracia no Brasil. Rio de Janeiro:
+Fundação Getúlio Vargas.
+
+BALEEIRO, Aliomar. Introdução à ciência das Finanças. Rio de J aneiro: Forense,
+2010.
+
+BARBOSA, Marília Costa. Artigo - Revisão da Teoria da Separação dos Poderes
+do Estado. Rev. Cient. Fac. Lour. Filho — v.5, n.1, 2006
+
+BARROSO, Luís Roberto (org). A reconstrução democrática do direito público
+no Brasil. Rio de J aneiro: Renovar 2007.
+
+BI) OS, Paulo Roberto Simão. Direito Orçamentário na Constituição Federal de
+1988. Brasília: Editora Gran Cursos, 2010.
+
+BONAVIDES, Paulo. Ciência Política. São Paulo: Malheiros, 1996.
+BRASIL. Constituição Política do Império do Brazil de 1824.
+
+. Congresso Nacional. Resolução nº 1, de 2006-CN
+
+. Lei 12.593/2012 - Plano Plurianual da União 2012/2015
+
+. Lei 12.465/2011 - Lei de Diretrizes Orçamentárias 2012
+
+. Lei 12.595/2012 - Lei Orçamentária Anual 2012
+
+o Ministério do Planejamento, Orçamento e Gestão. Secretaria de
+Orçamento Federal. Manual técnico de Orçamento MTO. Versão 2012. Brasília,
+2011.
+
+o Ministério do Planejamento Orçamento e Gestão. Secretaria de
+Planejamento e Investimentos Estratégicos. Orientações para a elaboração do
+Plano Plurianual 2015-2015.
+
+o “Senado Federal. Siga Brasil.
+
+CAMPOS, Dejalma de. Direito Financeiro e Orçamentário. São Paulo: Atlas, 2005.
+
+FURTADO, ). R. Caldas. Elementos de Direito Financeiro. Belo Horizonte: Fórum,
+2009
+
+GIACOMONI, ] ames. Orçamento Público. São Paulo: Atlas, 2010.
+GUSTIN, Miracy Barbosa de Sousa; DIAS, Maria Tereza Fonseca. (Re)pensando a
+
+pesquisa jurídica: teoria e prática. 3. ed., rev. e atual. Belo Horizonte: Del Rey,
+2010.
+53
+
+HAMILTON, Alexander; MADISON, James; JAY, John. O federalista. tradução
+Hiltomar Martins Oliveira. Belo Horizonte: Líder, 2003. 512 p. (Clássicos do direito)
+
+LIMONGI, fernando e FIGUEIREDO, Argelina. Processo Orçamentário e
+Comportamento Legislativo: Emendas Individuais, Apoio ao Executivo e
+Programas de Governo. Revista de Ciências Sociais, Rio de Janeiro, Vol. 48, no 4,
+2005..
+
+MONTESQUIEU, Do espírito das leis. São Paulo: Martin Claret, 2007.
+
+MUSGRAVE, Richard e MUSGRAVE, Peggy. Finanças Públicas: teoria e prática.
+Rio de Janeiro: Campus, 1989.
+
+NAVARRO, Cláudio; SANTOS, Eugênio dos; FRANKE, Fernando. A estrutura do
+PPA 2012-2015, in Revista Brasileira de Planejamento e Orçamento, volume 2, nº 1,
+2012
+
+PEREZINO, Luiz Fernando de Mello. A preponderância do poder Executivo no
+processo orçamentário. Em http://www2.senado.gov.br/bdsf/item/id/162776.
+
+ 
+
+PIÇARRA, Nuno. A Separação dos Poderes como doutrina e Princípio
+Constitucional - Um contributo para o estudo das suas origens e evolução.
+Coimbra: Coimbra Editora, 1989.
+
+SAINZ DE BUJANDA, Fernando. Lecciones de Derecho Financiero. Madrid:
+Universidad Complutense, 1982. apud TORRES, Ricardo Lobo. Curso de Direito
+Financeiro e Tributário. 142 ed., Rio de J aneiro. Renovar, 2007
+
+SILVA, J osé Afonso da. Orçamento-Programa no Brasil. São Paulo: RT, 1973.
+
+SILVA, José Afonso da. Curso de direito constitucional positivo. 23. ed. São
+Paulo: Malheiros, 2004.
+
+SOARES DE PINHO, A. P. Freios e Contrapesos do Governo na Constituição
+Brasileira. Niterói: s.c.p, 1961.
+ANEXOS
+55
+
+Base fica com 90% da verba para emendas
+No limite da lei eleitoral, govemo libera valor recorde de quase R$ 950 mi e privilegia aliados
+
+10 de julho de 2012 |23h 15
+
+A três meses das eleições municipais, o govemo abriu o cofre e despejou dinheiro nas
+emendas de parlamentares ao Orçamento da União, escapando assim das restrições da lei
+eleitoral. O mapa da distribuição das verbas mostra que, na partilha do bolo, os partidos da
+base aliada levaram mais de 90% dos recursos empenhados, enquanto a oposição e os
+independentes ficaram com menos de 10%.
+
+Veja também:
+- Planalto privilegia base aliada no repasse a emendas
+Por emendas, oposição obstrui votações na Câmara
+Curta nossa página no Facebook
+
+Em seis dias úteis de julho, foram empenhados R$ 947,2 milhões em emendas. Na maior
+parte, os recursos foram para emendas genéricas e de bancadas - aquelas que socorrem obras
+estruturantes, como a transposição do São Francisco, somando R$ 694,7 milhões. O valor
+ficou 10% acima de todo o mês de junho (R$ 627 milhões) e três vezes mais que o
+empenhado no primeiro quadrimestre, de janeiro a maio (R$ 214 milhões).
+
+O levantamento foi feito pelo DEM no Sistema Integrado de Administração Financeira
+(Siafi). Até 9 de julho, o govemo já havia empenhado R$ 2 bilhões em emendas, ou 10% do
+total de R$ 20 bilhões prometido pelo Planalto no orçamento geral deste ano. E costume do
+govemo prometer muita verba a cada ano e ir liberando a conta-gotas conforme a
+conveniência política - na aprovação de projetos de interesse ou em barganhas eleitorais, por
+exemplo.
+
+Dois pesos. No varejo, a distribuição de pouco mais de R$ 150 milhões a toque de caixa para
+os parlamentares, ao ser analisada por partido, mostra a discriminação em favor da base
+aliada. A maior fatia, R$ 28,5 milhões, foi para rateio dos 99 parlamentares do PMDB - média
+de R$ 287 mil para cada um dos 80 deputados e 19 senadores do partido. Já o PT, que tem 86
+deputados e 13 senadores, levou no total R$ 23,5 milhões, ou R$ 237,8 mil de reforço a cada
+um.
+
+Já a oposição foi tratada a pão e água. O PSDB conseguiu apenas R$ 4,1 milhões (69 mil por
+parlamentar) e o PPS, R$ 16,7 mil - só R$ 1,8 mil para cada um. O PSOL não recebeu nada.
+Para a oposição, o govemo despreza a República e repete práticas patrimonialistas. "E um
+claro abuso do poder político e econômico (do governo) na medida em que turbina recursos
+para sua base e influencia o resultado da eleição", disse o líder do PPS, Rubens Bueno (PPS-
+PR).
+
+O deputado Felipe Maia (DEM-RN) foi mais longe. "Não é um caso comum de
+discriminação, é crime de responsabilidade da presidente Dilma Rousseff porque ela usa a
+peça orçamentária para fins nitidamente eleitorais", reclamou. "Todos os govemnos, em maior
+56
+
+ou menor grau, fizeram isso ao longo do tempo, mas esse ultrapassou todos os limites do
+fisiologismo”,
+
+Os quatro principais partidos da base (PT, PMDB, PP e PDT) abocanharam juntos R$ 84,2
+milhões, enquanto os quatro da oposição (PSDB, DEM, PPS e PSOL) levaram R$ 7,6
+milhões, pouco mais de 9%. Se forem acrescidas as verbas mandadas para outros aliados,
+como PSB, PTB, PRB e PC do B, o montante chega a R$ 120,6 milhões.
+
+http://www .estadao.com.br/noticias/nacional,base-fica-com-90-da-verba-para-
+emendas,898494,0.htm
+
+ 
+
+ 
+
+Parlamentares cobram liberação de verba para emendas
+destinadas a Brasília
+
+Leandro Kleber
+Publicação: 13/11/2012 08:30A tualização:
+
+Os parlamentares da bancada do Distrito Federal no Congresso Nacional se reuniram ontem
+com a ministra de Relações Institucionais, Ideli Salvatti, para cobrar a liberação de verba para
+as emendas destinadas a Brasília. O encontro foi agendado porque, até agora, segundo eles, o
+govemo federal só empenhou 8% dos mais de R$ 272 milhões incluídos pelos deputados e
+senadores no Orçamento deste ano. O Planalto prometeu priorizar cinco emendas
+direcionadas às áreas de saúde e educação, que somam R$ 100 milhões. No fim do mês, o
+governo deverá fechar posição sobre 0 tema.
+
+Se o Planalto aprovar a liberação, deverão ser beneficiadas com o dinheiro federal as obras de
+duplicação da DF-001 (no trecho entre Taguatinga e Brazlândia); ampliação do Hospital da
+Criança; reestruturação do Hospital Universitário da UnB, além das ações de fomento às
+incubadoras da Fundação de Apoio à Pesquisa do DF e de assistência médica qualificada no
+Hospital Sarah Kubitschek.
+
+http://www.correiobraziliense.com.br/app/noticia/politica/2012/11/13/intema politica 333444
+/parlamentares-cobram-liberacao-de-verba- para-emendas-destinadas-a-brasilia.shtml
+
+ 
+
+ 
+
+Govemo deve liberar R$ 1 bi para aprovar MP dos portos, diz
+jornal
+
+14 de maio de 2013 « 08h15 + atualizado 08h24
+
+Para tentar aprovar a medida provisória 595, conhecida como MP dos portos, o govemo
+federal negocia a liberação de verbas para emendas dos parlamentares do Congresso, afirmou
+o jornal Folha de S.Paulo nesta terça-feira. De acordo com a publicação, o valor negociado
+deve ultrapassar R$ 1 bilhão e a promessa de liberação é até o fim do mês. O valor teria sido
+57
+
+discutido pela ministra das Relações Institucionais, Ideli Salvatti, com ministros e líderes de
+bancadas.
+
+Segundo o jornal, as emendas parlamentares representam pequenas obras nos redutos
+eleitorais dos congressistas, sendo que cada um tem direito a R$ 15 milhões em emendas.
+Porém, a liberação não é obrigatória, o que faz com que o governo utilize esse mecanismo
+como moeda de troca para votações como a da MP dos portos. Essa será a primeira liberação
+de 2013.
+
+A proposta da MP do govemo propõe aumentar os investimentos privados nos portos,
+aumenta o tempo dos contratos entre União e empresas. O Executivo alega, ainda, que a
+medida tem o objetivo de beneficiar as movimentações portuárias brasileiras, que ficariam nas
+mãos de agentes privados, dando maior competitividade às transações. A medida desagrada os
+sindicalistas, que temem demissões e sucateamento dos portos públicos.
+
+http://economia.terra.com.br/noticias/noticia.aspx?idNoticia=201305141115 TRR 82213382
+
+ 
+
+Governo libera emendas e privilegia partidos aliados
+publicado em 20/06/2012 às 12h09:
+Dinheiro é usado por deputados e senadores para bancar obras em seus redutos políticos
+
+A pouco mais de três meses das eleições municipais, a presidente Dilma Rousseff aumentou
+em 23,5 vezes o volume de empenho de emendas de parlamentares ao Orçamento.
+
+Os redutos eleitorais de parlamentares da base aliada foram os mais beneficiados com a
+promessa de liberação das verbas, usadas para que deputados e senadores possam tocar obras
+e demais iniciativas em suas cidades.
+
+Na primeira semana de junho, o governo se comprometeu a liberar R$ 14,4 milhões em
+emendas. E entre os dias 8 e 15, o Planalto mandou empenhar R$ 324,3 milhões.
+
+Conforme um levantamento feito pelo DEM junto ao Siafi (Sistema Integrado de
+Administração Financeira), o govemo federal empenhou até a semana passada R$ 602,2
+milhões em emendas — o equivalente a 2,89% do total prometido pelo Planalto para este ano.
+
+O empenho é a reserva do dinheiro para posterior liberação. Ele garante que a verba será paga
+à prefeitura e à base eleitoral do deputado ou senador para tocar obras e projetos sociais.
+
+Pela legislação, o governo federal é proibido de liberar emendas nos 90 dias que antecedem as
+eleições. Neste ano, esse prazo começa a contar a partir de 7 de julho.
+
+Principal parceiro do govemo no Congresso, o PMDB foi o partido mais privilegiado com
+empenhos: R$ 10,8 milhões nos primeiros 15 dias de junho. Sétima bancada da Câmara, com
+30 deputados e quatro senadores, o PSB do governador Eduardo Campos (PE) vem em
+seguida: vai receber R$ 4,9 milhões. Detalhe: o empenho foi feito depois que o partido bateu
+o martelo no apoio à candidatura do petista Fernando Haddad à Prefeitura de São Paulo. Já os
+parlamentares do PT foram beneficiados com o empenho de R$ 4,8 milhões de suas emendas.
+58
+
+Oposição
+
+Os três partidos de oposição — DEM, PSDB e PPS — praticamente não tiveram suas
+emendas empenhadas. O DEM não teve a promessa de um centavo sequer de liberação de
+emenda de seus parlamentares em junho. Os tucanos conquistaram ínfimos R$ 1.800,
+enquanto o PPS teve R$ 349,8 mil.
+
+O deputado Felipe Maia (DEM-RN) reclamou que "os partidos de oposição foram
+discriminados no empenho de emendas".
+
+http://noticias.r7.com/brasil/noticias/govemno-libera-emendas-e-privilegia-partidos-aliados-
+20120620.html
+

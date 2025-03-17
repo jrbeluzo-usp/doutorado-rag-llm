@@ -1,0 +1,2263 @@
+ 
+
+  
+ 
+
+LUST DE)
+
+Produzir, articular e disseminar conhecimento para
+aperfeiçoar as políticas públicas e contribuir para o
+planejamento do desenvolvimento brasileiro.
+
+TEXTO PARA DISCUSSÃO
+
+FINANCIAMENTO PÚBLICO
+DA SAÚDE: UMA HISTÓRIA
+À PROCURA DE RUMO
+
+Sérgio F. Piola
+
+Andrea Barreto de Paiva
+Edvaldo Batista de Sá
+Luciana Mendes Santos Servo
+
+5-4
+
+SSN 141
+
+14151476
+
+765
+001
+
+PAÍS RICO É PAÍS SEM POBREZA
+
+1
+giz
+
+SECRETARIA DE
+ASSUNTOS ESTRATÉGICOS
+DIS a aU e
+
+ 
+
+= =,
+OT Erva E
+
+ 
+
+ 
+
+ 
+TEXTO PARA DISCUSSÃO
+
+Rio de Janeiro, julho de 2013
+
+FINANCIAMENTO PÚBLICO DA SAÚDE: UMA
+HISTÓRIA À PROCURA DE RUMO*
+
+Sérgio F. Piola**
+
+Andrea Barreto de Paiva***
+Edvaldo Batista de Sá***
+
+Luciana Mendes Santos Servo ****
+
+* Os autores agradecem as sugestões e comentários feitos pelos pareceristas Ana Cleusa Serra Mesquita e Jorge Abrahão
+de Castro. Erros e omissões são de inteira responsabilidade dos autores.
+
+** Profissional sênior no Programa de Pesquisa para o Desenvolvimento Nacional (PNPD) do Ipea.
+
+*** Especialistas em Políticas Públicas e Gestão Governamental da Diretoria de Estudos e Políticas Sociais (Disoc) do Ipea.
+**** Técnica de Planejamento e Pesquisa da Disoc/lpea.
+
+TD 00 Folha de Rosto.indd 1 7/4/2013 4:58:49 PM
+TD. 00. Folha de Rosto.indd 2
+
+Governo Federal
+
+Secretaria de Assuntos Estratégicos da
+Presidência da República
+Ministro interino Marcelo Côrtes Neri
+
+=
+[I e a Instituto de Pesquisa
+Econômica Aplicada
+
+Fundação pública vinculada à Secretaria de
+Assuntos Estratégicos da Presidência da República,
+o Ipea fornece suporte técnico e institucional às
+ações governamentais — possibilitando a formulação
+de inúmeras políticas públicas e programas de
+desenvolvimento brasileiro — e disponibiliza,
+para a sociedade, pesquisas e estudos realizados
+por seus técnicos.
+
+Presidente
+Marcelo Côrtes Neri
+
+Diretor de Desenvolvimento Institucional
+Luiz Cezar Loureiro de Azeredo
+
+Diretor de Estudos e Relações Econômicas
+e Políticas Internacionais
+Renato Coelho Baumann das Neves
+
+Diretor de Estudos e Políticas do Estado,
+das Instituições e da Democracia
+Daniel Ricardo de Castro Cerqueira
+
+Diretor de Estudos e Políticas
+Macroeconômicas
+Cláudio Hamilton Matos dos Santos
+
+Diretor de Estudos e Políticas Regionais,
+Urbanas e Ambientais
+Rogério Boueri Miranda
+
+Diretora de Estudos e Políticas Setoriais
+de Inovação, Regulação e Infraestrutura
+Fernanda De Negri
+
+Diretor de Estudos e Políticas Sociais
+Rafael Guerreiro Osorio
+
+Chefe de Gabinete
+Sergei Suarez Dillon Soares
+
+Assessor-chefe de Imprensa e Comunicação
+João Cláudio Garcia Rodrigues Lima
+
+Ouvidoria: http:/Awww.ipea.gov.br/ouvidoria
+URL: http:/Awww.ipea.gov.br
+
+Texto para
+Discussão
+
+Publicação cujo objetivo é divulgar resultados de estudos
+direta ou indiretamente desenvolvidos pelo Ipea, os quais,
+por sua relevância, levam informações para profissionais
+especializados e estabelecem um espaço para sugestões.
+
+O Instituto de Pesquisa Econômica Aplicada — ipea 2013
+
+ 
+
+Texto para discussão / Instituto de Pesquisa Econômica
+Aplicada.- Brasília : Rio de Janeiro : Ipea, 1990-
+
+ISSN 1415-4765
+
+1.Brasil. 2.Aspectos Econômicos. 3.Aspectos Sociais.
+1. Instituto de Pesquisa Econômica Aplicada.
+
+CDD 330.908
+
+ 
+
+As opiniões emitidas nesta publicação são de exclusiva e
+inteira responsabilidade do(s) autor(es), não exprimindo,
+necessariamente, o ponto de vista do Instituto de Pesquisa
+Econômica Aplicada ou da Secretaria de Assuntos
+Estratégicos da Presidência da República.
+
+É permitida a reprodução deste texto e dos dados nele
+contidos, desde que citada a fonte. Reproduções para fins
+comerciais são proibidas
+
+JEL: H51; 110.
+
+7/4/2013 4:58:49 PM
+SUMÁRIO
+
+ 
+
+SINOPSE
+
+ABSTRACT
+
+1 INTRODUÇÃO... araras
+
+2 O FINANCIAMENTO PÚBLICO DA SAÚDE APÓS A CF/1988..............
+
+3A EC Nº 29 EA AMPLIAÇÃO DE RECURSOS
+ZANEVAV ARS AUD)
+
+4,4 REGULAMENTAÇÃO DA EC N828) esonamessam sormeesesorozenssezeem aneresorscenaesermsspeersmms
+
+5 O PROCESSO DE DESCENTRALIZAÇÃO DE RECURSOS FINANCEIROS .....................
+
+6 LEI Nº 141/2012 E OS MECANISMOS E CRITÉRIOS DE RATEIO DE RECURSOS.......
+
+7 CONSIDERAÇÕES FINAIS ..... teens
+
+REFERÊNCIAS...............i isentar
+
+TD 01 Sumário.indd 3 7/4/2013 4:59:07 PM
+TD 01 Sumário.indd 4 7/4/2013 4:59:07 PM
+TD. 02 Sinopseindd 5
+
+SINOPSE
+
+Este trabalho analisa como o país tem enfrentado o desafio de prover um financiamento
+público adequado para a garantia do direito à saúde prevista na Constituição Federal
+de 1988 (CF/1988). Discute questões relacionadas ao processo de financiamento
+compartilhado do Sistema Único de Saúde (SUS), à descentralização de recursos
+federais para estados, Distrito Federal e municípios e à regulamentação recente da
+Emenda Constitucional (EC) nº 29/2000, que visa assegurar os recursos mínimos para o
+financiamento das ações e serviços públicos de saúde nas três instâncias de governo. Mostra
+que a aprovação da EC nº 29 levou a um crescimento dos recursos aplicados em Ações e
+Serviços Públicos de Saúde (ASPS), passando de 2,89% do Produto Interno Bruto (PIB)
+em 2000 para 3,91% do PIB em 2011. Discute, também, a recente regulamentação da
+EC nº 29 por meio da Lei Complementar (LC) nº 141/2012. Afirma que sua aprovação
+foi importante para uma definição mais precisa do que se entende por ASPS, ainda que
+não tenha havido mudança na regra de vinculação dos recursos federais para a saúde. A
+definição de critérios mais equitativos de distribuição de recursos da União para estados e
+
+municípios ainda continua necessitando de discussões no campo técnico-político.
+
+Palavras-chave: financiamento da saúde; regulamentação da Emenda Constitucional
+nº 29; critérios de distribuição de recursos.
+
+ABSTRACT'
+
+This article provides an analysis of policies adopted to ensure adequate funding to public
+health care in Brazil as determined by the 1988 Federal Constitution. Issues related to
+the tripartite funding of the SUS, the decentralization of federal financial resources
+to subnational levels of government and the recent regulation of the Constitutional
+Amendment (CA) 29/2000 are discussed. The CA 29/2000 led to an increase in
+financial resources to fund health care provided by the SUS from 2.89% of the GDP
+in 2000 to 3.91% in 2011. The recent regulation, Law 141/2012, helped define more
+precisely what should and what should not be considered health care provided by
+the SUS. Unfortunately, no change has been proposed regarding the proportion of
+federal revenues that should be committed to public health care. The definition of
+
+i. The versions in English of the abstracts of this series have not been edited by Ipea's editorial department.
+As versões em língua inglesa das sinopses (abstracts) desta coleção não são objeto de revisão pelo Editorial do Ipea.
+
+7/4/2013 4:59:28 PM
+equitable criteria for the distribution of federal financial resources to subnational levels
+
+of government is also a pending issue.
+
+Keywords: health care funding; regulation of the Constitutional Amendment 29;
+
+criteria for the distribution of financial resources.
+
+TD 02 Sinopse.indd 6 7/4/2013 4:59:28 PM
+TD. 03 Miolo.indd 7
+
+Texto para
+Discussão Financiamento Público da Saúde: uma história à procura de rumo
+
+ 
+
+1 INTRODUÇÃO
+
+Nos anos 1960 e 1970, o sistema de saúde brasileiro era fortemente segmentado e
+excludente. Nessa época, uma parcela significativa da população não tinha direito à
+assistência à saúde e disputava os poucos recursos dos orçamentos públicos destinados ao
+Ministério da Saúde (MS) e secretarias de saúde de estados e municípios ou dependiam
+de recursos provenientes da caridade, aplicados em serviços prestados por entidades
+religiosas ou outras entidades filantrópicas (Piola et al., 2009). Além disso, os poucos
+recursos públicos disponíveis para a saúde de caráter universal estavam altamente
+centralizados no MS, que atuava principalmente no campo da vigilância à saúde, em
+
+ações de controle de doenças transmissíveis e de vigilância sanitária.
+
+Ainda na década de 1970 até meados dos anos 1980, houve algumas iniciativas
+de levar serviços de saúde à população mais desassistida, entre as quais o Programa
+de Interiorização de Ações de Saúde e Saneamento (Piass),! as Ações Integradas de
+Saúde (AIS) e o Sistema Unificado e Descentralizado de Saúde (SUDS). Esses foram
+os principais embriões para a criação do Sistema Único de Saúde (SUS) (Piola et al.,
+2009). Contudo, a exclusão da parcela da população mais pobre ainda era bastante
+significativa no final dos anos 1980.
+
+Na Constituição Federal de 1988 (CF/1988) a saúde foi inscrita como direito
+de todos e dever do Estado (Artigo 193). Esse direito deve ser “garantido mediante
+políticas sociais e econômicas que visem à redução do risco de doença e de outros
+agravos e ao acesso universal e igualitário às ações e serviços para sua promoção,
+proteção e recuperação”. Além da universalidade, a CF/1988 estabeleceu entre os
+princípios e diretrizes do SUS a integralidade da atenção e a descentralização das ações.
+Adicionalmente, declarou a saúde como integrante da seguridade social, junto com a
+previdência e a assistência social. Mesmo compreendendo a saúde como um dever do
+Estado, a CF/1988 a declarou livre à iniciativa privada (Artigo 199).
+
+1.0 Piass foi aprovado para toda a região Nordeste (1976-1979). Foi operacionalizado pelas secretarias estaduais de
+saúde e contava com recursos do Instituto Nacional de Assistência Médica da Previdência Social (INAMPS) em seu custeio.
+Posteriormente, no início dos anos 1980, se expandiu para as demais regiões. Outra iniciativa de universalização do acesso,
+ainda que restrita a uma determinada condição, foi o Plano de Pronta Ação (PPA)/1975 no âmbito da previdência social.
+Esse plano facultava o acesso de toda a população aos serviços de saúde do INAMPS em situações de urgência e/ou
+emergência. Por meio das AIS, buscou-se desenvolver uma melhor articulação das ações das diferentes instituições públicas
+de saúde e ampliar o acesso da população às ações e serviços públicos de saúde.
+
+/
+
+ 
+
+7/5/2013
+
+5:46:35 PM
+TD. 03 Mioloindd 8
+
+Rio de Janeiro, julho de 2013
+
+ 
+
+Assim, o país inicia os anos 1990 com o dever de ampliar o acesso aos serviços de
+saúde a todos os brasileiros, considerando as diretrizes constitucionais. Adicionalmente,
+a Lei nº 8.080/1990 estabelece a diretriz de igualdade no atendimento entendida como
+igual atendimento para igual necessidade.? Assim, o SUS deveria ser implantado de modo
+descentralizado visando a universalidade, integralidade e equidade.
+
+A expansão da cobertura reforça a necessidade de discussão sobre a questão do
+financiamento das ações e dos serviços de saúde. Até 1988, o MS participava com menos
+de 20% dos recursos federais destinados ao financiamento da saúde no país (Conass, 2011).
+A maior parte dos recursos era proveniente da seguridade social — mais de 80% estavam
+vinculados ao INAMPS/Ministério da Previdência e Assistência Social (MPAS). Além
+disso, em torno de 70% dos recursos públicos estavam centralizados no governo federal.
+
+Dessa forma, no campo do financiamento estava posto o imenso desafio de
+redirecionar parcela significativa desses recursos para ampliar a cobertura de ações e serviços
+de saúde para toda a população brasileira. Claramente, isso implicaria não somente um
+redirecionamento de recursos, mas, também, sua ampliação. Além disso, para atender
+o princípio constitucional da descentralização, era necessário ampliar a participação de
+estados e municípios no financiamento do SUS e transferir para a gestão de estados e
+municípios recursos até então majoritariamente administrados pelo governo federal.
+
+Este texto discute como o país tem enfrentado esse desafio, qual seja, o de
+assegurar um financiamento público adequado para a garantia do direito à saúde
+prevista na CF/1988. A segunda seção descreve a evolução do financiamento público,
+com foco nos recursos aplicados pelo governo federal. Em seguida, é apresenta a
+evolução do gasto público total, analisando a participação da União, estados e
+municípios a partir da promulgação da Emenda Constitucional (EC) nº 29, em 2000.
+A quarta seção analisa a recente regulamentação da EC nº 29, ocorrida em 2012,
+destacando os problemas decorrentes de sua demorada tramitação, as principais
+questões resolvidas pela regulamentação e as expectativas existentes, na ocasião, em
+relação às possibilidades de ampliação dos recursos para a saúde. A quinta seção
+retorna ao financiamento federal para mostrar como o MS tem atuado com relação
+à diretriz de descentralização. Uma das novidades é a recuperação e análise de
+
+2. Sobre os conceitos de equidade, ver Whitehead (1991).
+
+S
+
+ 
+
+7/5/2013
+
+5:46:35 PM
+TD. 03 Miolo.indd 9
+
+Texto para
+Discussão Financiamento Público da Saúde: uma história à procura de rumo
+
+ 
+
+dispositivos legais relacionados aos critérios de partilha das transferências federais
+para estados, Distrito Federal e municípios e uma discussão sobre a abordagem dessa
+questão na Lei Complementar (LC) nº 141/2012, o que é feito também na sexta
+seção. Em seguida, são apresentadas as considerações finais.
+
+2 O FINANCIAMENTO PÚBLICO DA SAÚDE APÓS A CF/1988
+
+A CF/1988, ao criar a seguridade social, estabeleceu que ela deveria ser financiada
+com recursos provenientes dos orçamentos da União, dos estados, do Distrito Federal
+e dos municípios, e de contribuições sociais. No governo federal, esses recursos seriam
+repartidos entre a previdência, a assistência social e a saúde e, no caso desta última,
+previu-se, conforme consta do Artigo 55 do Ato das Disposições Constitucionais
+Transitórias (ADCT), uma vinculação de 30% dos recursos do orçamento da seguridade
+social (OSS), excluído o seguro-desemprego. Esta disposição teria validade até que fosse
+aprovada a primeira Lei de Diretrizes Orçamentárias (LDO), que deveria definir a cada
+ano qual o percentual a ser destinado à saúde.
+
+Ressalta-se que a CF/1988 ampliou não somente o direito à saúde, mas também
+criou novos direitos em outros campos da seguridade social. Por exemplo, no caso da
+previdência social ampliou o direito à aposentadoria rural e no campo da assistência
+estabeleceu o Benefício de Prestação Continuada (BPC).º
+
+A implantação dos novos direitos sociais coincidiu com um período de
+hiperinflação e restrições macroeconômicas. Assim, várias áreas buscaram aplicar os
+princípios constitucionais sem necessariamente observar um aumento de recursos para
+essas políticas. Isso gerou uma forte disputa interna entre as áreas sociais, entre elas
+as áreas de saúde e a previdência social. No caso da saúde, o percentual de 30% dos
+
+3. Conforme descrito pelo Ministério do Desenvolvimento Social e Combate à Fome (MDS), “o Benefício de Prestação
+Continuada (BPC) é um direito garantido pela Constituição Federal, que assegura um salário mínimo mensal ao idoso, com
+idade de 65 anos ou mais, e à pessoa com deficiência, de qualquer idade, incapacitada para a vida independente e para
+o trabalho, que comprove não possuir meios de garantir o próprio sustento, nem tê-lo provido por sua família. Em ambos
+os casos, é necessário que a renda mensal bruta familiar per capita seja inferior a um quarto do salário mínimo vigente”.
+Disponível em: <http:/Ayww.mds.gov.br/assistenciasocial/beneficiosassistenciais/bpc>. Acesso em: 5 set. 2011.
+
+4. Essas duas áreas, junto com a assistência social, recebiam recursos das mesmas fontes do OSS e alguns benefícios
+previdenciários, como equiparação de benefícios urbanos e rurais e piso para BPC equivalente a 1 salário mínimo (SM),
+tiveram aplicação quase imediata.
+
+9
+
+ 
+
+7/5/2013
+
+5:46:35 PM
+TD. 03 Miolo.indd 10
+
+Rio de Janeiro, julho de 2013
+
+ 
+
+recursos da seguridade social não foi cumprido em 1990 e 1991. Essa disputa se acirra
+a tal ponto que, em 1993, as contribuições previdenciárias não mais compuseram as
+fontes de financiamento da saúde. Conforme destacam Mendes e Marques (2009),
+“Nesse ano, apesar da previsão de recursos para a saúde, nada foi repassado com base
+na alegação de problemas de caixa na Previdência. Esse fato agravou a situação de
+incerteza e de instabilidade do financiamento da saúde”. Por fim, recorreu-se ao Fundo
+de Amparo ao Trabalhador (FAT) para garantir um mínimo de recursos para a saúde.
+
+Em 1994, demonstrando a prioridade das medidas de ajuste fiscal, o governo
+criou o Fundo Social de Emergência, hoje denominado Desvinculação de Receitas da
+União (DRU) que passou a retirar parte das receitas destinadas à seguridade social e à
+descentralização — receitas do Fundo de Participação dos Estados (FPE) e do Fundo de
+Participação dos Municípios (FPM) (Ugá et al., 2012).
+
+A busca de solução para superação dessa crise no financiamento da saúde levou
+o governo a apresentar como alternativa a criação de um novo tributo: a Contribuição
+Provisória sobre Movimentação Financeira (CPME), criada em 1996, cujo produto
+da arrecadação deveria ser destinado ao Fundo Nacional de Saúde (ENS), para
+financiamento de ações e serviços de saúde (Artigo 18, da Lei nº 9.311, de 24 de
+outubro de 1996).
+
+Nos dois anos imediatamente anteriores à entrada em vigor da CPMF, o MS
+aplicou, em média, R$ 39,8 bilhões na saúde (em valores constantes de 2011). Em 1997,
+o volume de recursos se ampliou para R$ 43,7 bilhões (em valores constantes de 2011).
+
+Entretanto, como pode ser visto no gráfico 1, a contribuição imediata da CPMF
+foi mais efetiva para a garantia de estabilidade de financiamento da saúde do que para
+a ampliação de seus recursos, uma vez que seu impacto foi amortecido pela retração de
+outras fontes de financiamento da saúde.”
+
+Logo que entrou em vigor, a CPMF passou a ser uma das principais fontes de
+financiamento do MS, sendo que, em 1997, já respondia por 27,9% dos recursos. Entre
+1995 e 1999 observou-se um pequeno aumento do volume de recursos aplicados pelo MS,
+
+5. A este respeito, ver Ribeiro, Piola e Servo (2007).
+
+10
+
+ 
+
+7/5/2013
+
+5:46:35 PM
+TD. 03 Mioloindd 11
+
+Texto para
+
+Discussão Financiamento Público da Saúde: uma história à procura de rumo
+
+ 
+
+em termos reais, a partir da cobrança da CPMF e da destinação de parcela de sua arrecadação
+para a saúde. Durante o período em que vigorou, entre 1997 e 2007, a CPMF representou
+em torno de 30% do total dos recursos federais para a saúde (tabela 1).
+
+GRÁFICO 1
+
+Ministério da Saúde (MS): execução do gasto total por fonte de recursos, CPMF e demais
+fontes (1995-2011)
+
+(Em R$ bilhões de 2011)
+
+80,0 +
+70,0 +
+
+60,0 +
+
+500
+49,0 + ni
+30,0 +
+2,0 +
+190 +
+
+19951 1996. 1997 1998. 1999 “2000 “2001 “2002 2003 2004 2005. 2006. 2007 2008 2009. 2010 mn
+
+ 
+
+m Demais fontes mCPMF
+
+Fontes: Sistema Integrado de Administração Financeira (Siafi)/Sistema Integrado de Dados Orçamentários (Sidor), (Gasto Social Federal-Ipea: 1995 a 2007), e Siga Brasil,
+2008 a 2011
+
+Apesar da extinção da CPMF em 2007, a participação das contribuições sociais” no
+financiamento da saúde tem conseguido se manter no patamar médio de 89%, observado
+de 2004 a 2011 (tabela 1). A exceção ocorre apenas em 2008, ano em que se pode observar
+uma forte queda das contribuições em relação a 2007, tanto em termos de sua participação
+no total quanto em termos reais. Isso pode ser explicado não só pela ausência de recursos da
+extinta CPMF como pelo fato de a recomposição das fontes de financiamento do MS em
+2008 ter sido feita por uma aplicação maior de recursos ordinários (impostos).
+
+6. Inicialmente, a totalidade dos recursos arrecadados com a CPMF era destinada para a saúde. A partir de junho de 1999,
+a alíquota desse tributo aumentou de 0,20% para 0,38% e previu-se a destinação de parcela de sua arrecadação para a
+previdência social.
+
+7.As contribuições sociais que financiam a saúde são: /) Contribuição Social sobre Lucro Líquido (CSLL); ii) Contribuição
+
+sobre Financiamento da Seguridade Social (Cofins); ii) CPMF (vigente até o ano de 2007); iv) Contribuição do Plano de
+Seguridade Social do Servidor (CPSS); e v) Contribuição Patronal do Plano de Seguridade Social do Servidor.
+
+11
+
+ 
+
+7/5/2013 5:46:36 PM
+LLOZ 2 OLOZ "600% 800% 'ISerg 2ÓIS à (00% E 566 | :2ad|Jeapas jepos o1se9) !opiS/ipeIS :sajuo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0'00L O'00L O'o0L o'ooL o'ooL o'ooL o'ooL o'ooL o'ooL o'ooL o'ooL o'ooL o'ooL o'ooL o'ooL o'ooL o'ooL teyoL
+o 6 60 [a 80 90 90 so 90 60 90 9 9€ co 80 68 es Sejuo) siga]
+00 ti o “ - - - =" = Em e pm — = — - — ([ayst4) sacde>1untwoDa|a| Sep oe5ezijeost4 ap opun4
+- es - - - - - - - - - Sbl CEL 96 6 UU epugbsatua ap jepos opung
+= =: = 0'€ 0'€ = eo 60 = PT Sp st El = — - - BZaIgOd ep OBÍeopeug a ajequio? ap opuny
+” ' , , ' , ' 1 , JOpias Op [epos
+to 91 o 01 El 91 bt so 00 = - - - - - - - apepunbas ap ouelg op jeuoneg odinquiuo)
+vo 90 60 vo 60 01 v 60 80 61 U - - 60 - ce st SSd)
+oo vo si 0! 80 bic cor pol ste ve ver Tle ol ot 6 -— - INd>
+ot sp Vie 6re ps gel vel tt Liz 98 S'ge VLe EM 6S 9a ti se sugoo
+LLE 91 pop LE Lee EO L6€ Ee plz Su OL 9 vel 08 €'6L LoL voz expuin( BOSSad — TIS)
+668 0'9g 8'06 g'LL VLg s'sg E'L6 e'gg s'z8 E'Lg 6rL 608 g'19 8'LL 8 t99 s'oL sterDos sagáinguuo)
+eo  — = - = sl = mt s'o vo cio vo co vo 8 ve Li |euope ounosa] op apepijigesuodsay ap sojny
+or Er 6€ op LE Ve PT fará el Lt Lg a se 9 vt st sz SOPepeDaLJe ajuatuejaup sosinDay
+Vo oo oo 00 Vo vo Lo Lo ui 6 ti Li st t so 60 vL BUJBJXa à BUJBJU! 01P9 ap sagáesado
+PT 9» tp? Voc Ts Lo BP pi VEL COL Su ES USL BOL OL vo te soupuipIo sosinDay
+Loc OlOl 6007 8007 L007 9007 S00t tO0t E00T TOO Lo0t 0007 6661 866L L66L 966! S66L (Dsaqy'poo) ajuos
+
+ 
+
+ 
+
+Rio de Janeiro, julho de 2013
+
+(% ua)
+
+(LLOZ-S66L) OJusWepueu!y ap ajuoy Jod SIN Op ogÍn2axa ep jengus>4ad oBsinquasia
+
+Lvmdgavl
+
+N
+—
+
+ 
+
+5:46:36 PM
+
+7/5/2013
+
+TD. 03 Miolo.indd 12
+TD. 03 Miolo.indd 13
+
+Texto para
+Discussão Financiamento Público da Saúde: uma história à procura de rumo
+
+ 
+
+Mais recentemente, a Cofins vem exercendo papel de destaque no financiamento da
+saúde: desde 2007, sua participação tem crescido a passos largos, demonstrando claramente
+a substituição de fontes que parece ter ocorrido após a extinção da CPMF (tabela 1).
+
+Como será discutido na próxima seção, e pode ser visualizado no gráfico 1,
+é a partir da promulgação da EC nº 29/2000 que se verifica um crescimento mais
+sustentado no volume de recursos do MS.
+
+3 A ECNº 29 E A AMPLIAÇÃO DE RECURSOS PARA A SAÚDE
+
+Desde a crise instaurada pelo afastamento dos recursos previdenciários ao financiamento
+da saúde, começaram a prosperar iniciativas parlamentares para assegurar a vinculação de
+recursos para o SUS. Algumas mais gerais, por incluírem vinculação de recursos nas três
+esferas de governo, outras mais restritas, como a criação da CPMF em 1997. A primeira,
+de caráter mais geral, foi apresentada em junho de 1993 e teve como autores os deputados
+Waldir Pires e Eduardo Jorge — Proposta de Emenda Constitucional (PEC) nº 169/1993.
+As diversas proposições apresentadas, entre 1993 e 1999, foram aglutinadas, dando
+origem à EC nº 29/2000. Essa emenda definiu montantes mínimos a serem aplicados
+pela União, estados e municípios em Ações e Serviços Públicos de Saúde (ASPS).º
+
+A EC nº 29 trouxe mais recursos e promoveu o aumento da participação de
+estados, Distrito Federal e municípios no financiamento do SUS. Ela começou a vigorar
+em 2000, quando a União ainda respondia por quase 60% do recurso público total
+aplicado em saúde. Desde então, sua participação foi decrescendo, ficando em torno
+de 44% em 2011, apesar de terem sido observados incrementos reais no montante
+destinado à saúde. Nesse mesmo período, a participação dos estados passou de 18,5%
+para 25,7%, enquanto a dos municípios foi de 21,7% para 29,6%, de acordo com os
+dados do Sistema de Informações e Orçamentos Públicos de Saúde (SIOPS) (tabela 2).
+Assim, afirma-se que a aprovação da EC nº 29 teve impactos diferenciados em cada
+ente da federação e foi bem-sucedida na busca do objetivo de atender ao princípio
+
+8. "No caso da União, os recursos a ser aplicados em 2000 seriam o montante empenhado no exercício de 1999 acrescido
+de, no mínimo, 59%. A partir daí, o valor mínimo seria apurado no ano anterior e corrigido pela variação nominal do PIB. Os
+estados e o Distrito Federal deveriam aplicar, no mínimo, 12% da receita vinculada; ao passo que os municípios deveriam
+aplicar 15%, e, em 2000, o percentual mínimo a ser aplicado seria de 7% para esses entes da federação” (Servo et al,
+2011). Para a definição de ASPS utilizada até a aprovação da LC nº 141 de 2012, ver box A.1 no anexo.
+
+13
+
+ 
+
+7/5/2013
+
+5:46:36 PM
+TD. 03 Miolo.indd 14
+
+Rio de Janeiro, julho de 2013
+
+ 
+
+constitucional da descentralização, ampliando a participação de estados e municípios
+no financiamento das ações e serviços de saúde.
+
+ 
+
+ 
+
+TABELA 2
+
+Gasto com ações e serviços públicos em saúde (ASPS): total e por esfera de governo
+
+(2000-2011)
+
+(Em R$ bilhões de 2011 deflacionados pela média anual do IPCA!)
+Ano Federal (%) Estadual (%) Municipal (%) Total (%)
+2000 41,31 59,8 12,82 185 14,96 ny 69,09 100,0
+2001 42,10 56,1 15,71 20,7 17,65 32 76,07 100,0
+2002 43,34 528 17,66 2 21,08 251 82,07 100,0
+2003 41,51 511 18,67 230 21,02 259 81,20 100,0
+2004 46,85 50,2 22,9% 24,6 23,51 752 93,33 100,0
+2005 49,80 49,7 231 31 21,19 22 100,10 100,0
+2006 5244 484 25,48 235 30,37 280 108,28 100,0
+2007 55,01 415 28,02 242 32,81 28,3 115,84 100,0
+2008 57,18 a42 32,81 254 39,24 304 129,23 100,0
+2009 65,27 45,8 36,13 254 40,98 28,8 142,38 100,0
+2010 66,08 44,1 39,74 26,5 44,08 29,4 149,90 100,0
+2011 1233 44,1 41,50 257 47,94 29,6 161,77 100,0
+
+ 
+
+Fontes: Subsecretaria de Planejamento e Orçamento (SPO)/MS (esfera federal) e SIOPS (esferas estadual e municipal, extraídos em 27 de novembro de 2012).
+Nota: ! Índice Nacional de Preços ao Consumidor Amplo (IPCA).
+
+Obs.: 1.0 gasto federal ASPS está de acordo com a definição das LDOS, que considera os gastos totais do MS, excetuando-se as despesas com inativos e pensionistas, juros
+e amortizações de dívida, bem como as despesas financiadas pelo Fundo de Combate e Erradicação da Pobreza.
+
+2. Vale lembrar que a SPO, para o cálculo do gasto federal ASPS, considera os valores executados na Unidade Orçamentária (UO) 74202 — recursos sob supervisão da
+Agência Nacional de Saúde Suplementar (ANS) até 2007. A partir de 2008, a SPO começou a excluir esta UO do cômputo de gasto em ASPS,
+
+3. O gasto estadual ASPS foi extraído de Notas técnicas produzidas pelo SIOPS com a análise dos balanços estaduais. Foram utilizadas as informações sobre despesa
+própria da análise dos balanços estaduais efetuada pela equipe do SIOPS, em conformidade com as diretrizes da Resolução do Conselho Nacional de Saúde
+(CNS) ne 322/2003 e EC nº 29/2000. Em 2009 e 2010, foram utilizados os dados dos 27 estados que transmitiram ao SIOPS (posição 27 de novembro de 2012).
+Em 2011, foram utilizadas as 26 Unidades da Federação (UFs) que transmitiram até dia 27 de novembro de 2012. Em relação a Alagoas, que ainda não havia
+transmitido até esta data, atualizou-se a informação de 2010 com base no crescimento anual médio observado nos últimos dois anos. Aguardou-se a análise de
+balanço pela equipe do SIOPS dos respectivos anos para a atualização final deste gasto.
+
+4. O gasto municipal ASPS foi extraído da base do SIOPS em 27 de novembro 2012. Os dados referem-se apenas aos municipios que transmitiram em cada ano,
+cujo percentual corresponde a uma média de 99% do total de municípios entre 2001 e 2011. Em 2000, 96% transmititam os dados ao SIOPS e em 2011 este
+percentual foi de 98%.
+
+Entre 2000 e 2011, os estados e municípios mais que triplicaram o volume de recursos
+destinados para a saúde, passando de R$ 28 bilhões para R$ 89 bilhões, o que correspondeu
+a um incremento de R$ 61 bilhões (sendo R$ 28 bilhões referentes ao incremento estadual
+e R$ 32 bilhões, ao municipal). Nesse mesmo período, a União aumentou o gasto em ações
+e serviços públicos de saúde em R$ 31 bilhões, que correspondeu a um aumento de 75%
+
+em relação a 2000. Esse valor incremental é muito próximo ao observado em cada uma
+
+14
+
+ 
+
+7/5/2013 5:46:36 PM
+TD. 03 Miolo.indd 15
+
+Texto para
+Discussão Financiamento Público da Saúde: uma história à procura de rumo
+
+ 
+
+das outras duas esferas de governo, totalizando um aumento da ordem de R$ 92,7 bilhões.
+Assim, dois terços do aumento dos recursos para ASPS após a promulgação da EC nº 29
+foram provenientes das receitas próprias de estados e municípios, enquanto um terço foi
+
+proveniente dos recursos injetados pela União.
+
+Contudo, mesmo com esses aumentos, em 2009 o gasto público em saúde
+encontrava-se em torno de 3,8% do Produto Interno Bruto (PIB) (IBGE, 2012), percentual
+muito inferior àquele aplicado por outros países que possuem sistemas universais de saúde.'º
+
+Quando se analisa a participação do gasto público em saúde das três esferas no
+PIB, observa-se que essa participação aumentou em 1 ponto percentual (p.p.) entre
+2000 e 2011 (2,89% para 3,91%). Entretanto, este incremento observado no indicador
+citado foi proveniente do aumento da participação dos estados e dos municípios no
+PIB, uma vez que a participação da União permaneceu estável ao longo destes anos.
+Nesse período, o gasto federal em ASPS correspondeu a 1,73% do PIB em 2000 e
+1,75% do PIB em 2011, o gasto estadual correspondeu a 0,54% do PIB em 2000 e 1%
+em 2011 e o municipal a 0,6% do PIB em 2000 e 1,16% em 2011.
+
+O que se percebe pela análise deste indicador é que o “esforço” empreendido
+pelos estados e municípios ao longo do tempo para aumentar os gastos em saúde foram
+maiores que o realizado pela União. Ainda assim, em 2011, a União continua sendo a
+
+principal responsável pelo gasto em saúde (gráfico 2).
+
+Há outras formas de olhar esse “esforço” realizado pelos três entes federativos
+nos gastos com saúde ao longo dos últimos anos, entre elas, analisar alguns indicadores
+que relacionam este tipo de gasto com a arrecadação de cada ente federativo." Foram
+elaborados três indicadores que avaliam a participação do gasto em saúde da União,
+
+9. Nesse ano o gasto total (público e privado) foi estimado em 8,8% do PIB. Desse total, o gasto público correspondia a
+43,2% (IBGE, 2012).
+
+10. Alguns países como França, Inglaterra, Alemanha e Espanha têm um gasto público em saúde, em média, de 6% do
+PIB (OMS, 2012).
+
+11. É preciso deixar claro que os indicadores construídos para um ano específico referente à União, aos estados e aos
+municípios não podem ser somados (como foi feito no indicador do gasto em saúde como proporção do PIB), uma vez
+que seus denominadores são diferentes: a arrecadação considerada refere-se aquele ente federativo. Ou seja, não há um
+denominador comum.
+
+15
+
+ 
+
+7/5/2013
+
+5:46:36 PM
+TD. 03 Miolo.indd 16
+
+Rio de Janeiro, julho de 2013
+
+ 
+
+dos estados e dos municípios na arrecadação. O primeiro se refere à participação deste
+gasto em relação aos valores nominais que compõem o numerador da Carga Tributária
+Bruta (CTB). O segundo avalia a participação do gasto em relação à Receita Corrente
+Bruta (RCB). Por fim, o gasto com saúde será analisado à luz da RCB, descontadas as
+Transferências de Assistência e Previdência e Subsídios (TAPS).
+
+GRÁFICO 2
+
+Gasto em ASPS das três esferas de governo em relação ao PIB (2000-2011)
+Em %)
+
+4,50% +
+
+4,00% +
+
+3,50% +
+3,00% +
+2,50% +
+0,80] 71 ' ni 0,99] pt
+
+200% | DE a Do DD a é É no  Uu -
+1,50%
+1,00% +
+
+1,73] 1,73] 1,67] E ES 1,73] ERA ERAS 1,61 Rio ERA RE)
+0,50%
+0,00% T T T T r r T T T T
+
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 201
+
+vo
+
+a
+
+ 
+
+mfederal  mEstadual  m Municipal
+Fontes: SPOJMS (esfera federal), SIOPS (esferas estadual e municipal, extraídos em 27 de novembro de 2012), IBGE (PIB).
+
+Conforme definido pelo IBGE (2008), a CTB é “o quociente entre o somatório
+das arrecadações de impostos, taxas e contribuições pelas três esferas de governo (federal,
+estadual e municipal) e o Produto Interno Bruto”. Ele mede o esforço da sociedade, por
+meio do pagamento de impostos, taxas e contribuições sociais, para o financiamento das
+políticas públicas.
+
+Neste estudo, utiliza-se o numerador da CTB (nCTB) de cada ente federativo,
+que seria o somatório das arrecadações de impostos, taxas e contribuições, para construir
+
+o primeiro indicador que relaciona gasto em saúde com arrecadação."
+
+12. As informações foram extraídas de Orair (2012), por apresentar estimativas mais recentes da nCTB.
+
+16
+
+ 
+
+7/5/2013 5:46:37 PM
+TD. 03 Miolo.indd 17
+
+Texto para
+Discussão Financiamento Público da Saúde: uma história à procura de rumo
+
+ 
+
+Este indicador mostra o comprometimento da arrecadação própria de impostos,
+taxas e contribuições de cada ente federativo com as gastos em saúde. Percebe-se que
+a participação do gasto em saúde no total das receitas tributárias da União (incluídas
+as contribuições) oscilou entre 7% e 8%, entre 2002 e 2011. Nesse mesmo período,
+houve um aumento da participação dos gastos em saúde dos estados e municípios em
+
+relação a essa receita.
+
+ACTB considera apenas os recursos próprios arrecadados pelos entes e não inclui
+as outras receitas correntes, como, por exemplo, as receitas provenientes de transferências
+legais e constitucionais. Assim, os tributos que são arrecadados pela União, mas que
+têm uma parte que deve ser, obrigatoriamente, repassada para os municípios, não estão
+contabilizados como receitas dos municípios. Isso também ocorre para os tributos
+arrecadados pela União que têm que ser repassados para os estados, bem como das
+
+transferências obrigatórias destes para os municípios.
+
+Diferentemente da CTB, a RCB inclui não só a arrecadação de tributos e
+contribuições (nCTB), como as transferências legais e constitucionais e outras receitas
+correntes (de serviços, patrimonial etc.). Esse indicador tem sido o mais utilizado na
+argumentação em favor da ampliação da participação da União no financiamento
+da saúde. Assim, também se faz uma comparação entre União, estados e municípios
+utilizando essa mesma base comum para os três entes. Ao se analisar a participação do
+gasto municipal com saúde em relação à RCB, percebe-se uma redução significativa na
+participação municipal quando comparado ao indicador de gasto sobre CTB. Isso ocorre
+porque as transferências intergovernamentais constitucionais e legais ampliam a receita
+dos estados e municípios, principalmente a dos municípios. Essa seria a explicação para
+a redução da participação do gasto em saúde em relação à RCB desses entes (aumento
+do denominador). Como a União praticamente não recebe de outros entes, o efeito de
+uma participação um pouco menor em relação ao indicador de CTB refere-se às outras
+receitas (serviços, patrimonial etc.). Esse indicador mostra, também, a dependência
+dos municípios de recursos que são arrecadados por outros entes, particularmente pela
+União, o que é resultante da estrutura tributária e do sistema federativo brasileiro. No
+caso desse indicador, o percentual da RCB aplicado pela União e pelos estados tende a
+se aproximar ao longo dos anos, visto que houve aumento para os estados e o da União
+manteve-se estável. O percentual comprometido pelos municípios é maior que aquele
+
+dos outros entes, ele é crescente.
+
+17
+
+ 
+
+7/5/2013
+
+5:46:37 PM
+TD. 03 Miolo.indd 18
+
+Rio de Janeiro, julho de 2013
+
+ 
+
+TABELA 3
+Gasto com ASPS no numerador da CTB (nCTB), na RCB e na RCB-TAPS (RCB descontadas
+as transferências de assistência e previdência e subsídios) (2002-2011)
+
+ 
+
+ 
+
+ 
+
+(Em %)
+aa % da nCTB % da RCB Y% da RCB-TAPS
+União Estados Municípios União Estados Municípios União Estados Municípios
+
+2002 VA 78 48,3 72 54 10,9 14,0 65 11,8
+2003 75 82 474 tal 5,8 ti 14,8 70 120
+2004 717 9,2 41,4 za 65 11,3 14,6 78 12,2
+2005 75 89 52,6 70 61 12,2 13,8 73 13,0
+2006 to 9,2 5a; 72,0 6,4 12,4 13,9 76 13,2
+2007 71 9,4 51,6 67 65 123 134 Tl 13,1
+2008 69 10,0 56,9 64 68 13,2: 12,4 dos 14,1
+2009 80 11,2 57,4 za 7,6 13,2 16,1 9,0 141
+2010 Ta) 11,0 55,0 70 7,6 13,0 14,5 89 14,1
+2011 72 11,0 54,7 70 75 Bo: 14,0 9,0 14,7
+
+ 
+
+Fontes: Secretaria do Tesouro Nacional/Ministério da Fazenda (STN/MF) — RCB e Receita Corrente Liquida (RCL); Secretaria de Política Econômica (SPE)IMF (2012) —TAPS; Orair
+(2012) — nCTB; SIOPS/MS e SPO/MS — gasto em ASPS. Elaboração dos autores.
+
+Obs.: Dados de RCB dos municípios são provenientes do Finanças do Brasil (Finbra) e referem-se, em média, a 5.300 municípios (95% do total de municípios).
+
+A RCB, no entanto, continua mantendo em sua composição receitas que serão
+obrigatoriamente transferidas para outros entes. Assim, o ideal seria comparar os três
+entes federados com base na RCL, que nada mais é que a RCB descontadas, entre
+outras, as transferências legais e constitucionais e as contribuições previdenciárias e
+para o Programa de Integração Social (PIS)/Programa de Formação do Patrimônio
+do Funcionário Público (PASEP). Entretanto, esses dados só estão disponíveis para a
+União (todo o período) e estados (2005 a 2011). As informações para municípios só
+estão disponíveis em relatórios individuais — Relatório resumido da execução orçamentária
+(RREO) —, mas não para todos os municípios. Seria necessário desenvolver uma
+metodologia para calcular os dados de municípios para todo o período e de estados,
+tentando retornar, pelo menos, até 2002, a partir de informações disponíveis nos
+
+sistemas orçamentários estaduais e municipais da STN.
+
+Outro indicador proposto seria descontar da RCB as TAPS. A ideia subjacente
+a esse indicador é que, como os benefícios previdenciários representam em torno de
+15% do PIB e são de pagamento obrigatório, ao excluí-los ter-se-ia uma primeira
+aproximação da disponibilidade de receitas, deduzidas essas vinculações. Como o peso
+ou responsabilidade pelo pagamento desses benefícios é maior para a União, quando eles
+
+18
+
+ 
+
+7/5/2013
+
+5:46:37 PM
+TD. 03 Miolo.indd 19
+
+Texto para
+Discussão Financiamento Público da Saúde: uma história à procura de rumo
+
+ 
+
+são descontados observa-se uma aproximação, ao longo do tempo, da participação dos
+municípios em relação a este ente. Ao final do período, ambos estavam comprometendo
+
+14% da sua RCB, descontadas as TAPS.
+
+Esses indicadores mostram diferentes perspectivas sobre o comprometimento dos
+entes federativos com gastos em saúde. Ao longo do tempo, o esforço macroeconômico
+(em termos do PIB) dos estados e municípios foi maior que o da União. Os municípios
+ampliaram, também, o comprometimento de suas receitas tributárias ou correntes.
+Contudo, a depender do indicador utilizado, no final do período há uma convergência
+da proporção aplicada (quer entre União e estados quer entre União e municípios).
+
+Como visto, com todo esse esforço, o percentual de recursos públicos aplicados
+em saúde não ultrapassou 4% do PIB. Ao longo do tempo, os sistemas de saúde têm
+comprometido parcelas cada vez maiores de recursos públicos visando garantir o acesso
+dos seus cidadãos. Nos países com sistemas de saúde universal, esse percentual já
+ultrapassa os 6% do PIB há algum tempo e, em muitos, supera 10%. Essas comparações
+dão uma ideia do caminho que o Brasil ainda tem que percorrer, sendo necessário
+avançar, também, na compreensão do custo e da efetiva necessidade de recursos para
+
+implantar um sistema que se quer universal, integral e equânime.
+
+Nos últimos anos, foram longas as discussões sobre a possibilidade de aumentos
+de recursos para a saúde e em torno da regulamentação da EC nº 29, a qual será objeto
+
+das próximas seções.
+
+4 A REGULAMENTAÇÃO DA EC Nº 29
+
+A primeira versão da proposta legislativa de vinculação de recursos para a saúde (PEC
+nº 1694/1993) estabelecia que a participação dos estados, do Distrito Federal e dos
+municípios seria baseada em percentual de sua receita de impostos, inicialmente com
+percentual igual a 10%, de forma indistinta. A União, por sua vez, contribuiria com
+30% da receita das contribuições vinculadas à seguridade social e 10% da receita de
+impostos. O que foi finalmente aprovado sete anos depois (EC nº 29/2000) foi bem
+
+13.Hávários trabalhos sobre a estrutura tributária e as finanças públicas brasileiras. Eles mostram questões como endividamento,
+evolução da carga tributária e comprometimento das receitas. Ver, entre outros, Santos, Castro e Ribeiro (2010).
+
+19
+
+ 
+
+7/5/2013
+
+5:46:37 PM
+TD. 03 Miolo.indd 20
+
+Rio de Janeiro, julho de 2013
+
+ 
+
+diferente da proposta inicial, principalmente no que concerne à vinculação dos gastos
+
+com saúde da União.
+
+Segundo o Artigo 7º da EC nº 29: “Até o exercício financeiro de 2004, os recursos
+mínimos aplicados nas ações e serviços públicos de saúde seriam equivalentes, no caso de
+Estados a 12% de sua receita de impostos e dos municípios 15% da receita de impostos”.
+Ademais, o alcance desse percentual poderia ser gradativo, reduzida a diferença de aplicação
+em pelo menos um quinto ao ano, desde que em 2000 a aplicação já fosse de 7%. A
+grande mudança se deu em relação à participação dos recursos da União. Foi substituída
+a proposta de vinculação de percentual da receita de contribuições da seguridade social
+ou da receita de impostos. O que acabou prevalecendo foi a proposição de que o mínimo
+a ser aplicado pela União deveria ser, no ano 2000, “o montante empenhado em ações
+e serviços públicos de saúde no exercício financeiro de 1999 acrescido de, no mínimo,
+cinco por cento”. Ou seja, 5% de acréscimo nominal.'í Do ano de 2000 até 2004, o
+valor apurado no ano anterior seria corrigido pela variação nominal do PIB. Para a LC,
+que deveria ser reavaliada a cada cinco anos, foram encaminhadas diversas questões
+importantes como: 7) a confirmação dos percentuais de participação das três esferas
+no financiamento do SUS; 17) critérios de rateio dos recursos da União destinados aos
+estados, ao Distrito Federal e aos municípios, e dos estados destinados aos respectivos
+
+municípios; e 17:1) as normas de cálculo do montante a ser aplicado pela União.
+
+Além das questões anteriores, outra se mostrou particularmente importante
+e também carente de regulamentação: a definição de “ASPS”. Toda a prolongada
+discussão que decorreu poderia ter sido evitada, se no lugar dessa expressão fosse
+utilizada simplesmente a denominação “financiamento das ações e serviços do SUS”.
+Mas cunhou-se a expressão ASPS na EC nº 29, sem definir o que está incluído nesse
+conceito. É certo que logo se tentou contornar a questão mediante resolução do CNS.
+Contudo, nem todos os atores e gestores públicos reconheceram a Resolução nº 322/2003
+do CNS como um instrumento suficiente para definição do que são ASPS. Na falta de
+instrumento normativo legal de maior hierarquia, alguns entes da federação incluíam
+como gastos em ASPS ações que não deveriam ser assim consideradas para efeitos de
+
+cumprimento da EC nº 29.
+
+14. A mudança na forma de vinculação dos recursos federais para o SUS para uma situação em que não significasse
+repercussão financeira mais intensa e imediata sobre o nível de gasto da União com a saúde foi a fórmula encontrada para
+a obtenção do nihil obstat da área econômica do governo à aprovação da EC nº 29.
+
+20
+
+ 
+
+7/5/2013
+
+5:46:37 PM
+TD. 03 Miolo.indd 21
+
+Texto para
+Discussão Financiamento Público da Saúde: uma história à procura de rumo
+
+ 
+
+A falta de regulamentação também gerou discussões acerca da base sobre a qual
+incidiria a correção correspondente à variação nominal do PIB, para determinação do
+montante dos recursos federais, entre outras questões. Foi a polêmica da “base fixa”
+versus “base móvel”? ocorrida em 2001 e 2002. Na visão da Procuradoria-Geral da
+Fazenda Nacional (PGEN)/ME, seguida pela Advocacia-Geral da União (AGU), o
+“valor apurado no ano anterior” para 2000 seria o valor apurado em 1999 acrescido de
+5%. Sobre esse valor, já fixado, seria acrescido, ano a ano, a variação nominal do PIB.
+A consultoria jurídica do MS, por sua vez, interpretou “valor apurado no ano anterior”
+como o montante efetivamente empenhado pelo MS, em cada exercício financeiro.
+Ou seja, se o valor empenhado pelo MS, mesmo em 2000, para os gastos em ações e
+serviços públicos de saúde fosse superior ao mínimo, este valor passaria a ser a base para
+aplicação da variação do PIB. Vem daí o conceito de “base móvel”. é
+
+Desta forma, a falta de uma regulamentação permitiu que fossem encontrados
+subterfúgios para fugir do cumprimento efetivo da emenda. Ao utilizar os critérios
+estabelecidos na Resolução nº 322 e aplicá-los à análise de balanços dos estados de
+2008, por exemplo, a equipe do SIOPS indica que apenas treze estados teriam aplicado
+o mínimo de 12% de sua receita vinculada em saúde conforme estabelecido pela EC
+nº 29 (MS, 2010). Na última análise de balanços feita pela equipe do SIOPS, no ano
+de 2008, os estados teriam destinado, em média, 10,8% de sua receita vinculada para
+a saúde. Esses “vazamentos” permitiram, segundo estimativas, que cerca de R$ 16,0
+bilhões deixassem de ser aplicados no SUS apenas pelos estados no período entre 2004
+e 2008 (Fiocruz, 2012; Servo et al., 2011). Segundo as mesmas fontes, o chamado
+déficit de aplicação da União teria sido de R$ 3,08 bilhões de 2000 a 2008 e chegaria
+a cerca de R$ 9,0 bilhões se para os gastos do MS fosse adotada a mesma análise de
+compatibilidade com conceito de ASPS da Resolução nº 322/CNS, que era aplicada
+pela equipe do SIOPS na análise de balanço das administrações estaduais.'é
+
+15. Essa questão foi objeto da Decisão nº 143, de 20 de março de 2002 do Tribunal de Contas da União (TCU) (item 18.1)
+que se manifestou favoravelmente à tese da base móvel.
+
+16. Em maio de 2009, o Ministério Público Federal encaminhou ao MF, ao MS e ao Ministério do Planejamento, Orçamento
+e Gestão (MPOG) o Oficio nº 233 da Procuradoria da República no Distrito Federal (PRDF), estimando em mais de R$ 5 bilhões
+o valor acumulado de descumprimento da EC nº 29. Esse valor foi contestado pelo MF e o MPOG em Nota técnica que
+acompanha o Ofício nº 81/MF, encaminhado à Procuradoria Geral da República em 2 de outubro de 2009. Com relação
+aos municípios, basicamente todos declaram ao SIOPS que cumprem o percentual mínimo de 15% da receita. Cabe
+ressaltar, contudo, que não é realizada a análise de balanço pela equipe do SIOPS para validar a informação declarada
+pelos municípios, diferentemente do que acontece com as informações enviadas pelos estados (Servo et aí 2011, p. 10).
+
+21
+
+ 
+
+7/5/2013
+
+5:46:37 PM
+Rio de Janeiro, julho de 2013
+
+ 
+
+Depois de inúmeras tentativas, e transcorrida quase uma década desde as
+primeiras tentativas, a EC nº 29/2000 foi finalmente regulamentada por meio da LC
+nº 141, sancionada pela Presidência da República em 13 de janeiro de 2012. Apesar de
+não ter correspondido aos anseios daqueles que desejavam aumentar a participação dos
+recursos da União no financiamento do SUS, a regulamentação da EC nº 29 apresentou
+pontos positivos.
+
+Um deles é finalmente definir, por meio de instrumento adequado, o que se
+entende por ASPS, para fins de verificação do cumprimento da emenda. À rigor, a maior
+parte do rol de ações que poderiam ser consideradas como ASPS e, principalmente, os
+critérios básicos para esse julgamento já constavam de regulamentações anteriores.”
+Entretanto, como dito anteriormente, esses diplomas legais foram seguidamente
+contestados sob a argumentação de serem hierarquicamente insuficientes para alcançar
+o propósito de regular a emenda. Outro ponto positivo da regulamentação foi o
+tratamento dado aos restos a pagar cancelados. Todo ano, uma parte dos recursos
+empenhados, que entrava na contabilidade de cumprimento da emenda, era registrada
+para ser aplicada nos anos seguintes. Por uma série de motivos, alguns desses recursos
+podem ter sua execução cancelada, fato que pode ocorrer na União, nos estados e nos
+municípios.'* Agora, a regulamentação define que os recursos cancelados que entraram
+
+na conta para se alcançar o valor mínimo devem ser repostos e como isso deve ser feito.
+
+Além destes dois itens já mencionados, a LC também se mostrou presente no que
+tange à regulamentação do não cumprimento do mínimo em saúde previsto em lei.
+A partir desta lei ficou definido que aqueles entes que descumprirem o valor mínimo
+previsto para ser gasto em ações e serviços públicos de saúde daquele ano deverão
+compensar esta diferença no ano seguinte, sem que ela entre na contabilidade do valor
+
+gasto neste ano.
+
+A regulamentação da EC nº 29 era vista como uma oportunidade de ampliação
+dos recursos para o SUS por duas vertentes: 7) correção dos “vazamentos” e da
+instauração de medidas mais severas para evitar o descumprimento da emenda; e 11) criação
+
+17. Portaria nº 2.047/GM/MS, de 5 de fevereiro de 2002, Resolução nº 316, de 3 e 4 de abril de 2002 e Resolução nº
+322, de 8 de maio de 2003, ambas do CNS.
+
+18. Para se ter uma ideia, somente o MS cancelou recursos da ordem de R$ 2,6 bilhões no período de 2000 a 2008.
+
+22
+
+ 
+
+TD 03 Miolo.indd 22 7/5/2013 5:46:37 PM
+TD. 03 Miolo.indd 23
+
+Texto para
+Discussão Financiamento Público da Saúde: uma história à procura de rumo
+
+ 
+
+de novas fontes de recursos para o sistema, medida associada ou não à mudança na
+forma de participação da União no financiamento do SUS. Apesar de, como vimos
+anteriormente, as três esferas de governo terem contribuído para o aumento de recursos
+para o SUS, a maioria das análises feitas considerava que o esforço dos municípios
+já estava no limite e que muitos estados enfrentavam problemas reais para alocar o
+mínimo previsto pela emenda. Nessa conjuntura, a crítica mais severa recafa sobre a
+União, sob a alegação de estar fazendo um esforço menor no financiamento do sistema.
+
+Essaafirmação era respaldada pelas seguintes constatações: 7) crescente participação
+da União na carga tributária total; 77) manutenção da participação relativa da saúde
+nos gastos sociais da União, como percentual do PIB, enquanto se verifica aumento
+significativo do gasto social federal; 777) diminuição da participação relativa dos gastos
+federais com ASPS em relação à RCB da União; e iv) diminuição da participação
+relativa dos recursos federais no financiamento do SUS de quase 60% em 2000 para
+cerca de 45% em 2010.
+
+Em parte, a diminuição da participação relativa da União no financiamento
+do SUS — argumento mais amplamente utilizado — pode ser explicada pela baixa
+participação dos estados e municípios no financiamento da saúde no ano 2000. Mas é
+também preciso considerar que a participação da União partiu de uma base não muito
+expressiva em 2000 e, ademais, nos anos seguintes, o que deveria ser um valor mínimo
+(correção pela variação nominal do PIB), passou, na maioria dos anos, a funcionar
+
+como teto das aplicações da União no SUS.
+
+Desta forma, no processo de regulamentação da EC nº 29, foram tentados
+dois caminhos para o aumento da participação da União no financiamento do SUS:
+7) ampliação de recursos por meio da regulamentação da EC nº 29 e criação de um
+novo tributo; e 77) ampliação de recursos por meio da regulamentação da EC nº 29 e
+mudança do critério de vinculação do gasto do governo federal.
+
+A regulamentação com a recriação da CPMF, que passaria a ser denominada
+Contribuição Social para a Saúde (CSS) correspondia à primeira possibilidade. No
+
+último ano que vigorou, com uma alíquota de 0,38%, a CPMF arrecadou mais de
+
+19.0 gasto social federal cresceu de 11,2% do PIB em 1995 para 15,8% em 2009, enquanto os gastos federais com saúde
+mantiveram-se em torno de 1,7% do PIB no mesmo período (Ipea, 2011; Castro et aí, 2012).
+
+23
+
+ 
+
+7/5/2013
+
+5:46:37 PM
+Rio de Janeiro, julho de 2013
+
+ 
+
+R$ 35 bilhões, o que correspondeu a 1,4% do PIB. Contudo, a proposta não era
+de manter a mesma alíquota, mas aplicar uma alíquota de 0,20%. Além disso, das
+propostas que tramitaram na Câmara e no Senado, nenhuma garantia que a CSS fosse
+
+integralmente vinculada à área de saúde.
+
+A segunda possibilidade seria regulamentar a EC nº 29 e alterar o critério de
+vinculação dos recursos federais. Em sua forma original e que acabou sendo mantida, a
+EC nº 29 prevê que os recursos da União aplicados em ASPS seriam iguais ao montante
+aplicado no ano anterior acrescido da variação do PIB. Esse critério é diferente daquele
+empregado por estados e municípios, cuja vinculação é feita com base na receita
+vinculada. Assim, no processo de regulamentação da EC nº 29 foram apresentados
+projetos de lei (PLs) propondo a alteração no critério de vinculação de recursos da União
+que, segundo essas proposições, passaria a ser um percentual da receita tributária. Duas
+propostas foram colocadas em discussão: 10% da RCB (a ser alcançado gradativamente
+em quatro ou cinco anos) ou 18% da RCL. A mudança da regra de vinculação da
+União para 18% da RCL poderia implicar um aumento de R$ 27,7 bilhões, ao passo
+que a vinculação à RCB envolveria mais R$ 32 bilhões. Ainda assim, a maior ampliação
+de recursos levaria a um aumento de menos de 1% do PIB no gasto público em saúde.
+Isso significaria aumentar o gasto público para menos de 5% do PIB. Como se sabe,
+essas propostas não foram aprovadas e o Congresso manteve a forma de cálculo da
+participação federal no financiamento do SUS.
+
+Passados menos de três meses da votação, observou-se uma reativação do
+movimento em defesa de mais recursos federais para o SUS. Em março de 2012 a
+articulação de diversas entidades da sociedade civil lançou o Movimento Nacional em
+Defesa da Saúde Pública, propondo um PL de iniciativa popular com o objetivo de
+alterar o valor mínimo a ser aplicado pela União como o equivalente a 10% de sua RCB.
+É o chamado movimento Saúde +10. Na Câmara Federal já existem duas iniciativas
+de parlamentares, apensadas, sendo apreciadas na Comissão de Seguridade Social e
+Família (CSSF), os PLPs nº 123/2012 e nº 124/2012, respectivamente de autoria dos
+deputados Darcisio Perondi e Eleuses Paiva com a mesma finalidade.
+
+24
+
+ 
+
+TD 03 Miolo.indd 24 7/5/2013 5:46:37 PM
+TD. 03 Miolo.indd 25
+
+Texto para
+Discussão Financiamento Público da Saúde: uma história à procura de rumo
+
+ 
+
+5 O PROCESSO DE DESCENTRALIZAÇÃO DE RECURSOS
+FINANCEIROS
+
+Uma análise da execução orçamentária do MS por modalidade de aplicação permite
+observar a tendência de redução das aplicações diretas e de aumento expressivo
+das transferências para estados e municípios, que seria indicativo de um processo
+de descentralização dos recursos. Esse aumento é coerente com o princípio da
+descentralização estabelecido na CF/1988, que passou a ser aplicado mais fortemente a
+partir da publicação das Normas Operacionais Básicas (NOBgs).
+
+As transferências a municípios apresentaram crescimento a partir da NOB nº 01/1993.
+Entretanto, elevaram-se mais rapidamente com a publicação da NOB nº 01/1996 que,
+de acordo com Servo et al. (2011),
+
+(...) buscou resgatar e definir atribuições mais claras para os estados, bem como o fortalecimento
+da Comissão Intergestores Tripartite (CIT)? e das Comissões Intergestores Bipartites (CIBs),?! com
+o estabelecimento da Programação Pactuada e Integrada (PPI). Criou, também, a modalidade de
+“gestão plena do sistema” por meio da qual estados e municípios poderiam obter total autonomia
+na gestão do conjunto do seu sistema de saúde. Os municípios também poderiam optar por ser
+gestores plenos da atenção básica. Por meio dessa NOB é que foram criados o Piso da Atenção
+Básica (PAB) e a política de incentivos para programas como Agentes Comunitários de Saúde
+(PACS) e o Programa de Saúde da Família (PSF).
+
+Já as transferências para estados e Distrito Federal ampliam-se significativamente
+a partir de 2000, coincidindo, principalmente, com a publicação da EC nº 29 e da
+Norma Operacional da Assistência à Saúde (Noas)/2001. Essa última tenta ampliar a
+participação dos estados na gestão do SUS, particularmente por recolocar a discussão
+sobre a regionalização da saúde.
+
+Em 1995, o MS aplicava diretamente quase 90% dos seus recursos na compra
+e distribuição de bens e provisão de serviços de saúde para a população. A partir daí, a
+descentralização dos recursos para estados e municípios começa a ser ampliada, atingindo
+certa estabilidade a partir de 2004. Nesse ano, o percentual aplicado diretamente pelo
+
+20. Instância de articulação e pactuação na esfera federal que atua na direção nacional do SUS, integrada por gestores do
+SUS das três esferas de governo — União, estados, Distrito Federal e municípios.
+
+21. É o fórum de negociação entre o estado e os municípios na implantação e operacionalização do SUS.
+
+25
+
+ 
+
+7/5/2013
+
+5:46:37 PM
+TD. 03 Miolo.indd 26
+
+Rio de Janeiro, julho de 2013
+
+ 
+
+MS representava 33% do total e tem se mantido entre 30% e 35% desde então e a
+
+maior parte dos recursos tem sido transferida para estados e municípios (gráfico 3).
+
+GRÁFICO 3
+
+Ministério da Saúde (MS): descentralização dos gastos - comparação entre a
+participação percentual dos gastos diretos e dos recursos transferidos a outras esferas
+de governo (1995-2010)
+
+(Em %)
+
+100% +
+
+ 
+
+ 
+
+% |
+90% 4 8
+Nag
+-.83
+80% “elo
+N
+70% + »
+" ba
+% “a
+60% -.05
+“oa
+omg:
+50% + Ea a
+SE oct 4.43
+- Aliado de decido
+40% + 35 pisa a
+Dune PS as
+30% + Re Css 78
+2 a:
+” set a
+20% + 14,47 8
+oo?” 9 4--f
+2U-- Mo -Pe--
+10% ses 8 door
+mo A -2-- 7 3 Sh 4 3 3 3 2 2 2 2
+0% 2 4 1
+
+ 
+
+1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+
+== — aplicações diretas =s = =» Transferência a municípios — — — Transferência aos estados e DF Outros
+
+Fonte: Siafi/Sidor. Elaboração: Ipea/Diretoria de Estudos e Políticas Sociais (Disoc).
+
+Ao buscar atender o princípio constitucional de descentralização, o MS,
+muitas vezes, utilizou-se das transferências financeiras para induzir a implantação de
+determinadas políticas de saúde. Entre outras políticas, o MS buscou induzir uma
+mudança do modelo assistencial, por meio da expansão da atenção básica de saúde.
+Mesmo antes da promulgação da CF/1988, havia uma leitura de que era necessário
+reforçar a atenção básica e transformá-la na “porta de entrada” para o sistema público
+de saúde. Fazer com que ela fosse a porta de entrada significava que teria de atuar
+como o primeiro nível de atendimento: a assistência à saúde teria início na atenção
+básica e de lá a população seria encaminhada (referenciada), quando necessário, para
+os outros níveis de maior complexidade (denominados média e alta complexidade).
+Após ser atendida nesses outros níveis, a população deveria ser encaminhada
+novamente (contrarreferenciada) para continuar a ser acompanhada na atenção
+básica. Ou seja, a atenção básica seria responsável pelo acompanhamento contínuo
+
+26
+
+ 
+
+7/5/2013
+
+5:46:38 PM
+TD. 03 Miolo.indd 27
+
+Texto para
+Discussão Financiamento Público da Saúde: uma história à procura de rumo
+
+ 
+
+da população, mantendo toda informação sobre os atendimentos prestados. Além
+disso, esse nível de atenção seria responsável por ações de promoção e prevenção,
+conformando, junto com a assistência de média e alta complexidade, um sistema
+
+voltado para a atenção integral à saúde da população.
+
+Para efetivar essa reorientação do modelo, o primeiro passo seria ampliar a
+cobertura da atenção básica em todas as regiões do país. Em 1996, o MS, a partir
+da avaliação de experiências bem-sucedidas em alguns estados e municípios, resolveu
+adotar e apoiar o modelo de Saúde da Família, que deveria ser estendido para todo
+O território nacional. Para isso, criou incentivos para os municípios que passassem a
+adotá-lo. A proposta foi inicialmente conhecida como Programa Saúde da Família
+(PSF) e atualmente tem sido denominada Estratégia de Saúde da Família.
+
+Essa tentativa de reorientação do modelo de atenção, que prioriza a atenção
+básica, refletiu-se na distribuição de recursos federais para estados e municípios. Há um
+crescimento da participação das transferências para atenção básica no total de recursos
+alocados pelo MS em ASPS de 9,7% em 1995 para mais de 15% em 2010. Observa-se,
+também, uma mudança importante na alocação de recursos entre o Piso de Atenção
+Básica (PAB)-variável (voltado para o financiamento da Saúde da Família) e o PAB-fixo
+(recursos per capita para financiamento de toda a atenção básica, inclusive aquelas ações
+que não estão diretamente relacionadas ao PSF). Em 1995, o PAB-fixo respondia por
+cerca de 9% dos gastos do MS em ASPS. Em 2010, esse valor estava próximo de 5%
+do total. Nesse mesmo período o PAB-variável aumenta sua participação de menos de
+1% para 9% dos recursos aplicados pelo governo federal em ASPS.
+
+Os procedimentos utilizados para realizar transferências federais, não somente na
+atenção básica, mas também em outros componentes da atenção à saúde, com excessiva
+fragmentação das parcelas e definição por portaria ministerial, levaram alguns autores
+a questionar se o MS estaria promovendo uma efetiva descentralização, nomeando as
+transferências de “tuteladas” (Goulart, 2001). Na defesa dessa forma de condução do
+processo, o MS defendia que, considerando as capacidades dos municípios, caberia ao
+nível federal orientar o processo de construção do SUS e que esse processo teria sido
+discutido na Comissão Intergestores Tripartite (CIT), que reúne representantes das três
+esferas. De outro lado, estados, Distrito Federal e municípios consideravam que deveria
+
+ser dada maior autonomia ao poder local para realizar suas ações.
+
+21
+
+ 
+
+7/5/2013
+
+5:46:38 PM
+Rio de Janeiro, julho de 2013
+
+ 
+
+Essa discussão culmina com a publicação, em 2006, do Pacto pela Saúde que surgiu da compreensão
+dos gestores federal, estaduais e municipais da importância de avançar na pactuação de objetivos
+e metas no campo sanitário, da necessidade de defender o SUS e organizar a transferência de
+recursos federais. Assim, o Pacto pela Saúde é composto de três dimensões: o Pacto pela Vida, o
+Pacto em Defesa do SUS e o Pacto de Gestão (Ipea, 2007, p. 81).
+
+Nesse processo, buscou-se consolidar os mecanismos de transferências nos
+denominados “blocos de financiamento”. Foram criados cinco blocos: atenção básica,
+atenção de média e alta complexidade, vigilância em saúde, assistência farmacêutica e
+gestão. Com isso, objetivava-se um rearranjo das transferências federais que, em vez de
+serem feitas por uma grande multiplicidade de programas e ações específicos, passariam
+a ser organizadas por meio desses blocos. Apesar de não diminuir a multiplicidade de
+repasses, a proposta permitiu que estados e municípios tivessem maior autonomia para
+realocar os recursos dentro de cada bloco.?? Contudo, a discussão continua ainda hoje,
+visto que as tentativas de agregar melhor o conjunto de transferências, com a definição
+dos blocos de financiamento, é apenas uma parte da questão. A outra parte é o problema
+
+dos mecanismos e critérios de repasses de recursos federais para estados e municípios.
+
+Contudo, para discutir melhor esta questão dos mecanismos e critérios de transferência
+dos recursos federais é preciso retroceder à versão da Lei nº 8.080, de setembro de 1990,
+aprovada pelo Congresso Nacional, e recordar os vetos feitos pela Presidência de República
+a dispositivos da lei, especialmente aos que, de alguma maneira, se relacionavam com a
+questão da descentralização de recursos federais. Alguns desses vetos, como ver-se-á mais
+adiante, foram revertidos na Lei nº 8.142, de dezembro de 1990, outros não.
+
+Dois dos vetos feitos à Lei nº 8.080 incidiram sobre dispositivos que tratavam
+da forma de repasse dos recursos federais. O primeiro ocorreu sobre o parágrafo 2º do
+Artigo 33. Esse parágrafo tinha a seguinte redação:
+
+Os recursos do Fundo Nacional de Saúde - FNS, destinados às ações e serviços do Sistema Único
+de Saúde - SUS, a serem executados pelos Estados e Municípios serão transferidos diretamente
+e de forma regular e automática, em conformidade com as cotas previstas em programação e
+cronograma aprovados pelo Conselho Nacional de Saúde.
+
+22.A apresentação dos blocos e da discussão naquele momento está resumida em Ipea (2007, p. 82-87).
+
+28
+
+ 
+
+TD 03 Miolo.indd 28 7/5/2013 5:46:38 PM
+TD. 03 Miolo.indd 29
+
+Texto para
+Discussão Financiamento Público da Saúde: uma história à procura de rumo
+
+ 
+
+O parágrafo 3º desse mesmo artigo, também vetado, estabelecia que
+
+Os recursos financeiros referidos no parágrafo 1º do art. 35 desta Lei serão transferidos
+independentemente da programação mencionada no parágrafo 2º deste artigo. Lembrar que o
+parágrafo 1º do Art. 35 estabelecia que: "Metade dos recursos destinados a Estados e Municípios
+será distribuído segundo o quociente de sua divisão pelo número de habitantes, independentemente
+de qualquer procedimento prévio.
+
+Desta forma, o automatismo e a regularidade tinham sido excluídos da Lei
+nº 8.080/1990 pelos vetos do então presidente Fernando Collor de Melo. A justificativa
+para os vetos é que se tratava de minúcias impróprias à lei e que poderiam ser factíveis
+
+por outros instrumentos.
+
+A proposição de que as transferências fossem diretas, regulares e automáticas foi
+reinserida na Lei nº 8.142/1990. Mas nada sugere que o automatismo pudesse ser nos moldes
+das transferências do FPE e FPM, uma vez que os recursos federais seriam originários do
+OSS e administrados pelo MS, por meio do ENS (Artigo 35 caput). Ou seja, nada indicava
+
+a intenção de se ter uma partilha na origem, antes dos recursos tramitarem pelo OSS.
+
+Outros dois vetos incidiram sobre os parágrafos 3º e 4º do Artigo 35. O parágrafo
+3º estabelecia que
+
+A Lei de Diretrizes Orçamentárias estabelecerá a proporção de recursos a serem distribuídos ao
+conjunto de estados e ao conjunto de Municípios e os que ficarão sob gestão do Ministério da
+Saúde, para programas e projetos de caráter nacional e regional e para reforço de projetos e
+atividades estaduais e municipais que, por eventualidades e circunstâncias epidemiológicas
+necessitem de assistência especial.
+
+E o parágrafo 4º, do mesmo artigo, definia que os estados também deveriam
+estabelecer a proporção de recursos que seriam repassados automaticamente para os
+
+municípios e os que ficariam sob sua gestão.
+
+Estes dispositivos foram vetados sob a argumentação de que só poderiam constar
+de LC por versarem sobre conteúdo da LDO. O fato é que esta definição, muito
+importante para o sistema, não foi reinserida em nenhuma LC, nem mesmo na que
+tratou da regulamentação da EC nº 29. Mas por que essa definição é importante?
+
+29
+
+ 
+
+7/5/2013
+
+5:46:38 PM
+TD. 03 Miolo.indd 30
+
+Rio de Janeiro, julho de 2013
+
+ 
+
+Principalmente porque forçaria uma discussão sobre o que são programas e projetos de
+caráter nacional, evitando a vulgarização da utilização desses conceitos. Ou seja, uma
+discussão sobre as competências da esfera federal em um sistema descentralizado.
+
+Com os vetos, o Artigo 35 ficou com a seguinte redação:
+
+Para o estabelecimento de valores a serem transferidos a Estados, Distrito Federal e Municípios,
+será utilizada a combinação dos seguintes critérios, segundo a análise técnica de programas e
+projetos: | — perfil demográfico da região; Il — perfil epidemiológico da população a ser coberta;
+Ill — características quantitativas e qualitativas da rede de saúde na área; IV — desempenho técnico,
+econômico e financeiro do período anterior; V — níveis de participação do setor saúde nos orçamentos
+estaduais e municipais; VI- previsão do plano quinguenal de investimento da rede; VII — ressarcimento
+do atendimento de serviços prestados a outras esferas de governo; Parágrafo 1º - Metade dos recursos
+destinados a Estados e Municípios será distribuído segundo o quociente de sua divisão pelo número
+de habitantes, independentes de qualquer procedimento prévio; Parágrafo 2º - Nos casos de Estados
+e Municípios sujeitos a notório processo de migração, os critérios demográficos mencionados nesta
+Lei serão ponderados por outros indicadores de crescimento populacional, em especial o número de
+eleitores registrados. Parágrafo 6º - o disposto no parágrafo anterior não prejudica a atuação dos
+órgãos de controle interno e externo e nem a aplicação de penalidades previstas em lei, em caso de
+irregularidades verificadas na gestão dos recursos transferidos.
+
+Sem os dispositivos vetados, principalmente o parágrafo 3º do Artigo 33, o que restou
+do Artigo 35 seria de pouca utilidade para o processo de descentralização, até mesmo para
+a implementação do seu parágrafo 1º — uma vez que tinham sido preservados critérios de
+partilha, mas não tinha sido mantido o novo mecanismo — repasse fundo a fundo — que iria
+substituir a modalidade transferência por convênio. A transferência regular e automática,
+com montantes definidos por critérios conhecidos, daria maior segurança, como o processo
+de descentralização dos recursos federais viria demonstrar, aos estados, Distrito Federal e
+municípios para assumirem responsabilidades dentro do SUS.
+
+Ademais, muito cedo percebeu-se que o Artigo 35 não era autoaplicável.? No
+mínimo, as várias dimensões que entravam em seu cálculo poderiam ter pesos diferentes.
+Seria, portanto, necessário definir e aprovar uma metodologia para a utilização dos
+critérios previstos no Artigo 35.
+
+23. Os dois primeiros estudos simulando a aplicação dos critérios do Artigo 35 foram elaborados: um por Janice Dornelles
+Castro e outro por Vianna et aí. para a Organização Pan-Americana da Saúde (Opas) em 1990.
+
+30
+
+ 
+
+7/5/2013
+
+5:46:38 PM
+TD. 03 Miolo.indd 31
+
+Texto para
+Discussão Financiamento Público da Saúde: uma história à procura de rumo
+
+ 
+
+A saída foi política. Em dezembro de 1990, foi negociada e aprovada a Lei
+nº 8.142/1990 (Artigo 3º, parágrafo 1º). Por essa lei, enquanto não fosse regulamentado
+o Artigo 35 da Lei nº 8.080, seria utilizado, para o repasse de recursos, exclusivamente o
+critério previsto no parágrafo 1º do Artigo 35, ou seja, um per capita igualitário?! Esse
+critério só começaria a ser utilizado mais tarde, ainda que parcialmente, com a adoção do
+PAB, em 1998, como o critério utilizado para distribuir os recursos do PAB-fixo. Contudo,
+mesmo nesse caso os recursos per capita eram diferenciados, uma vez que os estados e
+municípios que já aplicavam mais recursos naqueles procedimentos e serviços constantes no
+rol de atividades a serem financiadas pelo PAB-fixo continuaram a receber o mesmo volume
+de recursos. De qualquer forma, no tocante ao mecanismo utilizado ou à forma de repasse,
+as primeiras transferências, regulares e automáticas, foram feitas sob a égide da NOB
+nº 01/1993, no custeio da assistência médico-hospitalar.> Esses repasses, contudo, tiveram
+como critério a utilização da série histórica das alocações para o estado ou município em
+
+questão, como base para definir o montante de recursos a serem transferidos.
+
+Apesar de constar na Lei nº 8.142/1990 a forma direta, regular e automática
+para as transferências federais para estados e municípios, a utilização mais ampla desse
+
+26 até a aprovação do Decreto nº 1.232, de
+
+mecanismo teve de ser sempre reforçada
+30 de agosto de 1994, que dispõe sobre “as condições e a forma de repasse regular
+e automático de recursos do Fundo Nacional de Saúde para os fundos estaduais e
+
+municipais e do Distrito Federal”.
+
+O Decreto nº 1.232/1994 definia no Artigo 1º que:
+
+Os recursos do Orçamento da Seguridade Social alocados ao Fundo Nacional de Saúde e
+destinados à cobertura dos serviços e ações de saúde a serem implementados pelos Estados,
+Distrito Federal e Municípios serão a estes transferidos, obedecida a programação financeira do
+Tesouro Nacional, independentemente de convênio ou instrumento congênere e segundo critérios,
+valores e parâmetros de cobertura assistencial, de acordo com a Lei 8080, de 19 de setembro de
+1990, e exigências contidas neste Decreto.
+
+24. O parágrafo 1º do Artigo 35 define que metade dos recursos destinados a estados e municípios será distribuída
+segundo o quociente de sua divisão pelo número de habitantes, independentemente de qualquer procedimento prévio.
+
+25. Incluía a atenção hospitalar e ambulatorial.
+
+26. A Lei nº 8.689, de 27 de julho de 1993, que trata da extinção do INAMPS, estabelece que os recursos para custeio
+dos serviços transferidos ao município, estado ou DF integrarão o montante de recursos que o FNS transferirá, regular e
+automaticamente, aos fundos estadual e municipal de saúde.
+
+31
+
+ 
+
+7/5/2013
+
+5:46:38 PM
+TD. 03 Miolo.indd 32
+
+Rio de Janeiro, julho de 2013
+
+ 
+
+Também reforçava, no parágrafo 1º do mesmo artigo, que:
+
+Enquanto não forem estabelecidas, com base nas características epidemiológicas e organização
+dos serviços assistenciais previstas no art. 35 da Lei 8080, de 1990, as diretrizes a serem observadas
+na elaboração dos planos de saúde, a distribuição de recursos será feita exclusivamente segundo o
+quociente de sua divisão pelo número de habitantes, segundo estimativas populacionais fornecidas
+pelo IBGE, obedecidas as exigências deste decreto.
+
+A necessidade de se ter uma lei que definisse critérios de transferências de
+recursos em áreas de financiamento compartilhado entre União, estado e municípios
+continuou presente. Em 1998, a EC nº 20, de 15 de dezembro de 1998, que modificava
+o sistema de previdência social em dispositivos relacionados à previdência do servidor
+público, estabelecia no parágrafo 10 do Artigo 195 que lei deveria definir os critérios
+de transferência para o SUS e ações de assistência social da União para os estados,
+Distrito Federal e municípios e dos estados para os municípios, observada a respectiva
+contrapartida de recursos. Dois anos depois, a EC nº 29 também reforçava o desejo de
+se ter critérios definidos em LC para dividir os recursos da União para estados, Distrito
+
+Federal e municípios, conforme dispõe o Artigo 198, parágrafo 3º, item II:
+Lei complementar, que será reavaliada pelo menos a cada cinco anos estabelecerá: (...)
+
+Il- os critérios de rateio dos recursos da União vinculados à saúde destinados aos Estados, ao DF e
+aos Municípios, e dos Estados destinados a seus respectivos municípios, objetivando a progressiva
+redução das disparidades regionais.
+
+Sintetizando: o repasse fundo a fundo ganhou espaço como forma de transferência
+dos recursos federais para estados e municípios substituindo a aplicação direta na área
+hospitalar e ambulatorial e convênios em outras áreas, o que foi, sem dúvida, um avanço
+indiscutível para a descentralização. Contudo, mesmo que tenha adquirido regularidade
+e automatismo, essa forma de repasse dos recursos federais ficou distante da concepção
+esposada por alguns defensores da descentralização que preconizavam a utilização de
+critérios predefinidos e partilha já na origem dos recursos, nos moldes do FPE e do
+FPM. Assim, se a regularidade e o automatismo foram alcançados os critérios de partilha
+vigentes na legislação não foram implementados, mesmo que diversos documentos legais
+atentassem para essa necessidade.
+
+32
+
+ 
+
+7/5/2013
+
+5:46:38 PM
+TD. 03 Miolo.indd 33
+
+Texto para
+Discussão Financiamento Público da Saúde: uma história à procura de rumo
+
+ 
+
+Com isso não se quer dizer que o MS não utilize critérios para partilhar seus recursos
+entre estados, Distrito Federal e municípios. O que se quer dizer é que os critérios previstos
+na legislação não têm sido utilizados. Na verdade, não houve nem mesmo a observância
+do previsto no parágrafo 1º do Artigo 3º da Lei nº 8.142 — “de que pelo menos 50%
+dos recursos transferidos deveriam observar exclusivamente o critério populacional (...)”,
+entendido como o resultado da divisão do montante total a ser transferido pelo número
+de habitantes. Na verdade, o tamanho da população é utilizado em muitos dos critérios
+estabelecidos como denominador, mas geralmente o seu peso é corrigido por outras
+variáveis. Em outros casos, como na Saúde da Família e Saúde Bucal, por exemplo, o
+
+critério básico é o acordo de vontades entre o gestor nacional e as instâncias subnacionais.
+
+6 ALEINº 141/2012 E OS MECANISMOS E CRITÉRIOS DE RATEIO
+DE RECURSOS
+
+Como visto, a EC nº 29 (Artigo 6º) acrescentou ao Artigo 198 da CF o parágrafo 3º,
+item II, estabelecendo que a LC que será reavaliada, pelo menos, a cada cinco anos
+determinará “os critérios de rateio dos recursos da União vinculados à saúde destinados
+aos Estados, ao DF e aos Municípios, e dos Estados destinados a seus respectivos
+municípios, objetivando a progressiva redução das disparidades regionais”. Obedecendo
+
+à prescrição, a Lei nº 141 estabelece:
+
+O rateio dos recursos da União vinculados a ações e serviços públicos de saúde e repassados na
+forma do caput dos arts. 18 e 22 aos Estados, ao Distrito Federal e aos Municípios observará as
+necessidades de saúde da população, as dimensões epidemiológica, demográfica, socioeconômica,
+espacial e de capacidade de oferta de ações e de serviços de saúde e, ainda, o disposto no art. 35
+da Lei no 8.080, de 19/9/1990, de forma a atender os objetivos do inciso Il do 8 3º do art. 198 da
+Constituição Federal.
+
+$ 1º O Ministério da Saúde definirá e publicará, anualmente, utilizando metodologia pactuada na
+comissão intergestores tripartite e aprovada pelo Conselho Nacional de Saúde, os montantes a
+serem transferidos a cada Estado, ao Distrito Federal e a cada Município para custeio das ações e
+serviços públicos de saúde.
+
+$ 2º Os recursos destinados a investimentos terão sua programação realizada anualmente e, em
+sua alocação, serão considerados prioritariamente critérios que visem a reduzir as desigualdades
+na oferta de ações e serviços públicos de saúde e garantir a integralidade da atenção à saúde.
+
+33
+
+ 
+
+7/5/2013
+
+5:46:38 PM
+TD. 03 Miolo.indd 34
+
+Rio de Janeiro, julho de 2013
+
+ 
+
+Além disso, aproveita para revogar o parágrafo 1º do Artigo 35 da Lei nº 8.080/1990
+em seu Artigo 47.” Adicionalmente, os Artigos 18 e 22 da Lei nº 141/2012 reforçam
+a modalidade de transferência regular e automática para os recursos repassados pela
+
+União para estados e municípios e dos estados para os municípios.
+
+No tocante a esta questão de critérios para transferências a estados, Distrito
+Federal e municípios, nada que pudesse ser objeto de operacionalização mais
+imediata foi incluído na LC. Pelo contrário, o dispositivo que se refere aos critérios de
+transferência até aumenta o grau de dificuldade para sua implementação por diversos
+motivos: 7) ao acrescentar outros requisitos; 77) ao retornar, sem nenhum modificação,
+ao Artigo 35;* e 111) ao revogar o parágrafo 1º do referido artigo — 50% transferível
+pelo critério populacional simples — único dispositivo que poderia ter aplicabilidade
+imediata. Também deixou de ter validade o parágrafo 2º, do inciso III, do Artigo 77 da
+ADCT que estabelecia que, dos recursos da União, 15%, no mínimo, seriam aplicados
+nos municípios, segundo o critério populacional, em serviços de atenção básica.” Ou
+seja, é uma tarefa não trivial tentar incorporar em uma fórmula de distribuição de
+recursos quase uma dezena de dimensões e requisitos.” A menos que, como tem sido
+feito, haja uma utilização parcial e isolada de diferentes dimensões e critérios. Pensando
+desta forma, todos os repasses vigentes atendem a, pelo menos, um dos critérios
+previstos. Mas o Artigo 35 da Lei nº 8.080 fala no caput “Para o estabelecimento de
+valores a serem transferidos a Estados, Distrito Federal e Municípios, será utilizada a
+
+combinação dos seguintes critérios (...)”.
+
+Mas há também inconsistências. A Lei nº 141/2012 diz que o rateio deve observar
+as necessidades de saúde da população e as dimensões, demográficas, epidemiológicas
+e socioeconômicas, entre outras. Mas necessidades de saúde não têm, pelo menos
+nas fórmulas de alocação de recursos conhecidas, essas três dimensões como as mais
+
+27. Lei nº 8.080/1990, Artigo 35, parágrafo 1º — "Metade dos recursos destinados a Estados, DF e Municípios será
+distribuída segundo o quociente de sua divisão pelo número de habitantes, independentemente de qualquer procedimento
+prévio”.
+
+28. O Artigo 35 da Lei nº 8.080 não é autoaplicável e jamais foi regulamentado.
+
+29. Neste caso porque o Artigo 77 do ADCT era uma disposição transitória, cuja validade estava condicionada à não
+existência da lei complementar por ele mencionada.
+
+30. Com a utilização de uma grande diversidade de critérios perde-se em transparência e ganha-se pouco em precisão
+(Piola e Biasoto, 2001).
+
+34
+
+ 
+
+7/5/2013
+
+5:46:38 PM
+TD. 03 Miolo.indd 35
+
+Texto para
+Discussão Financiamento Público da Saúde: uma história à procura de rumo
+
+ 
+
+importantes? Ademais, e isso é muito importante, como conciliar, em uma mesma
+fórmula, critérios que premiam a equidade e critérios que premiam a eficiência? Não
+seria melhor transferir uma parte maior dos recursos federais com base em critérios de
+
+equidade e uma parte menor por meio de metas qualitativas e quantitativas?
+
+De importante, o reconhecimento de que os recursos destinados para investimentos
+devem merecer tratamento diferenciado das transferências para custeio. Contudo,
+permanece a dúvida se a alocação de recursos para investimento será feita mediante critérios
+previamente definidos ou continuará a ser negociada, ano a ano, com os recursos sendo
+repassados mediante convênios? Ser repassado por convênio, pode ser aceitável, desde que
+os critérios sejam definidos previamente, pois isso dá maior transparência aos repasses e
+maior segurança à instância receptora. A esse respeito vale lembrar que na distribuição dos
+recursos para o Projeto Reforço à Reorganização do SUS (Reforsus) havia uma fórmula de
+distribuição que era aplicada para definir os montantes a serem transferidos.
+
+O principal objetivo da alocação regional dos recursos públicos deve ser atender
+as necessidades de saúde da população. No caso da União, a distribuição de seus
+recursos deve servir também para reduzir desigualdades injustas. Desta forma, em
+um sistema de saúde com financiamento compartilhado como é o SUS, devem ser
+também consideradas as capacidades de autofinanciamento de estados e municípios e
+a distribuição das ações e serviços de saúde no território (Fiocruz, 2012, p. 136). Uma
+questão central é como medir “necessidade de saúde”, ou que indicadores devem ser
+utilizados para medi-la. No Brasil, diversos estudos analisam a questão da utilização de
+indicadores de necessidade de saúde para orientar propostas de alocação de recursos
+entre as instâncias gestoras do SUS. A título de exemplo, citam-se os trabalhos realizados
+por Porto et aí. (2001), Heimann et aí. (2002), Machado et al. (2003) e Viegas et al.
+(2004). Os dois primeiros discutem critérios para distribuição dos recursos federais
+para estados e municípios. Os dois últimos simulam critérios para transferências de
+recursos estaduais para os municípios do estado de Minas Gerais.
+
+Não se pode alegar falta de critérios para as transferências do MS. Pode-se,
+contudo, questionar a sistemática desenvolvida e o seu afastamento do previsto na lei e
+
+regulamentos, conforme se constata a seguir.
+
+1) Ausência de uma orientação estratégica mais precisa quanto ao resultado
+desejado com o uso dos critérios escolhidos. Maior equidade alocativa ou
+
+35
+
+ 
+
+7/5/2013
+
+5:46:38 PM
+TD. 03 Miolo.indd 36
+
+Rio de Janeiro, julho de 2013
+
+ 
+
+maior eficiência no uso dos recursos? Ou, apenas mais controle do ente doador
+
+dos recursos sobre as esferas recipientes?
+
+2) Não seguimento, de forma mais concreta, dos dispositivos legais que definem
+os critérios a serem utilizados no rateio de recursos da União para estados e
+municípios, no âmbito do SUS.
+
+3) O número excessivo de critérios ou formas de repasses consubstanciados em
+incontáveis portarias regulamentadoras transformou o acompanhamento das
+transferências em um estéril e difícil exercício de hermenêutica.
+
+7 CONSIDERAÇÕES FINAIS
+
+São conhecidas as tentativas de ampliar e dar estabilidade ao financiamento público
+da saúde. Esse processo teve início com a criação da CPMF em 1996 e culminou
+com a promulgação da EC nº 29, em 2000. Observou-se, nos anos subsequentes, uma
+ampliação do total de recursos para a área, bem como das transferências federais para
+estados e municípios. Contudo, de 2000 a 2012 os movimentos vinculados à saúde
+mantiveram a pressão para regulamentar a EC nº 29 e aumentar os recursos para a
+saúde. A expectativa desses movimentos era de que a própria regulamentação trouxesse
+uma mudança do critério que estabelece o mínimo a ser aplicado pelo governo federal e,
+com isso, se obtivesse um aporte de recursos adicionais. Além disso, a efetiva definição
+do que se entende por ações e serviços públicos de saúde impediria os vazamentos
+de recursos públicos, isto é, a aplicação de recursos em outras áreas ou ações que não
+aquelas destinadas à atenção universal em saúde. Adicionalmente, com o fim da CPMF
+em 2007, havia a expectativa da definição de uma nova fonte tributária, por meio da
+
+criação da CSS.
+
+A regulamentação da EC nº 29 ocorreu em 2012 e apenas uma dessas expectativas
+foi atendida: a definição de ações e serviços públicos de saúde. A regulamentação não
+promoveu mudança do critério de vinculação dos recursos federais ou embutiu a criação
+de uma nova contribuição. Além disso, outras questões relativas à gestão do SUS e aos
+critérios de transferências de recursos para estados e municípios ainda demandam uma
+
+definição mais clara.
+
+36
+
+ 
+
+7/5/2013
+
+5:46:38 PM
+TD. 03 Miolo.indd 37
+
+Texto para
+Discussão Financiamento Público da Saúde: uma história à procura de rumo
+
+ 
+
+Assim, com relação aos recursos para o SUS, no campo técnico-político, será
+necessário discutir novas fontes de recursos que permitiriam aumentar o financiamento
+público para a saúde. Até o momento, a defesa da necessidade de financiamento tem sido
+feita com base em comparações com países que possuem sistemas de saúde universais.
+Contudo, faz-se necessário dimensionar melhor os custos, o perfil epidemiológico e os
+gastos realizados para aprimorar o conhecimento sobre a necessidade de financiamento
+do SUS. Em relação aos gastos, com as informações hoje disponíveis é possível ter
+conhecimento sobre em quais ações e programas são aplicados os recursos federais
+destinados às ASPS. Contudo, essas informações não estão disponíveis para os recursos
+dos estados e municípios em um formato que permita as mesmas análises que são
+feitas para o nível federal. Assim, tem-se apenas uma visão parcial dos objetos do gasto
+do SUS, visto que mais de 50% do gasto é complementado com recursos de estados,
+Distrito Federal e municípios. Para que sistemas como o SIOPS permitam realizar
+análises mais consolidadas, seria necessário proceder a alterações significativas. Todavia,
+isso só seria possível por meio de uma ação coordenada com o MF e o MPOG, além de
+
+uma forte capacitação dos estados e, principalmente, dos municípios.
+
+Com relação aos critérios de transferência de recursos da União para estados e
+municípios também se sente a necessidade de reiniciar a discussão no campo técnico-político.
+Como visto neste artigo, as determinações legais a respeito não foram regulamentadas e os
+dispositivos autoaplicáveis não foram seguidos. Entretanto, a excessiva fragmentação dos
+repasses não foi resolvida pela criação dos blocos de financiamento. Também não foram
+aproveitadas as oportunidades de implementar mudanças que favorecessem a equidade na
+distribuição dos recursos federais, o que poderia ser feito, de forma menos traumática, nas
+ocasiões em que houve alterações mais substanciais no financiamento da saúde (criação da
+CPME e aprovação da EC nº 29), com aumento dos recursos do setor.
+
+Mais recentemente, a aprovação da Lei nº 141/2012 e do Decreto nº 75.508, de
+28 de junho de 2011, que regulamentou alguns aspectos da Lei nº 8.080/1990 foram
+outras oportunidades perdidas. A Lei nº 141/2012, como foi comentado, pode até ter
+aumentado as dificuldades de operacionalização de uma proposta regulamentadora dos
+critérios de repasses. Por sua vez, poder-se-ia esperar que o Decreto MS nº 75.508/2011
+abordasse a questão do financiamento, mais especificamente a questão dos mecanismos
+e critérios para as transferências financeiras para estados e municípios, sobretudo pelos
+
+temas que foram objeto do decreto.
+
+3/
+
+ 
+
+7/5/2013
+
+5:46:38 PM
+Rio de Janeiro, julho de 2013
+
+ 
+
+O que reforçava essa expectativa é que o tão esperado?! decreto iria tratar de temas
+de extrema relevância para o SUS, quais sejam: a organização do sistema, o planejamento
+da saúde, a assistência à saúde e a articulação interfederativa. O Decreto nº 75.508,
+no entanto, ao tratar dos temas antes referidos e em alguns outros tópicos de grande
+importância como os conceitos de região de saúde, de redes de atenção, de Contrato
+Organizativo da Ação Pública (COADP), das portas de entradas para o SUS, das relações
+nacionais de serviços e de medicamentos, entre outros, não abordou questões relacionadas
+ao financiamento compartilhado do SUS. Na verdade, faz duas menções à questão
+de recursos financeiros: a primeira no item IX do Artigo 36, que se refere ao COAD,
+determinando que deverão nele constar os recursos financeiros que serão disponibilizados
+por cada um dos participantes para a execução do contrato referido. A segunda menção
+é feita no Artigo 32, que estabelece entre as funções das Comissões Intergestores a de
+pactuar “aspectos operacionais, financeiros e administrativos da gestão compartilhada
+do SUS (...)” (item ID. Ou seja, a questão das necessárias mudanças operacionais no
+financiamento compartilhado do SUS foi transferida para o âmbito de decisão das
+Comissões Intergestores (federal, estadual e regional). Será que se esperava que esta
+questão fosse melhor definida na LC nº 141/2012? Contudo, como a LC nº 141 pouco
+avançou nesta questão, suspeita-se de que as normas legais existentes, como já comentado
+neste artigo, sejam insuficientes para orientar as decisões das Comissões Intergestores. Ou
+seja, ainda requer um esforço técnico, de formulação de propostas alternativas, e político
+consideráveis para a geração de propostas de financiamento compartilhado adequadas às
+novas condições de organização do sistema definidas pelo Decreto nº 7.508.
+
+REFERÊNCIAS
+CASTRO, J. A. et al. Gasto social federal: prioridade macroeconômica no período 1995-2010.
+Brasília: Ipea, set. 2012 (Nota Técnica, n. 11).
+
+CONASS —- CONSELHO NACIONAL DE SECRETÁRIOS DE SAÚDE. O financiamento
+da saúde. Brasília: Conass, 2011 (Coleção Progestores — para entender a gestão do SUS, n. 2).
+
+CNS - CONSELHO NACIONAL DE SAÚDE. Resolução nº 322. Brasília, 2003.
+
+FIOCRUZ - FUNDAÇÃO OSWALDO CRUZ. A saúde no Brasil em 2030: diretrizes para
+a prospecção estratégica do sistema de saúde brasileiro. Rio de Janeiro: Fiocruz/Ipea/Ministério
+da Saúde/Secretaria de Assuntos Estratégicos da Presidência da República, 2012.
+
+31. As bases iniciais deste decreto começaram a ser discutidas ainda na gestão do ministro José Gomes Temporão.
+
+38
+
+ 
+
+TD 03 Miolo.indd 38 7/5/2013 5:46:38 PM
+TD. 03 Miolo.indd 39
+
+Texto para
+Discussão Financiamento Público da Saúde: uma história à procura de rumo
+
+ 
+
+GOULARIT, E A. A. Esculpindo o SUS a golpes de portaria: considerações sobre o processo
+de formulação das NOBs. Ciência & Saúde Coletiva, São Paulo, v. 6, n. 2, p. 292-298, 2001.
+
+HEIMANN,L.S. etal. Quantos Brasis? Alocação de recursos no SUS. Núcleo de Investigação
+em Serviços e Sistemas de Saúde (Nisis). Instituto de Saúde (IS), Coordenação dos Institutos de
+Pesquisa (CIP), Secretaria de Estado da Saúde de São Paulo (SES/SP), 2002.
+
+IBGE - INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Sistema de contas
+nacionais: Brasil. 2. ed. Rio de Janeiro, 2008.
+
+. Conta satélite de saúde, Brasil 2007-2009. Contas nacionais, Rio de Janeiro, n. 37, 2012.
+
+IPEA — INSTITUTO DE PESQUISA ECONÔMICA APLICADA. Políticas Sociais:
+acompanhamento e análise, Brasília, n. 14, 2007.
+
+. 15 anos de gasto social federal, notas sobre o período de 1995 a 2009. Comunicado
+do Ipea, Brasília, n. 98, jul. 2011.
+
+MACHADO, E. M. et al. Atenção básica à saúde em Minas Gerais: desigualdade na
+distribuição de recursos financeiros e na prestação de serviços básicos após a introdução do Piso
+de Atenção Básica (PAB). Belo Horizonte: Fundação João Pinheiro, 2003.
+
+MENDES, A.; MARQUES, R. A saúde pública sob a batuta da nova ordem. 7n: MARQUES,
+R.; FERREIRA, M. (Org.). O Brasil sob a nova ordem: a economia brasileira contemporânea
+— uma análise dos governos Collor a Lula. São Paulo: Saraiva, 2009.
+
+MF — MINISTÉRIO DA FAZENDA. Carga tributária líquida, SPE, 29 nov. 2012.
+Disponível em: <http://www.fazenda.gov.br/spe/publicacoes/ destaques! 2012 11/SPE.
+Carga%20Tribut%oC3%A 1 riaYo20L%C3%ADquida/o20%202012 em 30 11 2012.pdf>.
+
+MS — MINISTÉRIO DA SAÚDE. Sistema de orçamentos públicos em saúde (SIOPS).
+Brasília, 2010 (Nota Técnica, n. 19).
+
+OMS —- ORGANIZAÇÃO MUNDIAL DE SAÚDE. Estadisticas sanitárias mondiales, 2012.
+
+ORAIR, R. O. Carga tributária brasileira — 2002/2012: estimação e análise dos determinantes da
+evolução recente. Monografia apresentada no XVII Prêmio Tesouro Nacional, 2012. Disponível
+em: <http://www.esaf.fazenda.gov.br/esafsite/premios/stn/S TN2012/Resultados/Tema%202%
+20-% 201º%20Lugar%20-20Rodrigo%200ctávio%200rair%o20-%20072.pdf>.
+
+PIOLA, S. E; BIASOTO, G. Financiamento do SUS nos anos 90. Im: NEGRI, B.; DI
+GIOVANNI, G. Brasil radiografia da saúde. Campinas, IE/UNICAMP, 2001.
+
+PIOLA,S. E etal. Gasto tributário e conflito distributivo na saúde. Políticas sociais: acompanhamento
+e análise, n. 17 — Vinte anos da Constituição Federal, v. 1, cap. 3. Brasília: Ipea, 2009.
+
+PORTO, S. M. et al. Metodologia de alocação equitativa de recursos. Rio de Janeiro: ENSP/
+Fiocruz, Projeto Reforsus, 2001 (Relatório final).
+
+39
+
+ 
+
+7/5/2013
+
+5:46:38 PM
+TD. 03 Miolo.indd 40
+
+Rio de Janeiro, julho de 2013
+
+ 
+
+RIBEIRO, J. A. C.; PIOLA, S. F; SERVO, L. M. As novas configurações de antigos problemas:
+financiamento e gasto com ações e serviços públicos de saúde no Brasil. Divulgação em saúde
+para debate, n. 37, p. 21-43, jan. 2007.
+
+SANTOS, C. H.; CASTRO, J. A.; RIBEIRO, J. A. C. (Org.). Tributação e equidade no
+Brasil: um registro da reflexão do Ipea no biênio 2008-2009. Brasília: Ipea, 2010.
+
+SERVO, L. M. et al. Financiamento e gasto público de saúde: histórico e tendências. Zn:
+MELAMED, C.; PIOLA, S. (Org.). Políticas públicas e financiamento federal do Sistema
+Único de Saúde. Brasília: Ipea, 2011.
+
+UGÁ, M. A. etal. Financiamento e alocação de recursos no Brasil. /n: GIOVANELLA, L. etal.
+(Org.). Políticas e sistema de saúde no Brasil. 2. ed. Rio de Janeiro: Editora da Fiocruz, 2012.
+
+VIEGAS, M. A. et al. Metodologia de alocação equitativa de recursos: uma proposta para
+Minas Gerais. Belo Horizonte, 2004.
+
+WHITEHEAD, M. The concepts and principles of equity and health. WHO, 1991 (WHO
+Euro Report).
+
+BIBLIOGRAFIA COMPLEMENTAR
+
+DIEESE — DEPARTAMENTO INTERSINDICAL DE ESTATÍSTICA E ESTUDOS
+SOCIOECONÔMICOSY/IPEA — INSTITUTO DE PESQUISA ECONÔMICA APLICADA/
+SINDIFISCO — SINDICATO NACIONAL DOS AUDITORES-FISCAIS DA RECEITA
+FEDERAL DO BRASIL. A progressividade na tributação brasileira: por maior justiça
+tributária e fiscal. São Paulo, ago. 2011. Disponível em: <http://www-.dicese.org.br/
+cartilhaJustiçaFiscal Tributaria. pdf>.
+
+IPEA — INSTITUTO DE PESQUISA ECONÔMICA APLICADA. Políticas sociais:
+acompanhamento e análise, Brasília, 2005.
+
+. Políticas sociais: acompanhamento e análise, Brasília, n. 17, 2009.
+
+OCKÉ-REIS, C. O.; PIOLA, S. E; RIBEIRO, J. A. C. Financiamento das políticas sociais nos
+anos 90: o caso do Ministério da Saúde. Brasília: Ipea, 2001 (Texto para Discussão, n. 802).
+
+SANTOS, C. H.; RIBEIRO, M. B.; GOBETTI, S. W. A evolução da carga tributária bruta
+brasileira no período 1995-2007: tamanho, composição e especificações econométricas
+agregadas. Brasília: Ipea, ago. 2008 (Texto para Discussão, n. 1.350).
+
+SIOPS — SISTEMA DE INFORMAÇÕES E ORÇAMENTOS PÚBLICOS DE SAÚDE.
+Minuta de análise dos gastos da união em ações e serviços públicos de saúde no período de
+2000 a 2010. Documento elaborado por subgrupo da Câmara Técnica de Orientação e Análise
+do SIOPS (CT/SIOPS). Brasília, out. 2011. Mimeografado.
+
+40
+
+ 
+
+7/5/2013 5:46:38 PM
+TD. 03 Miolo.indd 41
+
+Texto para
+Discussão Financiamento Público da Saúde: uma história à procura de rumo
+
+ 
+
+ANEXO
+
+BOXA.1
+
+O que são ASPS? Definição constante da Resolução nº 322 do CNS, utilizada até a
+aprovação da LC nº 141 de 2012
+
+ 
+
+A EC nº 29 estabeleceu os percentuais mínimos a serem aplicados em ASPS por cada ente da federação. Em 8 de maio de 2003, o CNS, por meio da
+Resolução nº 322, aprovou um conjunto de diretrizes para aplicação da EC nº 29 de 2000. Nessa resolução, lê-se:
+
+ 
+
+Quinta Diretriz: Para efeito da aplicação da Emenda Constitucional nº 29, consideram-se despesas com ações e serviços públicos de saúde aquelas com
+pessoal ativo e outras despesas de custeio e de capital, financiadas pelas três esferas de governo, conforme o disposto nos artigos 196 e 198, $ 2º, da
+Constituição Federal e na Lei nº 8080/90, relacionadas a programas finalísticos e de apoio, inclusive administrativos, que atendam, simultaneamente,
+aos seguintes critérios: | — sejam destinadas às ações e serviços de acesso universal, igualitário e gratuito; Il — estejam em conformidade com objetivos
+e metas explicitados nos Planos de Saúde de cada ente federativo; Ill — sejam de responsabilidade específica do setor de saúde, não se confundindo
+com despesas relacionadas a outras políticas públicas que atuam sobre determinantes sociais e econômicos, ainda que com reflexos sobre as condições
+de saúde. $ Único — Além de atender aos critérios estabelecidos no caput, as despesas com ações e serviços de saúde, realizadas pelos Estados, Distrito
+Federal e Municípios deverão ser financiadas com recursos alocados por meio dos respectivos Fundos de Saúde, nos termos do Art. 77, $ 3º do ADCT.
+Sexta Diretriz: Atendido ao disposto na Lei 8.080/90, aos critérios da Quinta Diretriz e para efeito da aplicação da EC 29, consideram-se despesas com
+ações e serviços públicos de saúde as relativas à promoção, proteção, recuperação e reabilitação da saúde, incluindo: | - vigilância epidemiológica e
+controle de doenças; | - vigilância sanitária; Il - vigilância nutricional, controle de deficiências nutricionais, orientação alimentar, e a segurança alimentar
+promovida no âmbito do SUS; IV - educação para a saúde; V - saúde do trabalhador; VI - assistência à saúde em todos os níveis de complexidade; VIII -
+atenção à saúde dos povos indígenas; IX - capacitação de recursos humanos do SUS; X - pesquisa e desenvolvimento científico e tecnológico em saúde,
+promovidos por entidades do SUS; XI - produção, aquisição e distribuição de insumos setoriais específicos, tais como medicamentos, imunobiológicos,
+sangue e hemoderivados, e equipamentos; XII - saneamento básico e do meio ambiente, desde que associado diretamente ao controle de vetores, a
+ações próprias de pequenas comunidades ou em nível domiciliar, ou aos Distritos Sanitários Especiais Indígenas (DSEI), e outras ações de saneamento a
+critério do Conselho Nacional de Saúde; XIII - serviços de saúde penitenciários, desde que firmado Termo de Cooperação específico entre os órgãos de
+
+ 
+
+saúde e os órgãos responsáveis pela prestação dos referidos serviços. XIV — atenção especial aos portadores de deficiência. XV — ações administrativas
+realizadas pelos órgãos de saúde no âmbito do SUS e indispensáveis para a execução das ações indicadas nos itens anteriores; $ 1º No caso da União,
+excepcionalmente, as despesas com ações e serviços públicos de saúde da União financiadas com receitas oriundas de operações de crédito contratadas
+para essa finalidade poderão integrar o montante considerado para o cálculo do percentual mínimo constitucionalmente exigido, no exercício em
+que ocorrerem. $ 2º No caso dos Estados, Distrito Federal e Municípios, os pagamentos de juros e amortizações decorrentes de operações de crédito
+contratadas a partir de 12.01.2000 para custear ações e serviços públicos de saúde, excepcionalmente, poderão integrar o montante considerado para
+o cálculo do percentual mínimo constitucionalmente exigido.
+
+ 
+
+ 
+
+Nessa resolução foram definidas, também, as ações que não eram consideradas como ASPS, entre outras: pagamento de aposentadorias e pensões;
+assistência à saúde que não atenda ao princípio da universalidade (clientela fechada); merenda escolar; saneamento básico (Sétima Diretriz,
+Resolução nº 322/CNS).
+
+ 
+
+ 
+
+Fonte: CNS/Resolução nº 322, de 8 de maio de 2003.
+
+41
+
+ 
+
+7/5/2013
+
+5:46:38 PM
+Ipea - Instituto de Pesquisa Econômica Aplicada
+
+ 
+
+EDITORIAL
+
+Coordenação
+Cláudio Passos de Oliveira
+
+Supervisão
+Andrea Bossle de Abreu
+
+Revisão
+
+Carlos Eduardo Gonçalves de Melo
+Cristina Celia Alcantara Possidente
+Edylene Daniel Severiano (estagiária)
+Elisabete de Carvalho Soares
+
+Lucia Duarte Moreira
+
+Luciana Nogueira Duarte
+
+Miriam Nunes da Fonseca
+
+Editoração eletrônica
+
+Roberto das Chagas Campos
+Aeromilson Mesquita
+
+Aline Cristine Torres da Silva Martins
+Carlos Henrique Santos Vianna
+Hayra Cardozo Manhães (estagiária)
+Maria Hosana Carneiro Cunha
+
+Capa
+Luís Cláudio Cardoso da Silva
+
+Projeto Gráfico
+Renato Rodrigues Bueno
+
+ 
+
+Livraria do Ipea
+
+ 
+
+SBS — Quadra 1 — Bloco J — Ed. BNDES, Térreo.
+70076-900 — Brasília — DF
+Fone: (61) 3315-5336
+
+Correio eletrônico: livrariaDipea.gov.br
+
+ 
+
+TD 04 Equipe Editorialindd 42 7/4/2013 5:00:56 PM
+TD 04 Equipe Editorialindd 43 7/4/2013 5:00:56 PM
+Composto em Adobe Garamond Pro 12/16 (texto)
+Frutiger 67 Bold Condensed (títulos, gráficos e tabelas)
+Impresso em offset 90g/m?
+
+Cartão supremo 250g/m? (capa)
+
+Rio de Janeiro-RJ
+
+TD 04 Equipe Editorialindd 44 7/4/2013 5:00:56 PM
+LUST
+
+Produzir, articular e disseminar conhecimento para
+aperfeiçoar as políticas públicas e contribuir para o
+planejamento do desenvolvimento brasileiro.
+
+TU NISTO
+
+POLÍTICAS DE APOIO À INOVAÇÃO NO
+BRASIL: UMA ANÁLISE DE SUA EVOLUÇÃO
+das
+
+ape Tg Ve TTTO
+
+ISSN
+alo71
+
+42514760
+
+1415-4765
+01
+E
+Instituto de Pesquisa ps EPs ind ad
+E PER te 60
+Ms) DINIS NEI ON
+
+PAÍS RICO É PAÍS SEM POBREZA
+
+ 
+

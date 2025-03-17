@@ -1,0 +1,3064 @@
+Ca
+| “' Consultoria Legislativa do Senado Federal
+Õ COORDENAÇÃO DE ESTUDOS
+
+SISTEMA ORÇAMENTÁRI O BRASILEIRO:
+PLANEJ AMENTO, EQUILIBRIO FISCAL E QUALI DADE
+DO GASTO PUBLICO
+
+Marcos José Mendes
+
+TEXTOS PARA DISCUSSÃO 3 Ó
+
+Brasília, fevereiro / 2008
+
+Contato: conlegestudos( senado.gov.br
+
+O conteúdo deste trabalho é de responsabilidade do
+autor e não reflete necessariamente a opinião da
+Consultoria Legislativa do Senado Federal.
+
+Os trabalhos da série “Textos para Discussão” estão
+º , . disponíveis no seguinte endereço eletrônico:
+Projeto gráfico: Lília Alcântara http://www.senado.gov.br/conleg/textos discussao.htm
+RESUMO
+
+O trabalho analisa o sistema orçamentário brasileiro, descreve as principais
+características institucionais e problemas do Plano Plurianual, da Lei de Diretrizes
+Orçamentárias e da Lei Orçamentária Anual. Mostra-se que todo arcabouço de
+planejamento montado na Constituição de 1988 sucumbiu às características do sistema
+político brasileiro: a dificuldade de formar maiorias no Congresso e os incentivos eleitorais
+à expansão dos gastos correntes. Como resultado tem-se um processo decisório focado no
+curto-prazo, cujos principais objetivos são o equilíbrio fiscal e o atendimento da base de
+apoio do governo no Congresso. O planejamento e a qualidade do gasto ficam em segundo
+plano.
+
+Os principais instrumentos de gestão do orçamento têm sido a compressão dos
+investimentos públicos (via contingenciamento de gastos), a elevação da carga tributária
+(via expansão de contribuições sociais) e a flexibilização da alocação dos recursos através
+da Desvinculação das Receitas da União. O Trabalho mostra como a “superindexação” das
+despesas obrigatórias e quase-obrigatórias comprime as demais despesas e obriga esse tipo
+de gerência fiscal-orçamentária. Assim, o principal objetivo de uma política de recuperação
+da qualidade da gestão fiscal seria o controle da expansão daquelas despesas.
+
+O trabalho também analisa em detalhes o mecanismo da Desvinculação das
+Receitas da União que, embora seja um precário instrumento de gestão orçamentária, é
+bastante importante, por evitar que a excessiva vinculação de receitas seja um mal maior. O
+trabalho também mostra que a DRU não é, necessariamente, um instrumento de subtração
+de recursos das áreas sociais, afirmação frequentemente encontrada em discursos políticos.
+
+A principal conclusão deste estudo é que só será possível construir um sistema
+orçamentário baseado no planejamento de médio e longo prazo e com foco na qualidade do
+gasto, quando tiver sido reduzida a rigidez orçamentária, por meio de medidas de
+flexibilização das despesas obrigatórias e quase-obrigatórias. A partir daí será possível ter
+um sistema orçamentário em que Executivo e Legislativo atuem de forma cooperativa,
+tanto na estimativa da receita quanto na alocação das despesas. Será possível eliminar o
+contingenciamento e a DRU e será aberto espaço para a redução da carga tributária, para a
+expansão do investimento público e para o planejamento da ação governamental de médio e
+longo prazo.
+Introdução
+
+Este trabalho descreve e analisa o sistema orçamentário brasileiro com o objetivo de
+identificar os principais problemas que afetam a capacidade de planejamento do setor
+público, a qualidade do gasto do governo e o equilíbrio fiscal.
+
+A seção I descreve o sistema Plano Plurianual (PPA) — Lei de Diretrizes
+Orçamentárias (LDO) — Lei Orçamentária Anual (LOA). Mostra-se que o PPA é um
+modelo de planejamento excessivamente burocratizado e que contraria a lógica do sistema
+político brasileiro, ao tentar impor metas fixadas em governo anterior aos novos governos.
+Há, também, problemas de encadeamento de prazos entre os três instrumentos, que acabam
+por desestruturar a relação de subordinação entre eles. Daí resulta que a formulação do PPA
+se tornou um ato formal, de cumprimento de exigências legais, sem efetivo impacto na
+realidade da ação pública; inexistindo qualquer planejamento consistente de médio e longo
+prazo para a ação do Governo Federal.
+
+Por outro lado, esse sistema de planejamento e execução orçamentária não consegue
+se impor a duas características fundamentais do sistema político brasileiro: fortes incentivos
+político-eleitorais à expansão do gasto público corrente e dificuldade do Poder Executivo
+para formar maiorias no parlamento.
+
+A combinação dessas duas características resulta em um regime fiscal de equilíbrio
+precário, focado no curto prazo, no qual o Executivo, ao mesmo tempo em que tenta
+cumprir metas fiscais, precisa executar o máximo possível de despesas de interesse da base
+parlamentar de apoio do governo. Dois instrumentos principais têm sido utilizados pelos
+gestores das finanças públicas para manter esse equilíbrio: o contingenciamento de
+despesas (em especial das despesas de investimentos) e a elevação da carga tributária,
+principalmente através da expansão das contribuições sociais. Do lado do parlamento, a
+prática é elevar a receita estimada no orçamento para, com isso, incluir novas despesas
+através de emendas; e pressionar (negociar) para que suas emendas não sejam
+contingenciadas.
+
+Esse modo de ação permite que sejam atingidos dois objetivos do Executivo: o
+equilíbrio das contas públicas e um relativo controle dos votos dos parlamentares. Mas o
+principal efeito colaterar é que se abdica de qualquer planejamento da execução fiscal para
+o médio e longo prazo, além de se colocar em último lugar, na lista de prioridades, a
+qualidade do gasto e a avaliação de seus custos e benefícios.
+
+A seção II mostra que uma precondição para se reformular o modelo acima descrito,
+sem comprometer o equilíbrio fiscal, é conter a forte rigidez e o acelerado ritmo de
+crescimento da despesa obrigatória ou quase-obrigatória. Essas despesas representam 92%
+do orçamento, e obrigam o governo a elevar a carga tributária ano após ano, além de manter
+a prática do contingenciamento e de repressão dos investimentos.
+
+Uma vez que se controle o ritmo de expansão das despesas obrigatórias e quase-
+obrigatórias será possível, por um lado, reduzir a carga fiscal e, por outro, melhor acomodar
+as emendas parlamentares (devidamente submetidas a um processo de racionalização). Isso
+reduzirá a atual disputa Legislativo-Executivo em torno das estimativas e reestimativas da
+receita, reduzindo ou eliminando a necessidade do contingenciamento das despesas. A
+partir daí se poderia migrar para um orçamento de execução obrigatória (sem
+contingenciamentos). E, posteriormente, para um efetivo planejamento plurianual do
+orçamento federal.
+
+O controle dessas despesas obrigatórias e quase-obrigatórias, porém, exige decisões
+políticas de vulto: conceder reajustes reais menos generosos para o salário-mínimo; adequar
+os parâmetros de concessão de benefícios previdenciários às mudanças demográficas;
+flexibilizar a regra de gasto mínimo em saúde e de transferências a estados e municípios;
+impor limite à autonomia financeira do Judiciário, Legislativo e Ministério Público; investir
+em uma política de pessoal racional com perspectiva de longo prazo; criar mecanismos
+legais e de mercado para evitar os sucessivos socorros a dívidas agrícolas.
+
+Uma característica importante da elevação recente da carga tributária é que ela se
+fez por meio da expansão das contribuições sociais, o que constituiu um artifício para evitar
+a partilha dos recursos com estados e municípios. A consegiiência desse procedimento foi o
+inchaço da receita do Orçamento da Seguridade Social, exigindo que se criasse um
+mecanismo para repassar parte dos recursos para o Orçamento Fiscal. Isso se fez por meio
+da Desvinculação das Receitas da União (DRU), que é objeto de análise da seção III.
+Mostra-se que a DRU, embora seja um precário instrumento de gestão orçamentária, é
+bastante importante, por evitar que a excessiva vinculação de receitas seja um mal maior. A
+manutenção da DRU ao longo dos anos permitiria que se concentrasse o capital político do
+governo na flexibilização da despesa obrigatória e semi-obrigatória, que constitui o
+principal problema das finanças federais. A seção III também mostra que a DRU não é,
+necessariamente, um instrumento de subtração de recursos das áreas sociais, afirmação
+frequentemente encontrada em discursos políticos.
+
+A seção IV faz um sumário das principais conclusões
+I - Sistema orçamentário do Governo Federal
+1.1 - O Sistema PPA, LDO eLOA
+
+A Constituição Federal fixou uma organização geral para o processo orçamentário
+baseada em uma hierarquia de três leis ordinárias: a Lei do Plano Plurianual (PPA), a Lei
+de Diretrizes Orçamentárias (LDO) e a Lei Orçamentária Anual (LOA)!. A idéia é que o
+PPA seja o mais abrangente, com duração de quatro anos, tendo por função principal fixar
+diretrizes, objetivos e metas para as despesas de capital (ou seja, os investimentos públicos)
+e para as despesas de duração continuada (aquelas que perduram por dois exercícios
+financeiros ou mais). Seria, portanto, um instrumento de planejamento de longo prazo”.
+
+A IDO, por ser subordinada ao PPA, não pode conter dispositivos que o
+contrariem. Em caso de conflito entre as duas leis, prevalece o disposto no PPA. A função
+primordial da LDO é fixar os parâmetros gerais para orientação do orçamento do ano
+seguinte, estabelecendo suas metas e prioridades”. Essa Lei tem validade de um ano.
+Assim, por exemplo, no ano de 2007, aprovou-se a LDO que estabelece as diretrizes para a
+elaboração do orçamento de 2008.
+
+A Lei Orçamentária Anual (LOA), por ser subordinada ao PPA e à LDO, não pode
+conter dispositivos que os contrariem. Quando isso ocorrer, o PPA e a LDO, nessa ordem,
+prevalecem. A LOA tem vigência anual e a sua função primordial é estimar a receita
+pública e fixar a despesa para o exercício financeiro. A LOA é subdividida em”:
+
+e Orçamento fiscal: inclui os três Poderes da União, inclusive administração
+indireta, fundos e fundações mantidos pelo poder público;
+
+e Orçamento da Seguridade Social: previdência social, assistência social e
+saúde”; abrangendo todas as entidades dos ministérios que executam tais
+funções, inclusive a administração indireta, fundos e fundações mantidos
+pelo poder público;
+
+e Orçamento de investimento das empresas estatais (aquelas em que a União
+detenha a maioria do capital social com direito a voto).
+
+Dessa descrição básica depreende-se que a intenção do constituinte foi estabelecer
+um processo de planejamento, no qual o PPA daria os grandes rumos das políticas públicas,
+fixando os investimentos prioritários e os principais programas de cada ministério. O PPA
+estabeleceria, portanto, metas qualitativas e quantitativas: que estradas seriam construídas,
+quantos quilômetros seriam construídos por ano; quais os programas de assistência social
+prioritários, qual o público-alvo desses programas, quantas famílias seriam atendidas em
+cada um dos quatro anos de vigência do PPA; qual nível de ensino na educação pública
+(fundamental, médio ou superior) seria prioritário para o Governo Federal, quantas escolas
+
+' Embora as três leis tenham a mesma hierarquia formal (leis ordinárias) há uma relação de subordinação
+entre elas, com o PPA tendo precedência sobra a LDO e a LOA, e a LDO tendo precedência sobre a LOA.
+2CF.art. 165,8 1º.
+
+3CF.art. 165,82º.
+
+“CF. art. 165,85º.
+
+*CF. art. 194.
+se pretenderia construir em cooperação com estados e municípios; quantos alunos se
+pretenderia atingir com os programas de merenda escolar e transporte de estudantes; etc.
+
+Nesse nível de planejamento, a fixação de valores financeiros deveria ser algo
+secundário, apenas para que se tivesse uma idéia global da consistência fiscal do PPA; que
+seria uma declaração de intenções, a serem realizadas dentro da medida das
+disponibilidades fiscais.
+
+Caberia à LDO desdobrar as metas do PPA ano após ano, colocando-as dentro da
+moldura da realidade fiscal, estabelecendo as prioridades para o orçamento do exercício
+seguinte a partir das disponibilidades financeiras do governo.
+
+É com esse espírito que a LDO para exercício de 2008, por exemplo, fixa
+prioridades para as diversas áreas de governo, tais como:
+
+e Justiça: segurança pública e combate a violência contra a mulher;
+e Infra-estrutura: modernização dos portos;
+
+e Agricultura: sanidade animal e vegetal, desenvolvimento da pesca;
+e Minas e energia: pesquisa de fontes renováveis.
+
+Ou seja, dentre as inúmeras ações que o PPA contempla para justiça, infra-estrutura,
+agricultura e minas e energia; as ações acima listadas seriam prioritários na elaboração e
+execução do orçamento. A LDO, portanto, estabeleceria os limites do possível dentro da
+ampla declaração de intenções contida no PPA.
+
+A LOA, por sua vez, seria a execução prática daquelas prioridades. Mais uma vez
+tais prioridades seriam submetidas à realidade fiscal, visto que o ritmo da execução dos
+
+projetos e atividades dependeria da efetiva entrada de recursos fiscais nos cofres do
+Tesouro Nacional.
+
+Cabe chamar atenção para uma importante característica do modelo: a vigência do
+PPA não é coincidente com o período de mandato presidencial. Ele cobre o período de
+quatro anos que vai do segundo ano de mandato do Presidente da República até o primeiro
+ano de mandato do próximo Presidente. O quadro 1 mostra esse encadeamento de prazos.
+
+“Lei nº 11.514, de 2007, art. 5º.
+Quadro 1 - Cronograma de vigência do PPA, LDO eLOA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ano |Mandato Presidencial PPA LDO LOA
+
+1999 Diretrizes para LOA 2000 |LOA 1999
+2000 2º Mandato FHC Diretrizes para LOA 2001/LOA 2000
+2001 PPA 2000-2003 [Diretrizes para LOA 2002 /LOA 2001
+2002 Diretrizes para LOA 2003 |LOA 2002
+2003 Diretrizes para LOA 2004 |LOA 2003
+2004 1º Mandato Lula Diretrizes para LOA 2005 |LOA 2004
+2005 PPA 2004-2007 Diteirizes para LOA 2006 |LOA 2005
+2006 Diretrizes para LOA 2007 |LOA 2006
+2007 Diretrizes para LOA 2008 |LOA 2007
+2008 2º Mandato Lula Diretrizes para LOA 2009|LOA 2008
+2009 PPA 2008-2011 Diteirizes para LOA 2010 /|LOA 2009
+2010 Diretrizes para LOA 2011 |LOA 2010
+2011 Diretrizes para LOA 2012 |LOA 2011
+
+ 
+
+Fonte: Constituição Federal, ADCT, art. 35, $ 2º. Elaborado pelo autor com base em
+
+Greggianin (2005).
+
+A intenção do legislador constituinte foi, provavelmente, a de induzir uma
+continuidade no processo de planejamento do setor público. Ao assumir um novo governo,
+este teria um ano para preparar um novo PPA; período em que continuaria a executar o
+PPA aprovado no governo anterior. Essa regra é provisória, fixada nas disposições
+transitórias da Constituição”, ficando o estabelecimento de regra definitiva pendente da
+aprovação de uma lei complementar.
+
+Essa lei complementar” deve dispor não apenas sobre prazos de tramitação e regras
+para o PPA, LDO e LOA, mas também sobre as regras de gestão financeira e patrimonial
+no âmbito da administração pública. São conceitos e regras de extrema importância para o
+sistema orçamentário e financeiro como, por exemplo: classificação das contas
+orçamentárias; conceitos contábeis e financeiro de déficit e superávit; regras para projeção
+de receitas e estimação de despesas; regras para limitar a liberação de recursos conforme a
+disponibilidade de caixa; etc.
+
+Ocorre que tal lei não foi aprovada até hoje. A sua ausência é suprida de três
+formas. Em primeiro lugar, parte da Lei nº 4.320, de 1964, foi recepcionada pela nova
+Constituição; mantendo-se o uso de alguns dos princípios ali estabelecidos. Em segundo
+lugar, a LDO tem sido usada para suprir a falta de regras permanentes, repetindo-se em seu
+texto, ano após anos, dispositivos de definição genérica, que deveriam estar contidos em lei
+complementar. Em terceiro lugar, a Lei de Responsabilidade Fiscal? fixou regras
+importantes no âmbito do processo orçamentário.
+
+A LDO de 2008, por exemplo, contém dispositivos de definição de conceitos
+orçamentários básicos, como “programa”, “atividade”, “projeto”, “órgão concedente de
+transferência de recursos financeiros”, “unidade orçamentária”, “grupo de natureza de
+despesa”, etc. Esse expediente, se por um lado contorna a falta de uma lei complementar
+definidora de conceitos e padrões, por outro engorda a LDO, tornado árdua para a
+
+7 ADCT, art. 35,8 2º
+* Exigida pelo art. 165, $ 9º, da Constituição.
+º Lei Complementar nº 101, de 2000.
+sociedade a tarefa de discernir o que efetivamente constituem diretrizes para o orçamento
+do ano seguinte, daquilo que é norma orçamentária genérica.
+
+A Lei de Responsabilidade Fiscal, por sua vez, introduziu progressos importantes
+no processo orçamentário. Ela reforçou o papel da LDO como instrumento de imposição de
+equilíbrio fiscal.
+
+Isso se fez através da determinação de que a LDO deve dispor sobre o equilíbrio de
+receitas e despesas (o que basicamente significa estabelecer na LDO qual é o superávit
+primário a ser obtido no próximo ano); e deve conter anexos de metas e riscos fiscais!º.
+Esses anexos são uma detalhada e sofisticada projeção, elaborada pelo Poder Executivo,
+sobre a composição do resultado fiscal, sobre a situação atuarial da previdência social, e
+sobre os passivos contingentes que possam vir a se tornar efetiva despesa pública. Também
+colocam o orçamento dentro do contexto mais amplo da política macroeconômica,
+examinando a interação das metas fiscais com as políticas monetária e cambial.
+
+Tais anexos da LDO se tornaram referência para os analistas de finanças públicas,
+constituindo um conjunto de informação comum a todos os participantes do processo
+orçamentário acerca das hipóteses e projeções de indicadores econômicos e fiscais
+elaborados pelos Ministérios da Fazenda e do Planejamento.
+
+Outro ponto fundamental tratado na LRF refere-se à execução do orçamento. Ali
+fica estabelecido que o Poder Executivo deve, a partir da aprovação da Lei Orçamentária
+Anual, estabelecer uma programação financeira e um cronograma de execução mensal de
+desembolso. Se, a cada bimestre, a execução de receitas e despesas se mostrar incompatível
+com o cumprimento das metas de resultado primário e nominal fixadas no Anexo de Metas
+Fiscais da LDO, fica aberta a possibilidade de contingenciamento do orçamento que, no
+jargão técnico, é chamado de “limitação de empenho e movimentação financeira”. Esse é
+uma característica de alta relevância, que será analisada em detalhe mais adiante, na seção
+13.3.
+
+ 
+
+I.2 - Avaliação do sistema PPA, LDO eLOA
+
+O sistema orçamentário acima descrito padece de problemas que afetam
+significativamente a capacidade de planejamento do setor público e a possibilidade de se
+executar os programas públicos com qualidade. Esta seção analisa tais problemas.
+
+12.1 — Executar PPA do governo anterior contraria realidade política
+
+ 
+
+A idéia de que um novo governo, recém-eleito, tenha que executar, durante um ano,
+um PPA definido no governo e na legislatura anterior é de difícil execução em termos
+políticos. Novos governos assumem sob o peso de grande expectativa, gerada pela recente
+campanha eleitoral. Mesmo quando se trata da reeleição de um presidente, sempre há a
+promessa de fazer “mais e melhor”, ou de mudar o que não está funcionando. Por isso, não
+há a menor possibilidade de se orientar o primeiro ano de governo com base nas metas
+fixadas pelo governo anterior. Primeiro ano de governo é, em geral, um período de
+“arrumação da casa” ao gosto do novo governante; de composições políticas; de
+reavaliação do que está em andamento. Não é indispensável ter um plano articulado de
+
+O LRF art. 4º.
+ações desde o primeiro dia de mandato. E a prática tem mostrado que os PPA são
+solenemente ignorados como instrumento de transição.
+
+Até mesmo no caso de governos reeleitos isso acontece. Um exemplo claro ocorreu
+no início do segundo mandato do Presidente Lula, em 2007: o PPA 2003-2007, feito já na
+gestão Lula, foi totalmente ignorado e o governo apresentou à sociedade outros planos:
+primeiro veio o Plano de Aceleração do Crescimento (PAC), depois o Plano de
+Desenvolvimento da Educação; e em seguida diversos planos setoriais para a saúde, a
+segurança pública e o desenvolvimento científico e tecnológico. Esses planos foram, então,
+posteriormente, incorporados ao PPA 2008-2011. Ou seja, o planejamento formal (PPA)
+veio a reboque do planejamento efetivo, criado dentro da realidade política brasileira.
+
+12.2 — Sistema político induz prioridade para a LOA
+
+ 
+
+Transcende os objetivos do presente trabalho analisar o modus operandi do sistema
+político nacional??. Todavia, cabe chamar atenção para os seguintes aspectos:
+
+e Os bônus e ônus eleitorais da estabilidade fiscal (e consequente estabilidade
+de preços) recaem sobre o Presidente da República e os ministros da área
+econômica, sendo menor (ou inexistente) a preocupação dos parlamentares e
+demais ministros com o equilíbrio fiscal;
+
+e Há significativa fragmentação de interesses político-eleitorais no
+Legislativo, fazendo com que as decisões orçamentárias emanadas desse
+Poder representem a soma de interesses individuais dos parlamentares e dos
+ministros da base aliada do governo; interesses estes que se concentram no
+atendimento de bases eleitorais e grupos de interesse mediante expansão da
+despesa;
+
+e A dificuldade enfrentada pelo Poder Executivo para formar maiorias no
+Legislativo transforma a execução das dotações orçamentárias em moeda de
+troca na compra de apoio aos projetos do Executivo.
+
+O que se tem, a partir dessas características, é um jogo no qual o Presidente da
+República e a equipe econômica priorizam o equilíbrio fiscal e, ao mesmo tempo, executam
+o máximo possível das preferências de gastos dos parlamentares e ministros da base de
+apoio, como forma de manter a maioria no parlamento.
+
+O resultado é que ficam em segundo plano os aspectos de racionalidade do processo
+orçamentário (planejamento e análise de custo-benefício das ações públicas). Se tentar
+assegurar, ao mesmo tempo, equilíbrio fiscal e qualidade na execução orçamentária, o
+Presidente e a equipe econômica podem perder uma ferramenta de conquista de apoio
+político. Ao ter que escolher dois, entre três objetivos (equilíbrio fiscal, apoio político e
+racionalidade orçamentária), a Presidência da República, desde 1999 (ano do início do
+ajuste fiscal) tem dado prioridade ao equilíbrio fiscal e ao apoio político.
+
+“A rigor, o mesmo fenômeno ocorre com a Lei Orçamentária executada no primeiro ano de governo, que foi
+aprovada durante a gestão anterior. Ocorre que um país não pode ficar sem orçamento, e este pode ser
+alterado pelo novo governo mediante envio de projetos de lei ao Congresso. Já os planos de longo prazo não
+são indispensáveis, e a sua execução obrigatória, por lei, acaba sendo desrespeitada pela prática política
+cotidiana.
+
+!2 Para uma análise do modelo político brasileiro ver Avelar e Cintra (2004).
+10
+
+É por isso que praticamente não se analisa a relação custo-benefício das emendas
+parlamentares ao orçamento (tanto no Legislativo quanto no Executivo). Se houver recursos
+disponíveis e apoio político do parlamentar aos projetos do governo, simplesmente se
+executa o dispêndio.
+
+Outro caso comum é o cancelamento ou financiamento insuficiente para uma
+determinada ação que já está em andamento, em nome do equilíbrio fiscal,
+desconsiderando-se o desperdício do dinheiro já gasto. Ao mesmo tempo, em nome do
+apoio político de uma determinada bancada, pode-se iniciar uma nova ação, em outro
+estado ou região; quando o mais racional seria dar prioridade às ações já em andamento.
+
+Tem importância fundamental nesse sistema a prática do contingenciamento de
+verbas (a ser descrito em detalhes na seção 1.3.3). Ao segurar com mão de ferro a execução
+das despesas previstas no orçamento, o Poder Executivo (mais especificamente, os
+ministros da área econômica) busca obter dois resultados importantes: cumprir as metas
+fiscais e, ao mesmo tempo, negociar a liberação dos recursos conforme o apoio político em
+votações importantes no Congresso.
+
+Mais uma vez a racionalidade sai pela porta dos fundos. Ações de governo ficam
+meses sem receber recursos e, ao final do ano (quando já está assegurado o superávit
+primário programado), ou em momentos de votações importantes no Congresso, são
+liberadas grandes quantias de recursos. A instabilidade e incerteza do fluxo financeiro
+impede uma adequada programação das ações, e muitas vezes forçam a realização de
+concorrências e contratações a toque de caixa.
+
+O impacto dessa realidade sobre o sistema orçamentário idealizado na Constituição
+é que a LOA passa a ser a peça mais importante do processo, deixando de ser um
+desdobramento natural de um processo de planejamento que se inícia no PPA e passa pela
+LDO. O efetivo interesse do sistema político está na execução do Orçamento e não na
+realização de planejamento via PPA. O rabo (LOA) abana o cachorro (PPA).
+
+ 
+
+ 
+
+Isso transformou o PPA em uma formalidade legal, necessária para que se possa
+aprovar o orçamento e que, apesar de consumir muitas horas de trabalho de técnicos em
+todos os ministérios e no Congresso, tem pouca aplicabilidade prática e limitada influência
+sobre a realidade.
+
+Na tramitação do orçamento de 2008 e do PPA 2008-2011, por exemplo, toda a
+estimativa de receita do PPA, feito pelo Relator da Receita (Senador Francisco Dornelles)
+foi simplesmente uma projeção incompleta da estimativa feita para o orçamento 2008, esta
+sim, tratada com todo cuidado técnico e atenção política.
+
+Em 7/12/2007, refletindo essa realidade, o jornal Valor Econômico noticiava que:
+“Aprovação do PPA abre caminho para o orçamento (...) O
+
+PPA votado ontem só considerou a primeira reestimativa da
+receita para 2008. Por isso, já nasce defasado.”
+
+Na tramitação dos dois últimos PPA (2000-2003 e 2004-2007) o sistema político
+simplesmente ignorou as exigências da lei e aprovou a LOA antes de aprovar o PPA ao
+qual a LOA estaria subordinada. Em 2000 o PPA só foi aprovado em julho”, com o
+
+3 Lei nº 9.989, de 21/7/2000.
+1
+
+orçamento a ele subordinado já sendo executado desde janeiro daquele ano; e em 2004 a
+aprovação do PPA ocorreu apenas em agosto".
+
+Contribui para a perda de importância do PPA o fato de ele ter se tornado um
+instrumento bastante burocratizado e “pesado”. Em vez de ser um documento com
+intenções do governo quanto às suas realizações nos próximos anos, que destacasse as
+principais linhas de ação; o PPA foi ganhando o aspecto de um “orçamento para quatro
+anos”, sendo excessivamente detalhado, descendo ao nível das ações orçamentárias,
+reproduzindo aquilo que deveria constar apenas do orçamento. Cada ação tem projeções de
+quatro anos para metas físicas (percentual de execução da obra, toneladas de alimentos,
+etc.) e para desembolso financeiro. No PPA 2008-2011, o conjunto total de programas e
+respectivas ações forma um calhamaço de 436 páginas.
+
+Como, na prática, é o rabo (LOA) que balança o cachorro (PPA), toda vez que são
+feitas mudanças na LOA é preciso fazer mudanças também no PPA, o que aumenta a carga
+de trabalho a burocratização do processo.
+
+Também contribui para a perda de prestígio do PPA o fato de os investimentos do
+governo federal terem sido fortemente cortados nos últimos anos, com vistas a manter o
+equilíbrio fiscal. Como o mais importante do PPA é a definição de uma estratégia de
+investimentos, o instrumento fica desacreditado, dada a baixa probabilidade de real
+execução do que está ali planejado (Lima e Miranda, 2006).
+
+ 
+
+12.3 — Inconsistência de prazos de tramitação
+
+Greggianin (2005) chama atenção para uma inconsistência nos prazos de tramitação
+que ocorre nos anos em que é preciso aprovar um novo PPA. Essa inconsistência mina a
+relação de subordinação entre PPA, LDO e LOA. Tomemos como exemplo o ano de 2007,
+quando o Congresso deliberou sobre: o PPA 2008-2011, a LDO para o orçamento de 2008
+ea LOA 2008.
+
+Pela regra constitucional, o projeto da LDO 2007, que estipula os parâmetros para
+o orçamento de 2008, tem que ser encaminhada ao Congresso até 15 de abril de 2007 e
+aprovada até 30 de junho de 2007.
+
+A mesma regra constitucional estabelece que o projeto do PPA e da LOA devem ser
+encaminhados ao Congresso até 31 de agosto de 2007. Isso significa que quando o PPA e a
+LOA foram enviados ao Congresso, a LDO 2007, com parâmetros para 2008, já estava
+aprovada. Ou seja, no primeiro ano de vigência do PPA, a LDO precede o PPA; o que
+inverte a lógica do processo.
+
+Isso abre espaço para uma queda de braço entre Legislativo e Executivo, em que o
+primeiro altera a LDO com a intenção de amarrar as mãos do Executivo na hora de elaborar
+a proposta de LOA.
+
+Como no momento de envio da LDO ao Congresso ainda não há um PPA aprovado,
+o Poder Executivo não inclui na LDO o Anexo de Metas e Prioridades, por considerar que
+estas devem estar subordinadas ao PPA, ainda em elaboração. O Congresso, ao examinar a
+LDO, enxerta no seu texto um Anexo de Metas e Prioridades, cujo conteúdo é composto
+principalmente por projetos de interesse dos parlamentares. Faz isso com a intenção de
+pressionar o Executivo a aceitar a inclusão daqueles projetos no orçamento (ou de negociar
+
+“ Lei nº 10.933, de 11/8/2004.
+5 CF, ADCT, art. 35,8 2º.
+1)
+
+um meio termo). O Executivo, por sua vez, reage e, em vez de arcar com o ônus político de
+vetar as alterações feitas pelo Legislativo, simplesmente desobedece as prioridades da LDO
+e envia ao Congresso um projeto de LOA sem relação com aquilo que foi aprovado como
+prioritário na LDO.
+
+Como todo interesse das duas partes está em influenciar o gasto que será
+efetivamente realizado, esse jogo político em torno das metas da LDO acaba se resolvendo
+no âmbito da negociação entre os dois poderes, com concessões e arranjos ad hoc. E, no
+fim das contas, tem-se um orçamento desconectado das prioridades da LDO. O mesmo
+acontece com o vínculo entre PPA e LDO, pois o PPA a ser enviado pelo Executivo nada
+tem a ver com as prioridades que o Congresso enxertou na LDO.
+
+Uma reportagem do Valor Econômico do dia 18/10/2007 mostra que foi exatamente
+isso que ocorreu ao longo de 2007:
+
+Como o PPA só seria encaminhado em agosto, o governo
+mandou o projeto de LDO, em abril, sem a lista de projetos
+prioritários. O Congresso decidiu, então, acrescentar esse anexo
+[Anexo de Metas e Prioridades da LDO], a partir de sugestões
+do próprio Executivo e de emendas parlamentares. Assim a lei
+[LDO] foi aprovada, em julho. Em vez de vetar, o que lhe traria
+desgaste político imediato, o governo preferiu simplesmente
+desconsiderar grande parte da lista aprovada pelo Congresso,
+dando prioridade a outros projetos de investimento tanto no PPA
+quanto no Orçamento.
+
+No entendimento da consultoria de orçamento do Congresso, o
+governo não estava legalmente obrigado a contemplar o anexo
+[da LDO] inteiro, pois, pela Constituição, o PPA precede a
+LDO. Mas isso gerou insatisfação dentro da sua base
+parlamentar. Segundo a consultoria, das 315 ações
+orçamentárias incluídas no anexo da LDO, “apenas 62 (20%)
+constam no projeto de Orçamento com o mesmo código".(...)
+
+O problema foi contornado pelo acordo proposto por Vignatti
+[Deputado relator do PPA 2008-2011] (...). Em adendo ao seu
+relatório preliminar, que define regras para emendar o PPA, ele
+definiu que terão prioridade de acatamento as emendas que
+tiverem como objetivo incluir no projeto obra prevista no anexo
+de metas e prioridades da LDO”.
+
+L3- O processo orçamentário!
+
+Sendo a LOA a parte politicamente mais relevante do sistema orçamentário, vale a
+pena analisar todo o processo de sua elaboração e execução. Por se tratar de uma lei de
+iniciativa privativa do Poder Executivo””, o orçamento é proposto ao Congresso pelo
+Presidente da República. O Congresso examina, altera e aprova o projeto de lei do
+orçamento e o envia para a sanção do Presidente da República. O Presidente sanciona o
+projeto, transformando-o em lei; podendo vetar alguns dispositivos. Uma vez aprovada a
+
+!6 Para uma análise mais detalhada do processo orçamentário ver Lima e Miranda (2006).
+CF. art. 165.
+13
+
+, O Poder Executivo executa o orçamento através da edição de decretos de
+LOA Poder E t t to at da ed de decretos d
+programação financeira, nos quais estabelece o cronograma de liberação dos recursos e os
+E a : 1118
+
+limites de despesa de cada órgão e unidade orçamentária *.
+
+Assim, cabe examinar as três principais fases do processo orçamentário:
+e elaboração pelo Poder Executivo;
+e alteração pelo Poder Legislativo;
+e execução pelo Poder Executivo.
+
+13.1 — Elaboração pelo Poder Executivo
+O processo inicia-se no Ministério do Planejamento que, da estimativa de receitas,
+sand is O
+desconta os valores a serem empregados em despesas obrigatórias ' e o valor fixado na
+LDO para o resultado primário. O que resta será destinado às despesas não obrigatórias de
+custeio e investimento.
+
+O Ministério do Planejamento, de posse deste valor, fixa cotas de despesa para cada
+ministério. Estes alocam internamente os recursos e enviam suas propostas de volta ao
+Ministério do Planejamento; que consolida as propostas de todos os ministérios, repassando
+uma proposta de orçamento ao Presidente da República, para envio ao Congresso.
+
+Nesse processo há intensa negociação política. Cada ministério tenta aumentar sua
+dotação, pressionando o Ministério do Planejamento e a Presidência da República. Os
+parlamentares de bancadas setoriais, como agricultura e saúde, também pressionam o
+Ministério do Planejamento e a Presidência da República.
+
+13.2 — Alteração pelo Poder Legislativo
+
+O Legislativo pode alterar o orçamento através de emendas. Como afirmado
+anteriormente, os parlamentares têm forte incentivo no sentido de aumentar a despesa
+prevista no orçamento para atender seus interesses eleitorais e de grupos de pressão
+específicos.
+
+O montante total de recursos disponível para as emendas provém de duas fontes:
+elevação da estimativa de receita ou corte de algumas categorias de despesas.
+
+ 
+
+Por isso, um ponto fundamental da tramitação do orçamento é a reestimativa das
+receitas feita pelo Comissão de Orçamento do Congresso. Assim que inicia a tramitação do
+projeto de lei da LOA, um Relator da Receita é nomeado para checar a estimativa de
+receitas feita pelo Poder Executivo. O Congresso sempre considera que o Executivo
+subestimou a receita e a reestima para cima; abrindo espaço para que os parlamentares
+introduzam no orçamento mais despesas, via emendas.
+
+A fixação da receita pelo Executivo e a sua reestimativa pelo Legislativo são um
+ponto central do jogo que envolve o processo decisório do orçamento. Sabendo que o
+Legislativo vai reestimar para cima a receita, o Executivo tem incentivos para enviar ao
+Congresso uma receita subestimada. Isso atende aos seguintes propósitos do Executivo:
+
+e minimiza o risco de descumprimento da meta fiscal, pois a reestimativa feita
+pelo Congresso vai efetivamente se realizar;
+
+'8 Lei de Responsabilidade Fiscal (Lei Complementar nº 101, de 2000), arts. 8º e 9º.
+'º Transferências a estados e municípios, pagamento de salários e benefícios previdenciários, despesa mínima
+obrigatória na área de saúde, etc. Essas despesas serão analisadas na seção II, adiante.
+14
+
+e a reestimativa pelo Congresso dá justificativa política para que o Executivo
+bloqueie a liberação dos recursos logo após à aprovação do orçamento, sob a
+alegação de que as receitas estão superestimadas: isso coloca o controle do
+resultado fiscal nas mãos do Ministério da Fazenda e o controle político dos
+parlamentares na mão da Presidência da República.
+
+A Tabela 1 compara a receita proposta pelo Executivo nos projetos de LOA de 2004
+a 2008 com os valores finais estabelecidos pelo Legislativo e com o valor efetivamente
+realizado. O que se observa é que, em todos os anos, a receita proposta pelo Executivo
+ficou significativamente abaixo da receita efetivamente realizada; e que mesmo a
+reestimativa feita pelo Congresso ficou abaixo do realizado (a exceção de 2006).
+
+Tabela 1 - Receita Primária, líquida de transferências obrigatórias aos estados e
+municípios: valores do projeto de lei, da lei orçamentária e efetivamente realizado
+
+R$ Bilhões correntes
+
+Projeto/R ealizado |Lei/R ealizado
+
+Projeto
+Lei
+Realizado
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100,1%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fontes: Consultorias de Orçamento da Câmara e do Senado, Ministério
+
+do Planejamento. Elaborado pelo autor.
+
+(*) Quinta avaliação bimestral da receita do Ministério do Planejamento
+
+(**) 2º reestimativa de receita, dezembro de 2007.
+
+Desse modo, não cabe afirmar que o Congresso faz reestimativas irreais da receita.
+
+Até porque tais reestimativas são feitas com embasamento técnico e a partir de parâmetros
+fornecido pelo próprio Poder Executivo. O que parece efetivamente ocorrer é o jogo acima
+descrito: o Executivo subestima a receita porque sabe que o Congresso a reestimará para
+cima”.
+
+2 Deve-se considerar, contudo, que se o Executivo deixasse de subestimar a receita, o Legislativo continuaria
+tendo incentivos para elevar a estimativa produzindo, aí sim, um desequilíbrio fiscal. O Poder Executivo
+também tende a usar parâmetros conservadores para a taxa de inflação. Ademais, entre agosto e dezembro a
+inflação esperada e a arrecadação efetivada podem aumentar em relação às usadas na proposta orçamentária).
+15
+
+O principal objetivo dos parlamentares, ao reestimar a receita, é dispor de recursos
+para aumentar a despesa de investimentos; quase sempre aqueles de interesse dos suas
+bases eleitorais ou de seus financiadores de campanha?! A Tabela 2 mostra como a rubrica
+“investimento” cresce durante a tramitação do orçamento no Congresso. Tomemos como
+exemplo os dados de 2004: o Poder Executivo enviou ao Legislativo um projeto de lei
+orçamentária onde constavam investimentos da ordem de R$ 7,8 bilhões. O Congresso
+aumentou essa rubrica para R$ 12,4 bilhões. Ao longo do ano foram efetivamente
+executados R$ 10,9 bilhões?.
+
+Ou seja, seguindo a lógica acima descrita, o Executivo envia um orçamento ao
+Congresso com poucos investimentos, pois sabe que o Legislativo os vai ampliar. Depois o
+Executivo faz o contingenciamento das verbas, de modo a controlar a base de apoio e
+manter o equilíbrio fiscal. Mas executa parcialmente as demandas do Legislativo. Ao final
+do ano, a execução dos investimentos fica em um meio termo entre a proposta do Executivo
+e o desejo do Legislativo. Esse fenômeno é observado em todos os anos retratados na
+Tabela 2.
+
+Tabela 2 Investimentos e Outras Despesas Correntes exceto Transferências a Estados
+e Municípios: valores do Projeto de Lei, do Orçamento Aprovado no Congresso e da
+Efetiva Execução Financeira - 2004 a 2007
+
+R$ bilhões correntes
+
+Outras Despesas Correntes Exceto
+Investimentos Transferências a Estados e Municípios
+
+Projeto
+Lei
+
+ 
+
+ 
+
+Executado
+
+Projeto
+Lei
+
+ 
+
+ 
+
+Executado
+
+Projeto
+Lei
+
+ 
+
+ 
+
+Executado
+Projeto
+Lei
+
+Executado (*)
+
+Fonte: Siafi. Sistema Siga Brasil. Elaborado pelo autor.
+(*) Execução até novembro de 2007.
+Obs: os valores executados referem-se à despesa liquidada.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2! Samuels (2002) analisa em detalhes esse aspecto.
+2 Qutro aspecto mostrado na tabela 2 é o ciclo eleitoral: os investimentos são baixos no 1º ano do mandato e
+altos no último ano; em 2003, foram R$ 6,5 bilhões e, em 2006, R$ 19,6 bilhões.
+16
+
+Além de reestimar a receita, o legislativo também pode cortar algumas despesas
+propostas pelo Executivo para acomodar os gastos que deseja acrescentar no orçamento.
+
+Essa margem de manobra, porém, é restrita. A Constituição? proíbe que sejam cortadas
+despesas com pessoal e encargos sociais, com amortização e juros da dívida pública e com
+transferências constitucionais a estados e municípios.
+
+Restam, portanto, para serem remanejados, os itens “Outras Despesas Correntes”
+(exceto transferências a estados e municípios) e “investimentos”. Como os investimentos
+são a menina dos olhos dos parlamentares, os cortes, quando efetivados, tendem a recair
+sobre as Outras Despesas Correntes (exceto transferências a estados e municípios).
+
+Contudo, a Tabela 2, acima, mostra que não existe um movimento de cortar
+despesas correntes para acomodar investimentos. O valor proposto pelo Executivo para
+essas Outras Despesas Correntes é preservado e, algumas vezes, ampliado pelo Congresso.
+Os cortes em Outras Despesas Correntes, quando feitos, acabam acomodando despesas da
+mesma espécie, acrescentadas pelo próprio Congresso”.
+
+Em suma, a principal ação do Congresso na transformação do orçamento proposto
+pelo Executivo é elevar a receita estimada e utilizar esses recursos adicionais para
+introduzir, via emendas, mais despesas de investimentos.
+
+13.3 — Execução pelo Poder Executivo
+
+ 
+
+Uma vez aprovada a LOA pelo Congresso, ela vai a sanção do Presidente da
+República, que pode vetar alguns dispositivos. Esses vetos ocorrem, mas não são eles que
+afetam de forma significativa a peça orçamentária. O maior impacto sobre o orçamento se
+dá através do já comentado “contingenciamento” ou, como é conhecido no jargão técnico,
+“limitação de empenho e movimentação financeira”.
+
+Desde a promulgação da Constituição os ministérios da área econômica vêm
+utilizando esse artifício. Publica-se um decreto do Presidente da República impondo limites
+estritos à despesa (sob o argumento, já exposto acima, de que o Legislativo superestimou a
+receita). Depois, ao longo do ano, a medida que a receita vai entrando no cofre do Tesouro
+(confirmando ou superando a projeção do Congresso) as verbas vão sendo liberadas.
+
+A Lei de Responsabilidade Fiscal tentou racionalizar e diminuir o poder
+discricionário do Executivo para fazer contingenciamentos. Em seu art. 9º ela estabeleceu
+que se faria uma verificação bimestral da realização da receita e, caso houvesse frustração
+da arrecadação a ponto de comprometer as metas fiscais, ficaria autorizado o
+contingenciamento. Na prática, contudo, essa regra “não pegou”, e o contingenciamento
+continua sendo feito à moda antiga: um grande corte no começo do ano e liberações ao
+longo do exercício.
+
+É a existência do contingenciamento que faz surgir o debate sobre o chamado
+“orçamento obrigatório”. Tornar obrigatória a execução do orçamento nada mais é do que
+proibir o Poder Executivo de contingenciar a liberação das verbas: o que estiver escrito no
+orçamento deve ser cumprido, liberando-se 100% dos recursos previstos para gastos.
+
+3 CF, art. 166, $ 3º, inciso III.
+2 As bancadas setoriais (agricultura e saúde são as mais fortes) não só buscam ampliação de investimento
+mas também a ampliação dos gastos de custeio em suas respectivas áreas de interesse.
+17
+
+É importante observar que essa forma heterodoxa de execução orçamentária reforça
+os poderes do Executivo para atingir seus objetivos principais: o cumprimento das metas
+
+fiscais e o controle do voto dos parlamentares, através dos chamados “restos a pagar”.
+
+Isto porque a despesa pública se faz em três estágios, chamados de “empenho”?,
+
+“liquidação”? e “pagamento”?”. Caso a despesa empenhada e liquidada não seja paga até o
+final do ano, ela vai para o orçamento seguinte sob a forma de “restos a pagar”. E prática
+muito comum do Poder Executivo deixar de pagar um elevado volume de despesas já
+empenhadas e liquidadas; empurrando-as para os restos a pagar do exercício seguinte. Isso
+é feito pelas seguintes razões:
+
+e simular que se está respeitando a Lei de Responsabilidade Fiscal: esta Lei
+determina que “no caso de restabelecimento da receita prevista, ainda que
+parcial, a recomposição das dotações cujos empenhos foram limitados dar-
+se-á de forma proporcional às reduções efetivadas” ?. Ou seja, se não
+houver a frustração de receita que motivou o contingenciamento, as despesas
+previamente programadas devem ser empenhadas. Como visto na Tabela 1,
+acima, pelo menos desde 2004 não há frustração de receita. Logo, pela regra
+descrita acima, o Executivo tem que fazer as despesas programadas no
+orçamento. Mas o que ele faz, na verdade, é empenhar tais despesas, e
+muitas vezes chega a liquidá-las, mas não as paga.
+
+e elevar o superávit primário: como este superávit é medido em conceito de
+caixa , a verba que está na conta do Tesouro é computada como recurso
+economizado, mesmo que ela esteja comprometida com o pagamento de
+uma despesa já empenhada e liquidada e que foi transformada em restos a
+pagar.
+
+e manter os parlamentares sob controle: aqueles que votaram de acordo com o
+governo e conseguiram o empenho e liquidação das despesas de seu
+interesse, agora terão que negociar com o Executivo mais uma vez, para que
+os restos a pagar sejam efetivamente pagos.?.
+
+A Tabela 3 mostra as despesas do Orçamento de 2006 por natureza da despesa.
+Percebe-se que o maior percentual de contingenciamento de despesa ocorre justamente na
+rubrica investimento, para a qual foram efetivamente pagos apenas 33% dos valores
+empenhados.
+
+Bei nº 4.320, de 1964: “Art. 58 O empenho de despesa é o ato emanado de autoridade competente que cria
+para o Estado obrigação de pagamento pendente ou não de implemento de condição.”.
+
+* Lei nº 4.320, de 1964: “Art. 63. A liquidação da despesa consiste na verificação do direito adquirido pelo
+credor tendo por base os títulos e documentos comprobatórios do respectivo crédito.”.
+
+” Lei nº 4320, de 1964: “Art. 64. A ordem de pagamento é o despacho exarado por autoridade competente,
+determinando que a despesa seja paga.”.
+
+28 Lei Complementar nº 101, de 2000, art. 9º, 81º.
+
+2 Gontijo (2001) mostra que o pagamento de restos a pagar tem elevação expressiva em momentos de
+votações importantes no Congresso.
+18
+
+Tabela 3 - Despesas do Orçamento de 2006 por Grupo de Natureza da Despesa:
+valores empenhados, liquidados e pagos
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+R$ Bilhões correntes
+Empenhado | Liquidado Pago |Pago/Empenhado
+(A) (B) (Cc) (D)=C)(A)
+
+INVESTIMENTOS 19,6 19,6 6,6 33%
+
+INVERSÕES FINANCEIRAS 27 27 20 74%
+
+OUTRAS DESPESAS CORRENTES 373 373 355 95%
+
+PESSOAL E ENCARGOS SOCIAIS 115 115 114 99%
+
+UROS E ENCARGOS DA DÍVIDA 151 151 151 100%
+
+AMORTIZACÃO/REFINANCIAMENTO DA DÍVIDA 498 498 497 100%
+Fonte: Siafi. Sistema Siga Brasil. Elaborado pelo autor.
+
+A preferência pelo corte nos investimentos se dá não apenas pela oportunidade de
+
+manter parlamentares sob controle, mas também porque a maior parte da despesa do
+orçamento federal não pode ser cortada (despesas com amortização de dívida e com pessoal
+são incomprimíveis no curto prazo, e muitas das “outras despesas correntes” são, por lei, de
+execução obrigatória). Esse ponto será analisado na seção II.
+
+Por fim, cabe registrar que, em paralelo ao processo de execução orçamentária com
+uso de contingenciamento, o Poder Executivo também pode alterar o orçamento ao longo
+do ano através do envio, ao Congresso, de projetos de lei de créditos adicionais. Esses
+créditos são classificados em “suplementares”, “especiais” e “extraordinários”. Ao
+contrário do contingenciamento (aplicado de forma um tanto arbitrária, como acima
+detalhado) o uso de créditos adicionais é democrático e transparente, pois as alterações ao
+orçamento precisam da chancela do Legislativo.
+
+I.4- Avaliação do processo orçamentário
+
+Do ponto de vista do cumprimento das metas de superávit primário, o processo
+orçamentário acima descrito tem sido um sucesso. O contingenciamento é uma ferramenta
+capaz de produzir os resultados almejados.
+
+No que diz respeito à conquista do apoio dos parlamentares aos projetos do
+governo, o uso da execução orçamentária parece estar entrando em um processo de fadiga.
+Os recentes escândalos do “mensalão” e das “sanguessugas” mostraram forte evidência de
+que o processo de liberação de recursos orçamentários degenerou para um mecanismo
+direto de suborno de congressistas e para o uso de emendas parlamentares como
+instrumento de desvio de recursos.
+
+No que toca à qualidade do gasto, o processo orçamentário brasileiro tem impacto
+negativo. Como argumentam Lima e Miranda (2006), os fornecedores de bens e serviços ao
+governo enfrentam elevada incerteza quanto ao momento em que serão pagos, dado o risco
+
+9Leinº 4.320, de 1964: “Art. 41. Os créditos adicionais classificam-se em:
+
+I- suplementares, os destinados a refôrço de dotação orçamentária;
+
+II - especiais, os destinados a despesas para as quais não haja dotação orçamentária específica;
+III - extraordinários, os destinados a despesas urgentes e imprevistas, em caso de guerra, comoção intestina
+ou calamidade pública.”.
+19
+
+de seus pagamentos serem colocados em “restos a pagar”. Esse risco tende a ser transferido
+para os preços dos produtos”.
+
+Há também um elevado custo de transação no processo. Um exército de lobistas de
+empresas, assessores parlamentares e beneficiários de programas públicos fazem
+permanentes romarias a ministérios para pressionar, primeiro, pelo empenho e liquidação
+da despesa e, depois, pelo pagamento dos restos a pagar. As oportunidades de corrupção
+são grandes nas duas etapas.
+
+Na liberação de recursos via contingenciamento há uma natural transferência das
+despesas para os últimos meses do ano, quando já se tem certeza quanto à receita realizada
+e ao cumprimento da meta de superávit primário. Isso faz com que os programas de
+governo sejam mantidos à mingua durante todo o ano e, ao final do exercício, precisem
+realizar licitações de afogadilho. Torna-se bastante difícil administrar programas públicos
+com eficácia se não há regularidade e previsibilidade na liberação de recursos.
+
+Essas liberações maciças de recursos no fim do ano também tumultuam a tramitação
+do orçamento relativo ao ano seguinte; pois no momento em que está conduzindo uma
+complexa avaliação do projeto de LOA, a Comissão de Orçamento recebe elevado volume
+de projetos de créditos adicionais, nos quais o Executivo, ao mesmo tempo em que libera
+recursos, propõe alterações nos programas atendidos. A transparência é fortemente
+prejudicada, pois os projetos de créditos adicionais são votados de afogadilho, sem
+informações e análises adequadas.
+
+Ademais, o uso da liberação de recursos de emendas parlamentares como
+instrumento de cooptação política faz com que os recursos sejam liberados sem a devida
+análise da qualidade dos projetos financiados. O objetivo principal é agradar o parlamentar
+e seu grupo de apoio e não fornecer bens e serviços públicos de qualidade. Isso sem falar na
+pulverização de recursos decorrente da execução de investimentos que não têm qualquer
+ligação com um sistema de metas e prioridades previamente estabelecido.
+
+1.5- Possibilidades de aperfeiçoamento do sistema orçamentário
+
+A recuperação da qualidade do sistema orçamentário deve ser feita a partir da
+“normalização” da elaboração e execução do orçamento. É preciso dispor de um sistema
+eficiente de elaboração e execução do orçamento para, só depois, buscar melhorar os
+instrumentos de planejamento de médio e longo prazo. Não é possível, em um contexto de
+precária execução do instrumento de curto-prazo (orçamento), querer reformular o processo
+a partir do instrumento de longo-prazo (PPA).
+
+Enquanto toda a atenção do sistema político estiver voltada para a disputa em torno
+da execução das despesas no curto prazo, não há chance de se estabelecer um sistema de
+planejamento plurianual que não seja uma mera formalidade burocrática. Somente quando
+se conseguir organizar a disputa na alocação da receita anual é que será possível planejar a
+despesa por mais de um exercício.
+
+O ponto chave parece estar na estimativa da receita do orçamento. A criação de uma
+comissão técnica conjunta do Executivo e do Legislativo poderia ser encarregada de fazer
+
+* Esse problema era maior com a inflação elevada, mas persistiu devido à elevada taxa de juro nominal
+praticada no País.
+20
+
+uma única estimativa de receita, de forma a acabar com o desgastante jogo de
+subestimativas e correções de estimações. Essa comissão divulgaria, com antecedência, a
+metodologia de estimativa, bem como um calendário de reestimativas.
+
+A projeção inicial da receita seria aquela que constaria do projeto de lei da LOA,
+encaminhado ao Congresso ao final de agosto de cada ano. A partir daí, a comissão
+publicaria, com periodicidade fixa, as reestimativas de receita, feitas com base na
+atualização dos parâmetros de projeção, decorrentes da divulgação dos indicadores
+relevantes nos meses de setembro a dezembro (crescimento do PIB, índices de inflação,
+evolução da receita no ano em curso, etc.).
+
+As receitas adicionais não seriam, necessariamente, de livre alocação pelo
+Congresso. A LDO fixaria uma regra de alocação dos adicionais de receita reestimados
+(que, certamente, seriam menores que os adicionais obtidos atualmente, pois não mais
+haveria o incentivo a uma subestimativa inicial), listando os projetos e atividades que
+receberiam suplementação de fundos em caso de reestimativa positivas de receitas (bem
+como os que perderiam receita em caso de reestimativa para baixo). Uma parcela
+previamente fixada do orçamento seria alocada para emendas.
+
+A partir daí seria possível caminhar gradualmente para um orçamento em que fosse
+efetivamente executada a despesa ali programada, com a liberação dos recursos de forma
+homogênea ao longo do ano.
+
+Uma precondição para se conseguir acabar com o atual regime de
+contingenciamentos da despesa na “boca do caixa”, sem comprometer o equilíbrio fiscal, é
+conter a forte rigidez e o acelerado ritmo de crescimento da despesa. Esse é o ponto
+analisado na próxima seção.
+21
+
+II - Regime fiscal de despesa rígida e crescente
+
+II.1 - Descrição Geral
+
+Desde a redemocratização, em 1985, e, em especial, a partir da promulgação da
+Constituição de 1988 o País vive um regime fiscal baseado na expansão da despesa. Não
+cabe aqui analisar as causas políticas, históricas e institucionais desse fenômeno”, cabendo
+apenas citar que a dependência do voto para a sobrevivência política levou à expansão de
+programas de assistência social para a grande massa de eleitores de baixa renda. Também
+levou à prática de uma política de rendas, mediante a concessão de aumentos reais para o
+salário mínimo, que afetou, sobremaneira, a despesa da previdência social com benefícios
+previdenciários e assistenciais indexados a esse parâmetro.
+
+No âmbito do texto constitucional observou-se, por um lado, uma forte
+
+descentralização de recursos, através de aumento das transferências fiscais obrigatórias para
+estados e municípios; o que reduziu a receita disponível para o Governo Central.
+
+Por outro lado, diversos setores conseguiram a vinculação de receitas de alguns
+tributos e contribuições a despesas de seus interesses (educação, cinema, esportes, políticas
+de amparo ao trabalhador, manutenção de órgãos públicos, etc.).
+
+Na Constituinte e ao longo dos anos seguintes expandiu-se, também, a fixação de
+despesas obrigatórias em algumas áreas (saúde, previdência e assistência social, judiciário,
+legislativo e Ministério Público).
+
+O resultado foi um orçamento rígido (previamente alocado por determinações
+constitucionais e legais) e com despesas crescentes.
+
+A forma inicialmente encontrada para lidar com esse desequilíbrio fiscal crônico foi
+a inflação, que corroia o valor real das despesas, enquanto a arrecadação era indexada à
+variação de preços. A partir da estabilização da inflação, em 1994, o financiamento do
+desequilíbrio fiscal se fez mediante a expansão da dívida pública. Porém, no início de 1999,
+com a dívida líquida do setor público atingindo 47%” e em trajetória de expansão, e com
+diversas crises internacionais colocando em cheque o regime de câmbio fixo que permitia
+manter estável a inflação; tornou-se inevitável um ajuste nas contas fiscais do País. O
+Gráfico | mostra o forte ajuste fiscal feito a partir de 1999, com o salto do resultado
+primário do Governo Central para 2,1% do PIB; mantendo-se, desde então, em torno desse
+patamar.
+
+A forma disponível para se obter equilíbrio fiscal em um regime de despesa rígida e
+crescente foi, por um lado, o já analisado contingenciamento de despesas, com forma de
+frear o ritmo de crescimento do gasto. Por outro lado, buscou-se a expansão da receita
+fiscal. De fato, como mostra o Gráfico 2, o Brasil passou a viver, desde 1999, um regime
+fiscal em que se expande a receita com dois objetivos:
+
+e financiar a despesa primária rígida e crescente e,
+
+e gerar recursos suficientes para pagar juros da (elevada) dívida pública; de
+modo a evitar o crescimento explosivo dessa dívida.
+
+*2 Mendes (2006b) faz esse tipo de análise.
+*3 Valor de Janeiro de 1999. Fonte: Banco Central do Brasil — dívida líquida do setor público consolidado.
+22
+
+Gráfico 1 - Resultado Primário do Governo Central (% do PIB)
+
+ 
+
+3,0
+
+25
+
+2,0
+
+1,5
+
+1,0
+
+0,5
+
+0,0
+
+ 
+
+ 
+
+ 
+
+-0,5
+
+ 
+
+Fonte: STN. Elaborado pelo autor.
+Resultado ajustado por discrepâncias estatísticas.
+
+Gráfico 2 - Receita Primária L íquida e Despesa Primária do Governo Central: 1997-
+2006 (% do PIB)
+
+ 
+
+20,00%
+
+19,00%
+
+18,00%
+
+17,00%
+
+16,00%
+
+15,00%
+
+   
+
+14,00% o
+1997 1998 1999 2000 2001 2002 2003 2004 2005 2006
+
+ 
+
+ 
+
+—e— Receita Primária Líquida —p-— Despesa Primária
+
+ 
+
+Fonte: STN. Elaborado pelo autor.
+Receita e despesa medidas “acima da linha”,não ajustadas para discrepâncias estatísticas em relação
+ao conceito “abaixo da linha”
+
+Havia, contudo, uma restrição adicional à expansão da receita. Elevar a arrecadação
+de impostos seria pouco produtivo para o ajuste das contas da União. Primeiro, porque os
+principais impostos existentes são partilhados com estados e municípios; de modo que parte
+do ganho de arrecadação teria que ser repassado aos governos subnacionais. Segundo,
+23
+
+porque a Constituição estabelece que 20% da arrecadação de qualquer novo imposto criado
+pela União deve ser partilhado com estados e municípios”.
+
+Por isso, a solução encontrada foi o aumento da receita via criação e elevação de
+alíquotas de contribuições sociais e econômicas”. Essas contribuições não só não
+precisavam ser partilhadas com estados e municípios, como também, em alguns casos, não
+estavam sujeitas ao princípio da anualidade, segundo o qual o tributo só pode ser cobrado
+no exercício seguinte âquele em que foi instituído."$
+
+O Gráfico 3 mostra que o caminho utilizado foi, realmente, o de expansão da receita
+via elevação das contribuições: enquanto a receita de impostos oscilou em torno de 7,5% do
+PIB, no período 1997-2006, as contribuições saltaram de 4,8% para 8,2% do PIB.
+
+Gráfico 3 - Receitas da União com Impostos e de Contribuições: 1997 a 2006 (% do
+PIB)
+
+ 
+
+ 
+
+8,5%
+
+8,0%
+
+ 
+
+7,5% +
+
+7,0%
+
+ 
+
+6,5%
+
+ 
+
+6,0% 4
+
+5,5%
+
+ 
+
+5,0%
+
+ 
+
+ 
+
+ 
+
+ 
+
+4,5%
+
+ 
+
+1997 1998 1999 2000 2001 2002 2003 2004 2005 2006
+
+—e— Impostos —m-— Contribuições
+
+ 
+
+ 
+
+ 
+
+Fonte: STN. Elaborado pelo autor.
+
+Contudo, esta solução não era perfeita, pois as receitas de contribuições são, por
+definição, vinculadas às ações para as quais foram criadas. Por exemplo, o art. 195 da
+Constituição lista os tipos de contribuições sociais que podem ser criados para o
+financiamento da seguridade social. Ou seja, todas as contribuições sociais sobre folha de
+salários, receita, lucro ou faturamento de empresas; bem como aquelas cobradas sobre o
+salário dos trabalhadores, devem ser destinadas ao custeio de ações da seguridade
+(previdência social, assistência social e saúde). De forma similar, a Contribuição de
+Intervenção no Domínio Econômico (CIDE) deve ter seus recursos destinados a financiar
+programas de infra-estrutura de transportes, projetos ambientais e subsídios aos preços e
+transportes de combustíveis.
+
+“CF. art. 157, inciso II.
+CF. art. 149.
+36 C.F., art. 150, inciso III, alínea D e art. 195, $ 6º.
+24
+
+Se o objetivo da expansão da receita fosse apenas financiar a despesa crescente, a
+vinculação das contribuições não seria um problema significativo. Afinal, como será
+comentado adiante, parte significativa da expansão dos gastos ocorre na órbita do
+orçamento da seguridade social, tanto em função da expansão do salário mínimo, quanto da
+ampliação dos benefícios sociais e das despesas mínimas obrigatórias em saúde.
+
+Ocorre que as contribuições estavam sendo elevadas não apenas para financiar a
+expansão dos gastos da seguridade social, mas também para gerar recursos suficientes para
+pagar os juros e amortização da dívida pública.
+
+Como fazer, então, para permitir que parte da receita adicional, levantada mediante
+a criação ou aumento de alíquotas de contribuições, fosse desvinculada do uso nas áreas
+predefinidas pela Constituição, podendo ser utilizadas no pagamento do serviço da dívida
+pública?
+
+A solução encontrada foi a criação da regra da “Desvinculação das Receitas da
+União (DRU)”*”, que também já foi chamada de “Fundo Social de Emergência (FSE)” e de
+“Fundo de Estabilização Fiscal”; e que vige, ininterruptamente, desde 1994.
+
+A principal função da DRU é, portanto, permitir o livre uso de recursos arrecadados
+por contribuições sociais, seja para financiar despesas primárias que, originalmente, não
+poderiam ser financiadas por aquelas contribuições, seja para financiar o pagamento dos
+juros da dívida pública.
+
+ 
+
+Antes de se fazer uma análise mais detalhada dos efeitos da DRU, é importante
+conhecer o impacto das despesas obrigatórias e das vinculações de receitas sobre a
+execução orçamentária.
+
+II.1 - Despesas obrigatórias
+
+Despesas obrigatórias são aquelas que a União é obrigada a fazer por determinação
+da Constituição ou de leis, e que não podem ser contingenciadas.
+
+Os benefícios previdenciários do Regime Geral de Previdência Social (RGPS) são o
+principal item de despesa com essa característica. Estão listados na legislação os requisitos
+exigidos para que um indivíduo faça jus a uma pensão, uma aposentadoria ou um auxílio
+previdenciário. Não há possibilidade de, a título de controle de despesa pública, negar a
+concessão de um benefício previdenciário. Não há, também, possibilidade de se
+contingenciar recursos para o pagamento dessas despesas; pois isso geraria um passivo a
+ser pago mais cedo ou mais tarde, isso sem falar nas implicações jurídicas para o gestor da
+despesa.
+
+Situação similar é a dos benefícios concedidos pela Lei Orgânica da Assistência
+Social (LOAS)* e pela Renda Mensal Vitalícia (RMV) (este último em extinção), que
+determinam o pagamento de um salário mínimo de benefício mensal à pessoa portadora de
+deficiência e ao idoso que viva em família cuja renda mensal per capita seja inferior a um
+quarto do salário mínimo.
+
+ 
+
+O abono salarial e o seguro desemprego constituem outra despesa obrigatória: uma
+vez que o trabalhador cumpra os requisitos para receber tais benefícios, não há como não
+pagar ou contingenciar verbas.
+
+ 
+
+* Atualmente regulada pelo art. 76 do Ato das Disposições Constitucionais Transitórias, com redação dada
+pela Emenda Constitucional nº 56, de 20 de dezembro de 2007, e vigência prevista até o final de 2011.
+* Lei nº 8.742, de 1993.
+25
+
+Outra importante despesa obrigatória foi instituída pela Emenda Constitucional nº
+29, de 2000”; que determinou que naquele ano o gasto mínimo em ações e serviços
+públicos de saúde seria equivalente a 105% do valor gasto em 1999 e que, a partir de 2001
+a despesa mínima seria equivalente ao gasto no ano anterior corrigidos pela variação
+nominal do PIB. Da mesma forma que nos casos anteriores, estava explicitamente definido
+o montante mínimo a gastar, não havendo espaço para contingenciamento de verbas.
+
+Tem sido obrigatória, na prática, toda a despesa do Judiciário, do Legislativo (aí
+incluído o Tribunal de Contas da União) e do Ministério Público (doravante chamados de
+“poderes autônomos”). A Constituição estabelece explicitamente que o Judiciário tem
+autonomia administrativa e financeira. Para o Ministério Público a Constituição utiliza a
+expressão “autonomia funcional e administrativa”?!, não deixando claro se esta autonomia
+abarca a esfera financeira. Para o Legislativo a expressão utilizada é ainda mais vaga:
+
+“competência privativa para dispor sobre sua organização e funcionamento”.
+
+ 
+
+ 
+
+Não obstante essa imprecisão na delimitação da autonomia para estipular o próprio
+orçamento, os poderes autônomos, na prática, elaboram o próprio orçamento e o enviam ao
+Executivo, que os incorpora sem cortes ao Orçamento Geral da União. Isso é feito a
+despeito de a Constituição determinar, em todos os dispositivos referentes aos dois Poderes
+e ao Ministério Público”, que seus orçamentos devem estar subordinados aos parâmetros
+fixados na Lei de Diretrizes Orçamentárias. Na prática não há parâmetros que limitem o
+tamanho desses orçamentos.
+
+Outro dispositivo da Constituição (art. 168) estabelece que os orçamentos dos
+poderes autônomos não podem ser contingenciados. Além disso, com base no princípio da
+separação dos Poderes, o STF decidiu pela inconstitucionalidade de um dispositivo da Lei
+de Responsabilidade Fiscal que determinava a possibilidade de o Executivo contingenciar
+recursos daqueles poderes casos estes não o fizessem de moto próprio, em momentos em
+que o cumprimento das metas fiscais estivesse ameaçado. O resultado é que os poderes
+autônomos têm pleno controle da magnitude e do ritmo de crescimento de seus respectivos
+orçamentos.
+
+As sentenças e acordos judiciais também constituem um tipo de despesa do qual o
+Tesouro não pode escapar. São decorrentes de fatos ocorridos no passado e cujo pagamento
+é determinado por sentenças transitadas em julgado.
+
+A LDO traz um anexo com as despesas que não serão contingenciadas, seja por
+constituirem obrigação constitucional ou legal, seja por imposição da LDO. O anexo de
+2008 tem 60 itens.
+
+O fato de todos esses itens de despesa acima citados serem obrigatórios não é um
+problema em si. O problema é que quase todos eles crescem de forma acelerada. Os
+benefícios da LOAS e o abono salarial são integralmente indexados ao salário-mínimo. Os
+benefícios previdenciários do RGPS também são fortemente influenciados pelo valor do
+salário-mínimo, uma vez que a Constituição determina que esse é o valor mínimo de
+
+* ADCT, art. 77.
+
+“CF art. 99.
+
+“CF. art. 127,82º.
+
+“CF. art. 51, inciso IV, e art. 52, inciso XI.
+
+* Ver dispositivos citados nas notas de rodapé do parágrafo anterior.
+“ Art. 9º, 63º.
+26
+
+qualquer benefício previdenciário” e, na prática, aproximadamente 1/3 dos benefícios
+
+estarem nesse nível mínimo. O valor do seguro-desemprego não está legalmente vinculado
+no pr ns r . . 46
+
+ao salário-mínimo, mas é por ele influenciado
+
+Dado que, por deliberação política, o salário-mínimo teve aumento real de 105%
+entre janeiro de 1995 e novembro de 2007”, todas essas despesas disparam.
+
+Outro fator que acelera essas despesas é a ampliação do conjunto de beneficiários.
+No caso dos benefícios da LOAS, a idade mínima para benefício do idoso tem sido
+reduzida paulatinamente. Inicialmente era de 70 anos e hoje é de 65 anos. No caso dos
+benefícios do RGPS, a dificuldade em se aprovar mudanças nos parâmetros de concessão
+de aposentadorias e pensões, em um contexto de aumento da idade média e ampliação da
+expectativa de vida da população, leva à expansão do universo de beneficiários sem a
+correspondente expansão da arrecadação da Previdência.
+
+O resultado disso pode ser visto na Tabela 4. Os benefícios previdenciários do
+RGPS, que já representavam 5% do PIB em 1997, subiram a 7,1% do PIB em 2006. Se
+somarmos a eles os benefícios da LOAS, o seguro desemprego e o abono salarial, temos,
+em 2006, uma despesa equivalente a 8,2% do PIB, ou 47% da despesa primária.
+
+Tabela 4 - Receitas e Despesas Primárias da União: 1997-2006 (% do PIB)
+
+1997 1998 1999 2000 2001 2002 2003 2004 2005 2006
+Total) 2006
+
+(A) Receita Primária (1) 16,9 18,7 19,9 20,8 22,1 23,3
+
+ 
+
+(B) Transf. a Est. e Municípios 2171 2,9 34 35 39 4,0
+
+ 
+
+(C)=(A-(B) Receita Primária Líquida 14,3 15,8 16,5 17,2 18,8 19,3
+
+ 
+
+ 
+
+(D)=(E)+...+]) | Despesa Primária 14,0 15,0 14,7 15,6 16,4 17,2
+
+ 
+
+(E) Pessoal e Enc. Sociais(2) 43 46 46 4,8 43 4,5
+
+ 
+
+(F) Benefícios Previdenciários 50 5,5 5,6 5,8 68 71
+
+ 
+
+(6) Abono e Seguro Desemprego] 0,5 0,5 04 0,4 05 0,6
+
+ 
+
+Benefícios da LOAS 00 0,0 0,0 0,0 04 0,5
+
+ 
+
+Subsídios e Subvenções 03 0,3 03 0,4 05 0,4
+
+ 
+
+Outras despesas 40 4,3 39 42 38 41
+
+ 
+
+Discrepância Estatística -0,6 -0,3 0,0 0,0 0,1 01
+
+ 
+
+ 
+
+ 
+
+ 
+
+Resultado Primário -03 0,5 17 17 26 22
+
+ 
+
+Fonte: STN
+
+(1) Líquida de restituições e incentivos fiscais.
+
+(2) Não inclui contribuição previdenciária da União ao Regime Próprio de Previdência dos Servidores (excluída,
+também, da receita).
+
+A despesa da saúde não aparece explicitamente na Tabela 4, estando dispersa tanto
+no item de despesa de pessoal quanto de “outras despesas”. A Tabela 5 mostra o total dessa
+
+S Art. 201, 82º.
+
+* Há categorias especiais de seguro-desemprego, cujo valor do benefício é fixado em um salário mínimo, e
+que atendem a: empregados domésticos, pescadores artesanais em período de proibição de pesca e os
+trabalhadores resgatados de condições de trabalho similares à escravidão.
+
+* Fonte: IPEADATA. www ..ipeadata.gov.br. Série Salário Mínimo Real.
+
+*8 Lei nº 9.720, de 1998, e Lei nº 10.741, de 2003 (Estatuto do Idoso).
+27
+
+despesa, indicando que ela tem acompanhado o ritmo de crescimento do PIB (como exige a
+Constituição).
+
+Os poderes autônomos, embalados por sua autonomia de gastos, têm elevado suas
+despesas em ritmo superior ao crescimento do PIB. A Tabela 6 mostra que suas despesas
+saltaram de 1,03% do PIB em 1998 para 1,26% em 2006.
+
+Tabela 5 - Despesa do Governo Federal com Saúde (% do PIB)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ano % do PIB
+2001 1,66
+2002 1,67
+2003 1,60
+2004 1,68
+2005 1,72
+2006 1,71
+Média 1,67
+
+ 
+
+ 
+
+ 
+
+Fonte: Relatório Resumido da Execução Orçamentária e Sistema Siga Brasil.
+
+Tabela 6 - Despesa do Governo Federal com Judiciário, Legislativo e Ministério
+Público (% do PIB)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ministério
+
+Judiciário | Legislativo Público Total
+1998 0,74 0,22 0,06 1,03
+1999 0,70 0,23 0,05 0,98
+2000 0,79 0,21 0,06 1,06
+2001 0,78 0,23 0,07 1,08
+2002 0,79 0,24 0,08 1,11
+2003 0,72 0,25 0,09 1,05
+2004 0,76 0,25 0,08 1,09
+2005 0,73 0,25 0,08 1,06
+2006 0,88 0,28 0,10 1,26
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Balanços Gerais da União e Sistema Siga Brasil.
+
+II.2 - Despesas “ quase-obrigatórias”
+
+A despesa de pessoal e encargos sociais não foi incluída no grupo de despesas
+obrigatórias porque ela tem um pouco mais de flexibilidade. O governo tem mais controle
+sobre essa despesa do que sobre os benefícios previdenciários. Enquanto no caso dos
+benefícios o governo tem que aceitar pagar todos os benefícios novos, que tenham sido
+solicitados em conformidade com a lei; no caso da despesa de pessoal, ele pode
+simplesmente decidir não contratar servidores adicionais.
+
+ 
+
+É verdade que, por um lado, o setor público enfrenta dificuldades para demitir
+servidores, em função de dispositivos que garantem estabilidade no emprego, o que torna a
+folha de pagamento rígida no curto prazo. Mas, por outro lado, o governo pode optar por
+não conceder reajustes reais de salários por um tempo (enquanto que no caso dos benefícios
+previdenciários o reajuste do salário-mínimo catapulta as despesas). O governo também
+pode emagrecer o quadro de cargos de confiança (que não gozam de estabilidade).
+28
+
+No médio e longo prazo essa despesa torna-se ainda mais flexível, desde que haja
+uma política racional de recursos humanos, que evite a contratação em excesso e não pague
+remunerações acima do padrão do setor privado.
+
+Na prática, contudo, o Governo Federal não tem, há anos, uma política de pessoal.
+Recentemente, desde o início do primeiro mandato Lula, houve um movimento de
+ampliação das vagas efetivas e dos cargos em comissão; bem como uma política de
+reajustes reais de salários, tornando a despesa de pessoal rígida.
+
+Vale lembrar, ainda, que a despesa de pessoal dos poderes autônomos está incluída
+entre as obrigatórias. E como esses poderes acabam estabelecendo um elevado padrão de
+remuneração, eles representam um incentivo para que algumas carreiras do Executivo com
+elevado poder de barganha (por exemplo: Polícia Federal e Receita Federal), pleiteiem
+reajustes em busca de equiparação salarial. Isso gera um movimento que pressiona a
+despesa de pessoal como um todo.
+
+O resultado é que a despesa de pessoal tem crescido no mesmo ritmo do PIB. O seu
+alto valor absoluto (4,5% do PIB ou 26% da despesa primária em 2006 — ver Tabela 4,
+acima) representa mais um importante ingrediente para uma despesa pública rígida e que
+cresce acima da inflação.
+
+Outra típica despesa “quase-obrigatória” é a do programa Bolsa-Família”. Trata-se
+de uma despesa menos rígida que os tradicionais benefícios previdenciários e assistenciais,
+porque existe a possibilidade de limitar o número de participantes do programa. Não se
+trata de um programa do tipo “pague-se a todos que preenchem os requisitos mínimos”. O
+governo é quem define o montante de bolsas adicionais a conceder a cada ano. Além disso,
+o valor da bolsa não está atrelado ao salário-mínimo.
+
+Por outro lado, por se tratar de uma despesa com forte apelo político-eleitoral, e
+com grande impacto sobre as condições de indigência e pobreza, não pode haver cortes
+drásticos dessa despesa, o que lhe confere certa rigidez.
+
+ 
+
+Os subsídios creditícios e apoio financeiro à agricultura também constituem despesa
+quase-obrigatória. Dado que não se logrou desenvolver mercados de seguro agrícola e de
+negociação futura de commodities com adequada amplitude, o governo federal é
+politicamente instado a conceder seguidos perdões de dívidas agrícolas. Isso o leva a
+injetar, todos os anos, recursos públicos em operações de subsídios creditícios. Trata-se de
+uma despesa obrigatória de curto prazo, mas que poderia ser evitada, no médio prazo, pelo
+desenvolvimento de mecanismos de mercado que garantissem a renda dos produtores sem a
+necessidade de alocação recursos públicos.
+
+Na área da educação há programas federais de merenda escolar, apoio ao transporte
+escolar, aporte financeiro às escolas e complementação da União a verbas do FUNDEF
+(agora FUNDEB) que, em termos de rigidez da despesa, têm características similares ao
+Bolsa Família. Não são despesas absolutamente rígidas, porque o governo tem o controle
+do valor unitário do benefício. Por exemplo, é o Ministério da Educação que fixa o valor
+por aluno para a merenda escolar. Por outro lado, há certo grau de rigidez da despesa
+devido à sua importância social e política e pela obrigatoriedade legal de execução dos
+programas.
+
+e A respeito da política de pessoal, ver Guerzoni (2006).
+* Lei nº10.836, de 2004.
+29
+
+II.3 - Vinculação de receitas
+
+Receita vinculada é aquela proveniente de tributo ou contribuição cujos valores
+arrecadados são direcionados, por lei ou pela Constituição, a uma determinada despesa. Já
+foi dito acima que todas as contribuições são, por definição, vinculadas a algum tipo de
+despesa. Mas a Constituição também prevê a vinculação de impostos e taxas.
+
+Velloso (2006, p. 115) cita como principais vinculações do Orçamento Federal:
+
+18% da receita de impostos da União (descontadas as transferências para
+estados e municípios) devem ser aplicados na manutenção e
+desenvolvimento do ensino (Constituição Federal, art. 212).
+
+Contribuição social sobre o lucro líquido (CSLL) e contribuição para
+financiamento da seguridade social (COFINS) para financiar a seguridade
+social (saúde, previdência social e assistência social).
+
+Contribuição para o Programa de Integração Social (PIS) e Programa de
+Formação do Patrimônio do Servidor Público (PASEP): 60% para o Fundo
+de Amparo ao Trabalhador (FAT) para custear o seguro-desemprego, o
+abono salarial e programas como treinamento e requalificação da mão-de-
+obra e 40% repassados ao BNDES para financiar programas de
+desenvolvimento econômico”. (Constituição Federal, art. 239).
+
+Contribuição de intervenção no domínio econômico (CIDE): vinculada à
+aplicação em pagamento de subsídios a preços ou transporte de álcool
+combustível, gás natural e seus derivados e derivados de petróleo;
+financiamento de projetos ambientais relacionados com a indústria do
+petróleo e do gás; e ao financiamento de programas de infra-estrutura de
+transportes; sendo que 29% devem ser entregues aos estados e ao Distrito
+Federal para aplicação nas finalidades descritas acima (Constituição Federal
+art. 159, inciso III, e art.177; Lei 10.336/2001).
+
+Até dezembro de 2007, quando vigia a CPMF, sua receita era vinculada ao Fundo
+de Erradicação da Pobreza, ao Fundo Nacional de Saúde e à Previdência Social?.
+
+A estas vinculações podemos acrescentar diversas outras, como, por exemplo:
+
+3% do IR e do IPI para os Fundos Constitucionais de Financiamento do
+Setor Produtivo (FNE, FNO e FCO) (Constituição Federal, art. 159, I, c).
+
+Contribuição para o Desenvolvimento da Indústria Cinematográfica
+Nacional: 100% para o Ministério da Cultura — Fundo Nacional de Cultura
+(Medida Provisória nº 2.2228-1).
+
+* Constituição Federal, art. 195, Lei 7.689/88 (CSLL), Lei Complementar 70/91 (COFINS)
+
+*2 Os 40% repassados ao BNDES não são despesas públicas, mas sim aplicações do patrimônio do PIS e do
+PASEP, remunerados pelo BNDES. No entanto, cabe questionar se vale a pena impor carga tributária ao setor
+produtivo em geral para gerar recursos que serão emprestados a segmentos do setor produtivo escolhidos pelo
+
+governo.
+
+* ADCT, arts. 84 e 90.
+30
+
+e Adicional de Frete para Renovação da Marinha Mercante: 100% para o
+Fundo da Marinha Mercante (Lei nº 9.432, de 1997).
+
+e Compensações financeiras por exploração de recursos hídricos e minerais:
+repartidas entre estados, municípios, Ministério das Minas e Energia,
+Ministério do Meio Ambiente e outros órgãos e fundos (Lei nº 7.990, de
+1989; Lei nº 8.001, de 1990; e Lei nº 9.433, de 1997).
+
+e Taxa de Fiscalização dos Mercados de Títulos de Valores Mobiliários: 100%
+para a Comissão de Valores Mobiliários - CVM (Lei nº 7.940, de 1989).
+
+Um estudo do Ministério do Planejamento (Brasil, 2003) apresenta uma exaustiva
+(e ainda pouco defasada) listagem de todas as vinculações de receitas então vigentes no
+País. A lista contém 32 itens, muitos deles compostos por vários subitens; demonstrando a
+existência de ampla teia de vinculações.
+
+A princípio a vinculação de uma receita a uma despesa tornaria essa despesa tão
+rígida quanto uma despesa obrigatória. Se o governo é obrigado a aplicar x% de um
+imposto em um dado gasto, e se a arrecadação de tal imposto cresce, o gasto ao qual o
+imposto está vinculado também crescerá. Isto, contudo, nem sempre é verdadeiro.
+
+No caso das partilhas de receitas tributárias com estados e municípios a
+transferência de recursos é automática: aumentou a receita tributária da União, aumentam
+os recursos transferidos aos governos subnacionais. Portanto, o desembolso de recursos é
+automático e não há como o Governo Federal evitar essa despesa (ou dedução de receita).
+Logo, as vinculações de receitas tributárias a transferências constitucionais e legais aos
+estados e municípios equiparam-se a despesas obrigatórias.
+
+Mas no caso das vinculações de receitas a órgãos, fundos e despesas do próprio
+Governo Federal, as receitas vinculadas podem ser contingenciadas e, portanto, não
+desembolsadas (o contingenciamento só não é possível quando a receita está vinculada a
+uma despesa obrigatória). Podendo haver o contingenciamento, a vinculação de receitas
+não gera, automaticamente, despesa. Logo, em termos de rigidez da despesa, as receitas
+vinculadas representam um problema menor que as despesas obrigatórias e semi-
+obrigatórias.
+
+A Tabela 7 mostra algumas fontes de receita que, por lei, têm 100% de sua
+arrecadação vinculada a despesas específicas. Fosse plenamente respeitada essa vinculação,
+as despesas financiadas por tais fontes deveriam ser iguais às receitas. Contudo, o que se vê
+na Tabela 7 é que, em média, apenas 67% dos recursos vinculados são, efetivamente,
+liquidados. Os outros 33% caem na malha fina do contingenciamento e não são
+efetivamente gastos.
+31
+
+Tabela 7 - Algumas Fontes de Receita 100% Vinculada: valores arrecadados,
+liquidados e pagos (2006)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+R$ Milhões
+Receita
+Arrecadada Yo
+
+Fonte de Recursos Líquida | Liquidado) Pago | Liquidado | % Pago
+
+(A) (B) (C) | (D)=(B)/MA)| (E)=(C)MA)
+
+142 - COMPENS.FINANC.P/EXPL.DE PETR.OU GAS.NATURAL 16.604 10.919 9.641 66 58
+111 - CONTRIB.DERIV.PETROLEO,COMB.COM.-CIDE 6.258 5.520 2.980 88 48
+174- TAXAS PELO EXERCICIO DO PODER DE POLICIA 3.697 1.592 1.420 43 38
+132 - JUROS DE MORA DA RECEITA ADMINIST.PELA SRF/SF 3.319) 1.791 1.719 54 52
+134 - COMPENSACOES FINANC .P/UTILIZ.DE REC.HIDRICOS 1.526) 1.518 1.341 99 88
+129 - RECURSOS DE CONCESSÕES E PERMISSOES 968 242 235 25 24
+131- SELOS DE CONTROLE, LOJAS FRANCAS - FUNDAF 242 219 219 91 91
+175 - TAXAS POR SERVICOS PUBLICOS 173 126 124 73 72
+139 - ALIENACAO BENS APREENDIDOS-FUNDAF/MPS/FNAS 45 39 39 86 86
+130 - CONTRIBUICAO P/O DES.DA IND.CINEMAT.NACIONAL 28 23 20 84 72
+TOTAL 32.859 21.989] 17.738 67 54
+
+Fonte: Senado Federal. Sistema Siga Brasil. Elaborado pelo autor.
+
+Note-se, ainda, que o percentual de efetivo pagamento é ainda menor, representando
+pouco mais da metade dos recursos arrecadados. Ou seja, parte significativa das receitas
+vinculadas é jogada para restos a pagar, podendo ser efetivamente paga ou não em
+exercícios seguintes.
+
+Se não for gasta na finalidade à qual está vinculada, a receita vinculada não pode ser
+empregada em nenhuma outra despesa”. Do ponto de vista de uma gestão fiscal voltada
+para a geração de superávits primários, destinados ao pagamento de juros da dívida, isso é
+uma rigidez que atrapalha, pois a parte do superávit gerado a partir do contingenciamento
+de recursos vinculados não poderá ser usada para pagar os juros da dívida.
+
+Ainda assim, na ótica da autoridade fiscal, vale a pena contingenciar os recursos,
+pois eles ficarão em caixa, consistindo em um ativo do Tesouro e, portanto, reduzindo a
+dívida líquida do setor público. Certamente seria melhor utilizá-los para amortizar juros,
+evitando a sua capitalização no principal da dívida, em vez de manter um ativo que não
+rende juros. Mas, do ponto de vista do controle fiscal, tal situação ainda é melhor do que ter
+que realizar uma despesa obrigatoriamente.
+
+Uma solução parcial para esse problema veio com a Desvinculação das Receitas da
+União (DRU). A desvinculação permite que, pelo menos os 20% que a DRU desvincula da
+finalidade original sejam livremente utilizados para pagamento de juros da dívida. Mas isso
+só se aplica a receitas de impostos, contribuições sociais e contribuições econômicas.
+Assim, valores relativos a receitas de taxas ou de compensações financeiras não estariam
+sujeitos ao mecanismo da DRU.
+
+* Lei de Responsabilidade Fiscal, art. 8º, parágrafo único.
+32
+
+II.4 - Mudando o regime fiscal
+
+A conclusão que se tira desta seção é que a principal estratégia para se mudar o
+regime fiscal brasileiro é atuar sobre os fatores que determinam o crescimento acelerado
+das despesas obrigatórias e quase-obrigatórias. A vinculação de receitas é um problema
+menor, pois não necessariamente implica aumento de despesas (exceção feita ao caso das
+transferências obrigatórias a estados e municípios). O contingenciamento (ainda que de
+forma precária e gerando ineficiências) evita esse aumento e, paralelamente, a DRU tem
+permitido o uso de parte do dinheiro contingenciado no pagamento de juros da dívida.
+
+Assim, a tarefa mais importante é estancar o crescimento da despesa obrigatória e
+quase-obrigatória, para as quais não há o remédio do contingenciamento. A Tabela 8 dá as
+dimensões desse desafio. Ela mostra que 92% de toda a despesa primária é obrigatória ou
+quase-obrigatória, o que reflete um alto grau de rigidez do orçamento e mostra a virtual
+impossibilidade de se fazer grandes ajustes orçamentários de curto-prazo.
+
+Controlar as despesas obrigatórias e quase-obrigatórias significa conceder reajustes
+reais menos generosos para o salário-mínimo (ou desvincular os benefícios previdenciários
+do salário-mínimo), adequar os parâmetros de concessão de benefícios previdenciários às
+mudanças demográficas, flexibilizar a regra de gasto mínimo em saúde e de transferências a
+estados e municípios, impor limite à autonomia financeira dos poderes autônomos, investir
+em uma política de pessoal racional com perspectiva de longo prazo, criar mecanismos
+legais e de mercado para evitar os sucessivos socorros a dívidas agrícolas.
+
+Tabela 8 - Despesas Primárias Liquidadas no Orçamento Fiscal e da Seguridade em
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2006
+% da
+R$ bilhões| Despesa
+Total
+DESPESAS OBRIGATÓRIAS (A) 359,7 72
+Benefícios Previdenciários 161,7 32
+Transf. Obrigatórias a Estados e Municípios 97,1 19
+Saúde 39,6 8
+Poderes Autônomos 27,0 5
+Abono Salarial e Seguro Desemprego 14,9 3
+LOAS e RMV 11,6 2
+Sentenças e Acordos J udiciais 7,8 2
+DESPESAS QUASE-OBRIGATÓRIAS (B) 96,0 19
+Pessoal, Enc. Sociais e Auxílio Financeiro Obrigatório a Servidores 81,2 16
+Bolsa Família 7,6 2
+Subsídios e Apoio à Agricultura 4,6 1
+FNDE e FUNDEF-Complementação 2,5 1
+OUTRAS DESP. OBRIG. OU QUASE-OBRIGATÓRIAS (C) 1,3
+TOTAL DE OBRIGATÓRIAS E QUASE-OBRIGATÓRIAS (D)=(A)HBJHC) 457,0 92
+DESPESA DISCRICIONÁRIA (E) 41,5 8
+DESPESA PRIMÁRIA TOTAL (F) =(D)HE) 498,5 100
+
+ 
+
+ 
+
+Fonte: Senado Federal. Sistema Siga Brasil
+Obs: ver no Anexo Ia metodologia de cálculo de cada item desta tabela.
+33
+
+Feito isso, haverá espaço, por um lado, para a redução da carga fiscal e, por outro,
+para uma melhor acomodação das emendas parlamentares (devidamente submetidas a um
+processo de racionalização). Isso reduzirá a atual disputa Legislativo-Executivo em torno
+das estimativas e reestimativas da receita, reduzindo ou eliminando a necessidade do
+contingenciamento das despesas. A partir daí, poder-se-ia migrar para um orçamento de
+execução obrigatória (sem contingenciamentos). E, posteriormente, para um efetivo
+planejamento plurianual do orçamento federal.
+
+Atuar sobre as despesas obrigatórias e quase-obrigatórias será uma tarefa hercúlea,
+que exigirá anos de negociação política e reforma da legislação. Por isso não se deve tentar,
+ao mesmo tempo, atuar sobre as vinculações de despesas. A exceção das vinculações a
+transferências obrigatórias para estados e municípios (que funciona como despesa
+obrigatória) não se deveria buscar mais desvinculações além daquela já proporcionada pela
+DRU.
+
+Os dados da Tabela 8 permitem que se faça, também, uma reflexão sobre o
+chamado “orçamento obrigatório”. Percebe-se ali que 92% do orçamento já é de execução
+obrigatória. A disputa acerca do tema “orçamento obrigatório” é em torno dos 8% restantes,
+onde estão incluídas as emendas parlamentares. Embora em termos percentuais seja uma
+cifra pequena, em termos absolutos estamos falando de mais de R$ 40 bilhões. Supondo
+que metade desse valor seja gasto com despesas de custeio da máquina pública, restam
+outros R$ 20 bilhões que são o objeto da cobiça das diversas forças políticas. Esse
+montante é altamente relevante do ponto de vista do equilíbrio fiscal. Basta lembrar que o
+resultado primário do Governo Central em 2006 foi de R$ 49,8 bilhões. Ou seja, o valor em
+disputa (cerca de R$ 20 bilhões) equivale a 40% do superávit primário.
+
+Esses dados ajudam, também, a resolver outro enigma: se todos dizem que o
+orçamento é uma “peça de ficção”, por que há tanta disputa para influenciar a sua
+confecção? A idéia de que o orçamento é fictício vem, justamente, da possibilidade de o
+Poder Executivo alterar as suas determinações mediante contingenciamento de verbas.
+Contudo, além da constatação acima de que 92% do orçamento são de execução obrigatória
+(e, portanto, não fictício); é preciso considerar que a inclusão de uma emenda no orçamento
+é condição necessária (porém não suficiente) para que a despesa desejada seja realizada.
+Embora o parlamentar ou ministro não tenha certeza quanto à efetiva execução de uma
+despesa de seu interesse incluída no orçamento; é preciso lutar para que a despesa lá esteja,
+para que ela possa ser executada (não há possibilidade de se executar uma despesa que
+esteja fora do orçamento).
+34
+
+HI. A Desvinculação das Receitas da União (DRU)
+
+III.1 Um exemplo hipotético
+
+As seções anteriores já anteciparam que uma função fundamental da DRU é a de
+permitir o uso de receitas de contribuições sociais e econômicas (que deveriam ser
+aplicadas em despesas às quais estão vinculadas) no pagamento da dívida pública e no
+financiamento de outras despesas.
+
+Também se afirmou que a DRU é importante para permitir o uso de parte das
+receitas vinculadas que foram contingenciadas no pagamento dos juros da dívida e de
+outras despesas.
+
+A presente seção explica em maior detalhe o mecanismo da DRU, seus efeitos finais
+e quantifica a sua real dimensão. Comecemos por um exemplo hipotético, que ajuda a
+compreender o mecanismo.
+
+Suponhamos que temos um orçamento muito simples, em que a receita total de R$
+100 é dividida em dois grupos: 50% da receita é vinculada a determinados gastos, e os
+outros 50% são de livre alocação. Uma lei determina que a receita vinculada seja aplicada
+da seguinte forma: 50% em benefícios sociais, 30% em saúde e 20% em educação.
+
+O orçamento fictício seria, então, dividido entre um grupo de despesas que tem
+recursos vinculados e outro grupo financiado por receitas não vinculadas; tendo a
+configuração mostrada no Quadro 2.
+
+Quadro 2 - Execução de Orçamento Fictício antes da Desvinculação
+
+ 
+
+Fonte de Recursos Uso dos Recursos
+
+ 
+
+Benefícios sociais: R$ 25
+
+ 
+
+Receita Vinculada: R$ 50 Saúde: R$ 15
+
+ 
+
+Educação: R$ 10
+
+ 
+
+ 
+
+ 
+
+Receita não Vinculada: R$ 50 Juros da dívida pública: R$ 20
+
+ 
+
+ 
+
+Outras despesas: R$ 30
+
+ 
+
+Dados hipotéticos. Elaborado pelo autor.
+
+Suponhamos, agora, que seja criada uma regra de desvinculação, a qual determina
+que 20% da receita vinculada passe a ser de livre alocação.
+
+O gestor público passaria a ter várias opções. A primeira delas, seria a de remanejar
+toda a receita que foi desvinculada para gastá-la com os juros da dívida ou com as outras
+despesas. O gestor estaria fazendo pleno uso do mecanismo de desvinculação e reduzindo
+ao máximo possível a despesa com itens que contam com receita vinculada. Assim, a nova
+alocação da receita e despesa poderia ser uma das apresentadas no Quadro 3. Na Opção 1
+os R$ 10 que foram desvinculados do gasto em saúde, educação e benefícios sociais foram
+integralmente utilizados para pagar juros da dívida. Na Opção 2 os R$ 10 desvinculados
+foram gastos em outras despesas primárias. Obviamente há inúmeras outras opções que
+representem combinação das duas que são apresentadas no Quadro 3.
+35
+
+Quadro 3 - Redução Efetiva das Despesas que têm Recursos Vinculados
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte de Recursos Uso dos Recursos
+Opção 1 Opção 2
+Receita Vinculada: R$ 40 Benefícios sociais R$ 20 R$ 20
+Saúde R$ 12 R$ 12
+Educação R$8 R$8
+Receita não Vinculada Original: R$ 50 Juros da Dívida R$30 R$ 20
+Receita Desvinculada: R$ 10 Outras Despesas R$ 30 R$40
+
+ 
+
+Dados hipotéticos. Elaborado pelo autor.
+
+O gestor público pode, mas não é obrigado a fazer o remanejamento entre os dois
+grupos de despesas (com receita vinculada e sem receita vinculada). Ele pode simplesmente
+manter, após à desvinculação, o mesmo padrão de despesas anterior. Ou pode, também,
+aproveitar a desvinculação para remanejar recursos dentro do grupo de despesas
+beneficiadas por vinculações.
+
+O Quadro 4 mostra essas situações. Na Opção 1, o perfil de gastos é exatamente o
+mesmo de antes da desvinculação. A única diferença desta opção para a situação inicial é
+que, agora, os benefícios sociais, a saúde e a educação são financiadas em parte por receitas
+vinculadas e em parte por receitas não vinculadas. E na Opção 2 houve aumento nas
+despesas com saúde e educação em detrimento das despesas com benefícios sociais, sem
+que qualquer recurso adicional fosse carreado para os juros da dívida ou para outras
+despesas.
+
+A moral da estória é que a desvinculação de receitas dá ao gestor maior
+flexibilidade para alocar os recursos disponíveis entre diversos itens de despesas, reduzindo
+a rigidez imposta pela vinculação. Mas ela não é um mecanismo que, forçosamente, retira
+recursos de um grupo de despesas, alocando-os em favor de outro grupo de despesa. São as
+escolhas dos agentes públicos elaboradores e executores do orçamento que determinarão a
+alocação final dos recursos.
+
+ 
+36
+
+Quadro 4 - Redução Efetiva das Despesas que têm Recursos Vinculados
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte de Recursos Uso dos Recursos
+Opção 1 Opção 2
+Receita Vinculada: R$ 40 Benefícios sociais R$25 R$ 20
+Receita Desvinculada: R$ 10 Saúde R$ 15 R$ 18
+Educação R$ 10 R$12
+Receita não Vinculada Original: R$ 50 Juros da Dívida R$ 20 R$ 20
+Outras Despesas R$ 30 R$ 30
+Dados hipotéticos. Elaborado pelo autor.
+Digamos, agora, que, partindo da situação inicial (Quadro 2) há um aumento
+inevitável das “outras despesas” (por exemplo: um aumento dos salários dos servidores) de
+
+R$ 30 para R$ 40. Se não existir o mecanismo da desvinculação, e tendo em vista que não
+se pode parar de pagar os juros da dívida, o governo não terá outro mecanismo a não ser
+aumentar a carga tributária ou aceitar um aumento do déficit público, para obter os R$ 10
+de que necessita. A situação é mostrada no Quadro 5.
+
+Quadro 5 - Execução de Orçamento Fictício antes da Desvinculação
+
+ 
+
+Fonte de Recursos
+
+Uso dos Recursos
+
+ 
+
+Receita Vinculada: R$ 50
+
+Benefícios sociais: R$ 25
+
+ 
+
+Saúde: R$ 15
+
+ 
+
+Educação: R$ 10
+
+ 
+
+ 
+
+ 
+
+Receita não Vinculada: R$ 50
+
+Receita não Vinculada adicional (aumento
+de tributos): R$ 10
+
+ 
+
+Juros da dívida pública: R$ 20
+Outras despesas: R$ 40
+
+ 
+
+Dados hipotéticos. Elaborado pelo autor.
+
+Por outro lado, se existir a desvinculação, o governo pode acomodar a despesa
+adicional através da redução das despesas beneficiadas pela vinculação, conforme mostra o
+Quadro 6. Ou seja, a flexibilidade decorrente da desvinculação também dá ao governo
+instrumentos para evitar o crescimento do déficit ou da carga tributária.
+
+ 
+
+ 
+37
+
+Quadro 6 - Execução de Orçamento Fictício antes da Desvinculação
+
+ 
+
+Fonte de Recursos Uso dos Recursos
+
+ 
+
+Benefícios sociais: R$ 20
+
+ 
+
+Receita Vinculada: R$ 40 Saúde: R$ 12
+
+ 
+
+Educação: R$ 8
+
+ 
+
+ 
+
+ 
+
+Receita não Vinculada: R$ 50 Juros da dívida pública: R$ 20
+
+ 
+
+Receita Desvinculada: R$ 10 Outras despesas: R$ 40
+
+ 
+
+ 
+
+Dados hipotéticos. Elaborado pelo autor.
+
+HI.2A DRU
+
+Passemos, agora, ao caso real da DRU, iniciando pelo conjunto de receitas
+desvinculadas e suas exceções. São submetidas à DRU as receitas de impostos,
+contribuições sociais e contribuições econômicas*. Dentro desse conjunto de receitas, não
+se aplica a DRU às seguintes receitas:
+
+ 
+
+e Parcelas de impostos transferidos aos estados e municípios e aos Fundos
+Constitucionais (FNE, FCO, FNO)*:
+
+e Contribuição social do salário-educação (receita que permanece vinculada
+ao financiamento da “manutenção e desenvolvimento do ensino” - MDE)””;
+
+e Contribuições dos empregadores e empregados (dos setores público e
+privados) à seguridade social”;
+
+e a CPMF, quando vigente, não sofria desvinculação da parcela destinada ao
+Fundo de Combate e Erradicação da Pobreza;”
+
+A incidência da DRU no exercício de 2006 é mostrada pela Tabela 9. O resultado,
+mostrado na linha (1), é que o montante total de recursos desvinculados somou R$ 57,4
+bilhões. Porém, deve-se levar em consideração que, enquanto as contribuições sociais e
+econômicas são, por definição, vinculadas; as receitas de impostos não o são. Por isso, uma
+parte dos R$ 20,9 bilhões da receita de impostos desvinculada pela DRU (Linha (J)) já são
+recursos de uso livre. A seguir calculamos qual é a efetiva desvinculação de impostos.
+
+Uma vez que as transferências a estados e municípios já estão fora da base de
+cálculo da DRU, resta como única vinculação de impostos federais, vigente no País, aquela
+que destina 18% da receita de impostos à manutenção e desenvolvimento do ensino.
+
+s ADCT, art. 76, com redação dada pela Emenda Constitucional nº 56, de 2007.
+
+56 ADCT, art. 76, 8 1º.
+
+7 ADCT, art. 76, $ 2º.
+
+CF, art. 167. “São vedados: ...XI — a utilização dos recursos provenientes das contribuições sociais de que
+trata o art. 195, 1, “a”, e II, para a realização de despesas distintas do pagamento de benefícios do regime
+geral de previdência social de que trata o art. 201”.
+
+9 ADCT, arts. 80 e 84.
+
+ 
+38
+
+Reproduzimos, na Tabela 10, o cálculo realizado pela Secretaria do Tesouro Nacional,
+acerca do montante financeiro desta vinculação.
+
+Tabela 9 - Base de Cálculo da DRU e seus Valores no Exercício de 2006
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+R$ bilhões
+(A) Receita de Impostos (a) 170,3
+(B) (-) Transferências Constitucionais 65,6
+FPM 30,1
+FPE 28,8
+IO F-ouro 0,0
+ITR 0,3
+IPl-exportação 2,4
+Fundos Constitucionais (b) 4,0
+(C)=(A-(B) |Receita de Impostos sujeita à DRU 104,7
+(D) Receitas de Contribuições Sociais 320,5
+(E) (-) Deduções 149,0
+Contribuição INSS (patrão e empregado) 122,4
+Salário-E ducação 6,9
+CPMF - Fundo de Erradicação da Pobreza 6,7
+Contribuição Prev. Servid. (gov e servidores) 13,0
+(F)=(D-(E) |Receita de Contrib. Sociais sujeita à DRU 171,4
+(G) Receita de Contribuições Econômicas 10,9
+(H) BASE DE CÁLCULO DA DRU 287,0
+(D=(H):20% |DRU (VI* 20%) 57,4
+() )=C)*20%, Impostos 20,9
+(K)=(F)+20% Contribuições Sociais 34,3
+(L)=G)*20% Contribuições Econômicas 2,2
+
+ 
+
+ 
+
+ 
+
+Fontes: Relatório Resumido da Execução Orçamentária (dez. 2006) e Senado Federal —
+
+Sistema Siga Brasil. Elaborado pelo autor, com base em Dias (2007).
+
+(a) Inclui multas e juros de Mora
+(b) Estimado a partir do valor do FPM
+
+Tabela 10 - Recursos de Impostos Federais Vinculados à Manutenção e
+Desenvolvimento do Ensino (MDE) antes e depois da DRU - 2006
+
+ 
+
+ 
+
+ 
+
+ 
+
+(C)=(A)-(B)
+
+Desvinculação efetiva
+
+ 
+
+R$ bilhões
+(A) Valores vinculados na ausência da DRU 17,7
+(B) Valores vinculados após aplicação da DRU 11,5
+
+ 
+
+6,1
+
+ 
+
+Fonte: STN. Relatório Resumido da Execução Orçamentária — Dez. 2006. Elaborado pelo autor.
+
+Esse cálculo indica que a efetiva desvinculação de impostos é de apenas R$ 6,1
+bilhões. A Tabela 11 resume o efeito total da DRU, mostrando o total de receitas não-
+vinculadas existentes antes e depois da sua incidência.
+
+A linha (A) mostra o fato, acima comentado, de que a única desvinculação efetiva
+de impostos é a que se refere aos recursos para MDE, da ordem de R$ 6,1 bilhões. As
+linhas (B) e (C) mostram que, sem a DRU, toda a receita de contribuições sociais e
+econômicas estaria vinculada. Na vigência da DRU consegue-se desvincular R$ 36,5
+bilhões, na soma dos dois tipos de contribuição.
+ 
+
+39
+
+Teríamos, então, uma desvinculação efetiva de R$ 42,6 bilhões. Isso significa dizer
+que, antes da DRU, 17% da receita primária eram desvinculados; e que depois da DRU esse
+percentual passou para 25%. Ou seja, mesmo depois da DRU ainda temos 75% de receita
+
+vinculada no orçamento.
+
+Tabela 11 - Receitas Não-Vinculadas antes e após a aplicação da DRU — 2006
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+R$ Bilhões
+SEM DRU COM DRU Efeito da DRU
+(1) (11) (1D-(1)
+(A) Impostos 87,0 93,2 6,1
+(B) Contribuições Sociais - 34,3 34,3
+(C) Contribuições econômicas - 2,2 2,2
+(D) Outras(1) 7,0 7,0 -
+(E)=(A)+...+(D) [Total de Receitas Desvinculadas 94,1 136,7 42,6
+(F) Receita Primária Líquida Total 548,5 548,5 548,5
+(G)=(EJMF) 17% 25% 8%
+
+ 
+
+Fonte: Senado Federal. Sistema Siga Brasil.Elaborado pelo autor.
+(1) Estimado com base em Brasil (2003).
+
+Outra conclusão importante é que a grande massa de recursos desvinculada é de
+contribuições sociais (R$ 34,3 bilhões em um total desvinculado de R$ 42,6 bilhões).
+Como essa é uma fonte de recursos típica do Orçamento da Seguridade Social, o grande
+efeito da DRU seria permitir a transferência de recursos do Orçamento da Seguridade para
+o Orçamento Fiscal.
+
+Há, porém, que se observar que, conforme mostrado no exercício hipotético da
+seção III.1, a desvinculação das contribuições sociais significa que o Governo Federal pode
+aplicar as verbas em despesas do Orçamento Fiscal. Mas não quer dizer que o governo vá,
+efetivamente, fazer isso; ou que vá realocar todo o montante de recursos desvinculados.
+
+ 
+
+Na prática, uma parcela significativa dos recursos da Seguridade que são
+desvinculados acabam sendo aplicados no próprio Orçamento da Seguridade. A Tabela 12
+mostra esse fenômeno: de uma despesa primária total de R$ 302,5 bilhões liquidada no
+Orçamento da Seguridade Social, R$ 13,9 bilhões são recursos provenientes fontes típicas
+
+do Orçamento Fiscal (inclusive desvinculados pela DRU).
+
+Tabela 12 - Fontes de Financiamento das Despesas do Orçamento da Seguridade
+
+Social - 2006
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+R$ Bilhões| % do Total
+Fontes típicas do Orçamento da Seguridade 288,3 95%
+Fontes típicas do Orçamento Fiscal (1) 13,9 5%
+Fontes Comuns aos dois orçamentos (2) 0,3 0,1%
+Total da Despesa do Orçamento da Seguridade 302,5 100%
+
+ 
+
+ 
+
+Fonte: Senado Federal. Sistema Siga Brasil. Elaborado pelo autor.
+
+Obs: Despesa Liquidada.
+
+(1) Inclui recursos desvinculados pela DRU, que constam das fontes 100 e 300
+
+— Recursos Ordinários.
+(2) Operações de crédito e doações recebidas.
+
+Ou seja, pode-se dizer que dos R$ 34,3 bilhões que a DRU retirou do Orçamento da
+Seguridade, R$ 13,9 bilhões (41%) retornaram para este Orçamento. Desse modo, só foram
+
+ 
+40
+
+efetivamente transferidos do Orçamento da Seguridade para o Orçamento Fiscal R$ 20,4
+bilhões. A Tabela 13 resume a situação.
+
+Tabela 13 - Impacto Total da DRU sobre o Orçamento da Seguridade Social - 2006
+
+ 
+
+ 
+
+ 
+
+ 
+
+R$ Bilhões
+Recursos Transferidos ao Recursos “Devolvidos” pelo Transferência Líquida de Recursos do
+Orçamento Fiscal pela | Orçamento Fiscal ao Orçamento da Orçamento da Seguridade para o
+DRU Seguridade Orçamento Fiscal
+(A) (B) (C)=(B)-(A)
+34,3 13,9 20,4
+
+ 
+
+ 
+
+ 
+
+Fonte: Tabelas 11 e 12. Elaborado pelo autor.
+
+Essa transferência significa que o gestor do orçamento dispõe de R$ 20,4 bilhões
+para aplicar no pagamento da dívida pública ou em outras despesas do Orçamento Fiscal.
+Tendo em vista que o Resultado Primário do Governo Central em 2006 somou R$ 51,3
+bilhões (e que essa economia destina-se ao pagamento de juros da dívida); temos que a
+DRU garante que pelo menos R$ 20,4 bilhões (40% do total do superávit) estejam livre de
+vinculação e possam ser alocados para o pagamento de juros da dívida.
+
+HI.3 - A DRU retira recursos das áreas sociais?
+
+Duas afirmações feitas na seção anterior podem levar o leitor a acreditar que a DRU
+é um mecanismo que corta despesas da área social. A primeira delas, refletida na Tabela 10,
+acima, diz que a DRU desvinculou R$ 6,1 bilhões das ações de manutenção e
+desenvolvimento do ensino. A segunda delas é de que foram transferidos do Orçamento da
+Seguridade para o Orçamento Fiscal nada menos que R$ 20,4 bilhões (ver Tabela 13,
+acima).
+
+Será que, de fato, a DRU é um mecanismo de corte do gasto social? Não
+necessariamente.
+
+Vejamos primeiro o caso da educação, que perdeu recursos vinculados da ordem de
+R$ 6,1 bilhões. A Tabela 14 mostra que, apesar de ter sofrido essa desvinculação, as
+despesas com educação receberam R$ 5,5 bilhões de outras fontes, recuperando quase tudo
+o que foi desvinculado. Ou seja, como no exercício hipotético da seção II.1, o gestor
+público dispunha da possibilidade de deslocar recursos da educação para outras áreas, mas
+praticamente não o fez. Ao final do exercício foram gastos recursos equivalentes a 97% dos
+valores vinculados à educação antes da DRU.
+
+ 
+
+ 
+
+Tabela 14 Fontes de Financiamento das Despesas com Manutenção e Desenvolvimento
+do Ensino - 2006
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+R$ mil
+Fontes de Recursos
+Receitas Vinculadas à MDE antes da DRU 17.676.447
+(-) DRU 6.130.935
+(+) Outras fontes 5.552.741
+Total da Despesa 17.098.253
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: STN. Relatório Resumido da Execução Orçamentária
+
+ 
+41
+
+É até possível que alguma categoria de gasto social perca recursos em algum
+exercício: mas esta não é uma regra sistemática, não é uma decorrência direta da DRU,nem
+tampouco se pode tomar os valores desvinculados e apontá-los como recursos efetivamente
+perdidos.
+
+Analisemos, agora, o caso da transferência de R$ 20,4 bilhões do Orçamento da
+Seguridade para o Orçamento Fiscal. Não terá sido isso uma perda definitiva de recursos da
+Previdência, Assistência e da Saúde? Mais uma vez a resposta é negativa.
+
+Em primeiro lugar, é preciso considerar que quase 100% das despesas dessas áreas
+constituem despesa obrigatória e que, portanto, com argumentado na seção II.1, têm que ser
+realizadas de qualquer maneira, não podendo ser evitadas. Como visto na Tabela 4, as
+despesas com benefícios previdenciários e assistenciais cresceram de 5,5% para 8,2% do
+PIB; sendo a categoria de despesa que mais cresceu nos últimos anos. Não há como falar
+que está havendo cortes de despesas em uma situação como essa. O mesmo se dá na área da
+saúde que, protegida por uma determinação constitucional, que obriga que essa despesa
+cresça na mesma proporção do PIB, manteve seu gasto na faixa de 1,67% do PIB (ver
+Tabela 5, acima).
+
+Como então explicar que, mesmo com as despesas do Orçamento da Seguridade
+crescendo em ritmo tão acelerado, tenha sido possível transferir recursos daquele
+Orçamento para o Orçamento Fiscal?
+
+A resposta é simples. Como vimos na seção II.1 (Gráfico 3), o governo optou por
+elevar suas receitas via contribuições sociais como uma estratégia de não repartir recursos
+com estados e municípios. Mas o aumento de receita de contribuições sociais, desde seu
+início, visava a geração de receitas para pagar despesas em geral, tanto do Orçamento
+Fiscal quanto do Orçamento da Seguridade. Os recursos só foram contabilizados no
+Orçamento da Seguridade por uma questão formal, por serem chamados de “contribuições
+sociais”. A Contribuição Social sobre o Lucro Líquido (CSLL) é um bom exemplo. Na
+prática ela não passa de um Imposto de Renda (IR) adicional cobrado das empresas.
+Inclusive, nas propostas de reforma tributária apresentadas pelo Poder Executivo, a CSLL
+seria efetivamente incorporada ao IR. Mas, no atual ordenamento constitucional, se
+chamarmos a CSLL de “Imposto” o Governo Federal terá que partilhar 20% da arrecadação
+com estados e municípios.
+
+Não é cabível afirmar que toda a receita de contribuições deve pertencer ao
+Orçamento da Seguridade, simplesmente porque o País não pode fazer apenas gastos em
+seguridade, precisando saldar compromissos em diversas outras áreas. É evidente que
+grupos políticos associados à área da seguridade utilizam o argumento de que as receitas de
+contribuição devem ficar com a seguridade e que, por isso, poderiam aumentar ainda mais
+as despesas com saúde, aposentadorias e benefícios sociais. Mas, se fosse assim, de onde
+sairia o dinheiro para pagar todas as outras despesas do governo?
+42
+
+IV - Conclusão
+
+Este trabalho mostrou que o sistema orçamentário brasileiro é dominado pelas ações
+de curto prazo, inexistindo um efetivo sistema de planejamento de médio e longo prazo
+para as políticas do Governo Federal. O sistema de planejamento existente, baseado no
+Plano Plurianual (PPA) é uma mera formalidade burocrática, conduzida a reboque da
+execução cotidiana do orçamento.
+
+O foco no curto prazo é decorrente de um sistema fiscal baseado em despesas
+obrigatórias e quase-obrigatórias rígidas e crescentes, que consomem 92% do orçamento; e
+em um regime político em que o Poder Executivo tem dificuldade para formar maioria no
+Congresso. A combinação desses dois ingredientes faz com que o Poder Executivo opere a
+execução do orçamento com base em dois objetivos: cumprir metas fiscais e atender
+demandas da base aliada do governo, liberando recursos de interesses de parlamentares e
+partidos. O sistema tem sido bem sucedido no cumprimento de metas fiscais e parcialmente
+bem sucedido na composição de maiorias governistas no Congresso. Por outro lado,
+simplesmente ignora qualquer consideração acerca da qualidade do gasto e da relação
+benefício-custo dos programas públicos.
+
+Os principais ingredientes da política de execução do orçamento têm sido a
+elevação da carga tributária (via aumento de contribuições sociais) e o contingenciamento
+de gastos (em especial de investimentos). Para que a crescente receita de contribuições
+sociais seja desvinculada do Orçamento da Seguridade e utilizada para despesas do
+Orçamento Fiscal (principalmente para pagamento dos juros da dívida pública), utiliza-se,
+desde 1994, do expediente da Desvinculação das Receitas da União (DRU).
+
+A principal conclusão deste estudo é que só será possível construir um sistema
+orçamentário baseado no planejamento de médio e longo prazo e com foco na qualidade do
+gasto, quando tiver sido reduzida a rigidez orçamentária, por meio de medidas de
+flexibilização das despesas obrigatórias e quase-obrigatórias. A partir daí será possível ter
+um sistema orçamentário em que Executivo e Legislativo atuem de forma cooperativa,
+tanto na estimativa da receita quanto na alocação das despesas. Será possível eliminar o
+contingenciamento e a DRU e será aberto espaço para a redução da carga tributária, para a
+expansão do investimento público e para o planejamento da ação governamental de médio e
+longo prazo.
+43
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+AVELAR, L.,CINTRA,A.O. (Orgs.) (2004) Sistema Político Brasileiro: uma introdução. Fundação Konrad
+Adenauer/Ed. Unesp, São Paulo.
+
+BRASIL (2003). Ministério do Planejamento, Orçamento e Gestão. Secretaria de Orçamento Federal .
+Vinculações de Receitas dos Orçamentos Fiscal e da Seguridade Social e o Poder Discricionário de
+Alocação dos Recursos do Governo Federal. Brasília: SOF, 34 p.
+
+DIAS, F.A.C. (2007). Desvinculação de Recursos da União, Gastos Sociais e Ajustes Fiscal .Consultoria
+Legislativa do Senado Federal - Estudo.. 22 p.
+
+GONTIJO, V.(2001) Restos a Pagar: execução financeira. Texto para Discussão da Consultoria de
+Orçamentos da Câmara dos Deputados, mimeo, Brasília.
+
+GUERZONI FILHO, G.(2006). Política de pessoal em um ambiente de economia estável. . In: MENDES, M.
+(Org.). Gasto público eficiente: 91 Propostas para o desenvolvimento do Brasil. 1º. ed. Rio de Janeiro:
+Topbooks/Instituto F. Braudel, cap. 5, p. 137-154.
+
+GREGGIANIN, E. (2005) Reforma Orçamentária: propostas de ajustes no sistema de planejamento e
+orçamento (Orçamento Plurianual). CADERNOS ASLEGIS/Associação dos Consultores Legislativos e
+de Orçamento e Fiscalização Financeira da Câmara dos Deputados. Brasília: v. 8, n. 25, jan./abril.
+
+LIMA, E., MIRANDAS.R. (2006) O processo orçamentário federal brasileiro. . In: MENDES, M. (Org.).
+Gasto público eficiente: 91 Propostas para o desenvolvimento do Brasil. 1º. ed. Rio de Janeiro:
+Topbooks/Instituto F. Braudel, cap. 11, p. 319-374.
+
+MENDES, M.. (20064) Despesa dos poderes autônomos: Legislativo, Judiciário e Ministério Público. In:
+MENDES, M. (Org.). Gasto público eficiente: 91 Propostas para o desenvolvimento do Brasil. 1º. ed.
+Rio de Janeiro: Topbooks/Instituto F. Braudel, cap. 6, p. 155-173.
+
+(2006b). Ineficiência do Gasto Público no Brasil. IPEA - Boletim de Desenvolvimento Fiscal
+nº3.
+SAMUELS, D. (2002) “Pork-Barreling is Not Credit-Claiming or Advertising: Campaign Finance and the
+Sources of the Personal Vote in Brazil.” The J ournal of Politics 64(3): 845-863 (August 2002).
+VELLOSO, R. (2006) Ajuste fiscal através da redução de despesas obrigatórias. . In: MENDES, M. (Org.).
+Gasto público eficiente: 91 Propostas para o desenvolvimento do Brasil. 1º. ed. Rio de Janeiro:
+Topbooks/Instituto F. Braudel,,cap. 4, p. 111-136.
+(2007) Ajuste/Desajuste Fiscal e Retomada do Crescimento Econômico. In: VELLOSO,
+J.P.R. e ALBUQUERQUE, R.C.(2007) (Coord.) Chegou a vez do Brasil? Oportunidade para a geração
+de brasileiros que nunca viu o País crescer.XIX Fórum Nacional. Ed. José Olympio, Rio de Janeiro.
+44
+
+ANEXO I
+
+Este Anexo apresenta a metodologia utilizada no levantamento das informações
+apresentadas na Tabela 8. A fonte de informação básica é o Sistema Siga Brasil, do Senado
+Federal. Utiliza-se a despesa liquidada. Na definição do conjunto de despesas incluído em
+cada item o cuidado principal a tomar é evitar a dupla-contagem, decorrente da
+sobreposição de conceitos. Por exemplo, ao considerar a despesas de pessoal e encargos
+sociais, é preciso deduzir a despesa de pessoal e encargos dos poderes autônomos, já
+incluída na rubrica “poderes autônomos”.
+
+BENEFÍCIOS PREVIDENCIÁRIOS:
+
+Função = Previdência Social
+
+Identificador para resultado primário = Despesa Primária Obrigatória
+
+Esfera = Seguridade
+
+GND % Pessoal e Encargos Sociais
+
+Poderes % Judiciário e Legislativo
+
+Órgão + Ministério Público da União
+
+Programa £ 0903 — Operações Especiais: transferências constitucionais e as
+decorrentes de legislação específica
+
+Ação £ 2011 — Auxílio Transporte a Servidores e Empregados; 2012 —
+Auxílio Alimentação a Servidores e Empregados; 2078 — Vale Transporte
+para o Pessoal Ativo dos Ex-Territórios; 2079 — Vale Refeição para o
+Pessoal Ativo dos Ex-Territórios.
+
+TRANSFERÊNCIAS OBRIGATÓRIAS A ESTADOS E MUNICÍPIOS
+
+Programa = 0903 — Operações Especiais: transferências constitucionais e as
+decorrentes de legislação específica
+
+e Esfera = Fiscal e Seguridade
+
+e Identificador para resultado primário = Despesa Primária Obrigatória
+
+e GND % Pessoal e Encargos Sociais
+
+e Função £ Saúde, Trabalho, Assistência Social, Previdência Social
+SAÚDE
+
+A despesa obrigatória de saúde deve ser o menor valor entre o mínimo
+
+obrigatório (EC 29/2000) e o valor efetivamente executado. Se o valor executado
+superar o mínimo legal, a parcela a maior deve ser considerada gasto não-
+obrigatório e não incluída na contabilidade de gasto obrigatório. No caso presente, o
+gasto realizado foi igual ao mínimo obrigatório, computando-se, assim, o que foi
+realizado. O valor do gasto mínimo obrigatório pode ser obtido no Relatório
+Resumido de Execução Orçamentária, publicado pelo Tesouro Nacional.
+
+Função = Saúde
+Identificador para resultado primário = Despesa Primária Obrigatória e
+Discricionária
+45
+
+Esfera = Seguridade
+
+Poderes % Judiciário e Legislativo
+
+Órgão + Ministério Público da União
+
+Programa £ 0903 — Operações Especiais: transferências constitucionais e as
+decorrentes de legislação específica
+
+Ação £ 2011 — Auxílio Transporte a Servidores e Empregados; 2012 —
+Auxílio Alimentação a Servidores e Empregados; 2078 — Vale Transporte
+para o Pessoal Ativo dos Ex-Territórios; 2079 — Vale Refeição para o
+Pessoal Ativo dos Ex-Territórios.
+
+PODERES AUTÔNOMOS
+
+Poderes = Judiciário e Legislativo ou Órgão = MPU
+
+Identificador para resultado primário = Despesa Primária Obrigatória ou
+Discricionária
+
+Esfera = Fiscal e Seguridade
+
+ABONO SALARIAL E SEGURO DESEMPREGO
+
+ 
+
+Função = Trabalho
+
+Identificador para resultado primário = Despesa Primária Obrigatória
+
+Esfera = Fiscal e Seguridade
+
+GND 7 Pessoal e Encargos Sociais
+
+Poderes % Judiciário e Legislativo
+
+Órgão £ Ministério Público da União
+
+Programa £ 0903 — Operações Especiais: transferências constitucionais e as
+decorrentes de legislação específica
+
+Ação £ 2011 — Auxílio Transporte a Servidores e Empregados; 2012 —
+Auxílio Alimentação a Servidores e Empregados; 2078 — Vale Transporte
+para o Pessoal Ativo dos Ex-Territórios; 2079 — Vale Refeição para o
+Pessoal Ativo dos Ex-Territórios.
+
+LOAS E RMV
+
+Função = Assistência Social
+
+Identificador para resultado primário = Despesa Primária Obrigatória
+
+Esfera = Fiscal e Seguridade
+
+GND 7 Pessoal e Encargos Sociais
+
+Poderes % Judiciário e Legislativo
+
+Órgão + Ministério Público da União
+
+Programa £ 0903 — Operações Especiais: transferências constitucionais e as
+decorrentes de legislação específica
+
+Ação £ 0060 — Transferência de Renda Diretamente às Famílias em
+Condição de Pobreza; 099A — Auxílio a Família na Condição de Pobreza
+Extrema; 11V1 — Construção de Cisternas; 6414 — Sistema Nacional para
+Identificação e Seleção de Público Alvo para os Programas de Transferência
+46
+
+de Renda - Cadastro Único 2011 — Auxílio Transporte a Servidores e
+Empregados; 2012 — Auxílio Alimentação a Servidores e Empregados; 2078
+— Vale Transporte para o Pessoal Ativo dos Ex-Territórios; 2079 — Vale
+Refeição para o Pessoal Ativo dos Ex-Territórios.
+
+PESSOAL, ENCARGOS SOCIAIS E AUXÍLIO FINANCEIRO OBRIGATÓRIO
+
+ 
+
+A SERVIDORES
+
+GND = Pessoal e Encargos Sociais ou Ação = 2011 — Auxílio Transporte a
+Servidores e Empregados; 2012 — Auxílio Alimentação a Servidores e
+Empregados; 2078 — Vale Transporte para o Pessoal Ativo dos Ex-
+Territórios; 2079 — Vale Refeição para o Pessoal Ativo dos Ex-Territórios.
+
+Esfera = Fiscal e Seguridade
+
+Identificador para resultado primário = Despesa Primária Obrigatória ou
+Discricionária
+
+Poderes £ Judiciário e Legislativo
+
+Órgão + Ministério Público da União
+
+Função £ Saúde
+
+Programa £ 0903 — Operações Especiais: transferências constitucionais e as
+decorrentes de legislação específica
+
+BOLSA FAMÍLIA
+
+Função = Assistência Social
+
+Esfera = Fiscal e Seguridade
+
+Ação = 0060 — Transferência de Renda Diretamente às Famílias em
+Condição de Pobreza; 099A — Auxílio a Família na Condição de Pobreza
+Extrema.
+
+GND 7 Pessoal e Encargos Sociais
+
+OUTROS ITENS
+Calculado a partir dos seguintes indicadores genéricos:
+
+Identificador para resultado primário = Despesa Primária Obrigatória
+
+Esfera = Fiscal e Seguridade
+
+GND 7 Pessoal e Encargos Sociais
+
+Poderes % Judiciário e Legislativo
+
+Órgão + Ministério Público da União
+
+Ação £ 2011 — Auxílio Transporte a Servidores e Empregados; 2012 —
+Auxílio Alimentação a Servidores e Empregados; 2078 — Vale Transporte
+para o Pessoal Ativo dos Ex-Territórios; 2079 — Vale Refeição para o
+Pessoal Ativo dos Ex-Territórios.
+
+Com posterior seleção manual dos seguintes critérios:
+Subsídios e Apoio à Agricultura
+
+Função = Encargos Especiais ou Agricultura ou Organização Agrária
+47
+
+e Subfunção = Outros Encargos Especiais
+
+Sentenças e Acordos Judiciais
+e Programa = Operações Especiais, Cumprimento de Ações Judiciais ou
+Ação= 0643 — Complemento da Atualização Monetária dos Recursos do
+FGTS
+Fundo Nacional de Desenvolvimento da Educação
+e Ação = 0513-Apoio a Alimentação Escolar na Educação Básica; 0515-
+Dinheiro Direto na Escola para o Ensino Fundamental; 0969-Apoio ao
+Transporte Escolar no Ensino Fundamental.
+Fundef — Complementação
+e (0304 - Complementação da União ao Fundef
+Outras Despesas Obrigatórias ou Quase-Obrigatórias
+Obtidas por resíduo. Do total de OUTROS ITENS foram deduzidos os
+valores obtidos para Subsídios e Apoio à Agricultura, Sentenças e Acordos
+Judiciais, Fundo Nacional de Desenvolvimento da Educação e Fundef —
+
+Complementação.
+
+ 
+

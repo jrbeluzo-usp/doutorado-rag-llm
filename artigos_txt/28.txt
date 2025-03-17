@@ -1,0 +1,1870 @@
+As escolhas públicas orçamentárias federais no PPA 2008-2011:
+uma análise da perspectiva do modelo principal-agente
+
+Giovanni Pacelli Carvalho Lustosa da Costa
+Universidade de Brasília
+
+Fátima Souza Freire
+Universidade de Brasília
+
+lvan Ricardo Gartner
+Universidade de Brasília
+
+Ademir Clemente
+Universidade Federal do Paraná
+
+O objetivo deste estudo é analisar o comportamento assumido pelo Executivo e pelo Legislativo durante
+a gestão do PPA 2008-2011 da perspectiva do modelo principal-agente. Por meio da aplicação dos testes
+de Friedman, Kendall e Spearman e tendo como objeto empírico todos os programas constantes no PPA
+2008-2011, observou-se que entre 2008 e 2011: as etapas de Elaboração e de Execução Orçamentária
+e Financeira da Lei Orçamentária Anual, cujo ator principal é o Poder Executivo, apresentaram con-
+cordância muito forte; enquanto a etapa de Discussão, Votação e Aprovação, cujo ator principal é o
+Poder Legislativo, apresentou concordância moderada. Quando se considerou a interação no mesmo
+ciclo entre todas as etapas, a concordância foi menor. Além disso, como resultado mais expressivo do
+estudo, identificou-se que a relação externa (entre governo e cidadãos) possui concordância maior que
+a relação interna (entre políticos e burocratas).
+
+PALAVRAS-CHAVE: escolha pública; modelo principal-agente; gestão do Plano Plurianual 2008-2011;
+concordância dos Poderes Legislativo e Executivo.
+
+Elecciónes públicas del presupuesto federal en PPA 2008-2011: un análisis desde la perspectiva
+del modelo principal-agente
+
+El objetivo deste estudio es analizar la conducta asumida por el Ejecutivo y por el Legislativo durante la
+gestión del Plan Plurianual 2008-2011 desde la perspectiva del modelo principal-agente. Vía aplicación
+de la prueba de Friedman, Kendall y Spearman y teniendo por el objeto empírico todos los programas
+contenidos en el PPA 2008-2011, se observó que entre 2008 y 2011: los Pasos de Preparación y de
+Ejecución Presupuestaria y Financiera de la Ley de Presupuesto Anual, cuyo principal actor es el Poder
+
+ 
+
+Artigo recebido em 26 dez. 2012 e aceito em 16 jul. 2013.
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set/out. 2013
+1090
+
+Giovanni Pacelli Carvalho Lustosa da Costa + Fátima Souza Freire + Ivan Ricardo Gartner + Ademir Clemente
+
+Ejecutivo, mostraron concordancia muy fuerte; mientras el Paso de Discusión, Voto y Aprobación, cuyo
+principal actor es el Poder Legislativo, tuvo un concordancia moderado. Si tenemos en cuenta la inte-
+racción el mismo ciclo entre todos los pasos el concordancia fue menor. Por otra parte, como resultado
+más expresivo del estudio, se identificó que la relación externa (entre el gobierno y los ciudadanos)
+tiene un concordancia más grande que la relación interna (entre los políticos y burócratas).
+
+PALABRAS CLAVE: elección pública; principal-agente modelo; gestión de plan plurianual 2008-2011;
+acuerdo de los Poderes Legislativo y Ejecutivo.
+
+The federal budget public choices in PPA 2008-2011: an analysis from the perspective of principal-
+agent model
+
+The objective of this study is to analyze the behavior assumed by the Executive and by the Legislative during
+the management Multiyear Plan 2008-2011 from the perspective of principal-agent model. Through the
+application of the Friedman, Spearman and KendalP's test and having as an empirical object all programs
+contained in the PPA 2008-2011, it was observed between 2008 and 2011: the stage of Preparation and
+of Budget Execution and Financial of Annual Budget Law, whose main actor is the Executive Power,
+showed very strong concordance; while stage step of Discussion, Voting and Approval, whose main actor
+is the Legislative Power, showed moderate concordance. When as considered the interaction between
+all stages in the same cycle the concordance was lower. Furthermore, as most significant result of the
+study, it has identified that the external relationship (between government and citizens) have a bigger
+concordance than the internal relationship (between politicians and bureaucrats).
+
+Keyworps: public choice; principal-agent model; management of multi-year plan 2008-2011; con-
+cordance of the Legislative and Executive.
+
+1. Introdução
+
+Platão afirmou que as diferentes formas de governo fazem leis, democráticas ou autoritárias,
+visando a seus respectivos interesses (Durant, 1996). Trazendo o pensamento de Platão para
+a realidade atual, não seria surpresa esperar que nos governos, ainda que democráticos, as
+leis sejam criadas para beneficiar os interesses de seus criadores. Buchanan e Tullock (1962)
+consideram esta possibilidade por precaução.
+
+A teoria da escolha pública considera que tanto os agentes econômicos quanto os agen-
+tes públicos realizam seus fins privados e entre esses fins está a perseguição de rendas dentro
+da sociedade (Buchanan e Tullock, 1962). Silva (1995) acrescenta que, dentre os interesses
+dos políticos, destacam-se: popularidade, maior orçamento para as áreas que sejam de seu
+interesse e perpetuidade no poder.
+
+Um dos processos da esfera governamental que, de forma direta, gera mais disputa
+pelos caçadores de renda é o orçamentário. Este é um processo ao mesmo tempo técnico (con-
+tábil e financeiro) e político, e consiste, segundo Wildavsky (1988), na tradução de recursos
+financeiros em intenções humanas.
+
+A metodologia brasileira para elaboração de proposta orçamentária, que contém a ma-
+terialização das políticas públicas por volume de recursos, é denominada orçamento-progra-
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set /out. 2013
+As escolhas públicas orçamentárias federais no PPA 2008-2011 1091
+
+ma, e foi implantada nacionalmente pelo Decreto-Lei nº 200, de 1967. Nela, o Programa é o
+módulo integrador entre os planejamentos de curto prazo e de longo prazo (Brasil, 20104).
+
+O Programa pode ser entendido como o instrumento de organização da atuação go-
+vernamental, que articula um conjunto de ações que concorrem para a concretização de um
+objetivo comum preestabelecido (Brasil, 2010b).
+
+Durante a gestão do Plano Plurianual 2008-2011 existiram basicamente dois tipos de
+programas: Finalísticos e de Apoio.! A principal característica que diferencia os Programas
+Finalísticos dos Programas de Apoio às Políticas Públicas e Áreas Especiais é que os primeiros
+oferecem um produto diretamente para a sociedade e seus resultados são passíveis de aferição
+por indicadores; enquanto os demais programas não (Brasil, 2010b; Brasil, 2008).
+
+Ressalta-se que o processo orçamentário é feito e gerido por políticos e burocratas,
+cujos interesses estabelecidos, próprios ou representados, permeiam-no do início ao fim (Sil-
+va, 1995). Essas intenções, na visão de Wildavsky (1988), ou interesses, na visão de Silva
+(1995), de acordo com as premissas da teoria da escolha pública, não vão coincidir necessa-
+riamente com as intenções e os interesses de todo o restante da sociedade, pelo simples fato
+de que não existe uma escolha genuinamente pública, conforme exposto por Arrow (1963)
+em seu teorema da impossibilidade geral.
+
+Quanto ao tema escolhas públicas e agentes políticos, há de se destacar que Niskanen,
+em Bureaucracy and representative government (1971), introduziu o modelo do burocrata ma-
+ximizador do orçamento afirmando que existe o problema do principal e do agente tanto na
+relação externa do governo (entre governo e cidadãos), quanto na relação interna do governo
+(entre políticos e burocratas). Diante de todo o exposto, questiona-se: de que forma os agen-
+tes políticos (Executivo e Legislativo) conduziram as escolhas públicas orçamentárias federais
+na gestão do PPA 2008-2011 da perspectiva do modelo principal-agente?
+
+Para responder à questão acima, este estudo estabeleceu como objetivo: analisar o com-
+portamento assumido pelo Executivo e pelo Legislativo em face das escolhas públicas orça-
+mentárias assumidas na gestão do PPA 2008-2011 utilizando-se como subsídio a teoria da
+agência, mais precisamente o modelo principal-agente.?
+
+A questão reveste-se de relevância tanto pela carência de estudos empíricos sobre o
+tema, quanto pela oportunidade de apresentar uma análise detalhada do processo de aloca-
+ção orçamentária referente ao Plano Plurianual 2008-2011; além de contribuir para o debate
+relacionado sobre as escolhas públicas entre os poderes Executivo e Legislativo.
+
+Este trabalho está organizado da seguinte forma: além desta introdução, no tópico 2 é
+realizada uma revisão sobre a teoria da escolha pública, o modelo principal-agente, os prin-
+cipais atores desse processo em uma democracia representativa, o orçamento-programa e o
+
+ 
+
+1 Existem ainda os programas destinados exclusivamente às operações especiais.
+
+? Jensen e Meckling (1976) definem a relação de agência como um contrato pelo qual uma ou mais pessoas (princi-
+pal) contrata outra pessoa (o agente) para executar algum serviço em seu nome, que envolve delegação de alguma
+autoridade para a tomada de decisão do agente.
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set/out. 2013
+1092 Giovanni Pacelli Carvalho Lustosa da Costa + Fátima Souza Freire + Ivan Ricardo Gartner + Ademir Clemente
+
+ciclo orçamentário federal. No tópico 3 é explanada a forma como se desenvolveu a pesquisa:
+coleta dos dados e testes utilizados. No tópico 4 são apresentados os principais resultados da
+pesquisa. Numa primeira etapa são apresentadas considerações sobre as escolhas públicas de
+cada poder e numa segunda etapa são apresentadas considerações sobre as escolhas públicas
+de todos os poderes no mesmo ciclo orçamentário. Por fim, no tópico 5 são apresentadas as
+considerações finais do trabalho.
+
+2. Referencial teórico
+
+Nesta seção serão apresentadas as principais teorias relacionadas ao tema: teoria da escolha
+pública e teoria da agência no setor público. Além disso, tendo em vista a escolha metodoló-
+gica, serão apresentados o modelo orçamentário adotado e o ciclo orçamentário no âmbito
+federal.
+
+2.1 Escolhas públicas
+
+Uma das principais percepções a respeito da teoria da escolha pública é que os resultados
+políticos diferem dos resultados de mercado. Essa diferença não decorre das motivações com-
+portamentais dos indivíduos, mas sim das estruturas institucionais dentro das quais os atores
+racionais buscam alcançar (ou atingir) seus interesses (Jiménez, 2008). Pardo e Parra (1988)
+estabelecem que uma escolha será pública quando, ao tomá-la, o indivíduo selecionar uma
+(ou mais) alternativa(s) dentre outras alternativas que afetam não só a ele, como a outros in-
+divíduos. O quadro 1 resume as principais diferenças entre as escolhas privadas e as escolhas
+
+ 
+
+ 
+
+públicas.
+Quadro 1
+Diferenças entre escolhas públicas e escolhas privadas
+Escolhas Privadas Escolhas Públicas
+Unilaterais Multilaterais
+As consequências recaem, principalmente, sobre o Os benefícios e os custos das escolhas públicas são
+próprio tomador de decisões divididos com outros
+Os indivíduos participam em transações privadas A participação dos indivíduos numa transação pública
+voluntariamente pode ser coercitiva
+. . e Trocas mediadas pelo setor público podem ser de soma
+Trocas privadas implicam uma soma positiva g
+zero ou negativa
+
+ 
+
+ 
+
+ 
+
+Fonte: Shughart e Razzolini (2001).
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set /out. 2013
+As escolhas públicas orçamentárias federais no PPA 2008-2011 1093
+
+A teoria da escolha pública é constituída por três fundamentos: o individualismo me-
+todológico; o homo economicus como postulado do comportamento individual; a economia
+como a ciência de trocas (Jiménez, 2008; Pereira, 1997).
+
+O individualismo metodológico pressupõe que a unidade base de análise é o indivíduo,
+e que ele é o sujeito de ações individuais ou coletivas, bem como possui preferências, valores
+e motivações (Pereira, 1997).
+
+O postulado do homo economicus descansa sobre o pressuposto de que o homem se
+comporta como um indivíduo egoísta, racional e maximizador. É pressupor que os indivíduos
+são modelados para comportar-se de maneira a maximizar suas utilidades subjetivas diante
+das restrições que enfrentam (Buchanan, 1983).
+
+Por fim, as trocas são a essência do problema econômico. Ao visualizar a política como
+um mercado em que se vai trocar uma coisa por outra, na busca de satisfação de interesses
+pessoais, a política se converte, então, em um mecanismo para alcançar objetivos pessoais.
+Logo, a diferença entre o mercado e a política não reside no tipo de interesses que os indi-
+víduos buscam alcançar, mas nas condições sob as quais os indivíduos as buscam (Pardo e
+Parra, 1988).
+
+Estudos de Monteiro (2010, 2011) e Mignozzetti, Galdino e Bernabel (2011) apre-
+sentam aspectos da teoria da escolha pública que, sob a ótica econômica tradicional, passa-
+riam desapercebidos. Tais estudos foram direcionados: ao sistema de separação de poderes e
+a inter-relação dos mesmos; poder discricionário dos burocratas; custos de transação associa-
+dos às decisões políticas.
+
+2.2 O problema principal-agente nas escolhas públicas
+
+A teoria da agência, inicialmente direcionada às finanças corporativas, mostrou-se aplicável
+ao setor público.
+
+Jensen e Meckling (1976) definem a relação de agência como um contrato pelo qual
+uma ou mais pessoas (principal(is)) contrata(m) outra pessoa (o agente) para executar algum
+serviço em seu nome, envolvendo delegação de autoridade para a tomada de decisão pelo
+agente. Segundo os autores, se ambas as partes do relacionamento são maximizadoras de
+utilidade, há boas razões para acreditar que o agente não agirá sempre no melhor interesse
+do principal.
+
+A teoria da agência, em conjunto com a teoria dos custos de transação, destaca-se pela
+sua importância. É uma teoria contratualista da organização que procura explicar o compor-
+tamento dos gestores e a forma como a assimetria de informação” influencia o equilíbrio de
+
+ 
+
+3 Um ambiente com simetria de informações implica agentes igualmente incertos e não ausência de incertezas (Al-
+drigui, 2006).
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set/out. 2013
+1094 Giovanni Pacelli Carvalho Lustosa da Costa + Fátima Souza Freire + Ivan Ricardo Gartner + Ademir Clemente
+
+poderes no seio de uma organização, abrindo margem a idiossincrasias que tanto prejudicam
+as boas práticas administrativas (Sato, 2007).
+
+Figura 1
+Relação principal-agente
+
+ 
+
+ 
+
+Conflito
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Orientação por metas
+Obrigação e reciprocidade
+Risco
+
+Interesse próprio
+
+Principal <— <— Agente
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Congruência
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Sato (2007).
+
+Observa-se, pela ilustração na figura 1, que o bem-estar do principal não pode ser maxi-
+mizado porque o principal e o agente possuem diferentes objetivos e diferentes predisposições
+ao risco (Wright et al., 1996).
+
+Chama-se a atenção para uma das principais diferenças entre o modelo principal-agente
+do setor privado e o modelo principal-agente para o setor público. No setor privado o agen-
+te está ligado a somente um principal ou a um número reduzido deles; enquanto no setor
+público, na relação entre eleitor (principal) e político (agente), o agente está ligado a vários
+principais, que, em virtude do sigilo do processo eleitoral, desconhece quais sejam (pode ter
+uma ideia, mas não a certeza).
+
+Quanto à relação entre políticos e burocratas, denominada por Silva (1997) e Niska-
+nen (1971) como relação interna ao governo, Brandt e Svendsen (2007) entendem que os
+burocratas são tradicionalmente vistos como fornecedores de monopólio dos serviços públicos
+sobre os quais detêm mais informação do que seus principais quanto aos custos reais de for-
+necimento desses serviços, bem como sobre sua real necessidade.
+
+Esta posição permite que burocratas maximizem os orçamentos e extraiam rendas
+dos principais por três razões a destacar. Primeiro, a consolidação de posições burocráticas
+pode funcionar como um “amortecedor” contra políticos ansiosos para cortar o tamanho da
+burocracia. Segundo, as maiores burocracias têm posições mais fortes de negociação (uma
+vez que representam a maior parte dos recursos e, portanto, têm mais poder para punir os
+adversários) ao tentar maximizar a sua fatia do bolo de renda total. Terceiro, os ganhos pri-
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set /out. 2013
+As escolhas públicas orçamentárias federais no PPA 2008-2011 1095
+
+vados, tais como maior salário ou melhores posições, podem ser alcançados nas negociações
+com os políticos. Assim, a literatura aponta para um comportamento burocrático racional
+que conduz a um resultado irracional para a sociedade como um todo (Brandt e Svendsen,
+2007; Niskanen, 1971).
+
+No setor público, Niskanen (1971) foi o pioneiro na aplicação da teoria principal-agente
+na relação interna entre políticos e burocratas. Segundo o autor, o líder de qualquer unidade
+administrativa do setor público busca maximizar o orçamento de sua unidade, aumentar o
+número de empregados, bem como aumentar seu poder e importância.
+
+Quanto à relação externa, estudos de Schumpeter (1950), Downs (1957) e Caplan
+(2007) sugerem que o eleitor tende a ser irracional, dada a pequena probabilidade de afeta-
+ção do rendimento no pleito eleitoral, enquanto estudo de Lemieux (2004) sugere que exis-
+tem poucos incentivos à participação do eleitor na relação principal-agente. Estudo de Caplan
+(2007) sugere ainda que o processo eleitoral privilegia blocos minoritários, porém politica-
+mente fortes. Monteiro (2011) atribui o comportamento não racional do eleitor ao fato de o
+mesmo apoiar seu voto em crença subjetiva sem que para isso incorra em custos. Neste caso,
+o benefício é mais psicológico do que material.
+
+Ainda sobre a relação externa, Ferraz e Finan (2008) observaram que o índice de reelei-
+ção comparado com a série histórica aumentou em 20% a probabilidade de reeleição nas loca-
+lidades em que não houve indício de corrupção nos relatórios de fiscalização da Controladoria
+Geral da União (CGU), e que diminuiu 15,7% a probabilidade de reeleição nos municípios em
+que houve indício de corrupção nos relatórios de fiscalização da CGU.
+
+Tal resultado sugere que os eleitores não são tão irracionais assim, porém não elimina
+a possibilidade de um grupo minoritário e politicamente forte ter se utilizado favoravelmente
+de tais informações dos órgãos de controle.
+
+2.3 O jogo político na democracia representativa sob a ótica positiva da teoria
+da escolha pública
+
+O jogo político na democracia representativa tem suas regras e seus jogadores. Neste jogo a
+regra mais importante é que essas decisões são tomadas pelos representantes eleitos (Samuel-
+son e Nordhaus, 1993). Outra regra de fundamental importância para a análise positiva é a de
+que a função-objetivo a ser maximizada pelos políticos é representada pelos votos eleitorais
+(Kollmann e Schneider, 2010).
+
+Conforme foi observado na seção 2.1, a teoria da escolha pública aplica a abordagem
+econômica às escolhas que as pessoas e os governos fazem no “mercado político”. Os atores
+no mercado político são: eleitores, firmas, políticos, burocratas, partidos políticos e grupos de
+interesse (Jiménez, 2008; Pereira, 1997; Samuelson e Nordhaus, 1993). O quadro 2 resume
+os três principais grupos de atores no jogo político e as características de cada um.
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set/out. 2013
+1096
+
+ 
+
+ 
+
+Giovanni Pacelli Carvalho Lustosa da Costa + Fátima Souza Freire + Ivan Ricardo Gartner + Ademir Clemente
+Quadro 2
+Principais atores no jogo político e respectivas características
+Atores Características
+Eleitores Contribuintes e beneficiários do serviço público
+Políticos Dependem de agradar seus eleitores e seu partido político
+Dliradatãe Funcionários do governo e que tendem a controlar direta ou indiretamente os detalhes das operações do
+governo
+
+ 
+
+ 
+
+ 
+
+Fonte: Jiménez (2008).
+
+Fazendo uma comparação entre o jogo político e uma economia de mercado, os elei-
+tores representariam os consumidores, enquanto os políticos representariam as empresas. Os
+políticos seriam os empreendedores que interpretam a procura pelo bem público (bens coleti-
+vos) e encontram as vias para o fornecimento desses bens (Samuelson e Nordhaus, 1993).
+
+No âmbito nacional, estudo de Mignozzetti, Galdino e Bernabel (2011) focou os incen-
+tivos eleitorais para um partido se coligar. Como resultado, identificou-se que as estratégias
+de coligação são racionais (envolvendo a capacidade de mensuração de custos e benefícios
+eleitorais das diversas estratégias, constritos a restrições instituicionais-legais, bem como a
+restrições de caráter ideológico-político) e que estão sempre condicionadas ao aumento das
+chances eleitorais.
+
+Dentre teoremas e práticas que interferem nas escolhas públicas, destacam-se: o te-
+orema da unanimidade, o teorema da preferência mediana, o logrolling, a articulação da
+sociedade em Grupos de Interesse, o Rent Seeking,* o Rent Extraction” e o Lobbying. Ressalta-
+se que esses teoremas e essas práticas estão interligados entre si e suportam uns aos outros
+(McChesney, 1997; Mueller, 1976).
+
+O teorema da unanimidade foi instituído por Wicksell, que argumentou que tal regra
+garantiria que todos os indivíduos receberiam benefícios proporcionais ao seu custo fiscal de
+qualquer bem público. Segundo a regra, ninguém poderia se queixar que assegura um bene-
+fício que ele mesmo considera ser (maior ou pelo menos) tão grande quanto o preço que ele
+tem que pagar, pois teria o poder de veto (Johnson, 2006).
+
+O teorema da preferência mediana foi desenvolvido por Anthony Downs (1957),
+que buscou evidenciar as formas utilizadas pelos políticos com o intuito de se reelege-
+
+ 
+
+4 O setor privado realiza incursões no setor público a fim de auferir rendas. Assim, o Estado seria vítima da ação de
+empresas privadas (McChesney, 1997).
+
+5 O agente público utiliza seu poder legal a fim de extorquir “apoios financeiros” de empresas privadas (McChesney,
+1997).
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set /out. 2013
+As escolhas públicas orçamentárias federais no PPA 2008-2011 1097
+
+rem. Diamond (1988) afirma que um ambiente de concorrência entre políticos resulta
+na eleição de um governo que escolhe uma plataforma idêntica à posição ideal do eleitor
+mediano. Dessa forma, é razoável supor que os políticos estariam propensos a atingir um
+espectro maior de possíveis eleitores a fim de maximizar a possibilidade de serem eleitos
+ou reeleitos.
+
+O logrolling se constitui na troca de votos pelos políticos eleitos com o intuito de
+aprovar políticas que maximizem o potencial volume de votos na próxima eleição e fun-
+ciona da seguinte forma: um político concorda em votar a favor de um projeto de lei em
+que outro parlamentar está interessado em troca do voto desse parlamentar em outra
+matéria (Tullock, Seldon e Brady, 2005). Apesar de racional a prática anterior, estudo
+de Mauerberg Júnior, Strachman e Reami (2013) identificou que na 52: legislatura do
+Senado (2003-06) os senadores apresentam um comportamento aleatório na emissão de
+pareceres, não sendo observados conluios nítidos entre agentes de mesmo partido, base,
+ou região geográfica do país.
+
+Os grupos de pressão (grupos de interesse) foram explorados inicialmente nos traba-
+lhos de Schumpeter (1950), mas foi no trabalho de Mancur Olson (1982) que receberam
+maior destaque. Para Olson (1982), estes grupos fazem prevalecer um efeito de “renda” para
+seus respectivos interesses. Quanto mais aguerridos e coesos forem esses grupos, melhores
+resultados obtêm (Pereira, 1997).
+
+Segundo Samples (2004), os grupos de interesse ajudam a eleger os políticos e tentam
+aprovar políticas voltadas aos seus interesses alegando que os custos que são impostos sobre
+os outros cidadãos (à sociedade) servem ao interesse público.
+
+Diante do exposto, pode-se inferir que a relação externa, entre os políticos e toda a
+sociedade, por ter um espectro maior de grupos de interesses tenderia a ser mais forte que a
+relação interna, entre os políticos e os burocratas, que tem um espectro menor de grupos de
+interesses.
+
+Monteiro (2011) sugere que, durante a crise de 2008, o Brasil vivenciou um caso espe-
+cífico de grupos de interesse e lobbying: o da indústria automotiva. Segundo o autor, o crédito
+de 4 bilhões concedido ao setor automotivo tanto foi uma medida anticrise quanto um aten-
+dimento preferencial a um grupo de interesse a partir do lobbying realizado pela Associação
+Nacional de Fabricantes de Veículos Automotores (Anfea).
+
+Diante de todo o exposto, conclui-se que os grupos de interesse atuam de forma con-
+junta com o intuito de auferir benefícios econômicos na alocação de recursos do orçamento
+imputando custos difusos a toda a sociedade.
+
+Ressalta-se que este estudo busca responder quais grupos obtiveram maior concordân-
+cia na alocação dos recursos: os grupos de interesse da relação interna (políticos e burocratas)
+ou os grupos de interesse da relação externa (políticos e sociedade).
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set/out. 2013
+1098 Giovanni Pacelli Carvalho Lustosa da Costa + Fátima Souza Freire + Ivan Ricardo Gartner + Ademir Clemente
+
+2.4 Orçamento-programa no Brasil
+
+No Brasil, o orçamento-programa foi instituído pelo Decreto-Lei nº 200 (1967), sendo este
+considerado seu marco legal; apesar de a Lei nº 4.320/1964 ter dado um suporte inicial a esta
+mudança (Brasil, 2011a).
+
+O orçamento-programa, que se tornou de uso obrigatório para todos os entes pú-
+blicos desde 1974, é materializado atualmente na classificação programática da despesa
+orçamentária, composta por três subdivisões: Programas, Ações e Subtítulos (Brasil, 2010b;
+Giacomoni, 2010).
+
+O Programa é o instrumento de organização da atuação governamental que articula um
+conjunto de ações que concorrem para a concretização de um objetivo comum preestabele-
+cido, mensurado por indicadores instituídos no plano, visando à solução de um problema ou
+ao atendimento de determinada necessidade ou demanda da sociedade. Os Programas são
+classificados no PPA 2008-2011 em dois tipos: os finalísticos e os de apoio às políticas públicas
+e áreas especiais (Brasil, 2010b).
+
+A Lei nº 11.653, de 2008, considera Programa Finalístico” o programa que oferta bens
+e serviços diretamente à sociedade e produz resultados passíveis de aferição por indicadores;
+enquanto os Programas de Apoio” são os voltados para a oferta de serviços ao Estado, para a
+gestão de políticas e para o apoio administrativo.
+
+Pode-se, portanto, estimar que os programas finalísticos, por ofertarem bens e servi-
+ços diretamente à sociedade, servem como elemento representativo das relações externas
+públicas no modelo principal-agente (governo e cidadãos); enquanto os programas de apoio
+servem como elementos representativos das relações internas públicas no modelo principal-
+agente (políticos e burocratas).
+
+2.5 O ciclo orçamentário federal após a CF/1988
+
+A Lei Orçamentária Anual (LOA) basicamente consolida todo o planejamento orçamentário
+de curto prazo, fixando as despesas e estimando as receitas para um exercício financeiro, pe-
+ríodo que coincide com o ano civil (Brasil, 1964).
+
+A LOA deve ser enviada anualmente ao Congresso Nacional (CN) pelo chefe do Poder
+Executivo federal até 31 de agosto de cada ano e devolvida para sanção presidencial até o
+
+ 
+
+$ Na gestão do PPA 2012-2015 os programas que expressam e orientam a ação governamental para a entrega de
+bens e serviços à sociedade são denominados “programas temáticos” (Brasil, 2012).
+
+7 Na gestão do PPA 2012-2015 os programas que expressam e orientam as ações destinadas ao apoio, à gestão e à
+manutenção da atuação governamental são denominados “Programas de Gestão, Manutenção e Serviços ao Estado”
+(Brasil, 2012).
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set /out. 2013
+As escolhas públicas orçamentárias federais no PPA 2008-2011 1099
+
+término da sessão legislativa, em 22 de dezembro. O ciclo da LOA é composto pelas seguin-
+tes etapas: elaboração; discussão, votação e aprovação; execução financeira e orçamentária;
+controle e avaliação (Giacomoni, 2010). A figura 2 ilustra as quatro etapas da LOA a serem
+executadas em certo ano T.
+
+Observa-se que a etapa de elaboração se encerra quando do envio da LOA pelo presi-
+dente da República ao CN em 31 de agosto de T-1. A etapa de discussão e aprovação da LOA
+inicia-se em 1º de setembro de T-1 e se encerra teoricamente em 22 de dezembro de T-1. A
+etapa de execução orçamentária e financeira inicia teoricamente em 1º janeiro de T e termina
+em 31 de dezembro de T. A etapa de controle e avaliação, que na prática já ocorre durante a
+etapa de execução orçamentária e financeira,* possui como ponto alto o envio da prestação de
+contas do presidente da República em T+1.
+
+Figura 2
+Ciclo orçamentário da LOA na gestão do PPA 2008-2011
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I I
+I Publicação do I Término do
+ublicação ecreto de registro das Publicação do
+| |publicaçã Decreto di I tro di ç
+| |daLOA do Programação I informações Relatório de
+| | anoT Financeira do I gerenciais da Avaliação da LOA
+| anoT | LOA do ano T doanoT
+I | I
+| Envio da
+, Prestação de
+Envio do Aprovação | | | Início do | Ahertura da Contas do PR
+Ploa do do Ploa Er sessão Ro EN do ano
+anoT doanoT legislativa E
+J I l |
+Y I Y I y y Y Y
+31108 2212 | o1/01 31/01 oz/02 15/02 oz104 15109
+I I
+I I
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+—YT-1 (TFIDS>L vTr TooSs
+
+ 
+
+ 
+
+ 
+
+Fonte: Elaboração dos autores.
+
+Em cada etapa do ciclo orçamentário os atores são bem definidos e possuem atribuições
+específicas, podendo haver interação entre eles, como mostra o quadro 3.
+
+ 
+
+8 O art. 77 da Lei nº 4.320/1964 estabelece que a verificação da legalidade dos atos de execução orçamentária será
+prévia, concomitante e subsequente.
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set/out. 2013
+1100 Giovanni Pacelli Carvalho Lustosa da Costa + Fátima Souza Freire + Ivan Ricardo Gartner + Ademir Clemente
+
+Quadro 3
+Etapas da LOA e relação entre os poderes
+
+ 
+
+Etapa Atores principais Relação entre os poderes
+
+ 
+
+Os Poderes Legislativo, Judiciário e Ministério Público da União devem
+enviar suas propostas orçamentárias para a SOF até 15 de agosto.
+
+Elaboração Poder Executivo
+O presidente da República deve enviar o Projeto de Lei Orçamentária
+Anual até quatro meses antes do encerramento do exercício financeiro.
+Discussão, O Poder Legislativo efetua emendas ao Ploa.
+Votação e Poder Legislativo O Ploa deve ser devolvido para sanção até o encerramento da sessão
+Aprovação legislativa.
+Execução Os poderes e o MPU deverão elaborar e publicar por ato próprio, até
+Orçamentária e Todos os poderes e o MPU | 30 dias após a publicação da LOA, o cronograma anual de desembolso
+Financeira mensal.
+
+O sistema de controle interno
+
+Elabora a prestação de contas.
+de cada poder P ê
+
+Controle e
+
+Avaliação . . .
+Sistema de controle externo O CN julga as contas do presidente da República.
+
+ 
+
+ 
+
+ 
+
+Fonte: Brasil (1988, 2000, 2011b).
+
+Conforme o quadro 3, em todas as etapas da LOA os poderes se comunicam e atuam em
+conjunto. Ressalta-se que, em regra, o Legislativo não pode aumentar as despesas globais da
+LOA, podendo efetuar realocações por meio de emendas parlamentares.”
+
+Sobre a relação entre os poderes, Limongi e Figueiredo (2005) mostraram que o Le-
+gislativo desempenha papel de coadjuvante no processo, competindo ao Executivo o papel
+principal.
+
+Por fim, é importante destacar que o modelo de orçamento autorizativo adotado no
+âmbito federal também contribui para o papel secundário do Congresso em matéria orçamen-
+tária. Neste modelo, o núcleo da programação (terceira etapa da LOA) é definido no âmbito
+do Executivo (Lima, 2003).
+
+Nos Estados Unidos, em que o modelo é o impositivo, o Executivo deve, em regra, cum-
+prir toda a programação a partir do orçamento aprovado. Para o Executivo deixar de cumprir
+parte do orçamento aprovado, faz-se necessário autorização do Legislativo (Lima, 2003).
+
+ 
+
+º? As emendas ao projeto de lei do orçamento anual ou aos projetos que o modifiquem somente podem ser aprova-
+das caso: I — sejam compatíveis com o plano plurianual e com a lei de diretrizes orçamentárias; II — indiquem os
+recursos necessários, admitidos apenas os provenientes de anulação de despesa, excluídas as que incidam sobre: a)
+dotações para pessoal e seus encargos; b) serviço da dívida; c) transferências tributárias constitucionais para estados,
+municípios e Distrito Federal; ou II — sejam relacionadas: a) com a correção de erros ou omissões; ou b) com os
+dispositivos do texto do projeto de lei (Brasil, 1988).
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set /out. 2013
+As escolhas públicas orçamentárias federais no PPA 2008-2011 1101
+3. Proceder metodológico
+
+Esta seção trata da metodologia adotada nesta pesquisa. São apresentados as fontes de onde
+foram coletados os dados; a forma como será executada a análise da alocação de recursos dos
+programas; e os testes estatísticos aplicados nas séries temporais dos programas.
+
+Quanto ao enfoque, a pesquisa é caracterizada como descritiva, pois se propõe a obser-
+var e descrever as características de um tema ou fenômeno (no caso, alocação de recursos)
+por meio de registro, análise e correlação entre fatos ou fenômenos sem sua manipulação
+(Collis e Hussey, 2005).
+
+Quanto à forma de abordagem, a pesquisa utilizou-se da “triangulação sequencial” no
+sentido de Morse (1991), devido ao uso sequencial da abordagem qualitativa e quantitativa
+neste estudo.
+
+O uso de ambas as abordagens é considerado positivo, na visão de Duffy (1987), pois
+permite congregar os vieses dos controles (pelos métodos quantitativos) com compreensão
+das perspectivas dos agentes envolvidos no fenômeno (métodos qualitativos); bem como per-
+mite congregar identificação de variáveis específicas (pelos métodos quantitativos) com uma
+visão global do fenômeno (pelos métodos qualitativos).
+
+3.1 Fontes dos dados
+
+Para o desenvolvimento dessa pesquisa foram utilizadas duas fontes de dados: (i) Sistema de
+Informações sobre as Leis Orçamentárias (Siga Brasil);!º (ii) Departamento de Coordenação e
+Governança das Empresas Estatais (Dest).
+
+Os dados do Siga Brasil referentes à alocação dos recursos nas diversas etapas da LOA
+foram agrupados por programas. Dessa forma, foi construído inicialmente um banco de dados
+contendo todos os 324 programas que constaram nos orçamentos federais de 2008 a 2011.
+Durante a extração de dados do Siga Brasil, observou-se que as informações quanto às aloca-
+ções de recursos dos programas do Orçamento de Investimento estavam incompletas. Dessa
+forma, foi necessária a obtenção dos dados sobre estes programas no site do Dest.
+
+Após a construção do banco de dados geral com informações do Siga Brasil e do Dest,
+foram excluídos os seguintes programas, considerados outliers, no período de 2008 a 2011,
+conforme quadro 4.
+
+ 
+
+1 Disponível em: <www.senado.gov.br/portal/ page/portal/orçamento senado/SigaBrasil>. Acesso em: 1º jun.
+2013.
+
+“ Disponível em: <www.planejamento.gov.br/link secretaria.asp?cod=213&cat =310&sec=4&sub=295>. Acesso
+em: 1ºjun. 2013.
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set/out. 2013
+1102 Giovanni Pacelli Carvalho Lustosa da Costa + Fátima Souza Freire + Ivan Ricardo Gartner + Ademir Clemente
+
+Quadro 4
+Outliers do banco de dados contendo todos os programas
+
+ 
+
+Programas excluídos Motivo da exclusão
+
+ 
+
+Programa 6001 — Apoio ao desenvolvimento
+urbano de municípios de pequeno porte
+
+Programa 0220 — Manutenção da malha rodo-
+viária federal
+Programa 0229 — Corredor São Francisco
+Programa 0231 — Corredor Transmetropolitano Executado apenas no orçamento de 2008.
+Programa 0233 — Corredor MERCOSUL
+Programa 0499 — Áreas protegidas do Brasil
+Programa 0235 — Corredor Nordeste
+
+Programa 0237 — Corredor Araguaia-Tocantins
+
+ 
+
+Não se trata de um programa, mas apenas de uma das fontes de recur-
+
+Programa 0999 — Reserva de Contingência e - .
+sos para créditos adicionais.
+
+ 
+
+Não executado em 2009. Devido ao caráter episódico e restrito, não se
+
+Programa 1029 — Resposta aos Desastres .
+enquadra no mesmo contexto dos demais programas.
+
+ 
+
+Programa 1209 — Banco para Todos Apesar de estar cadastrado no Sigplan, não possuiu execução orçamen-
+Programa 1321 — Habitação de Mercado tária de 2008 a 2011.
+
+ 
+
+ 
+
+ 
+
+Fonte: Elaboração dos autores.
+
+Na sequência foi realizado um ajuste para o programa Gestão da Participação em Or-
+ganismos Internacionais. Em 2008 o programa possuía o código 0681; porém, a partir de
+2009, seu código passou para 0910. Assim, para aplicações desta pesquisa, o código 0681 foi
+convertido para 0910, haja vista tratar-se de um mesmo programa.
+
+Dessa forma, este estudo contemplou os dados referentes a 312 programas, sendo 212
+finalísticos, 90 programas de apoio e 10 de operações especiais.
+
+3.2 As escolhas públicas dos Poderes Executivo e Legislativo na alocação de
+recursos
+
+A partir da identificação e da segregação dos recursos alocados por programas pelos atores
+políticos, Executivo e Legislativo, entre os anos de 2008 e 2011, nas seguintes etapas da LOA
+(Elaboração; Discussão, Votação e Aprovação; e Execução Orçamentária Financeira), foram
+realizadas duas análises.
+
+Na “análise tipo 1 — série histórica” examinou-se a escolha pública de cada poder numa
+mesma etapa entre os anos da amostra (2008 a 2011); enquanto na “análise tipo 2 — ciclo
+orçamentário” examinou-se a escolha pública entre os poderes dentro de um mesmo ciclo (or-
+camentos de 2009 a 2011). O quadro 5 contém os arranjos para os dois tipos de análise.
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set /out. 2013
+As escolhas públicas orçamentárias federais no PPA 2008-2011
+
+Quadro 5
+
+Arranjo das séries históricas para análise das escolhas públicas orçamentárias
+
+ 
+
+Tipo de análise
+
+Fórmula
+
+Produtos
+
+Questão a ser res-
+pondida
+
+Código do
+ranking
+
+ 
+
+Tipo 1 — Elaboração
+do Ploa
+
+Valor alocado pelo Executivo
+no Ploa de 2008 a 2011
+
+1 Ranking para todos os
+programas
+
+ 
+
+1 Ranking para os progra-
+mas finalísticos
+
+ 
+
+1 Ranking para os progra-
+mas de apoio
+
+ 
+
+Valor alocado pelo Executivo
+
+no Ploa 2009" — Valor alo-
+
+cado pelo Executivo no Ploa
+2008
+
+1 Ranking para todos os
+programas
+
+ 
+
+1 Ranking para os progra-
+mas finalísticos
+
+ 
+
+1 Ranking para os progra-
+mas de apoio
+
+De que forma se
+comportou a escolha
+pública do Executivo
+na 12 Etapa da LOA?
+
+AA
+
+ 
+
+AB
+
+ 
+
+AC
+
+ 
+
+AD
+
+ 
+
+AE
+
+ 
+
+AF
+
+ 
+
+Tipo 1 — Discussão,
+Votação, Aprovação e
+Sanção do Ploa
+
+Valor autografado Ploa de
+2008* — Valor do Ploa envia-
+do ao CN de 2008
+
+1 Ranking para todos os
+programas
+
+ 
+
+1 Ranking para os progra-
+mas finalísticos
+
+ 
+
+1 Ranking para os progra-
+mas de apoio
+
+De que forma se
+comportou a escolha
+pública do Legislativo
+na 2º Etapa da LOA?
+
+AG
+
+ 
+
+AH
+
+ 
+
+Al
+
+ 
+
+Tipo 1 — Execução
+da LOA
+
+Valor empenhado pelo
+Executivo na LOA de 2008*
+
+1 Ranking para todos os
+programas
+
+ 
+
+1 Ranking para os
+programas finalísticos
+
+ 
+
+1 Ranking para os
+programas de apoio
+
+ 
+
+Valor empenhado pelo
+Executivo na LOA de 2009
+— Valor empenhado pelo
+Executivo na LOA de 2008
+
+1 Ranking para todos os
+programas
+
+ 
+
+1 Ranking para os
+programas finalísticos
+
+ 
+
+1 Ranking para os
+programas de apoio
+
+De que forma se
+comportou a escolha
+pública do Executivo
+na 3º Etapa da LOA?
+
+AJ
+
+ 
+
+AK
+
+ 
+
+AL
+
+ 
+
+AM
+
+ 
+
+AN
+
+ 
+
+AO
+
+ 
+
+Tipo 2 — Ciclo Orça-
+mentário
+
+ 
+
+ 
+
+Valor alocado na 12 etapa da
+LOA, valor realocado na 22
+etapa da LOA, valor executado
+na 3º etapa da LOA.
+
+4 rankings para todos os
+programas
+
+ 
+
+4 rankings para os
+programas finalísticos
+
+ 
+
+ 
+
+4 rankings para os
+programas de apoio
+
+ 
+
+Qual a concordância
+
+entre os três pode-
+
+res no mesmo ciclo
+orçamentário?
+
+APS, AQ", ARY, AS?
+
+ 
+
+AT&, AU“, AVS, AW:
+
+ 
+
+ 
+
+AX& Av“, AZ“ BA?
+
+ 
+
+Fonte: Elaboração dos autores.
+Legenda: x) este procedimento será replicado para os orçamentos de 2009, 2010 e 2011; y) este procedimento será replicado para os
+orçamentos de 2010 e 2011;k) 2008; w) 2009 ;v) 2010; 7) 2011
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set/out. 2013
+
+ 
+1104 Giovanni Pacelli Carvalho Lustosa da Costa + Fátima Souza Freire + Ivan Ricardo Gartner + Ademir Clemente
+
+Após a elaboração dos rankings, foram aplicados os testes não paramétricos: de Fried-
+man, de concordância de Kendall e de correlação de Spearman.
+
+O teste de Friedman é utilizado para verificar a hipótese nula de que os dados sele-
+cionados da amostra tenham sido extraídos da mesma população (Conover, 1999; Siegel e
+Castellan, 1988).
+
+O teste de Kendall (W) é sugerido por Conover (1999) e por Siegel e Castellan (1988)
+quando se deseja medir a concordância entre diversos julgamentos (escolhas) a respeito de
+associação entre três ou mais variáveis. Tem especial aplicação como método-padrão de orde-
+nação de elementos de acordo com consenso, quando não se dispõe de uma ordem objetiva
+dos mesmos.
+
+Existe uma relação próxima entre o teste de Friedman e o coeficiente de concordância
+de Kendall. Eles utilizam o mesmo formato de construção do banco de dados e o mesmo 2.
+Eles diferem apenas na formulação da hipótese nula. No teste de Friedman o foco reside na
+diferença entre os tratamentos (objetos); enquanto no teste de Kendall o foco são os julgado-
+res e não os objetos. Assim, se a hipótese nula do teste de Kendall for verdadeira, isso significa
+que os juízes produziram rankings independentes uns dos outros; logo, não se pode realizar o
+estudo de concordância (Legendre, 2005). Seguem as hipóteses nulas de ambos os testes:
+
+— HO do teste de Friedman: Os n objetos foram extraídos da mesma população.
+
+— HO do teste de Kendall: Os juízes produzem rankings independentes dos objetos.
+
+Após a aplicação dos testes de Friedman e de Kendall, foi aplicado o teste de Spearman.
+Orr, (p) de Spearman mede o grau de concordância entre os pares dos blocos selecionados do
+teste de Kendall (Conover, 1999).
+
+Uma diferença entre os métodos de Kendall e de Spearman ao exprimirem a concor-
+dância entre postos é que r, (p) pode assumir valores entre -1 e + 1, enquanto W só toma
+valores entre O e +1. A razão pela qual W não pode tomar valores negativos é que, quando
+estão em jogo mais de dois conjuntos de postos, esses conjuntos não podem ser completamen-
+te discordantes. Assim, k juízes podem todos concordar, mas é impossível eles discordarem
+completamente (Siegel, 1975). Para ambos os testes será utilizado o parâmetro de análise dos
+resultados constante no quadro 6.
+
+ 
+
+ 
+
+Quadro 6
+Parâmetros de análise do teste de Kendall e de Spearman
+Resultado Correlação (r):/Concordância (W)»
+[0,9; 1] Muito Forte
+[0,75; 0,9] Forte
+[0,5; 0,75] Moderada
+[0,25; 0,5] Fraca
+[0,0;0,25] Muito fraca
+
+ 
+
+ 
+
+ 
+
+Fonte: Finney (1980).
+Legenda: a) no caso do teste de Spearman, os valores variam de -1 a +1; b) a interpretação do nível de con-
+cordância foi adaptada para o mesmo raciocínio do nível de correlação.
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set /out. 2013
+As escolhas públicas orçamentárias federais no PPA 2008-2011 1105
+3.3 Hipótese de pesquisa
+
+Considerando a teoria da agência no setor público que segrega as relações em externa (en-
+tre políticos e sociedade) e interna (entre políticos e burocratas) (Brandt e Svendsen, 2007;
+Niskanen, 1971); considerando o teorema da preferência mediana que afirma que os políti-
+cos tendem a alocar recursos em políticas que abranjam o maior número de eleitores (Mc-
+Chesney, 1997; Mueller, 1976), e considerando que a sociedade se organiza em grupos de
+interesse (McChesney, 1997; Mueller, 1976; Caplan, 2007; Monteiro, 2011), foi estabelecida
+a seguinte hipótese de pesquisa: a concordância entre as etapas na LOA na relação externa
+(entre políticos e sociedade), que tem como proxy os programas finalísticos, é superior à con-
+cordância na relação interna (entre políticos e burocratas), que tem como proxy os programas
+de apoio às políticas públicas e áreas especiais.
+
+4. Resultados e análises das escolhas públicas dos Poderes Executivo e
+Legislativo no ciclo orçamentário
+
+Nesta seção serão analisadas as escolhas públicas dos Poderes Executivo e Legislativo na alo-
+cação de recursos nos orçamentos de 2008 a 2011. Esta análise está dividida em duas partes.
+Na primeira será analisada a escolha pública de cada poder numa mesma etapa entre os anos
+de 2008 a 2011 — “análise tipo 1 - série histórica” —, constante nas tabelas 1 a 3, na segunda
+será realizada a análise da escolha pública entre os poderes no mesmo ciclo orçamentário —
+“análise tipo 2 - ciclo orçamentário” —, constante na tabela 4.
+
+Combinando os resultados dos rankings AD, AE e AF, observa-se que existiu uma dis-
+posição fraca (entre 25 e 50%) do Poder Executivo em alterar os valores alocados aos pro-
+gramas. Como consequência, essa disposição não é suficiente para alterar a estrutura final
+dos recursos alocados por programas finalísticos nos orçamentos, pois a concordância dos
+rankings AA, AB e AC é muito forte.'? Comparando os programas de apoio com os programas
+finalísticos, observa-se que estes possuem uma concordância maior que aqueles.
+
+ 
+
+22 Aplicando o teste do coeficiente de Spearman sobre o ranking AA, dados não tabulados, observou-se uma correlação
+entre 2008 e 2009 de 0,990; uma correlação entre 2009 e 2010 de 0,977; e uma correlação entre 2010 e 2011 de
+0,981. Quando se compara 2008 com 2010 e com 2011, a correlação, apesar de muito alta, reduziu para: 0,967 e
+0,956, respectivamente. Assim, conclui-se que, quando há um distanciamento entre os orçamentos, há uma tendência
+de diminuição da correlação, porém a mesma continua muito forte (maior 0,90). Assim, no que tange à 1º etapa, o
+orçamento anterior é a melhor referência para o orçamento atual.
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set/out. 2013
+1106
+
+Giovanni Pacelli Carvalho Lustosa da Costa + Fátima Souza Freire + Ivan Ricardo Gartner + Ademir Clemente
+
+Tabela 1
+Resultados dos testes de Friedman e Kendall quanto à análise isolada da escolha pública
+do Executivo na 1º Etapa da LOA
+
+ 
+
+ 
+
+ 
+
+ 
+
+Elaboração da LOA
+. Teste de
+Ranking « A Teste de Ne
+: Relação analisada a 2 concordância de P-value
+analisado Friedman — X
+Kendall — W
+
+Ap Valores brutos alocados pelo Executivo em todos os 121646 0978 0,000
+programas nos Ploas de 2008 a 2011
+
+ap» Valores brutos alocados pelo Executivo em todos os 826,44 0,979 0,000
+programas finalísticos nos Ploas de 2008 a 2011
+
+Ace Valores brutos alocados pelo Executivo em todos os 342295 0,962 0,000
+programas de apoio nos Ploas de 2008 a 2011
+
+apê Variação bruta dos valores alocados pelo Executivo em 285,64 0,306 0,846*
+todos os programas nos Ploas de 2009 a 2011
+Variação bruta dos valores alocados pelo Executivo
+
+AES em todos os programas finalísticos nos Ploas de 265,25 0,419 0,007
+2009 a 2011
+Variação bruta dos valores alocados pelo Executivo
+
+AF em todos os programas de apoio nos Ploas de 83,578 0,313 0,642*
+2009 a 2011
+
+ 
+
+ 
+
+Fonte: Pesquisa de campo.
+Legenda:a)K=4eN=312;b)Kk=4eN=212;)kKk=4eN=90;d)k=3eN=312;6)Kk=3eN=212;)kKk=3eN=90.
+* Sem significância estatística.
+
+Prosseguindo na evidenciação dos resultados, a tabela 2 mostra a escolha orçamentá-
+ria do Poder Legislativo na 2º etapa da LOA. Ressalta-se que esse poder, em regra, não pode
+aumentar o orçamento recebido, competindo-lhe realocar os recursos por meio de emendas
+parlamentares que propiciam uma configuração de orçamento final aprovada distinta da con-
+figuração original.
+
+Observa-se que a escolha pública do Legislativo na realocação de recursos nos orçamen-
+tos de 2008 a 2011 por meio de emendas possui concordância de 0,587 para o conglomerado
+composto por todos os programas, concordância de 0,639 para o conglomerado composto por
+todos os programas finalísticos e concordância de 0,430 para os programas de apoio. Assim,
+conclui-se que os parlamentares “concordaram” mais quanto aos programas finalísticos do
+que quanto aos programas de apoio.!º
+
+ 
+
+3 Aplicando o teste do coeficiente de Spearman sobre o ranking AG, dados não tabulados, observou-se uma correlação
+entre 2008 e 2009 de 0,586; uma correlação entre 2009 e 2010 de 0,513; e uma correlação entre 2010 e 2011 de
+0,640. Quando se compara 2008 com 2010 e com 2011, a correlação reduziu para: 0,412 e 0,526, respectivamente.
+Assim, conclui-se que, quando há um distanciamento entre os orçamentos, há uma tendência de diminuição da
+correlação, porém a mesma muda de moderada para fraca. Assim, no caso do Legislativo, as realocações anteriores
+são uma referência moderada para as realocações atuais.
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set /out. 2013
+As escolhas públicas orçamentárias federais no PPA 2008-2011
+
+Tabela 2
+Resultados dos testes de Friedman e Kendall quanto à análise isolada da escolha pública
+do Legislativo na 2º Etapa da LOA
+
+107
+
+ 
+
+ 
+
+ 
+
+Discussão, votação e aprovação da LOA
+Teste de
+Ranking Teste de Friedman | concordância de
+analisado Relação analisada = Kendall — W P-value
+AG Valores brutos realocados pelo Legislativo em todos 729778 0,587 0,000
+os programas nos Ploas de 2008 a 2011
+Valores brutos realocados pelo Legislativo em
+AH? todos os programas finalísticos nos Ploas de 2008 539,17 0,639 0,000
+a2011
+Ar Valores brutos realocados pelo Legislativo em todos 153,126 0,430 0,000
+os programas de apoio nos Ploas de 2008 a 2011
+
+ 
+
+ 
+
+ 
+
+Fonte: Pesquisa de campo.
+Legenda:a)kKk=4eN=312;b)kKk=4eN=212;)kK=4eN=90.
+
+Assim, os resultados da tabela 2 e do teste de Spearman reforçam duas evidências que
+se destacam na 1º e na 2º etapas da LOA: a primeira é que a correlação para o conglomerado
+dos programas finalísticos é mais forte que a correlação do conglomerado contendo todos os
+programas; a segunda é que, quando há um distanciamento no tempo entre os orçamentos,
+há uma tendência de diminuição da correlação.
+
+Prosseguindo na evidenciação dos resultados, a tabela 3 mostra a escolha orçamentária
+do Poder Executivo na 3º Etapa da LOA.
+
+Combinando os resultados dos rankings AM, AN e AO, observa-se que houve uma dis-
+posição fraca (entre 25 e 50%) do Poder Executivo em alterar os valores executados nos pro-
+gramas de apoio, e uma disposição moderada para alterar os programas finalísticos. Apesar
+disso, essa disposição não é suficiente para alterar a estrutura final dos recursos executados
+por programas finalísticos nos orçamentos, pois a concordância dos rankings AJ, AK e AL é
+muito forte.!* Comparando os programas de apoio com os programas finalísticos, observa-se
+que estes possuem uma concordância maior que aqueles.
+
+Dessa forma, conclui-se, da perspectiva do modelo principal-agente, que, quando se
+consideram as escolhas públicas orçamentárias de cada poder em cada etapa isoladamente,
+as relações externas (governo e cidadãos) são mais concordantes que as relações internas
+(políticos e burocratas).
+
+ 
+
+14 Aplicando o teste do coeficiente de Spearman sobre o ranking AJ, dados não tabulados, observou-se uma correlação
+entre 2008 e 2009 de 0,982; uma correlação entre 2009 e 2010 de 0,986; e uma correlação entre 2010 e 2011 de
+0,983. Quando se compara 2008 com 2010 e com 2011, a correlação, apesar de muito alta, reduziu para: 0,968 e
+0,956, respectivamente. Assim, conclui-se que, quando há um distanciamento entre os orçamentos, há uma tendência
+de diminuição da correlação; porém a mesma continua muito forte (maior 0,90). Assim, no que tange à 3º etapa, o
+orçamento anterior é a melhor referência para o orçamento atual.
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set/out. 2013
+1108 Giovanni Pacelli Carvalho Lustosa da Costa + Fátima Souza Freire + Ivan Ricardo Gartner + Ademir Clemente
+
+Tabela 3
+Resultados dos Testes de Friedman e Kendall quanto à análise isolada da escolha pública
+do Executivo na 3º Etapa da LOA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Execução Orçamentária e Financeira da LOA
+Ranking Relácão analisada Teste de Friedman Teste de concordân- paalié
+analisado , DE cia de Kendall — W
+Ab Valores brutos das despesas empenhadas em todos 120941 0,972 0,000
+os programas nas LOAs de 2008 a 2011
+ak Valores brutos das despesas empenhadas nos progra- 82811 0981 0,000
+mas finalísticos nas LOAs de 2008 a 2011
+Valores brutos das despesas empenhadas nos progra-
+ALE - 340,51 0,956 0,000
+mas de apoio nas LOAs de 2008 a 2011 ' , ,
+Variação bruta das despesas empenhadas em todos os
+AMs 305,75 0,435 0,000
+programas nos Orçamentos de 2009 e 2011
+Variação bruta das despesas empenhadas em todos
+ANº os programas finalísticos nos Orçamentos de 2009 266,02 0,420 0,006
+e 2011
+o Variação bruta das despesas empenhadas em todos os 142,57 0,534 0013
+programas de apoio nos Orçamentos de 2009 e 2011
+
+ 
+
+Fonte: Pesquisa de campo.
+Legenda:a)Kk=4eN=312;b)k=4eN=212;0)Kk=4eN=90;d)Kk=3eN=312;6)kKk=3eN=212;)kKk=3eN=90.
+
+Na sequência, a tabela 4 mostra os resultados quando se consideram os valores do mes-
+mo ciclo orçamentário (12, 2º e 3º etapas).
+
+Tabela 4
+Resultados dos testes de Friedman e Kendall das escolhas públicas integradas do
+Executivo e do Legislativo nos ciclos orçamentários dos orçamentos de 2009, 2010 e 2011
+
+ 
+
+ 
+
+ 
+
+Ranking Relácão ánialisadá Ano base Teste de , Teste de concordância paia
+
+analisado : da LOA Friedman — X de Kendall — W
+Ap: 381,30 0,409 0,004
+AT 2008 278,93 0,441 0,001
+AXc 62,80 0,235 0,984*
+AQ: 403,80 0,433 0,000
+Au» Valor alocado na 12 etapa da LOA, 2009 281,99 0,459 0,001
+AYS valor realocado na 2º etapa da 102,30 0,383 0,159*
+AR: LOA, valor executado na 3: etapa 521,28 0,559 0,000
+Av da LOA. 2010 361,99 0,571 0,000
+AZ: 151,85 0,569 0,000
+AS: 504,96 0,541 0,000
+awe 2011 333,20 0,526 0,000
+BAc 155,51 0,582 0,000
+
+ 
+
+ 
+
+Fonte: Pesquisa de campo.
+Legenda: a) Todos os programas, Kk=3 e N=312;b) Todos os programas finalísticos, Kk=3 e N=212;c) Todos os programas de apoio,
+K=3eN=90. * Sem significância estatística.
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set /out. 2013
+As escolhas públicas orçamentárias federais no PPA 2008-2011 1109
+
+Observa-se que, quando se consideram as alocações e realocações de recursos dentro do
+mesmo ciclo, a concordância que antes era muito forte na 1º etapa da LOA, moderada na 22
+etapa e muito forte na 3º etapa entre os anos, apresentou-se fraca nos ciclos orçamentários de
+2008 e 2009, e moderada nos ciclos de 2010 e 2011. Outra observação é que a concordância
+para os programas finalísticos foi superior à dos programas de apoio, ressalvado o ciclo de
+2011. Essas observações podem ser visualizadas no gráfico 1.
+
+Gráfico 1
+Teste de Kendall aplicado aos ciclos de 2008 a 2011
+
+ 
+
+0,7
+0,6
+0,5
+04
+4 Todos os Programas
+03 = programas Finalísticos
+
+0,2 Programas de Apoio
+
+01
+
+Ciclo de Ciclo de Ciclo de Ciclo de
+2008 2009 2010 2011
+
+ 
+
+ 
+
+ 
+
+Fonte: Pesquisa de campo.
+
+Por fim, os gráficos 2, 3 e 4 ilustram os resultados do teste de Spearman entre as três
+etapas da LOA.
+
+Gráfico 2
+Teste de Spearman aplicado sobre a 12 e 32 etapas da LOA
+
+ 
+
+0,98
+0,97
+0,96
+0,95
+0,94
+0,93 —— Todos os Programas
+0,92 = Programas Finalísticos
+0,91 Programas de Apoio
+0,9
+0,89
+0,88
+0,87
+2008 2009 2010 2011
+
+ 
+
+ 
+
+ 
+
+Fonte: Pesquisa de campo.
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set/out. 2013
+Wm1o
+
+ 
+
+Giovanni Pacelli Carvalho Lustosa da Costa + Fátima Souza Freire + Ivan Ricardo Gartner + Ademir Clemente
+Gráfico 3
+Teste de Spearman aplicado sobre a 1º e 2º etapas da LOA
+0,4
+0,2
+o
+2008 2010 pat 1 —4— Todos os Programas
+-0,2 —H- programas Finalísticos
+Programas de Apoio
+-04
+-0,6
+-0,8
+
+ 
+
+ 
+
+ 
+
+Fonte: Pesquisa de campo.
+
+Gráfico 4
+Teste de Spearman entre a 2º e 3º etapas da LOA
+
+ 
+
+s =
+
+2008 2009 2010 2011
+=—$— Todos os Programas
+=| programas Finalísticos
+
+Programas de Apoio
+
+ 
+
+ 
+
+ 
+
+Fonte: Pesquisa de campo.
+
+Inicialmente, cabe destacar que não houve significância estatística para os ciclos de
+2010 e 2011 nos gráficos 3 e 4; enquanto nos demais casos o p-value foi menor que 0,005.
+
+Considerando todos os resultados, pode-se concluir que os programas que possuem
+ligação direta com a sociedade apresentaram maior concordância tanto no mesmo poder (na
+mesma etapa) quanto entre todos os poderes (todas as etapas), ressalvado o ciclo de 2011
+pelo teste de Kendall. Apesar da ressalva anterior, quando se considera o teste de Spearman,
+observa-se que os programas finalísticos possuem correlação superior aos programas de apoio
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set /out. 2013
+As escolhas públicas orçamentárias federais no PPA 2008-2011
+
+quando se compara a 12 e a 3º etapas (etapas em que há a maior alocação de recursos), visto
+que na 2º etapa apenas são realocados recursos por meio de emendas.
+
+Dessa forma, considerando a característica de o orçamento federal ser de caráter auto-
+rizativo (em quem o Legislativo desempenha papel de coadjuvante) e que, de fato, a terceira
+etapa é mais preponderante, é razoável afirmar que os programas finalísticos apresentaram
+concordância superior à dos programas de apoio na gestão do PPA 2008-2011, confirmando
+a hipótese estabelecida.!º
+
+5. Considerações finais
+
+Este artigo buscou analisar o comportamento assumido pelo Executivo e pelo Legislativo du-
+rante a gestão do PPA 2008-2011 da perspectiva do modelo principal-agente.
+
+Quando se consideraram valores brutos no período de 2008 a 2011, conclui-se pela
+existência de concordância forte na 1º e na 3º etapas da LOA (isoladamente) e de concordân-
+cia moderada na 2º etapa.
+
+Quando se considerou a relação entre os Poderes Executivo e Legislativo no mesmo Or-
+çamento (1º, 22e 3: etapas da LOA), identificou-se uma concordância fraca nos ciclos de 2008
+e 2009 e moderada nos ciclos de 2010 e 2011. Assim, conclui-se que existe uma concordância
+maior de cada poder em cada etapa da LOA ao longo dos anos do que entre todos os poderes
+no mesmo ciclo orçamentário.
+
+Verificou-se também que, quando se considera apenas a relação simultânea entre a 1º e
+3: etapas da LOA, a correlação é muito forte, e que se torna muito fraca quando se compara a
+2º etapa com a 1º ou a 3º etapa. Assim, observa-se que os valores realocados na 2º etapa não
+são suficientes para diminuir a correlação entre a 1: e 3º etapas que é muito forte, corroboran-
+do estudos anteriores de que o Legislativo desempenha um papel de coadjuvante no processo
+orçamentário.
+
+Por fim, conforme visto no referencial teórico e aplicando os resultados ao modelo
+principal-agente, observa-se que, se, por outro lado, os programas finalísticos possuem uma
+relação direta envolvendo os eleitores e o governo, pois são ofertados bens ou serviços à so-
+ciedade por meio do aparelho estatal, por outro lado, os Programas de Apoio possuem uma
+relação direta envolvendo os burocratas e os políticos, pois não se propõem a ofertar um pro-
+duto diretamente à sociedade, mas sim ao próprio Estado.
+
+Dessa forma, identificou-se na relação externa (entre governo e cidadãos: programas
+finalísticos) uma concordância maior do que na relação interna (entre políticos e burocratas:
+programas de apoio) na comparação da 1º e da 3º etapas. Tal conclusão corrobora o pensa-
+
+ 
+
+155 A concordância entre as etapas na LOA na relação externa (entre políticos e sociedade), que tem como proxy os
+programas finalísticos, é superior na relação interna (entre políticos e burocratas), que tem como proxy os programas
+de apoio às políticas públicas e áreas especiais.
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set/out. 2013
+1112 Giovanni Pacelli Carvalho Lustosa da Costa + Fátima Souza Freire + Ivan Ricardo Gartner + Ademir Clemente
+
+mento de Niskanen de que existem duas relações de principal-agente no setor público, e no
+caso brasileiro a relação externa mostrou-se mais forte.
+
+Tais resultados podem ser decorrentes das seguintes observações (que estudos subse-
+quentes podem se propor a discutir): os programas finalísticos atendem um maior número de
+eleitores; tanto o lobbying quanto a atuação dos grupos de interesse durante o período podem
+ter sido mais uniformes nos programas finalísticos do que nos programas de apoio; os pro-
+gramas de apoio contêm as despesas com pessoal (que, devido à restrição constitucional, não
+sofrem emendas), o que pode ter afetado a análise da 2º etapa da LOA.
+
+Entre as limitações do estudo está o escopo temporal, pois analisou-se apenas uma
+gestão de PPA (quatro anos). Por fim, estudos futuros podem se propor a: verificar se os re-
+sultados no âmbito estadual e municipal se assemelham aos encontrados no âmbito federal;
+analisar um escopo temporal maior, estabelecendo proxys que uniformizem os tipos de pro-
+gramas (no caso federal, os três últimos PPAs apresentam nomenclaturas distintas), mas que
+os segreguem em relação interna e externa.
+
+Referências
+
+ALDRIGHI, Dante M. Uma avaliação das contribuições de Stiglitz à teoria dos mercados financeiros.
+Revista de Economia Política, v. 26, n. 101, p. 137-157, jan./mar. 2006.
+
+ARROW, Kenneth J. Social choice and individual values [1951]. Nova York: John Wiley and Sons,
+963.
+
+1
+BRANDT, Urs S.; SVENDSEN, Gert T. Bureaucrats at sea: a budget catch model. Journal of European
+Public Policy, v. 13, n. 3, p. 329-340, fev. 2007.
+
+BRASIL. Constituição da República Federativa do Brasil. Diário Oficial [da] República Federativa do
+Brasil, Poder Legislativo, Brasília, DF, 5 out. 1988.
+
+BRASIL. Decreto-lei nº 200, de 25 de fevereiro de 1967. Dispõe sobre a organização da Administra-
+ção Federal, estabelece diretrizes para a Reforma Administrativa e dá outras providências. Diário
+Oficial [da] República Federativa do Brasil, Poder Executivo, Brasília, DF, 27 fev. 1967.
+
+BRASIL. Lei Complementar nº 101, de 4 de maio de 2000. Estabelece normas de finanças públicas
+voltadas para a responsabilidade na gestão fiscal e dá outras providências. Diário Oficial [da] Re-
+íblica Federativa do Brasil, Poder Executivo, Brasília, DF, 5 maio 2000. Seção 1, p. 1.
+
+ 
+
+Pp
+
+BRASIL. Lei nº 4.320, de 17 de março de 1964. Estatui normas gerais de direito financeiro para
+elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Dis-
+trito Federal. Diário Oficial [da] República Federativa do Brasil, Poder Legislativo, Brasília, DF, 23
+mar. 1964.
+
+BRASIL. Lei nº 11.653, de 7 de abril de 2008. Dispõe sobre o plano plurianual para o período 2008/2011.
+Diário Oficial [da] República Federativa do Brasil, Poder Executivo, Brasília, DF, 8 abr. 2008.
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set /out. 2013
+As escolhas públicas orçamentárias federais no PPA 2008-2011
+
+BRASIL. Lei nº 12.465, de 12 de agosto de 2011. Dispõe sobre as diretrizes para a elaboração e
+execução da Lei Orçamentária de 2012 e dá outras providências. Diário Oficial [da] República Fe-
+derativa do Brasil, Poder Executivo, Brasília, DF, 15 ago. 2011b.
+
+BRASIL. Lei nº 12.593, de 18 de janeiro de 2012. Institui o Plano Plurianual da União para o perío-
+do de 2012 a 2015. Diário Oficial [da] República Federativa do Brasil, Poder Executivo, Brasília, DF,
+19 jan. 2012.
+
+BRASIL. Ministério do Planejamento, Orçamento e Gestão. Secretaria de Orçamento Federal. Ma-
+nual técnico de orçamento — MTO. Versão 2011. Brasília, 2010b. Disponível em: <www.portalsof.
+planejamento.gov.br/bib/MTO>. Acesso em: 12 jan. 2011.
+
+BRASIL. Ministério do Planejamento, Orçamento e Gestão. Secretaria de Planejamento e Investi-
+mentos Estratégicos — SPI. Indicadores de programas: guia metodológico. Brasília: MP, 2010a.
+
+BRASIL. Ministério do Planejamento, Orçamento e Gestão. Disponível em: <www.planejamento.
+gov.br/link secretaria.asp?cod=213&cat =310&sec=4&sub=295>. Acesso em: 1o jun. 2013.
+
+BRASIL. Secretaria do Tesouro Nacional. Manual de contabilidade aplicado ao setor público — Parte
+I. 4. ed. Brasília, 2011a.
+
+BRASIL. Senado Federal. Disponível em: <www.senado.gov.br/portal/ page/portal/orçamento se-
+nado/SigaBrasil>. Acesso em: 1o Jun. 2013.
+
+BUCHANAN, James M. La perspectiva de elección pública. 1983. Disponível em: <www.eumed.net/
+cursecon/textos/buchanan-elecc-publica.htm>. Acesso em: 6 ago. 2011.
+
+BUCHANAN, James M.; TULLOCK, Gordon. The calculus of consent: the logical foundations of con-
+stitutional democracy. Ann Arbor: The University of Michigan Press, 1962.
+
+CAPLAN, Bryan. The myth of rational voter: why democracies choose bad policies. Princeton: Prin-
+ceton University Press, 2007.
+
+COLLIS, Jill; HUSSEY, Roger. Pesquisa em administração: um guia prático para alunos de graduação
+e pós-graduação. 2. ed. Porto Alegre: Bookman, 2005.
+
+CONOVER, William J. Practical nonparametric statistics. 3“ edition. Nova York: John Wiley & Sons,
+1999.
+
+DIAMOND, Jack. A note on the public choice approach to the growth in government expenditure.
+Washington, DC: International Monetary Fund, 1988.
+
+DOWNS, Anthony. An economic theory of democracy. Nova York: Harper & Row, 1957.
+
+DUFFY, Mary E. Methodological triangulation: a vehicle for merging quantitative and qualitative
+research methods. Journal of Nursing Scholarship, v. 19, n. 3, p. 30-133, set. 1987.
+
+DURANT, Will. História da filosofia. Tradução de Luiz Carlos do Nascimento Silva. [s.n.]: Nova
+Cultural, 1996.
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set/out. 2013
+1114 Giovanni Pacelli Carvalho Lustosa da Costa + Fátima Souza Freire + Ivan Ricardo Gartner + Ademir Clemente
+
+FERRAZ, Claudio; FINAN, Frederico. Exposing corrupt politicians: the effects of Brazil's publicly
+released audits on electoral outcomes. The Quarterly Journal of Economics, v. 123, n. 2, p. 703-745,
+maio 2008.
+
+FINNEY, David. J. Statistics for biologists. Londres: Chapman and Hall, 1980.
+GIACOMONI, James. Orçamento público. 15. ed. São Paulo: Atlas, 2010.
+
+JENSEN, Michael C.; MECKLING, William H. Theory of the firm: managerial behavior, agency costs
+and ownership structure. Journal of Financial Economics, v. 3, n. 4, p. 305-360, out. 1976.
+
+JIMÉNEZ, Lina M. L. Efectividad de los procedimientos de participación ciudadana establecidos
+por la Ley 152 de 1994 en la discusión de los planes de desarrollo: un análisis desde la teoría de la
+elección pública. Contexto — Revista de Derecho y Economia, n. 29, p. 93-123, 2008.
+
+JOHNSON, Marianne. The Wicksellian unanimity rule: the competing interpretations of Buchanan
+and Musgrave. Journal of the History of Economic Thought, v. 28, n. 1, p. 57-79, mar. 2006.
+
+KOLLMANN, Andrea; SCHNEIDER, Friedrich. Why does environmental policy in representative
+democracies tend to be inadequate? A preliminary public choice analysis. CESIFO Working Paper, n.
+322, category 2: Public Choice, out. 2010. Disponível em: <www.cesifo-group.de/ifoHome/publica-
+tions/working-papers/CESifoWP/CESifoWPdetails?wp id=14553181>. Acesso em: 6 jun. 2012.
+
+LEGENDRE, Pierre. Species Associations: The Kendall coefficient of concordance revisited. American
+Statistical Association and the International Biometric Society Journal of Agricultural, Biological, and
+Environmental Statistics, v. 10, n. 2, p. 226-245, 2005.
+
+LEMIEUX, Pierre. The public choice revolution. Regulation, v. 27, n. 3, p. 22-29, Fall 2004.
+
+LIMA, Edilberto C. P. Algumas observações sobre Orçamento Impositivo no Brasil. Planejamento e
+Políticas Públicas, Brasília, n. 26, jun./dez. 2003.
+
+LIMONGI, Fernando; FIGUEIREDO, Argelina. Processo orçamentário e comportamento legislativo:
+emendas individuais, apoio ao executivo e programas de governo. Dados — Revista de Ciências
+Sociais, v. 48, n. 4, p. 737-776, out./dez. 2005.
+
+MAUERBERG JÚNIOR, Arnaldo; STRACHMAN, Eduardo; REAMI, Daniela de O. The logrolling in the
+Brazilian Senate in a social network analysis perspective. In: THE MIDWEST POLITICAL SCIENCE
+ASSOCIATION — MPSA — 71ST ANNUAL CONFERENCE, 2013, Chicago. The Midwest Political
+Science Association — MPSA — 71st Annual Conference Book of Articles. Chicago: 2013.
+
+McCHESNEY, Fred S. Money for nothing: politicians, rent extraction, and political extortion. Cam-
+brigde: Harvard University Press, 1997.
+
+MIGNOZZETTI, Umberto G.; GALDINO, Manoel; BERNABEL, Rodolpho T. Um modelo para explicar
+as coligações eleitorais para a Câmara Federal Brasileira (1998-2006). Revista Política Hoje, v. 20,
+n. 2, p. 741-788, 2011.
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set /out. 2013
+As escolhas públicas orçamentárias federais no PPA 2008-2011
+
+MONTEIRO, Jorge V. Equívoco analítico & celebração do Plano Real. Revista de Administração
+Pública, Rio de Janeiro, v. 44, n. 2, p. 271-282, mar./abr. 2010.
+
+MONTEIRO, Jorge V. Governo e crise: escolhas públicas no Brasil e no mundo, 2007-2011. Rio de
+Janeiro: Editora FGV, 2011.
+
+MORSE, Janice M. Approaches to qualitative-quantitative methodological triangulation. Nursing
+Research, v. 40, n. 1, p. 120-132, 1991.
+
+MUELLER, Dennis C. Public choice: a survey. Journal of Economic Literature, v. 14, n. 2, p. 395-
+433, jun. 1976.
+
+NISKANEN, William A. Bureaucracy and representative government. Chicago: Aldine-Atherton,
+1971.
+
+OLSON, Mancur. The rise and decline of nations: economic growth and stagflation and social rigi-
+dities. Yale: Yale University Press, 1982.
+
+PARDO, José C.; PARRA, Bru. Economía y política escritos seleccionados. Valência: Universitat de
+Valência, 1988.
+
+PEREIRA, Paulo T. A Teoria da Escolha Pública (public choice): uma abordagem neoliberal? Análise
+Social, v. 32, n. 141, p. 419-442, 1997.
+
+SAMPLES, John. Financiamento de campanhas pelo governo: escolha pública e valores públicos.
+Encarte especial da Revista Think Tank, ano VIII, n. 27, jun./ago. 2004.
+
+SAMUELSON, Paul A.; NORDDHAUS, William D. Economia. Tradução de Elsa Nobre Fontainha e
+Jorge Pires Gomes. 14. ed. Portugal: McGraw-Hiil, 1993.
+
+SATO, Fábio R. L. A teoria da agência no setor da saúde: o caso do relacionamento da Agência
+Nacional de Saúde Suplementar com as operadoras de planos de assistência supletiva no Brasil.
+Rey. de Adm. Pública, Rio de Janeiro, v. 41, n. 1, p. 49-62, jan./fev. 2007.
+
+SCHUMPETER, Joseph A. Capitalism, socialism and democracy [1942]. Nova York: Harper & Row,
+1950.
+
+SHUGHART, William F. II; RAZZOLINI, Laura. The Elgar companion to public choice. Cheltenham,
+UK: Edward Elgar, 2001.
+
+SIEGEL, Sidney. Estatística não paramétrica para as ciências do comportamento. Tradução de Alfredo
+Alves de Farias. São Paulo: MacGraw-Hill, 1975.
+
+SIEGEL, Sidney; CASTELLAN, Norman J. Nonparametric statistics for the behavioral sciences. 2º“ ed.
+Nova York: McGraw-Hill, 1988.
+
+SILVA, Marcos F. G. Constituição, finanças públicas e desempenho econômico. Relatório de pesquisa,
+Núcleo de Pesquisas e Publicações da Fundação Getulio Vargas. São Paulo: EAESP/FGV-SP, 1997.
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set/out. 2013
+1116 Giovanni Pacelli Carvalho Lustosa da Costa + Fátima Souza Freire + Ivan Ricardo Gartner + Ademir Clemente
+
+SILVA, Marcos F. G. O processo orçamentário no Brasil. Relatório de pesquisa, Núcleo de Pesquisas e
+Publicações da Fundação Getulio Vargas. São Paulo: EAESP/FGV-SP, 1995.
+
+TULLOCK, Gordon; SELDON, Arthur; BRADY, Gordon L. Falhas de governo: uma introdução à teoria
+de escolha pública. Rio de Janeiro: Instituto Liberal, 2005.
+
+WILDAVSKY, Aaron. The new politics of the budgetary process. Glenview, Illinois: Scott, Foresman
+and Company, 1988.
+
+WRIGHT, Peter. Impact of the corporate insider, blockholder and institucional ownership on firm-
+risk taking. Academy of Management Journal, v. 39, n. 2, p. 441-463, 1996.
+
+Giovanni Pacelli Carvalho Lustosa da Costa é doutorando e mestre em ciências contábeis pela Univer-
+sidade de Brasília e coordenador geral da DCTEQ na Controladoria Geral da União. E-mail: giovanni.
+costaQcgu.gov.br.
+
+Fátima Souza Freire é doutora em economia pela Université des Sciences Sociales de Toulouse I e pro-
+fessora associada da Universidade de Brasília. E-mail: ffreireOunb.br.
+
+Ivan Ricardo Gartner é doutor em engenharia de produção pela Universidade Federal de Santa Catarina
+(UFSC) e professor adjunto II da Universidade de Brasília. E-mail: irgartnerOunb.br.
+
+Ademir Clemente é doutor em engenharia de transportes pela Coppe e professor adjunto da Universidade
+Federal do Paraná (UFPR). E-mail: ademirOufpr.br.
+
+Rev. Adm. Pública — Rio de Janeiro 47(5):1089-116, set /out. 2013
+

@@ -1,0 +1,1351 @@
+ 
+
+SENADO FEDERAL
+UNIVERSIDADE DO LEGISLATIVO BRASILEIRO
+UNILEGIS
+
+MARIA SÁDIA BATISTA
+
+PROJETO SIGA BRASIL: NOS LIMITES DA INTERNET
+
+BRASÍLIA-DF
+2008
+GS
+al
+
+UNILEGIS
+
+MARIA SÁDIA BATISTA
+
+PROJETO SIGA BRASIL: NOS LIMITES DA INTERNET
+
+Trabalho final apresentado para aprovação no
+curso de pós-graduação latu sensu em
+Comunicação Legislativa realizado pela
+Universidade do Legislativo Brasileiro e
+como requisito para obtenção do titulo de
+especialista em Comunicação Legislativa.
+
+Orientadora: Valéria Ribeiro da Silva Franklin
+Almeida
+
+Brasília-DF
+2008
+PROJETO SIGA BRASIL: NOS LIMITES DA INTERNET
+
+Trabalho de Conclusão do Curso de Especialização em
+Comunicação Legislativa pela Universidade do Legislativo
+Brasileiro no 2º semestre de 2008.
+
+Maria Sádia Batista
+
+Banca Examinadora:
+
+Ana Lúcia C. R. Novelli
+
+Brasília, 12 de novembro de 2008.
+Para Valéria Ribeiro, minha orientadora, que
+conseguiu através do brilho intenso da sua
+própria luz, clarear a minha escuridão,
+ultrapassando os limites do humano já na seara
+do Divino.
+AGRADECIMENTOS
+
+Ao Senado Federal que em sintonia com o
+maior clamor da humanidade investe na
+cultura.
+
+A UNILEGIS que mesmo contando com tão
+poucos anos de existência já revela o seu
+caráter digno, através de uma direção dinâmica
+e colaboradores atentos que supriram toda a
+necessidade apresentada no transcorrer do
+curso.
+
+Aos meus amigos e colegas de trabalho e de
+curso que me apoiaram em todos os
+momentos, não permitindo que eu desistisse
+diante dos obstáculos.
+RESUMO
+
+A presente monografia se propõe a verificar se a Internet no âmbito do
+Projeto SIGA BRASIL tem sido eficaz enquanto instrumento de divulgação das
+informações relativas ao planejamento, orçamento, fiscalização e controle das ações
+do Poder Público que envolvem recursos públicos da União, de modo a atingir o
+objetivo maior do Projeto, que é a divulgação dessas informações de forma
+transparente e acessível a todos. Para tanto, a pesquisa percorre a história evolutiva
+da instituição Senado, bem como do Orçamento Público, passando pelo surgimento
+e funcionamento da Internet, para finalmente enfocar, de forma detalhada, o Projeto
+SIGA BRASIL, eixo central de todo o processo e seu funcionamento através da
+Internet.
+
+Palavras-chave: Orçamento, Senado Federal, SIGA BRASIL, Internet, transparência.
+LISTAS DE ABREVIATURAS E SIGLAS
+
+BI - Business Inteligence
+
+BO - Business Object
+
+CONORF - Consultoria de Orçamentos, Fiscalização e Controle
+CPI - Comissão Parlamentar de Inquérito
+
+DW - Data Warehouse
+
+LDO - Lei de Diretrizes Orçamentárias
+
+LOA - Lei Orçamentária Anual
+
+PPA - Plano Plurianual
+
+PRODASEN - Secretaria Especial de Informática
+
+SELOR - Sistema de Elaboração Orçamentária
+
+SIAFI - Sistema Integrado de Administração Financeira do Governo Federal
+SIASG - Sistema Integrado de Administração de Serviços Gerais
+SIDOR - Sistema Integrado de Dados Orçamentários
+
+SIGA BRASIL - Sistema de Informações Gerenciais Avançadas
+
+SIGPLAN - Sistema de Informações Gerenciais e de Planejamento do Plano
+Plurianual
+
+WI - Web Intelligence
+SUMÁRIO
+
+INTRODUÇÃO ... aerea eee 9
+1 HISTÓRIA DO SENADO ..iccssscirssseieaneereeneireneeraaaerisareranaeerareeanaess 1
+2 ORÇAMENTO PÚBLICO .....csscciseereseerereereareerreraaaeeraraeranaasenatasa 17
+2.1 Conceituação .......srreeierereereereea roncar nar aaeerer err aea rece nene neenneana 17
+2.2 Contexto Histórico! msn aanzanas ses nn canino 17
+3SIGA BRASIL... ereta aerea ana aereararn arenas 22
+3.1 Internet a. aeee aerea aeee renascer 25
+
+3.1.1 O surgimento da internet e o seu uso como instrumento de
+
+COMUNICAÇÃO sauna ca a eo 25
+3.1.2 Inclusão e exclusão digital ......... serena rear reeereseenerrennos 30
+40 PROCESSO EVOLUTIVO DO SIGA BRASIL... 33
+4,1 0 SIGA BRASIL.E A INTERNET «azaanoanazasore noso ua 35
+CONCLUSÃO... ssieeerearerarearearerarea near ers era ren aereas ens arara sen seranas 41
+
+REFERÊNCIAS .....ccsssssertaataeaaaaseeeraaaaaaaa arara aaa tacar nana erraaa rated 44
+INTRODUÇÃO
+
+A Constituição Brasileira determina que cabe ao Congresso Nacional a
+fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e
+das entidades da administração direta e indireta, quanto à legalidade, legitimidade,
+economicidade, aplicação das subvenções e renúncias de receitas.
+
+Objetivando cumprir a norma constitucional o Senado Federal firmou
+através da Consultoria de Orçamentos, Fiscalização e Controle do Senado Federal -
+CONORF parceria com a Secretaria Especial de Informática - PRODASEN para em
+conjunto desenvolver o Sistema de Informações Orçamentárias Gerenciais
+Avançadas - SIGA, que tem por objetivo, prioritariamente, disponibilizar, de forma
+gerencial, os dados atinentes ao planejamento, orçamento, fiscalização e controle na
+esfera federal.
+
+Assim é que em 2004 foi implantada a primeira fase do Projeto SIGA
+BRASIL, o qual inicialmente disponibilzava aos gabinetes dos senadores e à
+imprensa da Câmara dos Deputados e do Senado Federal e, posteriormente, à
+sociedade em geral, via Internet, com acesso livre e de forma simplificada, as
+informações contidas nas várias bases de dados que compõem o orçamento da
+União.
+
+Nesse contexto, o presente trabalho tem por escopo verificar se a
+Internet, no âmbito do Projeto SIGA BRASIL, tem sido eficaz enquanto instrumento
+de divulgação das informações relativas ao planejamento, orçamento, fiscalização e
+controle das ações governamentais envolvendo recursos públicos da União, de
+modo a atingir o objetivo maior do Projeto.
+
+O trabalho apresenta-se com a seguinte estrutura básica:
+
+O primeiro capítulo versa sobre a história do Senado desde a sua criação
+até os tempos atuais.
+
+No capítulo dois é abordada a questão do Orçamento Público, cuja
+divulgação de forma transparente ao cidadão comum, representa o eixo central do
+10
+
+SIGA BRASIL.
+
+O capítulo três descreve o Projeto SIGA BRASIL em sua fase inicial,
+tendo como subcapítulos a Internet e a Exclusão Digital e, finalmente, o capítulo
+quatro enfoca a evolução do Projeto SIGA BRASIL.
+
+Como método de trabalho, esta pesquisa optou por apoiar-se na tradição
+bibliográfica, em entrevistas com especialistas e interessados no assunto e na coleta
+de dados sobre a esquematização e o uso do Projeto SIGA BRASIL,
+11
+
+1 HISTÓRIA DO SENADO
+
+A história do surgimento da instituição Senado faz-se necessária como
+corpo deste trabalho, a fim de que se compreenda não somente como o mesmo
+surgiu, mas sob quais bases funciona este órgão, que, hoje, ao lado da Câmara dos
+Deputados forma o Poder Legislativo Federal, de onde se origina a legislação que
+rege a vida da sociedade brasileira.
+
+Tendo como origem a palavra latina senatus a qual descende de senex,
+que significa velho, idoso, o Senado, nascido na Roma Antiga, sob a denominação
+de um Conselho de Anciãos, era o órgão a que habitualmente o governo ouvia antes
+de tomar suas decisões. Antes ainda, nas origens mais remotas dos povos Gregos,
+já existia esse conselho de anciãos que funcionava como uma espécie de Senado,
+no sentido de instância legislativa e judicante.
+
+Segundo conta Vamireh Chacon, em sua “História Institucional do Senado
+do Brasil” (1997), o poeta grego Homero, em suas obras descreve a atuação do
+conselho de anciãos em importantes decisões da Guerra de Tróia e na Odisséia.
+Este é o caso da descrição da volta à pátria Ítica, do remanescente Ulisses que
+consulta os mais velhos, o que comprova o enraizamento da instituição entre usos e
+costumes helênicos mais antigos.
+
+Em outra passagem, Vamireh Chacon fala sobre o aparecimento da
+boulé, palavra grega, significando “deliberação”, verbo bouléuo, “aconselhar”. No
+começo, a boulé era composta por menos de cem membros e depois atingiu 500
+integrantes, momento em que foi feita uma subdivisão em duas câmaras, uma mais
+numerosa do que a outra, sementes da divisão moderna de Câmara e Senado.
+
+A palavra Senado tem por definição, no Dicionário Cultural da Língua
+Portuguesa (1997), assembléia de senadores; lugar onde os senadores se reúnem.
+Essa característica 'de assembléia” vem desde o início das atividades da boulé que
+12
+
+consistia na elaboração de minutas para discussão e aprovação pela assembléia-
+geral do povo ateniense, a ecclesia grega, como era chamada. Dessa forma iniciou-
+se um comportamento social baseado nas necessidades organizacionais dos povos,
+modelo este que foi sendo adequado e aprimorado ao longo do tempo das
+civilizações ocidentais.
+
+Mesmo assim, o sistema grego enfraqueceu-se. O historiador Gustavo
+Glotz (1980, 280) analisa que com a generalização indiscriminada de subsídios para
+os recursos aos serviços essenciais (óbolos) dividem-se os saldos orçamentários, e
+as necessidades permanecem as mesmas, gerando assim um círculo vicioso. Como
+cita Vamireh Chacon, (1997), essa foi uma das previsões de Sólon, principal
+legislador ateniense, acerca do assunto:
+
+O desprezo às leis (disnomia) é, para a cidade, causa de males
+inumeráveis; o império da lei (eunomia), entretanto, restabelece a
+boa ordem e a harmonia e põe grilhões aos malvados.
+(Chacon,1997, 13)
+
+A democracia grega conseguira, à essa época, a superação da crise
+através de novas conquistas sociais, mas não o suficiente, tendo em vista o
+desperdício de recursos públicos, fato este que tornou a Grécia incapaz de
+responder aos desafios, levando a democracia grega ao esgotamento.(Chacon,
+1997,13).
+
+Da mesma forma que a Grécia, Roma também teve o seu período de
+mudanças governamentais, onde a própria história romana confunde-se com a do
+seu Senado, uma vez que o próprio Imperador da época escolhera, entre os seus
+melhores súditos, aqueles que formariam o conselho consultivo. Em 510 a.C., o
+Senado torna-se um tipo de assessoria dos cônsules e passa a cumprir o papel de
+fiscalizador e ratificador das decisões, patrum auctoritas. Com o passar do tempo, o
+Senado foi estendendo seus poderes. Rostoutzeff, citado por Chacon (1997), um
+dos principais historiadores de Roma, professor da universidade de Oxford conclui:
+“O Senado era quase onipotente”,
+
+Contudo, surge outra crise que na interpretação de Max Weber, também
+em análise de Chacon (1997) tinha a raiz de seu problema na dificuldade de
+conciliar mudança social com controle social em meio à multiplicação de pessoas,
+13
+
+culturas e interesses. Assim o modelo Senado foi evoluindo, passando pelos gregos
+e romanos até sua implantação nos moldes atuais, desde a antiguidade clássica,
+superando as experiências totalitárias e estabelecendo a democracia representativa.
+De lá para cá, os pensadores, em sua grande maioria, concordam com a idéia, de
+que o parlamento tem se fortalecido em todos os continentes, como pólo
+centralizador dos grandes debates e decisões políticas dos países.
+
+A criação do Senado brasileiro teve sua origem nas mesmas razões
+sociais mediante as quais surgiram vários outros senados do mundo emergidos no
+bojo dos modernos Estados Nacionais. Basicamente, para suprir as necessidades
+que uma sociedade organizada tem de possuir seus representantes, há de ser
+regida e dispor de leis, com a finalidade primordial de preservar a Federação, a
+harmonia entre os Estados e a soberania Nacional.
+
+Com a Proclamação da República, em 15 de Novembro de 1889, o
+governo provisório dissolveu o Senado e a Câmara e, em 1890 elegeu a nova
+Assembléia Constituinte, composta por 205 deputados e 63 senadores.
+
+Em 1891, a assembléia aprovou o texto da primeira Constituição
+Republicana, que foi muito influenciada pela carta Norte Americana, passando assim
+o Senado a não ser mais vitalício. Os senadores passaram a ser em número fixo de
+três representantes por Estado, cada um com mandato de 9 anos e exigência de
+idade mínima de 35 anos para ser nomeado. A partir daí, as constantes crises no
+regime implantado acabaram por destinar ao Senado o papel de núcleo de debate
+político nacional, onde as grandes questões contavam com a participação decisiva
+deste órgão e de vários de seus integrantes, cujos debates parlamentares e
+capacidade de oratória alçaram renome nacional. (Chacon, 1997)
+
+Porém, com a Revolução de 1930 ocorreu o fim da atividade senatorial no
+Brasil. A constituinte de 1934 delegou à Câmara dos Deputados a tarefa de exercer
+o Poder Legislativo, com a colaboração do Senado Federal. Em 1946, o Senado
+recupera sua função de casa de Federação, e em 1988, com a promulgação da
+Constituição, funda-se o marco jurídico do novo tempo de liberdade, democracia e
+cidadania, em um esforço de edificação de uma nova ordem, voltando o Senado a
+ocupar o papel de um dos pólos do debate político nacional.
+14
+
+Além de legislar, suas atuais atribuições vão desde o controle do
+endividamento da União, dos Estados e dos Municípios, até a aprovação da escolha
+de autoridades, rolagem de dívida ou tomada de empréstimo por parte da União,
+todas as ações sujeitas à autorização dos senadores. Ainda cabe ao Senado julgar
+o Presidente da República e seu vice nos crimes de responsabilidade, os Ministros
+do Supremo Tribunal Federal, o Procurador Geral da República e o Advogado Geral
+da União (Constituição Federal /88 - art.52).
+
+Atualmente cada senador é eleito para um mandato de oito anos, feita a
+renovação dos representantes da Casa a cada quatro anos durante as eleições
+municipais em eleições diretas, quando são eleitos 27 senadores, o que significa a
+renovação de 1/3 dos membros do Senado. Na eleição seguinte, coincidentes com
+as eleições gerais, são renovados os demais 2/3 de integrantes desta instituição,
+totalizando 81 senadores.
+
+O Senado é integrado por representantes das 27 unidades da Federação.
+Assim como nos moldes antigos, a idade mínima para ser candidato é de 35 anos,
+desde que este seja detentor de plenos direitos políticos e indicação de algum
+partido político regularmente registrado na J ustiça Eleitoral. (Constituição Federal/88
+- ant 14).
+
+No Senado Federal, as inovações introduzidas pela Constituição de 1988
+e pelo Regimento Interno resultaram no aprimoramento e modernização do processo
+legislativo, que compreende a elaboração de emendas à Constituição, Leis
+Complementares, Leis Ordinárias, Leis Delegadas, Medidas Provisórias, Decretos
+Legislativos e Resoluções. Na atualidade, somente depois de aprovado pelo Senado
+e pela Câmara o projeto é enviado para sanção do Presidente da República.
+
+De acordo com o Regimento Interno da Casa, o Senado possui dois tipos
+Comissões: as comissões permanentes e as comissões temporárias.
+
+As Comissões permanentes, além da Comissão Diretora são doze:
+
+1 - Comissão de Assuntos Econômicos - CAE;
+2 - Comissão de Assuntos Sociais - CAS;
+
+3- Comissão de Constituição, ) ustiça e Cidadania - CCJ;
+15
+
+4 - Comissão de Educação, Cultura e Esporte - CE;
+
+5- Comissão de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle -
+CMA;
+
+6 - Comissão de Direitos Humanos e Legislação Participativa - CDH
+
+7 - Comissão de Relações Exteriores e Defesa Nacional - CRE
+
+8 - Comissão de Serviços de Infra-estrutura - Cl;
+
+9 - Comissão de Desenvolvimento Regional e Turismo - CDR
+
+10 - Comissão de Ciência, Tecnologia , Inovação, Comunicação e Informática - CCT
+11 - Comissão de Agricultura e Reforma Agrária - CRA
+
+12 - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização - CMO!,
+
+Além das comissões permanentes citadas, a Constituição prevê as
+Comissões Parlamentares de Inquérito - CPI, que são comissões criadas com o fim
+precípuo de investigar denúncias de irregularidades no âmbito do Governo Federal,
+tendo caráter provisório; as especiais para o estudo de assuntos específicos; as
+comissões para exame de projetos de lei, de código, as destinadas a instruir
+processo de perda de mandato de senador e as criadas para reformar o Regimento
+Interno do Senado.
+
+O Senado atual chegou ao estágio em que a disseminação das
+informações tornou-se peça fundamental para o acompanhamento transparente de
+seus trabalhos. Diferente do modelo inicial, hoje a comunicação entre poder e povo,
+senador e eleitor, faz-se peça fundamental dentro do processo democrático. Por este
+motivo, para que os trabalhos dos senadores pudessem ser acompanhados por
+todos os cidadãos, foi criado, no âmbito da estrutura da Casa, um sistema de
+comunicação formado por uma Agência de notícias, a Agência Senado, responsável
+pela cobertura jornalística e divulgação on-line dos trabalhos do Senado, o Jornal do
+Senado, distribuído diariamente no Distrito Federal e semanalmente para outras
+localidades do país; uma emissora de rádio, a Rádio Senado, que transmite ao vivo
+as sessões Plenárias também para o Distrito Federal e entorno e, ainda, uma
+emissora de televisão, a TV Senado, que pode ser vista em Brasília e em outras oito
+
+1 A Comissão Mista de Planos, Orçamentos Públicos e Fiscalização pertence ao Congresso Nacional, onde o
+Senado Federal participa como membro.
+16
+
+capitais do país, com transmissões ao vivo das atividades dos senadores e uma
+programação que inclui jornalismo, entretenimento, cultura e educação.
+
+O Senado oferece ainda à população um serviço 0800 - A Voz do Cidadão
+- criado e mantido pela subsecretaria de Relações Públicas do Senado, e que visa à
+facilitar a comunicação entre a sociedade e o Senado Federal. Nesta mesma linha,
+de fornecer informação legislativa e de outras áreas do conhecimento, para a
+população, o Senado possui uma biblioteca, que dispõe de acervo aberto para
+consulta, vários deles já em meio digital e ainda uma subsecretaria de edições
+técnicas, órgão responsável pela publicação de obras relacionadas aos trabalhos
+legislativos do Senado Federal.
+
+Finalmente e neste contexto, pode-se citar a criação, no ano de 2004, do
+sistema de pesquisa do orçamento público, via Internet, o Projeto Siga Brasil, que
+surge como mais uma ferramenta de transparência das atividades senatoriais. É
+sobre esse instrumento específico que o presente trabalho se volta para visualizar o
+atual estágio da oferta de informação orçamentária ao cidadão empreendido pelo
+Senado.
+17
+
+2 ORÇAMENTO PÚBLICO
+
+2.1 Conceituação
+
+Por tratarmos neste trabalho de um serviço que tem como função tornar
+transparente o planejamento dos gastos públicos do país, especificamente na etapa
+sobre atribuição do Legislativo, teremos que conceituar orçamento público, mesmo
+que de forma simples e sintética. Para isto, podemos adotar como ponto de partida a
+busca da palavra orçamento no dicionário, definido como “ação ou efeito de orçar;
+apreciação do que é preciso para se realizar qualquer obra; cálculo da receita e da
+despesa; cômputo” (Dicionário Cultural da Língua Portuguesa, 1997, 959).
+
+2.2 Contexto Histórico
+
+Apesar de existirem referências mais antigas na história da humanidade
+sobre a limitação do poder de tributar, como por exemplo, as encontradas no Código
+de Manu, considerado como a legislação mais antiga da Índia e que representa,
+historicamente, a primeira organização geral da sociedade, e no Pentateuco,
+legislação mosaica, criada por Moisés e disposta em quatro livros, as raízes do
+orçamento, como instituto, se situam na Idade Média. A origem dos orçamentos está
+ligada à origem do poder de tributar e este, segundo Aliomar Baleeiro (1990) tem
+berço na chamada “cúria régia” dos povos europeus, que consistia em um conselho
+de nobres sacerdotes que assistiam o monarca em certas resoluções importantes de
+interesse coletivo. A tributação era um dos assuntos relevantes desses conselhos.
+Após as representantes do comércio e dos ofícios do povo das cidades se juntarem
+aos do clero e da aristocracia, a “cúria régia” transformou-se em “corte”, isto é, uma
+grande assembléia de classes que examinava a concessão de tributos
+extraordinários solicitados pela coroa em cartas emergenciais ou para outras
+decisões políticas.
+
+Outros estudiosos, como James Giacomoni, autor da obra Orçamento
+Público (2003), consideram que o embrião do orçamento público surgiu na Inglaterra
+18
+
+Medieval, em 15 de J unho de 1215, quando foi assinada e divulgada a Magna Carta
+Borunorum pelo Rei João Sem Terra (King John Lackland), devido às pressões
+realizadas pelos barões feudais que buscaram limitar o poder de tributar dos reis. O
+artigo 12 determinava que:
+
+(...) nenhum tributo ou auxílio será instituído no reino, senão pelo
+conselho comum, exceto com o fim de resgatar a pessoa do rei,
+sagrar seu primogênito cavalheiro e casar sua filha mais velha, e os
+auxílios para esse fim deverão ser de valor razoável. (Giacomoni,
+2003, 45)
+
+Esse documento é considerado como o ponto de partida do conceito de
+Orçamento Público. Mesmo não citando diretamente a questão da despesa pública,
+esse artigo estabeleceu a primeira forma de controle do “Parlamento” sobre a
+monarquia absolutista, ou seja, o princípio tributário do consentimento. É o primeiro
+passo para as novas reivindicações e direitos que surgiriam depois disso. Em 1787,
+foi aprovada pela Câmara dos Comuns da Inglaterra, a lei do Fundo Consolidado.
+Segundo Jesse Burkhead, (1971,5), este regramento representou um avanço
+significativo nas finanças públicas inglesas, pois estabelecia tributos fixos para a
+manutenção da máquina administrativa do Governo. A partir de 1822, o chanceler do
+Erário (Ministro da Fazenda) passou a apresentar ao Parlamento uma exposição que
+fxava a receita e a despesa de cada exercício, momento a partir do qual
+incorporou-se o termo “abrir o orçamento”, que usamos até os dias atuais.
+
+Assim como no caso Inglês, na França, a instituição orçamentária surgiu
+posteriormente à adoção do princípio do consentimento popular do imposto,
+autografado, de fato, pela Revolução Francesa de 1789. De acordo com Burkhead
+(1971, 10), o sistema orçamentário francês ajudou a consolidar algumas regras
+(princípios) orçamentárias, hoje consideradas básicas: anualidade do orçamento,
+votação do orçamento antes do início do exercício, o orçamento deve ter todas as
+previsões financeiras para o exercício (universalidade) e não vinculação de itens de
+receita e despesas específicas (não afetação das receitas).
+
+No Brasil, a revolta de Felipe dos Santos, em 1720; a Inconfidência
+19
+
+Mineira, em 1789; a Revolta Farroupilha, em 1820; a Revolta do Quebra Quilo, em
+1896, entre outros, são exemplos que marcaram, no país, o descontentamento dos
+cidadãos em relação à cobrança de impostos sem o respeito aos princípios da
+legalidade e do consentimento. Com a chegada de D. ) oão VI, em 1808, iniciou-se a
+organização das finanças públicas. A abertura dos portos, com a consequente
+criação de tributos aduaneiros, gerou a necessidade de se criar o Erário Público
+
+(Tesouro).
+
+Como República Federativa e Estado Democrático de Direito, é previsto
+na Constituição brasileira que sejam cultivados os fundamentos de cidadania e
+também o preparo do cidadão para o exercício dessa cidadania.
+
+Para José Matias Pereira, em seu livro Finanças públicas: a política
+orçamentária no Brasil (2006), as tendências de mudanças nas funções do Estado
+sinalizam evidente propensão no sentido de um retorno a suas atividades clássicas,
+acrescidas do papel de regulador da economia e protetor dos direitos sociais,
+interferindo nas atividades econômicas, política e social, por meio de diferentes
+políticas. O Estado Nacional, em que pesem suas limitações, especialmente as
+impostas pelo fenômeno da Globalização, ainda se apresenta como um agente
+indispensável para atender aos anseios e aspirações da sociedade. Segundo ele,
+isto “se realiza por sua (do Estado) função como ente regulador; na promoção do
+desenvolvimento, redistribuição da renda; na estabilização da economia; e, ainda,
+nas atividades da economia; meio da produção e fornecimento de bens e serviços
+públicos”,
+
+Analisando a questão orçamentária desde seu nascimento até seu
+processo evolutivo nas sociedades, observamos que sempre existiu a necessidade
+do controle em relação a gastos/finanças, sendo esta uma questão antiga entre a
+humanidade. No Brasil não poderia ser diferente, afinal nossa sociedade assim
+como qualquer outra, tem sua formação baseada nesses conceitos e evoluções no
+que diz respeito ao Orçamento Público. Este parece ser o pensamento de Michel
+Crozier:
+
+Parece corresponder ao equilíbrio que se estabelece entre o tipo de
+20
+
+controle social utilizado para manter a organização como um sistema
+em movimento, e as reações do grupo humano a ele submetido.
+Esses dois lados dependem, por sua vez, das normas culturais da
+sociedade global e das possibilidades técnicas à disposição do
+homem, para diminuir a incerteza da ação social. (CROZIER, 1981,
+296)
+
+À medida que o Estado se tornou agente econômico preponderante no
+atendimento das necessidades individuais e coletivas, as finanças públicas
+converteram-se na economia política da atualidade, considerando-se que a maior
+parcela das decisões econômicas é concebida no âmbito da política, enquanto seus
+feitos ocorrem no âmbito econômico (JOSÉ MATIAS PEREIRA, 2006, 29). Para
+abordar a questão da interação entre a economia e a política, devemos, antes,
+conceituar “economia política”:
+
+Ciência que trata das leis que governam a produção, a circulação e o
+consumo das riquezas. Essas leis, eminentemente econômicas
+supõem, como é óbvio, a existência de uma atividade humana
+especificamente econômica. Ademais, a economia é eminentemente
+social, pois o homem não desenvolve qualquer atividade objetivando
+a satisfação de suas necessidades, a não ser dentro de uma
+sociedade e com ajuda direta ou indireta desta (GASTALDI, apud
+MATIAS PEREIRA ,2006, 29).
+
+Durante as décadas de 1930-1940 todas as atenções se encontravam
+voltadas para as atividades do setor público atinentes às questões da tributação,
+equilíbrio orçamentário e dívida pública, principalmente quanto aos aspectos internos
+da gestão governamental. Porém, já na década seguinte, o foco passou a ser o
+comportamento econômico do governo, como um segmento da teoria econômica,
+centrada em suas ações e feitos (MATIAS PEREIRA, 2006,30).
+
+Nesse período, havia uma preocupação latente em se alocar os poucos
+recursos existentes para os setores públicos e privados, tendo por objetivo a
+maximização do bem-estar social, o que culminou com a incorporação de lições
+importantes atinentes às ciências econômicas e política, imprescindíveis para a
+compreensão do nosso orçamento público (MATIAS PEREIRA, 2006,30).
+
+Sabendo-se que a política fiscal orienta-se em duas direções: política
+21
+
+tributária, materializada na captação de recursos para atendimento das funções da
+administração pública, e política orçamentária no que se refere especificamente aos
+gastos, ou seja, os atos e medidas relacionadas com a forma da aplicação dos
+recursos e que por desempenhar esse poder deve estar sendo sempre transparente
+em suas disposições para com a população.
+22
+
+3 SIGA BRASIL
+
+O Projeto SIGA BRASIL teve sua origem na necessidade de informações
+gerenciais atinentes ao planejamento, orçamento, fiscalização e controle na esfera
+federal dos gastos públicos. Isto porque, no decorrer do tempo, a Consultoria de
+Orçamento e Finanças - CONORF observou que os relatórios analíticos e não-
+estruturados disponíveis não atendiam ao fim precípuo de controle do orçamento,
+tendo em vista que os mecanismos existentes não supriam as exigências
+informacionais, em função, principalmente, da desordem existente nas fontes de
+informação, que àquele tempo eram múltiplas e não-padronizadas.
+
+As Comissões Parlamentares de Inquérito - CPI's destacam-se no âmbito
+do controle exercido pelo Poder Legislativo Nacional, constituindo-se em um instituto
+alçado a elevado nível de importância no combate à corrupção, além de
+instrumentos de grande visibilidade para a sociedade, sendo de se enfatizar que
+algumas delas alcançaram notoriedade e grande repercussão junto à opinião
+
+pública, como foi o caso da “CPI do Orçamento”.
+
+A CPI do Orçamento, em 1993, identificou esquemas de corrupção
+envolvendo empreiteiras e subvenções sociais, que segundo Laércio Mendes Vieira
+(2003,17), explica que o esquema baseava-se na inclusão, no orçamento, de
+diferentes emendas para gastos ditos “sociais” após um complexo jogo de
+influências que envolviam o Poder Executivo, empresários e outros segmentos com
+os quais parlamentares (“os sete anões do orçamento”) representantes de alguns
+grupos de interesses mantinham relações clientelísticas.
+
+Ainda de acordo com Laércio Vieira, as constatações da CPI confirmaram
+a ocorrência de um baixo grau de transparência, isto porque, na verdade, ficou
+demonstrado que não havia nenhum controle sobre a discussão do orçamento
+dentro do Congresso (2003,19).
+
+Objetivando sanar os problemas que originavam a inconsistência das
+23
+
+informações fornecidas pelos relatórios analíticos, bem como a falta de
+transparência existente nas diversas etapas do orçamento, foi criado um grupo
+formado por servidores da própria CONORF, conhecedores da demanda
+previamente identificada, o qual formou uma parceria com a Secretaria Especial de
+Informática do Senado Federal-PRODASEN. Dessa parceria e após várias
+discussões, O grupo chegou a um consenso quanto ao aplicativo mais indicado para
+atender àquelas necessidades, nascendo daí, o que foi denominado de Projeto SIGA
+BRASIL.
+
+Tendo sua execução organizada de acordo com o público a ser atingido, o
+Projeto foi estruturado em três etapas. A primeira consistiu na implantação do
+sistema na CONORF, o que aconteceu em meados de 2000. A segunda teve por
+objetivo permitir aos gabinetes dos Senadores e órgãos internos do Senado Federal
+e da Câmara dos Deputados acesso aos dados do sistema. E, finalmente, a terceira
+etapa previa a disponibilização para a sociedade, como um todo, de forma dinâmica
+e via Internet, das informações relativas ao planejamento, orçamento, fiscalização e
+controle públicos.
+
+Considerando, pois, as necessidades já apontadas, a ferramenta
+escolhida conhecida como Business Intelligence - BI e considerada como uma
+tecnologia de ponta, permite que se acesse, analise e compartilhe informações,
+extraindo dados de fontes distintas, de modo que se possa proceder a simulações a
+serem disponibilizadas aos usuários. Cabe salientar, que o BI é considerado como
+uma ferramenta de apoio à decisão por métodos multicritérios, que entre outros
+aspectos, permite maior organização e transparência do processo decisório,
+aumentando sua credibilidade, o que, no caso de gastos públicos, significa
+demonstrar onde”, “como” e “com o que”, de maneira imprescindível.
+
+O Projeto SIGA BRASIL é, pois, um sistema de informações que reúne
+diversas bases de dados sobre planos e orçamentos públicos, que se encontram
+disponibilizados para acesso, via Internet, através de uma única interface amigável”,
+de modo a permitir que o usuário final, no caso do cidadão comum, possa utilizá-las,
+efetuando o cruzamento dos dados nelas contidos, sem que lhe seja exigido um
+
+? Considera-se que um dispositivo de informática “é amigável” quando seu usuário consegue entender, utilizar e
+até interagir com o mesmo com facilidade.
+24
+
+conhecimento profundo de informática.
+
+As informações que podem ser acessadas no Projeto SIGA BRASIL são
+obtidas através de dados oriundos de sistemas que tanto podem ter origem interna
+quanto externa, sendo eles:
+
+º Sistemas de Elaboração das Leis Orçamentárias - SELOR, uma
+fonte interna mantida pelo Senado Federal, que consiste em um instrumento
+destinado à apoiar a tramitação dos projetos de lei de natureza orçamentária, ou
+seja, Plano Plurianual (PPA); Lei de Diretrizes Orçamentárias (LDO); Lei
+Orçamentária Anual (LOA); e, créditos adicionais.
+
+º Sistema Integrado de Dados Orçamentários - SIDOR, que é um
+instrumento utilizado para elaboração da proposta orçamentária pela administração
+direta e indireta, sendo, portanto, uma forte externa.
+
+º Sistema Integrado de Administração Financeira - SIAFI, que
+consiste no principal instrumento utilizado para registro, acompanhamento e controle
+da execução orçamentária, financeira e patrimonial do Governo Federal, de acordo
+com o determinado na Lei Orçamentária Anual, se constituindo, também, em uma
+fonte externa.
+
+º Sistema Integrado de Administração de Serviços Gerais -
+SIASG, que consiste em um conjunto informatizado de ferramentas que têm por
+objetivo operacionalizar internamente o funcionamento sistêmico das atividades
+inerentes ao Sistema de Serviços Gerais - SISG, responsável pela gestão de
+materiais, edificações públicas, veículos oficiais, comunicações administrativas,
+licitações e contratos, e que tem como órgão central normativo o Ministério do
+Planejamento, Orçamento e Gestão, tratando-se, portanto, de uma fonte externa.
+
+O Projeto SIGA BRASIL tem se destacado dentro e fora do Brasil como
+um dos principais acessos especializados aos dados do Orçamento da União,
+constituindo-se em um instrumento real de transparência já que oferece mecanismos
+de análise. Dessa forma, percebe-se que o Projeto SIGA BRASIL é muito mais do
+que um mero meio de acesso aos dados, visto que os dados nele contidos são
+diários, tanto da elaboração quanto da execução do Orçamento, com informações de
+25
+
+receita e despesa.
+
+Tendo por parâmetro que o acesso às informações contidas no Projeto
+SIGA BRASIL ocorre eminentemente via Internet, imprescindível seria procedermos
+uma abordagem, ainda que de forma sintética, sobre o assunto, enfocando o seu
+surgimento e uso como instrumento de comunicação, bem como a respeito da
+exclusão/inclusão digital, voltados obviamente para o eixo central do presente
+trabalho. Desse modo, os próximos itens tratarão da questão, porém de forma
+sucinta.
+
+3.1A Internet
+
+3.1.1 O surgimento da intemet e o seu uso como instrumento de comunicação
+
+A Internet é um sistema de redes de computadores interconectadas de
+proporções mundiais, atingindo mais de 150 países e reunindo cerca de 300 milhões
+de computadores ( DIZARD, 2000, 24).
+
+A Intemet atual surgiu de uma rede idealizada em meados dos anos 60,
+como uma ferramenta de comunicação militar alternativa, que resistisse a um conflito
+nuclear mundial. Um grupo de programadores e engenheiros eletrônicos,
+contratados pelo Departamento de Defesa dos Estados Unidos, desenvolveu o
+conceito de uma rede sem nenhum controle central, por onde as mensagens
+passariam divididas em pequenas partes, que foram chamadas de “pacotes”. Assim,
+as informações seriam transmitidas com rapidez, flexibilidade e tolerância a erros,
+em uma rede onde cada computador seria apenas um ponto que, se impossibilitado
+de operar, não interromperia o fluxo das informações.
+
+Tendo por parâmetro esse conceito, em outubro de 1969, estabeleceu-se
+a primeira comunicação entre a Universidade da Califórnia e um centro de pesquisa
+em Stanford, entrando em operação a ARPAnet (Avanced Research Projects Angecy
+Network), inicialmente ligando quatro computadores. Posteriormente, mais
+computadores se juntaram a estes, pertencentes a outras universidades, centros de
+pesquisa com fins militares e indústrias bélicas.
+26
+
+No início dos anos 80, o desenvolvimento e utilização do TCP/IP
+(Transmission Control Protocol/Internet Protocol) como protocolo para a troca de
+informações na ARPAnet possibilitou a conexão entre redes diferentes, aumentando
+bastante a abrangência da rede. Em 1990, a ARPAnet foi transformada em NSFnet
+(National Science Foundation's Network), se ligando a outras redes existentes,
+inclusive fora dos Estados Unidos, passando a interconectar centros de pesquisa e
+universidades em todo o mundo. Estava, assim, formada a Internet, utilizada
+principalmente como uma ferramenta de troca de informações entre o meio
+acadêmico.
+
+Em 1995, devido ao grande aumento de usuários no início da década de
+1990, a Internet foi transferida para a administração de instituições não-
+governamentais, que se encarregam, entre outras tarefas de estabelecer padrões de
+infra-estrutura, registrar domínios, etc.
+
+No Brasil, as primeiras iniciativas no sentido de disponibilizar a Intemet ao
+público em geral começaram em 1995, com a atuação do governo federal, através
+do Ministério da Comunicação e do Ministério da Ciência e Tecnologia, no sentido de
+implantar a infra-estrutura necessária e definir parâmetros para a posterior operação
+de empresas privadas provedoras de acesso aos usuários. Desde então, a Internet
+no Brasil experimentou um crescimento considerável de uso, notadamente entre os
+anos de 1996 e 1997, quando o número de usuários aumentou quase 1000%,
+passando de 170 mil (janeiro/1996) para 1,3 milhão (dezembro/1997). Em janeiro de
+2000, eram estimados, segundo o Comitê Gestor da Internet no Brasil, 4,5 milhões
+de “internautas”. Atualmente, cerca de 15 milhões de brasileiros podem acessar a
+Rede de suas residências e, se consideradas as pessoas que têm acesso apenas
+nos seus locais de trabalho, esse número sobe para 20 milhões, segundo a mesma
+fonte. Pesquisa de 2007 do Comitê Gestor da Internet (CG|), porém, aponta que
+mais de 40 milhões de brasileiros já acessaram a Internet ao menos uma vez na
+vida.
+
+A Internet e a www ou world wide web não são sinônimos, embora
+frequentemente sejam utilizados esses termos como tal. Na realidade, a www é um
+espaço que permite a troca de informações multimídia, ou seja, texto, som, gráficos
+e vídeo, através da estrutura da Internet, consistindo em uma das formas de
+27
+
+utilização da Rede, assim como o e-maile o FTP (File Transfer Protocol).
+
+Desenvolvida no início da década de 1990, pelo cientista inglês Tim
+Berners-Lee nos laboratórios do CERN (Conselho Europeu para Pesquisa Nuclear),
+na Suíça, a World Wide Web nasceu da necessidade de compartilhar dados entre os
+membros dos diversos projetos de pesquisa em andamento no CERN. Baseado no
+conceito de hipertexto, Tim Berners-Lee desenvolveu uma linguagem de
+programação, chamada HTML - HyperTex Markup Language, que permitia ao
+usuário, utilizando um mouse e um software chamado “browser”, desenvolvido
+especialmente com esta finalidade - acessar diversas informações de modo não-
+linear, indo de um documento a outro através de ligações entre eles, mesmo que
+estivessem em computadores remotos, sendo que em maio de 1991 ela foi
+implantada nos computadores do CERN.
+
+Ao constatar o potencial de sua invenção, uma forma simples e eficiente
+de trocar e acessar diferentes tipos de dados entre computadores e redes diversas,
+Tim Bemers-Lee a manteve disponível para todos, sendo que os primeiros browsers
+foram desenvolvidos para os sistemas operacionais Windows e Apple Macintosh e, a
+www foi imediatamente adotada pela comunidade da Internet, sendo responsável
+juntamente com a disseminação dos computadores pessoais, pelo grande
+crescimento do uso da Internet verificado na década de 1990, com um aumento de
+50% a cada ano em média (DIZARD, 2000, 24).
+
+A Internet foi criada como um veículo de comunicação alternativo e ainda
+hoje é utilizada principalmente com esse propósito, sendo que o e-mail é atualmente
+o principal motivo para utilização da Rede. O uso do correio eletrônico é a atividade
+mais frequente dos usuários brasileiros, superando até mesmo a navegação na www
+em busca de informações sobre produtos e serviços, sendo comum, ainda, o uso de
+softwares que permitem a utilização da Internet como um canal de voz (DORIA e
+DORIA, 2001, 35).
+
+DIZARD (2000, 22) afirma que a Internet pode ser considerada como um
+meio “híbrido”, pois embora criado como meio de comunicação interpessoal, possui
+características de meio de comunicação de massa, podendo, no entanto, também
+negar essas mesmas características, dependendo do uso que será feito da Rede.
+28
+
+Até o final do século XX, a divulgação pública de informações esteve
+restrita aos alfabetizados e raramente ao alcance do cidadão comum, isto porque,
+por exigir grandes recursos financeiros, essa possibilidade esteve restrita a uma elite
+que detinha o controle dos veículos comunicação de massa, além do que, por serem
+provenientes de poucas fontes, essas informações podiam ser facilmente
+controladas.
+
+Com a Internet esse quadro vem se alterando, na medida em que as
+redes de computadores tornaram acessíveis, sem a exigência de grandes
+investimentos, um meio de produção e, principalmente, de distribuição de
+informações.
+
+A prestação de serviços de informação pública na Internet deu seus
+primeiros passos, através da divulgação da estrutura administrativa, seus
+respectivos endereços eletrônicos, e agendas culturais, sendo que conforme a ótica
+da democratização, o impacto desta forma de atuação é bastante restrito, muito
+embora esta atitude tenha sido capaz de gerar um avanço em termos de
+transparência (| ULIEN EINSEBERG, 2003, 25).
+
+Einseberg reforça que a Internet pode ser utilizada para a maximização do
+acesso à informação, já que através dela a administração pública pode disponibilizar
+informações referentes às suas atividades e decisões possibilitando que estas
+alcancem mais rapidamente, tanto os meios tradicionais de comunicação de massa,
+quanto os cidadãos conectados à grande rede. Nesse contexto, a Internet contribui
+para a democratização da informação em todos os níveis de administração pública,
+porém é nos municípios que o potencial da Internet como agente de democratização
+da informação é maximizado, considerando-se que o Estado interage mais com a
+vida cotidiana do cidadão no âmbito das administrações locais.
+
+A democracia eletrônica da informação consiste na criação de
+mecanismos que tornem a participação do cidadão mais efetiva no âmbito das
+tomadas de decisões dos poderes legislativo e executivo, sistemas estes que
+permitam aos indivíduos opinarem sobre os temas em pauta e quiçá votarem
+(EURICO ALBUQUERQUE, LUIS BARROS e LUIZ PAULO GUERRA, 2003,12)
+
+João Carlos Vaz (2003, 8) afirma que ao se trabalhar o conceito de
+29
+
+utilização da Internet como maximizador da informação, é preciso ter em mente que
+não basta informatizar as atividades internas, bem como disponibilizar serviços via
+internet, devendo ser implementadas formas de facilitar o acesso à totalidade dos
+cidadãos.
+
+Ainda no entendimento de Vaz a implementação do uso de tecnologias da
+informação, entre elas a Internet, por parte do poder público é capaz de gerar vários
+impactos, podendo ser citado: a) para o funcionalismo diminui custos de busca de
+informações, restringe assimetrias ao mesmo tempo em que amplia o volume de
+informações, elevando a produtividade e criando uma dinâmica de inovação
+generalizada; b) para o cidadão - diminui o custo da busca por informações,
+gerando maior transparência e controle e mais serviços com maior qualidade.
+
+A Internet constitui-se numa mídia de grande relevância social, cultural e
+econômica, tendo se tornado um ambiente virtual colaborativo de conhecimento e de
+acesso a informações. Neste cenário, este potencial interativo, surge como meio de
+fortalecimento das relações entre governo e cidadão, e, vem contribuindo para a
+transparência no serviço público, atendimento ao cidadão, gestão administrativa e do
+orçamento participativo.
+
+Assim, a sociedade tem condições, ao menos potenciais, de participar
+efetivamente da administração pública, da elaboração de propostas e de programas
+do governo, exercendo o controle social dos recursos públicos. Por outro lado, as
+camadas sociais mais pobres têm dificuldade de acesso à Internet, gerando a
+exclusão digital. Esta situação não apenas gera a impossibilidade de uso deste
+recurso por essas comunidades, como também o próprio conhecimento por parte
+deles da existência e das possibilidades oferecidas pela Web. Naturalmente, essa
+situação se reproduz no baixo acesso aos sites de governo devido a baixa fluência
+tecnológica ou até mesmo cultural da população. Nesse sentido, os portais do
+governo necessitam de divulgação e interação da sociedade, para que aconteça a
+inclusão digital e, se efetive como instrumento de participação social.
+
+Estes aspectos serão objeto de abordagem no próximo item.
+30
+
+3.1.2 Inclusão e exclusão digital
+
+Diante da crescente demanda por ações governamentais para a inclusão
+digital, uma caracterização para definir quem é realmente o excluído deve contribuir
+para que as políticas públicas de inclusão sejam direcionadas corretamente. Isto
+porque não se deve considerar que a inclusão seja um mero provimento de infra-
+estrutura de acesso, na verdade, envolve todo um trabalho de orientação que
+apenas começa quando as máquinas passam a estar disponíveis. Essa orientação
+deve preparar e motivar os usuários para o uso das potencialidades das tecnologias
+de comunicação pertinentes ao contexto da Internet.
+
+A grande quantidade de escolas públicas municipais equipadas com
+laboratórios de informática demonstra claramente a dificuldade em se direcionar
+uma política eficiente para inclusão digital. Isto porque, os referidos equipamentos
+são subutilzados ou nem mesmo chegam a ser utilizados, não passando por
+manutenção periódica, por escassez de técnicos e, acabam virando sucata sem
+terem sido utilizadas como ferramenta pedagógica, que é o objetivo para o qual
+foram adquiridas.
+
+A maioria das escolas municipais se localiza em bairros da periferia das
+cidades, onde se encontra a população carente, e aí, a escola, para a maior parte
+desses alunos, talvez seja a única oportunidade de inclusão digital, mas apenas em
+algumas existem projetos para uso desses laboratórios, mesmo assim, de forma
+limitada. O uso da Internet por essas pessoas, por conseguinte, torna-se algo
+inimaginável. E isso é lamentável num momento em que dominar os códigos das
+redes eletrônicas estão ganhando uma importância crescente em escala geométrica.
+Este é apenas um exemplo da falsa inclusão digital (ELOISA FERRARI, 2004, 35).
+
+A impossibilidade de utilização dos serviços oferecidos através de canais
+eletrônicos, resultantes da dificuldade por motivos sociais ou econômicos, de acesso
+às tecnologias básicas que permitam a conexão com o universo digital é conhecida
+como exclusão digital (EDUARDO DINIZ, 2002, 13).
+
+Segundo DINIZ (2002, 13), o Brasil concentra cerca de 40% dos
+computadores pessoais, número elevado em 80% na última década. Contudo, a
+população encontra dificuldades em acessar a Intemet, e essa exclusão digital
+31
+
+possui muitas causas, que vão desde a ausência de disponibilidade ou posse do
+computador para acesso à rede até a inabilidade para operá-lo, além do
+desconhecimento dos requisitos mínimos que permitam ao cidadão comum utilizar a
+
+Internet.
+
+DINIZ(2002, 15) enfatiza que uma das formas mais relevantes de
+combater a exclusão digital é disponibilizar computadores nas escolas, pois tal
+atitude além de promover o acesso a um número significativo da população, torna a
+tecnologia da informação uma ferramenta de construção do conhecimento, e, como
+é sabido, o conhecimento é a moeda forte no mundo globalizado. O autor ressalta,
+ainda, que o processo de inclusão digital está diretamente ligado ao grau de
+desenvolvimento econômico dos estados, tendo em vista que os maiores índices de
+acesso à informática estão nos estados de São Paulo, Rio de J aneiro, Paraná e Rio
+Grande do Sul, que por razões óbvias são os estados mais desenvolvidos. Além
+disso, fatores como localização do domicilio, raça, sexo, faixa etária, anos de estudo
+e ocupação também influenciam significativamente o fenômeno da exclusão/inclusão
+digital, reforçando que a exclusão digital atinge mais fortemente aqueles que
+pertencem à economia informal ou que se encontram em inatividade.
+
+Luiz Eduardo Darelli (2003,5) enfatiza a situação alarmante do planeta no
+que se refere à exclusão digital, mormente no Brasil, onde em termos de acesso à
+Internet menos de 8% da população tem esse privilégio. O autor salienta a existência
+de estudos que caracterizam de forma apropriada e realista, o quadro brasileiro do
+binômio exclusão/inclusão digital, e que as poucas ações realizadas pelo poder
+público e pelos demais atores sociais para incentivar e apoiar as iniciativas de
+inclusão digital pecam por não serem integradas e sistêmicas.
+
+O programa governamental existentes para a inclusão digital da
+
+n3
+
+população de baixa renda, conhecido como “computador para todos”?, sem dúvida é
+
+uma iniciativa louvável, mas mede apenas o número de pessoas que têm acesso a
+um computador e não a participação ativa destas pessoas nos processos de
+
+3 Iniciado em 2003, mais precisamente a partir da instalação do govemo Lula, o programa tem por objetivo
+principal possibilitar a população que não tem acesso ao computador, adquirir um equipamento de qualidade,
+com sistema operacional e aplicativos em software livre, que atendam ao máximo as demandas de usuários, além
+de permitir acesso à Intemet. O projeto prevê ainda que todo cidadão, que adquirir o computador com preço
+popular terá financiamento concedido pelo FAT - Fundo de Amparo ao Trabalhador distribuído nos bancos
+oficiais e pelo BNDES concedido ao mercado varejista.
+32
+
+inteligência coletiva e que, consequentemente, lhes dará o “ganho de autonomia”. O
+coroamento do esforço iniciado com a ampliação do número de computadores
+disponíveis à população vai acontecer com uma iniciativa que só pode ser
+consolidada no setor educacional, visto que só a escola poderá promover, em
+grande escala, a autêntica inclusão digital.
+
+A “medida” da exclusão digital sempre vai ser muito difícil de ser
+estabelecida, mas a direção do esforço em favor da inclusão parece ter na escola o
+ponto de partida. Na busca de alternativas para superação desse modelo
+excludente, vale lembrar que toda manifestação de inteligência se revela na
+interatividade, o que exige dinamizar a comunicação. Por sua vez, a comunicação
+numa perspectiva de grande escala, de massa, precisa de um impulso, uma vez que
+toda ferramenta de comunicação de massa ganha mais interesse na medida em que
+mais pessoas interagem pelo uso de ferramentas semelhantes (JOSÉ ARMANDO
+VALENTE, 2005, 46).
+
+Segundo Valente (2005, 47) a criação de portais ou sites comunitários
+como instrumentos educativos sobre a interação com o mundo digital, deve alcançar
+o propósito de evitar o surgimento de novas dependências provocadas pelo
+consumo de informações ou serviços de comunicação concebidos e produzidos em
+uma ótica puramente comercial e que tem como efeito, muitas vezes, desqualificar
+os saberes e as competências tradicionais dos grupos sociais e das regiões menos
+favorecidas. Seriam as legítimas interfaces para que a inteligência local gerasse, no
+seu ambiente e a partir dele, o conteúdo pertinente ao contexto da inteligência
+coletiva presente da grande Rede, que dinamizam o “pensar digital”.
+33
+
+40 PROCESSO EVOLUTIVO DO SIGA BRASIL
+
+Tendo em vista que a única ferramenta de acesso ao Projeto SIGA
+BRASIL é a Internet e considerando que a implantação do mesmo é decorrente de
+uma série de dificuldades constatadas pelos consultores da CONORF, buscamos
+neste trabalho enriquecer a pesquisa com relatos dos participantes da criação e
+funcionamento desse instrumento. Para tanto, foi realizada entrevista com a
+consultora Rita de Cássia Leal Fonseca dos Santos, uma das colaboradoras mais
+atuantes no Projeto, o que propiciou o esclarecimento de muitas dúvidas que ainda
+restavam suscitadas a respeito da trajetória evolutiva do mesmo.
+
+Ao se abordar um aspecto muito comum no âmbito dos órgãos públicos,
+que é a retenção de informações ou resistências apresentadas por seus gestores, foi
+constatado tratar-se de um comportamento recorrente, visto que esta retenção, para
+muitos gestores, significa status e estratégias de negociação. Ademais, sempre
+existe o risco de se estar exposto a críticas ou desvirtuamento dessa informação.
+Dessa forma, cria-se a resistência natural ao compartilhamento de informações, o
+que leva à uma transparência difusa, quando não ausente.
+
+No que tange a uma possível resistência por parte do órgão que
+administra os dados dos sistemas atinentes à Secretaria do Tesouro Nacional, no
+caso o SIAFI e àqueles referentes ao Ministério do Planejamento, no caso o SIDOR,
+observou-se, pela resposta da consultora, que a negociação tanto para o SIAFI
+como para o SIDOR foi feita diretamente com os Órgãos responsáveis. Contudo,
+fez-se necessária uma ação estratégica junto ao SERPRO, no sentido de contornar
+resistências.
+
+Havia, pois, a necessidade de vencer os obstáculos junto aos órgãos
+detentores das bases de dados, de modo que se pudesse formar parcerias, isto
+porque, por tratar-se de fontes externas, tais informações obtidas de forma
+coercitivas dificilmente primariam pela qualidade e regularidade desejáveis.
+34
+
+No tocante à concepção e formulação da página do site do SIGA BRASIL,
+esta foi concebida de modo a facilitar o acesso e compreensão por parte do usuário
+não especialista das informações técnicas relativas ao orçamento, uma vez que a
+linguagem leiga, muitas vezes, pode ocasionar interpretação dúbia de determinados
+conceitos. Isso faz com que os técnicos incumbidos de fazer a tradução da
+linguagem hermética para a natural se sintam na obrigação de compreender aqueles
+conceitos de forma detalhada para que possam transmiti-los aos usuários finais com
+a clareza necessária. Nesse contexto, acaba ocorrendo, na realidade, um
+aprendizado mútuo.
+
+Não se pode esquecer, que no contexto do SIGA BRASIL, o objeto de
+consulta é o orçamento público. Então, o público alvo a ser atendido não é o cidadão
+comum, mas a sociedade civil organizada, seja na forma de associações, ONGs,
+órgãos públicos, universidades e centros de pesquisa, seja como os conselhos
+comunitários, sendo interessante lembrar que estes segmentos possuem um
+conhecimento maior na área de informática e orçamento, tendo, portanto, mais
+facilidade em acessar o sistema, o que já não ocorre com os conselheiros
+municipais.
+
+Objetivando, pois, minimizar as dificuldades encontradas pelos usuários
+que não possuem um conhecimento maior do assunto, foram feitos alguns
+treinamentos com os segmentos que apresentavam mais dificuldades, como os
+líderes comunitários e conselheiros municipais. Além disso, as entidades parceiras,
+representadas pelos órgãos públicos da esfera federal e ONGs, têm feito um
+trabalho de divulgação pessoal informando, também, a respeito dos orçamentos
+temáticos inseridos na página do SIGA BRASIL.
+
+Além dos treinamentos ministrados para este público específico, vêm
+sendo oferecido, também, cursos presenciais frequentes através do Instituto
+Legislativo Brasileiro - ILB, voltados para o atendimento a parceiros como
+Ministérios, estando sendo implementados, ainda, cursos à distância.
+
+Os orçamentos temáticos buscam atender programas sociais voltados
+para a educação, saúde e segurança alimentar, entre outros, direcionados a grupos
+beneficiários como mulheres, crianças, indígenas e quilombolas. Assim é possível
+35
+
+encontrar no site os seguintes orçamentos temáticos:
+e Orçamento da mulher;
+e Orçamento da segurança alimentar;
+e Orçamento da criança;
+e Orçamento quilombola;
+e Orçamento indígena;
+e Orçamento da saúde;
+e Orçamento da educação; e
+
+e Orçamento do meio ambiente.
+
+4.10 Siga Brasil e a Internet
+
+No que se refere, ainda, ao processo evolutivo do Projeto SIGA BRASIL,
+segundo J oão Arthur Motta Coimbra, funcionário do PRODASEN, já em setembro de
+2006 ocorreu a liberação, para os gabinetes do Senado Federal, Câmara dos
+Deputados e público externo do Projeto, o universo da LOA 2007 - Despesa
+Elaboração, tendo sido, também, agregados durante o processo novos objetos como
+emendas e pareceres.
+
+Nesse período foi feito um levantamento quantitativo de acessos ao
+Projeto SIGA BRASIL pelo usuário “público”, em termos de média mensal, desde a
+sua criação até o mês de setembro de 2006, quando se constatou que através do
+site do Senado Federal, ocorrera 1.500 acessos a consultas prontas por mês; 80
+criações de consultas ad hoc; e, 40 acessos aos manuais, além da criação de 1.500
+login por mês.
+
+Quanto aos usuários “nominados”, ou seja, Senado Federal, Câmara dos
+Deputados, Órgãos Parceiros e Imprensa, no mesmo período, ocorreram o
+cadastramento de 1.406 usuários internos e externos, com a criação de 4.600 login
+36
+
+por mês. Em termos de acesso a consultas prontas, estas somaram 3.000 ao mês.
+E, no que tange aos acessos ao BO Desktop, principalmente pelo Senado Federal e
+Câmara dos Deputados, estes foram de 450 ao mês; criação de novos usuários 19
+ao mês. Foram criadas e armazenadas no sistema, neste período, 100 consultas
+pessoais e 400 consultas ad hoc ao mês, além de consultas procedidas por órgãos
+parceiros como Bacen, Banco do Brasil, CGU, SOF, SRF, STN e TCU.
+
+Há que se destacar que somente no ano de 2005 ocorreram 34.350
+acessos ao Projeto SIGA BRASIL, o que equivaleu a uma média de 2.862 acessos
+ao mês.
+
+Em fevereiro de 2007 foi elaborado um novo levantamento, cujo resultado
+mostrou um crescimento de acessos ao sistema de 67% em relação ao ano de
+2005, sendo que de novembro de 2006 a fevereiro de 2007 ocorreram 42.600
+acessos, equivalendo a uma média de 4.260 acessos ao mês, existindo, naquela
+época, uma expectativa de que até o final do ano de 2007 o número de acessos
+atingisse a cifra de 52.000, considerando que esses acessos se acentuam na época
+da elaboração da LOA.
+
+Cabe registrar que no ano de 2006 foram implementadas no âmbito do
+Projeto SIGA BRASIL a atualização diária dos dados de Execução do Orçamento da
+União através do recebimento diário das atualizações do SIAFI, com a implantação
+dos dados das ordens bancárias do SIAFI, que permite o acesso aos dados do
+favorecido dos pagamentos e as bases da Receita da União, que demonstra a
+arrecadação do Governo Federal,
+
+Para o ano de 2007 estavam previstas a implementação de novas bases
+de dados e consultas interativas, como a disponibilização das informações de
+elaboração dos créditos adicionais nos universos SIGPLAN- execução física do
+Orçamento; SIASG - contratos do Governo Federal; Convênios formalizados no
+período de 2003 a 2006, permitindo a análise com riqueza de detalhes os convênios,
+termos de parceria e contratos de repasses firmados pelo Governo Federal,
+ressaltando-se que esse produto agrega grande valor às informações já
+disponibilizadas pelo Projeto SIGA BRASIL; Consultas específicas dos Repasses
+Legais e Constitucionais, bem como atualização tecnológica de todo o produto.
+37
+
+Muito embora o acesso às informações contidas no SIGA BRASIL se dê
+tão somente através da Intemnet, o Projeto não exige a aquisição de nenhum
+software por parte do usuário para ser consultado, bastando para tanto que se tenha
+um computador ligado à rede ou mesmo pelo sistema dial-up para obtenção de
+informações mais simples.
+
+Prova disso são as informações fornecidas pelo servidor Getúlio Almeida
+dos Santos do PRODASEN mostrando que atualmente o SIGA BRASIL conta com
+2.432 usuários especialistas que o acessam via Internet através da identificação por
+login e senha e 1 usuário público que não necessita de login ou senha para proceder
+suas consultas, fazendo-as, via Internet, pelo Portal do Orçamento.
+
+O SIGA BRASIL conta hoje ainda com uma base de dados de Comissão
+Parlamentar de Inquérito - CPI, cujo acesso é restrito a grupos de trabalho das
+diversas CPIs e, que é utilizada como ferramenta de auxílio na análise de dados de
+vários tipos de sigilo utilizados por elas, como: sigilo bancário, telefônico, telemático
+entre outros, contendo 33.821.079 registros de sigilo telefônico e 20.425.715
+registros de sigilo bancário.
+
+O Projeto SIGA BRASIL teve também sua área restrita usada nos
+cruzamentos de dados das CPI's dos Correios, Bingo e Ambulâncias, tendo sido
+disponibilizados no universo restrito aos técnicos da CPMI dos Bingos - Sigilo
+Telefônico, os dados relativos a 2.793.669 registros de Sigilo Telefônico das diversas
+operadoras, que abrangeram 775 linhas telefônicas investigadas. Da mesma forma,
+no tocante à CPMI dos Correios, o Projeto SIGA BRASIL colocou à disposição da
+referida CPMI o universo Sigilo Telefônico de 351.844 assinantes englobando
+8.811.457 chamadas; e, 1.336.777 sigilos bancários.
+
+Os bancos de dados disponibilizados foram modelados em Star Schema
+no sistema Oracle e complementados com Mviews de alta performance, sendo que
+todos os universos foram criados em ambiente seguro e exclusivo, e as ferramentas
+de Bl colocadas à disposição do corpo técnico da CPMI, seja no Senado Federal ou
+no Tribunal de Contas da União.
+
+Relativamente à área restrita de acesso ao sigilo bancário utilizado pelas
+CPIs, uma importante conquista foi alcançada pelo PRODASEN representada pela
+38
+
+obtenção de acesso direito ao Sistema de Informações do Banco Central -
+SISBACEN, que reduz o prazo de chegada de informações bancárias de trinta dias
+para quatro dias, que passou a ocorrer por meio de operação PSTAWIO do
+Sisbacen, que permite ao PRODASEN o recebimento direto das informações
+oriundas das instituições bancárias.
+
+Esse novo acesso possibiltou não apenas agilizar o processo de
+recebimento dos dados, mas, também aumentar a velocidade do processamento
+pela utilização da tecnologia de Data Warehouse (DW) e Business Intelligence (Bl),
+trazendo grandes vantagens ao trabalho de pesquisa nas bases de dados à
+disposição dos parlamentares e suas assessorias, haja vista que já permitiu a
+transferência de 20 milhões de registros de sigilo bancário às CPI's, 3 milhões e 814
+mil registros sobre CPF e CNPJ do SIAFI e 34 mil e 400 informações vindas
+diretamente de agências bancárias.
+
+A tecnologia de Data Warehouse (DW) e Business Intelligence permitiu
+que o cruzamento das informações fosse executado diretamente pelos integrantes
+das CPMI's e seus assessores, sendo de se ressaltar que esse trabalho exigiu
+considerável cautela por parte dos técnicos do PRODASEN para que nenhum dado
+fosse incorporado à base geral sem ser previamente checado.
+
+Tendo por parâmetro os dados como CPF e CNPJ foi possível cruzar
+informações originárias em bases distintas, gerando segurança e informações mais
+completas, permitindo que por meio da utilização das ferramentas oferecidas pelo
+PRODASEN, fossem regularmente produzidos relatórios pelos consultores do
+Senado Federal, Tribunal de Contas da União e demais órgãos envolvidos, a serem
+utilizados pelas CPMI's.?
+
+O SIGA BRASIL possui, atualmente, três portas de entrada de
+informações: o Aplicativo Desktop Intelligence, que é uma ferramenta utilizada pelos
+Consultores do Senado Federal e da Câmara dos Deputados, que exige login e
+senha; o SIGA BRASIL - Acesso WEB, que permite a consulta por especialista,
+também com login e senha; e, o Portal do Orçamento, que proporciona total
+integração entre o conteúdo do Portal e as consultas do SIGA BRASIL, onde o
+
+* Boletim do PRODASEN, nº 29, De 1ºa 15 de agosto de 2006.
+39
+
+A
+
+usuário ao navegar em um assunto tem à sua disposição tanto informações de
+documentos diversos quanto a informação dos números do orçamento (contidas no
+SIGA BRASIL) na mesma tela.
+
+O Projeto SIGA BRASIL permite hoje um acesso total das bases de dados
+aos consultores, em ambiente seguro, tanto pela rede do Senado Federal quanto
+pela WEB, além de acesso via BO - Business Objects com instalação da ferramenta
+na estação de trabalho via Portal do SIGA BRASIL. Além disso, possibilita a
+automação da migração de dados para I2 (Sw específico de investigação e usado
+pelas agências de inteligência e polícias em vários países), bem como a permissão
+de acesso às bases para o software ACL, empresa contratada (auditoria) oferecendo
+ainda, treinamento emergencial de vários consultores e auditores no uso das
+ferramentas de pesquisa.
+
+Vale ressaltar que quando do lançamento do SIGA BRASIL em 2004, este
+contava com 200 usuários aproximadamente e hoje já são 2.433; em termos de
+universos, em 2004 eram aproximadamente 30 e, atualmente 130. Há que se
+destacar, também, que em 2007 foi disponibilizada uma nova versão do produto, que
+possibilitou ao Portal do Orçamento integrar-se ao SIGA BRASIL, conforme nos
+relata o servidor Getúlio Almeida dos Santos.
+
+A evolução do Projeto SIGA BRASIL desde a sua criação até agora tem
+sido objeto de reconhecimento haja vista que recebeu, em 28 de novembro de 2006
+o Prêmio Brasil de Tecnologia da Informação e Comunicação concedido pelo Brasília
+Conventions Bureau, do SERPRO com o apoio científico da Universidade de
+Brasília, que o considerou o melhor projeto de tecnologia da informação e
+comunicação no Brasil, que teve como tema Promoção da Eficácia no Setor Público.
+
+O Prêmio teve como objetivo estimular o desenvolvimento e a utilização
+de soluções inovadoras de TIC nos órgãos do Governo Federal brasileiro, tendo sido
+concedido aos três melhores projetos ou soluções de tecnologias da informação e
+das comunicações, de caráter inovador, aplicados no âmbito do Governo Federal,
+com significativo impacto na qualidade dos serviços do governo, na produtividade,
+no alcance social, nos ganhos de escala, nos benefícios econômicos e outros
+fatores de agregação de valor à atividade de governo.
+40
+
+O mesmo ocorreu em 2005, quando o diretor do PRODASEN à época,
+Petrônio Barbosa, destacou que “o Senado fez investimentos em tecnologia de
+ponta”, e a Senadora Serys Slhessrenko, salientou que o SIGA BRASIL beneficia a
+democracia nacional, enfatizando que “o processo democrático avança no Brasil, o
+acesso às informações está cada vez maior, é fundamental, e todos devem saber da
+existência do SIGA BRASIL”.
+
+Da mesma forma, o Senador Gilberto Mestrinho complementou as
+afirmativas da Senadora Serys ao declarar que “o Senado quer que suas ações
+sejam do conhecimento de todos os brasileiros”.
+
+Ainda em 2005, a UNIFEM - United Nations Development Fund for
+Women, citou o Projeto como sendo uma iniciativa pública de grande transparência
+de informação a qual qualquer cidadão pode facilmente acessar.
+41
+
+CONCLUSÃO
+
+O presente trabalho conseguiu comprovar, por meio de reflexões teóricas e
+bibliográficas, sua premissa básica: a de que o orçamento sempre foi e é
+instrumento fundamental para o exercício da cidadania, pois é por meio das
+definições orçamentárias que o Estado orienta as ações governamentais que vão
+interferir diretamente no dia-a-dia das pessoas. Esse pensamento, que se mostra
+coerente com antigas e modernas teorias políticas, apontou para outra convicção
+que também orientou as análises aqui realizadas: a adoção de toda e qualquer ação
+ou instrumento que atue neste sentido, de oferecer transparência aos atos do Poder
+Público, é positiva. Neste sentido o Projeto SIGA BRASIL e sua veiculação pela
+Internet, objeto desta análise, vai ao encontro desse objetivo, especialmente porque
+ajuda a conferir credibilidade e a concreta possibilidade de intervenção por parte da
+sociedade afetada, conjunto este que configura o que conceitualmente se define
+como democracia.
+
+Neste sentido, este trabalho concluiu também que se torna fundamental o
+questionamento do paradigma que estimula a implantação de políticas públicas para
+a Internet no Brasil. O acesso à Internet proporciona condições necessárias para
+uma democratização da vida pública, tornando-se uma ferramenta de mecanismos
+eletrônicos de efetiva participação política, superando, neste espectro, os meios de
+comunicação, como imprensa, rádio e televisão. A democratização do Estado e da
+sociedade através da comunicação eletrônica nos faz compreender quais são os
+problemas e obstáculos que surgiram nos experimentos existentes e como
+poderemos revertê-los futuramente. O Estado tem um papel fundamental na
+construção de mecanismos que permitem ao cidadão utilizar a Internet, não só com
+a finalidade lúdica ou de consumo, mas também como instrumento de comunicação
+e governança.
+
+Os sites governamentais, cujo principal papel é dar acesso transparente a
+informações e serviços do governo, devem ser acessíveis ao maior número possível
+42
+
+de pessoas e apresentar conteúdo relevante aos cidadãos, sendo necessário que
+tais sites sejam ágeis, simples e de fácil compreensão. O conteúdo deve permitir ao
+cidadão resolver seus problemas com o Estado, desde queixas ou reclamações
+sobre a qualidade dos serviços prestados até a resolução de dúvidas quanto à forma
+como estão sendo utilizados os recursos da União constantes do Orçamento.
+
+Do mesmo modo, é preciso reconhecer que a Internet pode democratizar
+relações e construir redes cívicas, mas, por outro lado, pode gerar uma nova
+camada de excluídos, não apenas sociais, mas também digitais, já que só uma
+pequena parcela da população tem acesso a computadores. Cada vez mais
+dependemos dos recursos comunicativos da internet, visto que as relações sociais
+com o mundo contemporâneo e instituições torna-se uma necessidade de utilidade
+pública e não apenas um bem de consumo.
+
+Em países como o Brasil, a Internet é restrita a poucos, construindo uma
+barreira, quase instransponível, mesmo que em alguns campos tais como a
+disponibilização de informação e serviços por parte do poder público seja
+perfeitamente viável. A existência de sociedades democráticas estará assegurada
+com o surgimento de conquistas coletivas e na distribuição igualitária dos conteúdos
+informativos. O desenvolvimento está nas mãos da educação, e só garantiremos a
+consciência crítica, quando nos sentirmos capazes de exigir o direito à informação,
+exercendo de fato a cidadania digital.
+
+Com essa convicção, buscou esta pesquisa avaliar como o Legislativo se
+insere neste contexto, e, especificamente, como o Senado, atua no sentido de dar
+visibilidade às decisões orçamentárias estabelecidas pelo Poder Público. Assim, a
+escolha da análise do Projeto SIGA BRASIL - que disponibiliza pela Internet
+informações sobre o orçamento - foi feita intencionalmente, visando à esse objetivo
+descrito. Tentou-se, assim, uma resposta ou ao menos uma sinalização para O
+seguinte questionamento: quão eficaz é a Internet como instrumento de divulgação
+das informações orçamentárias?
+
+A
+
+A pergunta trouxe, contraditoriamente à sua suposta singeleza, a
+obrigatoriedade por parte deste trabalho de traçar a história de criação da instituição
+Senado, do instituto do orçamento, do surgimento do Projeto SIGA BRASIL, da
+43
+
+Internet e, finalmente, como esses entes se relacionam no sentido de auxiliar o
+cidadão a conhecer como são gastos os impostos por ele pagos.
+44
+
+REFERÊNCIAS
+
+ALBUQUERQUE, Eurico; BARROS, Luis; GUERRA, Luiz Carlos. A problemática
+mensuração das contribuições da infra-estrutura de informação para
+ampliação da produtividade. Rio de J aneiro: Quartier, 2003.
+
+BALEEIRO, Aliomar. Uma introdução à ciência das finanças.14.ed., Rio de
+) aneiro:Forense, 1990.
+
+BURKHEAD, ) esse. Orçamento Público. (Trad. Margareth Hanson Costa). Rio de
+) aneiro:FGV, 1971.
+
+CHACON, Vamireh. História institucional do Senado do Brasil, 2.ed.
+Brasília:Senado Federal, 1997.
+
+DARELLI, Luiz Eduardo. Telecentro como instrumento de inclusão digital para o
+e-gov brasileiro: parcerias ao projeto telecentro. São Paulo:Ática, 2003
+
+DINIZ, Eduardo. Governo digital. Rio de Janeiro, 2002. Disponível em
+http://www.conip.com.br/art003htm.
+
+ 
+
+DIZARD Jr., Wilson. A nova mídia: a comunicação de massa na era da informação.
+Rio de J aneiro: ) orge Zahar, 2000.
+
+DORIA, F. Antonio e DORIA, Pedro. Comunicação:dos fundamentos à internet. Rio
+de J aneiro:Revan, 2001.
+
+EISENBERG, Julien. Internet popular e democracia nas cidades. Belo
+Horizonte:Del Rey, 2003.
+
+FERRARI, Eloísa. Do gesto ao pensamento criativo - uma proposta de inserção
+da computação gráfica no cotidiano do digitador. Campinas:Instituto de Artes,
+UNICAMP, 2004, Dissertação de Mestrado.
+
+GIACOMONI, James, Orçamento Público, 12.ed. rev. e atual. São Paulo:Atlas,
+45
+
+2003
+
+PEREIRA, José Matias.Finanças públicas:a política orçamentária no Brasil, São
+Paulo:Atlas, 2006.
+
+VALENTE, José Armando. Informática na educação no Brasil: análise e
+contextualização histórica. In: VALENTE, José Armando (org) O computador na
+sociedade do conhecimento. Campinas,SP :unicamp/nied, 2005.
+
+VAZ, João Carlos. Desafios para a inclusão digital e a governança eletrônica.
+Dispsonível em <http:www.polis.org.br/artigos>
+
+VIEIRA, Laércio Mendes. Estado, instituições políticas e econômicas e controle. In:
+VIEIRA, Laércio Mendes et al. Controle dos gastos públicos no Brasil:
+instituições oficiais, controle social e um mecanismo para ampliar o
+envolvimento da sociedade. Rio de J aneiro:Fundação Konrad-Adenauer, 2003.
+

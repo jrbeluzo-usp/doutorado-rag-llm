@@ -1,0 +1,958 @@
+Rev Saúde Pública 2009;43(4):674-81
+
+Fabiola Sulpino Vieira
+
+Ministério da Saúde. Brasília, DF, Brasil
+
+Correspondência | Correspondence:
+Fabiola Sulpino Vieira
+
+Ministério da Saúde
+
+Esplanada dos Ministérios Bloco G
+Anexo A Sala 229 A
+
+70058-900 Brasília, DF, Brasil
+E-mail: fabiolasulpinoQ uol.com.br
+
+Recebido: 03/09/2008
+Revisado: 10/12/2008
+Aprovado: 25/01/2009
+
+Gasto do Ministério da Saúde
+com medicamentos: tendência
+dos programas de 2002 a 2007
+
+Ministry of Health's spending on
+drugs: program trends from 2002 to
+2007
+
+RESUMO
+
+OBJETIVO: Analisar a evolução do gasto do Ministério da Saúde com
+medicamentos.
+
+MÉTODOS: O gasto total (agregado) do Ministério da Saúde com
+medicamentos e de seus programas (desagregado) foram analisados para o
+período de 2002 a 2007. As ações que financiaram a aquisição de medicamentos
+foram obtidas no sistema Siga Brasil e classificadas segundo os programas
+de assistência farmacêutica. Os valores liquidados foram identificados para
+cada programa. Para 2006 e 2007, foram pesquisadas as aquisições de anti-
+retrovirais. Em relação aos medicamentos do Programa de Dispensação em
+Caráter Excepcional, confrontaram-se os dados da ação orçamentária com
+aqueles disponíveis no Sistema Único de Saúde. Os valores obtidos foram
+deflacionados aplicando-se o Índice de Preços ao Consumidor Amplo. Foi
+efetuada análise exploratória dos dados.
+
+RESULTADOS: O gasto em 2007 foi 3,2 vezes o de 2002 e a participação do
+gasto com medicamentos no gasto total aumentou de 5,4% em 2002 para 10,7%
+em 2007. O gasto com os medicamentos da atenção básica teve aumento de
+75% e com medicamentos dos programas estratégicos, de 124%. No caso dos
+anti-retrovirais o aumento foi de aproximadamente 6%, mas com aumento de
+77% de 2005 a 2006, seguida de redução de 29% de 2006 a 2007. O aumento
+mais expressivo do gasto foi observado com os medicamentos de dispensação
+em caráter excepcional, 252% de 2003 a 2007.
+
+CONCLUSÕES: Houve aumento significativo do gasto com medicamentos
+entre 2002 e 2007, havendo maior participação nesse gasto dos anti-retrovirais
+e medicamentos de dispensação excepcional, os quais são constituídos por
+número expressivo de fármacos protegidos por patentes.
+
+DESCRITORES: Gastos em Saúde, tendências. Custos de Medicamentos.
+Assistência Farmacêutica. Política Nacional de Medicamentos. Políticas
+Públicas de Saúde. Sistema Unico de Saúde. Brasil.
+Rev Saúde Pública 2009;43(4):674-81
+
+675
+
+ABSTRACT
+
+OBJECTIVE: To analyze the evolution of the Ministry of Health's spending
+on drugs.
+
+METHODS: The Ministry of Health's total (aggregate) spending on drugs and
+its programs” (not aggregate) were analyzed between 2002 and 2007. Actions
+that financed drug acquisition were obtained from the Siga Brasil system and
+classified according to pharmaceutical service programs. Settled values were
+identified for each program. For 2006 and 2007, antiretroviral drug acquisitions
+were analyzed. As regards drugs from the Programa de Dispensação em
+Caráter Excepcional (Exceptional Circumstance Drug Distribution Program),
+budget action data were compared to those available in the Sistema Único de
+Saúde (Unified Health System). Values obtained were deflated by applying
+the Índice de Preços ao Consumidor Amplo (Broad Consumer Price Index).
+Exploratory data analysis was subsequently performed.
+
+RESULTS: Spending in 2007 was 3.2 times higher than 2002 and drug spending
+participation in total spending rose from 5.4% in 2002 to 10.7% in 2007.
+Primary care drug spending increased by 75%, and strategic program spending
+by 124%. In the case of antiretroviral drugs, the increase was about 6%, but
+with an increase by 77% from 2005 to 2006, followed by a reduction by 29%
+from 2006 to 2007. The most significant increase in spending was observed with
+exceptional circumstance distribution drugs, 252% between 2003 and 2007.
+
+CONCLUSIONS: There was significant increase in drug spending between
+2002 and 2007, with greater participation of antiretroviral and exceptional
+circumstance distribution drugs, which are comprised by a large number of
+patent-protected pharmaceuticals.
+
+ 
+
+DESCRIPTORS: Health Spending, trends. Drug C osts. Pharmaceutical
+Services. Política Nacional de Medicamentos (National Drug Policy).
+Public Health Policies. Sistema Unico de Saúde (Unified Health System).
+Brazil.
+
+ 
+
+INTRODUÇÃO
+
+No Brasil, a publicação da Política Nacional de
+Medicamentos em 1998º fomentou a criação de
+programas voltados à garantia do acesso aos medi-
+camentos à população. Ampliou-se a oferta de
+medicamentos essenciais integrantes do Programa
+de Medicamentos de Dispensação em Caráter
+Excepcional, de custo unitário no geral elevado, comu-
+mente chamados de Alto Custo.»
+
+Se de um lado o acesso a medicamentos é fundamental
+na garantia do direito constitucional à saúde, por outro,
+tomou-se motivo de preocupação pela evolução dos
+gastos. Estudo realizado em 2007 mostrou descompasso
+do crescimento entre gastos com saúde e com medica-
+mentos na esfera federal. Para o Ministério da Saúde,
+enquanto os gastos totais com saúde aumentaram em
+
+9,6%, aqueles com medicamentos tiveram incremento
+de 123,9% no período de 2002 a 2006.º
+
+Situação semelhante ocorre em outros países. No Reino
+Unido, o gasto com medicamentos na atenção primária
+cresceu 10% entre 2001 e 2002 e provocou uma crise
+de financiamento.? No Canadá, estimou-se crescimento
+do gasto da ordem de 6% em 2006, chegando a US$ 25
+bilhões, dos quais US$ 21,1 bilhões eram em medica-
+mentos sujeitos à prescrição médica.!
+
+No caso brasileiro, ainda que se tenha boa estimativa
+do valor total alocado pelo Ministério da Saúde em
+medicamentos para série recente (2002 a 2006), pouco
+se sabe sobre a evolução dos gastos entre os diferentes
+programas que compõem o gasto total.
+
+ 
+
+* Secretaria de Políticas de Saúde. Política Nacional de Medicamentos.
+
+89102000000200018
+
+Rev Saude Publica. 2000;34(2):206-9. DOI: 10.1590/50034-
+
+» Ministério da Saúde. Medicamentos de dispensação excepcional. Brasília; 2006 Icitado 2009 jun 1]. Disponível em: http://portal.saude.gov.
+
+briportal/arquivos/pdíltexto. excepcionais. pdf.
+
+“Vieira FS, Mendes ACR. Evolução dos gastos com medicamentos: crescimento que preocupa. In: VIII Encontro da Associação Brasileira de
+Economia da Saúde; 2007; São Paulo, BR. São Paulo: PUC/SP; 2007 citado 2008 set 1]. Disponível em: http:/Avwaw.abresbrasil.org.br/pdf/18.pdf
+676
+
+A Portaria GM/MS nº 204 de 29 de janeiro de 2007:
+organizou e categorizou os recursos para aquisição
+de medicamentos no Bloco de Financiamento da
+Assistência Farmacêutica:
+
+* Componente Básico daA ssistência Farmacêutica -
+destinado à aquisição de medicamentos e insumos
+da assistência farmacêutica no âmbito da atenção
+básica em saúde e daqueles relacionados a agravos
+e programas de saúde específicos.
+
+* Componente Estratégico da Assistência
+Farmacêutica - financia ações de assistência
+farmacêutica dos seguintes programas de saúde
+estratégicos: a) controle de endemias, tais como
+tuberculose, hanseníase, malária, leishmaniose,
+doença de Chagas e outras doenças endêmicas
+de abrangência nacional ou regional; b) ARV do
+programa DST/Aids; c) sangue e hemoderivados;
+e d) imunobiológicos.
+
+* Componente de Medicamentos de Dispensação
+Excepcional - destinado à aquisição e distribuição
+desses medicamentos, conforme critérios esta-
+belecidos nos Protocolos Clínicos e Diretrizes
+Terapêuticas.
+
+Nesse contexto, o presente trabalho teve por objetivo
+analisar a evolução dos gastos do Ministério da Saúde
+com programas de medicamentos.
+
+MÉTODOS
+
+A análise foi feita sobre o montante total (agregado) e
+sobre o gasto de seus programas (desagregado), para
+o período de 2002 a 2007.
+
+Para a realização de levantamento sobre as ações do
+Orçamento da União que financiam a aquisição de
+medicamentos, empregou-se o sistema Siga Brasil.
+Selecionou-se como universo de pesquisa, para cada ano,
+a dimensão “despesa execução” da Lei Orçamentária
+Anual (LOA) correspondente (por exemplo, LOA 2007
+- Despesa execução). Definiram-se como “objetos do
+resultado” da pesquisa o nome do universo, o programa
+por código e descrição, a ação por código e descrição e
+os valores liquidados. O “filtro da consulta” foi a unidade
+orçamentária “Fundo Nacional de Saúde” (FNS).
+
+Os valores liquidados constantes na planilha foram
+
+Gasto do Ministério da Saúde com medicamentos — Vieira FS
+
+somados para obter o valor total liquidado pelo FNS
+para cada ano. No caso dos valores liquidados para a
+aquisição de medicamentos, todas as ações orçamentá-
+rias foram identificadas em cada planilha por código e
+descrição, cujo nome está relacionado ou sugere a oferta
+de tratamento aos pacientes, independentemente da
+modalidade de aplicação do recurso (se aplicação direta
+ou transferência a outras unidades federadas, ao exterior
+ou a instituições privadas sem fins lucrativos).
+
+Para confirmar se de fato as ações orçamentárias finan-
+ciaram a aquisição de medicamentos, verificou-se a
+coerência entre o produto definido na LOA para cada
+ação, o objetivo do programa ao qual ela pertence, bem
+como os indicadores propostos para cada programa.
+
+A redução importante e não esperada no valor liquidado
+da ação do orçamento de aquisição de medicamentos
+para portadores de HIV/Aids, entre 2006 e 2007, levou a
+pesquisar as aquisições de anti-retrovirais (A RV) feitas
+nesses dois anos para confrontar os dados segundo as
+fontes. Essa busca foi realizada no Portal de Compras
+do Governo Federal! (ComprasNet), conforme o
+seguinte caminho: acesso livre> consultas> extratos de
+contratos> órgão: 36000 - Ministério da Saúde> Uasg:
+250005 - Coordenação-Geral de Recursos Logísticos>
+período> modalidade: 50 - contrato. Foram consultados
+os extratos de contrato de cada ano e copiados aqueles
+que se referiam à aquisição de A RV. Os extratos contêm
+dados sobre o contratado, objeto contratado, valor, quan-
+tidade e data da vigência do contrato. Em relação aos
+medicamentos do Programa de Dispensação em Caráter
+Excepcional, confrontaram-se os dados da ação orça-
+mentária com aqueles disponíveis na página eletrônica
+do Departamento de Informática do Sistema Único de
+Saúde (SUS) - Datasus, conforme segue: informações
+de saúde> assistência à saúde> produção ambulatorial>
+Brasil porregião e unidade da federação>tabnet (linha:
+procedimento após 10/99> coluna: ano de competência>
+conteúdo: valor aprovado> procedimento após 10/99:
+seleção apenas dos medicamentos). Os dados referem-se
+aos valores aprovados para transferência às Secretarias
+Estaduais de Saúde como pagamento das A utorizações
+de Procedimento de Alta Complexidade (A pac).
+
+Todos os dados foram digitados em planilha eletrônica
+e os valores obtidos foram deflacionados aplicando-se
+o Índice de Preços ao Consumidor Amplo! (IPCA),
+permitindo compará-los aos valores de 2007.
+
+ 
+
+* Ministério da Saúde. Portaria GM nº 204 de 29 de janeiro de 2007. Regulamenta o financiamento e a transferência dos recursos federais
+
+ 
+
+para as ações e os serviços de saú
+31 jan 2007 [citado 2008 set 2];Seção 1:45. Disponh
+
+ 
+
+e, na forma de blocos de financiamento, com o respectivo monitoramento e controle. Diário Oficial União.
+| em: http://dtr2001 .saude.gov.br/sas/PORTARIAS/Port2007/GM/GM-204.htm
+
+» Senado Federal. Orçamento da União: Siga Brasil. [citado 2008 set 1 ] Disponível em: http://www9.senado.gov.br/portal/page/portal/
+
+orcamento. senado/SigaBrasil
+
+* Ministério do Orçamento, Planejamento e Gestão. Lei Orçamentária (LOA). Brasília; 2007 [citado 2008 set 1]. Disponível em:http:/Awww.
+
+planejamento.gov.br/secretaria.asp?cat=50&sub=2 15 &sec=8
+
+“ Ministério do Planejamento, Orçamento e Gestão. Portal de Compras do Governo Federal: ComprasNet. Icitado 2008 set 1] Disponível em:
+
+http:/Awww.comprasnet.gov.br
+
+* Ministério da Saúde. Departamento de Informática do SUS. [citado 2008 set 1] Disponível em: http:/Aw3 .datasus.gov.br/datasus/datasus.php
+* Instituto de Pesquisas Econômicas Aplicadas. Índice de Preços ao Consumidor Amplo. [citado 2008 set 1] Disponível em: http:/Avww.
+ipeadata.gov.br/ipeaweb.dllfipeadata?SessionlD=1785468061 &Tick=1243899309968&VAR. FUNCAO=Ser. MUs0%28%298&Mod=M.
+Rev Saúde Pública 2009;43(4):674-81
+
+RESULTADOS
+
+Observou-se crescimento real dos gastos com medica-
+mentos no período de 2002 a 2007 (Figura 1). O gasto
+em 2007 foi 3,2 vezes o de 2002 e a participação do gasto
+com medicamentos no gasto total do Ministério da Saúde
+aumentou de 5,4% em 2002 para 10,7% em 2007.
+
+A desagregação do gasto total com medicamentos
+em ações ou programas de assistência farmacêutica
+definidos no orçamento da União é apresentada na
+Tabela 1. Não estão incluídos nessa Tabela gastos com
+a aquisição de medicamentos para uso exclusivamente
+hospitalar, os quais são financiados com recursos das
+autorizações de internação hospitalar (AIH) e nem
+aqueles destinados à oferta de medicamentos quimio-
+terápicos antineplásicos, financiados com recursos das
+Autorizações de Procedimentos de Alta Complexidade
+em Oncologia (A pac-Onco).
+
+O gasto com os medicamentos da atenção básica teve
+aumento de 75% e com medicamentos dos programas
+estratégicos de 124% no período analisado. No caso
+dos medicamentos para DST/Aids, o aumento foi de
+aproximadamente 6%. Entretanto, a situação do gasto
+com esses medicamentos foi peculiar: aumento de 77%
+em 2006 em relação ao ano anterior e posterior redução
+de 29% em 2007 em relação a 2006.
+
+O aumento mais expressivo do gasto foi observado
+com os medicamentos de dispensação em caráter
+excepcional. Nesse caso, pelo orçamento da União não
+foi possível diferenciá-lo dos demais gastos em 2002.
+Analisando-se a série de 2003 a 2007, o incremento do
+gasto foi de 252%.
+
+O aumento no valor liquidado do orçamento da União
+com a ação que financia a aquisição de medicamentos
+para tratamento de portadores de DST/Aids foi de
+44% de 2002 a 2007 e de 3,7% entre 2006 e 2007.
+Para analisar a redução ocorrida nesses dois últimos
+anos, estimou-se o gasto por paciente em tratamento
+no Programa DST/Aids, supondo que os medicamentos
+fossem utilizados no mesmo ano em que foram adqui-
+ridos. O número de pacientes em tratamento foi obtido
+do Programa Nacional de DST/Aids.: O resultado
+dessa estimativa é apresentado no Figura 2. Nota-se
+que houve importante redução (33%) de 2002 a 2003
+no gasto médio por paciente, atingindo patamar que se
+manteve até 2005, a partir de quando houve aumento
+de 67% em 2006 em relação ao ano anterior, com
+posterior redução de aproximadamente 32% em 2007.
+Na média do período, o gasto anual com tratamento
+por paciente foi de R$ 4.302,00 (reais de 2007 ou reais
+constantes). Ainda em relação aos medicamentos para
+tratamento de DST/Aids, coletaram-se dados sobre a
+aquisição de A RV, por meio de contrato, no Portal de
+
+677
+
+Yo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 12
+10,93 10,70
+45 4
+9,33
+4 9,04 dO
+835 a
+E 3 6,80)
+E
+22,51 5,39 6
+k
+82
+q
+v
+15 a
+&
+&
+1
+2
+0,5
+o! | y y y y to
+2002 2003 2004 2005 2006 2007
+E3 Valor liquidado com medicamentos
+% do valor liquidado com medicamentos
+do total liquidado pelo FNS
+
+Figura 1. Percentagem do valor liquidado na aquisição de
+medicamentos do Fundo Nacional de Saúde. Brasil, 2002-
+2007
+
+6000 5.753,90
+550015:342,79
+
+5000
+4500
+
+4000
+
+   
+
+3500 3.920,39
+
+R$ de 2007/paciente
+
+3.545,49
+
+3.446,10
+3000
+
+2500
+
+2000
+
+ 
+
+2002 2003 2004 2005 2006 2007
+
+Figura 2. Valor liquidado por paciente com HIV/Aids na aqui-
+sição de medicamentos pela União. Brasil, 2002-2007.
+
+Compras do Govemo Federal (ComprasNet) para 2006
+e 2007. Os valores coletados não incluem a aquisição
+de medicamentos pela modalidade de convênio, o
+que é feito, por exemplo, quando o governo adquire
+medicamentos de laboratórios farmacêuticos públicos.
+Observou-se que em 2006 foram gastos R$ 745,8
+milhões (reais de 2007) e em 2007 R$ 452,2 milhões.
+A redução no valor gasto com aquisição de ARV por
+meio de contrato foi de 39% (R$ 293,6 milhões).
+
+ 
+
+* Ministério da Saúde. Programa Nacional de DST/Aids. Monitoraids. Número de pacientes em terapia ARV. Brasil, 1999 a 2007. [citado 2008
+set 1]. Disponível em: http://sistemas.aids.gov.br/monitoraids2/docs/n%20pacientes%20em%20TARV.pdf.
+678
+
+Os seguintes medicamentos foram comprados em
+2006 e não em 2007, perfazendo gasto naquele ano de
+aproximadamente R$ 317,5 milhões (reais de 2007),
+representando 43% do gasto total com A RV adquiridos
+por contrato: amprenavir 150 mg cápsula, atazanavir
+150 mg cápsula, didanosina 400 mg cápsula, efavirenz
+200 mg cápsula, efavirenz 600 mg comprimido e rito-
+navir 80 mg/ml solução oral.
+
+Por outro lado, foram gastos R$ 30,3 milhões em
+2007 em medicamentos que não foram adquiridos em
+2006 (aproximadamente 7% do gasto total do ano com
+aquisição deA RV pormeio de contrato): darunavir 300
+mg comprimido, fosamprenavir 700 mg comprimido e
+lopinavir/ritonavir 80/20 mg/ml solução oral.
+
+Em relação aos medicamentos adquiridos em 2006 e
+2007, por meio de contrato, foram gastos R$ 428,4
+(reais de 2007) e R$ 421,9 milhões, respectivamente.
+A Tabela 2 apresenta a participação do gasto com cada
+anti-retroviral no gasto total de cada ano para esse grupo
+de medicamentos.
+
+Ainda na Tabela 2 observa-se que para a maioria desses
+medicamentos (79%, 11 dos 14A RV) houve expressiva
+redução de preços entre 2006 e 2007. Também foi obser-
+vada redução na quantidade adquirida para 50% deles.
+
+Em relação aos medicamentos de dispensação em
+caráter excepcional, para os quais se verificou incre-
+mento significativo dos gastos pelo orçamento entre
+2003 e 2007 (252%), a comparação com os valores
+aprovados pelo Ministério da Saúde em procedimentos
+pagos às Secretarias Estaduais de Saúde (SES) mostrou
+diferenças entre as duas fontes (orçamento da União e
+Datasus), conforme Tabela 3.
+
+De 2003 a 2005 os valores do Datasus foram maiores
+que os valores liquidados na ação específica do orça-
+mento que financia a aquisição desses medicamentos,
+invertendo-se em 2006 e 2007.
+
+DISCUSSÃO
+
+Há relação entre as ações do orçamento da União e os
+programas específicos de assistência farmacêutica que
+se destinam a garantir o acesso a medicamentos à popu-
+lação, permitindo estimar o gasto com medicamentos
+por programa específico. Em cada componente do
+Bloco de Financiamento da A ssistência Farmacêutica,
+estão dispostos os programas tradicionais de assistência
+farmacêutica. As ações do orçamento foram constitu-
+ídas em função desses programas.
+
+O aumento significativo (222%) do gasto total do
+Ministério da Saúde com medicamentos, no período de
+2002 a 2007, corrobora a situação de aumento dos gastos
+em medicamentos no mundo, especialmente na última
+década.!? O governo dos Estados Unidos estimou que o
+
+Tabela 1. Valores liquidados pelo Fundo Nacional de Saúde, em R$ de 2007, para aquisição de medicamentos pelo orçamento da União. Brasil, 2002-2007.
+
+ 
+
+Gasto do Ministério da Saúde com medicamentos
+
+2007
+316.910.000,00
+
+2006
+309.673.152,25
+
+R$ constantes de 2007
+2004 2005
+234.063.383,76
+
+196.528.779,99
+
+2003
+190.062.375,19
+
+2002
+180.991.089,00
+
+38.255.560,00
+
+Ações de assistência farmacêutica
+
+ 
+
+Assistência farmacêutica na atenção básica
+
+116.096.406,95
+
+Atendimento a diabéticos (insulina e hipoglicemiantes orais)
+
+Atendimento à população com medicamentos para a saúde
+
+mental
+
+21.757.572,01
+
+23.922.924,52
+
+281.902.306,00 219.657.465,71 210.047.572,77 252.052.243,61 202.117.150,01
+
+215.324.152,00
+
+Atendimento a pacientes hemofílicos com fatores de coagulação
+
+5.809.789,46
+742.413.376,00
+
+8.052.661,09
+
+773.144.250,55
+
+5.468.758,42
+521.599.115,70
+
+Atendimento a pacientes portadores de hemoglobinopatias
+
+507.913.702,58
+
+Imunobiológicos
+
+Programas estratégicos (malária, tuberculose, hanseníase, entre
+
+outras doenças)
+
+DST/Aids
+
+267.467.245,53 691.489.809,74 697.439.312,65 640.076.267,35 699.422.447,71
+
+312.651.564,58
+
+708.178.407,28
+1.956.332.705,60
+
+596.016.153,53 567.045.691,47  1.002.732.562,76
+1.449.180.509,87
+
+495.900.996,13
+
+668.783.673,59
+
+Vieira FS
+
+1.183.519.039,70
+
+872.574.884,09
+3.084.180.795,66 3.419.182.874,48 4.434.911.647,48 4.631.183.876,06
+
+555.196.908,00
+
+ter excepcional
+
+do em cará!
+
+Medicamentos de dispensaç
+
+ 
+
+1.928.383.809,81
+
+1.439.928.963,70
+
+Fontes: Senado Federal - Siga Brasil 2007; Instituto de Pesquisas Econômicas Aplicadas 2007.
+
+Total
+
+ 
+Rev Saúde Pública 2009;43(4):674-81
+
+679
+
+Tabela 2. Participação do gasto com anti-retrovirais em 2006 e 2007 no gasto total de anti-retrovirais adquiridos por meio de
+contrato e variação no preço e na quantidade adquirida. Brasil, 2006 e 2007.
+
+ 
+
+ 
+
+Part gasto Part gasto Variação preço Variação quant
+
+Medicamento Unidade total? (%) total? (%) 2007 em relação 2007 em relação
+2006 2007 a 2006 (%) a 2006 (%)
+
+Lopinavir/ritonavir 200/50 mg caps caps/comp 26,08 45,12 32,69 99,09
+Tenofovir 300 mg comp comp 18,77 21,28 11,11 22,86
+E spa peilioflizado kit 9,46 11,47 15,55 30,63
+Nelfinavir 250 mg caps caps 9,91 7,36 28,91 1,53
+Atazanavir 200 mg caps caps 25,03 4,77 71,60 63,27
+Abacavir 300 mg comp comp 1,95 3,84 26,35 61,17
+Saquinavir 200 mg caps caps 1,96 2,80 0,64 31,43
+Ritonavir 100 mg caps caps 3,70 1,49 132,85 3,76
+Didanosina 250 mg caps caps 1,20 0,80 66,22 72,35
+Estavudina 1mg/ml pó sol oral fr 1,02 0,57 0,52 73,64
+Abacavir 20 mg/ml sol oral fr 0,11 0,22 - 52,20:
+Nevirapina 10 mg/ml susp oral fr 0,34 0,1 394,94 40,00
+Efavirenz 30 mg/ml sol oral fr 0,28 0,11 65,62 200,00
+Amprenavir 15 mg/ml sol oral fr 0,19 0,04 ZAÃO 326,10
+Zidovudina 10 mg/ml sol inj fr 0,03 0,03 1795: -
+Total 100,00 100,00
+
+Fonte: Portal de Compras do Governo Federal - ComprasNet.
+2 Refere-se ao gasto total com anti-retrovirais adquiridos por meio de contrato. Não inclui os convênios feitos, por exemplo,
+
+com laboratórios públicos.
+
+gasto com medicamentos passaria de US$ 184 bilhões
+em 2003 para US$ 519 bilhões em 2013. No caso brasi-
+leiro, observa-se pela Figura 1 que a taxa de crescimento
+foi maior de 2002 a 2006 (média anual de 33,6%) que
+a apresentada entre 2006 e 2007 (4,4%). Esse quadro
+pode ser explicado pelo fato de que foi somente após a
+publicação da Política Nacional de Medicamentos em
+1998 que houve a criação ou ampliação de programas
+destinados a garantir o acesso da população a medi-
+camentos. Assim, é certo que os anos subsequentes
+caracterizaram-se pelo rápido aumento da alocação
+de recursos com a finalidade de suprir a demanda por
+
+medicamentos. Em relação ao crescimento de 4,4%
+entre 2006 e 2007, é preciso esperar os próximos anos
+para verificar se a desaceleração se mantém.
+
+A participação dos gastos com medicamentos nos gastos
+totais do Ministério da Saúde revela a importância que
+esse componente da despesa assumiu ao longo dos anos
+analisados. A pequena redução observada entre 2006
+e 2007 se justifica pelo fato de que os recursos totais
+alocados pelo Ministério da Saúde cresceram mais que
+o crescimento da despesa com medicamentos em 2007
+em relação ao ano anterior.
+
+Tabela 3. Recursos executados com o Programa de Medicamentos de Dispensação em Caráter Excepcional segundo dados da
+produção ambulatorial do Sistema Único de Saúde e do orçamento da União. Brasil, 2002 a 2007.
+
+ 
+
+Ano Valores aprovados em procedimentos (R$ de 2007)? Valores liquidados (R$ de 2007)
+2002 520.654.575,72 -
+
+2003 675.146.214,84 555.196.908,00
+
+2004 1.011.364.355,62 872.574.884,09
+
+2005 1.237.295.810,90 1.183.519.039,70
+
+2006 1.361.730.578,98 1.449.180.509,87
+
+2007 1.410.181.600,74 1.956.332.705,60
+
+2 Fonte: Departamento de Informática do SUS. Produção ambulatorial. Valor aprovado por procedimento após 10/99 e ano
+
+competência.
+
+» Fonte: Senado Federal - Siga Brasil. Orçamento da União (refere-se à ação 4705 - Apoio para a aquisição de medicamentos
+
+excepcionais).
+680
+
+Ainda que a participação no gasto total tenha dimi-
+nuído, o aumento dos gastos com medicamentos é uma
+tendência mundial e alguns fatores já foram apontados
+para explicar esse comportamento.!
+
+A Tabela 1 mostra que a contribuição maior para
+aumento do gasto total com medicamentos no período
+analisado deveu-se aos medicamentos de dispensação
+em caráter excepcional (aumento de 252% entre 2003
+e 2007). Os dados também confirmam a discrepância
+entre os recursos alocados em medicamentos para a
+atenção básica à saúde e aqueles alocados na média e
+alta complexidade. Por exemplo, em 2007, R$ 319,9
+milhões foram alocados em transferências a estados
+e municípios para a aquisição de medicamentos para
+a atenção básica e R$ 2.664,50 milhões em medica-
+mentos para DST/Aids e de dispensação em caráter
+excepcional. Ainda que consideremos os medica-
+mentos dos programas estratégicos do Ministério da
+Saúde (tuberculose, hanseníase, também a insulina
+humana) no montante da atenção básica, teríamos uma
+relação de 2,6 reais gastos com DST/Aids e excep-
+cionais para 1 real com assistência farmacêutica na
+atenção básica e estratégicos.
+
+Todavia, é preciso considerar o escopo desses
+programas. Os medicamentos DST/Aids e excepcionais
+atendem grupos específicos de pacientes (portadores
+de HIV/Aids e de doenças crônicas, no geral raras),
+enquanto aqueles da assistência farmacêutica básica e
+estratégicos destinam-se a doenças mais importantes do
+ponto de vista epidemiológico e, consequentemente, à
+população como um todo. Diferenças importantes entre
+os medicamentos utilizados nesses dois subgrupos de
+programas dificultam a comparação e as conclusões
+sobre possível enfoque na média e alta complexidade
+em detrimento da atenção básica. Uma delas é que uma
+parcela importante dos medicamentos para DST/Aids e
+de dispensação em caráter excepcional está protegida
+por patentes, o que faz com que esses produtos sejam
+oferecidos a preços mais altos.
+
+Estudo sobre os fatores da tendência recente dos custos
+de ARV no Brasil constatou que aqueles patenteados
+(11 dos 18 medicamentos incluídos no consenso de
+tratamento em 2007, por exemplo) contribuíram com
+60% a 70% do custo total com A RV entre 2001 e 2003
+e, 80% em 2004 e 2005.º
+
+No presente trabalho, os valores liquidados de ação do
+orçamento para a aquisição deA RV mostraram redução
+do gasto de 2002 a 2005, com posterior aumento de
+
+Gasto do Ministério da Saúde com medicamentos — Vieira FS
+
+77% em 2006 em relação ao ano anterior. Nunn et alé
+encontraram que o custo anual por paciente diminuiu
+de 2001 a 2003 e mais que dobrou em 2005. Para o
+presente estudo, esse gasto diminuiu de 2002 a 2005 e
+apenas em 2006 houve aumento de 67% (Figura 2). A
+divergência entre os dois trabalhos pode ser explicada
+pelo ano de inflexão da curva, resultante pelas fontes de
+dados diferentes. Os autores? citados utilizaram dados
+de gasto com A RV do Programa Nacional de DST/Aids
+até 2005 (o qual poderia conter alguma incorreção),
+enquanto o presente estudo utilizou dados do orçamento
+da União, condizentes com os dados de gasto com ARV
+atualizados na página eletrônica do programa.?
+
+Embora não tenha sido possível identificar todas as
+aquisições deA RV do Ministério da Saúde, trabalhou-se
+com o maior volume delas em termos de recursos
+(efetuadas por meio de contratos com empresas
+privadas). Não foram incluídas as aquisições feitas
+de laboratórios farmacêuticos públicos, produtores de
+ARV genéricos, pois até o momento a consulta à base
+de dados de convênios do Ministério da Saúde não está
+disponível em acesso livre.
+
+A partir dessa análise, como foi verificada redução maior
+(39%) de 2006 para 2007 no valortotal de contratos para
+compra de A RV do que no valor total liquidado da ação
+do orçamento (29%), constata-se que os medicamentos
+adquiridos por contrato passaram a contribuir menos
+para o gasto total do programa em 2007.
+
+A redução observada no valor alocado nessas aquisições
+pode ser quase que totalmente explicada pela realização
+de estoque em 2006, uma vez que dos ARV que não
+foram comprados em 2007, apenas um (didanosina
+400 mg) é produzido nacionalmente.» Os demais
+estão protegidos por patentes, embora entre eles esteja
+o medicamento efavirenz, objeto de licenciamento
+compulsório em maio de 2007, o que possibilitaria a
+aquisição de seu genérico internacionalmente.º Além
+disso, não houve alteração do consenso terapêutico
+nesse ano e, portanto, nenhum desses medicamentos
+deixou ou passou a ser menos utilizado.
+
+Observou-se redução de preços dos ARV adquiridos
+tanto em 2006 quanto em 2007, conforme Tabela 2, mas
+esta redução não foi suficiente para justificar a magni-
+tude da redução global do gasto. Se considerarmos que
+a diferença do gasto com A RV entre 2006 e 2007 foi de
+R$ 293,6 milhões (reais de 2007), que R$ 317,5 milhões
+foi o valor dos medicamentos comprados em 2006 e não
+em 2007 e que R$ 30,3 milhões foi o gasto em 2007
+
+ 
+
+= Ministério da Saúde. Programa Nacional de DST/Aids. MONITORaids. Gasto com aquisição de medicamentos ARV. [citado 2008 set 2].
+Disponível em: http://sistemas.aids.gov.br/monitoraids2/docs/n%20pacientes%20em“%20TARV.pdf.
+
+» Ministério da Saúde. Programa Nacional de DST/Aids. Responsabilidade dos estados pela compra e distribuição de medicamentos. Brasília;
+[s.d.| Icitado 2008 set 2]. Disponível em: http:/Aww aids.gov.br/data/Pages/LUMIS69662342PTBRIE.htm
+
+« Brasil. Decreto nº 6.108, de 04 de maio de 2007. Concede licenciamento compulsório, por interesse público, de patentes referentes ao
+Efavirenz, para fins de uso público não-comercial. Diário Oficial União. 07 jul 2005 [citado 2008 set 2]; Seção 1:54. Disponível em: http://
+
+www.planalto.gov.br/ccivil 03/ Ato2007-2010/2007/Decreto/D6108.htm
+Rev Saúde Pública 2009;43(4):674-81
+
+com medicamentos não comprados em 2006, então, a
+diferença entre “gasto não realizado” (317,5) em 2007
+e “gasto adicionado” (30,3) no mesmo ano éigual a R$
+287,2 milhões e, portanto, apenas R$ 6,4 milhões dos
+R$ 293,6 da diferença observada podem ser atribuídos
+a modificações nos preços e volumes adquiridos dos
+ARV nos dois anos. Assim, a realização de estoque em
+2006 para uso em 2007 consiste em fator explicativo
+importante para essa situação.
+
+Quanto aos medicamentos de dispensação em caráter
+excepcional, o fato de que os valores liquidados do
+orçamento de 2003 a 2005 foram menores que os
+valores aprovados em procedimentos revela que
+recursos de outras ações do orçamento, especialmente
+aquelas para aquisição de medicamentos, foram
+utilizados para efetuar os pagamentos às SES, o que
+ocorreu de forma integral em 2002, quando não havia
+ação específica do orçamento para financiamento do
+programa (Tabela 3). Em 2006 e 2007 esta relação
+se inverteu e isso pode ser justificado pela aquisição
+de forma centralizada de alguns medicamentos pelo
+Ministério da Saúde: imiglucerase 200 UI, alfaepoetina
+2.000 e 4.000 UI, imunoglobulina humana 5 q, alfain-
+terferona 2b 3.000.000, 5.000.000 e 10.000.000 UL:
+Desse modo, é possível constatar que em 2007, esses
+quatro fármacos foram responsáveis por 28% do gasto
+total do programa.
+
+As diferenças observadas na Tabela 3, especialmente
+de 2003 a 2005, ainda que não comprometam a análise
+geral dos gastos, mostram a limitação de se trabalhar
+com dados do orçamento. Há sempre a possibilidade
+
+REFERÊNCIAS
+
+1. Kondro W. Drug spending tops $25 billion. CMAJ.
+2007;176(13):1816. DOI: 10.1503/cmaj.070680
+
+2. Grangeiro A, Teixeira L, Bastos FI, Teixeira
+P. Sustentabilidade da política de acesso a
+medicamentos anti-retrovirais no Brasil. Rev Saude
+Publica. 2006;40(Sup|):60-9. DOI: 10.1590/50034-
+89102006000800009
+
+3. Macdonald S. Increased drug spending is creating
+funding crisis, report says. BMJ. 2003;326(7391):677.
+DOI: 10.1136/bmj.326.7391.677
+
+681
+
+de que tenham sido utilizados recursos de outras ações
+além daquela que é a fonte principal de financiamento
+do programa. Entretanto, essa situação não invalida os
+dados e a análise apresentada, pois se trata da melhor
+aproximação que se pode fazer em relação aos gastos
+com medicamentos do Ministério da Saúde a partir de
+fontes de dados abertas ao público.
+
+Não é intenção do presente estudo defender a contenção
+indiscriminada das despesas com medicamentos.
+Embora não se tenham dados sobre o número de pessoas
+com acesso a medicamentos, os valores alocados
+indicam incremento importante nos últimos anos, o
+que é relevante para a atenção à saúde, desde que o
+recurso seja bem utilizado. A informação sobre gastos é
+medida imprescindível à gestão eficiente da assistência
+farmacêutica e dos recursos do SUS. Grangeiro et al?
+previram comprometimento de investimento em outras
+áreas, caso se mantenham as taxas atuais de gasto com
+ARV e de crescimento do produto intemo bruto.
+
+Para finalizar, ainda que o govemno tenha poupado
+aproximadamente metade dos custos com a aquisição de
+ARV por meio de negociações,º seu papel é tão impor-
+tante quanto o dos prescritores e pacientes. O aumento
+dos gastos com medicamentos podem estar associados
+mais ao número de medicamentos prescritos para
+determinadas faixas etárias/sexo e tipo de medicamento
+em diferentes classes terapêuticas, do que a mudanças
+demográficas da população.“ Isso reforça a importância
+da gestão eficiente da assistência farmacêutica e,
+consequentemente, da informação sobre os gastos com
+medicamentos como componente desse processo.
+
+4. Morgan SG. Implications of expenditures on care.
+Prescription drug expenditures and population
+demographics. Health Serv Res. 2006;41(2):411-28.
+
+5. Moynihan R. Drug spending in North America rose
+by 11% in 2003. BM]. 2004;328(7442):727. DOI:
+10.1136/bmj.328.7442.727
+
+6. Nunn AS, Fonseca EM, Bastos FI, Gruskin S, Salomon
+JA. Evolution of antiretroviral drug costs in Brazil in the
+context of free and universal access to AIDS treatment.
+PLoS Med. 2007;4(11):305. DOI: 10.1371/journal.
+pmed.0040305
+
+ 
+
+* Ministério da Saúde. Portaria nº 2.577, de 27 de outubro de 2006. Aprova o componente de medicamentos de dispensação excepcional.
+Diário Oficial União. 13 nov 2006 Icitado 2008 set 2]; Seção 1: 44-64. Disponível em: http://dtr2001 saude. gov.br/sas/PORTARIAS/Port2006/
+
+GM/GM-2577.htm
+

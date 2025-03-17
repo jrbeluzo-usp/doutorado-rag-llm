@@ -1,0 +1,1087 @@
+EXECUÇÃO ORÇAMENTÁRIA E PRESIDENCIALISMO DE COALIZÃO - UMA
+ABORDAGEM EXPLORATÓRIA
+
+BUDGET EXECUTION AND COALITIONAL PRESIDENTIALISM — AN
+EXPLORATORY APPROACH
+
+Femando Moutinho Ramalho Bittencourt *
+
+Resumo: Este trabalho explora as potencialidades dos dados do orçamento federal para a
+discussão de hipóteses relevantes da literatura sobre o presidencialismo de coalizão brasileiro. A
+partir da análise exploratória de dados e do teste estatístico de hipóteses, aborda a proposição
+teórica de utilização do orçamento como instrumento de barganha do Executivo frente aos
+parlamentares, identificando padrões de comportamento na execução de emendas orçamentárias
+e discutindo a consistência desses padrões com as visões predominantes acerca do papel dos
+
+Poderes no jogo orçamentário.
+Palavras-chaves: Presidencialismo de coalizão; Orçamento; Emendas orçamentárias
+
+Abstract: This paper explores how data on the Brazilian federal budget may be helpful to
+discuss relevant hypotheses about the country's coalitional presidentialism. Using exploratory
+data analysis and statistical testing of hypotheses, it assesses some theoretical propositions
+regarding the usage of budgeting by the Executive as a bargain tool vis-à-vis congressmen,
+spotting behavioral standards in the disbursement of budgetary earmarks and discussing those
+patterns” consistency with the prevailing visions on the role of each branch in the budgetary
+
+game.
+
+Keywords: Coalitional presidentialism; Budgeting; Budgetary earmarks.
+
+1 Introdução — presidencialismo de coalizão e emendas orçamentárias
+No contexto brasileiro do "presidencialismo de coalizão" pós-1988, parte significativa
+
+da literatura acentua que a governabilidade foi tomada possível por uma série de instrumentos
+
+* Graduado em Ciências Econômicas (UFRJ). Docente de pós-graduação da Fundação Getúlio Vargas (Brasília) e
+consultor legislativo do Senado Federal. Atua principalmente nas seguintes áreas: orçamento, controle e
+assessoramento legislativo. É mestrando no Mestrado Profissional em Poder Legislativo da Câmara dos Deputados
+(fernandomrbbackup gmail.com).
+Femando Moutinho Ramalho Bittencourt
+
+que permitem ao Presidente da República formar, organizar e manter em torno de si, após a
+eleição, uma coalizão de apoio no Legislativo que lhe permita avançar a sua agenda de políticas
+públicas (BITTENCOURT, 2012). Estes instrumentos são de variada natureza. Uma corrente de
+autores enfatiza a subordinação concreta do Legislativo à agenda presidencial de políticas
+públicas, que teria origem nas regras institucionais, decorrentes tanto da Constituição quanto
+das normas infraconstitucionais - em particular os regimentos intemos das Casas Legislativas
+(LIMONGI; FIGUEIREDO, 1998; MONTERO, 2009; PALERMO, 2000; SANTOS, 1997;
+SHUGART; CAREY, 1992.). Outra vertente observa que o poder de agenda não é absoluto e
+que é necessário negociar coalizões, por meio de um complexo jogo de transações entre o
+Executivo e os parlamentares, trocando o apoio parlamentar por uma série de concessões aos
+legisladores, individual e coletivamente.
+
+Inclui-se nessa negociação a possibilidade de coparticipação de seus aliados nos cargos
+de responsabilidade política (AMORIM NETO, 2000; AMORIM NETO, 2006; PEREIRA;
+POWER; RAILE, 2011)!. Mas a forma canônica de transação entre Executivo e parlamentares,
+na tradição distributivista (ARNOLD, 1991, apud FIGUEIREDO; LIMONGI, 1999;
+MAY HEW, 1974, apud SAMUELS, 2000; AVELAR; CINTRA, 2007; LEMOS; RICCI 2011;
+LLANOS, 2007), é a distribuição de bens pork na forma de rubricas de despesa orçamentária
+que direcionam os recursos públicos para obras e serviços natureza local, que possam ser
+identificados pelo eleitor como uma "benesse" do parlamentar individual: em síntese, as
+emendas parlamentares ao orçamento (AMES 1995; CAREY; SHUGART, 1995;
+MAINWARING, 1999; BITTENCOURT, 2008; AMES; PEREIRA; RENNÓ, 2011;
+PEREIRA; MUELLER, 2002; PEREIRA; MUELLER, 2003; BEZERRA, 1999)...
+
+Dentro deste quadro teórico, portanto, torna-se relevante investigar empiricamente a
+proposição e gestão das emendas ao orçamento. Do ponto de vista metodológico, os estudos de
+natureza orçamentária mostram-se promissores em função da grande quantidade de informação
+quantitativa hoje facilmente disponível para o orçamento federal, tanto em panel quanto em
+séries temporais, permitindo o aprofundamento de análises com base estatística solvente.
+
+O objetivo deste trabalho é explorar as possibilidades de um tratamento estatístico
+simples dos dados orçamentários para avançar a discussão da dinâmica do funcionamento do
+presidencialismo brasileiro. Nesse sentido, apresenta-se uma análise exploratória de dados sobre
+a execução das despesas orçamentárias federais, seguida do teste de algumas hipóteses simples
+extraídas da linha central de argumentação acima delineada no que se refere à utilização do
+
+1 Junto a esses autores “clássicos” que estudam a patronagem a partir da divisão dos postos de nível ministerial
+(cabinet posts) entre os partidos — a qual está diretamente associada à capacidade de influir na formulação de políticas
+(PRAÇA; FREITAS; HOEPERS, 2011, p.6), têm surgido trabalhos posteriores que examinam não só os cargos no
+gabinete, mas também a repartição das centenas ou milhares de cargos preenchidos por livre nomeação em todos os
+escalões (AMES; PEREIRA; RENNÓ, 2011, P. 241; POWER; TAYLOR, 20114, P. 264; PRAÇA; FREITAS;
+HOEPERS, 2011; PRAÇA; FREITAS; HOEPERS, 20114)
+
+2 Também, com menos ênfase, fala-se da proposição de matérias legislativas de natureza particularista como
+
+34 E-legis, Brasília, n. 18, p. 33-50, set/dez. 2015, ISSN 2175.0688
+Execução Orçamentária e Presidencialismo de Coalizão: uma abordagem exploratória
+
+orçamento como instrumento da relação política entre o Poder Executivo e os membros do
+
+Congresso Nacional.
+
+2 Conteúdo informacional do grau de execução das emendas
+
+Uma das medidas de avaliação das despesas orçamentárias é o grau de execução das
+mesmas, ou seja, em que medida a autorização de despesa constante do orçamento é
+efetivamente materializada como despesa pública. Isto porque, tendo em vista a atual prática
+orçamentária brasileira, mesmo que uma determinada despesa esteja prevista no orçamento, ela
+somente se realizará caso o Executivo adote todas as providências relativas à realização do
+gasto, inclusive a deliberação de gastar ou não, deliberação esta que se encontra, na prática,
+dependente de posição discricionária do Poder Executivo. Não se trata aqui de afirmar a
+validade jurídica dessa discricionariedade absoluta do Executivo na realização ou não da
+despesa autorizada (a qual, desde logo, refutamos), mas simplesmente de tomar como premissa
+empírica que essa vem sendo a prática ininterrupta observada e tolerada por todos os Poderes
+(para uma discussão em profundidade da inconstitucionalidade desta prática “autorizativa” do
+Orçamento, cf. TAQUES, 2013).
+
+Assim, a prática do Executivo em relação às emendas refletirá potencialmente a posição
+que assume ante os legisladores. Mais precisamente, as emendas introduzidas pelo Congresso
+Nacional ao orçamento indicam despesas que são do interesse declarado dos parlamentares e
+que não foram contempladas no rol de despesas propostas pelo Executivo no projeto. Em função
+dessa diferença, as despesas constantes do orçamento podem ser classificadas para os fins
+analíticos deste trabalho em três categorias:
+
+a) Emendas puras- aquelas despesas criadas pelo Congresso, por meio de emendas, cujo
+objeto não existia na proposta enviada pelo Presidente da República (despesas presumivelmente
+de interesse exclusivo dos parlamentares);
+
+b) Emendas de acréscimo - aquelas programações que já existiam na proposta do
+Executivo, mas que receberam mais dinheiro por força de emendas (ou seja, aquelas despesas já
+de interesse do Executivo nas quais o Congresso manifesta também ter interesse a ponto de
+aumentar-lhes os recursos); e
+
+c) Programação sem emendas - programação recebida do Executivo para a qual o
+Congresso manifesta indiferença ou desinteresse (por meio da simples manutenção ou da
+redução do valor autorizado para a despesa, em relação ao valor proposto pelo Executivo).
+
+Caso a execução das emendas seja de fato uma ferramenta de barganha do Executivo
+em troca de apoio, caberá então a hipótese de que o tratamento dado a cada uma dessas
+categorias seja distinto. Neste sentido, a hipótese consistente com a teoria de que as emendas
+
+são trocadas por apoio legislativo é a de que o Executivo executa as despesas de interesse dos
+
+ 
+
+instrumento de natureza similar (AMORIM NETO; SANTOS, 2002).
+
+E-legis, Brasília, n. 18, p. 33-50, set/dez. 2015, ISSN 2175.0688 35
+Femando Moutinho Ramalho Bittencourt
+
+parlamentares em menor proporção do que as de seu próprio interesse (porque o faz de forma
+condicional, apenas em troca de apoios em outras posições dentro da agenda da coalizão).
+Assim, o grau de execução das emendas puras seria, nessa hipótese, menor que o da
+programação sem emendas (os dois casos mais extremos). Quanto às emendas de acréscimo,
+teriam um grau de execução intermediário, por concorrerem nelas duas motivações distintas de
+sentido contrário. Estas são as hipóteses testadas neste trabalho.
+
+3 Metodologia e organização dos dados
+
+O levantamento empírico foi realizado com os dados do orçamento federal de 2013, por
+tratar-se de um ano não eleitoral (sem sofrer, portanto, as excepcionalidades aplicáveis à
+despesa pública por força da lei eleitoral) e que não representa o primeiro ano de uma
+legislatura (portanto, quando os dois lados já adquiriram prática e familiaridade recíproca para o
+jogo). Os dados foram extraídos do sistema SIGA Brasilº, abrangendo as despesas federais com
+obras e equipamentos, não consideradas obrigatórias por lei e não incluídas pelo Executivo na
+relação de empreendimentos do PAC. Por essa seleção prévia, restringe-se a análise àquelas
+despesas mais tipicamente discricionárias, com o fim de minimizar a influência nos resultados
+de outros fatores que possam afetar a priorização de uma determinada despesa, como eventuais
+obrigações legais. A pós a descarga do sistema SIGA Brasil em planilha Excel, os dados foram
+tratados no ambiente R para fins de análise estatística”.
+
+A variável estudada é o grau de execução de cada despesa individualizada no
+
+ã Sistema SIGA Brasil, Universo Despesa Execução 2013.
+
+4 Aplicando os seguintes filtros de seleção no Universo: GND-4; Indicadores de Resultado Primário "Resultado Lei =
+2" e "Resultado EOF =2.
+
+3 Após a descarga da planilha Excel e sua exportação para um arquivo CSV e a montagem de um data frame do R.
+Os arquivos de dados e os scripts utilizados encontram-se à disposição para eventuais consultas junto ao autor. Como
+filtros prévios, foram excluídos os valores de despesa que apresentavam valor zero na lei orçamentária aprovada (e
+que, portanto, não foram autorizados pelo Congresso) ou cujo valor autorizado foi reduzido a zero posteriormente (ou
+seja, que tiveram seu cancelamento formalmente autorizado pelo Legislativo, ainda que durante o exercício). Estes
+casos não seriam pertinentes para a análise ora empreendida, pois foram despesas sobre as quais o Congresso
+formalmente manifestou seu desinteresse, autorizando o cancelamento. Para a montagem do arquivo final,
+acrescentou-se o dado essencial do “Grau de Execução”, criando-se uma nova coluna com a divisão do campo
+“Despesa Executada” pelo campo “Valor Autorizado” (O divisor, portanto, inclui o valor dos créditos adicionais, O
+que é relevante na medida em que se trata igualmente de manifestação do Congresso sobre o mérito da respectiva
+despesa, ainda que posteriormente à aprovação da Lei Orçamentária). Em seguida, foram eliminadas as linhas com
+graus de execução inferiores a zero e superiores a 1. Isto é o mais próximo possível, conceitualmente, à exclusão de
+outliers, uma vez que a ocorrência destes valores não tem sentido lógico na estrutura de dados e representaria,
+provavelmente, erros de sistema (não houve, na base examinada, valores inferiores a zero; foram excluídos valores
+superiores a um, que podem representar tanto registros inconsistentes no sistema de origem quanto a eventual
+ocorrência da reabertura de saldos de créditos especiais e extraordinários aprovados no último trimestre do ano (art.
+167, 8 23, da CF/88). Diante da possibilidade de que representem erros, porém, e da pequena materialidade do total
+detectado, optou-se por excluir essas unidades observacionais da análise. Em seguida, o data frame global foi
+dividido em três tabelas diferentes, conforme contivessem:
+
+a) as “emendas puras”: Valor PL (Valor do Projeto de Lei Orçamentária enviado pelo Executivo) = O e Dotação
+
+Inicial (Valor na Lei Orçamentária Aprovada) > 0, ou seja, uma funcional criada pelo Legislativo — 3117
+
+funcionais no total;
+
+b) as “emendas de acréscimo”: Valor PL <> 0 e Dotação Inicial > Valor PL, ou seja, uma funcional aumentada
+
+pelo Legislativo — 171 funcionais no total;
+
+c) a “programação sem emendas”: Valor PL <> 0 e Dotação Inicial <= Valor PL, ou seja, uma funcional trazida
+
+36 E-legis, Brasília, n. 18, p. 33-50, set/dez. 2015, ISSN 2175.0688
+Execução Orçamentária e Presidencialismo de Coalizão: uma abordagem exploratória
+
+orçamento”, obtido pela divisão do valor da despesa efetivamente executada” pelo Poder
+Executivo pelo valor autorizado para aquele objeto pelo Congresso Nacional?. Naturalmente, o
+Grau de Execução variará entre O (execução nula - nenhuma parcela da despesa autorizada teve
+cumpridas pelo Executivo quaisquer das etapas administrativas que permitiriam a sua execução
+no exercício ou em exercícios subsequentes) e 1 (execução total - a totalidade da despesa foi
+objeto de pelo menos uma das etapas que permitiriam a sua execução). Esta variável é
+observada comparativamente em três conjuntos diferentes: o que contém as emendas puras
+(objeto de despesa criado pelo Legislativo), as emendas de acréscimo (objeto de despesa cujo
+valor foi aumentado pelo Legislativo) e a programação sem emendas (despesa ignorada ou
+
+reduzida pelo Legislativo), incluindo respectivamente 3117, 171 e 986 programações cada um.
+
+4 Análise exploratória do grau de execução entre as diferentes categorias de emendas
+
+Em primeiro lugar, não é de surpreender o número absoluto de observações de cada um:
+ainda que o número de programações vindas do executivo no PLOA seja muito maior, grande
+parte delas será de despesas obrigatórias, ou de custeio, ou mesmo despesas marcadas como
+pertencentes ao PAC. Para o subconjunto de despesas que selecionamos, pelo seu caráter de
+discricionariedade e (na visão do Executivo) baixa prioridade em relação às do PAC, o número
+de itens criados pelo Legislativo tende realmente a ser maior do que os remanescentes da
+proposta do Executivo.
+
+As principais estatísticas descritivas dos subconjuntos parecem confirmar as hipóteses
+iniciais. Com efeito, a execução das emendas de acréscimo e da programação sem emendas é,
+na média, quase o dobro das emendas puras, e a variação destas é inusualmente alta (o desvio-
+
+padrão é maior que a média), mostrando um tratamento muito menos uniforme que o das
+
+ 
+
+ 
+
+demais.
+Tabela 1 — Estatísticas descritivas para as categorias de despesa
+Categoria Média Desvio-padrão Coeficiente de Variação
+Emendas puras 0.3785118 0.4544601 1.20065
+
+Emendas deacráscimo 0.6414193 0.3361274 0.524037
+
+Programação sem emendas 0.6115235 0.3964932 0.6483697
+Fonte: Elaboração própria a partir de dados do sistema SIGA Brasil
+
+ 
+
+ 
+
+- pelo Executivo, mas ignorada - ou reduzida - pelo Legislativo - 986 funcionais no total.
+
+SA individualização considerada é a “Funcional” até o nível de subtítulo, que representa o máximo grau de
+detalhamento possível da discriminação do objeto de uma despesa no orçamento federal.
+
+7 Este conceito, no repositório do sistema SIGA Brasil, inclui a despesa liquidada e a despesa inscrita em Restos a
+Pagar, o que é compatível com o conceito de que qualquer medida efetivamente adotada pelo Poder Executivo
+tendente à execução da despesa é relevante para a análise realizada, ainda que não tenha havido a conclusão formal
+do processo de execução mediante a liquidação ou o pagamento.
+
+É Esse divisor adiciona ao valor da lei orçamentária o valor dos créditos adicionais, na medida em estes representam
+igualmente manifestação do Congresso sobre o mérito da respectiva despesa, ainda que posteriormente à aprovação
+da Lei Orçamentária.
+
+E-legis, Brasília, n. 18, p. 33-50, set/dez. 2015, ISSN 2175.0688 37
+Femando Moutinho Ramalho Bittencourt
+
+O histograma das emendas reforça esta impressão. As emendas puras têm sua execução
+concentrada nos dois extremos (a maioria absoluta inferior a 10%, e uma parcela minoritária
+superior a 90%), com praticamente nenhuma ocorrência de um grau de execução intermediário,
+indicando a possibilidade de um manejo ad hoc (ou seja, executar ou não executar segundo
+
+critérios discricionários vinculados à relação política do Executivo com o parlamentar).
+
+Histograma de Emendas puras
+
+1500
+
+Frequência
+
+0 500
+
+ 
+
+0.0 02 04 0.6 08 1.0
+Grau de execução
+
+Figura 1 — Histograma da categoria Emendas puras
+Fonte: Elaboração própria a partir de dados do sistema SIGA Brasil
+
+As emendas de acréscimo têm uma distribuição relativamente equilibrada do grau de
+execução entre os demais grupos (exceto o superior a 90%, com clara predominância). Ou seja,
+verifica-se maior parcela com execução alta (compatível com um interesse maior do Executivo
+
+em realizar esse gasto), e uma distribuição mais homogênea dos diferentes graus.
+
+Histograma de Emendas de acréscimo
+
+40
+
+Frequência
+20
+
+ 
+
+ 
+
+0.0 0.2 04 0.6 08 10
+
+Grau de execução
+
+Figura 2 — Histograma da categoria emendas de acréscimo
+Fonte: Elaboração própria a partir de dados do sistema SIGA Brasil
+
+Já a programação sem emendas tem um perfil mais próximo ao das emendas de
+acréscimo (valores intermediários mais importantes em relação aos extremos, valores superiores
+a 90% mais frequentes que os inferiores a 10%), sendo pouco perceptível, visualmente, uma
+
+diferença entre ambos os grupos.
+
+38 E-legis, Brasília, n. 18, p. 33-50, set/dez. 2015, ISSN 2175.0688
+Execução Orçamentária e Presidencialismo de Coalizão: uma abordagem exploratória
+
+Histograma de Programacao sem emendas
+
+300
+
+Frequência
+E
+
+100
+
+ 
+
+ 
+
+ 
+
+ 
+
+o ut
+
+TroOoTo To ToÕgTÃÕÃÕÃãl
+00 0.2 04 06 08 10
+
+ 
+
+ 
+
+Grau de execução
+
+ 
+
+Figura 3 — Histograma da categoria programação sem emendas
+Fonte: Elaboração própria a partir de dados do sistema SIGA Brasil
+
+O exame dos três grupos sugere existir uma concentração nos extremos (muito mais
+pronunciada para as novas despesas criadas pelo Congresso), com curvas de frequência em
+forma de “U” (o que questiona desde logo a própria hipótese de normalidade dos dados), bem
+como uma diferença significativa entre as programações trazidas pelo Executivo e aquelas
+abertas pelo Congresso.
+
+A característica de concentração extrema do primeiro conjunto é confirmada pelo box-
+plot, que praticamente não permite distinguir a distribuição, por tão concentrada nos extremos.
+De fato, o extremo inferior, o primeiro quartil e a mediana são iguais a zero, enquanto o terceiro
+quartil é 0,9948 para um extremo superior de 1,0º. Já o box-plot dos demais é mais visível,
+deixando claro que, conquanto concentradas nos extremos, têm distribuição mais alongada entre
+os extremos. As medianas são próximas (e um superiores à média, ambas entre 70% e 80%),
+mas a programação sem emendas tem uma maior parcela de suas unidades com graus menores
+
+de execução.
+
+Box-plot de Emendas puras Box-plot de Emendas de acréscimo Box-plot de Programacao sem emendas
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+T T T T T T T T T T T T T T T T T T
+00 02 04 058 08 10 00 02 04 06 08 10 00 02 04 06 08 10
+
+Grau de execução Grau de execução Grau de execução
+
+ 
+
+Figura 4 — Box-plot das três categorias em mesma escala
+Fonte: Elaboração própria a partir de dados do sistema SIGA Brasil
+
+5 Formulação e teste das hipóteses
+
+As hipóteses a testar, já antecipadas na seção introdutória, são alinhadas à premissa
+teórica de que, sendo a execução do orçamento de interesse dos parlamentares uma ferramenta
+de barganha, interessa mais ao Executivo gastar com as suas programações do que aquelas
+
+criadas pelo Legislativo. Assim:
+
+º Dados da função “boxplot.stats”:
+> boxplot.stats(emendas.puras$grau.execucao, coef = 0)
+$stats
+
+E-legis, Brasília, n. 18, p. 33-50, set/dez. 2015, ISSN 2175.0688 39
+Femando Moutinho Ramalho Bittencourt
+
+1) O grau de execução das emendas puras (despesas de interesse exclusivamente
+parlamentar) deve ser menor do que o da programação sem emendas (interesse
+
+exclusivamente do Executivo);
+
+Ho: emendas.puras$grau.de.execução <
+programação.sem.emendas$grau.de.execução
+Hi: emendas.puras$grau.de.execução >=
+
+programação.sem.emendas$grau.de.execução
+
+2) O grau de Execução das emendas puras deve ser maior do que as das emendas de
+
+acréscimo (que agrupam parcelas de interesse dos dois Poderes);
+
+Ho: emendas.puras$grau.de.execução <
+emendas.de.acrescimo$grau.de.execução
+Hi: emendas.puras$grau.de.execução > =
+
+emendas.de.acrescimo$grau.de.execução
+
+3) O grau de Execução das emendas de acréscimo (que agrupa parcelas de interesse
+
+dos dois Poderes) deve ser menor do que as da programação sem emendas;
+
+Ho: emendas.de.acrescimo$grau.de.execução <
+programação.sem.emendas$grau.de.execução
+H1: emendas.de.acrescimo$grau.de.execução > =
+
+programação.sem.emendas$grau.de.execução
+
+Para o teste empírico, a análise gráfica já sugere um desafio do ponto de vista
+estatístico: a distribuição de frequência dos três conjuntos possivelmente não representa uma
+distribuição normal. De fato, os testes estatísticos de normalidade”? indicam claramente não se
+tratar de uma normal:
+
+Tabela 2 — Testes de normalidade para as três categorias de despesa
+
+ 
+
+Teste de normalidade Shapiro- Teste de Kolmogorov-Smirnov
+
+ 
+
+Categoria Wilk com uma amostra
+Estatística W pvalue Estatística D pvalue
+Emendas puras 0.6882 <2.2e-16 0.3474 <2.2e-16
+0.8739 =8.402e-11 0.143 =0.00183
+
+Emendas de acréscimo
+Programação sem emendas 0.8085 <2.2e-16 0.2217 <2.2e-16
+Fonte: Elaboração própria a partir de dados do sistema SIGA Brasil
+
+ 
+
+Para os testes Shapiro-Wilk, todos os p-values são muito inferiores a 0,05, ou seja, há
+fundamento para rejeição da hipótese nula do teste (a de que a amostra examinada provém de
+
+uma distribuição normal)!!. Os testes Kolmogorov-Smimov aplicados a cada um dos três
+
+ 
+
+[1] 0.00000 0.00000 0.00000 0.99948 1.00000
+19 Teste Shapiro-Wilk (função R: “shapiro.test”) e Teste Kolmogorov-Smimov com uma amostra e hipótese
+alternativa bilateral (função R “ks.test””)
+1 «The Kolmogorov-Smimov test and Shapiro-Wilk test do just this: they compare the scores in the sample to a
+normally distributed set of scores with the same mean and standard deviation. If the test is non-significant (p >.05) it
+tells us that the distribution of the sample is not significantly different from a normal distribution (i.e. it is probably
+
+40 E-legis, Brasília, n. 18, p. 33-50, set/dez. 2015, ISSN 2175.0688
+Execução Orçamentária e Presidencialismo de Coalizão: uma abordagem exploratória
+
+conjuntos de dados normalizados, comparados com uma normal (0,1), oferecem um p-value
+igualmente inferior ao limiar de 0,05, rejeitando a hipótese nula de igualdade entre a
+distribuição de cada grupo e uma normal”,
+
+As mesmas conclusões derivam-se do gráfico Q-Q Plot: as linhas dos dados dos três
+conjuntos afastam-se significativamente do traçado esperado para uma distribuição normal de
+
+mesma média e desvio-padrão, especialmente nos valores extremos.
+
+Q-Q plot de Emendas puras
+
+ 
+
+08
+L
+
+04
+
+ 
+
+ 
+
+00
+!
+jo
+
+ 
+
+Grau de execução encontrado
+
+Grau de execução esperado
+
+Q-Q plot de Emendas de acrescimo
+
+ 
+
+08
+!
+
+04
+
+ 
+
+ 
+
+00
+
+ 
+
+Grau de execução encontrado
+
+Grau de execução esperado
+
+Q-Q plot de Programacao sem emendas
+
+ 
+
++ o
+
+04
+!
+
+ 
+
+ 
+
+0.0
+
+ 
+
+T T T T T T T
+30204 0 Í 2 3
+
+Grau de execução encontrado
+
+Grau de execução esperado
+
+ 
+
+Figura 5 — Q-Q plot das três categorias de despesa
+Fonte: Elaboração própria a partir de dados do sistema SIGA Brasil
+
+Não obstante a virtual impossibilidade de considerar os três conjuntos de dados como
+
+normalmente distribuídos de per si, a aplicação de teste de comparação de médias (“teste t”)
+
+ 
+
+normal). If, however, the test is significant (p <.05) then the distribution in question is significantly different from a
+normal distribution (i.e. it is non-normal)”. (FIELD, 2009, p. 144)
+
+2 “Alternatively, y can be a character string naming a continuous (cumulative) distribution function, or such a
+function. In this case, a one-sample test is carried out of the null that the distribution function -which generated x is
+distribution y with parameters specified by”. (R CORE TEAM, 2014a, p. 1332).
+
+E-legis, Brasília, n. 18, p. 33-50, set/dez. 2015, ISSN 2175.0688 41
+Femando Moutinho Ramalho Bittencourt
+
+ainda tem sentido estatístico. Pelo Teorema do Limite Central, para qualquer distribuição da
+população, a distribuição amostral das médias das amostras extraídas dessa população pode ser
+aproximada pela distribuição normal, à medida que o tamanho da amostra se toma maior?
+Portanto, se tomarmos os dados de 2013 como uma amostra dos possíveis comportamentos do
+Executivo com relação aos diferentes tipos de intervenção do Congresso na formação da lei
+orçamentária, temos uma distribuição teórica da probabilidade desse comportamento
+(sintetizado pela média do grau de execução) com características de normalidade, permitindo
+inferir a partir daí uma eventual diferença estatisticamente significativa entre essas distintas
+condições orçamentárias. O “teste-t” depende apenas dessa premissa (e não da distribuição
+normal da população ou da amostra respectiva)!!, e portanto pode ser aplicado no caso que
+estudamos.
+
+Mais especificamente, o “teste t” dirá se a probabilidade da diferença entre as médias
+dos pares de conjuntos de dados escolhidos ser negativa (medida pela estatística “t”) é superior
+aquela que seria esperada para a obtenção puramente ocasional ou fortuita dessa diferença em
+alguma amostral. Pela natureza da formulação teórica subjacente, fazemos as hipóteses
+unicaudais ou unidirecionais (pois temos a direção da diferença esperada na hipótese), e
+evidentemente trata-se de um teste não-pareado ou independente, pois refere-se a grupos
+diferentes de observações (e não à aplicação da mesma condição aos mesmos sujeitos em
+momentos diferentes no tempo).
+
+O “teste t” exige, ainda, uma avaliação prévia da variância das amostras comparadas, ou
+seja, se são iguais ou não (MERCADO; MACÍAS; BERNARDI, 2009), caso contrário uma
+aproximação numérica precisará ser feita ao teste!, Uma primeira impressão baseada na análise
+exploratória sugere que efetivamente não sejam consideradas iguais. Porém, é conveniente
+reforçar esta impressão com o teste F aplicado aos pares de conjuntos a serem comparados
+(ANDERSON; SWEENEY; WILLIAMS, 2001). Com efeito, os resultados do teste F indicam
+
+uma probabilidade mínima de igualdade de variância (razão entre variâncias = 1) ser encontrada
+
+o Anderson, Sweeney, Williams, 2002, p. 263; Schwartz; Marciano, 2014, p55. Este tamanho da amostra para o qual
+se aplica a convergência à normalidade não tem uma definição única, mas uma “rule of thumb” baseada em estudos
+empíricos garante que amostras com tamanho de 30 elementos ou mais já atendem a esta condição (KACHIGAN,
+1982, p. 111). O tamanho dos conjuntos de dados aqui analisados, evidentemente, supera qualquer limiar que se
+deseje para o cumprimento dessa condição.
+1 Both the independent t-test and the dependent t-test are parametric tests based on the normal distribution [..].
+Therefore, they assume:
+
+- The sampling distribution is normally distributed. In the dependent t-test this means that the sampling
+
+distribution of the differences between scores should be normal, not the scores themselves (see section 9.4.3).
+
+- Data are measured at least at the interval level. (Field, 2009, p. 326)
+IS As with the dependent t-test we can compare the obtained value of t against the maximum value we would expect
+to get by chance alone in a t-distribution with the same degrees of freedom (these values can be found in the
+Appendix); if the value we obtain exceeds this critical value we can be confident that this reflects an effect of our
+independent variable (R CORE TEAM, 20144, p. 336).
+16 var.equal : a logical variable indicating whether to treat the two variances as being equal. If TRUE then the
+pooled variance is used to estimate the variance otherwise the Welch (or Satterthwaite) approximation to the degrees
+of freedom is used. (R CORE TEAM, 20144, p. 1563). Daí a razão para a utilização do teste “Welch t” pelo R em
+lugar do teste clássico. No mesmo sentido, <http://www.utdallas.edu/-ammann/stat6V 99/node2.html>.
+
+ 
+
+42 E-legis, Brasília, n. 18, p. 33-50, set/dez. 2015, ISSN 2175.0688
+Execução Orçamentária e Presidencialismo de Coalizão: uma abordagem exploratória
+
+por acaso, estando esta igualdade fora do intervalo de confiança. Nessas condições, justifica-se
+
+o conservadorismo de realizar o teste indicando que as variâncias dos conjuntos testados não
+são iguais.
+
+Tabela 3 - Teste F!” de comparação das variâncias das três categorias de despesa
+
+ 
+
+Teste F para comparar duas variâncias
+Estatística Num. Ppvalue Intervalo de confiança (95 % ) para a
+
+ 
+
+Pares de Categorias F Graus de relação entre as variâncias das
+
+comparadas Liberdade categorias comparadas
+Limite Média Limite
+inferior Superior
+
+Emendas puras vs. 1.828 3116  8.327e-07 1.452748  1.828031  2.250833
+
+Emendas de acréscimo
+
+Emendas puras vs. 1.3138 3116  2.7166-07 1.185523 1.313772  1.451960
+
+Programação sem emendas
+
+Emendas de acréscimo vs. 0.7187 985 0.007466 0.5759992 0.7186812 0.9139232
+Programação sem emendas
+
+Fonte: Elaboração própria a partir de dados do sistema SIGA Brasil
+
+Feitas essas ressalvas, podemos então realizar o “teste t” independente/não-pareado para
+cada par de categorias de despesas, unicaudal, com variâncias desiguais, tendo por hipótese nula
+(HO) que a média de uma das categorias é menor do que a outra, na direção já indicada!ê,
+
+Os resultados apontam que, para alguns dos pares, não é possível rejeitar a hipótese
+
+ 
+
+ 
+
+nula.
+Tabela 4 — Teste T (Welch)!º de comparação das três categorias de despesa duas a duas
+Teste T (Welch) para comparar duas amostras
+. Estatísticat Num. pvalue Intervalo de confiança (95 % ) unicaudal
+Pares de Categorias Graus de para a diferença entre as médias das
+comparadas (“X” VS.. Liberdade categorias comparadas
+“v?) Limite Média Média
+inferior estimada de estimada de
+cy» ey»
+Emendas puras vs. -9.7509 205.694 <2.2e-16 -0.2183577 0.3785118 0,6414193
+Emendas de acréscimo
+Emendas puras vs. -15.51 1871.64 <2.2e-16 -0.2082883 0.3785118 0.6115235
+
+Programação sem emendas
+Emendas de acréscimo vs. 1.0439 259.34  =0.8513 0.07717047 0.6414193 0.6115235
+Programação sem emendas
+
+Fonte: Elaboração própria a partir de dados do sistema SIGA Brasil
+
+No primeiro teste (se emendas puras têm grau de execução menor que emendas de
+
+da Função R “var.test”, testando a hipótese nula de que a relação entre a variância das duas amostras testadas é igual a
+um (ou seja, as variâncias são iguais), em teste bicaudal.
+8 Como já visto, a expectativa de que a média do grau de execução das emendas puras seja menor que a das emendas
+
+de acréscimo e que a da programação sem emendas, e a das emendas de acréscimo seja também menor que a da
+programação sem emendas.
+
+1º Função R “t.test”, incluindo nos parâmetros as opções: “alternative = c("less")”, “paired = FALSE”, «
+var.equal = FALSE”, “conf.level = 0.95”
+
+E-legis, Brasília, n. 18, p. 33-50, set/dez. 2015, ISSN 2175.0688 43
+Femando Moutinho Ramalho Bittencourt
+
+acréscimo), temos que o t-value é negativo e bastante alto, indicando uma diferença negativa
+entre a média dos dois grupos, bastante grande em relação ao erro padrão. O p-value, como
+seria de se esperar, é bastante inferior ao nível de confiança de 0,05, indicando muito pequena
+probabilidade de que os valores comparados sejam obtidos caso a hipótese nula seja verdadeira
+(ou seja, se os dois grupos têm a mesma média, a possibilidade de uma diferença de médias ser
+extraída de ambos teria esta mínima probabilidade). O intervalo de confiança para a diferença
+entre as médias tem por limite? um número negativo, indicando que se espera que em 95% dos
+casos essa diferença seja realmente negativa. Assim, há fundamento para rejeitar a hipótese
+nula, ou seja, a hipótese de que as médias são iguais (corroborando provisoriamente, para uso
+em futuros testes mais precisos, a hipótese alternativa de que as emendas puras têm grau de
+execução menor que o das emendas de acréscimo).
+
+No segundo teste (se emendas puras têm grau de execução menor que a programação
+sem emendas), o t-value também é negativo e ainda mais alto (diferença entre as médias
+negativa e alta frente ao erro padrão). De igual modo, o p-value sequer se aproxima do nível de
+confiança de 0,05 (baixa probabilidade de obtenção, sob a hipótese nula, dos valores
+examinados). O intervalo de confiança para a diferença entre as médias tem um limite negativo
+ainda menor (expectativa de que em 95 % dos casos a diferença seja negativa). Aqui também,
+portanto, há fundamento para rejeitar a hipótese nula (da mesma forma, corroborando
+provisoriamente a hipótese altemnativa de que as emendas puras têm grau de execução menor
+que o da programação sem emendas).
+
+O terceiro teste (se emendas de acréscimo têm grau de execução menor que a
+programação sem emendas) é consistente com a suposição teórica de que existem interesses
+contrapostos: a direção da resposta não é conclusiva. O t-value (1,04) é positivo e pequeno, o p-
+value de 0,85 supera bastante o nível de confiança de 0,05 (indicando que a possibilidade de
+obtenção dos resultados é muito alta mesmo se vigente a hipótese nula). O intervalo de
+confiança para a diferença entre as médias tem um limite positivo, indicando que uma faixa
+significativa de valores não-negativos (de O a 0,7) tem probabilidade de surgir em 95% dos
+casos). Destarte, neste ponto o teste falha em rejeitar a hipótese nula, não sendo possível
+descartar dentro do grau de segurança escolhido de 95 % a possibilidade de que a execução das
+emendas de acréscimo seja igual ou maior que a programação sem emendas.
+
+Em função desse resultado, estendemos o teste para verificar agora a hipótese de
+igualdade entre as médias (ou seja, de que o tratamento pelo Executivo das programações
+preexistentes com valor aumentado pelo Congresso seja igual ao daquelas que o Legislativo
+
+ignorou ou mesmo reduziu). As hipóteses nula e alternativa ficam então assim enunciadas:
+
+20 Limite único, no caso, pelo fato do teste ser unicaudal.
+
+44 E-legis, Brasília, n. 18, p. 33-50, set/dez. 2015, ISSN 2175.0688
+Execução Orçamentária e Presidencialismo de Coalizão: uma abordagem exploratória
+
+Ho: emendas.de.acrescimo$grau.de.execução =
+programação.sem.emendas$grau.de.execução
+Hi: emendas.de.acrescimo$grau.de.execução I=
+
+programação.sem.emendas$grau.de.execução
+
+O novo teste tampouco nos autoriza a rejeitar a hipótese nula: mantido naturalmente o
+valor de t em relação ao teste anterior, temos um p-value ainda superior ao nível de confiança
+(probabilidade da ocorrência sob hipótese nula), e um intervalo de confiança que inclui o valor
+zero (igualdade entre as médias). Portanto, tampouco a suposição de igualdade entre as médias
+pode ser rejeitada, persistindo a sua plausibilidade para desenvolvimentos posteriores da teoria.
+
+Tabela 5 - Teste T (Welch) * de comparação Emendas de acréscimo vs. Programação sem emendas
+
+ 
+
+Teste T (Welch) para comparar duas amostras
+Estatística t Num. pvalue Intervalo de confiança (95 % ) unicaudal para a
+
+Pares de Categorias Graus de diferença entre as médias das categorias comparadas
+comparadas (“X” Liberdade Média Média
+VS. “Y>) Limite Limite | estimada de estimada
+inferior Superior “ex” de “y”
+
+ 
+
+Emendas de acréscimo
+vs. Programação sem 1.0439 259.34  =0.2975 -0.02649730 0.08628899 0.6414193 0.6115235
+emendas
+
+ 
+
+Fonte: Elaboração própria a partir de dados do sistema SIGA Brasil
+
+Estes resultados podem ser visualizados com o gráfico abaixo (FIELD, 2009), no qual
+são plotados os intervalos de confiança da média segundo a distribuição t2.
+
+INTERVALO DE CONFIANÇA —
+PROGRAMAÇÃO SEM EMENDAS
+
+INTERVALO DE
+CONFIANÇA —
+EMENDAS DE
+ACRESCIMO
+
+0.65
+
+0.50
+
+INTERVALO DE
+CONFIANÇA
+EMENDAS PURAS
+
+ 
+
+035
+
+10 1.5 20 25 30
+
+Figura 6 — Gráfico de intervalos de confiança das três categorias em mesma escala
+Fonte: Elaboração própria a partir de dados do sistema SIGA Brasil
+
+Fica claro no gráfico o sentido dos testes: dentro do nível de confiança desejado, a
+média para emendas puras ficará, em 95% das ocorrências, dentro dos limites do intervalo à
+esquerda, não se superpondo às médias dos outros dois. Já entre os intervalos de emendas de
+
+acréscimo e programação sem emendas, há superposição dos intervalos, indicando que a faixa
+
+a Função R “t.test”, incluindo nos parâmetros as opções: “alternative = c("two-sided")”, “paired = FALSE”, “
+var.equal = FALSE”, “conf.level = 0.95”
+
+22 Para as emendas puras, a construção do intervalo foi feita aqui segundo um teste bicaudal, para consistência na
+apresentação junto com as demais (embora o teste de hipótese tenha sido mais rigoroso, unicaudal).
+
+E-legis, Brasília, n. 18, p. 33-50, set/dez. 2015, ISSN 2175.0688 45
+Femando Moutinho Ramalho Bittencourt
+
+de valores esperados para ocorrência das médias dos dois grupos em 95% dos casos inclui um
+
+intervalo em que podem coincidir.
+
+6A modo de conclusão
+
+O exame procedido no subconjunto de despesas selecionado do orçamento federal de
+2013 sugere, portanto, a corroboração provisória da hipótese do tratamento diferenciado por
+parte do Executivo em relação às despesas introduzidas no orçamento pelo Congresso, ou seja,
+de que o Executivo, nas circunstâncias mais amplas possíveis de discricionariedade?, executa
+uma proporção menor das despesas criadas por emenda parlamentar do que daquelas despesas
+que já constavam no projeto de lei orçamentária que submeteu ao Congresso*,
+
+Essa constatação é compatível com a abordagem teórica de que a execução das emendas
+parlamentares (despesas de interesse dos legisladores contidas no orçamento) é utilizada como
+instrumento de barganha: ficando demonstrada a sua aplicação segundo critérios diferentes dos
+das demais despesas, permanece de pé a possibilidade de que o fator discriminante dessa
+diferença seja exatamente o resultado da barganha política por apoio entre os legisladores. De
+um ponto de vista institucional, isso coloca igualmente a constatação de que, para além da
+eventual obrigatoriedade de certas despesas proveniente de outras leis materiais, o orçamento
+contém despesas “de primeira classe” e “de segunda classe” em relação à sua aplicação, sendo
+essa classificação determinada por critérios que não são os constantes no ordenamento jurídico,
+mas sim provenientes de discricionariedade administrativa ou política - o que a nosso ver
+contradiz os princípios constitucionais de legalidade, impessoalidade e independência dos
+Poderes?.
+
+Quanto a uma eventual diferença entre o tratamento dado pelo Executivo às
+modificações pelo Congresso do valor das despesas que já constavam da proposta, frente
+aquelas que permaneceram inalteradas, os testes não são conclusivos, não sendo possível
+rejeitar que seja o mesmo. Assim, a afirmação sobre uma eventual alteração de tratamento em
+função da simples alteração pelo Congresso desses montantes necessitaria de uma análise mais
+fina dos dados. Do ponto de vista teórico, essa diferenciação entre os dois resultados não é
+implausível: uma despesa inteiramente criada pelo Congresso é uma preferência revelada
+exclusivamente pelo legislador, enquanto que uma programação já proposta pelo Executivo e
+modificada pelo Congresso é uma revelação interativa da preferência de ambos; é de se esperar
+que a interação de duas preferências nitidamente opostas no primeiro caso (o legislador revela
+
+interesse por aquela despesa, e o Executivo revela não tê-lo) gere um jogo com contornos mais
+
+“Qu seja, ausentes atributos como obrigatoriedade legal da respectiva despesa, ou prévia enunciação de prioridade
+pelo Executivo na forma da inclusão (também discricionária) no rol de despesas do PAC.
+Categoria que abrange inclusive as despesas desse rol que foram mantidas pelo Congresso com modificações, quer
+por aumento, quer por diminuição.
+5 O detalhamento deste argumento conclusivo encontra-se em Senado Federal, 2013.
+
+46 E-legis, Brasília, n. 18, p. 33-50, set/dez. 2015, ISSN 2175.0688
+Execução Orçamentária e Presidencialismo de Coalizão: uma abordagem exploratória
+
+nítidos do que a interação de duas preferências de mesma direção (ambos desejam ou aceitam a
+despesa), ainda que possam não ter a mesma intensidade ou prioridade na hierarquia de cada
+agente.
+
+É claro que as conclusões aqui apresentadas são de natureza provisória, tanto pela
+simplicidade metodológica dos testes realizados quanto pela utilização de dados de apenas um
+exercício financeiro. Além disso, o universo amostral exclui a parcela das despesas que
+receberam a sinalização de prioridade por parte do Executivo (a exemplo daquelas incluídas no
+PAC), o que possivelmente induzirá a uma dinâmica distinta de execução e que deve ser levada
+em consideração numa avaliação global do conjunto do orçamento dentro das relações entre os
+Poderes no Brasil. Outras questões apresentam ainda grande potencial interpretativo dentro do
+eixo analítico aqui escolhido, tais como a aplicação da avaliação aqui procedida sobre as
+emendas de iniciativa de parlamentares da base do govemo e da oposição? ou os hipotéticos
+efeitos que venha a ter a adoção das regras introduzidas pela Emenda Constitucional 86, de
+2015, que menciona em seu texto serem de execução obrigatória as emendas individuais”. A
+principal contribuição desta breve análise exploratória, portanto, é a de mostrar a potencialidade
+que já apresentam os dados orçamentários, em suas atuais condições de disponibilidade, para
+ampliar a pesquisa empírica sobre a ampla agenda teórica que já está lançada acerca do
+presidencialismo de coalizão brasileiro. O uso de métodos estatísticos mais sofisticados e o uso
+de séries temporais para cobrir períodos mais longos podem trazer à luz indicações relevantes
+sobre o papel do orçamento nas relações entre o Executivo, os parlamentares (individual e
+coletivamente) e os partidos políticos, ajudando a responder questões importantes para a
+
+compreensão da dinâmica política da democracia brasileira.
+
+Referências
+
+AMES, Barry. Electoral rules, constituency pressures, and pork barrel: bases of voting in the
+Brazilian Congress. J ournal of Politics, v. 57, n. 2, p. 324-343, 1995.
+
+AMES, Barry; PEREIRA, Carlos; RENNÓ, Lucio. Famintos por pork: uma análise da demanda
+e oferta por políticas localistas e suas implicações para a representação política. In POWER,
+Thimothy; ZUCCO, Cesar (orgs.). O Congresso por ele mesmo: autopercepções da classe
+política brasileira. Belo Horizonte: Editora UFMG, 2011.
+
+AMORIM NETO, Octavio. Gabinetes Presidenciais, ciclos eleitorais e disciplina legislativa no
+Brasil. Dados, v. 43, n. 3, 2000.
+
+AMORIM NETO, Octavio. Presidencialismo e governabilidade nas Américas. Rio de
+
+28 Dentro das limitações que existem para identificar a autoria individual das emendas quando da análise
+do orçamento executado, decorrentes da inexistência de conexão informacional entre as estruturas de
+dados da elaboração e da execução orçamentária, o que obriga à mensuração da execução de emendas a
+partir de métodos de estimação agregada como o que foi utilizado neste artigo.
+
+7 Para uma discussão crítica sobre a fragilidade dos fundamentos e potenciais efeitos dessa modificação
+legislativa, cf. SENADO FEDERAL, 2013 e SANTOS, 2014. De qualquer forma, no período de tempo
+examinado neste artigo a execução orçamentária não sofreu a influência de qualquer regra dessa natureza.
+
+E-legis, Brasília, n. 18, p. 33-50, set/dez. 2015, ISSN 2175.0688 47
+Femando Moutinho Ramalho Bittencourt
+
+Janeiro: Konrad-A denauer-Stiftung: FGV, 2006.
+
+AMORIM NETO, Octavio; SANTOS, Fabiano. A produção legislativa do Congresso: entre a
+paróquia e a nação. In: VIANNA, Luiz Wemeck (org.). A democracia e os três poderes no
+Brasil. Belo Horizonte: Editora UFMG; Rio de Janeiro: IUPERJ/FAPER]J, 2002. p. 92-139.
+
+ANDERSON, David; SWEENEY, Dennis; WILLIAMS, Thomas. Estatística aplicada à
+administração e economia. São Paulo: Pioneira-Thompson, 2002.
+
+ARNOLD, R D. The logic of congressional action. New Haven: Yale University Press, 1990.
+
+AVELAR, Lúcia; CINTRA, Antônio Octávio. Sistema político brasileiro: uma introdução.
+São Paulo: Editora UNESP, 2007.
+
+BEZERRA, Marcos Otávio. Em nome das "bases": política, favor e dependência pessoal. Rio
+de Janeiro: Relume Dumará, 1999.
+
+BITTENCOURT, Femando. Relações Executivo-Legislativo no presidencialismo de
+coalizão: um quadro de referência para estudos de orçamento e controle (Texto para Discussão
+nº 112 do Centro de Estudos da Consultoria Legislativa). Brasília: Senado Federal, 2012.
+Disponível em: <http://www.senado.gov.br/conleg/textos discussao.htm> Acesso em: 19 ago.
+2014.
+
+BITTENCOURT, Fernando. Alocação de recursos e processo decisório parlamentar — os
+projetos de investimento em transportes rodoviários no orçamento federal 2002-2007.
+Monografia (Especialização) Programa de Pós-Graduação em Ciência Política da Universidade
+do Legislativo Brasileiro e Universidade Federal de Mato Grosso do Sul. Brasília,
+setembro/2008. Disponível em: <http://www2.senado.gov.br/bdsf/item/id/161034> A cesso em:
+19 abr. 2012.
+
+BODEMER, Klaus; FLÓREZ, Femando Carrillo (eds.). Gobernabilidad y reforma
+política en América Latina y Europa. La Paz: GIGA/BID/REDGOB/Plural Editores,
+2007.
+
+CAREY, John M.; SHUGART, Matthew S. Incentives to cultivate a personal vote: a rank
+ordering of electoral formulas. Electoral Studies, v. 14, n. 4, p. 417-439, 1995.
+
+FIELDS, Andy. Discovering Statistics using SPSS. London: SAGE Publications, 2009.
+
+KACHIGAN, Sam Kash. Statistical Analysis: an interdisciplinary introduction to univariate &
+multivariate methods. New Y ork: Radius Press, 1982
+
+LEMOS, Leany Barreiro de Sousa; RICCI, Paolo. Individualismo e partidarismo na lógica
+parlamentar: o antes e o depois das eleições. n POWER, Thimothy; ZUCCO, Cesar (orgs.).
+O Congresso por ele mesmo: autopercepções da classe política brasileira. Belo Horizonte:
+Editora UFMG, 2011.
+
+LIMONGI, Femando; FIGUEIREDO, Argelina Cheibub. Bases institucionais do
+presidencialismo de coalizão. Lua Nova, n. 44, p. 81-106, 1998.
+
+LLANOS, Mariana. Reforma parlamentaria en América Latina: un comentario sobre el control
+parlamentario. n: BODEMER, Klaus; FLÓREZ, Femando Carrillo (eds.). Gobernabilidad
+y reforma política en América Latina y Europa. La Paz: GIGA/BID/REDGOB/Plural
+Editores, 2007.
+
+MAINWARING, Scott P. Rethinking party systems in the third wave of democratization:
+the case of Brazil. Stanford, CA: Stanford University Press, 1999.
+
+MAY HEW, David. Congress: the electoral connection. New Haven; London: Yale University
+Press, 1974,
+
+MERCADO, Modesto; MACÍAS, Enrique; BERNARDI, Fabrizio. Análisis de datos com
+
+48 E-legis, Brasília, n. 18, p. 33-50, set/dez. 2015, ISSN 2175.0688
+Execução Orçamentária e Presidencialismo de Coalizão: uma abordagem exploratória
+
+Stata. Madrid: Centro de Investigaciones Sociológicas, 2009.
+
+MONTERO, Mercedes Garcia. Presidentes y parlamentos: cquíen controla la acividad
+legislativa en América Latina? Madrid: Centro de Investigaciones Sociológicas, 2009.
+
+PALERMO, Vicente. Como se governa o Brasil? O debate sobre instituições políticas e gestão
+de govemo. Dados, v. 43, n. 3, 2000.
+
+PEREIRA, Carlos; MUELLER, Bernardo. Comportamento estratégico em presidencialismo de
+coalizão: as relações entre Executivo e Legislativo na elaboração do orçamento brasileiro.
+Dados, v. 45, n. 2, p. 265-302, 2002.
+
+PEREIRA, Carlos; MUELLER, Berardo. The cost of governing: strategic behavior in
+Brazil's budgetary process. Department of Economics Working Paper 304. Brasília:
+Universidade de Brasília/Departamento de Economia, 2003.
+
+PEREIRA, Carlos; POWER, Thimothy; RAILE, Eric D. Presidentialism, coalitions and
+accountability. In: POWER, Thimothy; TAYLOR, Matthew (eds.). Corruption and
+democracy in Brazil: the struggle for accountability. Notre Dame (ID): University of Notre
+Dame Press, 2011. p. 31-55.
+
+POWER, Thimothy; TAYLOR, Matthew (eds.). Corruption and democracy in Brazil: the
+struggle for accountability. Notre Dame (ID): University of Notre Dame Press, 2011.
+
+POWER, Thimothy; ZUCC, Cesar (orgs.). O Congresso por ele mesmo: autopercepções
+da classe política brasileira. Belo Horizonte: Editora UFMG, 2011.
+
+PRAÇA, Sérgio; FREITAS, Andréa; HOEPERS, Bruno. Presidential Political Appointments
+and Coalition Governance in Brazil, 2007-2010. APSA 2011 Annual Meeting Paper, 2011.
+Disponível em: <SSRN.http://ssm.com/abstract=1900803> A cesso em: 25 nov. 2014.
+
+PRAÇA, Sérgio; FREITAS, Andréa; HOEPERS, Bruno. Political appointments and coalition
+management in Brazil, 2007-2010. J ournal of Politics in Latin America, v. 3, n. 2, p. 141-172,
+2011.
+
+R CORE TEAM. R Data Import/Export: Version 3.1.1 (2014-07-10). S.l.: s. ed., 2014,
+
+R CORE TEAM. R: A Language and Environment for Statistical Computing - Reference
+Index: Version 3.1.1 (2014-07-10). S.1.:s. ed., 2014.
+
+SAMUELS, David. Ambition and competition: explaining legislative tumover in Brazil.
+Legislative Studies Quarterly, v. 25, n. 3, p. 481-497, Aug. 2000.
+
+SANTOS, Fabiano. Patronagem e poder de agenda na política brasileira. Dados, v. 40, n. 3,
+1997.
+
+SANTOS, Adiel. Caráter da lei orçamentária anual e suas implicações no equilíbrio de
+força entre os Poderes Executivo e Legislativo. Monografia (Especialização em Direito
+Legislativo) - Instituto Legislativo Brasileiro, Senado Federal, Brasília, 2014.
+
+SCHUGART, Matthew; CAREY, John. Presidents and Assemblies. Cambridge: Cambridge
+University Press, 1992.
+
+SCHWARTZ, Fabiano Peruzzo; MARCIANO, João Luiz Pereira. Análise estatística de dados
+aplicada à ciência política. Brasília: Câmara dos Deputados, 2014.
+
+TAQUES, Pedro. Voto em separado ao Substitutivo da Câmara à PEC nº 22-A, de 2000,
+recebida daquela Casa sob o nº 565, de 2006. 35 p. Brasília. 2013. Disponível em:
+<http://www.senado.gov.br/atividade/materia/getT exto.asp?t=1379038&c=PDF&tp=|> Acesso
+em: 4 nov. 2014.
+
+TAQUES, Pedro. Voto em separado na Comissão de Constituição Justiça e
+
+E-legis, Brasília, n. 18, p. 33-50, set/dez. 2015, ISSN 2175.0688 49
+Femando Moutinho Ramalho Bittencourt
+
+Cidadania ao substitutivo à PEC 22-A, de 2000. 23 p. Disponível em:
+<http://www.senado.gov.br/atividade/materia/getT exto.asp?t=1379038&c=PDF&tp=1>. Acesso
+em: 4 nov. 2014.
+
+VIANNA, Luiz Wemeck (org.). A democracia e os três poderes no Brasil. Belo Horizonte:
+Editora UFMG; Rio de Janeiro: IUPERJ/FAPER]J, 2002.
+
+Artigo recebido em: 23/01/2015
+Artigo aceito para publicação em: 11/06/2015
+
+50 E-legis, Brasília, n. 18, p. 33-50, set/dez. 2015, ISSN 2175.0688
+

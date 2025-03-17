@@ -1,0 +1,3543 @@
+s [1
+CI e FIOCRUZ i isa Ministério da Secretaria de a
+
+PAIS RICO E PAÍS SEM POBREZA
+
+  
+
+ 
+
+Estruturas de financiamento e gasto do sistema público de
+saúde
+
+Sérgio Francisco Piola
+Luciana Mendes Santos Servo
+Edvaldo Batista de Sá
+Andrea Barreto de Paiva
+
+PIOLA, SF., et al. Estruturas de financiamento e gasto do sistema público de saúde. FUNDAÇÃO
+OSWALDO CRUZ. 4 saúde no Brasil em 2030 - prospecção estratégica do sistema de saúde
+brasileiro: estrutura do financiamento e do gasto setorial [online]. Rio de Janeiro:
+Fiocruz/Ipea/Ministério da Saúde/Secretaria de Assuntos Estratégicos da Presidência da República,
+2013. Vol. 4. pp. 19-70. ISBN 978-85-8110-018-0. Available ffom SciELO Books
+<http://books.scielo.org>.
+
+oo
+
+All the contents of this chapter, except where otherwise noted, is licensed under a Creative Commons Attribution-Non
+Commercial-ShareAlike 3.0 Unported.
+
+ 
+
+ 
+
+Todo o conteúdo deste capítulo, exceto quando houver ressalva, é publicado sob a licença Creative Commons Atribuição -
+Uso Não Comercial - Partilha nos Mesmos Termos 3.0 Não adaptada.
+
+Todo el contenido de este capítulo, excepto donde se indique lo contrario, está bajo licencia de la licencia Creative
+Commons Reconocimento-NoComercial-CompartirIgual 3.0 Unported.
+Estruturas de Financiamento e Gasto
+
+do Sistema Público de Saúde
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde
+
+ESTRUTURAS DE FINANCIAMENTO E GASTO
+DO SISTEMA PÚBLICO DE SAÚDE!
+
+Sérgio Francisco Piola
+Luciana Mendes Santos Servo
+Edvaldo Batista de Sá
+
+Andrea Barreto de Paiva
+
+1 | INTRODUÇÃO
+
+Os dispêndios com saúde tem sido objeto de preocupação em quase
+todos os países. Representavam 3% do Produto Interno Bruto (PIB) mundial em 1948
+e passaram para 8,7% do PIB em 2004 (OPAS, 2007). No período 1998-2003, a taxa
+média anual de crescimento dos gastos com saúde (5,7%) superou a taxa média de
+crescimento da economia mundial que foi de 3,6% (HSIAO, 2007).
+
+Nos países desenvolvidos e em desenvolvimento, que já investem parcela
+considerável do seu PIB no setor, as atenções estão cada vez mais voltadas para a
+eficiência, efetividade e equidade nos gastos, uma vez que maior nível de dispêndios é
+condição insuficiente para alcançar melhores condições de saúde (HSIAO, 2007) e nem
+resolve, por si só, as iniquidades no acesso aos serviços. Nos países mais pobres, por
+sua vez, é premente a necessidade de estender o acesso aos serviços de saúde, de forma
+igualitária, a toda população, de melhorar a qualidade do atendimento e de buscar
+formas de suprir o financiamento setorial em concorrência com outras exigências de
+desenvolvimento social e econômico (PIOLA et. al., 2008).
+
+Complementando a preocupação com o volume, a eficiência e a
+efetividade dos gastos com saúde têm sido destacadas como objetivos essenciais
+para o aperfeiçoamento dos sistemas de financiamento do setor: (i) a proteção
+financeira contra os riscos do adoecimento?; (ii) a equidade no financiamento; (iii)
+
+1 Este texto serviu de base para seção da publicação "A Saúde no Brasil em 2030 — Diretrizes para a Prospecção
+Estratégica do Sistema de Saúde Brasileiro", Fundação Oswaldo Cruz. (et. al.). Rio de Janeiro:Fiocruz/IPEA/MS/
+SAE/PR, 2012 e para elaboração de artigo publicado da revista Análise Econômico, da Universidade Federal do
+Rio Grande do Sul.
+
+2 Um sistema de financiamento para a saúde deveria criar proteções contra o risco de empobrecimento
+relacionado ao uso de serviços de saúde (WAGSTAFF e van DOORSLAER 2003; KUTZIN, 2010).
+
+3 A equidade no financiamento implicaria uma distribuição progressiva ou, pelo menos, proporcional do
+financiamento com relação à renda (WAGSTAFF et al, 1999).
+
+ELO
+20
+
+A SAÚDE NO BRASIL EM 2030
+
+a busca, via alocação de recursos, de equidade no acesso e utilização de serviços de
+saúde*.
+
+De maneira geral, nos países desenvolvidos e em desenvolvimento, a maior
+parte do financiamento da saúde provém de fontes públicas. Nestes países a maior
+parte do gasto privado é realizada sob a forma de pré-pagamento (planos e seguros
+privados). O desembolso direto, forma mais iníqua e excludente de financiamento, é,
+paradoxalmente, maior nos países mais pobres (OMS, 2000)*. Nos países de renda alta,
+as fontes administradas pelo setor público se responsabilizam, em média, por mais de
+60% do gasto total, enquanto que nos países de renda baixa a participação do setor
+público não chega a 25% do dispêndio total (SCHIEBER et. al., 2007).
+
+No Brasil o sistema de saúde é pluralista tanto em termos institucionais?
+quanto de fontes de financiamento e de modalidades de atenção à saúde. Essa
+pluralidade se expressa em quatro vias básicas de acesso da população aos serviços
+de saúde: (i) o Sistema Único de Saúde (SUS), de acesso universal, gratuito e financiado
+exclusivamente com recursos públicos (impostos e contribuições sociais); (ii) osegmento
+de planos e seguros privados de saúde, de vinculação eletiva, financiado com recursos
+das famílias e/ou dos empregadores, composto por 1.174 operadoras de planos de
+assistência médico-hospitalar e 427de planos exclusivamente odontológicos (BRASIL,
+ANS, 2012)”; (iii) o segmento de atenção aos servidores públicos, civis e militares e
+seus dependentes, de acesso restrito a essa clientela, financiado com recursos públicos
+e dos próprios beneficiários, em geral atendidos na rede privada; (iv) o segmento de
+provedores privados autônomos de saúde, de acesso direto mediante pagamento no
+ato (RIBEIRO et al, 2005).
+
+O Brasil, segundo estimativas do Instituto Brasileiro de Geografia e
+Estatística (IBGE), tinha um dispêndio total (público e privado) em saúde equivalente
+a 8,8% do PIB (IBGE, 2012). Esse percentual é baixo quando comparado com o
+observado nos Estados Unidos (15,7%), mas é bastante próximo ao de outros países
+
+4 Os modos de financiamento deveriam buscar a equidade na utilização dos serviços (PRADHAN e PRESCOTT,
+2002; KUTZIN, 2010). Isso implicaria que os recursos deveriam ser distribuídos de acordo com as necessidades
+de saúde da população e não de acordo com sua capacidade de pagamento (OMS, 2000; KUTZIN, 2010).
+
+5 Estudos sobre gastos catastróficos em saúde têm demonstrado uma forte associação entre elevada participação
+do gasto direto do bolso no gasto total em saúde e o percentual de famílias que incorrem em gasto catastrófico
+(XU et. al., 2005). Estimativas utilizando a POF indicam que o percentual de famílias brasileiras incorrendo
+em gasto catastrófico seria menor do que aquele obtido utilizando a Pesquisa de Condições de Vida (PPV),
+provavelmente por aquela ser uma pesquisa que capta melhor os gastos e por ter cobertura nacional. Outra
+questão é quanto o SUS influencia esse resultado (DINIZ et. al., 2007). Outros estudos comparando países têm
+mostrado que sistemas de pré-pagamento compulsório (via tributação geral ou seguro de saúde compulsório)
+tendem a ser mais equitativos que sistema de pré-pagamento voluntário. Os pagamentos diretos do bolso
+seriam a forma mais regressiva de financiamento (WAGSTAFF et. al., 1999; KUTZIN, 2010).
+
+6 Sua estrutura é composta por entes públicos (federais, estaduais e municipais) e privados (com e sem fins
+lucrativos).
+
+7 Estas informações referem-se às operadoras em atividade naquele período.
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde
+
+da Organização para Cooperação e Desenvolvimento Econômico (OCDE), como o
+Reino Unido (8,4%), Espanha (8,5%) e Austrália (8,9%) que também possuem sistemas
+universais (WHO, 2010).
+
+O problema do Brasil, se assim pode ser chamado, é que o gasto público
+é muito baixo para o país ter, efetivamente, um sistema de cobertura universal e
+atendimento integral. Esse gasto foi estimado em 3,8% do PIB em 2009 (IBGE, 2012)º.
+Em 2007, o gasto público com saúde foi responsável por 42% dos recursos aplicados em
+saúde, enquanto nos países da OCDE, a participação do gasto público no financiamento
+do sistema representa, em média, 70% da despesa total.
+
+O subfinanciamento da saúde pública, por um lado, e o excesso de
+incentivos governamentais para o mercado privado de saúde, por outro, contribuem
+para que a participação do gasto público com no gasto total com saúde seja menor que
+o gasto privado, transformando o Brasil no único país com sistema universal de saúde
+onde o gasto privado supera o público.
+
+Este texto pretende analisar o financiamento público da saúde em
+aspectos que dizem respeito ao volume destes recursos bem como a forma como
+esse dinheiro é gasto saúde. Desta forma, a seção 2 faz uma breve discussão sobre o
+financiamento público da saúde destinado ao setor privado, sob a forma de renúncia
+fiscal e ressarcimento (ou a falta deste) devido ao SUS por parte do setor privado.
+Nesta seção, também será discutido de forma mais detalhada o financiamento
+público destinado a serviços de acesso universal, ou seja, o gasto do SUS. Assim, serão
+tratadas questões referentes ao volume de recursos que financiam a saúde pública,
+incluindo o histórico do financiamento da saúde, a evolução do gasto público total, o
+impacto macroeconômico e fiscal destes recursos, dentre outros. Na seção 3, a ideia
+é discutir como estes recursos destinados à saúde de acesso gratuito e universal são
+repartidos, incluindo questões sobre a distribuição regional do gasto, programática
+e por modalidade de aplicação. Por fim, serão traçados cenários até o ano de 2030
+referentes aos gastos públicos com saúde das três esferas.
+
+8 O gasto público estimado na Conta-Satélite pelo IBGE ainda não inclui algumas despesas como: a assistência
+médica dos servidores civis dos três níveis de governo, com exceção do realizado pelo Ministério da Saúde
+(MS); os serviços de saúde dos hospitais universitários públicos estadual e municipal; e as “despesas de órgãos
+vinculados às secretarias de segurança pública e defesa civil (como as redes do sistema penitenciário, de órgãos de defesa
+civil e de órgãos policiais civil e militar)” (IBGE, 2009b) Com relação à assistência médica a servidores, sua inclusão
+mais integral nas Contas-Satélites de Saúde (CSS) do Brasil depende da obtenção de informações sobre esses
+benefícios concedidos pelos órgãos públicos das três esferas de governo
+
+9 Este percentual varia de variando de 67,5% (Austrália) a 84,1% (Noruega). Os Estados Unidos constituem a
+exceção mais importante a essa regra por ter um gasto privado superior a 50% do total (OMS, 2008).
+
+21
+22
+
+A SAÚDE NO BRASIL EM 2030
+
+2 | FINANCIAMENTO PÚBLICO DA SAÚDE:
+UMA DISCUSSÃO SOBRE O VOLUME DE RECURSOS
+
+O financiamento público é uma das formas pela qual os segmentos que
+compõem as quatro vias básicas de acesso da população aos serviços de saúde — SUS,
+planos e seguros privados, assistência a servidores públicos e privados autônomos —
+se comunicam. No caso do setor público, principalmente em relação aos serviços de
+acesso universal, esse financiamento ocorre de forma mais direta e preponderante. No
+setor privado, o financiamento público ocorre de forma indireta, por meio de renúncias
+fiscais, da utilização de serviços públicos para os quais poderia caber ressarcimento
+de planos e seguros de saúde e de outros mecanismos de incentivos públicos ao
+setor privado. As renúncias incluem as isenções concedidas às instituições sem fins
+lucrativos, as deduções do imposto de renda concedidas às pessoas físicas e jurídicas
+devido a gastos com médicos, dentistas, laboratórios, hospitais e planos de saúde e a
+desoneração tributária de determinados medicamentos.
+
+Neste contexto, o tópico a seguir traz uma breve discussão sobre os
+subsídios públicos destinados ao setor privado. Dando continuidade, serão tratadas
+de forma mais detalhada e consistente as informações sobre o volume de recursos
+que financiam a saúde pública, considerando os antecedentes que contribuíram para
+a atual configuração do financiamento público, bem como a evolução deste montante
+de recursos.
+
+2.1 | Subsídios Públicos ao Setor Privado: renúncia fiscal e ressarcimento
+
+A Secretaria da Receita Federal (SRF) estima para 2013 uma renúncia de
+arrecadação federal de quase R$21 bilhões devido às isenções, deduções e desonerações
+na área de saúde!?. Contudo, esse número pode estar subestimado. Em 2010, por
+exemplo, a renúncia de arrecadação foi de mais de R$ 16,1 bilhões e o valor estimado
+era de aproximadamente R$12,3 bilhões.
+
+Como pode ser visto na tabela 1, uma grande parcela do chamado gasto
+tributário”! deve-se a benefícios concedidos por meio do Imposto de Renda (IR)'2. As
+
+10 http://www.receita fazenda.gov.br/publico/estudotributario/BensTributarios/2013/DGT2013.pdf. Acesso em
+15/02/2013.
+
+11 O gasto tributário é definido pela SRF como a perda de arrecadação devido a desonerações tributárias que se
+constituam alternativa às ações políticas de governo e tenham por objetivo: i) compensar gastos realizados
+pelos contribuintes com serviços não atendidos pelo governo; ii) compensar ações complementares às funções
+típicas de estado desenvolvidas por entidades civis; ili) promover a equalização das rendas entre regiões; e/
+ou iv) incentivar determinado setor da economia. As desonerações tributárias são todas e quaisquer situações
+que promovam: presunções creditícias, isenções, anistias, reduções de alíquotas, deduções, abatimentos e
+diferimentos de obrigações de natureza tributária (SRF, 2012).
+
+12 A renúncia tributária relacionada a pagamentos feitos diretamente pelos indivíduos aos prestadores de serviços
+de saúde ou para pagamentos de planos e seguros de saúde não tem a mesma natureza das isenções concedidas
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde
+
+pessoas jurídicas e as pessoas físicas podem deduzir as despesas com saúde da base
+de cálculo desse imposto. O gasto tributário nessas duas modalidades para o ano
+de 2010 foi de algo em torno de R$ 2,6 e R$ 7,8 bilhões respectivamente, totalizando
+quase R$ 10,4 bilhões. Este montante de recursos é significativo quando comparado
+ao gasto direto com ações e serviços públicos de saúde, isto é, o gasto SUS, que foi de
+aproximadamente R$139 bilhões para esse ano. Vale lembrar que enquanto o gasto
+SUS beneficia toda a população brasileira, aproximadamente 191 milhões de pessoas
+em 2010, estes recursos beneficiam apenas os declarantes e seus dependentes que
+tiveram despesas com saúde relativas ao ano-calendário 2010 dedutíveis do imposto
+de renda e os empregados e seus dependentes que tiveram planos ou seguros de saúde
+pagos por seus empregadores no mesmo período.
+
+Tabela 01. Gastos tributários efetivamente realizados — Ano Calendário 2010
+
+       
+     
+      
+       
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Despesas com Saúde das PF IRPF 7.806
+Despesas com Saúde das PJ IRPJ | 2.580
+Entidades Sem Fins Lucrativos IRPJ, CSLL, COFINS | 2.098
+Medicamentos PIS, COFINS | 2.844
+Produtos Químicos e Farmacêuticos PIS, COFINS | 770
+
+ 
+
+Total
+
+Fonte: SRF (2012).
+
+IRPF: Imposto de Renda de Pessoa Física. IRPJ: Imposto de Renda de Pessoa Jurídica. CSLL: Contribuição Social sobre o Lucro Líquido.
+PIS: Programa de Integração Social. COFINS: Contribuição para o Financiamento da Seguridade Social
+
+A comparação é mais expressiva quando são considerados alguns
+programas específicos. O gasto tributário via Imposto de Renda Pessoa Física (IRPF)
+
+ 
+
+para medicamentos e para entidades sem fins de lucro (filantrópicas). Essa diferença é relacionada não somente
+a população beneficiada, mas, também, aos requisitos para sua concessão. A princípio pode-se pensar que
+os hospitais filantrópicos, por sua obrigatoriedade de atender o SUS, têm um perfil de oferta de serviços e de
+cobertura populacional mais equitativo. Contudo, seria necessário fazer um estudo sobre os benefícios sociais
+líquidos dessas isenções (volume de benefícios tributários, perfil da população beneficiada e estimativa dos
+impactos sociais). Por sua vez, a desoneração tributária sobre medicamentos atinge, indistintamente, a todos
+os consumidores. Assim, destaca-se a necessidade de estudar melhor cada uma dessas modalidades de gastos
+tributários relacionados à saúde. A dificuldade para isso tem sido obter dados desagregados para realizar análise
+mais detalhadas.
+
+13 Em 2012, foi apresentada mudança metodológica no levantamento das estimativas da renúncia fiscal concedida
+no IRPF. A mudança metodológica consistiu na divisão dos contribuintes por faixas de renda e aplicação
+da alíquota marginal específica de cada faixa correspondente sobre o valor dos rendimentos isentos e não
+tributáveis e sobre as deduções do rendimento tributável, enquanto que anteriormente, era aplicada a alíquota
+média do imposto de renda da pessoa física sobre o total desses valores. Essa mudança implicou em aumento
+das estimativas da renúncia fiscal concedida no IRPF (SRF, 2012).
+
+ps
+24
+
+A SAÚDE NO BRASIL EM 2030
+
+foi superior em quase R$1,9 bilhão ao gasto em 2010 com o Piso da Atenção Básica
+Variável, que financia a estratégia Saúde da Família e foi de aproximadamente R$ 5,9
+bilhões, e em mais de R$4 bilhões ao gasto com o Piso de Atenção Básica Fixo, que foi
+de R$ 3,7 bilhões. Isto é, os recursos que deixam de ser arrecadados somente com os
+descontos concedidos no IRPF superam os recursos alocados para programas do SUS
+que são críticos para o bom funcionamento do sistema público e devem beneficiar toda
+a população brasileira e não somente a parcela que usa o sistema privado.
+
+Diversos autores argumentam que a renúncia fiscal termina por beneficiar
+indiretamente os serviços privados de saúde em geral e as operadoras de planos e
+seguros de saúde em particular, ao incentivar o consumo dos seus produtos.
+
+A saúde suplementar também se beneficia quando o SUS atende a
+pacientes que são usuários de planos e seguros de saúde de dois modos: i) quando
+não há ressarcimento dos custos do atendimento prestado pelo SUS; e, ii) quando há
+ressarcimento ao SUS usando a Tabela Nacional de Equivalência de Procedimentos
+— TUNEP”, De acordo com o último Caderno de Informação de Ressarcimento
+e Integração com o SUS (BRASIL, ANS, 2009), entre setembro de 1999 e junho de
+2006 foram identificados 992.110 atendimentos hospitalares do SUS prestados aos
+beneficiários de planos e seguros de saúde's. O valor desses atendimentos superou R$
+1,4 bilhão. Contudo, quase 73% dos atendimentos identificados tiveram seu pedido
+de ressarcimento impugnado pelas operadoras. Assim, quando da elaboração do
+Caderno, apenas 473.540 atendimentos, no valor de aproximadamente R$ 652 milhões,
+eram passíveis de ressarcimento e apenas 76.675, no valor de R$ 97,3 milhões, tinham
+sido efetivamente ressarcidos. Os demais valores estavam pendentes de decisões
+administrativas ou judiciais.
+
+O ressarcimento foi instituído pela Lei nº 9.656, de 3 de junho de 1998, mas
+sua implementação encontra resistência por parte das operadoras. Uma das alegações
+que têm sido utilizadas para não ressarcir o SUS tem sido a garantia constitucional
+de acesso aos serviços públicos de saúde por todos os brasileiros. O ressarcimento
+também enfrenta a resistência de alguns críticos que consideram que os valores
+envolvidos e as dificuldades para o ressarcimento efetivo não superam os custos da
+estrutura necessária para sua cobrança. Quanto aos valores envolvidos, vale lembrar,
+que dificuldades administrativas, como a falta de identificação do usuário na maioria
+dos procedimentos realizados pelo SUS, impedem a ANS de incluir no ressarcimento os
+demais tipos de atendimento.
+
+14 Como os valores estabelecidos na TUNEP não podem ser superiores à média dos valores praticados na Saúde
+Suplementar, pode ser vantajoso financeiramente para as operadoras usarem os serviços do SUS.
+
+15 Observe-se que este registro de procedimentos com vistas ao ressarcimento envolve, até o momento, apenas as
+internações hospitalares. Não estão incluídos atendimentos ambulatoriais.
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde
+
+2.2 | Financiamento da Saúde Pública: antecedentes!
+
+No início da década de 1980, a saúde contava com recursos originários
+de duas fontes: previdência social e orçamento fiscal. Os recursos previdenciários
+eram destinados, basicamente, para a assistência médico-hospitalar das pessoas que
+participavam do mercado formal de trabalho, ao passo que os recursos fiscais financiavam
+as ações típicas de saúde pública (basicamente vigilância, controle de doenças
+transmissíveis e vacinação) e algumas ações de assistência médica para a população
+não vinculada ao sistema previdenciário (IPEA, 2009a; VIANNA, 1992). A assistência à
+saúde para estes últimos dependia em grande parte da ação de entidades filantrópicas.
+Os dois orçamentos, historicamente, tiveram participação bastante desigual no gasto
+federal com saúde: “Entre 1980 e 1986 o Tesouro teve participação relativa crescente, embora
+nunca superior a 32,1%, caindo em 1987 para 27,1%” (VIANNA, 1992). Assim, conviviam dois
+sistemas com coberturas muito diferenciadas tanto em termos do tipo de assistência à
+saúde prestada à população quanto no que se refere ao seu financiamento.
+
+Além disso, a participação estimada de cada ente da federação no
+financiamento era muito desigual. Segundo estimativas de Barros, Piola e Vianna
+(1996), em 1980, a União respondia por 75% das despesas com saúde, enquanto os
+estados respondiam por 17,8% e os municípios por 7,2%.
+
+A CF/88, ao criar a Seguridade Social, estabeleceu que ela deveria ser
+financiada com recursos provenientes dos orçamentos da União, dos estados, do
+Distrito Federal e dos municípios e de contribuições sociais. Esses recursos, no âmbito
+do Governo Federal, seriam divididos entre a Previdência, a Assistência Social e a
+Saúde, e, no caso desta última, previu-se, conforme consta do artigo 55 do Ato das
+Disposições Constitucionais Transitórias (ADCT), uma vinculação de 30% dos recursos
+do Orçamento da Seguridade Social (OSS), excluído o seguro-desemprego, até que fosse
+aprovada a primeira Lei de Diretrizes Orçamentárias (LDO). Essa lei deveria definir a
+cada ano qual o percentual a ser destinado à saúde.
+
+Segundo Vianna (1992), o percentual de 30% não foi cumprido em 1990 e
+1991. No ano seguinte, diz que só foi possível cumpri-lo porque foram contabilizadas
+ações de saneamento básico, apoio nutricional, saúde do trabalhador, merenda, encargos
+com inativos e pensionistas do MS, entre outras, como parte do orçamento da saúde.
+
+Em 1993, as contribuições previdenciárias deixaram de ser consideradas
+solidárias ao financiamento da saúde. Nesse ano, apesar da previsão de recursos para a
+saúde, nada foi repassado com base na alegação de problemas de caixa na Previdência.
+Esse fato agravou a situação de incerteza e de instabilidade do financiamento da saúde
+(MENDES; MARQUES, 2009).
+
+16 Este item é uma versão atualizada do constante em Servo et al (2011).
+
+ps
+26
+
+A SAÚDE NO BRASIL EM 2030
+
+Adicionalmente, ainda que a CF/88 também estabelecesse que parte das
+receitas de estados e municípios devesse ser aplicada em saúde, ela não estabelecia
+um percentual mínimo de aplicação. Assim, nos primeiros anos após a promulgação da
+CF 88, estima-se que a maior parte dos recursos públicos destinados para o SUS estava
+concentrada no nível federal (BARROS, PIOLA e VIANNA, 1996).
+
+Na busca por recursos, a saúde recorreu inclusive a empréstimos do
+Fundo de Amparo ao Trabalhador (FAT). Essa situação emergencial levou à necessidade
+de se pensar em alternativa para a superação da crise de carência de recursos, a qual
+pareceu apresentar-se na forma da Contribuição Provisória sobre Movimentação
+Financeira (CPMF), criada em 1996” (Lei 9.311, de 24 de outubro de 1996).
+
+A CPMF surge com o acréscimo do art. 74 ao Ato das Disposições
+Constitucionais Transitórias (Emenda Constitucional nº 12, de 15/08/1996), que permitiu
+à União instituir esse tipo de contribuição. A fundamentação para sua cobrança foi
+a necessidade de financiamento da Seguridade Social, mais especificamente da área
+de saúde. A previsão legal era que o produto de sua arrecadação seria integralmente
+destinado ao Fundo Nacional de Saúde, para financiamento de ações e serviços de
+saúde (artigo 18, da Lei 9.311, de 24 de outubro de 1996).
+
+Inicialmente vigorando como percentual de 0,20% sobre movimentações
+financeiras, em junho de 19998, a CPMF foi prorrogada até 2002, com alíquota de
+0,38%. Tal elevação teve como justificativa prover recursos para a Previdência Social.
+Em 2002 a CPMF foi prorrogada, o que ocorreu novamente em 2004, tendo vigorado até
+dezembro de 2007.
+
+Ao entrar em vigor, a CPMF passou a ser uma das principais fontes de
+financiamento do MS. Em 1997 já respondia por 27,8% do total de recursos, tendo
+alcançado 38,4% em 2002 e daí por diante, até 2007, mantendo-se em torno de 30%. Em
+média, no período entre 1997 e 2007, a CPMF respondeu por 1/3 do total dos recursos
+do MS (SERVO et al, 2011).
+
+O caráter provisório da CPMF sempre preocupou os gestores da saúde,
+que continuaram trabalhando por solução mais abrangente e definitiva. No legislativo
+diversas propostas foram apresentadas. O ponto em comum entre elas era a busca
+pela vinculação para a saúde dos recursos orçamentários dos três níveis de governo.
+
+17 A CPMF surge como herdeira do antigo Imposto Provisório sobre Movimentação Financeira (IPMF), que foi
+instituído em 1993 com previsão para vigorar até 1994, quando foi extinto. Esse imposto não tinha vinculação
+com a saúde, mas abriu espaço para a criação da CPMF.
+
+18 Os aumentos da CPMF também trouxeram o compartilhamento de recursos com outras áreas. O recurso que
+inicialmente era destinado somente para a área de saúde, a partir de 1999 passou a ser destinado também
+à previdência e, em 2001, ao Fundo de Combate à Pobreza. Particularmente a partir de 2001, manteve-se a
+arrecadação de 0,20% para a saúde e os recursos adicionais foram destinados a outros setores sociais.
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde
+
+Várias propostas de vinculação de recursos para a saúde começaram a
+tramitar”º no Congresso Nacional, algumas delas anteriores a própria criação da CPMF,
+como a Proposta de Emenda à Constituição (PEC) 169-A, encaminhada ainda em 1993.
+Essa proposta foi sendo alterada e aglutinada a outras iniciativas de lei mencionadas a
+seguir. A PEC 169-A trazia a proposta de alteração do artigo 198 da Constituição Federal
+que teria a seguinte redação:
+
+A União aplicará anualmente, na implementação do Sistema Único de Saúde,
+nunca menos de trinta por cento das receitas de contribuições sociais que
+compõem o Orçamento da Seguridade Social e dez por cento da receita
+resultante dos impostos. [...] Os Estados, o DF e os municípios aplicarão
+anualmente, na implementação do Sistema Único de Saúde, nunca menos de
+10% das receitas resultantes dos impostos.
+
+Ao longo desse processo destacam-se outras propostas como a PEC? que
+propunha destinar recursos equivalentes sempre a 5% do PIB do ano anterior para
+o financiamento da saúde e a PEC 82-A, que determinava que os recursos da e da
+CSLL fossem destinados integralmente à saúde, assegurando também um patamar
+mínimo de recursos por parte dos outros entes federados (MARQUES; MENDES, 1999
+apud CONASS, 2007).
+
+Nesse mesmo ano de 1998, a Comissão Especial que avaliou a PEC 82-A,
+tendo como relator o Deputado Urcisino Queiroz (BA), elaborou substitutivo
+que compatibilizou aspectos das propostas dos deputados Carlos Mosconi,
+Eduardo Jorge e outros. Após intensas negociações foi aprovada pela Câmara,
+em votação de dois turnos, como a PEC n. 82-C. Essa proposta tramitou no
+Senado como PEC 86-A e acabou sendo aprovada e promulgada como Emenda
+Constitucional n. 29. (CONASS, 2007, p. 31)
+
+A Emenda Constitucional 29 (EC 29) assegurou a participação das três
+esferas de govemo no financiamento das ações e dos serviços públicos de saúde, a partir
+da definição de um aporte anual mínimo de recursos. No caso da União, os recursos a
+serem aplicados em 2000 corresponderiam ao montante empenhado no exercício de
+
+19 “A vinculação de recursos para o SUS não é pretensão recente. Já constava da proposta da Comissão Nacional da
+Reforma Sanitária (CNRS) criada, em 1986, por recomendação da VIII CNS. A CNRS pretendia vincular à saúde
+recursos equivalentes a 10% do PIB (WHO, 2003). Em valores atuais (2005) esse percentual representaria cerca
+de R$ 193,7 bilhões, um valor em torno de 37% das receitas das três esferas governo” (CONASS, 2007, p. 29).
+
+20 PEC de autoria do deputado José Aristodemo Pinotti.
+
+27
+28
+
+A SAÚDE NO BRASIL EM 2030
+
+1999 acrescido de, no mínimo, 5%. A partir daí, o valor mínimo seria apurado no ano
+anterior e corrigido pela variação nominal do PIB, regra esta que permaneceu valendo
+com a regulamentação da EC-29 pela Lei Complementar 141/2012. Os estados e o
+Distrito Federal deveriam aplicar, no mínimo, 12% da receita vinculada?!; ao passo que
+os municípios deveriam aplicar 15%, e, em 2000, o percentual mínimo a ser aplicado
+seria de 7% para esses entes da federação. (RIBEIRO; PIOLA; SERVO, 2005; CONASS, 2007).
+
+Observa-se que o fim da CPMF, em 2007, não gerou uma crise nas
+mesmas proporções daquela observada em 1993, quando o Ministério da Saúde foi
+buscar recursos de empréstimos via FAT. Aparentemente, a vinculação de recursos da
+EC 29 garantiu um mínimo de estabilidade no financiamento da saúde e, pode-se dizer,
+trouxe aumento, sobretudo a partir de 2004, no aporte de recursos por parte da União
+(SERVO et al, 2011). De qualquer forma, parte significativa do aumento de recursos
+para o SUS, como decorrência da EC 29, veio da ampliação da participação de estados
+e municípios no financiamento do SUS (BIASOTO JR., 2003, entre outros), como será
+discutido a seguir.
+
+2.3 | Evolução do gasto público total: efeitos da EC 29 de 2000
+
+A aprovação da EC 29 teve impactos diferenciados em cada ente da
+Federação. Segundo estimativas de Piola e Vianna (1992, apud BARROS, PIOLA e
+VIANNA, 1996), durante a década de 80, a União participava, em média, com 75% dos
+recursos públicos alocados em saúde. Outra estimativa do IPEA para o ano de 1996
+indica que a União respondia por 63% do total, os estados, 20,7%, e os municípios,
+16,4% (FERNANDES et al, 1998)2. A EC 29 começou a ter vigência em 2000, quando a
+União ainda respondia por quase 60% do recurso público total aplicado em saúde.
+Desde então sua participação foi decrescendo, para alcançar cerca de 45% em 2011.
+Nesse mesmo período, entre 2000 e 2011, a participação dos estados passou de 18,5%
+para 25,7%, enquanto a dos municípios saiu de 21,7% para 29,6%, de acordo com os
+dados do SIOPS (ver Tabela 2).
+
+21 Areceita vinculada refere-se à base de cálculo para aplicação mínima dos recursos em saúde. A base de cálculo
+dos estados compreende as receitas de impostos estaduais (ICMS, IPVA, ITCMD), as receitas de transferência da
+União (FPE, IPI, Lei Kandir), o Imposto de Renda Retido na Fonte (IRRF), outras receitas correntes (receita da dívida
+tributária de impostos, multas, juros de mora e correção monetária) e exclui as transferências constitucionais
+e legais a municípios (ICMS, IPVA e IPI — exportação). A base de cálculo dos municípios abrange as receitas de
+impostos municipais (ISS, IPTU, ITBI), as receitas de transferências da União (FPM, ITR, Lei Kandir), o Imposto
+de Renda Retido na Fonte (IRRF), as receitas de transferências do estado (ICMS, IPVA, IPI — exportação) e outras
+receitas correntes (receita da dívida tributária de impostos, multas, juros de mora e correção monetária).
+
+22 Existem diferenças entre as metodologias e as bases de dados utilizadas pelo IPEA nos anos 1990 e pelo SIOPS
+a partir da EC 29. Entre outras, a análise feita pelo IPEA refere-se ao gasto funcional, ao passo que as análises
+feitas pelo SIOPS referem-se ao gasto com “ações e serviços públicos de saúde”, conforme definido na Resolução
+322 do Conselho Nacional de Saúde, com respeito ao que deve ser considerado para efeitos de cumprimento
+da EC29. Com isso as informações não são efetivamente comparáveis, porém, isso não impossibilita que sejam
+utilizadas para analisar tendências.
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde
+
+Tabela 02. Gasto das Três Esferas com Ações e Serviços Públicos em Saúde 2000 a 2011
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: SPO/MS (Esfera Federal) e SIOPS (Esferas Estaduais e Municipais - extraídos em 13 de junho de 2011).
+Notas:
+
+(1) O Gasto Federal ASPS está de acordo com a definição das LDOs, que considera os gastos totais do MS, excetuando-se as despesas
+com Inativos e Pensionistas, Juros e Amortizações de Dívida, bem como as despesas financiadas pelo Fundo de Combate e Erradicação
+da Pobreza. Vale lembrar que a SPO, para o cálculo do Gasto Federal ASPS, também considera os valores executados na UO 74202 —
+Recursos sob supervisão da ANS até 2007. A partir de 2008, a SPO começou a excluir esta UO do cômputo de gasto em ASPS.
+
+(2) O Gasto Estadual ASPS foi extraído de Notas Técnicas produzidas pelo SIOPS com a análise dos balanços estaduais (2000 a
+2008). Foram utilizadas as informações sobre despesa própria da análise dos balanços estaduais efetuada pela equipe do SIOPS, em
+conformidade com as diretrizes da resolução CNS 322/03 e EC 29/00. Em 2009 e 2010, foram utilizados os dados dos 27 estados que
+transmitiram ao SIOPS (posição 27 de novembro de 2012). Em 2011, foram utilizadas as informações das 26 UFs que transmitiram até dia
+27 de novembro de 2012. Em relação a Alagoas, que ainda não havia transmitido até esta data, atualizou-se a informação de 2010 baseado
+no crescimento anual médio observado nos últimos 2 anos. Aguardamos a análise de balanço dos respectivos anos para a atualização
+final deste gasto.
+
+(3) O Gasto Municipal ASPS foi extraído da base do SIOPS em 27 de novembro 2012. Os dados referem-se apenas aos municípios que
+transmitiram em cada ano, que corresponde a uma média de 99% do total de municípios entre 2001 e 2010. Em 2000, 96% transmitiram
+os dados ao SIOPS e em 2011este percentual foi de 98%.
+
+* Dados preliminares. Sujeitos à revisão após a análise de balanço.
+
+Esse aumento da participação de estados e municípios no financiamento
+da saúde implicou, na prática, num incremento real de recursos para saúde da ordem
+de R$ 61,6 bilhões. A participação dessas instâncias de governo no financiamento do
+SUS passou de R$ 27,7 bilhões em 2000 para R$ 89,4 bilhões em 2011. Como resultado
+desse aporte de recursos, juntamente com o aumento de R$ 31 bilhões de recursos
+da União no mesmo período, o gasto público com saúde saiu de R$ 69 bilhões em
+2000 para R$ 161,7 bilhões em 2011, em termos reais. Assim, dois terços do aumento
+
+29)
+30
+
+A SAÚDE NO BRASIL EM 2030
+
+de recursos para ASPS, no período entre 2000 e 2011, foram provenientes de receitas
+próprias de estados e municípios, enquanto um terço foi alocado pela União. Ou seja,
+a EC-29, com o aumento da participação de estado e municípios, e crescimento das
+aplicações da União, possibilitaram o incremento real de 134% de recursos públicos
+para a saúde, conforme demonstrado na Tabela 2.
+
+Como desdobramento dessa situação, o gasto per capita das três esferas
+com o SUS dobrou entre 2000 e 2011, passando de R$ 403 em 2000 para R$ 830 em 2011.
+Em relação ao PIB, o gasto do SUS passou de 2,9%, em 2000, para 3,9% em 2011 (Tabela
+3), ou seja, um crescimento de um ponto percentual no indicador.
+
+Tabela 03. Gasto Público das Três Esferas com Ações e Serviços Públicos em Saúde como proporção
+do PIB e per capita — 2000 a 2011
+
+  
+
+ 
+
+   
+  
+  
+  
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+8,49%
+
+2002 15,10%
+2003 12,63%
+2004 27,75%
+2005 35,32%
+2006 44,66%
+2007 53,04%
+2008 69,97%
+2009 84,34%
+2010 92,29%
+105,74%
+
+  
+
+Fonte: SPO/MS (Esfera Federal) e SIOPS/MS (Esferas Estadual e Municipal - extraídos em 13 de junho de 2011) para gastos em ASPS. IBGE
+para população (revisão 2008) e PIB.
+Notas: O gasto per capita foi atualizado para valores de 201, segundo IPCA médio anual.
+
+Contudo o aporte de recursos poderia ter sido ainda maior, caso a União e
+os estados cumprissem a EC 29 de acordo com os critérios previstos na Resolução 322
+do CNS. O Governo Federal e os governos estaduais utilizaram diversos expedientes
+para aplicar menos do que o previsto na Emenda?. A equipe da Câmara Técnica do
+
+23 A discussão dessa questão já foi feita à exaustão por vários autores como IPEA (2000 a 2003), Ribeiro, Piola e
+Servo (2006), SIOPS (2005), entre outros. Apesar de o Conselho Nacional de Saúde ter publicado, como dito, a
+Resolução 322, tentando normatizar o que se entende por ASPS, ainda há controvérsias sobre diversas questões.
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde
+
+Sistema de Informações sobre Orçamento Público em Saúde (SIOPS) e o Ministério
+Público Federal (2009), seguindo a Resolução nº 322 do CNS, demonstraram que, em
+determinados anos, a União e parte dos estados e municípios não teriam aplicado
+o mínimo exigido pela EC29. No caso dos estados, as análises de balanço feitas pela
+equipe do SIOPS indicaram que em 2006, em média, a aplicação alcançou 9,6% da
+receita vinculada, quando deveria ser no mínimo de 12% e que, nesse mesmo ano,
+apenas 16 estados teriam inequivocamente cumprido a Emenda (SIOPS, 2011).
+
+A estimativa de déficit de aplicação dos Estados — quando os valores
+empenhados em ações e serviços públicos de saúde (SUS) não alcançam os 12% da
+receita desses entes da federação — atingiu cerca de R$ 6 bilhões no período 2004
+a 2008, com base nos dados declarados ao SIOPS (antes da verificação baseada na
+análise dos balanços). Depois da análise, para ver se as aplicações estão de acordo com
+o estabelecido na Resolução 322 do CNS, o déficit sobe para R$ 16 bilhões, no período.
+
+Em 2008, último ano com análise de balanço divulgada, o déficit de
+aplicação dos estados foi de aproximadamente R$ 3,0 bilhões, de acordo com análise
+dos balanços dos estados e do DF realizada pela equipe do Siops. Treze estados
+apresentaram déficit de aplicação em 2008: MA, PI, CE, PB, AL, MG, ES, RJ, PR, SC, RS, MT
+e GO. Do total do déficit, R$ 1,7 bi correspondia aos estados do RS e MG.
+
+Ainda segundo dados da Câmara Técnica do SIOPS, no período 2000 a
+2008, o déficit de aplicação do Ministério da Saúde foi estimado em R$ 3,08 bilhões”. O
+chamado déficit de aplicação representa o somatório da diferença entre valor mínimo
+a ser aplicado a cada ano, de acordo com os critérios da Emenda, e valor empenhado
+pelo Ms, ou seja, sem compensação dos valores aplicados acima do piso em alguns
+anos. Se a compensação for feita, o déficit fica em R$ 1,8 bilhão.
+
+Além dessa “perda” para o SUS, ainda existiam outros vazamentos. Todo
+ano, parte dos valores empenhados passa para ser paga nos anos seguintes. São os
+chamados restos a pagar. Esses valores, que constaram como gasto realizado para fins
+de cumprimento da EC 29 podem, eventualmente, serem cancelados. Só o MS cancelou
+R$ 2,6 bilhões dos restos a pagar do SUS de 2000 a 2008 (SIOPS, 2011). Esse procedimento,
+lançamento de despesas como restos a pagar e posterior cancelamento de parte, também
+ocorre nas contas do SUS de estados, DF e municípios, mas não há informação sobre os
+montantes de recursos envolvidos nesse procedimento. O lançamento de despesas como
+restos a pagar e seu posterior cancelamento por motivos justificados é um procedimento
+normal/legal da administração pública. A questão é em que proporção isso ocorre e se
+isso era utilizado para cumprir a vinculação só no papel.
+
+24 Valor correspondente à diferença entre o valor mínimo previsto pela Emenda para cada um dos anos do período
+de 2000 a 2008 e gasto total do MS, quando são retiradas do gasto total as despesas com inativos e pensionistas
+e o pagamento de encargos da dívida, que não são, reconhecidamente, despesas com ações e serviços públicos
+de saúde.
+
+Bi
+32
+
+A SAÚDE NO BRASIL EM 2030
+
+Por fim, ao se analisar as aplicações do MS tendo como critério a
+compatibilidade com o conceito de ações e serviços públicos de saúde, que está na
+Resolução 322 do Conselho Nacional de Saúde, de 3 de maio de 2003, foram encontradas
+despesas que não poderiam ser incluídas. Entre outras, deveriam ser retirados os gastos
+com assistência médica a servidores — mais de R$ 1,0 bi de 2000 a 2008 — (por que não
+são serviços de acesso universal), com a bolsa alimentação — R$ 3,2 bi — (transferência
+monetária que foi executada na conta do MS em 2001 e 2003) e farmácia popular — R$
+1,8 bi Ou seja, mais de R$ 6,0 bilhões.
+
+Estas estimativas de “vazamentos” podem ser contestadas, mas a
+apresentação serviu e serve para estimular a discussão. Estas análises, que foram feitas
+com base na interpretação da legislação e dos instrumentos normativos existentes e
+foram apresentadas e discutidas na Câmara Técnica do Siops, não chegaram a serem
+publicadas.
+
+Com a emenda regulamentada por meio da Lei Complementar nº
+141/2012, estes vazamentos tendem a diminuir, uma vez que ficou definitivamente
+explícito, por meio de instrumento adequado, o que são consideradas como ações e
+serviços públicos de saúde para fins de cumprimento da emenda constitucional. Além
+disso, em relação aos restos a pagar cancelados (outra fonte de vazamentos), a LC
+141/2012 define que os recursos cancelados que entraram na conta para se alcançar o
+valor mínimo devem ser repostos e como isso deve ser feito. Por fim, a Lei Complementar
+também se mostrou presente no que tange à regulamentação do não cumprimento do
+mínimo em saúde previsto em lei: ficou definido que aqueles entes que descumprirem
+o valor mínimo previsto para ser gasto em ações e serviços públicos de saúde daquele
+ano deverão compensar esta diferença no ano seguinte, sem que esta diferença entre
+na contabilidade do valor gasto nesse ano.
+
+2.4| Gasto em ASPS x Receita nas Três Instâncias de Governo
+
+Como visto anteriormente, a EC 29 estabeleceu critérios diferentes para
+as três esferas no que concerne a aplicação mínima de gastos em ASPS. Para a União,
+o cálculo foi atrelado à variação do PIB, enquanto para estados e municípios, este
+indicador foi vinculado às suas receitas próprias.
+
+Uma análise interessante do “esforço” empreendido por estes entes
+federativos ao longo dos últimos anos em relação ao gasto em ASPS seria a proporção
+deste gasto em relação à receita corrente líquida, que nada mais é que a Receita Corrente
+Bruta (RCB)?* descontadas, entre outros, as transferências legais e constitucionais e
+as contribuições previdenciárias e para o PIS/PASEP. Entretanto, esses dados só estão
+
+25 A Receita Corrente Bruta inclui não só a arrecadação de tributos e contribuições, como as transferências legais
+e constitucionais e outras receitas correntes (de serviços, patrimonial etc.)
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde
+
+disponíveis para a União (todo o período) e Estados (2005 a 2011). As informações para
+municípios só estão disponíveis em relatórios individuais (RREO), mas não para todos
+os municípios?.
+
+Como alternativa, podemos utilizar diferentes medidas de receita”.
+Piola et. al. (no prelo) faz esta análise considerando, no denominador, o numerador da
+Carga Tributária Bruta (NCTB), a Receita Corrente Bruta (RCB) e a RCB descontadas as
+transferências para assistência e previdência social (TAPS).
+
+A Carga Tributária Bruta? mede a razão entre o volume de impostos,
+taxas e contribuições sociais, que são usadas no financiamento das políticas públicas,
+e o PIB. Neste trabalho, usamos o numerador desta razão no cálculo da medida de
+esforço descrita na segunda, terceira e quarta colunas da tabela 4. A participação do
+gasto em saúde no total das receitas tributárias da União (incluídas as contribuições)
+oscilou entre 7% e 8%, entre 2002 e 2011. Nesse mesmo período, houve um aumento da
+participação dos gastos em saúde dos Estados e Municípios em relação a essa receita.
+
+A Receita Corrente Bruta (RCB) inclui não só a arrecadação de tributos
+e contribuições, como as transferências legais e constitucionais e outras receitas
+correntes (de serviços, patrimonial etc.). Recorrentemente, esse indicador é utilizado
+em discursos a favor da ampliação da participação da União no financiamento da
+saúde? (tabela 4). Assim, faz sentido comparar União, estados e municípios utilizando
+essa mesma base.
+
+Ao se analisar a participação do gasto com saúde em relação à
+Receita Corrente Bruta — RCB percebe-se uma redução significativa na participação
+municipal quando comparada ao indicador de gasto sobre NCTB. As transferências
+intergovernamentais (constitucionais/legais e voluntárias) ampliam a receita dos
+estados e, principalmente, a dos municípios. Essa seria a explicação para a redução
+da participação desses entes (aumento do denominador). Como a União praticamente
+não recebe de outros entes, o efeito de uma participação um pouco menor em
+relação ao indicador de NCTB refere-se às outras receitas (serviços, patrimonial etc.).
+Esse indicador mostra, também, a dependência dos municípios de recursos que são
+arrecadados por outros entes, particularmente pela União, fato resultante da estrutura
+
+26 Seria necessário desenvolver uma metodologia para calcular os dados de municípios para todo o período e de
+estados, tentando retornar, pelo menos, até 2002, a partir de informações disponíveis nos sistemas orçamentários
+estaduais e municipais da Secretaria do Tesouro Nacional (STN).
+
+27 Obviamente, para possibilitar a comparação do “esforço” realizado pelos três entes, a receita considerada no
+cálculo deverá ter a mesma metodologia.
+
+28 A Carga Tributária Bruta é o quociente entre o somatório das arrecadações de impostos, taxas e contribuições
+pelas três esferas de governo (federal, estadual e municipal) e o Produto Interno Bruto, segundo IBGE (2008).
+
+29 Na verdade, uma das principais reivindicações da bancada sanitarista na regulamentação da EC-29 era a de que
+o gasto mínimo em ASPS da União correspondesse a 10% da RCB. Entretanto, a Lei 141/2012 manteve a forma
+de cálculo atual: o valor mínimo a ser aplicado em ASPS será atrelado à variação nominal do PIB.
+
+BS
+34
+
+A SAÚDE NO BRASIL EM 2030
+
+tributária e do sistema federativo brasileiro. No caso desse indicador, o percentual da
+RCB aplicada pela União e pelos Estados tende a se aproximar ao longo dos anos. O
+percentual comprometido pelos municípios é maior que aquele dos outros entes.
+
+Tabela 04. Participação do Gasto com Ações e Serviços a Públicos de Saúde (ASPS) na Carga
+Tributária Bruta (nCTB), na Receita Corrente Bruta e na Receita Corrente Bruta descontadas as
+transferências assistenciais, previdenciárias e os subsídios (TAPS), 2002 a 2011
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Secretaria de Tesouro Nacional/Ministério da fazenda (Receita Corrente Bruta e Receita Corrente Líquida); Secretaria de Política
+Econômica/Ministério da Fazenda. (Transferências para Assistência e Previdência Social — TAPS); Orair (2012) — numerador da Carga
+Tributária Bruta; SIOPS/MS e SPO/MS (gasto em ASPS). Elaboração dos autores.
+
+Nota: Dados de RCB dos municípios são provenientes do Finbra e referem-se, em média, a 5.300 municípios (95% do total de municípios).
+
+O terceiro indicador seria composto, no denominador, pela RCB
+descontadas as TAPS. A ideia subjacente a esse indicador é que, como os benefícios
+previdenciários representam em torno de 15% do PIB e são de pagamento obrigatório,
+ao excluí-los ter-se-ia uma primeira aproximação para disponibilidade de recursos, já
+que não temos informações sobre a RCL para os três entes. Como a responsabilidade
+pelo pagamento desses benefícios é maior para União, quando eles são descontados
+observa-se uma aproximação, ao longo do tempo, do indicador no nível municipal em
+relação ao indicador federal. Ao final do período, ambos estavam comprometendo 14%
+da sua RCB descontados as TAPS.
+
+Esses indicadores mostram diferentes aspectos relacionados ao
+comprometimento dos entes federativos com gastos em saúde. A análise mostra um
+aumento do esforço relativo dos municípios ao longo do tempo, independentemente
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde
+
+dos indicadores. Contudo, a depender do indicador utilizado, no final do período houve
+uma convergência da proporção aplicada. Quando usamos a RCB, há uma convergência
+dos indicadores entre União e Estados e quando usamos RCB excluídas as TAPS, há
+uma aproximação entre União e municípios.
+
+Entretanto, apesar do aumento relativo do esforço de estados e
+municípios, o percentual de recursos públicos aplicados em saúde não ultrapassou 4%
+do PIB (tabela 3). Um percentual abaixo do praticado em países com sistemas de saúde
+universal, que já ultrapassa os 6% do PIB há algum tempo e, em muitos, supera 10%.
+Essas comparações dão uma ideia do caminho que o Brasil ainda tem que percorrer,
+sendo necessário avançar, também, na compreensão do custo e da efetiva necessidade
+de recursos para implantar um sistema que se quer universal, integral e equânime.
+
+2.5 | O Impacto do Gasto Federal em Saúde no Gasto Social Federal (GSF)
+
+Outra forma possível de analisar o volume de recursos conquistados pela
+saúde ao longo dos últimos anos é sua representação no Gasto Social Federal (GSF)'º.
+Entretanto, esta análise refere-se apenas à esfera federal.
+
+A série de gastos elaborada pela DISOC/IPEA demonstra que tem havido
+um aumento quase constante da participação relativa do GSF no PIB. No período de
+1995 a 2010 o aumento foi de quase quatro pontos percentuais, fazendo com que o GSF
+saísse do patamar de 11,2% para 15,5% do PIB.
+
+Dentre as áreas que compõem a conta do GSF, elaborada pela DISOC/
+IPEA, a Previdência Social é a de maior representatividade em relação ao PIB, tendo
+aumentado sua participação de 5% em 1995 para 7,4% em 2010. A Assistência Social se
+destaca pelo seu comportamento ascendente no período, apesar de representar uma
+fatia pequena do PIB (de 0,1% a 1,1%). As áreas de Saúde e Benefícios a Servidores
+apresentaram um comportamento estável ao longo do período, representando, em
+média, 1,7% e 2,4% do PIB respectivamente (Gráfico 1).
+
+Apresentando comportamento estável em relação ao PIB, a saúde” é a
+terceira área em termos de volume de gastos desde 1995, sendo superada apenas pela
+
+30 O Gasto Social Federal, calculado pelo IPEA, tem por objetivo mensurar os gastos referentes a programas e
+ações por áreas de atuação consideradas sociais, tais como: previdência social, benefícios a servidores da União,
+proteção ao trabalhador, organização agrária, habitação e urbanismo, assistência social, alimentação e nutrição,
+saúde, educação, cultura e saneamento básico.
+
+31 Segundo a metodologia do IPEA para mensuração do GSF, o gasto da área da saúde é composto pelos gastos
+totais do MS, excluídos os gastos com alimentação e nutrição, saneamento básico, assistência médica e social a
+servidores, juros e encargo das dívidas interna e externa e inativos e pensionistas. Entretanto, inclui as despesas
+de custeio dos Hospitais de Ensino e Universitários (MEC).
+
+ES
+36
+
+A SAÚDE NO BRASIL EM 2030
+
+Previdência Social e pela área de Benefícios a Servidores Públicos Federais“. Em 2010
+foram aplicados na área da saúde recursos equivalentes a 10,8% do total do GSF, sendo
+que em 1995 esta área representou 15,9% do GSF.
+
+Gráfico 01. Evolução da participação do Gasto Social Federal por área de atuação em relação ao
+PIB— 1995 a 2010
+
+8,0%
+7,0%
+6,0%
+5,0% —s- Assistência Social
+Benefícios e Servidores
+4,0% Públicos Federais
+— Previdência Social
+3,0% —s— Saúde
+—s- Demais áreas
+2,0%
+1,0%
+
+0,0%
+dO SN DDS MMS SMDSOÃS
+
+MP 4 9 O SH S&S
+POLLS LDO LEAL
+
+Fonte: Secretaria da Receita Federal, Disoc/IPEA e IBGE.
+
+Em valores absolutos, no período de 1995 a 2010, o gasto federal na área
+de saúde passou de R$ 37 bilhões para R$ 67 bilhões, em reais de 2011 (média anual
+do IPCA), ou seja, teve um crescimento de 80%%. Enquanto isso, o GSF como um todo
+observou um incremento real de 171%, passando de R$ 231 bilhões em 1995 para R$ 625
+bilhões em 2010. Esta perda de espaço dentro do GSF pode ter sua origem na crise de
+financiamento da saúde na década de 90, quando a saúde deixou de receber os repasses
+de recursos da Previdência Social que então eram aplicados em assistência médica.
+A criação de imposto e mais tarde de contribuição sobre a movimentação financeira
+(CPMF), que veio para ser recurso adicional, acabou substituindo parcela das fontes
+
+32 Nesta área de atuação são consolidadas todas as despesas destinadas ao pagamento de aposentadorias e pensões
+de servidores públicos federais que saíram da ativa, a servidores dos extintos territórios e estados custeados
+com recursos da União e a funcionários públicos de empresas estatais pagos com recursos dos Orçamentos
+Fiscal e da Seguridade Social. São também considerados os gastos relativos a benefícios trabalhistas, como
+despesas com assistência médica e odontológica, auxílio-transporte, auxílio-refeição etc.
+
+33 Novamente vale lembrar que a análise da “área de atuação” da saúde no GsF é diferente da análise da execução
+do MS e do gasto em ações e serviços públicos de saúde (ASPS).
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde
+
+que tradicionalmente financiavam a saúde, como mencionado na seção 2. Por im, o
+piso constitucional para as alocações federais no SUS estabelecido pela EC 29, ao invés
+de se constituir efetivamente no volume mínimo a ser aplicado, foi transformado em
+“teto” do financiamento federal do SUS, demonstrando uma diminuição da prioridade
+da saúde nos gastos sociais do Governo Federal.
+
+Gráfico 02. Evolução da participação das áreas de atuação no GSF: 1995 e 2010
+
+1995 2010
+
+Previdência Social Previdência Social
+
+52% 2,6%
+
+  
+
+Benefícios e Servidores
+
+   
+
+ 
+
+2,9% 1% ei T o
+4,72% 0,7% E Benefícios e Servidores 5,3%
+
+Públicos Federais 6,9% Públicos Federais
+8,48%, saúd Saúd
+H Saúde E Saúde
+E Educação E Educação
+E Emprego e Defesa do E Emprego e Defesa do
+
+Trabalhador Trabalhador
+
+ 
+
+Demais áreas
+
+Demais áreas
+
+Habitação e Urbanismo Habitação e Urbanismo
+
+E
+
+Assistência Social Assistência Social
+
+E
+
+Fonte: GSF/DISOC-IPEA
+
+2.6] Ministério da Saúde:
+análise do gasto federal por fonte de financiamento
+
+Na análise da execução orçamentária do MS* por fonte chama atenção a
+posição hegemônica que as contribuições sociais (Contribuição para o Financiamento
+da Seguridade Social — COFINS, Contribuição Social sobre o Lucro Líquido — CSLL,
+Contribuição Provisória sobre Movimentação Financeira — CPMF, dentre outras) ocupam
+no financiamento daquele órgão: entre 1995 e 2011, apenas em 2 anos a participação
+dessas fontes ficou abaixo de 70% (1996 e 1999). A partir de 2004, a participação das
+contribuições sociais ficou acima do patamar de 86%, apresentando-se como exceção
+apenas o ano de 2008 (cerca de 72%), devido à extinção da CPMF em 2007.
+
+A participação percentual das diferentes contribuições sociais no
+financiamento do MS é muito variada ao longo dos anos. Desde 1997 a CPMF foi uma
+das principais fontes de financiamento dos gastos do MS. De 2002 a 2007, a CPMF e a
+CSLL responderam por cerca de 70% do gasto do MS. Em 2008, com a extinção da CPMF
+em 2007, a participação dos recursos ordinários se elevou para 20%, assim como se
+elevou a participação da COFINS. (Tabela 5). Em 2009, 2010 e 2011, a CSLL e a COFINS
+foram responsáveis por mais de 80% do financiamento do gasto do MS. Em 2011,
+
+34 A análise do gasto por fonte de financiamento só foi realizada para a esfera federal uma vez que só esta
+apresenta informações que possibilitam tal análise.
+
+BS
+A SAÚDE NO BRASIL EM 2030
+
+38
+
+(Lota oLot
+
+*600z “
+
+8007) 1SVHS VDIS :(L00T E S661 :yad| — [eJ9pas [eos 09seD) HOGIS/laVIS :S3u04
+
+ 
+
+1ezoL
+
+sejuos sILLuad
+
+ 
+
+sagóealunuoda|a|
+sep opjezijeosiy ap opuna
+
+ 
+
+%S'PT | WE'ET | %9'6T
+
+PUZBI WI
+ap |eros opuna
+
+ 
+
+%E'O
+
+%6'0
+
+BZaJJOd BP OBÍLIIpeJ3
+a ajequioo ap opuns
+
+ 
+
+%9'T
+
+%6'T
+
+%S'O
+
+TO'O
+
+Jopinas jpos unhas
+OUDId [DUONDA "qujUO)
+
+ 
+
+%O'T
+
+WCT
+
+%6'0
+
+%B'0
+
+%6'T
+
+WTT
+
+%6'0
+
+JOpIAJaS |D190S
+unbas ouDId 'qujuo)
+
+ 
+
+%O'O | %r'o %r'tE
+
+%E'6T
+
+%y'6z
+
+STE
+
+%v'ge
+
+WU'BT
+
+WU'TE | KOTL | WO'LE | %6LT
+
+(JINdO) 0u22UDUIS
+“JUQUJAOW NOJ “QuIUOD
+
+ 
+
+%OTS | %8'Sy %S'ET
+
+W'6T
+
+UGT
+
+WL'TT
+
+%9'8T
+
+%s'8E
+
+WT'LE | KE'9T | W6'ST | KIGT | KC'TP
+
+jojos unhas
+OjuaWDIUDUIS "QujUO)
+
+ 
+
+WL'LE | ILE %e'or
+
+%6'68 | %0'98
+
+%L'6€
+
+WE TE
+
+%y'LT
+
+ST
+
+%E'TE
+
+ 
+
+%O'L
+
+%6 PL
+
+%ITT | WET | %O'B | %E'6T | %L'OL
+
+%S'T9 | %8'TL
+
+(7152)
+fd = 0J9N7 [DIOS "quauod
+
+sIBIDOS SA QÍINquIUOD
+
+ 
+
+|jBUODEN OJNOsa|
+
+ 
+
+ 
+
+ 
+
+€o'o %r'O | HE'O %E'O | WO PERES
+op | we! %O" muit | mr! ws'e | ug! sopepeoauy
+%O'P | %E'b 0'b LT | ATS s'E | HIT a E
+4 É É “ 1 4 BUJ9]X9 9 BUJOJUI
+%T'O %o'0 %6T | LT ST | WTT DES
+%p'T WT'OZ %EOT | WSTT WT'ST | %8'0T SOLPUIPIQ SOSINISY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“LLOT é S661 — OjuawepDUBUL 2p 2JU0/ JOd apnes ep OLSIsIulA Op OpÍnDaxa ep jenqus>212d oBSInquasig *So ejqer
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde 39
+
+somente a COFINS respondeu por 52% financiamento do MS. O gráfico 3 representa
+bem o comportamento variável das contribuições sociais ao longo dos últimos anos.
+
+O gráfico 3 também mostra que, enquanto existiu, a CPMF teve
+participação bastante estável no financiamento da saúde. Ela financiou, em média,
+30,8% dos recursos do MS no período de 1997 a 2007.
+
+Gráfico 03. Evolução da participação das contribuições sociais no financiamento da saúde — 1995 a 2011
+
+ 
+
+100,0%
+90,0%
+80,0%
+70,0%
+60,0%
+50,0%
+40,0%
+30,0%
+20,0%
+10,0%
+
+0,0%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011
+
+== Contribuições Sociais
+ge Contrib. Social Lucro — PJ (CSLL)
+«yé= Contrib. Financiamento Segur. Social
+
+«je Contrib. Prov. Moviment. Financeira (CPMF)
+
+Fonte: SIAFI/SIDOR (Gasto Social Federal - Ipea: 1995 a 2007): SIGA BRASIL (2008, 2009, 2010 e 2011).
+
+De acordo com Servo et. al.(2011), a CPMF
+
+contribuiu muito mais para estabilizar o patamar de recursos orçamentários
+desse órgão do que para efetivamente elevá-lo de forma mais significativa, fato
+que pode ser observado no período de 1997 a 2003. Somente a partir de 2004, já
+com a EC 29 em vigência, é possível dizer que os recursos da CPMF representaram
+um aporte de recursos totalmente novo para a saúde no nível federal.
+A SAÚDE NO BRASIL EM 2030
+
+40
+
+HOT YDdl Ojad sopezijeme 'saouj
+
+ 
+
+Su UIy
+
+“(OT 5 oLOT '60OT 'g00T) 1ISV HS VDIS :(LOOT E S661 ipod] — [eJopas [eos 0)seD) HOAIS/IAVIS :23U04
+
+ 
+
+STZ | S'OZ | 9'€9 | p'T9 | 0'L5
+
+6'€s | €TS | T'9 | 964
+
+tor | 9'sp | Tyr | O'or | Z'cp
+
+teor
+
+sajuos siewag
+
+ 
+
+sagópalunuioda|a|
+sep opjezijeosiy ap opuna
+
+ 
+
+erUZBIUI AP [2205 Opuna
+
+ 
+
+ezaJgod
+ep opjeolpeug o jequioo ap opuns
+
+ 
+
+“plnsas
+|DIOS UNDas OUDId JoUONDA "ququo)
+
+ 
+
+JOpInJaS [DIOS UNDas OUD|d "ququo)
+
+ 
+
+(Indo)
+DJIDIUDUIS JUIWIAOIN AOL "QUIUOD
+
+ 
+
+[DI20S UNDas ojuawDI9UDU!s "ququo)
+
+ 
+
+(7159) td — 042N7 |DI20S “quguod
+sIBI2OS SAQÍINQuUIUOD
+
+jeuolDEN oJNosa| “qesuodsay sojnl
+
+ 
+
+soJsoueuL)
+SOPeprIS IV SJUatUBjDJI SOSINIAY
+
+ 
+
+BUJS)Xa à BUJSJUI Opa ap sagóriado
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SOLBUIPJO SOSINIay
+
+LLOZ E 5661 — OjuawepUBUL 3p 9JU0J JOd apnes ep OLISISIUIA OP OBÍNDax3 "90 ejoqer
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde
+
+O gráfico 4 demonstra claramente que a CPMF, como aporte 100%
+adicional para a saúde só ocorreu a partir de 2004. Até então, cerca de 1/3 dos recursos
+provenientes da CPMF vieram substituir outras fontes existentes”, uma vez que, entre
+1997 e 2003, os recursos referentes às demais fontes financiaram, em média, R$ 31,4
+bilhões dos gastos em saúde, abaixo do patamar atingido em 1996 (R$36,1 bilhões).
+
+Gráfico 04. Execução do MS por Fonte de Recursos (CPMF e demais) — 1995 a 2011 (em R$ bilhões
+de 2011, atualizados pelo IPCA)
+
+80,0
+70,0
+
+60,0
+
+1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011
+
+50,
+
+o
+
+40,
+
+o
+
+30,
+
+o
+
+20
+
+o
+
+10,
+
+o
+
+E Demais Fontes E Contrib. Prov. Moviment. Financeira (CPMF)
+
+Fonte: SIAFI/SIDOR (Gasto Social Federal — IPEA: 1995 a 2007); SIGA BRASIL (2008 a 2011).
+
+Neste contexto, é importante destacar a importância da EC 29 no
+financiamento da saúde. Ela assegurou a participação das três esferas de governo
+no financiamento da saúde e aumento real significativo nas aplicações a partir da
+definição de recursos mínimos que deveriam ser destinados à saúde. Com este aporte
+mínimo garantido, o fim da CPMF em 2007 não gerou uma crise no financiamento, assim
+como ocorreu em 1993, por ocasião do afastamento dos recursos previdenciários do
+financiamento do setor. Como observado no início desta seção, outras fontes supriram
+o gasto financiado anteriormente pela CPMF, permitindo que o MS respeitasse o valor
+mínimo a ser gasto com ações e serviços públicos de saúde.
+
+35 Essa inferência só é possível quando supomos que as demais fontes deveriam financiar, no mínimo, o mesmo
+valor aportado no ano de 1996, cerca R$ 36,1 bilhões, quando ainda não existia CPMF.
+
+41
+42
+
+A SAÚDE NO BRASIL EM 2030
+
+3 | ANÁLISE DA REPARTIÇÃO DO VOLUME
+DE RECURSOS PÚBLICOS DA SAÚDE
+
+Além de fazer uma análise do volume de recursos que financiam a saúde
+pública de caráter universal, este texto pretende analisar também a repartição destes
+recursos. Assim, nesta seção será demonstrada a distribuição dos gastos públicos
+em saúde por região e, no caso dos gastos federais sua distribuição por programa e
+modalidade de aplicação.
+
+341 | Distribuição Regional do Gasto Público Total
+
+Apesar da preocupação do Governo Federal em conferir maior equidade
+na distribuição dos seus recursos, a distribuição regional do gasto público em saúde é
+bastante desigual entre as macrorregiões brasileiras”. Em 2008, a região Sudeste tinha
+o maior gasto público per capita em saúde com um valor de R$ 596,07 por habitante.
+A seguir vinham as regiões Centro-Oeste (R$ 556,35), Norte (R$ 527,10) e Sul (508,82).
+O gasto mais baixo ocorreu no Nordeste onde atingiu o valor per capita de R$ 421,09,
+quase 30 % inferior ao gasto público no Sudeste.
+
+Em relação à participação de recursos das três esferas de Governo, nas
+regiões Norte e Centro-Oeste o gasto per capita médio dos estados é superior ao gasto
+médio dos municípios. Como na região Centro-Oeste os gastos do DF são considerados
+exclusivamente como gastos estaduais, este fato pode estar contribuindo para essa
+situação. Nas regiões Sule Sudeste, principalmente nessa última, o gasto dos municípios
+é bastante superior ao per capita médio dos estados dessas regiões (Tabela 7).
+
+Tabela 07. Gasto per capita* com ações e serviços públicos de saúde por esfera de governo e região
+— 2008
+
+ 
+   
+ 
+  
+ 
+    
+ 
+
+Norte
+
+ 
+
+ 
+
+ 
+
+Nordeste 421,09
+Sudeste 596,07
+Sul 508,82
+
+ 
+
+Centro-Oeste
+
+Fonte: SPO/MS, SIGA Brasil, SIOPS e IBGE.
+* Não foram considerados os gastos realizados na rubrica nacional.
+
+36 Não está em discussão se uma distribuição regional igualitária seria mais justa. De forma mais simplista, a
+análise foi feita com base no senso comum de que os recursos federais deveriam beneficiar em maior proporção
+as regiões de menor desenvolvimento social e econômico.
+
+37 Em toda seção que trata da regionalização dos recursos públicos para saúde é utilizado o conceito de ações e
+serviços públicos de saúde, conforme adotado pelo SIOPS.
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde 43
+
+Uma das formas de dimensionar as desigualdades no gasto público,
+por região, é comparar o gasto regional per capita ao gasto médio nacional per capita,
+verificando o percentual de diferença (ou afastamento) da média nacional.
+
+Desta forma, observa-se que, entre 2005 e 2008, houve pequena variação
+nos indicadores. Por exemplo: o gasto público total com saúde na região Sudeste ficou
+14,28% e 13,31% acima da média nacionalnos anos referidos, enquanto que no Nordeste
+o gasto público foi quase 21% e 20% inferior à média nacional nos anos considerados
+(Gráfico5). O gráfico também mostra que, com exceção das regiões Centro-Oeste e Sul,
+as variações observadas entre 2005 e 2008 não são significativas*.
+
+Gráfico 05. Variação percentual do gasto per capita total em ações e serviços públicos de saúde em
+cada região em relação ao gasto per capita médio do país — 2005 a 2008
+
+20,00%
+15,00%
+
+10,00%
+
+    
+
+5,00%
+
+   
+ 
+ 
+  
+
+ 
+  
+
+0,41%
+2005
+
+0,20%
+2008
+
+  
+
+  
+
+2005 2005 2008 2005 2008
+
+    
+
+0,00%
+
+   
+
+Sudeste Centro-Oeste
+
+-5,00%
+-10,00%
+-15,00%
+-20,00%
+
+-25,00%
+
+Fonte: SPO/MS, SIGA Brasil e IBGE.
+
+A distribuição do gasto federal é, entretanto, menos desigual do que a
+do gasto público total. Nesse caso a diferença entre a região Sudeste que recebeu R$
+196,74 em recursos federais por habitante em 2008 e a região Nordeste (R$ 180,20 por
+habitante ao ano em 2008) é de cerca de 9,2%. As regiões Sul (R$ 221,10), Sudeste (R$
+196,74) e Centro-Oeste (R$ 187,89) receberam mais recursos federais que as regiões
+Nordeste e Norte. (Tabela 7).
+
+38 Não foi possível compatibilizar a série de gastos para período mais longo, entre 2000 e 2008, devido a alterações
+feitas pelo MS nos critérios de regionalização dos recursos alocados sob a rubrica Nacional, cuja metodologia
+foi alterada a partir de 2005.
+44 | ASAÚDE NO BRASIL EM 2030
+
+As variações do gasto federal em valores per capita em relação ao gasto
+médio nacional, por região, em 2005 e 2008, são apresentadas no Gráfico 6. Observa-se
+que o gasto federal per capita nas regiões Sul e Sudeste é superior à média nacional, mas
+com comportamento diferente: crescente no Sul e decrescente no Sudeste. Por outro
+lado, nas regiões Norte, Nordeste e Centro-Oeste, todas abaixo da média nacional em
+2005 e 2008, há uma diminuição da diferença (negativa) em relação à média nacional
+no período.
+
+Gráfico 06. Variação percentual no gasto federal per capita em ações e serviços públicos de saúde,
+por região, em relação ao gasto médio no país, em 2005 e 2008
+
+20,00%
+15,00%
+10,00%
+
+5,00%
+
+  
+
+2005
+
+   
+
+2008
+
+    
+
+2005 2008 2005 2008
+
+0,00%
+
+-5,00%
+
+10,00%
+
+15,00%
+
+20,00%
+
+Fonte: SPO/MS, SIGA Brasil e IBGE.
+
+A estrutura do financiamento público da saúde, por região, também é
+diferenciada. Em termos proporcionais, a participação do gasto federal é mais elevada
+nas regiões Nordeste e Sul, onde corresponde a 43% do gasto público total das regiões
+referidas em 2008. A participação das fontes dos estados, por sua vez, é predominante
+nas regiões Norte e Centro-Oeste, enquanto recursos originários de fontes dos
+municípios têm a maior participação no gasto público da região Sudeste (Gráfico 7).
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde
+
+Gráfico 07. Distribuição (%) do Gasto per capita em ASPS, por região e esfera de governo — 2008
+
+120%| NE-2008: NE-2008: SE-2008:  S-2008:  CO-2008: Total-2008:
+R$527,10 R$421,09  R$59607  R$50882 R$556,35 R$526,05
+
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+ 
+
+0%
+Norte Nordeste Sudeste Sul Centro-Oeste Total
+
+= Federal = Estadual Municipal
+
+Fonte: SPO/MS, SIGA Brasil, SIOPS e IBGE.
+* Não foram considerados os gastos realizados na rubrica nacional.
+
+3.2 | Gastos do Ministério da Saúde por Programas
+
+Nos últimos anos o SUS apresentou tendência a diminuir seu foco na
+atenção hospitalar. Um dos caminhos utilizados para isso foi dar maior ênfase à
+atenção básica, principalmente à estratégia Saúde da Família”. Essa prioridade se
+reflete na alocação de recursos. No gráfico 8 é possível verificar como os gastos com
+atenção básica aumentam sua participação relativa nos gastos do MS, enquanto há
+uma diminuição da participação dos gastos com Média e Alta Complexidade (MAC).
+
+A maior parte dos gastos federais com ASPS se concentra na MAC,
+apesar desta área vir perdendo espaço nos gastos do MS. Também ganham espaço nos
+dispêndios do MS alguns programas que anteriormente não possuíam ou possuíam
+pouca visibilidade orçamentária, como por exemplo, o Saúde Bucal, o Farmácia Popular
+e os gastos com medicamentos excepcionais (Tabela 8).
+
+39 Segundo o próprio MS, o programa é entendido como “uma estratégia de reorientação do modelo assistencial,
+operacionalizada mediante a implantação de equipes multiprofissionais em unidades básicas de saúde. Estas equipes são
+responsáveis pelo acompanhamento de um número definido de famílias, localizadas em uma área geográfica delimitada. As
+equipes atuam com ações de promoção da saúde, prevenção, recuperação, reabilitação de doenças e agravos mais frequentes,
+e na manutenção da saúde desta comunidade”
+
+45
+46
+
+A SAÚDE NO BRASIL EM 2030
+
+Gráfico 08. Distribuição Percentual dos Gastos em ASPS da União por agrupamentos de programas/
+ações, 1995 a 2011
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+60,0%
+50,0%
+mulil= (1) Pessoal Ativo
+40,0%
+ese (2) Média e Alta Complexidade (MAC)
+30,0%
+eujém (3) Atenção Básica
+20,0% .
+it (4) Medicamentos
+10,0% = (5) Vigilância em saúde
+0,0%: +———— q ———————————
+no-oo oa ao LunoR-oao oa
+So ooo oSooOooooDSD ooo da
+So o oSadSoSooSoSooSoSoSooSooSooS oo
+Add A ANNAN NANA NAN NANA N
+-10,0% “|
+
+Fonte: SPO/MS; elaboração própria.
+Notas: Os programas, ações e linhas de financiamento foram agregados numa tentativa de compatibilizar três planos plurianuais
+diferentes.
+
+Outra tendência importante desta mudança é no modo com que a
+atenção de MAC vem sendo tratada. A respeito disso ressalta-se o papel que, desde
+2003, vem tendo o Samu e, mais recentemente, as Unidades de Pronto Atendimento
+(UPAs) na Política Nacional de Atenção às Urgências, que tem por componentes: a
+atenção pré-hospitalar fixa, a atenção pré-hospitalar móvel, a atenção pré-hospitalar
+intermediária, atenção hospitalar e atenção pós-hospitalar.*
+
+Tanto o Samu quanto as UPAS integram a atenção pré-hospitalar, ou
+seja, visam atenuar a demanda por atenção hospitalar e/ou otimizar os serviços desta
+última. O Ministério da Saúde estima que 70% dos atendimentos em hospitais poderiam
+ser realizados em UPAs. Assim como a Saúde da Família, os componentes da atenção
+pré-hospitalar possuem suas limitações, porém demonstram novamente a intenção
+do SUS em racionalizar o acesso à atenção hospitalar e intensificar a atenção básica.
+
+40 Para detalhes sobre cada um dos componentes ver IPEA. Políticas sociais: acompanhamento e análise n. 19.
+47
+
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde
+
+neduwo> op PAnjequa) eunu sopeSaJSe ÚeJO] à SagÍe o seupigoJd SO :2J0N
+-pudoJd opóeJo geo !SW/OdS :23u04
+
+“SajuD Ja jp stenueun|d souejd sou Je:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+%0'00T |%0'00T|%0/00T |%0'00T |%0/00 |%0/00T |%0'00T]%0'00T |%0'00T|%0'00T |%0'00T|%0/00T|%0/00T |%0'00T]%0'00T |%0'00T|%0'00T (1) 18303 - sdsy Wa o1seg
+%L'B | WE'6 |WETL| %O'S | WB'S | %0'6 | %L'B | KEB | WL'B | KT'9 | WED | %6'8 | WT'B | %O!L | %6'P | WE'E | HIE +Sogõe sleuad (8)
+%ET | KIT | %6T | WTT|%ST|%6T|%LT|%ST |O |%ET|%P'S | HBO | WLT | %60 | %L'0 | %L'O | %ET ojuatueaues (7)
+
+sejJUdILI
+
+%OO | %LO | %OO | %WLO|%TO|%0O | WS | %WGSC|%ET|%OT | %O|%LO|] KHSO | %VO | %LO| %EO | TT se sajequioo a sesjog (9)
+
+ 
+
+ 
+
+ 
+
+%E'S | WL'S | HST | WEI | KO'L | WEL | WT'L | WELL | WL'L | WSL | KV'L | %69 | KB | WT'9 | %S'9 | WS | HT! apnes tua eluejIsia (5)
+WET | %L'O | HOT | KOT | %L'O | WHO | WT'O | HO'O | KO'0 | %O0 | %O'0 | %O'0 | %O'0 | %O'0 | %0'0 | %O'0 | %O'O Jejndog eppuues
+%ST | WLT | WST|KBT|%LO | %L'O | HINO | HINO | KIO | %L'O | %L'O | HBO | %L'O | WEO | %OO | %O'0 | HO'O (ava) espa epeuues
+
+ 
+
+%6P | WS | %S'b | %L'P | %'b | Wb'E | WTE | HST | %6T|%6T|%OT|%BT|%OT|%TT|%TT|%IO | %9'O | SIeuolndadxa sojuaued!paN
+(soal3972u)sa opuinpu! “ejauip
+eJdUJOD) SOJUSWBIIPaIA
+
+ 
+
+WET | WLT | HST | ST | KT'E | Wb'P | WB'E | KET | HOT | KIT | KB | HTTP | KIT | Kr'E | WL'E | W6T | %L'E
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+%6'8 | %6'8 | %S'B | %O'6 | %6'B | %O'6 | %L'L | WS'L | %69 | WCL | %I'9 | 99 | %E'9 | HST | HB'P | HT | HED sojus ue !paia (p)
+WUO | WUO | KT'O | KEO | HO | WO | WT'O | %O'O | KO | %O'O | %O'0 | %O'O | %O'O | %O'O | %O'O | %O'O | %O'O jeong opnes
+%T'O | WO | %O'O | KTO | %OO | WT'O | WZ'O | KL'O | KT'O | %O'O | %O'0 | %O'O | %O'O | %O'O | %O'O | %O'O | %O'O dSIOdd
+%O'OT | %9'6 | %6'8 | %L'6 | KE'6 | WL'B | WT'L | %9'9 | %O'9 | %E'S | WET | WL'E | K8T | HST] %OT | %6O | %I'0 JSd/SIvd
+WT'9 | %6'S | %B'S | %L'9 | %S'9 | WL'9 | WE'9 | %H'9 | KOL | WSL | %O'8 | %S'B | %L'6 |WETT| WT'6 | WZ'6 | KT'6 oxtl-gvd
+%r'9T |%8'ST | %6'PT | %B'9T | WC '9T |%L DT | WET | WZ'ET |WO'ET | %6'TT | WE'TT | %L TT | %P'TT | KS'CT | WL'OT | KT OT | %L'6 eoiseg obduay (E)
+%L'O | %80 nINYS
+%6'0 | %L'O SOIBJISISAIUN SILUdSOH
+
+ 
+
+sIBIDOS SEJIBUOId
+
+HIT | LT | HST | %OE | KO'E | WLT | KV | HET | HOT | WC'E | Kc'E | Wv'E | %OP | %b'r | KIT | %E'S | %S'p a soudoJd sieydsoH
+
+ 
+
+%O'Ep |%S'Ed | WS'EP | %t'9P | %8'ST | %B'EP | KO'EP | %B'SP | %8'8P | %S'LP | %S'BY | WL'SP | %6'LP | %S'BP | %S'TS | WS "ES | %P'GP IVIA SeDuoJojsuelL
+
+(ovia) apepixojduos
+eYy o eipoia (z)
+
+%V'TT |WT'TT | WS'TT | %L'TT | WB'OT | KITT | WS'OT | %L'TT | WETT | WOTT | WL'TT | W6'TT | KIET | KB DT | WB'ST | WT'6T | KO'OZ oAny |BOSSad (T)
+
+ 
+
+WT'Ly |WT'Lh | %r'9P | WE'6P | WB'B7 |%S'97 | WE'ST | WT'BP | %S'0S | %L'OS | %L'TS | WD 'TS | %6'TS | WL'ES | %D'9S | %L'BS | %O'PS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sa9)e/seueJS01d ap sojuatuednuge 10d apnes ap sOD!|QNd SOSIMaS > Sa9Íy LIOD sesadsad sep jenqua2Jd OBÍINquISIa “go ejoqei
+48
+
+A SAÚDE NO BRASIL EM 2030
+
+3.3 | Descentralização dos gastos federais
+
+Apesar de uma das diretrizes do SUS ser a descentralização da gestão
+para estados, Distrito Federal e municípios, foram muitos os problemas que atrasaram
+sua implementação. O processo teve início com as Normas operacionais Básicas
+(NOBs) dos anos 1990. Partindo de um panorama em que as instâncias estaduais e
+municipais praticamente não participavam da gestão do SUS, o papel dessas NOBs
+foi principalmente de promover essa participação. Como exemplo deste processo,
+podemos citar a NOB 01/1993, que marca o início da municipalização com a
+implantação do caráter automático das transferências intergovernamentais (fundo a
+fundo) e criação de estágios de gestão descentralizada para estados e municípios; e
+a NOB 01/1996 que buscou definir atribuições mais claras para os estados, além de
+incentivar o desenvolvimento de ações estratégicas na área da atenção básica, criando
+novos mecanismos para o financiamento federal com a instituição Piso de Atenção
+Básica — fixo e variável. Porém a viabilidade da descentralização só veio a tomar
+contornos mais concretos a partir da EC29, que conferiu maior estabilidade no fluxo
+dos recursos federais e trouxe maior segurança para estados e municípios assumirem
+as responsabilidades da gestão descentralizada.
+
+A intensidade do processo de descentralização da gestão financeira pode
+ser constatada pela mudança na participação relativa das diferentes modalidades de
+aplicação dos recursos do MS no gasto total do órgão. Os gastos que em meados dos
+anos 1990 eram concentrados em aplicações diretas passaram a ser convertidos em
+transferências a estados, DF e municípios — como demonstra o gráfico 9.
+
+As aplicações diretas do governo federal na provisão de bens e serviços
+para a saúde passam de 87% dos gastos do MS 1995 para 31 % em 2010. No mesmo
+período, as transferências a estados e ao Distrito Federal apresentam um importante
+incremento, elevando-se de 6% em 1995 para 24% em 2010. As transferências para
+municípios também apresentaram um importante incremento: elevaram sua
+participação no total do gasto do MS com saúde de 5%, em 1995, para 43% em 2010.
+
+Para entender como se configurou esse processo de descentralização
+da gestão dos recursos federais, é interessante analisar que tipo de gastos foram
+delegados para cada uma das instâncias subnacionais de governo. Verifica-se que as
+transferências a estados e ao Distrito Federal visaram principalmente descentralizar
+o financiamento dos programas de atenção hospitalar e ambulatorial (€ em menor
+medida, dos programas de assistência farmacêutica). Na modalidade em questão, os
+gastos descentralizados com atenção hospitalar e ambulatorial, que eram de R$3,10
+bilhões em 2001, chegam ao pico de R$11,87 bilhões em 2009 — configurando um
+aumento de quase 400% no período. Os programas de assistência farmacêutica também
+merecem destaque, por saírem de R$0,24 bilhão em 2001 para atingirem níveis de
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde 49
+
+R$2,32 bilhões em 2010 — um aumento de quase 1000%. A soma das transferências a
+todos os demais programas não apresenta uma alteração relevante. (Gráfico 10)
+
+Gráfico 09. Distribuição percentual dos gastos federais (MS) em ASPS por modalidade de aplicação,
+1995 a 2010
+
+ 
+
+100%
+
+ 
+
+90%
+
+ 
+
+80%
+
+ 
+
+70%
+
+ 
+
+60%
+
+ 
+
+50%
+
+ 
+
+40%
+
+ 
+
+30%
+
+ 
+
+20%
+
+ 
+
+10%
+
+ 
+
+0%
+
+1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+
+q Transf. a Estados e ao DF == Transf. a Municípios
+e Aplicações Diretas mit OUtros
+
+Fonte: SIAFI/SIDOR. Elaboração: IPEA/DISOC.
+
+Gráfico 10. Transferências Federais paraEstados e Distrito Federal, por programas, 2001 a 2010
+
+ 
+
+18
+16
+aq 14
+n
+S 1
+o
+a
+w 10
+o
+8
+4 8
+o)
+E 6
+E
+4
+2
+E T T T T T T T F T
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+meme Soma de todos os outros programas mem Programa de assistência farmacêutica
+meme Programa de atenção hospitalar e ambulatorial —— TOTAL
+
+Fonte: Siga Brasil.
+50
+
+A SAÚDE NO BRASIL EM 2030
+
+A gestão do financiamento de programas de atenção hospitalar e
+ambulatorial, que anteriormente tinha uma grande participação do gestor nacional se
+deslocou para as esferas estadual e municipal (Gráfico 11).
+
+Gráfico 11. Gastos com Atendimento Hospitalar e Ambulatorial: aplicações diretas e transferências,
+em percentual, 2001 a 2010
+
+60%
+50%
+40%
+30%
+
+20%
+
+ 
+
+10%
+
+0% +
+
+ 
+
+2001 * 2002 * 2003 "2004 | 2005 | 2006 2007 2008 2009 | 2010
+
+— Transferências a Estados e ao Distrito Federal —=—-=- Transferências a Municípios — — Aplicações Diretas
+
+Fonte: Siga Brasil.
+
+Além dessa inversão de papéis entre a esfera federal e estadual observa-
+se, também, o aumento do papel dos municípios na gestão de recursos transferidos
+pelo MS. A participação das transferências a municípios ocupa uma parcela já relevante
+em 2001 — aproximadamente 38% do total das transferências — e se eleva a 45% nos
+gastos federais totais com ASPS. Isso deixa em evidência que a descentralização se deu
+com forte participação da esfera municipal e que a esfera municipal também passou
+a concentrar importante responsabilidade gestora dos recursos federais destinados a
+ASPS, com participação beirando a 50% dos recursos transferidos.
+
+Porém, enquanto que o aumento das transferências a estados e ao Distrito
+Federal se dá principalmente por meio do crescimento da participação da esfera
+estadual na gestão da atenção hospitalar e ambulatorial, o aumento das transferências
+a municípios apresenta outro padrão.
+
+O gráfico 12 apresenta uma evolução nominal dos gastos federais com
+transferência a municípios dividida por programas, com uma apresentação semelhante
+àquela feita no gráfico 10. Percebe-se que o aumento dos gastos com atenção hospitalar
+e ambulatorial, tal como dentre as transferências a estados e Distrito Federal, é decisivo
+para o crescimento das transferências a municípios — indo de R$9,4 bilhões em 2001
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde
+
+para R$15,2 bilhões em 2010. Porém, se no caso estadual esta categoria de atenção era
+praticamente sozinha responsável pelo aumento de suas transferências, aqui ela divide
+importância com o aumento dos gastos com atenção básica — que vai de R$5,1 bilhões
+em 2001 para R$9,9 bilhões em 2010, apresentando um aumento proporcionalmente
+maior. E isto é compreensível, uma vez que praticamente a totalidade dos gastos
+federais com atenção básica se concentra nas transferências à esfera municipal,
+conforme é mostrado na tabela 9.
+
+Gráfico 12. Transferências Federais para Municípios, por programas, 2001-2010
+
+30,00
+— 25,00
+=
+"
+o
+s
+8 20,00
+“>
+o
+uv
+D 15,00
+&
+"o
+E
+3
+
+10,00
+
+5,00
+
+ 
+
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+
+ms Outros Programas mes Farmacêutica === Atenção Básica mes Ambulatorial e Hospitalar -— Total
+
+Fonte: Siga Brasil.
+
+Tabela 09. Participação das transferências a municípios nos gastos federais com atenção básica
+
+  
+        
+ 
+ 
+ 
+  
+ 
+ 
+
+Aplicações Diretas do
+
+Governo Federal Ora A sado (jah
+
+0,6%
+
+ 
+
+Transferências a Estados
+
+e ao DF 0,8% | 1,0% 0,8% | 1,0% 0,8% | 1,0%
+
+ 
+
+        
+
+Transferências a Municípios 96,9% | 97,1% | 97,5% | 97,6% | 97,0% | 96,3% | 98,0% | 97,8%
+
+Fonte: Siga Brasil.
+
+Ainda que o aumento das transferências para estados, DF e municípios
+tenha sido um aspecto relevante para o processo de descentralização do SUS, existem,
+
+Si.
+52
+
+A SAÚDE NO BRASIL EM 2030
+
+contudo, restrições da parte destes em relação ao número excessivo de critérios de
+partilha utilizados para dimensionar os montantes a serem transferidos. Apesar
+da consolidação das transferências federais em cinco grandes blocos em 2006, por
+ocasião da aprovação do Pacto pela Saúde, ainda hoje persistem quase duas centenas
+de modalidades de transferências. Ainda que hoje o gestor local possa, mediante
+solicitação, remanejar recursos dentro do mesmo bloco, cria-se uma dependência
+desnecessária. Outra crítica importante refere-se ao fato de que apesar de utilizar
+critérios para fazer a partilha dos recursos, não há obediência à legislação existente
+que até hoje não foi regulamentada, particularmente o Art. 35 da Lei 8080/90.
+
+4 | ANÁLISES PROSPECTIVAS E DISCUSSÃO SOBRE CENÁRIOS
+PARA O FINANCIAMENTO PÚBLICO DA SAÚDE”
+
+No processo de regulamentação da EC 29,em 2011, estavam em discussão
+projetos com impactos distintos sobre o financiamento da saúde. Naquele momento,
+havia possibilidade, por meio de lei complementar, de se definir claramente o que seria
+compreendido como ações e serviços públicos de saúde (ASPS). Em si, essa medida
+já teria impacto sobre o gasto público em saúde, pois, como dito anteriormente,
+havia unidades da federação que ainda estariam incluindo como ASPS despesas com
+saneamento básico, recursos aplicados em benefícios a servidores públicos (clientela
+fechada), entre outros. Em todos os projetos que estavam em discussão no Congresso,
+havia previsão de correção dessa situação, impossibilitando a inclusão dessas e de
+outras ações no cômputo do valor mínimo a ser aplicado.
+
+Outra possibilidade, que também estava em discussão, era o aumento
+dos recursos federais para saúde, com ou sem mudança da regra de vinculação. A
+expectativa de aumento dos gastos federais incluía duas propostas de alteração: uma
+delas vinculando o mínimo a ser aplicado pela União a um percentual da receita
+corrente bruta (RCB) e outra vinculando a um percentual da receita corrente líquida
+(RCI). Havia, também, proposta de manutenção da regra de vinculação atual, baseada
+na variação nominal do PIB, e criação de contribuição, a Contribuição Social para a
+Saúde (CSS), cujos recursos passariam a integrar, adicionalmente, os recursos federais
+aplicados em saúde“. Com relação às propostas de vinculação do mínimo a ser aplicado
+pela União a um percentual da receita corrente, no caso da RCB, previa-se um aumento
+progressivo, começando em 8,5% até alcançar 10%, num período de quatro anos ou
+(1) vinculação à RCL, com uma vinculação proposta de 18%, também a ser alcançada
+progressivamente.
+
+ 
+
+41 Quando estes cenários foram elaborados, a regulamentação da EC 29 ainda não tinha sido aprovada.
+
+42 A criação de nova contribuição social para a saúde foi vetada na passagem da proposta de regulamentação da
+EC 29 pela Câmara de Deputados.
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde
+
+Naquele momento, como parte dos trabalhos para compor a publicação
+Saúde Brasil 2030: diretrizes para a prospecção estratégica do sistema público de saúde
+brasileiro (FIOCRUZ, 2012), foram elaborados cenários para o gasto em ações e serviços
+públicos de saúde: (i) Pessimista e Plausível: manutenção das condições observadas
+em 2010, com a não regulamentação da EC 29 — perspectiva de que o gasto federal
+continuaria a ser corrigido pela variação do PIBº, sem outros acréscimos de recursos
+e o gasto estadual e municipal pela evolução das receitas vinculadas“, estas últimas
+crescendo de acordo com diferentes elasticidades em relação ao PIB*; (ii) Inercial e
+Provável: regulamentação da EC 29 com definição do que deveria ser considerado ASPS,
+mas sem mudança na regra de vinculação dos recursos federais e sem outros recursos
+adicionais. (iii) Otimista, Desejável e Viável: regulamentação da EC 29 com mudança da
+regra de cálculo do mínimo a ser aplicado pela União.
+
+Nas próximas seções, serão replicados esses três cenários. Eles foram
+elaborados, como dito anteriormente, antes da publicação da Lei Complementar n.
+141, de janeiro de 2012, que regulamentou a EC 29, com definição do que são ASPS
+para efeitos do cumprimento do mínimo determinado pela Emenda. Assim, o primeiro
+cenário não se aplicaria no contexto atual, mas foi mantido para efeitos de comparação.
+
+Ademais, ao se definir o que são ASPS e manter a aplicação de recursos da
+União vinculada ao crescimento do PIB, pode-se continuar trabalhando com o segundo
+cenário, que, no momento em que foi elaborado, fora considerado como sendo o mais
+provável (inercial e provável). O terceiro cenário continua sendo otimista, visto que não
+há previsão de curto ou médio prazos para mudança na regra de vinculação de recursos
+da União. Além disso, deve-se considerar a promulgação da Lei Complementar 141 e
+destacar que os cenários apresentados consideraram uma projeção de crescimento
+econômico baseada em anexos da LDO 2012 (projeções elaboradas em 2011). Essas
+projeções, comparadas aos resultados da variação do PIB divulgados no primeiro trimestre
+de 2013, relativos ao quarto trimestre de 2012, podem ser consideradas otimistas.
+
+43 A LDO 2012, no anexo 3.5, que trata dos cenários para os regimes previdenciários, trazia projeções de variações
+do PIB real e de inflação até 2050. Para aquela publicação, os cenários foram construídos considerando as
+informações até 2030.
+
+44 As LDOs estaduais apresentavam cenários para a receita total para o ano da Lei (naquele momento, para 2012)
+e os dois anos subsequentes (2013 e 2014). Assim, não havia nessas leis projeções até 2030. Contudo, nessas
+IDOs havia informações sobre as variáveis que foram consideradas para o cálculo dessas projeções, sendo que
+as principais eram: as variações esperadas para o PIB e a elasticidade-PIB da receita (quanto varia a receita a
+partir de uma variação de 1% do PIB).
+
+45 Estudos tributários apresentaram estimativas para as elasticidades-PIB da receita tributária que variam de 1,0 a
+2,3 a depender da metodologia e do período analisado (RODRIGUES, 1999; ABOP, 2006; ABOP, 2009; IPEA, 2009). No
+exercício realizado para compor a publicação Saúde Brasil 2030 foram utilizadas elasticidade unitária e de 1,1.
+
+53
+54
+
+A SAÚDE NO BRASIL EM 2030
+
+4.1 | Cenário Pessimista e Plausível: não há regulamentação da EC 29
+
+Esse cenário previa que o volume dos recursos federais continuaria
+obedecendo à variação nominal do PIB, mas essa variação, ao invés de ser o piso, foi
+utilizada como o teto“ para aplicação de recursos da União na saúde. As mudanças na
+participação do gasto em saúde de estados e municípios dependeriam basicamente da
+elasticidade-PIB da receita destas esferas de governo.
+
+Nesta simulação a variação do gasto federal com saúde dependeria
+do gasto no ano-base multiplicado pela variação nominal do PIB dos dois anos
+imediatamente anteriores e assim por diante. Utilizando as projeções da LDO 2012
+para o PIB até 2030, foram obtidos os valores para o gasto federal com saúde no período
+2012 a 2030. Nesse cenário, o gasto federal com ASPS cresceria de 1,82%, em 2012, para
+1,98% do PIB em 2030 (ver Quadro Al em anexo).
+
+Os cenários para os gastos estadual e municipal com saúde
+dependeriam do comportamento esperado da receita vinculada. As parcelas mais
+importantes dessas receitas são os tributos arrecadados diretamente por cada
+nível de governo e a parcela de transferências obrigatórias. De forma bastante
+simplificada, considerou-se que ambas variariam com o PIB. Foram feitos dois
+cálculos: (1) considerando uma elasticidade unitária — a receita vinculada cresceria
+na mesma proporção do crescimento nominal do PIB; e (ii) considerando uma
+elasticidade-PIB da receita de 1,1 — um crescimento da receita 10% superior ao PIB
+a cada 10 anos”. Adotou-se uma forte hipótese de que os estados iriam manter o
+percentual médio aplicado em saúde entre 2002 e 2008“, considerando o percentual
+que resulta da análise de balanços feita pela equipe do SIOPS. Isso implicaria que os
+estados aplicariam, em média, 10% dos seus recursos em saúde. Para os municípios,
+adotou-se a hipótese de aplicação média de 15% da receita vinculada“. No cenário
+de elasticidade-unitária, como era de se esperar, a proporção dos gastos estadual
+
+46 Na verdade a variação nominal, pela Emenda, deveria ser o piso. Na construção do cenário foi, no entanto,
+considerado como sendo o teto.
+
+47 Também foram feitas estimativas considerando uma elasticidade-PIB da receita de 1,5 a cada 10 anos. Nesse
+cenário, o gasto público total em saúde alcançaria 5,3% do PIB, com uma participação federal inferior a 38%.
+Esse cenário era pouco provável, visto que projetaria uma carga tributária bruta de mais de 70% para 2030.
+
+48 Adotou-se a média, porque havia grande variação no valor mínimo aplicado ao longo desse período.
+
+49 Comparando com 2010, haveria uma redução dos gastos estaduais e municipais. Isso se deve ao fato de,
+em 2010, em média, ter-se estimado uma aplicação estadual de 13% dos recursos próprios e uma aplicação
+municipal de 21% dos recursos próprios, considerando os estados e municípios que informaram o SIOPS até o
+momento e ainda sem considerar a análise de balanços dos estados. Contudo, optou-se por construir o cenário
+inercial pela média da aplicação do período 2002 a 2008, considerando o efetivamente aplicado para estados e
+que poderia haver dificuldades para os municípios, em média, manterem uma aplicação em ASPS superior ao
+mínimo constitucional. Como não havia análise de balanço dos municípios, não era possível saber o grau de
+correção das informações prestadas. Seria importante fazer análises de sustentabilidade dos financiamentos
+municipais considerando o efetivamente aplicado por eles.
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde
+
+e municipal com saúde como proporção do PIB mantém-se constante em 0,74% e
+0,75% do PIB, respectivamente. (Quadros A2 e A3 — anexo)*.
+
+Neste cenário considerado pessimista e plausível, foi utilizada uma
+relação unitária entre receita e PIB. Nele o gasto público total em saúde, como proporção
+do PIB, crescia devido ao aumento do gasto federal em saúde. Isso implicava em um
+aumento de participação do gasto federal em saúde sobre o gasto público total em
+saúde. O gasto total aumentaria 0,16 pontos percentuais ao passar de 3,31% do PIB em
+2012 para 3,47% em 2030 (Quadro 1).
+
+Quadro 01. Cenários para Gasto Público em Ações e Serviços Públicos de Saúde como Proporção
+do PIB (%)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2012 1,82 0,74 0/75 Sd! 55,08
+2013 1,81 0,74 0,75 3,30 54,90
+2014 4,79 0,74 0,45 3,28 54,67
+2015 1,80 0,74 0,75 329 54,79
+2016 1,88 0,74 0,75 3,37 55,87
+2017 195 0,74 0,75 3,44 56,74
+2018 os 0,74 0,75 3,44 56,77
+2019 os 0,74 0,75 3,44 56,79
+2020 1,96 0,74 0,75 3,44 56,81
+2021 1,96 0,74 0,75 3,44 56,82
+2022 1,96 0,74 0,75 3,44 56,83
+2023 1/96 0,74 0,75 3,45 56,88
+2024 7 0,74 0,75 3,45 56,93
+2025 1,97 0,74 0,75 3,45 56,97
+2026 1,97 0,74 0,75 3,46 57,00
+2027 1,97 0,74 0,75 3,46 57,03
+2028 1,98 0,74 0,75 3,46 57,07
+2029 1,98 0,74 0,75 3,47 57,12
+2030 1,98 0,74 0,75 3,47 57,16
+
+ 
+
+ 
+
+ 
+
+Fonte: Elaborado a partir dos resultados dos Quadros At a A3.
+
+50 Ressalte-se, também, que esses cenários consideram apenas as regras de vinculação e os impactos das
+variações do PIB. Do ponto de vista federal, as pressões demográficas e sociais não implicaram em um aumento
+da aplicação de recursos públicos superiores ao piso previsto pela EC 29. No caso dos estados, havia estados
+que não estariam aplicando o mínimo. As pressões de demanda por serviços de saúde se mostrariam no fato
+de alguns municípios aplicarem acima do mínimo. Contudo, seria importante discutir a viabilidade de eles
+continuarem aplicando acima do mínimo. Em um cenário em que houvesse mais pressões do lado da demanda
+(como, por exemplo, mudança do perfil demográfico), sem crescimento dos recursos, os problemas de cobertura
+e de tempos de espera poderiam ser amplificados.
+
+So
+56
+
+A SAÚDE NO BRASIL EM 2030
+
+4.2] Cenário Inercial e Provável: regulamentação da EC 29 sem aumento da
+participação de recursos federais
+
+No momento de elaboração do texto-base para a publicação Saúde Brasil
+2030, um cenário possível e que acabou se confirmando, era o de regulamentação da EC
+29, com definição do que são ações e serviços públicos de saúde, mas sem alteração na
+regra de vinculação ou recursos novos na área federal. Nesta hipótese seria esperado
+um aumento da aplicação dos estados que estavam aplicando menos de 12% de suas
+receitas vinculadas em saúde. Com isso, haveria um aumento de cerca de R$ 3 bilhões
+na aplicação dos estados. Em um cenário de elasticidade-PIB da receita vinculada igual
+à unidade, os gastos públicos com saúde, de 3,47% em 2012, alcançariam 3,78% do PIB
+em 2030. Com elasticidade PIB da receita de 1,1 (crescimento de 10% acima da variação
+do PIB a cada 10 anos), os gastos públicos com saúde foram estimados em 3,96% do PIB
+em 2030.
+
+4.3| Cenário Otimista:
+mudança na regra de vinculação dos recursos federais
+
+Esse cenário previa a mudança de regra de vinculação dos recursos da
+União para a saúde que passaria a ser um percentual da receita corrente (bruta ou
+liquida). Quando a EC 29 foi regulamentada, não houve mudança de regra, mas essa
+pretensão ainda continua sendo objeto de disputa política. Assim, ainda que esse seja,
+hoje, um cenário pouco provável e muito otimista no curto e médio prazos, ele será
+mantido nesse texto para que se possa discutir o que poderia ter acontecido com o
+gasto público em ASPS, caso a regra tivesse sido alterada em 2012.
+
+Para esse cenário, foram adotados para a receita da União os mesmos
+critérios estipulados para as variações das receitas de estados e municípios: (1) receita
+corrente com elasticidade unitária em relação ao PIB e (ii) um aumento de 10% da
+receita a cada 10 anos em relação ao PIB.
+
+Com relação aos cenários para o gasto público total em saúde,
+considerando as hipóteses acima, observa-se que o patamar da RCB, com elasticidade
+unitária, implicaria em um crescimento de 0,60% no gasto total entre 2012 e 2030
+(3,62% para 4,37%). Variações mais significativas nas expectativas para o gasto público
+dependeriam do comportamento da RCB ou da RCL e das receitas estaduais e municipais
+com relação ao PIB, ou seja, se adotada a elasticidade de 1,1 na relação receita/PIB.
+Nesta hipótese o gasto público total com saúde, como pode ser visto no Gráfico 13, foi
+estimado em 5,10% do PIB para 2030, considerando o crescimento de 10% da RCB a
+cada 10 anos ou 5,07% do PIB, considerando o mesmo ritmo de crescimento para a RCL
+e para as receitas estaduais e municipais.
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde
+
+Gráfico 13. Comparação dos Cenários para variação do gasto total, considerando o gasto federal
+vinculado à variação nominal do PIBO), à Receita Corrente Bruta (RCB)O e à receita corrente liquida
+(RCL) — 2012 a 20308)
+
+ 
+
+ 
+
+6,00% -
+5,07%
+5,00% —
+4,15%
+3,96%
+E eee eee e
+3,49%
+3,00% +
+2,00% +
+404*—T—TTTTTT—T————T————————————
+ao :snonrnoaoa Nao: nvroaião
+dada aaa a A NON NO NO NO NO A NO NO a mM
+20050000 DOEõSeos sososSosss
+JN NAN CNC NAN ANN NANA NONO
+
+e %PIB mil RCB — Cresce 10% eim RCL — Cresce 10%
+
+Fonte: SOF. LDO 2012 (PIB). Receita Federal do Brasil/MF. Arrecadação (RCB e RCL 2010). Elaboração própria dos autores.
+
+Nota: (1) Gasto federal vinculado à variação do PIB, mas com regulamentação do conceito de ASPS e com elasticidade receita/PIB de 1,1
+para receitas de estados e municípios.
+
+(2) Considerando uma vinculação com base na RCB de 8,5% até alcançar 10%. Elasticidade receita/PIB de 1,1.
+(3) Considerando uma vinculação de 18% da RCL desde 2012. Elasticidade receita/PIB de 1,1.
+
+Em valores per capita, o cenário mais pessimista (sem regulamentação, o
+quenãose confirmou, e elasticidade unitária para receitas) apresentaria um crescimento
+no gasto do SUS de R$ 750,16 em 2012 para R$ 973,21 em 2030 (crescimento real de
+30%). No cenário mais otimista (regulamentação com vinculação do gasto federal à RCB
+e todas as receitas crescendo com elasticidade receita/PIB de 1,1) o per capita cresceria
+de R$ 861,60 em 2012 para R$ 1.429,32 em 2030, com um aumento real de quase 66%.
+Mesmo assim esse valor seria um pouco inferior à receita per capita do segmento de
+planos e seguros privados de saúde, que em 2010 foi de R$ 1.594,00. Os valores per
+capita nos diferentes cenários são apresentados na Tabela 10.
+
+57,
+58 | ASAÚDE NO BRASIL EM 2030
+
+Tabela 10. Estimativas dos Gastos públicos com saúde per capita real (2012=100), segundo diferentes cenários
+— Brasil, 2012, 2017, 2022 e 2030
+
+790,68 820,64
+975,88 1.119,48
+1.033,86 1.168,65
+1110/99 1.225,02
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Oliveira (2011). Projeção populacional. MPOG.SOF. LDO
+Nota: Gasto per capita corrigido pelo INPC Acumulado.
+
+Todos esses cenários merecem algumas considerações e ressalvas.
+Conforme destacado anteriormente, as projeções de crescimento econômico foram
+feitas pela Secretaria de Políticas Econômicas do Ministério da Fazenda e estão
+apresentadas no Anexo 3.5 da LDO 2012. Essas projeções, no entanto, poderiam, na
+época, ser consideradas conservadoras, pois traziam projeções menores para o PIB do
+que aquelas que foram feitas, na mesma ocasião, por empresas como a Pricewaterhouse
+e Coopers (PwC), que projetavam uma variação real do PIB menor nos primeiros cinco
+anos (2011 a 2015), mas apresentam um resultado mais favorável para a economia
+brasileira a longo prazo (Gráfico 14).
+
+Além dessas ressalvas, cabe observar que se adotou um critério único
+para expansão das receitas de União, estados e municípios e ao longo de todo o período.
+Contudo, estudos sobre tributação têm mostrado grandes diferenças nas variações das
+cargas tributárias ao longo do tempo e entre níveis de governo”. Na série de 1990 a
+2008, a carga tributária federal aumentou 3 p.p. do PIB. Contudo, esse aumento parece
+não ser linear. Há momentos de ampliação seguidos de momentos de redução da carga.
+
+Nesse mesmo período, se forem considerados os dois extremos da série,
+a carga tributária dos estados teria aumentado somente 0,6 p.p. do PIB. Contudo, essa
+série também apresenta vales e picos. A carga tributária municipal teria aumentado
+1% do PIB, valendo a mesma ressalva sobre as flutuações na série.
+
+51 Agradecemos a José Aparecido Ribeiro, coordenador do Gasto Social Federal, por ter chamado nossa atenção
+para essas mudanças na carga tributária.
+59
+
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde
+
+Gráfico 14. Projeções da Variação Real do PIB de 2011 a 2030
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6,000% 5;500%
+5,000%
+
+3,992%
+4,000%
+
+3,998%
+
+3,000%
+
+1,940%
+2,000%
+1,000%
+
+ 
+
+ 
+
+0,000%
+o o mv o o o o o o o o o Tv o o o o mv o
+ooo gases
+a) a) a) Ta) a) a) 1 a) 10 1 o nm 1 om 1 o 1 o o
+o o o o o o o o o o o o o o o o o o o
+qa o [e] o [e] qa o q qa qo q o qo qa qo qa o q q
++ + e + et pl + + + + + + + + + + red + +
+
+-—t— Var. Real LDO 2012 Var. Real PwC
+
+Fonte: SOF. PLDO 2012. PricewaterHouse Coopers (PWC).
+
+Uma análise de uma série mais longa mostra que a carga tributária não
+tem crescido continuamente. Oliveira (2010) faz uma análise histórica da estrutura
+tributária brasileira de 1889 a 2009. Ele mostra que, no período entre 1966 a 1970 a carga
+tributária estimada era de 23,9% do PIB. No período entre 1971 a 1975, aumentou para
+25,3% do PIB, tendo ficado próximo desse percentual até 1986, quando alcançou 26,5%.
+
+No ano de promulgação da Constituição Federal de 1988, a carga
+era de 23,4% do PIB. Ela cresce a partir de 1991, mas, com alguns saltos no período,
+que aconteceram em 1994 (crescimento de 2,6% em relação ao ano anterior); 1999
+(crescimento de 1,7% em relação ao ano anterior) e em 2005 (crescimento de 1% em
+
+relação ao ano anterior).
+
+Esse autor analisa, também, as mudanças institucionais e
+macroeconômicas que levaram a esses aumentos de carga tributária, mostrando que,
+entre 1994 a 2009, o primeiro período está mais relacionado ao aumento das receitas
+por meio de mudanças institucionais, ao passo que os períodos mais recentes têm sido
+impactados por mudanças macroeconômicas.
+
+Em anos recentes, a máquina arrecadadora modernizou-se, em todos os
+níveis de governo, e capacitou-se a desempenhar, com eficiência, sua função de cobrar
+impostos. Para que os caminhos da máquina arrecadadora e da estrutura do sistema
+tributário convirjam e os impostos possam ser recuperados como instrumentos
+efetivos de política econômica e social do Estado, resta vencer resistências e realizar
+uma verdadeira e abrangente reforma do sistema tributário, resgatando importantes
+60
+
+A SAÚDE NO BRASIL EM 2030
+
+princípios que devem cimentar suas estruturas, como os da equidade e do equilíbrio
+macroeconômico e federativo (OLIVEIRA, 2010, p. 211).
+
+Parece ainda haver espaço para melhorar a estrutura de arrecadação,
+especialmente em estados e municípios. Resumindo, as expectativas sobre o gasto
+público em saúde dependem da regulamentação da EC/29, mas, também, fortemente,
+dos cenários para a economia brasileira.
+
+As possibilidades de ampliar o gasto público em saúde, para além da
+regulamentação da EC 29, dependem de expectativas sobre uma reforma tributária
+e sobre o comportamento de variáveis macroeconômicas. Dependem, também, das
+pressões sobre o orçamento público provenientes de outros setores.
+
+4.4| Elementos para Construção de Cenários para o Gasto Total em Saúde
+
+Conforme analisado anteriormente, o sistema de saúde brasileiro é
+financiado por fontes públicas e privadas. Atualmente, mais da metade do gasto em
+saúde provém de recursos alocados pelas empresas e pelas famílias. Além disso, parte
+do consumo final de bens e serviços de saúde pelas famílias tem seu preço subsidiado
+pelo govemno e parcela do gasto pode ser restituída por meio dos impostos de renda
+de pessoa física e jurídica e há ainda outras possibilidades de isenções tributárias e
+subsídios públicos. Assim, além de alocação de recursos privados, o consumo de bens
+e serviços pelo mercado conta com subsídios diretos e indiretos do setor público.
+
+A construção de cenários relacionados à composição do financiamento
+e do gasto total (público e privado) e seu volume dependem de expectativas quanto à
+atuação do governo, dos partidos políticos, da sociedade civil organizada e de outros
+segmentos sociais em defesa de posições mais ou menos favoráveis à estruturação de
+um sistema de saúde baseado majoritariamente em financiamento público”? ou em
+defesa do crescimento da oferta de serviços mediada pelo segmento de planos e seguros
+de saúde. Dependem, também, da gestão e organização do sistema público de forma
+que a sociedade perceba que pode utilizar e contar com serviços públicos de qualidade,
+reduzindo o recurso aos serviços intermediados por planos e seguros de saúde.
+
+Assim, além da organização social e política brasileira, a estruturação de
+um sistema público universal depende das expectativas e possibilidades na repartição
+público-privada no financiamento do sistema e oferta de serviços de saúde, bem como
+da capacidade e interesse dos agentes do Estado para regular essa relação visando a
+priorização do sistema público.
+
+52 O sistema de saúde do Brasil baseado em direitos incorpora conceitos dos modelos prevalentes na Europa
+Ocidental no final da década de 70 e ao longo dos anos 80. Esses modelos, além da prevalência do financiamento
+público destacado anteriormente adotam, também, modelos determinados de organização de sistema de saúde
+(CEBES, 2010, p.6).
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde
+
+4.4.1] Cenário pessimista e plausível
+
+No momento em que foi elaborado, neste cenário previa-se a manutenção,
+ou até mesmo um maior favorecimento das regras de subsídio para o consumo privado
+debenseserviços de saúde e ampliação donúmero de operadoras de planos de saúde com
+rede de serviços pouco estruturada e a incorporação de novos segmentos populacionais
+mediante a flexibilização de coberturas assistenciais. Não havia perspectivas de
+regulamentação da EC 29. Com isso, ampliava-se ainda mais a participação privada
+no financiamento e na oferta de serviços de saúde e era reforçada a perspectiva de um
+sistema público de atenção a saúde direcionado para os segmentos mais pobres, mas
+com serviços de baixa qualidade e de escassa incorporação tecnológica. Os serviços
+mais caros e de maior complexidade eram utilizados pelos segmentos de maior renda
+e cada vez mais como forma de subsídio ao funcionamento dos planos e seguros de
+saúde. O resultado final era a ampliação das dificuldades de acesso da população à
+assistência médica, com privilégios cada vez mais expressivos para determinados
+segmentos da população.
+
+4.4.2| Cenário inercial e provável
+
+Os subsídios diretos e indiretos do governo ao setor privado seriam
+mantidos nos níveis de 2011 ou cresceriam discretamente. Não seriam resolvidos os
+problemas decorrentes das situações de imbricamento entre o financiamento público
+e privado da saúde. O gasto total cresceria e seria mantida, sem maior alteração, a
+relação percentual entre participação pública e privada no financiamento total. Nesse
+cenário a EC 29 seria regulamentada, sem mudança na regra de vinculação da União,
+mas com clara definição do que eram ações e serviços públicos de saúde. Assim, os
+recursos públicos para o SUS, apesar de apresentarem crescimento não tão discreto,
+continuariam não sendo suficientes para melhorar substantivamente a qualidade dos
+serviços prestados pelo sistema público.
+
+4.4.3| Cenário otimista e desejável
+
+Nesse cenário, os subsídios diretos e indiretos do governo ao setor
+privado seriam gradativamente reduzidos e ampliava-se o financiamento público
+para a saúde, pela regulamentação da EC 29, com a mudança da regra de vinculação
+dos recursos da União e porque novas fontes de recursos eram destinadas para a
+saúde por meio de revisão dos mecanismos tributários e ampliação da eficiência e
+equidade do sistema tributário nacional (União, estados e municípios), repartição dos
+royalties do petróleo e dos fundos do pré-sal visando à consolidação nacional de um
+sistema público de prestação de serviços, com clara e inequívoca priorização do SUS
+no financiamento público.
+
+61
+62
+
+A SAÚDE NO BRASIL EM 2030
+
+Para isso, seriam adotadas medidas reguladoras e de financiamento
+que, ao mesmo tempo em que fosse reduzindo os subsídios diretos e indiretos para
+o setor privado, fosse tornando o SUS, em todos os seus níveis, mais atrativo para a
+classe média e os segmentos da população que se encontram no último quartil da
+distribuição pessoal da renda.
+
+Em2013,ainda quea EC29tenhasido regulamentada, há vários indicativos
+de ampliação dos subsídios públicos ao setor privado, sem aumento significativo de
+recursos públicos para a saúde de caráter universal. Desta forma este último cenário
+mostra-se cada vez mais distante e exigirá um reforço continuado da luta política
+em favor do aumento de recursos públicos para o SUS e restrição à ampliação dos
+incentivos públicos ao setor privado.
+
+5 | CONSIDERAÇÕES FINAIS
+
+Desde o início de sua implantação, no final da década de 1980, o SUS tem
+convivido com problemas de financiamento. Iniciativas foram tomadas para minorar,
+pelo menos em parte, o problema. A aprovação da CPMF, em 1996, e da Emenda
+Constitucional 29, em 2000, foram as mais importantes.
+
+A EC 29 talvez tenha sido a que trouxe melhores resultados, seja pelo
+aporte de recursos propiciado ao sistema (cerca de 1% do PIB entre 2000 e 2010), seja
+por ter incorporado os estados, DF e municípios, de forma mais consistente e solidária,
+no financiamento do SUS, uma vez que dois terços do aumento de recursos no período
+citado foram provenientes de recursos próprios dessas instâncias de governo. Mas, ao
+mesmo tempo em que isso ocorria, o Governo Federal, também manteve e até aumentou
+o gasto tributário decorrente de isenções fiscais, principalmente relacionadas ao
+Imposto de Renda, à saúde privada, em nítido descompasso com o comprometimento
+exclusivo que deveria ter com o sistema público e universal.
+
+Por outro lado, o avanço na implantação do SUS, principalmente a
+implementação da diretriz de descentralização, provocou mudanças significativas
+na execução financeira do MS, com diminuição exponencial das aplicações diretas
+e aumento das transferências para estados, DF e municípios. Mudanças também se
+verificaram na execução financeira por programas/ações. O novo perfil reflete as novas
+prioridades que a direção nacional tenta imprimir ao modelo de atenção do SUS, com
+destaque para as aplicações na área de atenção básica. Contudo, nem o aumento das
+transferências federais para as esferas subnacionais, nem a eleição de novas prioridades
+foram suficientes para reduzir, de forma significativa, as desigualdades existentes na
+alocação regional de recursos para as ações e serviços públicos de saúde.
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde
+
+A aprovação da regulamentação da EC 29 em janeiro de 2012 certamente
+propiciará incremento de recursos para o SUS, ao resolver problemas que levavam
+à perda de recursos, decorrente de inúmeros estratagemas. Nada obstante, não foi
+aprovada a mudança no critério de vinculação dos recursos federais para o sistema, o
+que poderia significar um aumento maior no volume de recursos.
+
+Os cenários para o financiamento público da saúde apresentados
+neste trabalho representaram uma aproximação de diferentes perspectivas para o
+financiamento e gasto do sistema de saúde no Brasil. Não são projeções do futuro
+nem tem a pretensão de apresentar, com maior rigor, valores esperados para o volume
+dos recursos públicos e possibilidades para o gasto total. O objetivo principal era,
+quando foram elaborados, o de apresentar para debate, cenários que, considerando a
+situação então vigente e considerando algumas possibilidades futuras, poderiam trazer
+implicações para o financiamento da saúde. Para efetivamente estimular a discussão
+sobre cenários futuros é necessário aprofundar o debate e desenvolver estudos sobre
+alguns temas como, por exemplo, os listados a seguir:
+
+1. ter claro qual o modelo de sistema de saúde que se quer para
+o Brasil;
+
+2. fazer estudos sobre as tendências de investimento do setor
+privado, com claro conhecimento das inter-relações entre as
+diversas empresas que compõem esse segmento;
+
+3. analisar as possibilidades e fontes de financiamento para o
+setor público;
+
+4. realizar estudos que possibilitem ter uma base mais clara
+sobre as necessidades de financiamento para o setor público,
+considerando as necessidades de investimento, recursos
+humanos e custeio para a estruturação de um modelo de sistema
+de saúde para o país;
+
+5. analisar as proposta de medidas possíveis, viáveis e desejáveis
+de regulação da relação público-privada.
+
+Além disso, será necessário:
+
+1. melhorar nossos sistemas de informações para se ter um
+conhecimento mais adequado do gasto funcional com saúde
+realizado por estados e municípios;
+
+2. ter informações disponíveis e ampliar nossa capacidade
+analítica sobre os diversos mecanismos de financiamento do
+setor público direcionados ao setor privado;
+
+63
+64
+
+A SAÚDE NO BRASIL EM 2030
+
+3. debater com pessoas que estejam acompanhando e
+analisando a atuação do Congresso a regulação do sistema
+brasileiro de saúde;
+
+4. recolocar no debate político a necessidade de consolidar o
+sistema público de prestação de serviços, com clara e inequívoca
+priorização do SUS no financiamento público;
+
+S. analisar os cenários internacionais e as perspectivas que se
+colocam para manutenção e estruturação de sistemas públicos
+universais.
+Referências Bibliográficas
+
+6 | REFERÊNCIAS BIBLIOGRÁFICAS
+
+ABOP. Associação Brasileira de Orçamentos Públicos. Análise de alguns dados financeiros
+agregados dos orçamentos fiscal, da seguridade social e de investimento da união de 2009.
+Informe n. 75, março de 2009.
+
+. Análise de alguns dados financeiros agregados dos orçamentos fiscal, da seguridade
+social e de investimento da união de 2006. Informe n. 69, março de 2006.
+
+BARROS, ME; PIOLA, SF e VIANNA, SM. Políticas de Saúde no Brasil: Diagnóstico e Perspectivas,
+Brasília: IPEA, Texto para Discussão nº 401, 1996.
+
+BIASOTO JR., G. Setor Saúde: constituição do SUS, financiamento federal, transferências e
+questões federativas. (mimeo) IE/UNICAMP: Campinas, 2003.
+
+ 
+
+BRASIL. MINISTÉRIO DA SAÚDE. AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR (ANS). Caderno
+de Informação de Ressarcimento e Integração com o SUS. Nº 1, Volume 5, julho de 2009.
+
+— Caderno de Informação da Saúde Suplementar: beneficiários, operadoras e planos.
+Dados eletrônicos. Rio de Janeiro: ANS, 2012.
+
+BRASIL. MINISTÉRIO DA SAÚDE. Sistema de informações sobre orçamentos públicos em saúde
+(SIOPS). Minuta de Análise dos Gastos da União em Ações e Serviços Públicos de Saúde,
+no período 2000 a 2010. Documento elaborado por subgrupo da Câmara Técnica do SIOPS,
+Brasília, outubro 2011, mimeo.
+
+BRASIL. SECRETARIA DA RECEITA FEDERAL DO BRASIL. Imposto de Renda Pessoa Física:
+manual de preenchimento. Declaração de Ajuste Anual Modelo Completo. Ano-calendário 2008.
+Brasília, 2009.
+
+BRASIL. SECRETARIA DA RECEITA FEDERAL DO BRASIL. Demonstrativo dos Gastos Tributários
+— Estimativas Bases Efetivas — 2009 — Série 2007 a 2011. Brasília, 2012. Disponível em http://
+www.receita.fazenda.gov.br/publico/estudotributario/Bens Tributarios/2009/DGTAC2009.pdf
+
+CASTRO,J. A. de et al. Gasto Social e Política Macroeconômica: trajetórias e tensões no período
+1995 — 2005. Brasília: IPEA, Texto para Discussão nº 1324, janeiro de 2008.
+
+CONASS. Conselho Nacional de Secretários de Saúde. O Financiamento da Saúde. Brasília:
+CONASS, 2011. 124 p. (Coleção “Para entender a gestão do SUS”, nº 2).
+
+CONASS. Conselho Nacional de Secretários de Saúde. O Financiamento da Saúde, Brasília:
+CONASS, 2007. 164 p (Coleção Progestores — Para entender a gestão do SUS, nº 3).
+
+CEBES. Política Pública de Saúde: Qual o Rumo? RJ, 2010.
+
+DINIZ, B.P.C. et al. (2007b) Gasto das famílias com saúde no Brasil: evolução e debate sobre
+gasto catastrófico. In Silveira, FG. et al. (Org.) Gasto e consumo das famílias brasileiras
+contemporâneas. Brasília, IPEA, vol. 2, 2007.
+
+FERNANDES, M. A. et al. Gasto Social das Três Esferas de Governo: 1995. Texto para Discussão
+nº. 598. IPEA: Brasília, 1998.
+
+65
+66
+
+A SAÚDE NO BRASIL EM 2030
+
+FUNDAÇÃO OSWALDO CRUZ (FIOCRUZ). A Saúde no Brasil em 2030 — Diretrizes para a
+Prospecção Estratégica do Sistema de Saúde Brasileiro”, Fundação Oswaldo Cruz. (et. al.). Rio de
+aneiro:Fiocruz/IPEA/MS/SAE/PR, 2012.
+
+HSIAO, W. Why is a systemic view of health financing necessary? Health Affairs, Vol. 25, n 4, p.
+950-961, july/august 2007.
+
+BGE. Instituto Brasileiro de Geografia e Estatística. Projeção da População do Brasil por Sexo
+e Idade — 1980-2050 — Revisão 2008. Diretoria de Pesquisas/ Coordenação de População e
+ndicadores Sociais. Rio de Janeiro: IBGE, 2008.
+
+. Conta Satélite de Saúde, Brasil 2007 — 2009. Contas Nacionais, número 37, Rio de
+aneiro, 2012.
+
+PEA. Instituto de Pesquisa Econômica Aplicada. Políticas Sociais: acompanhamento eanálise
+— Instituto de Pesquisa Econômica Aplicada. Nº 13, Edição Especial, 2007.
+
+. Políticas Sociais: acompanhamento e análise — Vinte Anos da Constituição Federal —
+nstituto de Pesquisa Econômica Aplicada. Volume 1 nº 17, 2009a.
+
+ 
+
+. Políticas Sociais: acompanhamento e análise — Instituto de Pesquisa Econômica
+Aplicada. nº 19, 2011.
+
+. Diretoria de Estudos e Políticas Macroeconômicas. O que explica a recente queda da
+receita tributária federal? IPEA: Brasília. Nota Técnica n. 14, agosto de 2009b.
+
+KUTZIN] et. al. Lessons from health financing reform in central and eastemn Europa and former
+Soviet Union; Health Economics, Policy an Law; Vol. 5, abril, 2010, Cambridge University Press.
+
+MENDES, A; MARQUES, R. A Saúde Pública sob a Batuta da Nova Ordem. In: MARQUES, R;
+FERREIRA, M (Orgs.). O Brasil sob a nova ordem: a economia brasileira contemporânea: uma
+análise dos governos Collor a Lula. São Paulo: Saraiva, 2009.
+
+OLIVEIRA, FA. A evolução da estrutura tributária e do fisco brasileiro: 1889-2009. In: CASTRO, JÁ;
+SANTOS, CHM; RIBEIRO, JAC (Org.). Tributação e equidade no Brasil: um registro da reflexão do
+IPEA no biênio 2008-2009, Brasília: IPEA, 2010.514 p.: gráfs., tabs.
+
+OMS. Organização Mundial da Saúde. Informe de Estadisticas Sanitárias Mondiales. Genebra,
+2008.
+
+. Informe sobre la Salud en el Mundo.Genebra, 2000
+
+OPAS. Organização Panamericana da Saúde. Health in the Americas, 2007 — Volume 1 —
+Regional.
+
+PIOLA, SF et al. Estado de uma Nação . Textos de Apoio: Saúde no Brasil: Algumas questões
+sobre o Sistema Único de Saúde. Brasília: IPEA, Texto para Discussão n. 1391, 2008.
+
+PIOLA, S.F. et al. Financiamento Público da Saúde: uma história a procura de rumo. Texto para
+Discussão. IPEA: Brasília, 2013 (no prelo).
+
+PIOLA, SF; BIASOTO JR, G. Financiamento do SUS nos anos 90. In: NEGRI, B; GIOVANNI, G. (Org.)
+Brasil. Radiografia da Saúde. Campinas: Unicamp, Instituto de Economia, Campinas, 2001.
+Referências Bibliográficas
+
+PRADHAN, M e N. PRESCOTT. Social Risk Management Options for Medical Care in Indonesia.
+Health Economics 11, p. 431-46, 2002.
+
+RODRIGUEZ, J. Elasticidade-PIB de longo prazo da receita tributária no Brasil: abordagem
+do índice de Divisia: evidências empíricas no período 1975-1997. Brasília, UnB. Dissertação de
+Mestrado, 1999.
+
+RIBEIRO, JA; PIOLA, SF e SERVO, LMS. As novas configurações de antigos problemas:
+financiamento e gasto com ações e serviços públicos de saúde no Brasil. Apresentado na
+1 Jornada de Economia da Saúde da ABRES, Belo Horizonte, Dez.2005. Publicado na revista
+Divulgação em Saúde para Debate, CEBES: Rio de Janeiro.
+
+SCHIEBERet al. Financing global health: Mission unaccomplished. Health Affairs, Vol. 25, n 4, p.
+921-934, 2007.
+
+SERVO, L. M. et al. Financiamento e Gasto Público de Saúde: Histórico e Tendências. n MELAMED,
+C. e PIOLA, S. (orgs) Políticas Públicas e Financiamento Federal do Sistema Único de Saúde.
+Brasília: IPEA, 2011.
+
+SERVO, LMS; PIOLA, SF; SÁ, EB: PAIVA, AB. Financiamento da Saúde no Brasil. Texto Elaborado
+para compor a publicação Brasil em Desenvolvimento, Brasília: IPEA, 2011.
+
+—  , Nota técnica 10/2010. Disponível em <http://siops.datasus.gov.br>. Acesso em 12 de
+dezembro de 2011.
+
+VIANNA, S. M. A seguridade social, o sistema único de saúde e a partilha dos recursos. Revista
+Saúde e Sociedade, v. 1,n. 1, p. 43-58, 1992.
+
+WAGSTAFF, A., e VAN DOORSLAER, E. Catastrophe and Impoverishment in Paying for Health
+Care: with Applications to Vietnam 1993-98. Health Economics 12, p, 921-34, 2003.
+
+WAGSTAFF et al. Equity in the finance of helath care: futher internacional comparisons; Journal
+of Health Economics 18 (1999) Elsevier.
+
+WHO. World Health Statistics 2010. Genebra, 2010.
+
+XU, K. Distribution of health payments and catastrophic expenditures — methodology.
+Genebra: WHO, 2005 (Discussion paper, n. 2, EIP/HSF).WHO, 2005 (Discussion paper, n. 2, EIP/
+HS).
+
+67
+68 | ASAÚDE NO BRASIL EM 2030
+
+ANEXO
+
+Quadro At. Cenário inercial para o gasto federal com saúde
+
+81.204.121.503 4.455.029.785.740,19 1,82%
+
+ 
+
+89.279.424.764 4.935.059.245.153,69 1,81%
+
+ 
+
+98.439.940.142 5.491.282.370.086,10 1,79%
+
+ 
+
+109.046.843.692 6.052.842.870.380,58 1,80%
+
+ 
+
+121.337.349.875 6.448.247.857.309,63 1,88%
+
+ 
+
+133.745.792.622 6.861.474.148.873,53 1,95%
+
+ 
+
+142.482.803.398 7.300.471.264.918,46 1,95%
+
+ 
+
+151.613.600.130 7.760.755.027.464,67 1,95%
+
+ 
+
+161.313.838.266 8.249.255.752.668,43 1,96%
+
+ 
+
+171.484.433.798 8.767.651.358.049,74 1,96%
+
+ 
+
+182.278.521.483 9.314.993.913.204,39 1,96%
+
+ 
+
+OS73S AoA 9.881.080.065.800,69 1,96%
+
+ 
+
+205.827.455.110 10.474.409.280.511,80 1,97%
+
+ 
+
+218.335.898.298 11.095.777.425.055,00 1,97%
+
+ 
+
+231.446.313.983 11.748.264.616.535,30 1,97%
+
+ 
+
+245.176.287.945 12.429.393.754.208,20 1,97%
+
+ 
+
+259/593/879:557 13.134.575.408.853,20 1,98%
+
+ 
+
+274.644.353.912 13.868.890.116.236,00 1,98%
+
+ 
+
+290.226.301.332 14.632.774.714.948,10 1,98%
+
+ 
+
+ 
+
+ 
+
+Fonte: Variação Real do PIB e INPC. SOF. PLDO2012. Anexo 3.5.
+Gasto Federal em Saúde — 2010 — SIAFI/SIDOR. 2011-2030. Estimado pela variação nominal do PIB.
+
+ 
+69
+
+Estruturas de Financiamento e Gasto do Sistema Público de Saúde
+
+%pL'O
+
+(gia op [pulou OpÍeuea e [enfi opÍeueA) BUPNUN Apeppisejo opueJopisuo> opeuigsa 'o£oT-LLOT 'apnes uia [enpeysa ojseo
+*S'€ OXDUY "TIOTOQIA "JOS "DANI? ld OP |22y 0BÍeueA :oquos
+
+OT'SV6'VILPLL'TEN VT
+
+LE'99E'96T'LTL'LOT
+
+%0'OT
+
+S9'€99 E9GTLTLLOT
+
+ 
+
+%rL'o
+
+00'9€T'9TT'068'898'ET
+
+TE'TCL'SES EOT'TOL
+
+%O'OT
+
+ST'ETT'LSE'SEO'TTO'T
+
+ 
+
+%rL'o
+
+OZ'ESB'S0P'SLS'bET'ET
+
+68TSTOLV'L69'96
+
+%O'OT
+
+L8'BTS'TOL VL6'996
+
+ 
+
+%rL'o
+
+OZ'B0T'VSL'EGE'GTP'TI
+
+TT sto E8S'SOS T6
+
+%O'OT
+
+OZ'T8T'6ES 8SO'ST6
+
+ 
+
+%pL'O
+
+OE'SES'9TI'PIT'SPL'TI
+
+ST'E9S ELE T6M'9S
+
+%0'OT
+
+6b'TE9'SEL'ET6'P98
+
+ 
+
+%rL'o
+
+00'SSO'STP'LLL'S6O'TI
+
+0€'68Z'9TL'L89'TB
+
+%O'OT
+
+vO'c68'L9T'LL8'9TB
+
+ 
+
+%rL'o
+
+OS'TIS'O8T'60P'VLV'OT
+
+0E'6ST'O8T'ETT'ZZ
+
+%O'OT
+
+VO'E6S'TOS'TET'TZL
+
+ 
+
+%rL'o
+
+69'008'590'080'T88'6
+
+SL'089'LSO'SPL'TL
+
+%O'OT
+
+8v'LOB'9LS OSP'LTL
+
+ 
+
+%pL'O
+
+6E'POT'ET6'E66PTE'6
+
+TS'TET'0OS'Z/5'89
+
+%0'OT
+
+90'STE'TOO'SZL'S89
+
+ 
+
+%rL'o
+
+vL'6VO'BSETS9'Z9/'8
+
+OB'TB6'EE6'LPS'p9
+
+%O'OT
+
+S6'LTB'6EE'6LP'SH9
+
+ 
+
+%rL'o
+
+EV'B99TSL'SST'6PT'S
+
+ES'8L8'9Lb TEL'09
+
+%O'OT
+
+cE'S8L'89L PTE'LO9
+
+ 
+
+%rL'o
+
+L9'VIV'LTO'SSL'09L'L
+
+9L'VES'LOT'SET'LS
+
+%O'OT
+
+8S'LVE'SLO TSE 'T/S
+
+ 
+
+%pL'O
+
+9v'ST6 PIT TLY'00E'L
+
+€6'6TO'ELD'9PL'ES
+
+%O'OT
+
+0€'66T'0EL' pI LES
+
+ 
+
+%yL'O
+
+ES'ELB'SVT'PLV'T9B'9
+
+6E'E66 TSS'VTS OS
+
+%0'OT
+
+€6'EE6'6TS'SYT'SOS
+
+ 
+
+%rL'o
+
+€9'60E'LSB'LHT'BP'9
+
+TE'T6T'LSETLY' LM
+
+%O'OT
+
+ETETO TALS ECLVLY
+
+ 
+
+%rL'o
+
+8S'08E'0L8'TY8'TSO'9
+
+ST'6TB'E9E TIS Ph
+
+%O'OT
+
+VS'T6T'BE9 ET9' Spy
+
+ 
+
+%pL'O
+
+OT'980'0LE'TBL T6M'S
+
+pe'TLEper'Leror
+
+%o'OT
+
+Th'ETL EPT TLT vor
+
+ 
+
+%rL'o
+
+69'EST'SPT'6S0'SE6'y
+
+00'826'8LT'TEE'9E
+
+%O'OT
+
+00'08/'682'TcE'E9E
+
+ 
+
+%yL'o
+
+6T'OPL'S8L'6TO'SSy'y
+
+LTT9S'SLT'B6L' TE
+
+%O'OT
+
+TL'TI9'SSL T86'LTE
+
+ 
+
+%rL'o
+
+00'00S'ZES"8St'0vO'y
+
+O8“ETT'6/0'9pZ'6T
+
+%O'OT
+
+TO'SET'T6L'097'L6T
+
+ 
+
+%yL'o
+
+ 
+
+00'000'000'000'529'€
+
+O8'LST'ESS'SSO'LT
+
+eueyuN apeppisej OpueJopIsuoD a opÍPjuate|n8a. uIos
+
+ 
+
+%O'OT
+
+00'8ZS'TES'SSS'OLT
+
+ 
+
+“
+
+jenpeysa oyse)
+
+ 
+
+ 
+
+Ty oJpend
+A SAÚDE NO BRASIL EM 2030
+
+70
+
+%SL'O
+
+(gia op jeutuou ogÍeuea e jen8! oÍeueA) euPyUN apeppnsejo opueJapisuo> opeunsa 'o£ot-LLOT "apnes two [ediIuny oJseo
+
+OT'SP6'VILPLL'TEN VT
+
+ST'ETS'VL9'6/L'60T
+
+%O'ST
+
+*S'€ OxoUy “TLOTOMIA
+
+L9TC8'96b PIB TEL
+
+JOS DANI? Sid OP [22y OBÍeuA iaquos
+
+ 
+
+%SL'O
+
+00'9€T'9TT'068'898'ET
+
+6Z'66T'TLL'SPO'VOL
+
+%O'ST
+
+LS'BTE T8V 8S9'€69
+
+ 
+
+%SL'O
+
+OZ'ESB'S0P'SLS'bET'ET
+
+v6'T6r'TIZ'6ES'86
+
+%O'ST
+
+T9'6T9'9TY TE6'9S9
+
+ 
+
+%SL'O
+
+OT'B0T'PSL'E6E'6Ch'TI
+
+T8'cOT'BTT'6VT'E6
+
+%O'ST
+
+8P'STO bsb TI9TT9
+
+ 
+
+%SL'0
+
+OE'SES'9T9"PIT'BPL'TI
+
+96'GST'ELT'6ET'88
+
+%O'ST
+
+80'EzE'S8b vOS'L8S
+
+ 
+
+%SL'O
+
+00'SSO'STP'LLL'S6O'TT
+
+89'68T'600'VPt'E8
+
+%O'ST
+
+TZ'TE6 TIO 096'VS5S
+
+ 
+
+%SL'O
+
+O8'TIS'OST'60P'VLV'OT
+
+VT'E6T'OTE TBS'8Z
+
+%O'ST
+
+S6'VS6'L90'T88'ETS
+
+ 
+
+%SL'O
+
+69'008'S90'080'T88'6
+
+VT'096'296'0€T'bZ
+
+%O'ST
+
+09'L90'ES'90T'P6p
+
+ 
+
+%SL'O
+
+6E'POT'ET6'E66'VTE'6
+
+v9'0PL'TIO'V88'69
+
+%O'ST
+
+6Z'PON'TTh' E68'S9Y
+
+ 
+
+%SL'O
+
+vL'6PO'BSETS9'Z9L'8
+
+L9'6L8'SL9'LLL'S9
+
+%O'ST
+
+8/'L6T'6EB'LIS'BEP
+
+ 
+
+%SL'O
+
+EV'B99TSL'SST'6PT'S
+
+66'ZET'60S'S8S'T9
+
+%O'ST
+
+L5'988'090'065'ZTy
+
+ 
+
+%SL'O
+
+L9'PIP'LTO'SSL'09L'L
+
+Ob'TLT'EcoETT'8s
+
+%O'ST
+
+66'ST8'L8b' LST'88E
+
+ 
+
+%SL'O
+
+9v'BT6 VIT TLV'00E'L
+
+9E'EEL'6TV OLL PS
+
+%O'ST
+
+LE'TIT'B6T 9ET'S9E
+
+ 
+
+%SL'O
+
+ES'ELB'SVT'PLV' T9B'9
+
+LO'90P'SE6'9LY'TS
+
+%O'ST
+
+EB'ELE'69S'6LT'EVE
+
+ 
+
+%SL'O
+
+€9'G0E'LSB'LPT'SPi'9
+
+66'Z06 T8L'9LE'8Y
+
+%O'ST
+
+0E'ESE'6/8 TIS 'TTE
+
+ 
+
+%SL'O
+
+85'08€'028'TP8 TS0'9
+
+S6Lcv'6ce OTY' sy
+
+%O'ST
+
+99'6TS'6CS' SEL TOE
+
+ 
+
+%SL'O
+
+OT'980'0LE'TBT'T6M'S
+
+6Z'bL0'9TE'L6T' Th
+
+%O'ST
+
+ST's6r'or8'8v9'pLt
+
+ 
+
+%SL'O
+
+69'EST'SVT'6S0'SE6'T
+
+96'L8E'S9E'PTO' LE
+
+%O'ST
+
+6E'98S'TOT'6C8' IPT
+
+ 
+
+%SL'O
+
+6T'OPL'S8L'6CO'SSy'y
+
+es'ses'cen'ETy' EE
+
+%O'ST
+
+S8'cOSETT'OCS'TLT
+
+ 
+
+%SL'O
+
+00'00S5'LES"8St'0vO'y
+
+v8'vEL'68L TIE OE
+
+%O'ST
+
+06'868'V9T'S80'TOT
+
+ 
+
+%80'T
+
+ 
+
+00'000'000'000'529'€
+
+6S'LV6'SST'LIZ'6€
+
+ 
+
+%O'8T
+
+OT'P9S'669'908'EST
+
+ 
+
+ 
+
+ 
+
+eueyuN apepDisejs OpueJ>pIsuo> a opSejuawe|nga. was edoDjuny 03seD “£y ospend
+

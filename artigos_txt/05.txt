@@ -1,0 +1,1487 @@
+A política de atenção primária à saúde no
+Brasil: notas sobre a regulação e o
+financiamento federal
+
+Primary health care policy in Brazil: notes on
+Federal regulation and funding
+
+1 Escola Nacional de Saúde
+Pública Sergio Arouca,
+Fundação Oswaldo Cruz, Rio
+de Janeiro, Brasil.
+
+Correspondência
+
+A.L.B. Castro
+
+Departamento de
+Administração e Planejamento
+em Saúde, Escola Nacional de
+Saúde Pública Sergio Arouca,
+Fundação Oswaldo Cruz.
+
+Rua Santa Catarina 930,
+apto. 64, Bloco C, Curitiba, PR
+80610-090, Brasil.
+analuisasbG yahoo.com.br
+
+Abstract
+
+This article analyzes the Federal implementa-
+tion of primary health care policy in Brazil from
+2003 to 2008, considering the government func-
+tions of health planning, regulation, financing,
+and health services delivery. The methodology
+included literature and document review, inter-
+views with key policy actors, budget analysis, and
+health database analysis. The analysis showed a
+reduction in direct Federal health services deliv-
+ery and weaknesses in Federal planning. Federal
+performance mainly involved regulation, based
+on norms linked to financial mechanisms. As for
+funding the results showed a slight increase in the
+share for primary care in the Federal budget, ad-
+justments, and creation of new incentives, some
+aimed at equity. Although some progress occurred,
+a remaining challenge is to reconfigure the Fed-
+eral regulatory model and ensure a greater supply
+of resources for primary health care in Brazil.
+
+Health Financing; Health Management; Health
+Policy; Primary Health Care
+
+ARTIGO ARTICLE 693
+
+Ana Luisa Barros de Castro 1
+Cristiani Vieira Machado 1!
+
+ 
+
+Introdução
+
+A partir dos anos 1970, o debate sobre a atenção
+primária à saúde se intensifica internacional-
+mente, resultante dos questionamentos a respei-
+to da organização da atenção à saúde, baseada
+em um modelo médico hegemônico especiali-
+zado e intervencionista, com fragmentação da
+assistência e pouco impacto na melhoria da si-
+tuação de saúde da população. Outro fator que
+impulsionou esse debate foi a lacuna existente
+entre o estado de saúde nos países desenvolvidos
+e naqueles em desenvolvimento, que chamava
+atenção para a desigualdade no acesso aos ser-
+viços de saúde 1.
+
+A valorização do tema da atenção primária à
+saúde pode ser observada nos planos político e
+acadêmico, em âmbito nacional e internacional,
+nas propostas das agências internacionais e nos
+processos de reformas dos sistemas de saúde nos
+anos 1980 e 1990 2.
+
+O termo atenção primária à saúde é anali-
+sado segundo diferentes dimensões 3, podendo
+variar desde uma concepção mais abrangen-
+te, estruturante do sistema de saúde, até uma
+concepção mais restritiva e seletiva 4. A imple-
+mentação de determinada perspectiva está di-
+retamente relacionada às particularidades do
+sistema de saúde de cada país, que são imple-
+mentados em distintas conjunturas sociais, po-
+líticas e econômicas, e estão constantemente
+
+Cad. Saúde Pública, Rio de Janeiro, 26(4):693-705, abr, 2010
+694
+
+Castro ALB, Machado CV
+
+sob tensão de interesses conflitantes, caracte-
+rística marcante do setor saúde.
+
+No Brasil, a década de 1990 foi marcada por
+importantes mudanças na política nacional de
+atenção primária à saúde e por grande investi-
+mento na ampliação do acesso à saúde. Pode-se
+dizer que tais transformações se relacionam tan-
+to às mudanças no arranjo federativo instaurado
+após a Constituição de 1988 e ao processo de
+descentralização, como ao destaque assumido
+pela atenção primária à saúde na agenda seto-
+rial, principalmente a partir de meados da dé-
+cada de 1990.
+
+Em relação ao primeiro aspecto, o novo ar-
+ranjo federativo na saúde compreendeu avan-
+ços no movimento de descentralização político-
+administrativa, com ênfase na municipalização;
+o estabelecimento de novos mecanismos de fi-
+nanciamento na saúde; e a progressiva transfe-
+rência de responsabilidades pela execução direta
+de ações e serviços de saúde a estados e princi-
+palmente a municípios, com destaque para os
+ambulatoriais.
+
+No entanto, grande parte dos municípios no
+país é de pequeno porte, com pequena base eco-
+nômica de sustentação e, portanto, dependen-
+te de transferências intergovernamentais. Em
+muitos deles não havia sequer uma base técnica
+local para formular e implementar políticas de
+saúde no âmbito municipal, ou mesmo assumir
+a gestão da rede de serviços de saúde do muni-
+cípio, nos casos onde havia serviços de saúde
+instalados 56.
+
+A redistribuição de poder e de competências
+entre os três entes federativos gerou mudanças
+na forma do gestor federal exercer suas funções.
+No que diz respeito ao processo de formulação de
+políticas e planejamento, a incorporação de no-
+vos atores representou uma alteração significati-
+va, visto que a trajetória da política de saúde bra-
+sileira havia sido marcada por um elevado grau
+de centralismo. No que concerne à regulação em
+saúde, o Executivo federal, historicamente forte
+no federalismo brasileiro 7, reafirmou seu poder
+sobre estados e municípios por meio da edição
+de normas e portarias atreladas a mecanismos
+financeiros. Essa característica do modelo de in-
+tervenção adotado pelo gestor federal marcou a
+condução da política nacional de saúde na déca-
+da de 19908.
+
+Apesar da execução direta de ações e servi-
+ços de atenção primária à saúde ser atribuição da
+esfera municipal, o Ministério da Saúde tem pa-
+pel relevante na determinação desta política em
+âmbito nacional, por ser um importante órgão
+formulador e financiador das políticas de saúde
+e pelo caráter indutor da política federal de in-
+centivos para a atenção primária à saúde. Ainda
+
+Cad. Saúde Pública, Rio de Janeiro, 26(4):693-705, abr, 2010
+
+que a participação da União no financiamento
+do Sistema Único de Saúde (SUS) tenha diminu-
+ído ao longo da década de 1990, durante todo o
+período foi superior a 50%, revelando o impor-
+tante papel desempenhado pela esfera federal no
+financiamento do sistema de saúde.
+
+No que concerne ao segundo aspecto — a
+priorização da atenção primária à saúde pelo
+gestor federal — o enfoque da atenção primária
+predominante na agenda do Ministério da Saú-
+de a partir de meados dos anos 1990 se inseriu
+numa perspectiva de reorganização do sistema,
+de mudança do modelo de atenção e, vinculado
+no plano discursivo, à busca de consolidação dos
+princípios do SUS de universalidade e integra-
+lidade. O esforço de reorganização do sistema
+com base na atenção primária à saúde tem sido
+pautado por estudos como o de Starfield 10. Essa
+autora aponta que sistemas de saúde orientados
+para a atenção primária apresentam impacto
+positivo nos indicadores de morbi-mortalidade,
+pois promovem cuidados em saúde mais efetivos
+e alcançam maior efetividade, eficiência e equi-
+dade, quando comparados a sistemas voltados
+para atenção especializada.
+
+Com a aprovação da Norma Operacional Bá-
+sica do SUS de 1996 (NOB-SUS 01/96), o Progra-
+ma Agentes Comunitários de Saúde (PACS) e o
+Programa Saúde da Família (PSF) foram enfati-
+zados pelo ministério como estratégias prioritá-
+rias para o fortalecimento da atenção primária
+nos sistemas municipais de saúde. De acordo
+com Fausto !!, o PSF trouxe incontestável rele-
+vância para a atenção primária na agenda deci-
+sória da política nacional de saúde — tema que
+não ocupava posição de destaque até 1995 — e
+tem motivado os dirigentes a persistirem nesta
+direção.
+
+O início de uma nova conjuntura política
+em 2003 após ascensão de Lula à Presidência da
+República suscitou numerosos questionamen-
+tos relativos à condução da política nacional de
+saúde. No novo governo ocorreriam inflexões
+importantes na agenda e no modelo de interven-
+ção federal na saúde? A atenção primária à saúde
+continuaria a desempenhar um papel prioritá-
+rio? Haveria mais elementos de continuidade ou
+de mudança na condução dessa política em rela-
+ção ao período anterior?
+
+Este artigo analisa a condução federal da
+política de atenção primária à saúde no Brasil,
+no período de 2003 a 2008. Considerando que
+o modelo de intervenção federal na saúde po-
+de ser caracterizado a partir da configuração de
+quatro funções de Estado principais 8 — plane-
+jamento; regulação; financiamento; execução
+direta das ações — o trabalho enfoca as duas
+funções federais mais proeminentes no perío-
+do: a regulação e o financiamento da política de
+atenção primária à saúde.
+
+Metodologia
+
+A pesquisa sobre a condução federal da política
+de atenção primária à saúde envolveu diversas
+estratégias metodológicas: realização de revisão
+bibliográfica; análise documental; análise de ba-
+ses de dados secundários; análise orçamentária e
+realização de sete entrevistas semi-estruturadas
+com atores-chave da política, escolhidos segun-
+do os critérios de cargo ocupado e tempo de atu-
+ação na política de atenção primária à saúde.
+
+Para a análise da função federal de regulação,
+compreendida como o conjunto de estratégias
+voltadas para a modulação do sistema de saúde
+segundo determinadas regras ou parâmetros na-
+cionais, valorizou-se neste trabalho a análise das
+portarias federais. Tal opção se deve à constata-
+ção de que a forma hegemônica de atuação do
+gestor federal na saúde que se afirmou no final
+dos anos 1990 foi a indução de políticas e pro-
+gramas federais por meio de portarias atreladas
+a mecanismos de financiamento 8.12,
+
+As portarias expedidas no período de janei-
+ro de 2003 a junho de 2008 foram levantadas
+valendo-se da consulta sistemática às bases de
+dados do portal do Sistema de Legislação da Saú-
+de do Ministério da Saúde — Saúde Legis (http://
+portal2.saude.gov.br/saudelegis/LEG NORMA |
+PESQ CONSULTA.CFM). Os seguintes descri-
+tores foram utilizados: atenção básica; atenção
+primária à saúde; PSF; agentes comunitários de
+saúde; Piso de Atenção Básica (PAB) fixo; PAB
+variável e assistência farmacêutica básica. Cabe
+mencionar que os termos atenção básica e aten-
+ção primária à saúde são usados neste trabalho
+sem distinção.
+
+Após a sistematização e análise das portarias
+foi realizada a sua classificação em oito grupos
+temáticos: atenção básica (diretrizes); financia-
+mento; gestão; PSF; assistência farmacêutica bá-
+sica; recursos humanos; sistemas de informação,
+monitoramento e avaliação; outros. Tendo em
+vista a magnitude dos grupos gestão e financia-
+mento, estes foram divididos em subgrupos.
+
+Já o estudo do financiamento federal da aten-
+ção primária à saúde, considerou os seguintes
+aspectos: (a) a evolução do montante de recursos
+do orçamento do Ministério da Saúde destinado
+à atenção básica; (b) o peso da atenção básica no
+conjunto do orçamento do Ministério da Saúde;
+(c) a distribuição dos recursos da atenção básica
+por região e Unidade da Federação (UF); (d) a dis-
+tribuição dos recursos da atenção básica por pro-
+grama ou estratégia. Optou-se pela utilização de
+
+A POLÍTICA DE ATENÇÃO PRIMÁRIA À SAÚDE NO BRASIL
+
+duas diferentes fontes: Sistema de Informações
+sobre Planos e Orçamento Público (SIGA Brasil;
+http://www9.senado.gov.br/portal/page/portal/
+orcamento senado/SigaBrasil); e a base de dados
+de recursos federais do SUS, disponível na pági-
+na eletrônica do Departamento de Informática
+do SUS (DATASUS; http://www.datasus.gov.br).
+Para construção dos indicadores com base no
+SIGA, foram considerados os valores empenha-
+dos com ações e serviços de saúde e excluídos
+os referentes a pagamento de dívidas, inativos e
+pensionistas, e transferência de renda com con-
+dicionalidades, a fim de saber a evolução do mon-
+tante e o peso da atenção básica no orçamento
+federal. A análise da execução orçamentária fe-
+deral baseando-se nessa fonte foi feita para o pe-
+ríodo de 2004 a 2007, correspondente ao ciclo do
+primeiro Plano Plurianual (PPA) do governo Lula.
+Já as informações a respeito da transferência de
+recursos federais diretamente aos municípios ou
+estados obtidas no banco de dados do DATASUS,
+foram analisadas para o período de 1998 a 2006.
+A definição do ano de 1998 para o início da série
+se deve às mudanças operadas no financiamento
+a partir desse ano, relacionadas ao início da im-
+plementação da NOB-SUS 01/96, que geraram
+uma notável mudança no perfil das prioridades
+da política alocativa federal 13.
+
+Para comparação intertemporal dos indica-
+dores obtidos nas duas fontes analisadas foi re-
+alizada a correção dos valores para dezembro de
+2007, com base no Índice Nacional de Preços ao
+Consumidor Amplo (IPCA) do Instituto Brasilei-
+ro de Geografia e Estatística (IBGE; http://www.
+ibge.gov.br).
+
+Resultados
+
+No período de análise, foi possível identificar
+elementos de continuidade e mudança em re-
+lação ao período anterior no que diz respeito à
+condução federal da política de atenção primá-
+ria à saúde no Brasil. Observaram-se redução na
+função de execução direta das ações e serviços
+de saúde, fragilidades no planejamento e ênfase
+no papel federal de regulação e financiamento
+de políticas.
+
+A prestação direta de serviços federais ambu-
+latoriais é residual e limitada a algumas realida-
+des estaduais, fato coerente com o movimento de
+redefinição do papel do Estado e com o processo
+de descentralização político-administrativa com
+ênfase na municipalização. No que concerne à
+função de planejamento, embora tenha havido
+esforços no sentido de elaboração de planos fe-
+derais mais integrados, a análise sugere déficit de
+planejamento em médio e longo prazos voltado
+
+Cad. Saúde Pública, Rio de Janeiro, 26(4):693-705, abr, 2010
+
+695
+696
+
+Castro ALB, Machado CV
+
+para a superação de problemas estruturais e pre-
+domínio de estratégias de planejamento norma-
+tivo, em consonância com o apontado por outros
+autores 26.14,
+
+Em síntese, ainda que em uma nova conjun-
+tura, o poder de regulação do Ministério da Saúde
+permaneceu sendo exercido usando-se a edição
+de centenas de portarias federais. Até mesmo a
+Política Nacional de Atenção Básica foi publicada
+em 2006 por meio de uma portaria, revelando a
+preferência do gestor federal por este tipo de ins-
+trumento. O financiamento por sua vez também
+manteve o padrão do período anterior, de vincu-
+lação de recursos federais aos programas priori-
+tários do ministério. A seguir serão apresentados
+os principais achados da pesquisa com relação à
+regulação e ao financiamento federais.
+
+Regulação
+
+A função federal de regulação na saúde se exerce
+principalmente por meio de portarias atreladas
+a mecanismos financeiros. O período de estudo
+é marcado pelo grande volume de portarias rele-
+vantes para a atenção básica (Tabela 1).
+
+Observa-se que o número total de portarias
+cai de forma expressiva entre 2003 e 2005, depois
+se estabiliza e parece apresentar nova tendência
+de aumento entre 2007 e 2008 (somente o primei-
+ro semestre consta na Tabela 1). Durante todo o
+período, o maior número de portarias correspon-
+deu aos grupos de gestão e de financiamento.
+
+Dentre as portarias do grupo atenção básica
+(diretrizes), a principal publicação foi a Política
+Nacional de Atenção Básica, que estabelece as
+diretrizes e normas para organização da atenção
+básica, para o PSF e o PACS. Em termos gerais,
+a principal característica que define a produção
+normativa desse grupo foi a ampliação do esco-
+po das ações no âmbito da atenção básica, com
+destaque para ações de promoção da saúde e
+prevenção de agravos.
+
+A análise das portarias de gestão indicou que
+no que diz respeito à gestão federal da política
+nacional da atenção básica predomina a lógica
+de reconhecimento de municípios que cumprem
+os requisitos impostos pela normativa federal,
+como parte do processo de descentralização no
+SUS. Durante o período é significativa a pre-
+sença de portarias de habilitações, embora com
+tendência descendente a partir de 2004. Esse
+decréscimo se justifica a partir de dois fatos: a
+instituição de única forma de habilitação para
+os municípios, e o Pacto pela Saúde 2006, que
+substitui o processo de habilitação de estados e
+municípios e institui a assinatura de Termos de
+Compromisso de Gestão como a nova forma de
+acordo entre as diferentes esferas gestoras.
+
+Cad. Saúde Pública, Rio de Janeiro, 26(4):693-705, abr, 2010
+
+No grupo de financiamento destacam-se as
+portarias que regulamentam as transferências
+de recursos, em consonância com a política de
+indução exercida pelo ministério, e portarias que
+reajustam incentivos, uma das principais ênfases
+no período.
+
+De 2003 a 2005, observa-se um pequeno de-
+créscimo na regulamentação das transferências
+de recursos, seguido por um aumento expressivo
+no período seguinte. Essa inflexão é decorrente
+dos incentivos de assistência farmacêutica bási-
+ca, cujos recursos financeiros federais passaram
+a ser descentralizados, e do incentivo de com-
+pensação de especificidades regionais, cuja regu-
+lamentação e publicação de valores ocorrem por
+meio de portarias.
+
+Desde o início do governo, houve um esforço
+em reajustar importantes incentivos, tais como
+o valor do PAB fixo, sem alteração desde a sua
+implantação e que no período de estudo passou
+por três reajustes. Correções também foram fei-
+tas nos incentivos para saúde da família, saúde
+bucal, PACS e para a assistência farmacêutica
+básica. Inovações relevantes foram a inclusão da
+população de assentados na base de cálculo do
+PAB fixo e a atualização anual do seu valor utili-
+zando a população estimada pelo IBGE.
+
+Uma das mudanças mais importantes no
+período foi a criação, em 2006, dos blocos de
+financiamento que são constituídos por com-
+ponentes, conforme as especificidades de suas
+ações e os serviços de saúde pactuados. Em que
+pesem os avanços e mudanças gerados com a
+criação desses blocos — como a relativa autono-
+mia dos entes subnacionais na gestão orçamen-
+tária, pois os recursos passam a ser depositados
+em conta única para cada bloco -, a lógica de
+distribuição de grande parte dos recursos per-
+manece inalterada. O repasse só é efetivado me-
+diante adesão do município ou estado ao referi-
+do programa e o compromisso da implementa-
+ção das ações a que se destinam, permanecendo
+então limitada a autonomia decisória dos entes
+subnacionais.
+
+De modo geral, a análise desse grupo evi-
+denciou mudanças significativas em relação ao
+financiamento federal da atenção básica. Esfor-
+ços foram feitos para a correção do valor do PAB
+fixo, ainda que com dificuldades para manter seu
+aumento sistemático, e também para a contem-
+plação de um dos três mega-objetivos do Plano
+Plurianual do Governo Federal que é a inclusão
+social e redução das desigualdades sociais. As
+populações especiais como os assentados, os
+quilombolas e os indígenas foram consideradas
+no financiamento federal da atenção primária à
+saúde, em coerência com as diretrizes da política
+social proposta por Lula.
+Tabela 1
+
+A POLÍTICA DE ATENÇÃO PRIMÁRIA À SAÚDE NO BRASIL
+
+ 
+
+Distribuição das portarias federais relativas à atenção primária à saúde segundo grupo e subgrupo. Brasil, Janeiro de 2003 a junho de 2008.
+
+ 
+
+ 
+
+Grupos/Subgrupos 2003 2004 2005 2006 2007 2008 * Total
+Atenção básica (diretrizes) 0 3 1 4 1 o 9
+Gestão 132 8o 52 45 37 28 374
+
+Habilitações 113 64 43 39 30 23
+
+Regulamentação das habilitações de estados e municípios 3 2 1 0 o
+
+Rotinas administrativas 16 14 8 6
+
+Homologação de Termos de Compromisso 0 o 0 1 2
+Financiamento 26 17 14 7 39 33 146
+
+Regulamentação da transferência de recursos 16 10 10 14 36 32
+
+Criação de incentivos 1 1 2 1 0 o
+
+Reajuste de incentivos 9 6 2 2 3 1
+Programa Saúde da Família (PSF) 6 13 0 9 5 1 34
+Assistência farmacêutica básica 1 1 3 1 1 o 7
+Recursos humanos 1 1 ? 1 4 o 14
+Sistemas de informação, monitoramento e avaliação 3 2 0 3 2 2 12
+Outros 3 1 3 2 2 1 12
+Total 172 118 so 82 9” 65 608
+
+ 
+
+Fonte: Elaboração própria com base na página portal do Sistema de Legislação da Saúde do Ministério da Saúde - Saúde Legis
+
+(http://portal2.saude.gov.br/saudelegis/LEG NORMA PESO. CONSULTA.CFM).
+
+* Somente portarias de janeiro a junho de 2008.
+
+Além disso, ainda que de forma tímida, pela
+primeira vez foram empregados indicadores de
+condições sociais como critério para diferenciar
+os repasses federais relativos à atenção básica
+aos municípios. A utilização desses indicadores
+está associada à busca da egiiidade no âmbito do
+financiamento do SUS 15, uma das atribuições do
+gestor federal na implementação de um sistema
+nacional de saúde em um país federativo e desi-
+gual como o Brasil.
+
+No que diz respeito ao grupo PSE durante to-
+do o período observa-se um quantitativo maior
+de portarias referentes ao Projeto de Expansão
+e Consolidação do Saúde da Família (PROESF),
+citado pela maioria dos entrevistados como uma
+das estratégias prioritárias da atenção básica no
+período. À exceção do PROESE, foram poucas
+as portarias editadas sobre o PSE Tais portarias
+surgem somente a partir de 2005, voltadas para
+a regulação da atividade e/ou incorporação de
+novos profissionais à estratégia de saúde da fa-
+mília, com o intuito de ampliar a abrangência e
+o escopo das ações de atenção básica, bem como
+sua resolutividade.
+
+Uma portaria muito relevante desse grupo
+foi a que criou os Núcleos de Apoio à Saúde da
+Família (NASFs), publicada em janeiro de 2008,
+pela significativa inovação que representou na
+política nacional de atenção primária à saúde no
+
+país. A estratégia reafirmou o modelo de PSF em
+vigor desde a sua criação no ano de 1994, des-
+locando o debate da flexibilização da porta de
+entrada para o âmbito do apoio às equipes de
+saúde da família.
+
+Em suma, é possível apontar com base na
+análise desse grupo que, no período, as iniciati-
+vas adotadas foram desenhadas com o intuito de
+enfrentar algumas das fragilidades identificadas
+pelo ministério na implantação da saúde da fa-
+mília, tais como a expansão nos grandes centros
+e a necessidade de aumentar a resolutividade da
+estratégia.
+
+Os principais temas abordados nas portarias
+que compõem o grupo assistência farmacêutica
+básica foram a instituição de câmaras e grupos
+técnicos, com ênfase na estratégia de saúde da
+família, e a normatização deste tipo de atenção.
+Houve mudanças no que diz respeito ao finan-
+ciamento tripartite, sendo revistas as responsa-
+bilidades de cada esfera de governo em progra-
+mas específicos. Em termos gerais, o período
+é marcado por mudanças nos mecanismos de
+financiamento da assistência farmacêutica no
+SUS, com repercussões importantes na atenção
+básica. Ressalte-se a regulamentação dos blocos
+de financiamento e o aumento dos valores das
+transferências federais, bem como das contra-
+partidas estaduais e municipais.
+
+Cad. Saúde Pública, Rio de Janeiro, 26(4):693-705, abr, 2010
+
+697
+698
+
+Castro ALB, Machado CV
+
+Destaca-se a ênfase na descentralização des-
+ses recursos para as demais esferas de governo.
+Isso suscita a reflexão sobre a diversidade dos
+municípios brasileiros em termos de capacidade
+de gestão e de escala para a realização de com-
+pras, o que pode afetar os preços de aquisição e
+o acesso da população aos medicamentos. Um
+dos desafios que permanece é a garantia do aces-
+so a medicamentos na atenção básica, pois este
+é fator crucial para a resolutividade da atenção.
+Por outro lado, cabe mencionar o destaque go-
+vernamental conferido ao programa Farmácia
+Popular do Brasil, outra estratégia voltada para
+a disponibilização de medicamentos básicos e
+essenciais para a população, porém baseada no
+co-pagamento usuários-Estado de medicamen-
+tos ofertados em farmácias públicas ou privadas
+conveniadas 16,17.
+
+Aanálise do grupo recursos humanos permite
+caracterizar dois momentos em relação à produ-
+ção normativa. Inicialmente, entre 2003 e 2005,
+foram editadas portarias pontuais, de autoria da
+recém-criada Secretaria de Gestão e Educação no
+Trabalho em Saúde (SGETS) em parceria com a
+Secretaria de Atenção à Saúde (SAS) ou de forma
+independente, que abordavam o perfil de com-
+petências profissionais do agente comunitário
+de saúde e estabeleciam as normas operacionais
+para a o financiamento de projetos voltados para
+a sua formação inicial.
+
+A partir de 2006, há uma mudança significa-
+tiva com relação à produção e autoria das porta-
+rias, com predomínio de portarias de autoria do
+gabinete do Ministério da Saúde em parceria com
+o Ministério da Educação, voltadas para progra-
+mas como o Programa Nacional de Reorientação
+da Formação Profissional em Saúde (Pró-Saúde);
+o Programa de Educação pelo Trabalho em Saúde
+(PET Saúde); e o Telessaúde.
+
+A preocupação com a formação dos profis-
+sionais que atuam na atenção básica incluiu as
+pós-graduações lato sensu. Em 2007, foi publica-
+da a portaria que dispõe sobre a residência mul-
+tiprofissional em saúde e institui a Comissão Na-
+cional de Residência Multiprofissional em Saúde.
+Essa portaria é resultado da luta do movimento
+dos residentes multiprofissionais em saúde, que
+buscava o reconhecimento formal desta modali-
+dade de ensino.
+
+Ressalte-se que a questão da formação ina-
+dequada de recursos humanos para atenção bá-
+sica foi citada pela maioria dos entrevistados da
+pesquisa como um dos principais nós críticos
+para a qualificação da atenção primária à saúde
+no Brasil. No período analisado evidenciaram-se
+esforços no sentido de enfrentar tal problema,
+com base nas parcerias feitas com o Ministério
+da Educação, que resultaram na proposição de
+
+Cad. Saúde Pública, Rio de Janeiro, 26(4):693-705, abr, 2010
+
+estratégias de mudanças curriculares e fortale-
+cimento da formação nos serviços de saúde, em
+geral orientadas para a estratégia de saúde da
+família.
+
+Em termos gerais, as portarias do grupo sis-
+temas de informação, monitoramento e avalia-
+ção refletem as mudanças da política nacional
+de saúde como um todo e também no âmbito
+da atenção básica. No período do estudo ocor-
+reu um esforço de fortalecimento das ações de
+monitoramento e avaliação na atenção básica,
+observado não só mediante a análise das por-
+tarias como também pela análise documental e
+entrevistas.
+
+No que concerne à pactuação de metas sa-
+nitárias e percentuais de cobertura do PSF entre
+os três gestores, houve uma alteração importan-
+te. Em 2007, foi instituído um único processo de
+pactuação, resultado da unificação do Pacto da
+Atenção Básica, do Pacto de Indicadores da Pro-
+gramação Pactuada e Integrada da Vigilância em
+Saúde, e dos indicadores propostos no Pacto pela
+Saúde.
+
+Nas entrevistas, as opiniões com relação à
+unificação dos pactos foram divergentes. Alguns
+entrevistados apontaram como um avanço, vis-
+to que a existência de diversos instrumentos de
+pactuação formados por indicadores similares
+era objeto de crítica de diferentes atores do setor.
+Porém, outros apontaram como uma perda para
+a atenção básica, já que não teria sido adequa-
+damente considerado um processo histórico de
+anos de pactuação.
+
+Ainda nessa perspectiva, em 2007 foi subme-
+tida à consulta pública, e no ano seguinte ocor-
+reua publicação da Lista Brasileira de Internações
+Hospitalares por Condições Sensíveis à Atenção
+Básica. A lista é composta por doenças infeccio-
+sas e crônicas, tradicionalmente abordadas nes-
+se nível de atenção.
+
+O fortalecimento das ações de monitoramen-
+to e avaliação voltadas para a atenção básica foi
+um avanço. Se a trajetória histórica dessa política
+revela a ênfase na ampliação do acesso, no perí-
+odo estudado buscou-se também aprimorar os
+mecanismos de avaliação da qualidade das ações
+no âmbito da atenção primária à saúde, tendo
+como norte o princípio da integralidade.
+
+Por último, cabe enfatizar o grande número
+de portarias versus o pequeno número de ins-
+trumentos legais editados no período (somente
+três), sinalizando que a política nacional de aten-
+ção primária à saúde tem sido objeto de regula-
+mentação pelo Executivo, sendo que o Legislati-
+vo não tem tido grande destaque na formulação
+desta política.
+Financiamento
+
+Baseando-se na análise da execução do orçamen-
+to do Ministério da Saúde com ações e serviços
+de saúde por programas, foi possível constatar
+que o programa “atenção básica” como exposto
+no SIGA Brasil não incorporava algumas ações
+e serviços que são tradicionalmente abordados
+neste nível de atenção. Nesse sentido, optou-se
+pela utilização de três formas de agregação dos
+dispêndios federais com a atenção primária à
+saúde: (1) Programa Atenção Básica, referente
+somente ao conjunto de ações enquadradas para
+fins orçamentários neste programa (APS 1); (2)
+Programa Atenção Básica, mais os incentivos re-
+ferentes à Farmácia Básica e às ações básicas das
+vigilâncias epidemiológica e sanitária (APS 2);
+(3) Programa de Atenção Básica, mais os incen-
+tivos referidos no item 2, acrescido dos valores
+referentes ao Programa Nacional de Imunização
+(PND e alimentação saudável (APS 3).
+
+A Figura 1 mostra a evolução da execução or-
+çamentária do Ministério da Saúde no período
+
+Figura 1
+
+A POLÍTICA DE ATENÇÃO PRIMÁRIA À SAÚDE NO BRASIL
+
+de 2004 a 2007, considerando essas três formas
+de agregação dos dispêndios com as ações de
+atenção básica.
+
+O valor da execução orçamentária do minis-
+tério com a atenção primária à saúde apresentou
+tendência ascendente no período. É possível ob-
+servar ainda que há uma diferença significativa
+quando o programa “atenção básica” é acresci-
+do de outras ações que são realizadas no âmbito
+deste nível de atenção, mas estão computadas
+em outros programas orçamentários.
+
+Em termos relativos, também houve no perí-
+odo aumento da participação da atenção básica
+na execução orçamentária do Ministério da Saú-
+de que, considerando as três agregações adota-
+das, alcançou em 2007, respectivamente, 16%,
+19% e 21% dos dispêndios federais com ações e
+serviços de saúde.
+
+Em relação às transferências federais do SUS,
+o primeiro aspecto analisado foi a evolução dos
+valores per capita da atenção básica e média e
+alta complexidades. A Figura 2 mostra a evolução
+desses valores no período de 1998 a 2006.
+
+ 
+
+Evolução da execução orçamentária do Ministério da Saúde com o Programa Atenção Básica, em valores ajustados pela inflação. Brasil, 2004 a 2007.
+
+ 
+
+12.000.000.000,00
+
+10.000.000.000,00
+
+ 
+
+8.000.000.000,00
+
+ 
+
+6.000.000.000,00
+
+ 
+
+4.000.000.000,00
+
+ 
+
+ 
+
+2.000.000.000,00
+
+ 
+
+ 
+
+Em R$ de dezembro/2007
+
+0,00 1
+
+ 
+
+ 
+
+2004
+
+2005 2006 2007
+
+0 Aps1
+= APS2
+—&— APS3
+
+ 
+
+APS 1: Programa Atenção Básica, referente somente ao conjunto de ações enquadradas para fins orçamentários neste programa; APS 2: Programa Atenção
+Básica mais os incentivos referentes à Farmácia Básica e às ações básicas das vigilâncias epidemiológica e sanitária; APS 3: Programa de Atenção Básica mais
+os incentivos referidos no item 2, acrescidos dos valores referentes ao Programa Nacional de Imunização (PNI) e alimentação saudável.
+
+Fonte: Elaboração própria com base no Sistema de Informações sobre Planos e Orçamento Público (SIGA Brasil; http:/Awww9.senado.gov.br/portal/page/
+
+portal/orcamento. senado/SigaBrasil)
+
+Cad. Saúde Pública, Rio de Janeiro, 26(4):693-705, abr, 2010
+
+699
+700
+
+Castro ALB, Machado CV
+
+Figura 2
+
+ 
+
+Evolução dos valores per capita (em Reais de dezembro/2007) referentes às transferências federais da atenção básica, e média e alta complexidades,
+
+ajustados pela inflação. Brasil, 1998 a 2006.
+
+80,00
+
+ 
+
+70,00
+
+—4 Atenção básica
+
+—E- Média e alta complexidade
+
+ 
+
+60,00
+
+ 
+
+50,00
+
+ 
+
+40,00
+
+ 
+
+30,00
+
+ 
+
+20,00
+
+ 
+
+10,00
+
+ 
+
+ 
+
+Em R$ de dezembro/2007
+
+0,00
+
+ 
+
+ 
+
+1998
+
+1999 2000 2001 2002 2003 2004
+
+2005 2006
+
+ 
+
+Fonte: Elaboração própria com base nos dados do Fundo Nacional de Saúde/Departamento de Informática do SUS/Ministério da Saúde
+
+(http:/Mmwnwdatasus.gov.br).
+
+Observa-se que a atenção básica manteve um
+padrão de progressivo incremento entre 1998 e
+2001 e a partir de 2003. No entanto, embora com
+oscilações ao longo dos anos, as transferências
+de média e alta complexidades apresentaram va-
+lores per capita muito superiores em todo o perí-
+odo, e crescimento bem ascendente entre 2002 e
+2004, registrando aumento da distância entre as
+curvas. Isso pode explicar em parte as preocupa-
+ções de vários entrevistados da pesquisa quanto
+à relativa fragilidade da atenção básica se com-
+parada às pressões do sistema por aumentos de
+gastos na média e alta complexidades, mesmo
+quando a atenção primária à saúde é anunciada
+como prioritária. Por outro lado, cabe assinalar
+que um dos desafios que persistem para a aten-
+ção primária à saúde é justamente o acesso das
+pessoas aos serviços de referência de média com-
+plexidade, tais como consultas especializadas e
+exames.
+
+O segundo aspecto analisado, ilustrado na
+Figura 3, foi a evolução dos valores per capita
+referentes às transferências federais de atenção
+básica por região, ajustados pela inflação.
+
+Cad. Saúde Pública, Rio de Janeiro, 26(4):693-705, abr, 2010
+
+Em todas as regiões observa-se um cresci-
+mento a partir de 2003 nos valores per capita dos
+recursos federais para a atenção básica. Dentre as
+causas prováveis estão os reajustes dos principais
+incentivos da atenção básica e a criação de novos.
+As regiões que se destacam por apresentarem ao
+longo de todo o período os maiores valores per
+capita são Nordeste e Norte, que, além disto, são
+também as que apresentaram um aumento mais
+significativo a partir de 2003. A ocorrência desse
+aumento expressivo a partir de 2003 provavel-
+mente foi devido ao reajuste dos valores do PAB
+fixo e variável e o financiamento diferenciado aos
+municípios mais pobres do país, que se concen-
+tram nessas regiões, visando à equidade.
+
+Quando o objeto de análise são os valores dos
+recursos federais per capita referentes às transfe-
+rências de média e alta complexidades, o resulta-
+do é o inverso. A Região Sul se destaca por apre-
+sentar entre os anos de 1998 e 2002 o maior valor
+per capita nacional e, embora tenha apresentado
+oscilações importantes, esteve ao longo do perí-
+odo analisado sempre presente entre as três regi-
+des que possuem os maiores valores per capita,
+Figura 3
+
+A POLÍTICA DE ATENÇÃO PRIMÁRIA À SAÚDE NO BRASIL
+
+ 
+
+Evolução dos valores per capita (em Reais de dezembro/2007) referentes às transferências federais de atenção básica, por região, ajustados pela inflação.
+
+Brasil, 1998 a 2006.
+
+60,00
+
+ 
+
+50,00
+
+ 
+
+40,00
+
+ 
+
+30,00
+
+ 
+
+20,00
+
+ 
+
+10,00
+
+ 
+
+ 
+
+ 
+
+Em R$ de dezembro/2007
+
+ 
+
+ 
+
+1998 1999 2000 2001
+
+2002 2003 2004 2005 2006
+
+Região Norte
+Região Nordeste
+Região Sudeste
+Região Sul
+
+Região Centro-oeste
+
+Nacional
+
+ 
+
+Fonte: Elaboração própria com base nos dados do Fundo Nacional de Saúde/Departamento de Informática do SUS/Ministério da Saúde
+
+(http:/Amwwdatasus.gov.br).
+
+que são Sul, Sudeste e Centro-oeste. Somente em
+2003 a Região Sul foi ultrapassada pelas demais.
+Outro aspecto importante a ser ressaltado é que
+essas três regiões apresentaram em todo o perío-
+do valores per capita acima da média nacional.
+
+Esses achados revelam a lógica do financia-
+mento federal das ações de serviços de saúde no
+Brasil. Na atenção básica, não há dúvidas que
+desde a NOB-SUS 01/96 e com a criação do PAB
+fixo houve uma ruptura com o padrão executa-
+do anteriormente e impacto na reorganização
+do modelo de atenção à saúde, enquanto no fi-
+nanciamento da média e alta complexidades os
+recursos são destinados principalmente para as
+regiões economicamente mais desenvolvidas do
+país, Sul e Sudeste, pois estas possuem uma rede
+mais estruturada e, portanto, têm maior oferta de
+serviços de saúde.
+
+O terceiro e último aspecto analisado valen-
+do-se da base de dados do DATASUS refere-se
+à distribuição de recursos por programa. A evo-
+lução das transferências federais referentes aos
+principais incentivos da atenção básica reajus-
+tados pela inflação, no período de 1998 a 2006,
+pode ser vista na Figura 4.
+
+Entre 1998 e 1999, a linha que corresponde
+ao PAB fixo apresenta crescimento, pois a intro-
+
+dução deste incentivo produziu uma elevação
+dos recursos federais transferidos da atenção
+básica para a maioria absoluta dos municípios
+brasileiros 15. Contudo, entre 1999 e 2003, hou-
+ve um decréscimo em virtude da defasagem
+de seu valor em termos reais. A partir de 2003,
+quando o PAB fixo começa a sofrer seus primei-
+ros reajustes, há uma pequena recuperação,
+com tendência à estabilidade, observada até o
+ano de 2006.
+
+É interessante destacar que o comportamen-
+to da linha referente aos incentivos aos progra-
+mas PACS e PSF é diferente do descrito anterior-
+mente. Desde a sua criação verifica-se tendência
+ascendente e, em 2005, os montantes de trans-
+ferências relativas a esse incentivos ultrapassam
+os do PAB fixo, expressando a rápida expansão
+destes programas, com destaque para o PSF sob
+forte indução do Ministério da Saúde.
+
+Outro incentivo cujas transferências apre-
+sentaram crescimento foi o da saúde bucal,
+principalmente a partir de 2003, refletindo sua
+inserção prioritária na agenda federal. Já em
+relação ao Farmácia Básica, chama atenção a
+constância e o baixo valor de seu incentivo, ain-
+da que desde 2003 venha apresentando um mo-
+desto crescimento.
+
+Cad. Saúde Pública, Rio de Janeiro, 26(4):693-705, abr, 2010
+
+701
+702 Castro ALB, Machado CV
+
+Figura 4
+
+ 
+
+Evolução dos valores (em Reais de dezembro/2007) dos principais incentivos de atenção básica, ajustados pela inflação. Brasil, 1998 a 2006.
+
+3.500.000.000,00
+
+3.000.000.000,00
+
+2.500.000.000,00
+
+2.000.000.000,00
+1.500.000.000,00
+
+5
+
+3
+
+8
+
+S 1.000.000.000,00
+
+&
+
+E
+
+8
+
+3 500,000.000,00
+
+8
+
+a
+
+2
+
+É 0,00
+
+ 
+
+—— PAB fixo
+
+—E-- PACS/PSE
+
+ 
+
+Ae Epidemiologia e controle
+de doenças
+
+—€- Farmácia básica
+
+ 
+
+=X" Saúde bucal
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1999 2000 2001 2002 2003 2004
+
+ 
+
+PAB: Piso de Atenção Básica; PACS: Programa Agentes Comunitários de Saúde; PSF: Programa Saúde da Família
+
+Fonte: Elaboração própria com base nos dados do Fundo Nacional de Saúde/Departamento de Informática do SUS/Ministério da Saúde
+
+(http://www datasus.gov.br).
+
+O incentivo referente às ações básicas de
+epidemiologia e controle de doenças apresen-
+tou crescimento no período de 1998 a 2001, após
+sua regulamentação. A partir de 2001, observa-
+se uma queda em termos reais do montante de
+transferências relativas a esse incentivo.
+
+Discussão
+
+A análise empreendida permitiu identificar ele-
+mentos de continuidade e mudanças no mode-
+lo de intervenção federal na atenção primária à
+saúde no período estudado. Ainda que em uma
+nova conjuntura, os achados sugerem elevado
+grau de continuidade na atuação do Ministério
+da Saúde com relação aos anos 1990, cuja ênfase
+foi a regulação e o financiamento.
+
+Assim como no período anterior, o papel de
+execução direta de ações e serviços de saúde am-
+bulatoriais é residual, limitado a algumas locali-
+dades específicas, em consonância com o movi-
+mento de descentralização com ênfase na muni-
+cipalização dos anos 1990. Também foi possível
+observar persistência de fragilidades em relação
+ao planejamento federal, com predomínio de es-
+
+Cad. Saúde Pública, Rio de Janeiro, 26(4):693-705, abr, 2010
+
+tratégias de curto prazo em detrimento de uma
+perspectiva abrangente e integrada de médio e
+longo prazos. O enfrentamento dessa lacuna é
+uma questão central para que haja avanços na
+política.
+
+A análise da atuação do Ministério da Saú-
+de na condução nacional da política de atenção
+básica corroborou a força do Executivo Federal
+no direcionamento e na regulação da política,
+exercida por meio da emissão de portarias de in-
+dução de programas/políticas atreladas a meca-
+nismos financeiros. A lógica predominante na se-
+gunda metade dos anos 1990 de atrelar a descen-
+tralização ao reconhecimento de municípios que
+cumprem os requisitos impostos pela normativa
+federal persistiu no período analisado e refletiu
+as concepções sobre o papel de cada esfera de
+governo na política de atenção básica.
+
+O conteúdo da produção normativa relativa
+à atenção primária à saúde expressou a valori-
+zação desta política e da estratégia de saúde da
+família em todo o período estudado, principal-
+mente a partir de 2006. A regulamentação federal
+esteve voltada ao enfrentamento das fragilidades
+já identificadas com relação à atenção primária
+à saúde no país, tais como a ampliação da reso-
+lutividade neste âmbito de atenção, a expansão
+da estratégia de saúde da família nos grandes
+centros e a formação dos recursos humanos para
+atuação neste nível. Nesse sentido, foram estraté-
+gias prioritárias o PROESE a ampliação das ações
+na atenção básica, a incorporação de novos pro-
+fissionais à estratégia — por meio da criação dos
+NASFs — e a criação de programas voltados para
+a mudança na formação de recursos humanos e
+educação permanente. Ou seja, foi possível ob-
+servar mudanças incrementais relacionadas ao
+enfrentamento de problemas ainda não equa-
+cionados no SUS.
+
+No que concerne ao financiamento federal,
+ainda que os recursos destinados à atenção bási-
+ca sejam insuficientes, ao longo do governo Lula
+houve crescimento da execução orçamentária
+deste programa em todos os anos. Isso reflete o
+esforço do gestor federal em garantir um aporte
+maior de recursos para esse programa, prioritário
+nesta gestão. Exemplo disso foram os sucessivos
+reajustes no valor do PAB fixo, que desde a sua
+criação em 1998 não sofria correção significativa
+de seu valor. Houve ainda reajustes de outros in-
+centivos da atenção básica e a criação de diversos
+incentivos, em especial os programas prioritários
+na agenda do Governo Federal, tais como o Brasil
+Sorridente.
+
+Alógica das transferências federais manteve o
+padrão do período anterior de vinculação dos re-
+cursos aos programas prioritários do ministério —
+como é o caso do PSF e do Brasil Sorridente. Tais
+recursos são repassados mediante atendimento
+das exigências impostas pelo gestor federal e não
+podem ser redirecionados para outros fins, pou-
+
+A POLÍTICA DE ATENÇÃO PRIMÁRIA À SAÚDE NO BRASIL
+
+co levando em consideração a heterogeneidade
+dos municípios brasileiros.
+
+Observaram-se mudanças associadas às ten-
+tativas de introdução de critérios de egiidade e a
+inclusão de populações especiais, até então pou-
+co consideradas pelas regras do SUS, em parte
+relacionadas à agenda social do governo Lula.
+
+Por outro lado, um aspecto crucial a ser res-
+saltado é que, embora tenha havido crescimento
+no aporte de recursos para esse nível de atenção
+no período analisado, permanece o financiamen-
+to federal fragmentado, voltado para a indução
+de programas específicos, delimitando assim a
+decisão dos gestores locais sobre a utilização des-
+tes recursos. Além disso, observou-se que grande
+parte dos recursos federais é destinada às ações
+de média e alta complexidades. Ao contrário do
+que ocorre com os recursos referentes à aten-
+ção básica, as transferências federais de média
+e alta complexidades privilegiam as regiões do
+país economicamente mais desenvolvidas. Em
+que pesem as iniciativas no período visando à
+equidade na destinação dos recursos da atenção
+básica, o combate às marcantes desigualdades
+regionais implicaria maior aporte de recursos e
+transformações mais substantivas no financia-
+mento federal da saúde.
+
+É possível concluir que avanços ocorreram
+no que diz respeito à atenção primária à saúde
+no período do estudo. Entretanto, permanece o
+desafio de reconfiguração do modelo regulató-
+rio federal e a garantia de um aporte maior de
+recursos para este nível de atenção, a fim de que
+ocorra o efetivo fortalecimento da atenção pri-
+mária no país.
+
+Cad. Saúde Pública, Rio de Janeiro, 26(4):693-705, abr, 2010
+
+703
+704
+
+Castro ALB, Machado CV
+
+Resumo
+
+O artigo analisa a condução federal da política de
+atenção primária à saúde no Brasil de 2003 a 2008,
+considerando as funções de Estado na saúde de plane-
+jamento, regulação, financiamento e execução direta
+de serviços. A pesquisa compreendeu revisão bibliográ-
+fica, realização de entrevistas semi-estruturadas com
+atores-chave da política, análise documental, orça-
+mentária e de bases de dados secundários. Observou-se
+redução na execução federal direta das ações e fragili-
+dades no que diz respeito ao planejamento. A atuação
+federal se caracterizou principalmente pela regulação,
+baseada na emissão de portarias atreladas a mecanis-
+mos financeiros. No que concerne ao financiamento,
+houve discreto aumento da participação da atenção
+básica no orçamento federal, reajustes e criação de
+novos incentivos, alguns visando à egiiidade. Embora
+tenham ocorrido avanços no período, permanece o de-
+safio de reconfiguração do modelo regulatório federal
+ea garantia de um aporte maior de recursos para este
+nível de atenção, a fim de que ocorra o efetivo fortale-
+cimento da atenção primária no país.
+
+Financiamento da Saúde; Gestão em Saúde; Política
+de Saúde; Atenção Primária à Saúde
+
+Referências
+
+1. Giovanella L, Mendonça MHM. Atenção primária
+em saúde. In: Giovanella L, Escorel S, Lobato LVC,
+Noronha JC, Carvalho AI, organizadores. Políticas
+e sistema de saúde no Brasil. Rio de Janeiro: Edito-
+ra Fiocruz; 2008. p. 575-626.
+
+2. Conill EM. Ensaio histórico-conceitual sobre a
+Atenção Primária à Saúde: desafios para a organi-
+zação de serviços básicos e da Estratégia Saúde da
+Família em centros urbanos no Brasil. Cad Saúde
+Pública 2008; 24 Suppl 1:S7-27.
+
+3. Vouri H. Health for all, primary health care and
+general practitioners. J R Coll Gen Pract 1986; 36:
+398-402.
+
+4. Viana ALA, Fausto MCR. Atenção básica e pro-
+teção social: universalismo x focalismo e espaço
+não mercantil da assistência. In: Viana ALA, Elias
+PEM, Ibaiez N, organizadores. Proteção social: di-
+lemas e desafios. São Paulo: Editora Hucitec; 2005.
+p. 150-67.
+
+Cad. Saúde Pública, Rio de Janeiro, 26(4):693-705, abr, 2010
+
+Colaboradores
+
+A. L. B. Castro e C. V. Machado elaboraram conjunta-
+mente o artigo, desde a concepção e análise dos dados
+até a revisão final.
+
+Agradecimentos
+
+A.L. B. Castro foi bolsista da Coordenação de Aperfeiço-
+amento de Pessoal de Nível Superior (CAPES) durante
+o mestrado. O desenvolvimento da pesquisa de campo
+contou com o apoio financeiro do Conselho Nacional
+de Desenvolvimento Científico e Tecnológico (CNPq)
+e da Fundação de Amparo à Pesquisa do Estado do Rio
+de Janeiro (FAPER)).
+
+5. Noronha JC, Lima LD, Machado CV. O Sistema
+Único de Saúde — SUS. In: Giovanella L, EscorelS,
+Lobato LVC, Noronha JC, Carvalho AI, organizado-
+res. Políticas e sistema de saúde no Brasil. Rio de
+Janeiro: Editora Fiocruz; 2008. p. 435-72.
+
+6. Mattos RA, Robaina JR, Siqueira NN. Planejamen-
+to, avaliação e pactuação: algumas reflexões sobre
+o processo de pactuação a partir do Pacto de In-
+dicadores da Atenção Básica. In: Pinheiro R, Silva
+Jr. AG, Mattos RA, organizadores. Atenção básica e
+integralidade: contribuições para estudos de prá-
+ticas avaliativas em saúde. Rio de Janeiro: Centro
+de Pesquisas e Desenvolvimento para a Segurança
+das Comunicações; 2008. p. 295-312.
+
+7. Almeida MHT. O Estado no Brasil contemporâneo:
+um passeio pela história. In: Melo CR, Sáez MA,
+organizadores. A democracia brasileira: balanço e
+perspectivas para o século 21. Belo Horizonte: Edi-
+tora da UFMG; 2007. p. 17-38.
+10.
+
+11.
+
+12.
+
+13.
+
+Machado CV. O modelo de intervenção do Minis-
+tério da Saúde brasileiro nos anos 90. Cad Saúde
+Pública 2007; 23:2113-26.
+
+Gil CRR. Atenção primária, atenção básica e saúde
+da família: sinergias e singularidades do contexto
+brasileiro. Cad Saúde Pública 2006; 22:1171-81.
+Starfield B. Atenção primária: equilíbrio entre ne-
+cessidades de saúde, serviços e tecnologia. Brasí-
+lia: Organização das Nações Unidas para a Edu-
+cação, a Ciência e a Cultura/Ministério da Saúde;
+2002.
+
+Fausto MCR. Dos programas de medicina comu-
+nitária ao Sistema Único de Saúde: uma análise
+histórica da atenção primária na política de saúde
+brasileira [Tese de Doutorado]. Rio de Janeiro: Ins-
+tituto de Medicina Social, Universidade do Estado
+do Rio de Janeiro; 2005.
+
+Baptista TWE Análise das portarias ministeriais da
+saúde e reflexões sobre a conduta nacional da polí-
+tica de saúde. Cad Saúde Pública 2007; 23:615-26.
+Ugá MA, Piola SF Porto SM, Vianna SM. Descen-
+tralização e alocação de recursos no âmbito do Sis-
+tema Único de Saúde (SUS). Ciênc Saúde Coletiva
+2003; 8:417-37.
+
+14.
+
+15.
+
+16.
+
+17.
+
+A POLÍTICA DE ATENÇÃO PRIMÁRIA À SAÚDE NO BRASIL
+
+Campos GWS. Desafios políticos e organizacionais
+do SUS: vinte anos de política pública. Cad Saúde
+Pública 2008; 24:2200-1.
+
+Solla JJSP, Reis AAC, Soter APM, Fernándes AS,
+Palma JJL. Mudanças recentes no financiamento
+federal do Sistema Único de Saúde: atenção bási-
+ca à saúde. Rev Bras Saúde Mater Infant 2007; 7:
+495-502.
+
+Pinto CBS, Castro CGSO, Costa NR. Quem acessa
+o Programa Farmácia Popular do Brasil? Aspectos
+do fornecimento público de medicamentos. Ciênc
+Saúde Coletiva; no prelo.
+
+Machado RC. Atenção básica e medicamentos: a
+dualidade da política nacional de assistência far-
+macêutica no período Lula [Monografia de Espe-
+cialização). Rio de Janeiro: Escola Nacional de Saú-
+de Pública, Fundação Oswaldo Cruz; 2008.
+
+Recebido em 01/Jun/2009
+Versão final reapresentada em 10/Dez/2009
+Aprovado em 01/Mar/2010
+
+Cad. Saúde Pública, Rio de Janeiro, 26(4):693-705, abr, 2010
+
+705
+

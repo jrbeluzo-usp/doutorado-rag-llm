@@ -1,0 +1,3355 @@
+Universidade de Brasília
+
+Faculdade de Economia, Administração e Contabilidade
+Departamento de Administração
+
+Lucas Souza Costa
+
+Evolução do Gasto Público da Saúde com perspectiva na
+Seguridade Social
+
+Brasília — DF
+2011
+Lucas Souza Costa
+
+Evolução do Gasto Público da Saúde com perspectiva na
+Seguridade Social
+
+Monografia apresentada ao
+Departamento de Administração como
+requisito parcial à obtenção do título de
+Bacharel em Administração.
+
+Professor Orientador: Profº Dr? Danielle
+Sandi Pinheiro
+
+Brasília — DF
+2011
+ 
+
+ 
+
+Costa, Lucas Souza.
+
+Evolução do gasto público da Saúde com perspectiva na
+Seguridade Social / Lucas Souza Costa. — Brasília, 2011.
+
+79f.:il.
+
+Monografia (bacharelado) - Universidade de Brasília,
+Departamento de Administração, 2011.
+
+Orientador: Prof. Dra. Danielle Sandi Pinheiro, Departamento de
+Administração.
+
+ 
+
+ 
+Lucas Souza Costa
+
+Evolução do Gasto Público da Saúde com perspectiva na
+Seguridade Social
+
+A Comissão Examinadora, abaixo identificada, aprova o Trabalho de
+Conclusão do Curso de Administração da Universidade de Brasília do
+aluno
+
+Lucas Souza Costa
+
+Profº? Dr? Danielle Sandi Pinheiro
+Professor-Orientador
+
+Prof. Dr. Carlos Rosano
+Professor-E xaminador
+
+Brasília, 04 de ) ulho de 2011
+A Deus, que me escolheu desde o ventre de minha
+mãe para que eu fosse mais do que vencedor.
+AGRADECIMENTOS
+
+A Deus, que permitiu que este sonho se torna-se
+realidade;
+
+A meus pais Ivan e Neide, meus espelhos, exemplos
+de profissionais e de pessoas, que sempre
+acreditaram em mim e em meu potencial;
+
+A meus avós, Ivan e Antônia, pelo mimo, carinho,
+amor e apoio dado desde o primeiro dia da minha
+vida;
+
+A Minha irmã e melhor amiga ) éssica, com quem eu
+tanto implico e brigo, mas que me dá todo o apoio
+quando eu preciso;
+
+À Prof. Dra. Danielle Sandi Pinheiro, pela paciência,
+auxílio, confiança e o conforto gerado para
+realização deste trabalho;
+
+A todo o corpo docente da Universidade de Brasília,
+pelo conhecimento compartilhado e formação que
+me propiciou chegar a este momento;
+
+Aos Irmãos formados e conhecidos na Universidade,
+Murilo e Allancaster, irmãos estes que carregarei
+para toda a vida
+
+A meus grandes amigos Biel, Anna Gaby, Ju, André,
+Guilherme, Cagusto, Rafael Quartarollo, Layza,
+Thainá, Mirian, Samuca, Graw, Grazi, Elo, Renato,
+Mc Lovin, por todo o apoio, carinho e amizade;
+
+A minha chefe Dora, pelos momentos de ajuda,
+compreensão, apoio, principalmente durante a fase
+final do curso;
+
+Aos colegas do CEE 01, em especial Adriano e Leo
+pelo companheirismo e amizade.
+“Qualquer tolo é capaz de se manter dentro de uma
+orçamento, mas em toda minha vida só encontrei
+alguns administradores capazes de fazer um
+orçamento dentro do qual valha a pena agente se
+manter”.
+
+Nicholas Dreystadt
+RESUMO
+
+Este trabalho é uma análise de dados secundários obtidos através do Sistema SIGA
+do Senado Federal e do Instituto Brasileiro de Geografia e Estatística (IBGE) com a
+finalidade de identificar a evolução do gasto público sob perspectiva de uma área
+específica, a Saúde. Foram coletados dados relativos aos gastos com a função
+dentro do período de 2002 a 2010, onde foram comparados a evolução dos gastos,
+com a evolução do PIB brasileiro dentro do período. Foi análisado ainda o
+crescimento populacional dos anos em questão com vias a analisar a evolução dos
+gastos sob perspectiva do contingente populacional. A fim de obter uma visão ampla
+do tema, foi observada a evolução dos gastos com a referida área não apenas em
+âmbito nacional, mas também a nível regional a fim de identificar como a evolução
+regional se compara à nacional. Por fim observou-se a evolução dos gastos com as
+demais funções concernentes à Seguridade Social no Brasil, definidas no artigo 194
+da Constituição Federal de 1988, comparando-as com a função saúde. Diversos
+estudos, livros, leis, constituições e dados foram utilizados na realização deste
+trabalho, o qual se concluiu que existiu um crescimento considerável no volume de
+gastos com a função saúde, porém estes gastos foram alavancados pelo
+crescimento do PIB para o igual período, uma vez que os mesmos cresceram em
+proporções muito semelhantes. Quando se tendo em vista o gasto per capita com a
+função, o mesmo apresentou um crescimento claro, fato este que pode ser explicado
+devido a tendência de crescimento populacional, como apontam os estudos, ser
+cada vez menor, sendo que o volume de gastos para o mesmo período apresenta
+uma evolução muito maior.
+
+Palavras-chave: Orçamento público federal. Gastos Públicos. Saúde Pública
+brasileira.
+ADCT
+CF
+IBGE
+LOA
+LDO
+LRF
+MPOG
+MTO
+OGU
+PIB
+PPA
+SIAFI
+SIOPS
+SUS
+UF
+
+LISTA DE ABREVIATURAS E SIGLAS
+
+Atos das Disposições Constitucionais Transitórias
+Constituição Federal
+
+Instituto Brasileiro de Geografia e Estatística
+
+Lei Orçamentária Anual
+
+Lei de Diretrizes Orçamentárias
+
+Lei de Responsabilidade Fiscal
+
+Ministério do Planejamento, Orçamento e Gestão
+
+Manual Técnico do Orçamento
+
+Orçamento Geral da União
+
+Produto Interno Bruto
+
+Plano Plurianual
+
+Sistema Integrado de Administração Financeira do Governo Federal
+Sistema de Informações sobre Orçamentos Públicos de Saúde
+Sistema Único de Saúde
+
+Unidade da Federação
+SUMÁRIO
+
+ 
+
+1º INTRODUÇÃO .... aeee aeee 11
+1.1  Contextualização........... setenta rereeerene aee rer eres aasaearereeerennranios 12
+1.2 Formulação do problema... 513
+13  ObjetivoGeral ssa aa aos 14
+1.4 Objetivos Específicos... eee eee ereereereereereereearereearententias 14
+1.5 Justificativa... rara aaran ana a aerea ara aaa aaa ana anaanaaa 14
+
+2 REFERENCIAL TEÓRICO... sisters ariana rerereee renata 16
+2.1 Evolução do Orçamento PÚbIICO .........cissererteeereerenerererrereernereneearereea 16
+
+2.1.1 Origem do Orçamento Público... ereeeeeeerereeeereereereerenoa 16
+2.1.2 Evolução do Orçamento Público no Brasil.........seeeaeetaeeets 17
+2.1.2.1 Orçamento Público na Constituição de 1824... 18
+2.1.2.2 Orçamento Público na Constituição de 1891... 19
+2.1.2.3 Orçamento Público na Constituição de 1934... 20
+
+2.1.2.4 Orçamento Público na Constituição de 1937...
+2.1.2.5 Orçamento Público na Constituição de 1946
+2.1.2.6 Orçamento Público na Constituição de 1967
+2.1.2.7 Orçamento Público na Constituição de 1988
+
+ 
+
+22  QiSistemaOrcamentáfio Brasi reuniam seo
+2.2.1 Legislação Orçamentária... ereereerereereereereererreere aereas 28
+2.2.1.1 Plano Plurianual (PPA) screen aaeaaearererere rea aaaneanerereriess 28
+2.2.1.2 Lei de Diretrizes Orçamentárias (LDO) ........itsemeeateaatos 31
+2:23 LeiOrçamentária Anual (LOL) asunsaeaasea ne 34
+2.2.1.4 Leide Responsabilidade Fiscal (Lei Complementar 101/2000) ...... 36
+2.2.2 Receita Pública... ererereereererereeae rear rear rare aerea nearea rena 37
+223 Despesa PÚbICA azazapacarasapacapacapacapasapacapacapacapacagasagarago 38
+2.3 Políticas de Saúde no Brasil... eee era eee era ereereereereereeeeta 40
+3 MÉTODOS E TÉCNICAS DE PESQUISA... sssetaraerasraeraeraerasraeraeraeras 44
+3.1 Tipoe descrição geral da pesquisa...........eeneeeeenannereeceniasa
+3.2 Caracterização da organização, setor OU área...
+3.3 População e amostra... eee nerarerrene ara nerareeneene ara neranerareneara
+3.4 Caracterização dos instrumentos de pesquisa ... na
+3.5 Procedimentos de coleta e de análise de dados...
+
+ 
+4 RESULTADOS E DISCUSSÃO ......... is iriteteraearaer ares aeaeraeraeraeraeraetas 49
+
+4.1 Evolução do Gasto Público com a Função Saúde ........smtateaaos 49
+4.2 Evolução do gasto público a nível regional... 56
+4.2.1 Região Sudeste... eerernerrercene ara nenane eae ee arena aneere ea ere senao 57
+4,22 Região: NOS. areas a 58
+423 Região SU armor am 59
+4.2.4 Região Centro-Oeste... ee ieeneerrenane re ere ara neraneere ee ere sean 60
+4,25 Região NOME ecespasras Ea 61
+4.2.6 Evolução dos gastos com a saúde regionais em relação aos gastos
+nacionais... eee traaeneae aeee are neeaa aaa ere aan aeee near a arena cana 62
+4.3 Evolução dos gastos das funções concernentes à Seguridade Social....... 65
+5 CONCLUSÕES E RECOMENDAÇÕES ......iaa 72
+
+REFERÊNCIAS... aeee ear 715
+11
+
+1 INTRODUÇÃO
+
+O Sistema Orçamentário Brasileiro passou por inúmeras mudanças ao longo das
+últimas décadas, na perspectiva de se gerar um instrumento cada vez mais eficaz,
+transparente e eficiente.
+
+As principais mudanças ocorreram nas últimas duas décadas, tendo como marco
+inicial a Constituição Federal de 1988, onde a mesma instituiu a criação do Plano
+Plurianual (PPA) com duração de 4 anos, a Lei de Diretrizes Orçamentárias (LDO),
+além de determinar a unificação orçamentária dentre outros fatores propostos para
+buscar os objetivos almejados. A Constituição prevê ainda a edição de uma Lei
+Complementar com vias a regulamentar prazos, a elaboração e organização do
+planejamento e vigência, visto que os atuais estão contidos nos Atos das
+Disposições Constitucionais Transitórias (ADCT).
+
+Em 2000 foi instituída a Lei Complementar 101, ou Lei de Responsabilidade Fiscal
+(LRF), que segundo Albuquerque (2008) tinha dentre os seus valores a idéia de que
+o aperfeiçoamento da gestão das contas públicas deverá ser obtido mediante
+melhores práticas de gestão, sendo o foco então da Lei de Responsabilidade Fiscal
+condicionar a ação dos governantes a determinados limites de forma a prevenir
+desequilibrios fiscais.
+
+O Brasil passou a ter então metas de cumprimento anual, onde a LDO passou a
+conter o Anexo de Metas e o Anexo de riscos, além de possuir limites rigorosos a
+endividamento, gastos com pessoal e despesa Pública.
+
+Parte importante do Sistema Orçamentário Brasileiro, a despesa pública — que
+segundo Baleeiro (1997), é a aplicação de certa quantia em dinheiro, por parte de
+agente que seja competente a tal ato, desde que haja determinada autorização
+legislativa, com a finalidade de realizar o que foi orçado, alcançando então o
+interesse público — tem-se tornado uma constante em pautas legislativas, pois é
+notória a importância em manter o equilíbrio entre as receitas e as despesas, meta
+essa fixada à LDO mediante recomendação da LRF. No Brasil existe ainda uma
+grande preocupação com os aumentos da despesa pública, quando relacionada
+12
+
+proporcionalmente ao PIB. Dados mostram que nos últimos 30 anos o valor em
+porcentagem da despesa pública em relação ao montante do PIB subiu de uma
+média de 16% no início da década de 80 para 49% no final da década de 2000
+segundo constatou Cabral (2009), o que, segundo Baleeiro (1997), acontece
+principalmente devido à falta de qualidade e habilidade por parte dos gestores
+públicos, o que acarreta em erros e “vícios” políticos e administrativos, onde nem
+sempre, as despesas são aplicadas, quando se tendo em vista a Classificação
+Funcional da despesa — definida como a classificação que busca responder
+basicamente “em que” área de ação governamental a despesa será realizada, onde
+cada atividade, projeto e operação especial identificará a função e a subfunção às
+quais se vinculam de acordo com o Manual Técnico do Orçamento (2011) — nas
+áreas que são prioridades à população, como por exemplo a saúde pública, que
+será o objeto de estudo deste trabalho.
+
+Um dos grande desafios dos governos atuais, é a otimização da área da saúde, que
+tem sido caracterizada nos últimos anos pela precariedade, dificuldade na realização
+dos atendimentos, falta de leitos, profissionais, equipamentos, estrutura, entre outros
+fatores. A dificuldade muitas vezes é atribuida, por parte da população, à falta de
+investimento na área, e o descaso político acerca da mesma.
+
+Foi instituído por parte do Ministério da Saúde, em 1999, o Sistema de informações
+sobre Orçamentos Públicos de Saúde (SIOPS), onde são reunidas algumas das
+informações pertinentes sobre a saúde pública brasileira. Segundo Teixeira e
+Teixeira (2003) o sistema conforma-se como uma importante fonte de dados para a
+realização de estudos para instituições de pesquisa, para o exercício do
+acompanhamento e fiscalização pelos órgãos de controle, auxiliando ainda o
+processo de gestão por parte dos agentes públicos e as ações no âmbito do Sistema
+Único de Saúde (SUS).
+
+1.1 Contextualização
+
+A despesa pública ganhou muita notoriedade nas últimas décadas. Foi editada uma
+lei em 2000, conhecida como Lei de Responsabilidade Fiscal, que tinha por objetivo
+controlar e fiscalizar os gastos públicos federais, impedindo a discricionariedade que
+13
+
+antes existia em relação ao mesmo. Desde então, busca-se a eficácia dos mesmos,
+através da aplicação correta dos recursos e a transparência com os gastos públicos.
+Foi criado através do Sistema Integrado de Administração Financeira do Governo
+Federal (SIAFI) o Sistema SIGA do Senado Federal, que proporciona maior
+transparência dos gastos públicos, permitindo que cada cidadão consulte, através da
+intemet, o volume gasto com cada uma das funções da administração pública
+brasileira, oferecendo em reais o valor anual do mesmo, permitindo ainda que se
+consulte o valor por Unidade da Federação, por subfunção, programa entre outras
+classificações. Existe hoje em dia uma grande busca pela otimização dos gastos
+públicos, onde é cada vez mais necessário uma gestão eficiente dos recursos
+públicos.
+
+A Saúde Pública tornou-se no decorrer dos últimos anos uma das grandes
+preocupações da população brasileira. Hospitais cada vez mais cheios, em
+condições precárias, falta de profissionais qualificados e a alta dos preços dos
+hospitais particulares e convênios de saúde, o que faz com que mais gente migre
+das vias privadas para as públicas, elevaram a saúde pública brasileira a conferir
+status de caótico, cabendo tão logo aos governantes criar políticas de investimento e
+programas que evoluam a eficiência da área no Brasil.
+
+1.2 Formulação do problema
+
+Existe um paradoxo em relação à Saúde Pública no Brasil. Com o passar dos anos e
+a modernização de todas as áreas do setor público, esperava-se que a saúde fosse
+um problema sanado nos dias atuais. Especula-se que os programas do governo
+com vias a melhorar a saúde no Brasil podem ter surtido efeitos esperados, tais
+como a taxa de mortalidade infantil que caiu significativamente nos últimos anos, a
+expectativa de vida do brasileiro que a cada dia mais cresce IBGE (2009). Isto entra
+em conflito com o constante aumento nas filas de espera da rede pública de saúde,
+os déficits financeiros que atingem o SUS gerando um desafio a ser enfrentado
+pelos agentes públicos nos próximos anos.
+
+Com a constante preocupação da população acerca da saúde pública brasileira,
+busca-se investigar a evolução do volume dos gastos públicos nesta área,
+14
+
+observando os impactos gerados no Orçamento Geral da União (OGU).
+
+1.3 Objetivo Geral
+
+Identificar a evolução do gasto com a Saúde no Brasil ao longo do período entre
+2002 e 2010, tendo por base a relação Despesa com saúde/ PIB anual e as leis que
+regem o Sistema Orçamentário Brasileiro (PPA, LDO e LOA), analisando sob a
+perspectiva do Orçamento Geral da União.
+
+1.4 Objetivos Específicos
+
+- Analisar a evolução do volume de gastos na saúde em relação ao contingente
+populacional a nível regional e federal;
+
+- Comparar o volume de gastos na saúde em relação às demais funções
+orçamentárias concernentes à Seguridade Social (Saúde, Assistência Social e
+Previdência Social);
+
+1.5 J ustificativa
+
+Ao estudar o Sistema Orçamentário brasileiro, nota-se a busca pela transformação
+do mesmo em um sistema que sincronize as demandas da população com os
+recursos disponíveis para gastos, alcançando tão logo um dos princípios
+constitucionais da administração pública, a saber, o Princípio do interesse público.
+
+Nos últimos anos, nota-se uma evolução nos gastos públicos, onde parlamentares,
+governantes e a própria população, têm se atentado à situação, prova disto foi a
+edição da Lei Complementar 101/2000, Lei de Responsabilidade Fiscal (LRF), que
+tinha como um de seus objetivos regular a ação de governantes, estabelecendo
+limites a gastos entre outros fatores.
+
+Motivo de grande preocupação no Brasil, a saúde pública gera conflitos acerca de
+15
+
+sua eficácia e eficiência, visto que é uma das áreas onde se tem maior investimento,
+mas ainda assim, a mesma se apresenta precária e atrasada quando comparada à
+de países desenvolvidos.
+
+Assim, a relevância do presente estudo está na possibilidade de entender a situação
+financeiro-orçamentária brasileira através de uma análise da evolução dos gastos
+públicos nos últimos anos, tendo por referência uma área específica, a saúde, o que
+possibilita maior aprofundamento na analise acerca de gastos e investimentos dos
+governos brasileiros.
+16
+
+2 REFERENCIAL TEÓRICO
+
+Neste capítulo será abordada a revisão literária, envolvendo o conceito de
+orçamento e sua evolução no Brasil através das abordagens propostas por Mendes
+(2010) e Albuquerque (2008), passando pelas leis que regem o Sistema
+Orçamentário Brasileiro, tendo por base a Constituição Federal de 1988, a Lei de
+Responsabilidade Fiscal (Lei 101/2000) e a Lei 4.320/64. Por último uma visão da
+
+política de Saúde no Brasil, como é organizada, quais as diretrizes, e como o
+governo a financia sob orientação do Sistema Único de Saúde (SUS).
+
+2.1 Evolução do Orçamento Público
+
+Para entender a importância e relevância do Orçamento Público no Brasil, é
+necessário conhecer sua origem, trajetória e evolução até o modelo atual.
+
+2.1.1 Origem do Orçamento Público
+
+A idéia de Orçamento Público, se vê intimamente ligada ao desenvolvimento da
+democracia, onde existe por parte do governo uma responsabilidade de prever
+receitas e realizar despesas, de forma a prestar contas à população pelo ocorrido ao
+longo de um período de tempo, no Brasil denominado Exercício Financeiro
+(MENDES, 2010).
+
+De acordo com Mendes (2010) as primeiras idéias de Orçamento Público surgiram
+na Inglaterra em 1217, no reinado de John Lackland (Rei ] oão Sem-Terra), quando
+o mesmo outorgou carta Magna que propunha o seguinte em seu Artigo 12:
+
+Nenhum tributo ou auxílio será insituído no reino, senão pelo seu conselho
+comum, exceto com o fim de resgatar a pessoa do rei fazer em seu
+primogênito cavaleiro e casar sua filha mais velha uma vez, e os auxílios
+serão razoáveis em seu montante. (INGLATERRA, Constituição Inglesa
+1217 apud. MENDES, 2010)
+
+Segundo Burkhead (1971) o referido artigo estabeleceu condições para que os
+17
+
+A
+
+impostos não fossem mais instituídos de forma arbitrária e lesiva à sociedade
+inglesa, onde a uma primeira exposição de limitação do Poder Executivo através do
+Poder Legislativo.
+
+De acordo com o apurado por Abílio Maldonado Quina (2006), o Orçamento Público
+firmou-se na Inglaterra em 1688, como forma de o parlamento controlar as finanças
+públicas e diminuir, consequentemente, os poderes do rei, que antes via todos os
+recursos da sociedade como patrimônios próprios, podendo estabelecer tributos e
+realizar despesas sem prévia autorização parlamentar. A Carta Magna inglesa
+outorgada este ano estabelecia: “De hoje em diante ninguém estará obrigado a
+conceder donativo, empréstimos, benevolência ou imposto sem a comum aprovação
+que conste em uma ata do Parlamento” (INGLATERRA, Constituição Inglesa 1217
+apud. MENDES, 2010).
+
+Com a prévia autorização parlamentar estabelecida, Quina (2006) afirma que o
+Poder Legislativo decidiu por autorizar impostos e despesas apenas pelo período de
+um ano, fazendo necessário então que o Poder Executivo, representado pelo rei,
+apresentasse um plano anual de execução Orçamentária, dando origem então às
+idéias iniciais sobre Orçamento Público.
+
+Apenas em 1706 foram divididas atribuições acerca das responsabilidades dos
+poderes Executivo e Legislativo, onde, de acordo com Burkhead(1971), foi proposto
+através da resolução nº 66 que ao Poder Executivo era incumbida a missão de
+elaborar e coordenar a proposta de receitas e despesas, tendo então o parlamento
+como limitador, podendo o mesmo, aprovar, modificar, reduzir ou até mesmo rejeitar
+o que foi proposto, tendo por função principal então controlar a execução
+orçamentária.
+
+Em 1822 foi consagrado o Orçamento Público propriamente dito na Inglaterra, onde
+o Executivo passou realmente a prestar contas de suas decisões, gastos e
+arrecadações ao Legislativo.
+
+2.1.2 Evolução do Orçamento Público no Brasil
+
+O Orçamento Público no Brasil segundo Pires e Motta (2006), sempre constituiu um
+18
+
+forte instrumento de controle dos recursos financeiros gerados pela sociedade,
+retornando à mesma através de bens públicos, serviços prestados pelo governo
+entre outros. É tamanha a importância do Orçamento público no Brasil, que desde
+sua primeira constituição, outorgada em 1824, o assunto é tratado com grande
+importância, evoluindo de constituição para constituição, e através de leis editadas
+que complementam estas.
+
+2.1.2.1 Orçamento Público na Constituição de 1824
+
+Marco inicial para a história do Orçamento público brasileiro, a Constituição imperial,
+outorgada por Dom Pedro | em 1824 atribuia, segundo Mendes (2010), à Câmara
+dos Deputados a iniciativa de instituir impostos, fato este presente em seu artigo 36
+que diz: “É privativa da Camara dos Deputados a Iniciativa: |. Sobre Impostos”
+(BRASIL, 1824, Capítulo Il, Art.36).
+
+Conforme foi apurado por Pires e Motta (2006), a competência da elaboração da
+proposta orçamentária ficou a cargo do Poder Executivo, porém a aprovação da
+mesma se constituiu como competência da Assembléia Geral (Congresso Nacional).
+Ficou a cargo do Tesouro Nacional, a consolidação do balanço geral de receitas e
+despesas referentes ao ano anterior. A Constituição Federal de 1824 em seu artigo
+172 estabeleceu:
+Art. 172 - O Ministro de Estado da Fazenda, havendo recebido dos outros
+Ministros os orçamentos relativos ás despezas das suas Repartições,
+apresentará na Camara dos Deputados annualmente, logo que esta estiver
+reunida, um Balanço geral da receita e despeza do Thesouro Nacional do
+anno antecedente, e igualmente o orçamento geral de todas as despezas
+
+publicas do anno futuro, e da importancia de todas as contribuições, e
+rendas publicas. (BRASIL, 1824, Capítulo Ill, Art.172)
+
+Segundo foi apurado por Baleeiro (1997), não foi de imediato que a composição de
+um Orçamento tornou a obedecer os moldes propostos pela Constituição em vigor, o
+primeiro Orçamento elaborado utilizando o modelo proposto — elaboração da
+proposta por parte do Executivo e aprovação submetida ao Legislativo — aconteceu
+apenas no ano de 1831, sete anos após da outorga da Constituição.
+19
+
+2.1.2.2 Orçamento Público na Constituição de 1891
+
+A Constituição Federal de 1981 é considerada como um marco histórico para a
+história do Brasil. É a primeira constituição a ser elaborada desde a proclamação da
+república em 15 de Novembro de 1889.
+
+A constituição promulgada em Fevereiro de 1891 trouxe uma grande mudança se
+tendo em relação a anterior. Conforme apurou Albuquerque (2008) em 1890, o então
+Ministro da Fazenda, Ruy Barbosa, instituiu a criação do Tribunal de Contas da
+união, fator este que foi consolidado através da do artigo 89 da Constituição de
+1891. Talartigo traz que:
+
+Art 89 - É instituído um Tribunal de Contas para liquidar as contas da receita
+e despesa e verificar a sua legalidade, antes de serem prestadas ao
+Congresso.
+
+Os membros deste Tribunal serão nomeados pelo Presidente da República
+
+com aprovação do Senado, e somente perderão os seus lugares por
+
+sentença. (BRASIL, 1891, Título V, Art.89)
+Como principal mudança, a Constituição de 1891 tornou a competência de
+elaboração do Orçamento como privativa do Congresso Nacional, sendo então de
+iniciativa da Câmara dos Deputados, a saber o que diz em seu artigo 34: “Compete
+privativamente ao Congresso Nacional: Orçar a receita, fixar a despesa federal
+anualmente e tomar as contas da receita e despesa de cada exercício financeiro.”
+(BRASIL, 1891, Capítulo IV, Art.34)
+
+Conforme citou Pires e Motta (2006) em 1892 foi editada a Lei Nº 30, que tinha por
+objetivo fixar as responsabildades do presidente da República, onde ficou
+estabelecido “que a não apresentação da proposta constituía crime contra as leis
+orçamentárias” (BRASIL, 1892, Lei nº 30). Gerou-se então conflito com a
+Constituição em vigor, visto que uma propunha a elaboração como privativa do
+Congresso, enquanto a outra trazia como responsabilidade do presidente, podendo
+culminar até em crime de responsabilidade contra as leis orçamentárias a sua não-
+apresentação.
+
+Outro fato importante relacionado à matéria orçamentária relativa à Constituição de
+1891, foi a aprovação por parte do Congresso Nacional do Código de Contabilidade
+da União (Decreto Nº 4536, de 28 de Janeiro de 1922). Segundo Pires e Motta
+20
+
+(2006) O código foi considerado para a época “uma grande inovação tecnológica
+nas finanças públicas”, o que organizou, em parte, as finanças públicas de acordo
+com procedimentos orçamentários, financeiros entre outros. Tal código foi referido
+primeiramente no âmbito da União, sendo posteriormente adotado em Estados e
+municípios. Foi a primeira vez em que se foi falado em eficiência na gestão.
+
+Mesmo a Constituição de 1891 prevendo que era de caráter privativo do Congresso
+Nacional a elaboração da proposta orçamentária, o que acontecia na prática era que
+o Poder Executivo, continuava a elaborar tal, fato este que se consolidou com a
+Reforma Constitucional de 1926, onde tal competência foi transferida oficialmente ao
+E xecutivo.
+
+2.1.2.3 Orçamento Público na Constituição de 1934
+
+Conforme apurou Albuquerque (2008), O Brasil ainda sofria impactos relativos à
+grande crise de 1929, onde o país constatou que não conseguiria saldar
+integralmente seus compromissos junto aos credores internacionais. Com o
+processo de Reestruturação da dívida, ocorrido em 1931, descobriu-se grandes
+falhas de gestão por parte dos governantes brasileiros, o que fez necessário um
+processo de auditoria para levantar a regularidade do montante da dívida exigida
+pelos credores.
+
+De acordo com o apurado por Mendes (2010), a Constituição Federal outorgada
+durante o governo de Getúlio Vargas passou a ter mais destaque e importância
+perante os governantes, ganhando então na nova constituição capítulo próprio. A
+Constituição dizia em seu artigo 50:
+
+Art50 - O orçamento será uno, incorporando-se obrigatoriamente à receita
+todos os tributos, rendas e suprimentos dos fundos e incluindo-se
+discriminadamente na despesa todas as dotações necessárias ao custeio
+dos serviços públicos.
+
+$ 1º- O Presidente da República enviará à Câmara dos Deputados, dentro
+do primeiro mês da sessão legislativa ordinária, a proposta de orçamento.
+
+$ 2º- O orçamento da despesa dividir-se-á em duas partes, uma fixa e outra
+variável, não podendo a primeira ser alterada senão em virtude de lei
+anterior. A parte variável obedecerá a rigorosa especialização.
+
+$ 3º- A lei de orçamento não conterá dispositivo estranho à receita prevista
+21
+
+e à despesa fixada para os serviços anteriormente criados. Não se incluem
+nesta proibição:
+
+a) a autorização para abertura de créditos suplementares e operações de
+créditos por antecipação de receita;
+
+b) a aplicação de saldo, ou o modo de cobrir o déficit.
+$ 4º- É vedado ao Poder Legislativo conceder créditos ilimitados.
+$ 5º- Será prorrogado o orçamento vigente se, até 3 de novembro, o
+
+vindouro não houver sido enviado ao Presidente da República para a
+sanção. (BRASIL, 1934, Seção IV, Art.50)
+
+Ficou instituído então que a elaboração da proposta orçamentária era atribuição do
+Presidente da República, cabendo então ao Poder Legislativo aprovar a proposta
+com o auxílio do Tribunal de Contas, quando necessário (PIRES; MOTTA, 2006).
+
+A Constituição Federal de 1934 possuía ainda uma ilimitada possibilidade de
+emenda por parte do Poder Legislativo, o que acabava por gerar uma “co-
+
+participação” na elaboração do Orçamento Público Brasileiro.
+
+2.1.2.4 Orçamento Público na Constituição de 1937
+
+Com o surgimento do Estado Novo, foi decretada uma constituição que visava seguir
+o regime político autoritário que o mesmo pregava (PIRES; MOTTA, 2006). Foi
+estabelecido ainda lugar de destaque para o Orçamento Público na constituição,
+onde o mesmo foi tratado em capítulo especial da mesma com composição total de
+seis artigos.
+
+A elaboração do Orçamento ficou então a cargo de um Departamento Administrativo
+criado junto à Presidência da República. Tal departamento era regulamentado pelo
+artigo 67 da constituição que dizia:
+
+Art 67 - Haverá junto à Presidência da República, organizado por decreto do
+Presidente, um Departamento Administrativo com as seguintes atribuições:
+
+a) o estudo pormenorizado das repartições, departamentos e
+estabelecimentos públicos, com o fim de determinar, do ponto de vista da
+economia e eficiência, as modificações a serem feitas na organização dos
+serviços públicos, sua distribuição e agrupamento, dotações orçamentárias,
+condições e processos de trabalho, relações de uns com os outros e com o
+público;
+
+b) organizar anualmente, de acordo com as instruções do Presidente da
+República, a proposta orçamentária a ser enviada por este à Câmara dos
+22.
+
+Deputados;
+
+c) fiscalizar, por delegação do Presidente da República e na conformidade
+das suas instruções, a execução orçamentária. (BRASIL, 1937, Art.67)
+
+Mudanças ocorreram também no que cabia à votação da proposta, onde,
+diferentemente de sua antecessora que previa a aprovação como atribuição do
+Poder Legislativo, a nova constituição presumia que a aprovação dependia de
+aceitação por parte de um Conselho Fiscal, que tinha por composição dez membros
+livremente nomeados pelo Presidente da República.
+
+2.1.2.5 Orçamento Público na Constituição de 1946
+
+A Constituição Federal de 1946 é marcada pelo processo histórico de
+redemocratização do país. Conforme foi apurado por Mendes (2010) o Executivo
+voltou a elaborar o projeto de Lei orçamentária, como já ocorria em algumas de suas
+antecessoras, e a votação voltou a ser competência do Poder Legislativo, com a
+possibilidade de o mesmo emendar, quando julgasse necessário.
+
+Pires e Motta (2006) citam a Constituição de 1946 como a constituição
+“planejamentista”, onde a mesma se tornou a primeira a preocupar-se com os
+planejamentos, tanto nos níveis setoriais, quanto nos níveis regionais, obtendo
+reflexo direto na monetização do Orçamento.
+
+A
+
+Tal constituição não trouxe grandes avanços no que se diz à integração entre
+orçamento e planejamento, tendo visto que a Constituição caracterizou-se por
+“contemplar somente os elementos de despesa, com ausência da programação de
+objetivos, metas e recursos reais, intensificando as desvinculações dos Planos e
+dos Orçamentos” (BRASIL, Ministério do Planejamento e Coordenação geral, 2010).
+
+O Orçamento é tratado na Seção VI da Carta, operando entre os artigos 73 ao 77.
+Seguindo a tendência das constituições anteriores, o Artigo 73 traz a obrigatoriedade
+de que o Orçamento seja Uno, e que incorpore à receita rendas e suprimentos de
+fundos:
+
+Art.73 - O orçamento será uno, incorporando-se à receita, obrigatoriamente,
+todas as rendas e suprimentos de fundos, e incluindo-se discriminadamente
+na despesa as dotações necessárias ao custeio de todos os serviços
+23
+
+públicos.
+
+$ 1º- A lei de orçamenta não conterá dispositivo estranho à previsão da
+receita e à fixação da despesa para os serviços anteriormente criados. Não
+se incluem nessa proibição:
+
+I- à autorização para abertura de créditos suplementares e operações de
+crédito por antecipação da receita;
+
+Il- a aplicação do saldo e o modo de cobrir o déficit.
+
+$ 2º- O orçamento da despesa dividir-se-á em duas partes: uma fixa, que
+não poderá ser alterada senão em virtude de lei anterior; outra variável, que
+obedecerá a rigorosa especialização. (BRASIL, 1946, Seção IV, Art.73)
+
+A Constituição de 1934 trazia em seu Artigo 50 8 5º que o Orçamento deveria ser
+enviado até o dia 3 de Novembro ao Presidente da República, onde caso tal limite
+não fosse obedecido, prorrogar-se-ia o antecessor. A Nova Constituição alterava o
+prazo para envio à sanção e trazia novas diretrizes caso a data em questão (30 de
+Novembro) não fosse obedecida. A mesma traz e seu artigo 74: “Se o orçamento
+não tiver sido enviado à sanção até 30 de novembro, prorrogar-se-á para o exercício
+seguinte o que estiver em vigor.” (BRASIL, 1946, Seção IV, Art.74)
+
+Por fim os dois últimos artigos da “parte Orçamentária” da Constituição promulgada
+em 1946 trazem a regulamentação e atribuições do Tribunal de Contas, o que não
+se faz interessante para análise neste estudo.
+
+2.1.2.6 Orçamento Público na Constituição de 1967
+
+A Constituição Federal de 1967 trouxe mudanças significativas em relação as
+demais, onde seguindo a tendência do Golpe Militar de 1964, a constituição
+outorgada em 24 de Janeiro de 1967, com objetivo de legalizar o regime militar
+imposto através do golpe, tinha por tendência ser centralizadora, onde cabia ao
+Poder Executivo a elaboração da proposta e ao Poder Legislativo a votação, porém
+agora sem discricionariedade para emendas e ajustes como versa seu artigo 67:
+
+Art.67 - É da competência do Poder Executivo a iniciativa das leis
+orçamentárias e das que abram créditos, fixem vencimentos e vantagens
+dos servidores públicos, concedam subvenção ou auxilio, ou de qualquer
+modo autorizem, criem ou aumentem a despesa pública.
+$ 1º- Não serão objeto de deliberação emendas de que decorra aumento
+da despesa global ou de cada órgão, projeto ou programa, ou as que visem,
+a modificar o seu montante, natureza e objetivo. (BRASIL, 1967, Seção VI,
+Art.67)
+
+Em sua obra, Pires e Motta (2006) constataram que o Executivo, ao encaminhar a
+proposta orçamentária, expõe a existência de um possível conflito de interesses,
+onde a alocação de recursos torna-se divergente, segundo determinadas áreas da
+sociedade.
+
+De fundamental importância, segundo Gonçalves (2010) foi o registro, pela primeira
+vez em texto constitucional, do Princípio do equilíbrio orçamentário formal.
+
+“A Magna carta de 1967 ainda acresceu dispositivos visando assegurar o
+atingimento desse equilíbrio prevendo formas embrionárias dos sistemas de
+compensação sistêmica e tópico” (SANTA HELENA, 2006, p.1). Consolidou-se
+então a preocupação por parte dos constituintes acerca de despesa, endividamento
+e gastos, onde foi introduzido pela primeira vez limites para gastos. Exemplo disto é
+o que reza o artigo 66 8 4º que estabelece limites para gastos com pessoal por parte
+da União, estados e municípios:
+
+Art.66 - O montante da despesa autorizada em cada exercício financeiro
+não poderá ser superior ao total das receitas estimadas para o mesmo
+período.
+
+$ 4º- A despesa de pessoal da União, Estados ou Municípios não poderá
+exceder de cinquenta por cento das respectivas receitas correntes.
+(BRASIL, 1967, Seção VI, Art.66)
+
+Ainda neste período foi decretada a Lei 4.320 de 1964 com objetivos a regulamentar
+o Orçamento Público, controle, normas gerais para direitos financeiros, entre outros.
+A Lei 4.320 afere até os dias de hoje seus efeitos, legislando acerca de alguns
+preceitos Orçamento Público brasileiro.
+
+2.1.2.7 Orçamento Público na Constituição de 1988
+
+A atual constituição, confere destaque à matéria orçamentária, dedicando ao mesmo
+uma sessão especial e à parte, além de mudanças significativas que tornaram o
+Orçamento Público Brasileiro, segundo Pires e Motta (2006), maior democratização
+25
+
+às políticas públicas, além de maior participação do Poder Legislativo no
+estabelecimento da programação econômico-financeira do Estado, conferindo tão
+logo ao Congresso, as atribuições perdidas com a Constituição de 1967, como a
+possibilidade de emendas à proposta e criação de despesas por parte do
+Legislativo.
+
+Como principal ateração em relação às Consituições anteriores, a criação de leis de
+iniciativa privativa do Poder Executivo, leis estas que tem por objetivo regular a
+elaboração e execução do Orçamento Público Brasileiro, integrando então o
+Planejamento a médio prazo com o Orçamento propriamente dito. São estes
+instrumentos: o PPA (Plano Plurianual) e a LDO (Lei de diretrizes orçamentárias).
+Tais leis serão abordadas com maior destaque nos capítulos 2.2.1.1 Plano
+Plurianual e 2.2.1.2 Lei de Diretrizes Orçamentárias. O Artigo 165 diz o seguinte:
+
+Art.165 - Leis de iniciativa do Poder Executivo estabelecerão:
+I- o plano plurianual;
+Il - as diretrizes orçamentárias;
+
+Ill - os orçamentos anuais. (BRASIL, 1988, Capítulo Il Seção Il Artigo 165)
+
+É interessante destacar que as três leis de iniciativa do Poder executivo são leis
+ordinárias, o que não confere, via de regra, uma hierarquia entre as mesmas, porém
+no caso orçamentário, a LOA deve estar sempre em conformidade com a LDO e a
+mesma deve estar segundo o que foi proposto pelo PPA, notando então que na
+prática existe certa hierarquia entre estas leis.
+
+A Constituição de 1988 prevê ainda a elaboração de uma Lei Complementar prevista
+no 8 9º do Artigo 165, onde o mesmo traz algumas das atribuições conferidas a esta
+
+lei, a saber:
+$ 9º- Cabe à lei complementar:
+| - dispor sobre o exercício financeiro, a vigência, os prazos, a elaboração e
+a organização do plano plurianual, da lei de diretrizes orçamentárias e da lei
+orçamentária anual;
+Il - estabelecer normas de gestão financeira e patrimonial da administração
+
+direta e indireta bem como condições para a instituição e funcionamento de
+fundos. (BRASIL, 1988, Capítulo Il Seção Il Artigo 165)
+
+Foi editada então a Lei Complementar 101/2000 que veio para suprir algumas das
+deficiências encontradas por parte dos legisladores acerca da matéria orçamentária,
+26
+
+buscando, segundo Albuquerque (2008), melhorias na qualidade de gestão pública e
+responsabilidade fiscal, visando cumprir o princípio da eficiência da administração
+pública.
+
+Além destas inovações é possível destacar a preocupação da nova constituição
+acerca de controle e avaliação do mesmo. Conforme avaliou Core (2006), onde os
+três poderes devem conter em suas estruturas sistemas de controle interno,
+verificando o cumprimento daquilo que foi proposto além de acompanhar e avaliar a
+execução orçamentária.
+
+Maior detalhamento acerca da Constituição Federal de 1988 será estudado no
+capítulo 2.2.1 Legislação Orçamentária, devido o fato de a mesma ainda exaurir
+efeitos.
+
+2.2 O Sistema Orçamentário Brasileiro
+
+Conforme estudado no último capítulo, a Constituição Federal de 1988 trouxe
+significativas mudanças ao sistema orçamentário brasileiro, onde o mesmo é
+composto atualmente por uma rede de órgãos, tais como o Ministério do
+Planejamento, Orçamento e Gestão (MPOG), Tesouro Nacional, Câmara dos
+Deputados, Senado; e leis, como a Lei de Diretrizes Orçamentárias, Lei
+
+Orçamentária anual, Lei de Responsabilidade Fiscal e Lei 4.320/64.
+
+O Orçamento público anual é elaborado por um procedimento denominado Ciclo
+Orçamentário. Entende-se por Ciclo orçamentário, “o período de tempo em que se
+processam as atividades típicas do orçamento público, desde sua concepção, até
+sua apreciação final” (MENDES, 2010 p. 49).
+
+O autor ainda destaca o ciclo orçamentário como “um processo contínuo, dinâmico
+e flexível”, onde o mesmo é constituído por quatro etapas, a saber: elaboração da
+proposta que é onde ocorre a alocação de recursos, constituído de projeção de
+receitas e fixação de despesas; a discussão/aprovação, que corresponde a fase em
+que os parlamentares discursam acerca do orçamento, propõem emendas, fazem a
+redação final e colocam em proposição no plenário para aprovação; a Execução,
+que consiste basicamente na arrecadação das receitas e realização das despesas,
+27
+
+segundo aquilo que foi orçado/planejado e o controle que basicamente visa
+assegurar que os recursos serão aplicados conforme o previsto em lei, o controle
+pode ser interno(Poder Executivo) e externo (Poder Legislativo auxiliado pelo
+Tribunal de Contas). A lei 4.320/64 versa acerca do controle orçamentário em seu
+artigo 75 que diz:
+
+Art.75 - O controle da execução orçamentária compreenderá:
+
+|-a legalidade dos atos de que resultem a arrecadação da receita ou a
+realização da despesa, o nascimento ou a extinção de direitos e obrigações;
+
+IH = fidelidade funcional dos agentes de administração, responsáveis por
+bens e valores públicos;
+
+Il — o cumprimento do programa de trabalho expresso em termos
+monetários e em termos de realização de obras e prestação de serviços.
+(BRASIL, 1964, Lei 4.320, Art. 75)
+
+O Ciclo Orçamentário Brasileiro está organizado da seguinte forma:
+
+Discussão: Corresponde
+
+Elaboração: Atividades à discussão em plenário
+preliminares que se da proposta do
+relacionam à alocação de Executivo, é onde
+recursos. também Legislativo
+
+pode propor emendas.
+
+Controle:
+Análise da eficiência e .
+eficácia dos cursos de Execução:
+ações cumpridos. É uma É a fase em que são
+forma de assegurar que arrecadadas as receitas e
+os recursos serão realizadas as despesas.
+aplicados conforme o
+orçado.
+
+Figura 1: Ciclo Orçamentário Brasileiro.
+Fonte: Elaborado pelo próprio autor a partir de Mendes (2010)
+28
+
+2.2.1 Legislação Orçamentária
+
+Indispensável para compreensão do Sistema Orçamentário Brasileiro atualmente é
+conhecer a legislação que norteia tal sistema. Este capítulo visa expor ao leitor as
+principais leis que compõem o Orçamento Público brasileiro, sendo elas: Lei de
+Diretrizes Orçamentárias, Lei Orçamentária Anual e a Lei de Responsabilidade
+Fiscal (Lei 101/2000), além do plano a longo prazo para o o Orçamento Público
+brasileiro o Plano Plurianual.
+
+2.2.1.1 Plano Plurianual (PPA)
+
+Inovação trazida pela Constituição Federal de 1988, o Plano Plurianual “é o
+instrumento de maior alcance temporal no estabelecimento das prioridades e no
+direcionamento das ações do governo” (ALBUQUERQUE, 2008, p. 145). O PPA
+consistem em um instrumento que visa planejar de forma regionalizada e a médio
+prazo, quatro anos, as diretrizes, objetivos e metas da administração pública federal.
+Isto é estabelecido pela Constituição Federal em seu artigo 165 81º que diz:
+
+$1º- A lei que instituir o plano plurianual estabelecerá, de forma
+regionalizada, as diretrizes, objetivos e metas da administração pública
+federal para as despesas de capital e outras delas decorrentes e para as
+relativas aos programas de duração continuada. (BRASIL, 1988, Capítulo Il
+Seção Il Artigo 165 81.º)
+
+Segundo Albuquerque (2008) a regionalização prevista na Carta visa diminuir as
+desigualdades sociais existentes no território brasileiro, podendo então o governo
+promover programas em discriminadas regiões no Brasil na tentativa de equiparar as
+mesmas. “Um grande desafio do planejamento é promover, de forma integrada,
+oportunidades de investimento que sejam definidas a partir das realidades regionais
+e locais, levando a um desenvolvimento mais equilibrado entre as regiões do Brasil”
+(MENDES, 2010, p. 22).
+
+A Constituição estabelece ainda que devem estar presentes no PPA os programas
+de duração continuada, que são aqueles que tem duração prevista para mais de um
+exercício financeiro. Logo, aqueles programas com duração inferior a um exercício
+financeiro tem sua discriminação no PPA dispensada. A Constituição diz em seu
+29
+
+artigo 167 81º:
+
+$1.º— Nenhum investimento cuja execução ultrapasse um exercício
+financeiro poderá ser iniciado sem prévia inclusão no plano plurianual, ou
+sem lei que autorize a inclusão, sob pena de crime de
+responsabilidade.(BRASIL, 1988, Capítulo Il Seção Il Artigo 167 81.º)
+
+Os prazos para elaboração e a vigência do Plano Plurianual deverão estar contidos
+em lei complementar a ser editada. O artigo 165 89º da Constituição de 1988 traz
+que:
+
+89º - Cabe à lei complementar:
+
+| — dispor sobre o exercício financeiro, a vigência, os prazos, a elaboração e
+a organização do plano plurianual, da lei de diretrizes orçamentárias e da lei
+orçamentária anual(BRASIL, 1988, Capítulo Il Seção Il Artigo 165 9.º)
+
+Contudo, a inexistência desta lei faz necessária a previsão de tais aspectos nos Atos
+e Disposições Constitucionais Transitórias, que traz em seu artigo 35 82º:
+
+82º — Até a entrada em vigor da lei complementar a que se refere o art. 165
+89º, le Il, serão obedecidas as seguintes normas:
+
+I-o projeto do plano plurianual, para vigência até o final do primeiro
+exercício financeiro do mandato presidencial subsequente, será
+encaminhado até quatro meses antes do encerramento do primeiro
+exercício financeiro e devolvido para sanção até o encerramento da sessão
+legislativa. (BRASIL, Ato das disposições Constitucionais transitórias, Artigo
+35 89º)
+
+Desta forma, fica instituído que o PPA, que é de iniciativa do Presidente da
+República, deve ser encaminhado, já recebida as partes de todos os poderes,
+formando um único orçamento, ao Congresso Nacional para apreciação e aprovação
+até o dia 31 de Agosto, no primeiro ano do mandato presidencial, onde, o Presidente
+atua em seu primeiro ano de governo com o PPA do governo anterior em seu último
+ano de vigência. O Congresso Nacional, por sua vez, deve devolver para sanção do
+Presidente da República o projeto já com as devidas emendas até o dia 22 de
+dezembro, data esta em que se encerra a sessão legislativa.
+
+É importante saber que o período de vigência do PPA não se confunde com o de
+mandato presidencial, onde o PPA se inicia no segundo ano de mandato de um
+presidente e se finda no primeiro ano de governo do presidente seguinte, como é
+possível identificar no Quadro 1.
+ 
+
+Governo Lula 4º Ano do PPA (2000-2003)
+1º Ano do PPA (2004-2007
+(2003-2006) no do PPA ( )
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2º Ano do PPA (2004-2007)
+3º Ano do PPA (2004-2007)
+Governo Lula 4º Ano do PPA (2004-2007)
+(2007-2010) 1º Ano do PPA (2008-2011)
+
+ 
+
+2º Ano do PPA (2008-2011)
+3º Ano do PPA (2008-2011)
+
+Governo Dilma 4º Ano do PPA (2008-2011)
+1º Ano do PPA (2012-2015
+(2011-2014)
+2º Ano do PPA (2012-2015)
+
+3º Ano do PPA (2012-2015)
+
+Quadro 1: Cronograma de vigência do Plano plurianual
+Fonte: Elaborado pelo autor a partir dos Atos das disposições constitucionais transitórias
+(ADCT), art. 35, 82º.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nota-se então a intenção do legislador de que o planejamento seguinte consista em
+uma continuidade, gerando então por consequência um planejamento de
+médio/longo prazo.
+
+Albuquerque (2008) afirma que o PPA é composto basicamente por base estratégica
+— que consiste na análise da situação econômico-financeira, social do país; as
+diretrizes, objetivos e metas propostas pelo Presidente da República; a previsão de
+recursos e distribuição dos mesmos, nas áreas, setores e programas do governo — e
+programas, que correspondem à definição dos problemas que devem ser sanados e
+os objetivos a serem alcançados.
+
+O Plano Plurianual em vigência no Brasil, válido pelo quadriênio 2008-2011 foi
+instituído pela Lei 11.653 de 7 de Abril de 2008, composta por 26 artigos. O PPA
+deste quadriênio é conhecido com o subtítulo: “Desenvolvimento com Inclusão
+Social e Educação de Qualidade”. Conforme apurado por Albuquerque (2008), este
+plano possui três desafios centrais: | — Acelerar o crescimento econômico; Il) —
+Promover a inclusão social; e Ill) Reduzir as desigualdades Regionais.
+31
+
+2.2.1.2 Lei de Diretrizes Orçamentárias (LDO)
+
+Outra das inovações trazidas por meio da Constituição Federal de 1988, a Lei de
+Diretrizes Orçamentárias surgiu com o objetivo de ser o elo entre o planejamento
+estratégico na figura do PPA e o orçamento propriamente dito, a LOA. O Projeto de
+Lei de Diretrizes Orçamentárias é de iniciativa privativa do chefe do Poder Executivo,
+sendo necessária a votação por parte do Poder Legislativo, com a possibilidade de
+emendas.
+
+O artigo 165 da Constituição Federal de 1988 versa em seu 82º acerca da LDO, a
+saber:
+
+82º — A lei de diretrizes orçamentárias compreenderá as metas e prioridades
+da administração pública federal, incluindo as despesas de capital para o
+exercício financeiro subsequente, orientará a elaboração da lei orçamentária
+anual, disporá sobre as alterações na legislação tributária e estabelecerá a
+política de aplicação das agências financeiras oficiais de fomento. (BRASIL,
+1988, Capítulo Il Seção Il Artigo 165 82.º)
+
+As competências da LDO podem ser definidas através de duas vertentes. A
+
+Constituição, que criou a Lei de Diretrizes Orçamentárias, prevê como atribuições
+
+segundo apurado por Albuquerque (2008) e observado o artigo 165 82º da Carta
+
+Magna:
+
+e Compreender as metas e prioridades da administração pública federal,
+incluindo as despesas de capital para o exercício financeiro subsequente: as
+disposições que estão contidas no orçamento devem estar em conformidade
+com as metas e prioridades da administração pública;
+
+e Orientar a elaboração da lei orçamentária anual: É função da LDO auxiliar a
+elaboração da LOA com o objetivo de que a mesma esteja em conformidade
+com o estabelecido no PPA;
+
+e Dispor sobre as alterações na legislação tributária: Visando alcançar os
+objetivos do governo, a LDO dispõe acerca da legislação tributária, seja em
+sua função fiscal, seja em sua função reguladora;
+
+e Estabelecer a política de aplicação das agências financeiras oficiais de
+fomento: “As ações de fomento, por envolverem recursos vultosos, causam
+impactos relevantes sob os aspectos de geração e apropriação da renda
+32
+
+nacional, contribuindo então para ampliar ou reduzir a desigualdade no Brasil”
+(ALBUQUERQUE, 2008, p. 167). Sabendo isto, faz-se importante ação do
+Poder Legislativo, através da LDO, de estabelecer políticas de aplicação
+destas agências de fomento, com vistas a trabalhar para a diminuição da
+desigualdade social no país.
+
+A LDO deve estar sempre em harmonia com o proposto pelo PPA, onde quando
+existente conflito entre as duas leis prevalecerá o disposto no Plano Plurianual.
+
+Com a Publicação da Lei de Responsabilidade Fiscal em 2000, apresentou em seu
+art4.º,|,a,b,e e fum aumento no rol de funções da LDO (as alíneas c e d foram
+vetadas). Tal artigo diz:
+
+Art4.º — A lei de diretrizes orçamentárias atenderá o disposto no 82º do art.
+165 da Constituição e:
+
+| - Disporá também sobre:
+a) equilíbrio entre receitas e despesas;
+
+b) critérios e forma de limitação de empenho, a ser efetivada nas hipóteses
+previstas na alínea b do inciso Il deste artigo, no art.9º e no inciso Il do 81º
+do art. 31;
+
+É..]
+
+e) normas relativas ao controle de custos e à avaliação dos resultados dos
+programas financiados com recursos dos orçamentos;
+
+f) demais condições e exigências para transferências de recursos a
+entidades públicas e privadas. (BRASIL, 2000, Lei de Responsabilidade
+Fiscal, Artigo 4.º)
+
+A Lei de Responsabilidade Fiscal ainda estabelece que integrará o projeto da Lei de
+Diretrizes Orçamentárias o Anexo de Metas fiscais que, segundo o Manual de
+elaboração do anexo de metas e relatório resumido da execução orçamentária
+(2004), deverá abranger a administração direta e indireta, contemplando todos os
+poderes, desde que recebam recursos do orçamento fiscal e da Seguridade Social,
+excluídas as empresas lucrativas que recebam recursos para aumento de capital.
+
+Determina a LRF que o Anexo de Metas Fiscais terá como uma de suas atribuições
+o estabelecimento de metas anuais, que segundo o 81.º do art.4º da referida lei
+deverão ser em “valores correntes e constantes, relativos à receitas e despesas,
+resultados nominal e primário” levando em conta o exercício a que se referirem e
+
+aos dois subsequentes.
+
+Conterá ainda o Anexo de Metas Fiscais segundo o 81.º do art.4.º da LRF:
+|- Avaliação do cumprimento das metas relativas ao ano anterior;
+
+Il — demonstrativo das metas anuais, instruído com memória e metodologia
+de cálculo que justifiquem os resultados pretendidos, comparando-as com
+as fixadas nos três exercícios anteriores, e evidenciando a consistência
+delas com as premissas e os objetivos da política econômica nacional;
+
+Ill — evolução do patrimônio líquido, também nos últimos três exercícios,
+destacando a origem e a aplicação dos recursos obtidos com alienação dos
+ativos;
+
+IV — Avaliação da situação financeira atuarial
+
+V — demonstrativo da estimativa e compensação da renúncia de receita e
+da margem de expansão das despesas obrigatórias de caráter continuado.
+(BRASIL, 2000, Lei de Responsabilidade Fiscal, Artigo 4.º 81.º)
+
+Segundo o Manual de Elaboração do Anexo de metas fiscais e relatório resumido da
+execução orçamentária (2004), O cumprimento das metas propostas pelo artigo 4º
+da LRF serão acompanhados com base nas informações discriminadas no Relatório
+Resumido da Execução Orçamentária e no Relatório de Gestão Fiscal.
+
+Conforme descreveu Mendes (2010), integrará ainda a LDO por determinação da
+LRF O anexo de riscos fiscais, em que serão avaliados os passivos contingentes —
+que são aqueles que podem ser definidos como dívidas imprevisíveis, tais como
+calamidades públicas, comoção intestina, entre outros — e outros riscos que são
+capazes de afetar as contas públicas.
+
+Os prazos e vigências da Lei de Diretrizes Orçamentárias deverá ser discriminado
+em Lei Complementar como prevê o Artigo 165 89º da Carta Magna, e a exemplo do
+Plano Plurianual, enquanto tal lei não for editada, os limites estão presentes nos
+Atos das Disposições Constitucionais Transitórias, a saber que o prazo para
+encaminhamento da LDO ao Legislativo para aprovação é de oito meses e meio
+antes do encerramento do exercício financeiro ,dia 15 de abril, e o prazo para
+devolução ao Executivo para sanção deverá ser até o fim do primeiro período da
+sessão legislativa, onde a mesma não poderá entrar em recesso enquanto a
+proposta não for aprovada. A vigência da LDO é de um ano, sempre dispondo a
+cerca da LOA do ano seguinte.
+2.2.1.3 Lei Orçamentária Anual (LOA)
+
+“Lei Orçamentária anual é o instrumento pelo qual o poder público prevê a
+arrecadação de receitas e fixa a realização de despesas para o período de um ano.”
+(MENDES, 2010, p.34). Partindo deste conceito, compreende-se a LOA como o
+Orçamento propriamente dito, com a finalidade de concluir, concretizar aquilo que foi
+planejado no PPA. Conforme estudado no capítulo 2.2.1.2 - Lei de Diretrizes
+Orçamentárias, a LOA tem sua elaboração orientada pela LDO editada no ano
+anterior, devendo então a mesma estar em consonância com essa e com o PPA.
+
+O Artigo 165 85.º da Constituição Federal de 1988 estabelece que conterá na LOA:
+
+85.º — A lei orçamentária anual compreenderá:
+
+|- o orçamento fiscal referente aos Poderes da União, seus fundos, órgãos
+e entidades da administração direta e indireta, inclusive fundações
+instituídas e mantidas pelo poder público;
+
+Il- o orçamento de investimento das empresas em que a União, direta ou
+indiretamente, detenha a maioria do capital social com direito a voto;
+
+Il — o orçamento da seguridade social, abrangendo todas as entidades e
+órgãos a ela vinculados, da administração direta ou indireta, bem como os
+fundos e fundações instituídos e mantidos pelo Poder Público. (BRASIL,
+1988, Capítulo Il Seção Il Artigo 165 85.º)
+
+Albuquerque (2008) observa a aparente dificuldade em discernir o Orçamento Fiscal
+do Orçamento da Seguridade Social, uma vez que o segundo não discrimina o
+conceito de Seguridade Social, que só é encontrado no Artigo 194, que define
+seguridade social como sendo: “um conjunto integrado de ações de iniciativa dos
+poderes públicos e da sociedade, destinadas a assegurar os direitos relativos à
+saúde, à previdência e à Assistência Social”. (BRAS IL,1988, Capítulo Il, Seção | Art.
+194). É necessário entender como funciona o Orçamento da Seguridade Social haja
+visto que esta pesquisa tem por objeto de estudo os gastos com a saúde, que está
+contida no mesmo. É estabelecido ainda que “os Orçamentos Fiscais e de
+investimentos das estatais, compatibilizados com o plano plurianual, terão entre
+suas funções a de reduzir as desigualdades inter-regionais, segundo critério
+populacional”. (BRASIL, 1988, Capítulo || Seção Il Artigo 165 87.º).
+
+Mendes (2010) salienta ainda que o Orçamento da Seguridade Social abrange todos
+os órgãos que possuem receitas e despesas relacionadas à mesma, e não apenas
+aqueles que são diretamente ligados à Seguridade como os hospitais ligados ao
+SUS por exemplo.
+
+A Constituição Federal de 1988, traz ainda em seu artigo 167, inciso Ill um princípio
+entre receitas e despesas, evitando então que sejam realizadas operações de
+créditos que excedam o montante das despesas de capital, exceto os créditos
+adicionais suplementares ou especiais que tenha sido aprovados por maioria
+absoluta pelo Poder Legislativo. Tal princípio ficou conhecido como a Regra de Ouro
+Constitucional.
+
+A exemplo do que ocorreu com a LDO, a LRF também faz referência à LOA, onde a
+mesma traz em seu art5.º:
+
+Ar5.º — O projeto de lei orçamentária anual, elaborado de forma
+compatível com o plano plurianual, com a lei de diretrizes orçamentárias e
+com as normas desta Lei Complementar:
+
+| — conterá, em anexo, demonstrativo da compatibilidade da programação
+dos orçamentos com os objetivos e metas constantes do documento de
+que trata o 81.º do art.4.º.
+
+Il — será acompanhado do documento a que se refere o $6.º do art. 165 da
+Constituição, bem como das medidas de compensação a renúncias
+obrigatórias de caráter continuado;
+
+Ill — conterá reserva de contingência, cuja forma de utilização e montante,
+definido com base na receita corrente líquida, serão estabelecidos na lei de
+diretrizes orçamentárias. (BRASIL, 2000, Lei de Responsabilidade Fiscal,
+Artigo 5.º)
+Mendes (2010) traz a reserva de contingência, como uma reserva monetária
+destinada ao atendimento de passivos contingentes e outros riscos fiscais. “A
+reserva de contingência tem por finalidade atender, além de abertura de créditos
+adicionais, perdas que, embora sejam previsíveis, são episódicas, contingentes ou
+eventuais”. (MENDES, 2010, p.39)
+
+Albuquerque (2008) nota ainda a presença na LRF de uma complementação à
+“Regra de Ouro Constitucional”, onde a versão da LRF trouxe em seu artigo 44 uma
+
+vedação relacionada às receitas originárias de Alienação de Bens.
+
+Assim como o PPA e a LDO, a LOA deve ter seu prazo e vigência estabelecidos em
+Lei Complementar, como versa o artigo 165 89.º da Constituição. Como a Lei
+Complementar em questão ainda não foi editada, os prazos e período de vigência da
+LOA também estão contidos nos Atos e Disposições Constitucionais Transitórias,
+onde ficou estabelecido, que a mesma tem periodicidade de um ano. A proposta
+deve ser entregue por parte do Executivo ao Legislativo para apreciação e
+aprovação até oito meses antes do fim do exercício financeiro, dia 31 de Agosto. ) á
+o Legislativo deve devolver para sanção do Presidente da República a proposta até
+o dia 22 de Dezembro, data esta em que se encerram as atividades no plenário.
+
+2.2.1.4Lei de Responsabilidade Fiscal (Lei Complementar
+101/2000)
+
+Com o constante aumento de gastos públicos no final da década de 90, fez-se
+necessário uma ação governamental com vias diminuir os déficits públicos. Foi
+editada então a Lei Complementar 101/2000 conhecida também como Lei de
+Responsabilidade Fiscal com o objetivo de “condicionar a ação dos governantes aos
+limites estritos de sua efetiva capacidade de gasto, de forma a prevenir déficits
+fiscais e o consequente descontrole das contas públicas” (ALBUQUERQUE, 2008,
+p.94).
+
+A Lei de Responsabilidade Fiscal regulamenta o previsto no artigo 163 da
+Constituição Federal de 1988, de forma que estabelece normas a serem seguidas
+nas finanças públicas brasileiras.
+
+A LRF abrange todos os poderes, inclusive o Ministério Público e o Tribunal de
+Contas, atuando também em todas as esferas do poder público, a saber, a União, os
+Estados, os Municípios e o Distrito Federal. Obedecem ainda a Lei os Órgãos da
+administração direta e as entidades da administração indireta, inclusive as empresas
+estatais dependentes.
+
+A referida lei estabeleceu principalmente limites para gastos — como a despesa com
+pessoal que no caso da União não pode ultrapassar o valor de 50% de sua receita
+corrente líquida, sendo 40,9% para o Poder Executivo, 6% para o J udiciário, 2,5%
+para o Legislativo e 0,6% para o Ministério Público — e a transparência política, que
+gerou obrigação por parte dos gestores públicos de elaborar relatórios periódicos
+(Relatório Resumido da Execução Orçamentária e Relatório da Gestão Fiscal).
+37
+
+2.2.2 Receita Pública
+
+O Manual Técnico de elaboração do Orçamento (2011) adota como conceito de
+receita pública, a receita em sentido estrito, que por definição tem-se que é a
+entrada que se integra ao patrimônio público sem reservas, condições ou
+correspondências no passivo, acrescendo elemento novo e positivo ao seu balanço
+(BALEEIRO, 1996). Conclui-se então que receita pública consista a fluxos realizados
+pelo poder público que resultem em aumento do Patrimônio Líquido.
+
+A receita pública pode ser classificada de diversas maneiras, conforme é
+estabelecido pelo Manual Técnico de elaboração do Orçamento (2011), alguns
+critérios são utilizados para esta classificação. Um destes critérios é a Classificação
+por Natureza da Receita, que “tendem a analisar o fator gerador que ocasionou o
+ingresso dos recursos aos cofres públicos” (MENDES, 2010, p.177). Esta
+classificação é dividida em níveis que visam convergir até a menor célula de fator
+gerador da entrada da receita.
+
+São estes os níveis: Categoria econômica, Origem, Espécie, Rubrica, Alínea e
+Subalínea, que são organizados segundo o quadro a seguir, onde cada letra
+representa um número utilizado na classificação da receita.
+
+ 
+
+ 
+
+X XY Z W TT KK
+Categoria Origem Espécie Rubrica Alínea Subalínea
+Econômica
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Quadro 2: Classificação através da natureza da receita
+Fonte: Mendes (2010).
+
+A Lei 4.320/64 estabeleceu em seu artigo 11 que o sistema classificatório das
+receitas deveria ser feito obedecendo a categoria econômica, estabelecendo então
+dois tipos de classificação: Receita Corrente e Receita de Capital.
+
+Por Receita Corrente é definido da seguinte forma pelo Manual de Receita Nacional
+
+São os ingressos de recursos financeiros oriundos das atividades
+operacionais, para aplicação em despesas correspondentes, também em
+atividades operacionais correntes ou de capital, visando o atingimento dos
+objetivos constantes dos programas e ações do governo. São
+denominadas de receitas correntes porque não tem suas origens em
+operações de crédito, amortização de empréstimos e financiamentos e/ou
+alienação de componentes do ativo permanente. (MINISTÉRIO DO
+PLANEJAMENTO ORÇAMENTO E GESTÃO, 2008, Manual de Receita
+Nacional)
+São consideradas Receita corrente as derivadas de: Receitas Tributárias, Receita de
+contribuições, Receita Patrimonial, Receita Agropecuária, Receita Industrial, Receita
+de Serviços, Transferências Correntes e Outras Receitas correntes.
+
+A lei ainda estabelece as Receitas de Capital, que de acordo com o Manual de
+Receita Nacional:
+
+São os ingressos de recursos financeiros oriundos de atividades
+operacionais ou não operacionais para aplicação em despesas
+operacionais, correntes ou de capital, visando ao atingimento dos objetivos
+traçados nos programas e ações do governo. São denominados receitas de
+capital porque são derivados da obtenção de recursos mediante a
+constituição de dívidas. (MINISTERIO DO PLANEJAMENTO
+ORÇAMENTO E GESTÃO, 2008, Manual de Receita Nacional)
+
+As receitas de capital são: Operações de Crédito, Alienação de Bens, Amortização
+de Empréstimos, Transferências de Capital e Outras Receitas de Capital.
+
+2.2.3 Despesa Pública
+
+Despesa Pública é definida como a aplicação de certa quantia em dinheiro realizada
+por autoridade pública, mediante prévia autorização legislativa, para execução de
+fim a cargo do governo (BALEEIRO, 1997).
+
+A despesa pública ganhou notória importância com a edição da Lei de
+Responsabilidade Fiscal, onde a mesma foi o principal foco, sendo estabelecido uma
+transparência, limitações de gastos entre outros fatores.
+
+O artigo 167 da Constituição Federal estabelece em seu inciso Il que “são vedados a
+realização de despesas ou a assunção de obrigações diretas que excedam os
+créditos orçamentários ou adicionais” (BRASIL, 1988 Capítulo Il Seção Il Artigo 167).
+
+Além desta previsão constitucional, a Lei Complementar 101/2000, a LRF, versa
+
+quanto à criação de novas despesas em seu artigo 16:
+Art.16. A criação, expansão ou aperfeiçoamento de ação governamental
+que acarrete aumento da despesa será acompanhada de:
+
+| — Estimativa do impacto orçamentário-financeiro no exercício em que
+deva entrar em vigor e nos dois subsequentes.
+39
+
+Il — declaração do ordenador da despesa de que o aumentotem adequação
+orçamentária e financeira com a lei orçamentária anual e compatibilidade
+com o plano plurianual e com a lei de diretrizes orçamentárias. (BRASIL,
+2000, Lei de Responsabilidade Fiscal, Artigo 16)
+Albuquerque (2008) afirma então que toda a legislação que cerca o Orçamento
+público brasileiro é objetivada para que toda despesa que se queira estabelecer seja
+antecedida de autorização legislativa, consignada formalmente em lei com vias a
+
+cumprir o princípio da legalidade.
+
+Assim como a Receita Pública, a despesa possui algumas classificações que
+segundo Albuquerque (2008) permitem que a despesa seja vizualizada por
+diferentes abordagens , de acordo com o objetivo que se deseja estudar.A estrutura
+brasileira baseia-se em quatro classificações, a saber: Classificação institucional —
+que agrupa as despesas de acordo com as instituições que estão aptas a realiza-las
+-, à Classificação Funcional — que classifica a despesa por “área” de investimento -,
+Classificação por natureza da despesa e a Classificação por fonte de recurso. No
+caso da análise deste trabalho considerar-se-á a classificação funcional.
+
+A Classificação Funcional da Despesa foi estabelecida pela Portaria 42 de 1999
+estabelecida pelo Ministério do Planejamento, Orçamento e Gestão que “ é
+composta por um rol de funções e subfunções prefixadas, que serve como
+agregador dos gastos públicos por área de ação governamental nas três esferas de
+Governo” (MENDES, 2010, p. 199). A Portaria 42 de 14 de Abril de 1999 traz em seu
+art. 4.º que “Nas leis orçamentárias e nos balanços, as ações serão identificaddas
+em termos de funções, subfunções, programas, projetos, atividades e operações
+
+especiais” (BRASIL, 1999, Portaria 42, Artigo 4º).
+
+O Manual Técnico do Orçamento (2011) destaca a classificação funcional como
+representada por cinco dígitos, se referindo os dois primeiros à função, que se refere
+ao um maior grau de agregação de áreas de atuação pública como a Saúde, e os
+três últimos dígitos que contém a Subfunção, que representa um maior nível de
+detalhamento em relação à função.
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.º 2.º 3 4.º 5.º
+
+ 
+
+Função Subfunção
+
+ 
+
+ 
+
+Quadro 3: Classificação da Despesa Funcional
+Fonte: Mendes (2010).
+2.3 Políticas de Saúde no Brasil
+
+O sistema de política de saúde do Brasil é conformado hoje pelo Sistema Único de
+Saúde (SUS), sistema este que é “orientado por um conjunto de princípios e
+diretrizes válidos para todo o território nacional, parte de uma concepção ampla do
+direito à saúde e do papel do Estado nesta garantia” (GIOVANELLA, 2008, p.435).
+
+O SUS foi implantado no início da década de 90 com a promulgação da Lei n.8.080,
+complementada pela lei n. 8.142 de dezembro de 1990.
+
+Marco inicial para a reformulação da saúde pública brasileira foi a 8º Conferência
+Nacional de Saúde, realizada em 1986, conforme apura Noronha(2008) foi
+considerada um marco para a transformação dos fóruns de discussão acerca da
+saúde, que como cita o autor, antes da citada conferência não traziam grandes
+mudanças, porém a 8º conferência foi fundamental para o processo de reforma do
+sistema de saúde brasileiro, a partir da Constituição Federal de 1988. Foi instituída
+então na Constituição de 1988 um capítulo acerca da Seguridade Social, que
+segundo o artigo 194 “compreende um conjunto integrado de ações de iniciativa dos
+poderes públicos e da sociedade, destinadas a assegurar os direitos relativos à
+saúde, previdência e assistência” (BRASIL, 1988, Capítulo Il, Seção |, Art 194).
+
+Para concretizar o processo de políticas de saúde no Brasil foi insituído então o SUS
+que, além de abranger toda a rede pública de saúde, pode recorrer aos serviços
+prestados pela iniciativa privada. “A participação complementar dos serviços
+privados deve ser realizada mediante o estabelecimento de contratos e convênios”
+(GIOVANELLA, 2008 p. 438). O SUS então como observado não é composto
+apenas por serviços públicos, mas é complementado pela rede privada onde
+hospitais, clínicas e unidades de terapia intensiva (UTI) são remuneradas com
+recursos públicos do Orçamento da Seguridade Social.
+
+José Carvalho de Noronha(2008) salienta os princípios que regem o SUS, trazendo
+que são eles:
+
+e Universalidade de acesso em todos os níveis de assistência, que significa que
+todos têm direito a acesso na rede pública de saúde, independente da
+complexidade, custos ou natureza dos serviços envolvidos.
+41
+
+Com a universalidade,as condições socioeconômicas da população e a
+inserção no mercado de trabalho não devem implicar acesso diferenciado a
+determinados tipos de serviços, pois os riscos de adoecimento e o
+financiamento passam a ser repartidos de forma solidária , sendo de
+responsabilidade de toda a sociedade.(GIOVANELLA, 2008, p. 439);
+
+A
+
+e Igualdade na Assistência à saúde, sem preconceitos ou privilégios de
+qualquer espécie. Este princípio reitera que todas as pessoas têm igual direito
+aos serviços de saúde, independentemente de classe social, renda;
+
+e Integralidade da assistência;
+
+e Participação da comunidade, é a garantia de que a população, intermediada
+por representantes, possa participar de um processo de estabelecimento de
+diretrizes, além da fiscalização do cumprimento dos dispositivos legais do
+SUS;
+
+e Descentralização, regionalização e hierarquização de ações e serviços de
+saúde.
+
+O Sistema Único de Saúde é administrativamente organizado através do seguinte
+Comissões
+intergestores
+Na 4 | Conselho Ministério da Comissão
+
+ciona Nacional Saúde Tripartite
+Mi
+Conasems
+Estadual Conselho Secretarias Comissão
+Estadual Estaduais Bipartite
+Municipal Conselho Secretarias
+Municipal Municipais
+
+Figura 2: Arcabouço institucional e decisório do SUS
+Fonte: SAS (2002).
+
+diagrama:
+
+     
+
+ 
+   
+   
+
+Representações
+de gestores
+
+Colegiado
+Participativo
+
+  
+
+   
+ 
+
+Confome apurou Ugá (2005) o modelo de financiamento brasileiro se assemelha ao
+estadunidense, onde a participação brasileira nos gastos com a saúde
+correspondem a apenas 44% dos gastos totais com a saúde no Brasil segundo
+dados levantados em 2002 acerca do financiamento da saúde pública no Brasil.
+
+Gasto em Saúde
+
+R$ em milhões
+
+ 
+
+ 
+
+Gasto público total
+
+Gasto público — Planos e
+
+seguros de saúde
+
+Gasto privado direto das
+
+famílias
+
+GASTO TOTAL
+
+50.473,5
+25.063,1
+
+39.778,5
+
+115.315,1
+
+ 
+
+Tabela 1: Composição do gasto em saúde. Brasil — 2002
+
+Fonte: Ugá & Santos (2005).
+
+A saúde pública brasileira é financiada pelo Orçamento da Seguridade Social, onde
+
+segundo Ugá(2005) é dividido conforme o seguinte quadro:
+
+ 
+
+Fontes
+
+Vinculação
+
+ 
+
+Contribuição sobre folhas de Salários
+(paga por empresas e trabalhadores)
+
+A partir de 1993, foi
+previdência social.
+
+vinculada à
+
+ 
+
+Contribuição para o Financiamento da
+Seguridade Social (COFINS)
+
+Não
+
+ 
+
+Contribuição sobre o Lucro Líquido
+(CSLL)
+
+Não
+
+ 
+
+PIS/Pasep
+
+Vinculada ao seguro-desemprego
+
+ 
+
+Impostos gerais da União
+
+ 
+
+Foi previsto o ingresso dos recursos que
+se fizessem necessários, provenientes
+dessa fonte; entretanto, sua participação
+no OSS é irrisória
+
+ 
+
+Quadro 4: Composição do Orçamento da Seguridade Social
+
+Fonte: Giovanella (2008)
+A Lei Complementar que rege os recursos da Seguridade Social estabelece ainda
+que 30% de todos os recursos do Orçamento da Seguridade Social devem ser
+destinados ao SUS.
+3 MÉTODOS E TÉCNICAS DE PESQUISA
+
+Este capítulo visa apresentar os aspectos relacionados ao método de realização da
+pesquisa, desenvolvida a partir da problemática a ser discutida neste projeto,
+expondo então o tipo e a descrição geral da pesquisa; a caracterização da área da
+saúde; a população; a caracterização dos instrumentos de pesquisa e por fim os
+procedimentos de coleta e de analise de dados.
+
+3.1 Tipo e descrição geral da pesquisa
+
+O tipo de pesquisa a ser utilizada neste trabalho é classificada como sendo de
+abordagem quantitativa, que segundo Gil (1991) considera tudo aquilo que pode ser
+quantificado em valores, ou seja, a possibilidade de traduzir em números opiniões e
+informações de forma a classificá-los. Pesquisa quantitativa pode ainda ser definida
+como sendo:
+
+Um meio para testar teorias objetivas, examinando a relação entre as
+variáveis. Tais variáveis, por sua vez, podem ser medidas tipicamente por
+instrumentos, para que os dados numéricos possam ser analisados por
+procedimentos estatísticos (CRESWELL, 2010, p.26).
+
+A Pesquisa terá por caráter finalístico ser descritiva, que, segundo Gil (1991)
+
+Tem como objetivo primordial a descrição das características de
+determinada população ou fenômeno ou, então o estabelecimento de
+relações entre as variáveis.[...]
+
+Dentre as pesquisas descritivas, salientam-se aquelas que tem por objetivo
+estudar as características de um grupo: sua distribuição por idade, sexo,
+procedência, nível de escolaridade, estado de saúde física e mental etc.
+Outras pesquisas deste tipo são as que se propõem a estudar o nível de
+atendimento dos órgãos públicos de uma comunidade, as condições de
+habitação de seus habitantes, o índice de criminalidade que aí se registra,
+etc. (GIL, 1991, p.46)
+Vieira (2002) concorda com a assertiva de que as pesquisas descritivas interessam-
+se pelas relações entre variáveis de forma que as mesmas vêm a expor
+características de determinada população ou fenômeno, porém têm a
+responsabilidade de explicar os fenômenos que descreve, ainda que os mesmos
+
+sirvam como base para tal explicação.
+
+Malhotra (2001) destaca a pesquisa descritiva com o objetivo de conhecer e
+45
+
+interpretar a realidade, observando e descrevendo fenômenos, sem interferência
+alguma por meio do pesquisador para não interferir na realidade observada.
+
+Quanto aos meios, a investigação será feita através de levantamento de banco de
+dados secundários, e análise documental.
+
+Levantamento por sua vez “apresenta uma descrição quantitativa ou numérica de
+tendências, atitudes ou opiniões de uma população, estudando-se uma amostra
+dessa população” (CRESWELL, 2010, p.178). Gil (1991) salienta a importância de
+que o levantamento seja feito em harmonia com os objetivos do projeto, onde os
+mesmos têm por objetivo guiar a execução do projeto até seus resultados. O
+
+levantamento é composto por varias ferramentas, dentre elas a coleta de dados
+secundários e a análise documental.
+
+A coleta de dados secundários é uma ferramenta que tem por objetivo encontrar
+informações que já tenham sido tabuladas e analisadas com o objetivo de
+complementar as investigações que se almeja. Tais informações são coletadas em
+bancos de dados, onde os mais utilizados atualmente são os bancos de dados
+online. Exemplos são o IBGE, Sistema SIGA Brasil, IPEA, entre outros.
+
+3.2 Caracterização da organização, setor ou área
+
+A Saúde Pública Brasileira é organizada basicamente pelo Ministério da Saúde —
+que é o Órgão do Poder Executivo responsável pela organização das políticas
+públicas voltadas à saúde dos brasileiros — e o Sistema Único de Saúde (SUS) —
+que corresponde ao sistema de saúde pública vinculado ao Ministério da Saúde que
+abrange desde o simples atendimento ambulatorial, até o transplante de órgãos no
+Brasil. O SUS tem entre seus princípios a garantia do acesso integral, universal e
+gratuito para toda a população do país.
+
+Z
+
+O SUS não é composto apenas pela rede pública de saúde, mas também é
+complementado, quando necessário, pela rede privada. As fontes de recursos para o
+SUS foram regulamentados pela Emenda Constitucional nº 29 de 2000 que
+estabeleceu que a união deveria destinar à saúde, no ano de 2000, 5% a mais do
+valor destinado em 1999, e que o valor deveria ser corrigido nos próximos quatro
+anos seguindo o crescimento do PIB.
+
+Segundo pesquisa realizada pelo IBGE (2010) o número de leitos na rede pública de
+saúde é corresponde à 152.892 leitos em 2009. O número de médicos por habitante
+segundo levantamento feito pelo Conselho Federal de Medicina (CFM) (2009) é de 1
+profissional para cada 578 habitantes.
+
+3.3 População e amostra
+
+A população consiste em toda a série temporal dos Orçamentos coletados no
+Sistema SIGA do Senado, onde a amostra se restringe aos dados do ano 2000 ao
+ano 2010 concernentes à Seguridade Social segundo o Artigo 194 (Saúde,
+Assistência Social e Previdência).
+
+Serão ainda analisados dados do Instituto Brasileiro de Geografia e Estatística
+(IBGE) em toda a série temporal, onde a amostra se restringe aos dados coletados
+entre o ano 2000 e o ano de 2010 relativos à índices sociais e demográficos.
+
+3.4 Caracterização dos instrumentos de pesquisa
+
+O projeto consistirá primeiramente em uma coleta de dados secundários utilizando-
+se dos bancos de dados online do IBGE e do Sistema SIGA do Senado, onde são
+encontradas informações acerca de estatísticas e censos populacionais e dos
+orçamentos da união, sendo verificado então as relações entre variáveis com o
+objetivo de analisar a evolução do gasto ao longo do período de dez anos. Foram
+desenvolvidas então as seguintes relações para análise dos dados coletados:
+
+V =Gastos anuais com saúde
+PIB anual
+
+Onde “V” corresponde ao volume de gastos com a saúde. Os gastos anuais com a
+saúde serão obtidos através do sistema SIGA onde serão coletados dados relativos
+aos anos entre 2000 e 2010. O PIB anual será coletado no banco de dados do
+IBGE.
+
+A Segunda relação visa encontrar a evolução do volume de gastos sob perspectiva
+populacional, a nível estadual, onde será possível comparar ,através do indicador
+gerado, o volume de gastos por pessoa ao longo do tempo e o mesmo volume entre
+as Unidades da Federação (Ufs).Tal volume será obtido da seguinte maneira:
+47
+
+Vp = Gastos anuais com saúde por Unidade da Federação
+
+ 
+
+População por Unidade da Federação
+
+3.5 Procedimentos de coleta e de análise de dados
+
+A coleta e análise de dados é feita em duas etapas. Um levantamento em banco de
+dados e uma breve análise documental.
+
+O Levantamento de banco de dados constituirá em análise de dados referentes ao
+sistema SIGA do Senado Federal, que consiste em um sistema online de
+informações acerca do orçamento público anual. O Sistema SIGA permite acesso
+amplo e facilitado ao Sistema Integrado de Administração Financeira do Governo
+Federal (SIAFI) implementado em 1987 com objetivo de suprir o Governo Federal de
+um instrumento mais moderno para a realização de controle, ou para o simples
+acompanhamento dos gastos públicos anuais. O Sistema SIGA possibilita a
+visualização dos gastos públicos de várias perspectivas diferentes. Será utilizada
+então a perspectiva funcional, onde serão analisados os gastos com as áreas da
+Saúde, Assistência Social e Previdência Social no período 2002 - 2010.
+
+Também será utilizado um levantamento de dados feito a partir do banco de dados
+online do Instituto Brasileiro de Geografia e Estatística (IBGE) onde serão coletados
+dados relativos à populacão, como por exemplo o o contingente populacional por
+Unidade da Federação (UF) e o PIB.
+
+Para cumprimento dos objetivos será estabelecida uma relação entre os gastos com
+a saúde por Unidade da Federação (UF) sobre a população por UF, obtendo então
+um indicador relativo ao gasto em saúde por habitante em cada uma das UFs do
+Brasil. Será possível então estabelecer um comparativo ao longo do tempo entre a
+evolução dos gastos com saúde por UF e um comparativo entre os valores atuais de
+cada UF.
+
+A evolução do volume dos gastos públicos com a saúde no país ao longo da década
+será estabelecida pela relação entre os gastos com a função orçamentária saúde e o
+PIB brasileiro anual, onde será observado se os valores do resultado aumentam ou
+diminuem.
+
+Também serão coletados ainda no Sistema SIGA os dados relativos à Seguridade
+Social (Saúde, Previdência e Assistência Social) ao longo do período 2000 — 2010,
+onde será estabelecida uma comparação acerca da evolução, dos valores em Reais,
+das três áreas concernentes à Seguridade Social.
+49
+
+4 RESULTADOS E DISCUSSÃO
+
+Neste capítulo serão apresentadas a análise e discussão dos dados obtidos através
+dos Bancos de dados online do Sistema SIGA do Senado Federal e do Instituto
+Brasileiro de Geografia e Estatística (IBGE). Tal análise terá como base os objetivos
+propostos para a pesquisa, que são identificar a evolução do gasto com a Saúde
+Pública no Brasil ao longo da última década (considerando o período 2002-2010),
+analisar a evolução do volume de gastos na saúde em relação ao contingente
+populacional a nível regional e federal e comparar o volume de gastos na saúde em
+relação às demais funções orçamentárias concernentes à Seguridade Social.
+
+A apresentação dos dados coletados e suas devidas análises iniciará através da
+evolução do gasto público concernente à função saúde da classificação funcional da
+despesa pública federal, seguido pela análise da evolução dos gastos na saúde a
+nível regional e encerrando com uma comparação acerca do volume dos gastos com
+a função saúde e evolução dos mesmos quando relacionados às demais funções
+dissidentes do Orçamento da Seguridade Social (Assistência Social e Previdência
+Social).
+
+Os dados utilizados para fim desta pesquisa foram dados dos tipos nominais,
+desconsiderando então inflação entre outros fatores que influenciam nos valores
+reais, valores estes relativos aos gastos com as funções e o valor do PIB. Os valores
+nominais foram utilizados devido à baixa variação dos valores inflacionários, o que,
+para fim desta pesquisa, não apresentaria resultados tão discrepantes aos reais,
+como ocorreria caso a inflação estivesse alta.
+
+4.1 Evolução do Gasto Público com a Função Saúde
+
+Seguindo os objetivos propostos para a pesquisa, foi feita uma pesquisa no banco
+de dados do Sistema SIGA do Senado acerca dos orçamentos anuais concementes
+à Função Saúde quando adotado o modelo de classificação funcional da despesa,
+onde foram considerados para fim de análise os valores liquidados, que são por
+
+definição “a verificação do direito adquirido pelo credor, tendo por base os títulos e
+documentos comprobatórios do respectivo crédito, comprovando que o credor
+cumpriu todas as obrigações constantes no empenho” (PORTAL SIAFI — Execução
+Orçamentária). Com base no Banco de Dados do IBGE, foram obtidos valores
+relacionados às perspectivas demográficas, como por exemplo a variação
+populacional acerca dos anos propostos, além da evolução do Produto Interno Bruto
+(PIB) com a finalidade de avaliar a evolução também das relações propostas, como
+
+a evolução do gasto com a saúde per capita, obtido através da divisão entre o gasto
+
+ 
+
+ 
+
+total com a saúde pública no Brasil pela população residente no mesmo; ea
+evolução do percentual gasto do PIB com a função Saúde.
+Ano Valor Corrente do Crescimento | PIB (Em | Crescimento | Percentual
+Liquidado com a do valor Trilhões do PIB (em | gasto com a
+Função Saúde liquidado de Reais) relação a Função
+com a Saúde 2002) Saúde em
+(em relação relação ao
+à 2002) PIB anual
+2002 | R$ 25.434.639.563,64 - 1,477.822 - 1,721%
+2003 | R$ 27.171.848.048,14 6,83% 1,699.648 15,01% 1,598%
+2004 | R$ 32.972.885.890,47 29,64% 1,941.498 31,38% 1,698%
+2005 | R$ 36.483.267.398,38 43,44% 2,147.943 45,35% 1,675%
+2006 | R$ 40.577.223.418,98 59,54% 2,322.818 57,18% 1,746%
+2007 | R$ 45.713.130.597,68 79,73% 2,562.300 73,38% 1,784%
+2008 | R$ 50.138.481.514,54 97,13% 2,889.719 95,54% 1,735%
+2009 | R$ 58.148.973.462,62 128,62% 3,140.000 112,47% 1,851%
+2010 | R$ 61.873.700.098,05 143,27% 3,500.000 136,84% 1,767%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabela 2 — Evolução dos Gastos Públicos com a Saúde
+Fonte: Elaborado pelo autor com base no Sistema SIGA Senado e IBGE.
+
+Analisando os valores correntes apresentados pelo liquidado com a função saúde,
+tem-se a idéia de que o gasto com a mesma cresceu de maneira considerável,
+chegando a um valor 143,27% maior no final da década em relação à 2002, ano do
+início da análise. Tal crescimento nos gastos em muito se explica devido à evolução
+dos valores do PIB, que cresceram quase que na mesma proporção, como pode-se
+observar na relação Gasto com a saúde/PIB anual apresentada no Gráfico 1,
+construído com a finalidade de transparecer o crescimento do PIB e dos gastos com
+a saúde de forma comparativa a fim de mostrar a proporcionalidade existente em tal
+51
+
+evolução.
+
+Através do gráfico 1 é possível enxergar a evolução dos gastos com a função saúde
+e o crescimento do PIB, onde pode-se notar que os mesmos seguem uma linha
+quase que proporcional, tendo uma leve vantagem no final para o gasto com saúde,
+o que demonstra que de fato o governo pouco aumentou os investimentos para com
+a saúde, onde o crescimento da mesma explica-se basicamente pela evolução da
+economia brasileira nos últimos anos. Os valores relacionados ao gasto com a
+função saúde cresceram 143,27% quando se tendo 2002 como ano base e 2010
+como ano final da análise, enquanto o PIB cresceu 136,84% no mesmo
+período.
+
+O percentual do PIB que é gasto com a Saúde é muito alto no Brasil, quando se
+considerado os valores apresentados por outros países como os Estados Unidos e
+os países europeus segundo Giovanella (2008). Tal fato se explica, segundo a
+autora, devido o financiamento, que nos demais países, é principamente de origem
+particular, sendo os investimentos públicos mínimos na área. Nos Estados Unidos
+por exemplo, o percentual médio do PIB que é gasto com a função saúde é de 0,4%,
+enquanto a saúde é mais de 60% financiada com recursos privados, entre gastos
+particulares e planos de saúde.
+
+ 
+
+160
+
+ 
+
+140
+120
+100
+80
+60
+
+ 
+
+40
+
+ 
+
+20
+
+ 
+
+0 E
+2002 2003 2004 2005 2006 2007 2008 2009 2010
+
+=== Liquidado Função Saúde  =H-PIB
+
+ 
+
+ 
+
+ 
+
+Gráfico 1 Taxa de evolução dos Gastos Públicos com a Saúde em relação à taxa de
+crescimento do PIB (em %).
+Fonte: Elaborado pelo autor com base no Sistema SIGA Senado e IBGE.
+
+Segundo o IBGE, o aumento dos valores correntes do PIB se deve ao fortalecimento
+da indústria brasileira na última década, além do ritmo acelerado de crescimento da
+52
+
+economia que chegou a atingir valores próximos a 7% em um ano. Ainda segundo
+informações do IBGE, o grande responsável pelo maior crescimento do PIB das
+últimas décadas, deu-se pela demanda interna com o consumo das famílias, fator
+este originado através da diminuição da taxa de desemprego no país - que no início
+da década registrava índice de 12,3% e em 2010 foi registrada uma queda para
+8,1% - que correspondeu a cerca de 60% do PIB no ano de 2010. Outro fator
+determinante para o crescimento do PIB brasileiro foi a valorização da moeda Real
+perante às moedas estrangeiras, principalmente o Dolar, que no início da década
+chegou a registrar valores próximos a R$ 4,00 no ano de 2004, fechou a década
+com valor médio de R$ 1,75. Ainda se tratando do crescimento do PIB, segundo o
+IBGE o aumento nas taxas de investimentos, foram fundamentais, uma vez que
+chegaram a atingir o valor de 18,4%, fator este explicado devido as altas na indústria
+e as quedas nas taxas de desemprego, que representaram em 2010 as mais baixas
+da década.
+
+O Crescimento do PIB pode ser melhor observado no gráfico 2 que representa a
+evolução do valor do PIB ao longo dos anos estudados.
+
+ 
+
+ 
+
+A
+
+3,5
+
+3 E
+
+ 
+
+2,5 +
+
+2
+
+15
+
+ 
+
+1
+
+0,5 +
+
+ 
+
+0 T :
+2002 2003 2004 2005 2006 2007 2008 2009 2010
+
+ 
+
+ 
+
+ 
+
+Gráfico 2 - Evolução do PIB brasileiro. (Em R$ Trilhões)
+Fonte: Elaborado pelo autor com base nos dados IBGE (2010).
+
+Tendo em vista o gasto com a saúde relacionado às perspectivas de crescimento
+populacional tem-se uma considerável crescente, visto que a população evoluiu em
+um ritmo mais desacelerado em relação aos gastos com a saúde, tendo então uma
+grande evolução no gasto com saúde per capita, obtido através da divisão do gasto
+liquidado com a função saúde e a população total residente nos anos estudados,
+sendo então o gasto do governo por pessoa com a dada função.
+O Gráfico 3 a seguir mostra a evolução da população brasileira em número de
+habitantes, enquanto o Gráfico 4 mostra a evolução percentual do crescimento
+populacional nos anos citados e do gasto com a Saúde pública.
+
+ 
+
+ 
+
+195000000
+
+190000000
+
+185000000 +;
+
+180000000
+
+ 
+
+175000000 +;
+
+ 
+
+170000000 +-
+
+165000000 T
+2002 2003 2004 2005 2006 2007 2008 2009 2010
+
+ 
+
+ 
+
+ 
+
+Gráfico 3 - Taxa de evolução Populacional brasileira na década.(Em número de hab.)
+Fonte: Elaborado pelo autor com base em IBGE (2010).
+
+A evolução populacional brasileira vem decrescendo em relação ao crescimento
+apresentado nas décadas anteriores, porém vem seguindo as tendências
+internacionais, onde o número de filhos por mulher tem diminuido significativamente
+com o passar dos anos. A taxa de fertilidade no Brasil chegou a atingir média de 6,1
+filhos por mulher na década de 1960 e com o passar dos anos alcançou em 2009
+valores próximos a 1,8 filho por mulher segundo dados do Banco Mundial nos
+indicadores de desenvolvimento mundial.
+
+O Número de Habitantes no Brasil no período de 2002 a 2010 aumentou em
+16.099.734 habitantes, valor este equivalente a um crescimento de 9,22% em
+relação ao valor apresentado no ano de 2002 segundo dados do IBGE.
+ 
+
+ 
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+ 
+
+40
+
+20
+
+ 
+
+2002 2003 2004 2005 2006 2007 2008 2009 2010
+
+4 População  =l=Gasto com Saúde
+
+ 
+
+ 
+
+ 
+
+Gráfico 4 — Taxa de evolução do gasto público com saúde comparado ao crescimento
+Populacional (Em %).
+Fonte: Elaborado pelo autor com base em Sistema SIGA Senado e IBGE.
+
+O Gráfico 4 traz o percentual do crescimento do volume corrente de gastos com a
+função saúde no Brasil e o percentual de crescimento da população brasileira dos
+anos de 2002 a 2010 com o objetivo de se observar e comparar os crescimentos de
+ambos.
+
+Segundo o observado no Gráfico 4, o crescimento populacional foi muito menor que
+o crescimento apresentado pelos valores dos gastos com a saúde no Brasil, nota-se
+portanto que o gasto com saúde por pessoa tende a ser muito maior com o passar
+dos anos, como aponta a tabela 3 que mostra em valores o crescimento
+populacional brasileiro, a evolução dos valores correntes liquidados com a função
+saúde e o gasto per capita com a devida função.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(Continua) .
+Ano Valor Corrente do População Gasto com
+Liquidado com a Função Brasileira saúde per
+Saúde capita
+2002 R$ 25.434.639.563,64 174.632.960 R$ 145,65
+2003 R$ 27.171.848.048,14 176.871.437 R$ 153,62
+2004 R$ 32.972.885.890,47 181.586.030 R$ 181,58
+2005 R$ 36.483.267.398,38 184.184.264 R$ 198,08
+2006 R$ 40.577.223.418,98 186.770.560 R$ 217,26
+
+ 
+
+Tabela 3- Evolução do Gasto Público com a Saúde sob perspectiva populacional
+(Conclusão)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ano Valor Corrente do População Gasto com
+Liquidado com a Função Brasileira saúde per
+
+Saúde capita
+2007 R$ 45.713.130.597,68 189.335.191 R$ 241,44
+2008 R$ 50.138.481.514,54 189.612.814 R$ 264,42
+2009 R$ 58.148.973.462,62 191.480.630 R$ 303,68
+2010 R$ 61.873.700.098,05 190.732.694 R$ 324,40
+
+ 
+
+Tabela 3 — Evolução do gasto público com a saúde sob perspectiva populacional
+Fonte: Elaborado pelo autor com base em Sistema SIGA Senado e IBGE.
+
+Os valores do Gasto per Capita com a função saúde representam o quanto o
+governo gasta por pessoa em determinada função, onde não existe distinção entre
+os que utilizam ou não o serviço público de saúde, de classes sociais, sexo, idade,
+ou outras distinções de qualquer que seja a forma.
+
+ 
+
+350
+
+ 
+
+300
+
+ 
+
+250
+
+ 
+
+200
+
+ 
+
+150
+
+ 
+
+ 
+
+100
+
+ 
+
+50
+
+ 
+
+ 
+
+ 
+
+2002 2003 2004 2005 2006 2007 2008 2009 2010
+
+ 
+
+ 
+
+ 
+
+Gráfico 5 — Gasto com Saúde per Capita (Em R$)
+Fonte: Elaborado pelo autor
+
+O valor do gasto por pessoa com a saúde, como observado no Gráfico 5 aumentou
+consideravelmente, chegando a apresentar valores 2,2 vezes maiores que os
+apresentados no início da análise, onde em 2010 foram gastos R$ 324,40 por
+pessoa no Brasil.
+
+O aumento do valor do gasto por pessoa na função saúde aliado às técnicas cada
+vez mais avançadas de tecnologia dentro da área são os principais fatores
+responsáveis pelos índices favoráveis apresentados na saúde na última década,
+como por exemplo a mortalidade infantil que já chegou a gerar índices de 5% no
+início da década de 1990 e que caiu para 2% no final do ano de 2009 conforme
+apurou o IBGE, ou a expectativa de vida do brasileiro ao nascer que alcançou o
+valor de 73,1 anos segundo dados do mesmo contra os 67,2 apresentados em 2002.
+Ainda de acordo com o IBGE, o Brasil apresentou uma população mais idosa do que
+no ano de 2002 a saber que passou de 30,5% da população total como sendo de
+idosos em 2002 para 37,9% em 2010.
+
+Se tratando diretamente da área saúde, o número de leitos hospitalares conveniados
+ao Sistema Único de Saúde (SUS) que segundo Teixeira e Teixeira (2003) era de
+2,87 para cada 1000 habitantes em 2000 caiu para 2,3 leitos para cada 1000
+habitantes em 2010 como revela pesquisa do IBGE, valor este inferior ao
+considerado parâmetro preconizado pelo Ministério da Saúde entre 2,5 e 3. Segundo
+dados do IBGE, o número de consultas médicas por habitante passou de 2,25 em
+2000 para 2,59 em 2008, valor este muito inferior ao valor apresentado pelo
+crescimento percentual do gasto com saúde ao longo da década, ou da evolução do
+gasto per capita com a área da saúde. O Número de médicos por 1000 habitantes
+passou de 1,39 em 2000 para 1,8 em 2010.
+
+4.2 Evolução do gasto público a nível regional
+
+Foi realizado um estudo a partir da coleta de dados no Sistema SIGA do Senado
+Federal onde calculou-se o valor relativo aos gastos com a saúde a nível regional
+através da soma dos valores estaduais, uma vez que o sistema não fomece dados
+regionais e sim por Unidades da Federação. Os dados relativos aos PIBs regionais e
+contingentes populacionais foram coletados no banco de dados do IBGE com o
+objetivo de analisar a evolução dos gastos, comparar os resultados entre as regiões
+e por fim, comparar os mesmos aos valores nacionais.
+
+Foram utilizados 3 anos base para o estudo (2002, 2005 e 2008) devido o fato de a
+última publicação acerca do PIB regional fornecido pelo IBGE ter sido feita em 2008
+e o ano de início das pesquisas ser 2002.
+57
+
+4.2.1 Região Sudeste
+
+A Região Sudeste, composta por São Paulo, Rio de J aneiro, Espírito Santo e Minas
+Gerais é conhecida como sendo o polo econômico do Brasil concentrando as duas
+maiores economias do país (Rio de J aneiro e São Paulo), possui a maior população
+
+ 
+
+ 
+
+e conforme ilustrado na tabela 4 a seguir apresentou o maior volume de gastos com
+a saúde entre todas as regiões brasileiras.
+Ano Valor corrente do | PIB Regional | População | Percentual Gasto
+gasto coma Saúde | (em R$mil) | Regional | gasto com a com
+(hab.) saúde em | Saúde per
+relação ao Capita
+PIB regional
+2002 R$ 8.064.654.048 837.925.074 | 75.190.313 0,96% R$ 107,26
+2005 | R$ 11.762.478.553 | 1.213.587.795 | 78.472.017 0,97% R$ 149,89
+2008 | R$ 15.882.953.474 | 1.698.590.000 | 80.187.717 0,93% R$ 198,07
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabela 4 — Evolução do gasto público com saúde na região sudeste.
+Fonte: Elaborado pelo autor com base no Sistema SIGA do Senado e IBGE.
+
+Conforme o observado na tabela 4, o valor do gasto com a saúde seguiu a
+perspectiva de crescimento nacional, apresentando um valor 96,95% maior ao final
+do período estudado, enquanto o PIB apresentou um crescimento de 102,71% em
+relação ao ano base de 2002. O percentual do PIB da região sudeste que é gasto
+com a saúde no entanto é menor que o percentual nacional, e a exemplo do que
+acontece na média nacional, na região sudeste, tal percentual quase não se altera
+ao longo do tempo, fator este que demonstra, a exemplo do que ocorre na medida
+nacional, que o crescimento do valor do gasto com a saúde vem sendo quase
+proporcional ao crescimento do PIB.
+
+Tendo em vista a perspectiva populacional, a região sudeste apresentou um
+crescimento populacional inferior à média de crescimento percentual anual, onde no
+período de 2002 a 2008 o crescimento populacional da região sudeste foi de 6,65%
+enquanto a média de crescimento nacional foi de 8,58%. O gasto per capita da
+região também apresentou valores inferiores aos nacionais, porém os valores
+evoluiram em relação ao ano de 2002, uma vez que os gastos com a saúde
+obtiveram resultados mais expressivos que os crescimentos populacionais.
+4.2.2 Região Nordeste
+
+A região nordeste é a região brasileira que contem o maior número de estados,
+nove, são eles Alagoas, Bahia, Ceará, Maranhão, Paraíba, Pernambuco, Piauí, Rio
+Grande do norte e Sergipe. De acordo com o observado na tabela 5, a região
+nordeste apresentou os segundos maiores gastos com a saúde entre as regiões
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+brasileiras.
+Ano Valor corrente do PIB População Percentual Gasto com
+gasto com a saúde Regional Regional gasto com a Saúde per
+(em R$ mil) (hab.) Saúde em Capita
+relação ao PIB
+regional
+2002 R$ 4.648.779.529 | 192.116.860 | 49.241.450 2,42% R$ 94,41
+2005 R$ 6.685.532.235 | 281.380.533 | 51.019.091 2,31% R$ 131,04
+2008 R$ 9.878.743.774 | 397.503.000 | 53.088.499 2,48% R$ 186,08
+
+ 
+
+Tabela 5 — Evolução do gasto público com saúde na região nordeste.
+Fonte: Elaborado pelo autor com base no Sistema SIGA do Senado e IBGE.
+
+Conforme o observado na tabela 5, o valor do gasto com a saúde segue a tendência
+nacional e de todas as outras regiões, crescendo 112,50% em relação ao ano de
+2002, valor este maior que o crescimento nacional para o mesmo período que foi de
+97,13%. O crescimento do PIB da região nordeste foi de 106,9% entre o período de
+2002 a 2008, valor este também superior ao crescimento nacional, mostrando a
+evolução da região nordeste e o crescimento perante o cenário nacional. O
+percentual do PIB nordestino gasto com a saúde seguiu a tendência nacional, onde
+o mesmo pouco se altera, mostrando que o PIB e o valor do gasto com saúde
+crescem na região de maneira quase proporcional semelhante ao que ocorre com a
+média nacional.
+
+Quando se analisando o contingente populacional, a evolução nordestina consiste
+em um crescimento de 7,81% em relação ao ano de 2002, média esta menor que a
+média de crescimento nacional que é de 8,58% no mesmo período. O gasto per
+capita na região nordeste apresentou um crescimento considerável, quase que
+dobrando o valor gasto com saúde por pessoa, porém o valor, a exemplo do
+59
+
+apresentado pela região sudeste, foi inferior ao apresentado pelos índices nacionais.
+
+4.2.3 Região Sul
+
+A região Sul é composta por três estados, Rio Grande do Sul, Paraná e Santa
+Catarina. Forma junto à região Sudeste e parte do Centro-Oeste o bloco econômico
+de maior representatividade no Brasil, o Centro-Sul. Conforme é possível observar
+na tabela 6, a região Sul apresentou os terceiros maiores resultados em gastos com
+a saúde no Brasil, possuindo valores menores que os apresentados na região
+Sudeste e na região Nordeste.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ano | Valor corrente do PIB População | Percentual gasto Gasto
+gasto coma Saúde | Regional Regional | com a saúde em com
+(em R$ mil) (hab.) relação ao PIB Saúde per
+regional Capita
+2002 | R$2.870.081.815 | 249.751.918 | 25.962.999 1,15% R$ 110,55
+2005 | R$4.098.585.755 | 356.558.538 | 26.973.511 1,15% R$ 181,61
+2008 | R$ 5.690.215.114 | 502.052.000 | 27.497.970 1,13% R$ 206,93
+
+ 
+
+Tabela 6 — Evolução do gasto público com a saúde na região Sul
+Fonte: Elaborado pelo autor com base no Sistema SIGA Senado e IBGE
+
+Segundo os valores apresentados na tabela 6, os valores gastos com a saúde na
+região Sul apresentaram um crescimento de 98,26%, valor muito próximo ao
+apresentado como média de crescimento com o gasto a nível nacional que foi de
+97,13% no mesmo período. O PIB da região Sul, assim como a tendência nacional,
+apresentou aumento de 101,02%, mantendo o percentual gasto com a saúde em
+relação ao PIB regional quase inalterado, sinal este de que o PIB e o volume de
+gastos com a saúde cresceram de maneira quase proporcional, assim como ocorreu
+com as demais regiões brasileiras. O percentual do PIB gasto com a saúde na
+região sul doi o que menos sofreu alterações, mantendo-se quase que estático com
+o passar dos anos analisados.
+
+Analisando a perspectiva populacional da região Sul, a mesma foi a que apresentou
+o menor crescimento populacional entre as regiões brasileiras, com um aumento
+registrado em aproximadamente 5,91%, enquanto a média de crescimento nacional
+foi de 8,58%. Em compensação, o gasto com a saúde per capita apresentado pela
+região sul foram os maiores valores registrados entre as regiões no Brasil, com o
+valor final apresentado em 2008 de R$ 206,93, a única dentre as regiões que
+superou o valor do gasto com saúde de R$ 200,00 por pessoa no Brasil.
+
+4.2.4 Região Centro-Oeste
+
+A região Centro-oeste, é composta por três estados, Goiás, Mato Grosso e Mato
+Grosso do Sule ainda pelo Distrito Federal, onde fica Brasília, a capital do Brasil. Os
+valores apresentados em relação aos gastos com a saúde foram os segundos
+
+ 
+
+ 
+
+menores, perdendo apenas para a região Norte. A tabela 7 mostra tais valores e as
+evoluções no decorrer dos anos estudados.
+Ano Valor corrente do PIB População Percentual Gasto
+gasto coma saúde | Regional Regional gasto com a com
+(em R$ mil) (hab.) Saúde em Saúde per
+relação ao PIB Capita
+regional
+2002 R$ 1.203.211.912 | 130.048.336 | 12.271.213 0,93% R$ 98,05
+2005 R$ 1.702.408.980 | 191.166.927 | 13.020.767 0,89% R$ 130,75
+2008 R$ 2.452.499.468 | 279.015.000 | 13.695.944 0,88% R$ 179,07
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabela 7 — Evolução do gasto público com a saúde na região Centro-Oeste.
+Fonte: Elaborado pelo autor com base no Sistema SIGA Senado e IBGE.
+
+De acordo os valores apresentados na tabela 7 é possível observar o crescimento
+no gasto com a saúde, crescimento este equivalente à 103,83%, enquanto o valor
+do PIB regional teve um crescimento de 114,55%. Como as demais regiões
+brasileiras, a região Centro-Oeste apresentou uma variação quase que mínima no
+percentual do PIB regional que é gasto com a saúde, mostrando que assim como
+nas demais regiões, o valor do gasto com a saúde aumentou quase que
+proporcionalmente ao valor do crescimento do PIB regional.
+
+Em se tratando de perspectivas populacionais, a região Centro-Oeste apresentou
+um crescimento no número de habitantes em 2008 de 11,61% em relação ao
+contingente apresentado no ano de 2002, valor este superior ao apresentado pelo
+61
+
+cenário nacional que apresentou um crescimento populacional de 8,58% dentro do
+mesmo período. O gasto com saúde per capita seguiu as tendências nacionais e
+subiu consideravelmente, onde em 2002 os valores apresentados eram abaixo de
+R$ 100,00 por pessoa, em 2008 passaram a quantias próximas a R$180,00 por
+pessoa.
+
+4.2.5 Região Norte
+
+Segundo o IBGE, a região Norte apresenta a maior área territorial do Brasil,
+contendo na configuração atual sete estados, dentre eles o Pará, que por meio de
+plebiscito, pode vir a se dividir em mais três estados. Os estados que compõem a
+região Norte são: Acre, Amazonas, Amapá, Pará, Rondônia, Roraima e Tocantins. A
+região norte possui a menor densidade demográfica do Brasil (habitantes por
+quilômetro quadrado) e uma enorme dificuldade em se tratar do assunto saúde,
+principalmente devido à dificuldade em se chegar a muitas comunidades ribeirinhas
+
+ 
+
+ 
+
+e aldeias indígenas (Ugá,2005). Os valores relativos a gastos com saúde
+apresentados pela região Norte são os menores em quantias absolutas e podem ser
+observados na tabela 8.
+Ano Valor corrente do PIB População Percentual Gasto
+gasto coma saúde | Regional Regional gasto com a com
+(em R$ mil) (hab.) saúde em Saúde per
+relação ao PIB Capita
+regional
+2002 R$ 1.127.651.696 69.457.634 | 13.725.040 1,62% R$ 82,16
+2005 R$ 1.695.488.937 | 107.397.150 | 14.698.878 1,58% R$ 115,35
+2008 R$ 2.482.662.451 | 154.705.000 | 15.142.684 1,6% R$ 163,95
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabela 8 — Evolução do gasto público com a saúde na região Norte.
+Fonte: Elaborado pelo autor com base no Sistema SIGA Senado e IBGE.
+
+Conforme o observado na tabela 8, os valores correntes relativos aos gastos com
+saúde na região Norte são os menores entre as regiões brasileiras, com valores
+muito próximos aos apresentados na região Centro-Oeste, porém com uma
+população maior que a mesma, gerando assim valores mais baixos no tocante ao
+gasto com saúde por habitante. A quantia gasta com saúde na região norte cresceu
+62
+
+no período avaliado 120,16%, a maior evolução quando em comparação com as
+demais regiões brasileiras e até mesmo o valor nacional. O PIB da região também
+apresentou crescimento considerável no período avaliado, com índices em 2008 de
+122,73% de alta em relação ao ano base de 2002.
+
+A população da região Norte sofreu um crescimento de 10,33%, valor este próximo
+aos apresentados pelas demais regiões brasileiras. O gasto per capita com a saúde
+da região norte, a exemplo do valor total gasto, é o menor entre as regiões
+brasileiras, apresentando valores bem abaixo da média apresentada pelas demais
+regiões, onde no ano em que se iniciou a avaliação, 2002, o valor gasto por pessoa
+com a saúde era de R$82,16 enquanto no ano de 2008 o valor apresentado foi de
+
+R$ 163,95 por pessoa.
+
+4.2.6 Evolução dos gastos com a saúde regionais em relação aos
+gastos nacionais
+
+Como visto nos capítulos anteriores, os valores relativos aos gastos com a função
+saúde obtiveram consideravel crescimento, onde a evolução dos mesmos era quase
+sempre semelhante ao percentual de crescimento do PIB regional. O gráfico 6
+mostra o percentual do PIB de cada região que foi gasto com a saúde, incluindo a
+relação nacional para fator de comparação.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2; E —=
+2
+s = SEER
+1 "17 T]][]]]—]——&.
+0,5
+0
+2002 2005 2008
+Sudeste —l-=Nordeste —t-Sul —se=Centro-Oeste —e-Norte —8-Brasil
+
+ 
+
+ 
+
+ 
+
+Gráfico 6 - Percentual do PIB gasto com a saúde (Em %)
+Fonte: Elaborado pelo autor
+
+Como é possível observar no Gráfico 6 os valores concernentes ao quantitativo do
+PIB que é gasto com a saúde quase não se altera, mostrando o crescimento quase
+que proporcional entre os valores dos gastos com a saúde e o valor do PIB.
+
+A região em que foi encontrado o maior percentual gerado através da relação Gasto
+com saúde/P IB foi a região Nordeste, que apresentou resultados muito superiores às
+demais regiões e a própria média brasileira, registrando valores de 2,42% do PIB
+gasto em saúde em 2002 e 2,48% em 2008, enquanto o percentual nacional de
+gasto com a saúde em relação ao valor do PIB foi de 1,72% em 2002 e 1,73% em
+2008.
+
+Os valores relativos aos gastos nacionais não se confundem com os gastos
+regionais, não sendo os mesmos uma média do segundo, uma vez que os gastos
+realizados por São Paulo, por exemplo, não estão contidos nos gastos nacionais. Os
+gastos nacionais, são aqueles que a União aplica nos estados e munícipios, que são
+distintos aos que os mesmos aplicam em seus próprios domínios.
+
+A região Centro-Oeste foi a que apresentou o menor percentual de gasto com a
+saúde relacionado ao PIB regional com valores de 0,93% do PIB gasto com saúde
+em 2002 e 0,88% em 2008, valor este quase três vezes menor que o apresentado
+pela região Nordeste e duas vezes menor que o percentual nacional.
+
+Analisando a evolução quando tendo em vista o contingente populacional, a
+população brasileira obteve um crescimento médio menor que o crescimento médio
+do gasto com a saúde, situação esta que fez com que o gasto per capita com a
+saúde aumentasse em todas as regiões brasileiras. O Gráfico 7 mostra a evolução
+do gasto per capita por região, onde é possível observar o crescimento médio
+nacional e os regionais de forma a comparar os mesmos.
+
+ 
+
+ 
+
+300
+
+250
+
+ 
+
+200
+
+ 
+
+150
+
+100
+
+ 
+
+ 
+
+ 
+
+50
+
+ 
+
+ 
+
+2002 2005 2008
+
+—4—Sudeste —l--Nordeste —t-—Sul —==Centro-Oeste ——Norte —8-=Brasil
+
+ 
+
+ 
+
+ 
+
+Gráfico 7 — Gasto com saúde per capita (em R$)
+
+Fonte: Elaborado pelo autor
+
+Segundo o observado no Gráfico 7, os valores de gastos com a saúde por pessoa
+foram maiores a nível nacional do que em qualquer uma das regiões brasileiras.
+Nacionalmente os gastos per capita apresentaram em 2002 uma valor de R$145,65
+por pessoa. A região que mais se aproxima de tal valor no ano de 2002 foi a região
+Sul, que entre as regiões brasileiras apresentou o maior valor gasto por pessoa na
+saúde, a mesma apresentou um valor de R$110,55 em tal ano.
+
+Em 2008 os valores nacionais de gasto com saúde por pessoa foram de R$ 264,42,
+enquanto que a nível regional apenas a região Sul superou a barreira dos R$200,00
+por pessoa.
+
+O menor gasto per capita com a saúde no avaliado período foi o da região Norte,
+que no ano de 2002 obteve um gasto de R$82,16 por pessoa, evoluindo para
+R$163,95 em 2008, no final do período estudado.
+4.3 Evolução dos gastos das funções concernentes à Seguridade
+Social
+
+Como descrito no artigo 194 da Constituição federal de 1988, “A seguridade social
+compreende um conjunto integrado de ações de iniciativa dos Poderes Públicos e da
+sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à
+assistência social” (Brasil, 1988, Título VIII, Capítulo II, Seção |, Artigo 194).
+
+Foram coletados então dados relativos aos gastos com a Assistência Social e a
+Previdência Social com o objetivo de comparar os valores gastos dentro da
+chamada Seguridade Social. Os dados, assim como os coletados da função saúde,
+foram obtidos através do Sistema SIGA do Senado Federal, enquanto o contingente
+populacional analisado foi o mesmo utilizado nos capítulos anteriores.
+
+A tabela 9 mostra a evolução dos gastos relativos à Assistência Social, enquanto a
+tabela 10 apresenta os valores correspondentes à Previdência Social.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ano Valor Corrente do Percentual de PIB (Em Percentual gasto
+
+gasto com a crescimento do | Trilhões de | com a Assistência
+
+assistência social valor gasto (em Reais) Social em relação
+
+relação à 2002) ao PIB anual
+
+2002 | R$ 6.513.151.120,19 - 1,477.822 0,44%
+2003 | R$ 8.416.353.100,74 29,22% 1,699.648 0,49%
+2004 | R$ 13.863.295.001,74 112,85% 1,941.498 0,71%
+2005 | R$ 15.806.087.873,54 142,68% 2,147.943 0,73%
+2006 | R$ 21.554.576.207,71 230,94% 2,322.818 0,92%
+2007 | R$ 24.713.510.640,41 279,44% 2,562.300 0,96%
+2008 | R$ 28.845.211.361,67 342,87% 2,889.719 1,0%
+2009 | R$ 33.335.541.042,95 411,82% 3,140.000 1,06%
+2010 | R$ 39.112.121.093,81 500,51% 3,500.000 1,11%
+
+ 
+
+Tabela 9 — Evolução dos gastos públicos com a Assistência Social
+Fonte: Elaborado pelo autor com base no Sistema SIGA Senado e IBGE.
+
+ 
+
+(Continua)
+Ano Valor Corrente do Percentual de PIB (Em Percentual
+gasto com a crescimento | Trilhões de gasto com a
+Previdência Social do valor gasto Reais) Previdência
+(em relação à Social em
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+2002) relação ao PIB
+anual
+2002 | R$ 123.218.090.688,02 - 1,477.822 8,34%
+2003 | R$ 145.477.548.884,27 18,06% 1,699.648 8,56%
+2004 | R$ 165.509.439.469,51 34,32% 1,941.498 8,52%
+2005 | R$ 188.505.524.819,94 52,98% 2,147.943 8,78%
+
+ 
+
+Tabela 10 — Evolução dos Gastos Públicos com a Previdência Social
+(Conclusão)
+
+ 
+
+ 
+
+Ano Valor Corrente do Percentual de PIB (Em Percentual
+gasto com a crescimento | Trilhões de gasto com a
+Previdência Social do valor gasto Reais) Previdência
+(em relação à Social em
+2002) relação ao PIB
+anual
+2006 | R$ 212.965.455.189,65 72,84% 2,322.818 9,17%
+2007 | R$ 234.374.194.542,37 90,21% 2,562.300 9,15%
+2008 | R$ 258.586.392.155,91 109,86% 2,889.719 8,95%
+2009 | R$ 291.079.255.477,05 136,23% 3,140.000 9,27%
+2010 | R$ 326.550.560.033,99 165,02% 3,500.000 9,33%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabela 10 — Evolução dos gastos públicos com a Previdência Social
+Fonte: Elaborado pelo autor com base no Sistema SIGA Senado e IBGE
+
+Segundo o observado na tabela YY, é possível observar um aumento considerável
+durante o período entre 2002 e 2010, chegando a 500% no final do período de
+avaliação, enquanto os valores gastos com previdência social chegam a registrar um
+crescimento de 165,02% no período estudado. Em valores correntes o gasto com a
+previdência tem uma quantia muito superior às demais funções concernentes à
+Seguridade Social, apresentando também a maior evolução em valores absolutos,
+que chega a ser de R$ 203.332.469.345,00 entre o período inicial, 2002, e o período
+final de avaliação do estudo, 2010.
+
+Divergente do que acontece com a função Saúde, que no período estudado evoluiu
+em valores próximos aos do PIB, na Assistência Social e na Previdência Social o
+crescimento foi maior que a taxa de crescimento do mesmo, onde os valores
+percentuais do PIB nacional gastos com a Assistência Social passou de 0,44% em
+2002 para 1,11% em 2010, já no caso da Previdência, a percepção de crescimento
+foi menor, uma vez que o crescimento percentual gasto com a mesma quando se
+67
+
+tendo o PIB em relação foi de aproximadamente 1%, passando de 8,34% em 2002
+para 9,33% no final de 2010.
+O Gráfico 8 mostra a evolução do volume corrente de gastos acerca das funções
+Saúde, Previdência Social, Assistência Social, além de demonstrar o crescimento do
+PIB para fins de comparação.
+
+ 
+
+600
+
+ 
+
+500
+
+400
+
+ 
+
+300
+
+200
+
+100
+
+ 
+
+ 
+
+ 
+
+2002 2003 2004 2005 2006 2007 2008 2009 2010
+
+=t=Saúde —=flk=Previdência —t-= Assistência == PIB
+
+ 
+
+ 
+
+ 
+
+Gráfico 8 — Evolução dos gastos com as funções da Seguridade Social (Em %)
+Fonte: Elaborado pelo autor
+
+Como é possível observar no Gráfico 8 e na tabela 10, o crescimento relativo à
+Assistência Social é muito superior ao apresentado pelo PIB, a previdência social e
+a saúde, fato este que pode ser explicado devido à política assistencialista pregada
+pelo governo Lula (2003 — 2010), através de programas como o Bolsa família,
+Proteção Social Básica, Bolsa escola, Programa de Erradicação do Trabalho Infantil,
+entre outros.
+
+É possível notar ainda que do ano de 2002 para o ano de 2003, último ano do
+governo Fernando Henrique, o crescimento percentual relativo à assistência social
+foi próximo ao apresentado pelas demais funções, porém a partir do ano de 2003, a
+crescente é muito superior, alcançando valores superiores aos 500% em 2010 em
+relação a 2002, enquanto o crescimento das demais funções foi registrado entre
+150% e 165%.
+
+Quanto ao percentual do PIB gasto com cada função, nota-se que a previdência
+detem um valor muito superior ao apresentado pela saúde e a assistência, o Gráfico
+9 mostra a evolução de tal relação para cada uma das funções da seguridade social.
+
+ 
+
+ 
+
+10
+
+ 
+
+=—4— Saúde
+=| Previdência
+
+de Assistência
+
+ 
+
+TETE
+
+EA
+
+0 T T T
+2002 2003 2004 2005 2006 2007 2008 2009 2010
+
+ 
+
+ 
+
+ 
+
+Gráfico 9 — Percentual do PIB gasto com as funções da Seguridade Social (Em %)
+Fonte: Elaborado pelo autor
+
+Conforme apresentado pelo Gráfico 9, os valores correspondentes à previdência
+social correspondem a um percentual muito mais alto que as demais funções, com
+uma alta nos últimos anos, sinal este que o percentual de crescimento dos gastos
+com a previdência foram superiores à evolução dos valores do PIB durante o
+período analisado. A Assistência Social possui valores de gastos menores que os
+apresentados pela saúde, porém sua participação em relação ao PIB cresceu
+consideravelmente, onde a mesma atingiu no final do período estudado, um
+percentual do PIB gasto de 1,11%, valor este quase três vezes maior que o
+apresentado no ano de 2002, que foi de 0,44%.
+
+Dentre as três funções concernentes à seguridade social, a saúde foi a que
+apresentou a menor variação ao longo do período do estudo quando se observando
+o percentual gasto do PIB. A taxa de crescimento dos gastos com a saúde foi muito
+próxima a apresentada pelo PIB, obtendo assim a pouca variação apresentada no
+Gráfico 9.
+
+Analisando a Previdência Social e a Assistência pela ótica do contingente
+populacional, os resultados tendem a seguir os valores apresentados pela evolução
+da mesma na função Saúde, uma vez que o crescimento populacional foi inferior à
+evolução dos gastos para qualquer uma das funções.
+69
+
+Os gastos com a previdência e a assitência calculados por pessoa consideram toda
+
+a população brasileira, independente de os mesmos utilizarem ou não tais serviços.
+
+As tabelas 11 e 12 mostram a evolução dos valores gastos com as funções em
+
+questão, a evolução populacional e os va
+período de 2002 a 2010.
+
+ores registrados de gastos por pessoa no
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ano Valor Corrente do gasto População Gasto com
+com a Assistência Social Brasileira Assistência
+Social per capita
+2002 R$ 6.513.151.120,19 174.632.960 R$ 37,30
+2003 R$ 8.416.353.100,74 176.871.437 R$ 47,58
+2004 R$ 13.863.295.001,74 181.586.030 R$ 76,34
+2005 R$ 15.806.087.873,54 184.184.264 R$ 85,82
+2006 R$ 21.554.576.207,71 186.770.560 R$ 115,41
+2007 R$ 24.713.510.640,41 189.335.191 R$ 130,53
+2008 R$ 28.845.211.361,67 189.612.814 R$ 152,13
+2009 R$ 33.335.541.042,95 191.480.630 R$ 174,09
+2010 R$ 39.112.121.093,81 190.732.694 R$ 205,06
+
+ 
+
+Tabela 11 — Evolução do gasto com assistência social sob perspectiva populacional
+
+ 
+
+ 
+
+Fonte: Elaborado pelo autor com base no Sistema SIGA Senado e IBGE
+Ano Valor Corrente do gasto População Gasto com
+com a previdência social Brasileira Previdência
+Social per capita
+2002 R$ 123.218.090.688,02 174.632.960 R$ 705,58
+2003 R$ 145.477.548.884,27 176.871.437 R$ 822,50
+2004 R$ 165.509.439.469,51 181.586.030 R$ 911,46
+2005 R$ 188.505.524.819,94 184.184.264 R$ 1.023,46
+2006 R$ 212.965.455.189,65 186.770.560 R$ 1.140,25
+2007 R$ 234.374.194.542,37 189.335.191 R$ 1.237,88
+2008 R$ 258.586.392.155,91 189.612.814 R$ 1.363,76
+2009 R$ 291.079.255.477,05 191.480.630 R$ 1.520,15
+2010 R$ 326.550.560.033,99 190.732.694 R$ 1.712,08
+
+ 
+
+ 
+
+ 
+
+Tabela 12 — Evolução do gasto com previdência social sob perspectiva populacional
+
+Fonte: Elaborado pelo autor com base no Sistema SIGA Senado e
+
+ 
+
+BGE
+
+Os gastos per capita com as funções apresentadas nas tabelas 11 e 12 obtiveram
+70
+
+um crescimento superior ao registrado na saúde, onde os valores de crescimento
+na assistência foram de 449,75% em 2010 em relação de 2002, enquanto a
+evolução apresentada pela assistência foi de 142,65% para o mesmo período. O
+percentual de crescimento do gasto com a saúde per capita foi de 122,73% no
+período estudado.
+
+Em valores absolutos os gastos com a previdência por pessoa são muito superiores
+aos demais, chegando a atingir R$1712,08 por pessoa em 2010, enquanto os gastos
+com a saúde atingem no máximo o valor de R$ 324,40 por pessoa e a assistência
+R$ 205,06 para o mesmo ano.
+
+O gráfico 10 mostra a evolução ao longo do período estudado acerca dos gastos por
+pessoa no Brasil em valores correntes.
+
+ 
+
+ 
+
+1800
+1600 +
+1400 +
+1200
+1000 mp Saúde
+
+800 + Hi Previdência
+
+600 de= Assistência
+
+0 +—+ T T T
+2002 2003 2004 2005 2006 2007 2008 2009 2010
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gráfico 10 — Evolução dos gastos per capita nas funções da Seguridade Social (em R$)
+Fonte: Elaborado pelo autor
+
+Como é demonstrado no gráfico, o valor correspondente ao gasto com a previdência
+social é muito superior aos registrados pelas demais funções, com uma evolução em
+valores correntes muito maior que as mesmas.
+
+A saúde possui um gasto em valores correntes superior ao apresentado assistência
+social, porém, a distância existente entre os valores registrados pelas duas diminuiu
+ao longo do período estudado, devido ao considerável crescimento percentual que a
+segunda teve em relação ao ano do início da análise, 2002, onde a mesma chegou a
+alcançar um valor de R$ 205,06 por pessoa em 2010, contra R$ 324,40 registrados
+como gastos por pessoa na função saúde.
+
+A
+5 CONCLUSÕES E RECOMENDAÇÕES
+
+O trabalho ilustra a evolução dos gastos públicos brasileiros sob perspectiva da
+classificação funcional da despesa, através da função saúde. As informações
+apresentadas informam o leitor acerca dos gastos públicos, e sua evolução em um
+período de nove anos (2002 a 2010), principalmente no que concerne à Seguridade
+Social, apresentada no artigo 194 da Constituição Federal de 1988, a qual engloba a
+Saúde, a Assistência Social e a Previdência Social. O trabalho apresenta a evolução
+dos gastos sob perspectiva do crescimento do Produto Interno Bruto (PIB) brasileiro
+ao longo dos anos, e também analisa sua evolução acerca do contingente
+populacional.
+
+Para alcançar os resultados apresentados neste trabalho, foram coletados dados no
+Sistema SIGA do Senado Federal, sistema este que tem por objetivo a transparência
+para com as contas públicas, demonstrando por programas, subprogramas,
+Unidades da Federação, entre outros aspectos, os valores correspondentes aos
+gastos, liquidados e autorizados para com as funções do sistema público brasileiro,
+acerca do Orçamento Geral da União (OGU). Os dados coletados foram
+organizados de maneira a facilitar a observação de sua evolução não apenas em
+valores correntes, mas também em percentuais de crescimento, crescimento per
+capita, evolução relativa ao PIB, entre outros, utilizando-se os dados coletados no
+Banco de dados do Instituto Brasileiro de Geografia e Estatística (IBGE).
+
+A partir dos objetivos definidos para o trabalho, foram organizados os dados e
+apresentados os resultados, de forma a mostrar primeiro a evolução dos gastos
+públicos brasileiros sob perspectiva da saúde, onde os resultados mostraram que a
+evolução nos gastos com a saúde seguiu uma linha quase que proporcional ao
+crescimento do PIB anual brasileiro, onde o percentual do PIB que é gasto com a
+mesma permaneceu de maneira quase que invariável dentro do período estudado.
+Segundo o contingente populacional, os resultados foram de acordo com o
+esperado, onde o crescimento da população, que vem crescendo de maneira mais
+desacelerada que nas décadas anteriores, propiciou um grande aumento no gasto
+de saúde per capita, uma vez que a evolução do gasto em valores correntes foi
+superior ao crescimento do número de habitantes no Brasil.
+73
+
+Como apontado, houve aumento nos gastos públicos com a Saúde, porém não
+houve evolução na efetividade deste gasto, uma vez que dados oficiais de relatórios
+do IBGE apontam a precariedade ainda existente na área da saúde. Número de
+profissionais, leitos entre outros fatores que são fundamentais para a garantia de
+uma saúde de qualidadade continuam defasados, sendo então necessária uma
+maior investigação acerca dos gastos públicos destinados a área e a sua aplicação.
+
+A segunda parte da apresentação de resultados buscou mostrar a evolução dos
+gastos públicos por região brasileira a fim de comparar a evolução entre as mesmas
+e por fim comparar os resultados encontrados com os apresentados a nível nacional.
+Como era esperado, os resultados da Região Sudeste foram mais altos em valores
+correntes, uma vez que a mesma possui as duas maiores economias do Brasil,
+porém o gasto per capita com a saúde na mesma foi inferior ao apresentado na
+Região Sul, uma vez que a população da primeira é muito maior que a da segunda.
+Sob percentual do PIB gasto com a função saúde, os resultados apresentados pela
+Região Nordeste são surpreendentes, uma vez que os mesmos chegam a superar a
+média nacional com 2,42% do PIB gasto com a saúde. A Região Norte foi a que
+apresentou os menores resultados , tanto em gasto corrente, quanto em gasto per
+capita com a saúde.
+
+A última parte da apresentação de resultados buscou comparar a evolução dos
+gastos com a saúde com gastos das demais funções concernentes à Seguridade
+Social presentes no artigo 164 da Constituição Federal (Assistência Social e
+Previdência Social). Os resultados referentes ao crescimento da Assistência social
+ao longo do período estudado foi muito superior ao apresentado pelas demais
+funções, onde também se explica pela política assistencialista pregada pelo governo
+Lula (2003-2010) nos anos em questão. Em valores correntes, os resultados foram
+dentro dos esperados, onde é possível observar a elevada quantia relativa ao PIB
+que é gasta com Previdência social, onde chega a ser gasto até 9,33% do total do
+PIB nacional.
+
+Houveram algumas limitações na realização do estudo, sendo as maiores
+dificuldades encontradas na parte da coleta de dados, principalmente nos dados de
+caráter regional, onde os sites pesquisados não forneciam informações muito atuais,
+sendo a última data de fornecimento do PIB regional, por exemplo, foi no ano de
+2008. A análise foi então mais superficial para com esta parte do estudo, uma vez
+74
+
+que os anos fornecidos pelos dados do IBGE não permitiram que a visão fosse mais
+profunda, como ocorreu nas demais partes do estudo. O tempo para realização do
+estudo também limitou a pesquisa, de forma a impedir que objetivos mais ousados
+fosse estabelicidos para a mesma.
+
+Recomenda-se que uma nova pesquisa seja feita, avaliando sob o ponto de vista da
+população as mudanças ocorridas na área da saúde no país, através de entrevistas
+e comparação com os resultados apresentados por este estudo, com a finalidade de
+conhecer a eficácia do gasto para com a função, e como esta evolução de valores
+apresentada na pesquisa foi percebida pelos mesmos, seja em qualidade de
+atendimento, número de profissionais, leitos, internações entre outros. Seria
+interessante ainda identificar, o contingente populacional que se utiliza da saúde
+pública no Brasil, com fim a conhecer quanto realmente é gasto por pessoa, e como
+se dá a qualidade do serviço para quem realmente se utiliza do mesmo no país.
+
+Em suma, a pesquisa traz informações fundamentais para aqueles que se
+interessam nas áreas relacionadas à finanças públicas, principalmente o orçamento
+público, permitindo aos mesmos que identifiquem a evolução dos gastos ao longo da
+última década, evidenciando o crescimento dos mesmos em todas as áreas
+análisadas (Saúde, Previdência Social e Assistência Social), mas sempre aliados ao
+crescimento do PIB nacional. O Brasil tem uma das economias mais fortes do
+mundo, e com comprometimento e qualidade por parte dos gestores, a evolução não
+se dará apenas em valores mas também em qualidade e tudo que é necessário à
+população.
+7
+
+REFERÊNCIAS
+
+BALEEIRO, Aliomar. Uma introdução à ciência das finanças. 15 ed. Rio de
+) aneiro:Forense, 1997.
+
+BRASIL. Constituição (1824). Constituição Politica do Imperio do Brazil:
+outorgada em 25 de março de 1824. Disponível em:
+
+<http://www. planalto.gov.br/ccivil 03/constituicao/constituiçao24>. Acesso em 15
+maio 2011.
+
+BRASIL. Constituição (1891). Constituição da República dos Estados Unidos do
+Brasil: promulgada em 24 de fevereiro de 1891. Disponível em:
+
+<http://www. planalto.gov.br/ccivil 03/constituicao/Constituiçao91>. Acesso em: 15
+maio 2011,
+
+BRASIL. Constituição (1934). Constituição da República dos Estados Unidos do
+Brasil: outorgada em 16 de julho de 1934. Disponível em:
+
+<http://www . planalto.gov.br/ccivil 03/constituicao/Constituicao34>. Acesso em: 16
+maio 2011.
+
+BRASIL. Constituição (1937). Constituição dos Estados Unidos do Brasil:
+decretada em 10 de novembro de 1937. Disponível em:
+
+<http://www. planalto.gov.br/ccivil/C onstituicao/Constituiçao37>. Acesso em: 16 maio
+2011,
+
+BRASIL. Constituição (1946). Constituição dos Estados Unidos do Brasil:
+promulgada em 18 de setembro de 1946. Disponível em:
+
+<http://www. planalto.gov.br/ccivil 03/constituicao/constituiçao46>, Acesso em: 16
+maio 2011.
+
+BRASIL. Constituição (1967). Constituição da República Federativa do Brasil:
+outorgada em 24 de janeiro de 1967. Disponível em:
+
+<http://www .planalto.gov.br/ccivil 03/constituicao/Constituiçao67>. Acessado em: 16
+maio 2011.
+
+BRASIL. Constituição (1988). Constituição da República Federativa do Brasil:
+promulgada em 5 de outubro de 1988. Organização do texto: ) uarez de Oliveira. 4,
+ed. São Paulo: Saraiva, 1990. 168 p. (Série Legislação Brasileira).
+
+BRASIL, Decreto nº 4536, de 28 de janeiro de 1922. Organiza o código de
+contabilidade da União. Rio de J aneiro: Imprensa Nacional, 1938
+
+BRASIL. Lei 4320, de 17 de Março de 1964. Estatui normas quais de direito
+financeiro para elaboração e controle dos orçamentos e balanços da União, dos
+Estados, dos Municípios e do Distrito Federal. Diário Oficial da União, Brasília, DF,
+18 mar. 1964.
+
+BRASIL, Lei 11.653 de 7 de Abril de 2008. Dispõe sobre o Plano Plurianual para o
+período 2008/2011. Diário Oficial da União. Brasília, DF, 8 abril 2008.
+76
+
+BRASIL. Lei Complementar nº 101, de 4 de maio de 2000. Estabelece normas de
+finanças públicas voltadas para a responsabilidade na gestão fiscal e dá outras
+providências. Diário Oficial da União, Brasília, DF, 5 maio 2000.
+
+BRASIL. Ministério da Saúde. Sistema de Informações sobre Orçamentos Públicos
+em Saúde. A implantação da EC 29: apresentação dos dados do SIOPS, 2000 a
+2003. Brasília, 2005
+
+BURKHEAD, J esse. Orçamento Público. Rio de ) aneiro: Fundação Getúlio Vargas,
+1971.
+
+CABRAL, Manuel Caldeira. Afinal, quem aumentou a despesa pública?
+
+Disponível em:
+<http://www.jornaldenegocios.pt/home.php? template=SHOW NEWS V2&id=386210>
+. Acesso em: 10 maio 2011.
+
+CENSO 2010: POPULAÇÃO DO BRASIL É DE 190.732.694 PESSOAS. Instituto
+Brasileiro de Geografia e Estatística. Disponível em:
+
+<http://www. ibge.gov.br/home/presidencia/noticias/noticia visualiza.,php?id noticia=1
+766>. Acesso em: 23 maio 2011.
+
+CONTAS REGIONAIS 2002-2005. Instituto Brasileiro de Geografia e Estatística.
+Dispoonível em:
+
+<http://www . ibge.gov.br/home/estatistica/economia/contasregionais/2002 2005/cont
+asregionais2002 2005.pdf>. Acesso em: 15/06/2011
+
+CORE, Fabiano G. Reforma gerencial dos processos de planejamento e
+orçamento. In:GIACOMONI, James; PAGNUSSAT,) ospe L.(Org.). Planejamento e
+Orçamento Governamental. Coletânea — Volume 2. Brasília: ENAP, 2006.
+
+CRESWELL, Jhon W. Projeto de pesquisa: métodos qualitativo, quantitativo e
+misto. Tradução: Magda Lopes. 3 ed. Porto Alegre: Artmed, 2010, 296 p.
+
+EM 2008, ESPERANÇA DE VIDA DOS BRASILEIROS CHEGA A 72,86 ANOS.
+Instituto Brasileiro de Geografia e Estatística. Disponível em:
+<http://www.ibge.gov.br/home/presidencia/noticias/noticia visualiza.php?id noticia=1
+507&id pagina=1> Acesso em: 12 maio 2011.
+
+GIOVANELLA, L(org). Políticas e Sistema de Saúde no Brasil. Rio de J aneiro:
+Editora FIOCRUZ, 2008, 1112 p.
+
+GIL, Antônio Carlos. Como elaborar projetos de pesquisa. 3.ed. São Paulo: Atlas,
+1991. 159 p.
+
+GONÇALVES, Antônio Carlos da Cunha. O orçamento público brasileiro. Suas
+origens, princípios norteadores e forma de execução. J us Navigandi, Teresina,
+ano 15, n. 2523, 29 maio 2010. Disponível em:
+<http://jus.com.br/revista/texto/14940>, Acesso em: 15 maio 2011.
+
+HELENA, Eber Zoehler Santa. Controle dos gastos com pessoal pelo Congresso
+Nacional. ) us Navigandi, Teresina, ano 11, n. 1140, 15 ago. 2006. Disponível em:
+<http://jus.com.br/revista/texto/8805>. Acesso em: 17 maio 2011.
+HELENA, Eber Zoehler Santa. Evolução histórica dos princípios orçamentário-
+constitucionais brasileiros, ) us Navigandi, Teresina, ano 9, n. 502, 21 nov. 2004.
+Disponível em: <http://jus.com.br/revista/texto/5962>. Acesso em: 17 maio 2011.
+
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Sítio Eletrônico
+Disponível em: <http://www.ibge.gov.br/home>. Acesso em: 12 maio 2011.
+
+MALHOTRA, N. Pesquisa de Marketing: uma orientação aplicada. 3º edição.
+Porto Alegre: Bookman, 2001. 720 p.
+
+MENDES, Sérgio. Administração Financeira e Orçamentária. 1º edição. Rio de
+Janeiro : Forense; São Paulo: METODO, 2010. 368 p.
+
+MINISTÉRIO DA SAÚDE, Sítio eletrônico, Disponível em:
+<http://portal.saude.gov.br/portal/saude/default.cfm>, Acesso em: 8 maio 2011.
+
+MINISTÉRIO DA SAÚDE, DataSUS, Sítio eletrônico, Disponível em:
+<http:/ftabnet.datasus.gov.br/cgi/tabcgi.exe?idb2009/f01.def> Acesso em:
+28/06/2011
+
+MINISTÉRIO DO ORÇAMENTO E GESTÃO, Portaria nº 42 de 14 de Abril de 1999.
+Atualiza a discriminação da despesa por funções de que tratam o inciso | do 81º do
+art2ºe 82º do art. 8º, ambos da Lei 4.320/1964, de 17 de Março de 1964,
+estabelece os conceitos de função, subfunção, programa, projeto, atividade,
+operações especiais, e dá outras providências. Diário Oficial da União. Brasília, DF,
+15 abril 1999
+
+MINISTÉRIO DO PLANEJ AMENTO, ORÇAMENTO E GESTÃO. Manual de
+elaboração do anexo de metas e relatórios resumidos da execução
+orçamentária. Secretaria de Orçamento Federal. Versão 2004. Brasília, DF, 2003.
+
+MINISTÉRIO DO PLANEJ] AMENTO,ORÇAMENTO E GESTÃO. Manual Técnico do
+Orçamento. Secretaria de Orçamento Federal. Versão 2011. Brasília, DF, 2010. 189
+
+p.
+
+NOGUEIRA, Roberto Wagner Lima. Plano plurianual de investimentos, gasto
+público e princípios orçamentários. ) us Navigandi, Teresina, ano 8, n. 77, 18 set.
+2003. Disponível em: <http://jus.com.br/revista/texto/4291>. Acesso em: 17 maio
+2011.
+
+NORONHA, ] osé Carvalho de. O Sistema Único de Saúde — SUS. In GIOVANELLA,
+L.(org) Políticas e Sistema de Saúde no Brasil. Rio de J aneiro: Editora FIOCRUZ,
+2008. 1112 p. cap 12, p. 435-471
+
+NÚMERO DE LEITOS NO BRASIL CAI EM QUATRO ANOS, MOSTRA PESQUISA
+DO IBGE. Revista Época. Disponível em
+
+<http://revistaepoca.globo.comy/R evista/E poca/0,,EMI188847-15257,00-
+NUMERO+DE+LEITOS +NO+4BRASIL+CAI+EM+AQUATRO+ANOS+MOSTRA+PESQ
+UISA+DOHBGE .html> Acesso em: 28/06/2011
+78
+
+PIB BRASILEIRO FECHA 2010 COM CRESCIMENTO DE 7,5%, O MAIOR DESDE
+1986 APONTA IBGE. O Globo. Disponível em :
+<http://oglobo.globo.com/economia/mat/2011/03/03/pib-brasileiro-fecha-2010-com-
+crescimento-de-7-5-maior-desde-1986-aponta-ibge-923926837.asp> Acesso em
+28/06/2011
+
+PIRES, José S.D.B; MOTTA, Walmir F. Evolução Histórica do Orçamento Público
+e sua importância para a Sociedade. 2006. Disponível em:
+<http://periodicos.uem.br/ojs/index.php/E nfoque/article/viewArticle/3491>, Acesso
+em: 12 maio 2011.
+
+QUINA, Abilio M. Origem e Evolução do Orçamento Público. 2006. Disponível
+em:
+
+<http://www.netlegis.com.br/index.jsp? arquivo=detalhesDestaques.jsp&cod=3191 >.
+Acesso em: 13 maio 2011
+
+SEGUNDO, Rinaldo. O orçamento público, os tributos e o meio ambiente. ) us
+Navigandi, Teresina, ano 8, n. 62, 1 fev. 2003. Disponível em:
+<http://jus.com.br/revista/texto/3774>. Acesso em: 16 maio 2011.
+
+TAXA DE NATALIDADE BRASIL. Banco Mundial nos Indicadores de
+Desenvolvimento Mundial. Disponível em:
+<http://www.google.com/publicdata? ds=wb-
+
+wdi&met y=sp dyn tfrt in&idim=country:BR A&dl=pt-BR &hl=pt-
+
+BR &q=taxa+de+natalidade >. Acesso em: 25/06/2011
+
+TEIXEIRA, Hugo V.:; TEIXEIRA, Marcelo G. Financiamento da Saúde Pública no
+Brasil: a experiência do SIOPS. 2006. Disponível em:
+
+<http://www .scielosp.org/scielo.php? pid=S 1413-
+81232003000200005&script=sci arttext> Acesso em: 12 maio 2011
+
+TINOCO, D. IBGE: número de leitos nos hospitais brasileiros é o menor em 33 anos.
+O Globo Disponível em: < http://oglobo.globo.com/pais/mat/2010/11/19/ibge-
+numero-de-leitos-nos-hospitais-brasileiros-o-menor-em-33-anos-923053575.asp>.
+Acesso em 20 maio 2011.
+
+UGÁ, M.A.; |. Dificuldades do sistema de Saúde no Brasil. Relatório de Pesquisa,
+2005.
+
+UGÁ, M.A.; SANTOS, |. Uma análise da equidade do financiamento do Sistema
+de Saúde Brasileiro. Relatório de Pesquisa, 2005.
+
+UGÁ, M.A. Financiamento e Alocação de Recursos em Saúde no Brasil. In
+GIOVANELLA, L.(org) Políticas e Sistema de Saúde no Brasil. Rio de J aneiro:
+Editora FIOCRUZ, 2008. 1112 p. cap 13, p. 473-505
+
+VIEIRA, V.A. As tipologias, variações e características da pesquisa de
+marketing. Revista da FAE, Curitiba, v.5, n.1, abr. 2002.
+

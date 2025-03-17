@@ -1,0 +1,2042 @@
+“4 =” Universidade de Brasília (UnB)
+Faculdade de Economia, Administração e Contabilidade (FACE)
+
+Departamento de Ciências C ontábeis e Atuariais (CCA)
+
+ 
+
+ORÇAMENTO DA UNIVERSIDADE DE BRASÍLIA:
+Reflexos do Programa REUNI
+
+ALEX SOUZA CANÇADO
+
+Brasília - DF
+2015
+ALEX SOUZA CANÇADO
+
+ORÇAMENTO DA UNIVERSIDADE DE BRASÍLIA:
+Reflexos do Programa REUNI
+
+Trabalho de Conclusão de Curso apresentado
+ao Departamento de Ciências Contábeis e
+Atuariais da Faculdade de Economia,
+A dministração e Contabilidade da
+Universidade de Brasília como requisito à
+conclusão da disciplina Pesquisa em Ciências
+Contábeis e obtenção do grau de Bacharel em
+Ciências Contábeis.
+
+Orientador:
+Prof. Antonio Carlos dos Santos
+
+Linha de pesquisa:
+Impactos da Contabilidade na Sociedade
+
+Área:
+Contabilidade, finanças e orçamento públicos
+
+Brasília - DF
+2015
+ 
+
+ 
+
+Cançado, Alex Souza ,
+ORÇAMENTO DA UNIVERSIDADE DE BRASÍLIA: Reflexos do
+
+Programa REUNI / Alex Souza Cançado — Brasília, 2015. 50 f.
+Orientador: Prof. Mestre Antonio Carlos dos Santos
+Trabalho de Conclusão de curso (Bacharelado) — Universidade de Brasília.
+1. Gastos Federais. 2. REUNI. 3. Expansão. 4. Universidade de Brasília.
+I. Santos, Antonio Carlos dos. II. Departamento de Ciências Contábeis e
+
+Atuariais da Faculdade de Economia, Administração e Contabilidade da
+Universidade de Brasília (CCA/FACE/UnB). II. Título.
+
+CDD —
+
+ 
+
+ 
+ALEX SOUZA CANÇADO
+
+ORÇAMENTO DA UNIVERSIDADE DE BRASÍLIA:
+Reflexos do Programa REUNI
+
+Trabalho de Conclusão de Curso apresentado ao Departamento de Ciências Contábeis
+e Atuariais da Faculdade de Economia, Administração e Contabilidade da Universidade de
+Brasília submetido à apreciação da banca examinadora como requisito à conclusão da
+
+disciplina Pesquisa em Ciências Contábeis e obtenção do grau de Bacharel em Ciências
+Contábeis.
+
+Aprovado em 01/07/2015.
+
+Banca examinadora:
+
+Professor Mestre Antonio Carlos dos Santos
+Orientador — Universidade de Brasília (UnB)
+
+Professora Mestra Fernanda Jaqueline Lopes
+Membro Examinador — Universidade de Brasília (UnB)
+
+Brasília - DF
+2015
+AGRADECIMENTOS
+
+Primeiramente a Deus por mais essa vitória alcançada, pela saúde e força que foram
+importantes para vencer todos os obstáculos.
+
+A todo o corpo docente do Departamento de Ciências Contábeis, em especial, ao Prof.
+Antonio Carlos dos Santos, ao qual agradeço pela orientação e atenção que me foi dispensada,
+disponibilizando parte do seu precioso tempo para contribuir com o bom andamento desse
+trabalho.
+
+A Nathália Freire pelo carinho, compreensão e por estar presente ao longo de vários
+momentos durante a realização desse trabalho.
+
+Aos meus pais que sempre me incentivaram nos estudos, agradeço imensamente por
+todo apoio, amor e confiança. As minhas irmãs pelo carinho e atenção.
+
+A todos que direta ou indiretamente fizeram parte da minha formação e que de alguma
+maneira contribuíram para a realização desse trabalho.
+RESUMO
+
+O presente trabalho tem a finalidade de mostrar o impacto orçamentário do Projeto da
+Universidade de Brasília para inserção no Programa de Apoio a Planos de Reestruturação e
+Expansão das Universidades Federais. O estudo teve como objetivo evidenciar o
+comportamento dos gastos da UnB após a sua inserção no REUNI. Para tanto, procurou-se
+destacar as variações das despesas orçamentárias executadas pela UnB, no período delimitado
+de pesquisa, confrontando-as com o quantitativo de alunos matriculados. Outro ponto
+considerado foi à análise do comportamento dos gastos com pessoal antes e após a
+implantação do REUNI e exposição dos principais gastos com a ampliação e manutenção da
+infraestrutura instalada. Trata-se de uma pesquisa descritiva restrita à análise de dados pré-
+existentes. Quanto à coleta de dados, foi realizada uma pesquisa bibliográfica e documental,
+sendo os dados financeiros retirados do Siga Brasil, sistema disponibilizado pelo Senado
+Federal. A análise dos dados foi feita por meio de abordagens qualiquantitativa, valendo-se de
+números índice para comparações. Em termos gerais verificou-se um crescimento no total de
+despesas e que a UnB, de fato, ampliou o acesso de alunos ao ensino superior. O aumento do
+número de alunos matriculados foi proporcionalmente maior do que o acréscimo no volume
+de recursos executados após a implantação do Programa. O REUNI sinaliza para um melhor
+aproveitamento da capacidade instalada, indo ao encontro das diretrizes gerais pré-
+estabelecidas.
+
+Palavras-chaves: Gastos Federais. REUNI. Expansão. Universidade de Brasília.
+Gráfico 1 -
+Gráfico 2 -
+Gráfico 3 -
+Gráfico 4 -
+
+LISTA DE GRÁFICOS
+
+Despesa executada pela UnB, no período 2004 a 2014... 27
+Despesas por Fonte de Recursos, no período 2004 a 2014... 28
+Despesas executadas pela UnB - Excluídos Inativos e Pensionistas ........... 29
+
+Despesas correntes e de capital por Fonte de Recursos, 2004 a 2014.................... 35
+LISTA DE TABELAS
+
+Tabela 1 - Orçamento da UnB x Alunos matriculados — Antes e após o REUNT.................... 30
+Tabela 2 - Gasto Pessoal Ativo x Efetivo — Antes e após o REUNI...............cs 31
+Tabela 3 — Relação Gasto Pessoal Ativo x Aluno — Antes e após REUNI...........e 32
+Tabela 4 - Evolução do efetivo ativo da UnB, de 2004 a 2014... 33
+
+Tabela 5 - Outras despesas correntes e de capital, antes e após 2008........
+
+  
+
+Tabela 6 - Outras despesas correntes e de capital por elemento de despesa .......................... 36
+BAES
+BCE
+
+BSA
+CEBRASPE
+CESPE
+
+CF
+CONSUNI
+DRU
+
+FCE
+
+FUB
+
+GDF
+
+HUB
+IBGE
+
+ICS
+
+IE
+
+IFES
+
+l
+
+IPCA
+
+Ipea
+
+IPI
+
+IR
+IREL/IPOL
+ITR
+
+LDB
+
+LOA
+
+MEC
+
+ODC
+ODCC
+
+os
+
+P.p
+
+LISTA DE ABREVIATURAS E SIGLAS
+
+Bloco de Salas de Aula Eudoro de Souza
+Biblioteca Central da UnB
+
+Bloco de Salas de Aula Sul
+
+Centro Brasileiro de Pesquisa em A valiação e Seleção e Promoção de eventos
+Centro de Seleção e Promoção de Eventos
+Constituição Federal
+
+Conselho Universitário da Universidade de Brasília
+Desvinculações da Receita da União
+
+Faculdade de Ceilândia
+
+Fundação Universidade de Brasília
+
+Govemo do Distrito Federal
+
+Hospital Universitário de Brasília
+
+Instituto Brasileiro de Geografia e Estatística
+Instituto de Ciências Sociais
+
+Imposto sobre a Exportação
+
+Instituições Federais de Ensino Superior
+
+Imposto sobre a Importação
+
+Índice de Preços ao Consumidor Amplo
+
+Instituto de Pesquisa Econômica A plicada
+
+Imposto sobre Produtos Industrializados
+
+Imposto sobre a Renda
+
+Instituto de Relações Internacionais e Política Externa
+Imposto Territorial Rural
+
+Lei de Diretrizes e Bases da Educação Nacional
+Lei Orçamentária Anual
+
+Ministério da Educação
+
+Outras Despesas Correntes
+
+Outras Despesas Correntes e de Capital
+Organização Social
+
+pontos percentuais
+REUNI
+
+SELOR
+SIAFI
+SICONV
+SIEST
+SIOP
+SUS
+
+UnB
+UNESCO
+
+Programa de Apoio a Planos de Reestruturação e Expansão das Universidades
+Federais
+Sistema de Elaboração da Lei Orçamentária
+
+Sistema Integrado de A dministração Financeira do Governo Federal
+
+Sistema de Gestão de Convênios e Contratos de Repasse do Governo Federal
+Sistema de Informação das Estatais
+
+Sistema Integrado de Planejamento e Orçamento
+
+Sistema Único de Saúde
+
+Universidade de Brasília
+
+Organização das Nações Unidas para a Educação Ciência e Cultura
+SUMÁRIO
+
+ 
+
+ 
+
+LINTRODUÇÃO ......cciurseeerrieereemneeeerereeee eme err error err tre crr err ere terre err tre cer eres are ree ser reramsçes 1
+1,1 Formulação do problema issu csananancan rca enana near emana 12
+1.2 ObjelivoS:ams za a nas
+1.3 Justificativa e
+
+1.5 Organização do trabalho ............... ir rreereeeeeereare rea errereerarrerrarerse narra rrererrertaranta 14
+2 REFERENCIAL TEÓRICO .....sseeeeeeerseesameeeraerramerenmereeere eras rresererserenscermnsõos 15
+2.1 O Programa de A poio a Planos de Reestruturação e Expansão das Universidades Federais
+(REUND asaasananaaanaaa cnnceRa Ga nncasanaaa anca aaa casa nana 15
+2.20 REUNI na Universidade de Brasília..............i sr reeeeeeeeeeeeereerreeterrerrerterteea 16
+2.3 Financiamento das IFES.............. rr eerereereeererecemrenarerearena car rerensare res ersarenenersano 19
+2.4 Evidenciação sobre ótica da Accountability .... «20
+3 PROCEDER METODOLÓGICO ...................ciesrrmiessesseseess cera rrarersssss essere res res rms raraõos 23
+4DESCRIÇÃO E ANÁLISE DOS RESULTADOS..............iumeseseeeeeseemmasesseses 27
+4.1 Reflexos do REUNI no total das despesas executadas pela UnB... 27
+4.2 Reflexos do REUNI nas despesas com pessoal da UnB ................ es 31
+4.3 Reflexos do REUNI nas Outras Despesas Correntes e de Capital ................... 33
+5 CONSIDERAÇÕES FINAIS ......eeeeeemeeerrseeraeeeraereamereamereeerrseramerraserenscorenssermnseos 39
+
+REFERÊNCIAS a
+APÊNDICES ssa o o e
+
+ 
+ai
+
+1 INTRODUÇÃO
+
+A educação é um bem público de direito social, inalienável e garantido pela
+Constituição Federal (CF/88). Segundo prevê o seu Art. 205, a educação é um direito de
+todos e dever do Estado. Assim, cabe ao Estado proporcionar sua oferta, manutenção e
+desenvolvimento, os quais devem ser pautados por políticas públicas visando proporcionar
+igualdade de condições de acesso e permanência nas instituições de ensino.
+
+O Art. 211 da Carta Magna estabelece que a União detém a responsabilidade de
+organizar o sistema federal de ensino, financiar as instituições de ensino públicas federais e
+exercer, em matéria educacional, função redistributiva e supletiva, de forma a garantir a
+equalização de oportunidades educacionais e padrão mínimo de qualidade do ensino,
+mediante assistência técnica e financeira aos Estados, ao Distrito Federal e aos Municípios.
+
+A transmissão do conhecimento possui importante valor estratégico para o
+desenvolvimento social e econômico das nações. Nos últimos anos, diversos países têm
+promovido debates acerca da realização de mudanças na organização do ensino de educação
+superior e de pesquisa, com o objetivo de promover e criar novos modelos de aprendizagem,
+de produção, gestão e aplicação do conhecimento (MEC, 20124).
+
+Chauí (2003), cita que a universidade é uma instituição social e exprime de maneira
+determinada a estrutura e o modo de funcionamento da sociedade como um todo. Desta
+forma, opiniões, atitudes e projetos conflitantes, que exprimem divisões e contradições da
+sociedade, coexistem nas instituições universitárias.
+
+O reconhecimento do papel da Universidade como um instrumento de transformação
+social, desenvolvimento sustentável e inserção do país, de forma competente, no cenário
+intemacional, mobilizou os movimentos reivindicatórios de expansão da educação superior
+pública e gratuita (MEC, 20124).
+
+A elitização do acesso à educação superior passou a ser duramente questionada ao
+longo dos últimos anos e apontada como uma forma de exclusão social. Percebeu-se então
+que a superação dessa situação discriminatória somente ocorreria por meio da ampliação das
+oportunidades de acesso à educação superior.
+
+O Brasil é um país marcado por desigualdades históricas, a busca pela equidade e pela
+qualidade da educação é uma tarefa que implica à adoção de políticas públicas que incluam
+uma ampla articulação entre os entes federativos. Na sociedade contemporânea, a educação é
+12
+
+condição necessária para o desenvolvimento da cidadania plena e para a consolidação da
+igualdade de oportunidade para todas as pessoas.
+
+A fim de que as Instituições de Ensino Superior possam atuar com maior sentido e
+pertinência social, tem sido indicadas como estratégias a expansão da infraestrutura, bem
+como o desenvolvimento de novos modelos e possibilidades de aprendizagem, pesquisa e
+inovação. Discussões nesse sentido tem mostrado a necessidade de buscar mudanças para
+melhor estruturação de sistemas e instituições, com o objetivo de promover a equidade, a
+ampliação dos mecanismos de inclusão social e preservação da qualidade da formação
+(UNESCO, 2012).
+
+No que diz respeito às políticas públicas de investimento no ensino superior, o projeto
+que tem mostrado maior importância, no cenário nacional recente, é o Programa de Apoio a
+Planos de Reestruturação e Expansão das Universidades Federais (REUNJ). Seu objetivo é
+criar condições para a ampliação do acesso e permanência na educação superior, no nível de
+graduação, buscando melhor aproveitamento da estrutura física e de recursos humanos
+existentes nas universidades federais.
+
+O Programa tem como pressupostos básicos: investir na reestruturação e expansão da
+universidade, a fim de ampliar o acesso e a permanência na educação superior; executar
+modificações e ampliação de infraestrutura; proporcionar aumento na oferta do número de
+vagas de ingresso; reduzir as taxas de evasão; ocupar as vagas ociosas; e realizar contratações
+para ampliação do quadro de docentes e servidores técnicos administrativos.
+
+O REUNI é um programa de reformas pautado na manutenção da autonomia das
+instituições e acoplado a um conjunto de financiamentos para aquelas universidades que a ele
+aderiram. Porém, condicionou a transferência de recursos ao cumprimento de metas
+previamente estabelecidas em propostas de adesão apresentadas pelas próprias Instituições
+Federais de Ensino Superior — IFES (TEIXEIRA, 2013).
+
+A expansão universitária e a qualidade do ensino são temas de controvérsias, pois
+numerosos desafios podem aparecer no desenvolvimento de ações que envolvem dimensões
+quantitativas e qualitativas. Entretanto, o recorte deste trabalho está voltado para os aspectos
+financeiros do Programa REUNI, cujos reflexos serão analisados, tomando-se como base a
+execução orçamentária da Universidade de Brasília (UnB) no período de 2004 a 2014.
+
+1.1 Formulação do problema
+13
+
+Conforme previsto nas Diretrizes Gerais do REUNI, os planos de reestruturação
+apresentados pelas IFES, e aprovados pelo Ministério da Educação (MEC), teriam a sua
+exequibilidade financeira garantida por aquele órgão, mediante termo de pactuação de metas
+firmado entre ambos (MEC, 2007b).
+
+Para participar do citado Programa, a UnB apresentou seu último projeto revisado, em
+04 de julho de 2008, o qual somente passou a ter efeitos financeiros a partir do ano de 2009.
+Em função disso, foi estabelecida como norteadora da presente pesquisa a seguinte questão:
+Quais foram os reflexos orçamentários advindos da participação da UnB no Programa
+REUNI?
+
+1.2 Objetivos
+
+Em razão do foco de estudo estabelecido na subseção anterior, o objetivo geral da
+presente pesquisa é evidenciar o comportamento dos gastos da UnB após a sua entrada no
+Programa REUNI.
+
+Para tanto, foram definidos os seguintes objetivos específicos:
+
+- destacar as variações das despesas orçamentárias executadas pela UnB, no período
+de 2004 a 2014, confrontando-as com o quantitativo de alunos matriculados;
+
+- analisar o comportamento dos gastos com pessoal antes e após a introdução do
+REUNI na UnB; e
+
+- eXpor os principais gastos com a ampliação e manutenção da infraestrutura instalada.
+
+1.3 Justificativa
+
+Os recursos públicos são limitados e escassos. Por isso, sua utilização não pode ser
+feita de forma aleatória. Assim sendo, na busca de uma melhor qualidade de ensino, a ação da
+Universidade deve ser pautada pela procura de melhores estruturas para receber professores e
+alunos, na melhoria dos laboratórios, ampliação do acesso dos discentes aos instrumentos de
+pesquisa, contratação de novos quadros, especialização continuada, entre outras.
+
+Logo, a evidenciação e a transparência dos gastos públicos permite que a população
+saiba como os recursos públicos estão sendo aplicados. A participação social na gestão
+pública, além de direito garantido pela Constituição Federal, permite a fiscalização da
+utilização dos recursos. Ou seja, o controle social é um meio importante para exigir melhor
+aplicação do dinheiro público.
+14
+
+Dessa forma, essa pesquisa pode ser justificada pela necessidade de se entender
+melhor os desdobramentos da implementação do REUNI na UnB em termos orçamentários.
+De acordo com relatórios elaborados pela própria UnB, esse Programa de Reestruturação
+acarretou diversas mudanças, como: investimentos para construção e ampliação dos quatro
+campus do Distrito Federal; aquisição de equipamentos e materiais; criação de novos cursos; e
+aumento de oferta de vagas para ingresso.
+
+1.5 Organização do trabalho
+
+Além deste capítulo de introdução, o trabalho está divido em mais cinco seções:
+Referencial Teórico que faz uma revisão de literatura sobre a implantação do REUNI, uma
+abordagem sobre o financiamento das IFES, e evidenciação sobre a ótica da accountability;
+Proceder Metodológico que descreve os métodos e procedimentos adotados para condução da
+pesquisa; Descrição e análise dos resultados obtidos em face dos objetivos da pesquisa;
+Considerações Finais com exposição dos objetivos e síntese dos resultados alcançados e
+
+Apêndices com informações complementares.
+15
+
+2 REFERENCIAL TEÓRICO
+
+2.10 Programa de Apoio a Planos de Reestruturação e Expansão das Universidades
+Federais (REUNI)
+
+O Programa de Apoio a Planos de Reestruturação e Expansão das Universidades
+Federais (REUNI) foi instituído com advento do Decreto nº 6.096, de 24 de abril de 2007.
+Teve como objetivo criar condições para a ampliação do acesso e permanência na educação
+superior, no nível de graduação, com o intuito de aumentar a qualidade dos cursos e melhorar
+o aproveitamento da estrutura física e de recursos humanos existentes nas universidades
+federais, respeitando as características particulares de cada instituição, e estimulando a
+diversidade no sistema de ensino superior (MEC, 2007a).
+
+O foco desse programa está em reunir esforços para promover a consolidação de uma
+política nacional de expansão da educação superior pública, na qual o Ministério da Educação
+cumpre o papel atribuído pelo Plano Nacional de Educação, por meio da Lei nº 10.172/01,
+quando estabelece o provimento da oferta de educação superior para, pelo menos, 30% dos
+jovens na faixa etária de 18 a 24 anos, até o final da década (MEC, 2007b).
+
+A meta global do Programa era alcançar ao final de cinco anos, a contar do início de
+cada plano, a elevação gradual da taxa de conclusão média dos cursos de graduação
+presenciais para 90% (noventa por cento) e da relação de alunos de graduação em cursos
+presenciais por professor para dezoito (MEC, 2007a).
+
+As Diretrizes Gerais para o REUNI contemplam dimensões que devem ser
+combinadas no plano de reestruturação das universidades federais e adequadas de acordo com
+a opção institucional de cada caso. Elas contemplam o aumento de vagas de ingresso, redução
+da evasão, ocupação de vagas ociosas, reorganização dos cursos, articulação da educação
+superior com a educação básica, profissional e tecnológica, promoção da ampla mobilidade
+estudantil, das políticas de inclusão e extensão, e, por fim, a articulação da graduação com a
+pós-graduação (MEC, 2007).
+
+O REUNI foi apresentado às universidades federais ressaltando a liberdade de escolha
+das instituições quanto à adesão. Ou seja, pautou-se pelo respeito à autonomia das
+universidades. Entretanto, o programa condicionou a transferência de recursos ao atingimento
+das metas previamente acordadas, vinculando os repasses ao cumprimento de etapas e ao
+alcance de expectativas.
+16
+
+A autonomia universitária, em síntese, está relacionada a não interferência do estado
+na organização intema das instituições, possibilitando às universidades definirem regras e
+diretrizes para que possam construir sua identidade e assumir seu papel social, além de ser
+relevante para manutenção da qualidade da educação, contribuindo para a indissociabilidade
+entre ensino, pesquisa e extensão.
+
+Para Oliveira (2013), o conceito de autonomia pode ser visto sob dois enfoques: pela
+ótica política, referindo-se a não interferência do govemo na organização intema da
+universidade, que possui capacidade decisória para definir regras e diretrizes a serem
+seguidas, já na Ótica econômica, está relacionada à independência para gerir os recursos
+recebidos.
+
+Segundo Teixeira (2013), o programa de reestruturação foi apresentado pelo Governo
+às universidades públicas ressaltando o direito de liberdade de escolha em relação à adesão,
+todavia a instituição que não aderisse ficaria praticamente fora dos investimentos financeiros
+realizados a partir do Ministério da Educação.
+
+Ainda conforme análise da autora, as IFES foram convidadas a buscar uma maior
+otimização dos seus recursos de pessoal, com aval para realizar contratações e ampliações de
+infraestrutura, supostamente respeitando a autonomia dessas instituições, já que a elas foram
+concedidos o direito de escolha em aderir, ou não, ao “Acordo de Metas” e apresentar o seu
+planejamento de expansão.
+
+Em síntese, o REUNI foi criado com a finalidade de aumentar o número de vagas na
+rede pública de ensino superior, bem como garantir maiores recursos para as universidades
+federais, com o intuito de expandi-las a ponto de atender, até mesmo distantes dos grandes
+centros econômicos, àquelas pessoas interessadas em ingressar nas universidades públicas.
+
+Novidades têm sido percebidas desde a adoção do programa, o número de campus nas
+universidades federais aumentou, e consequentemente o número de professores e de vagas
+ofertadas. Houve ainda a adoção de cursos de menor duração voltados ao preparo técnico para
+o mercado de trabalho, sendo, o aprofundamento do conhecimento, opção do aluno, que pode
+fazê-lo através da montagem e escolha de sua grade horária (OLIVEIRA, 2013).
+
+2.2 O REUNI na Universidade de Brasília
+A Fundação Universidade de Brasília (FUB), criada através da Lei n. 3.998, de 1961,
+
+segundo disposto em seu Art. 3º, tem por objetivo manter a Universidade de Brasília (UNB),
+em todos os ramos do saber e de divulgação científica e cultural.
+)
+
+No tocante à estrutura, em 2004, existiam 22 Institutos e Faculdades, 5 Decanatos, 6
+Órgãos Complementares (Biblioteca Central, Centro de Informática, Centro de Produção
+Cultural e Educativa, Editora Universidade de Brasília, Fazenda Água Limpa e Hospital
+Universitário), 51 Departamentos, 396 Laboratórios, 3 Secretarias e 1 Hospital Veterinário
+com duas unidades. A UnB contava com 162 cursos, inclusos os da modalidade à distância,
+sendo 75 de graduação, 56 de mestrado e 31 de doutorado (UNB, 2014b).
+
+Nos últimos anos, a instituição cresceu além do previsto em seu Plano Orientador, mas
+não o suficiente para atender a população de Brasília, tão pouco do Distrito Federal. Apesar
+do crescimento alcançado e de se constituir como uma instituição de destaque no rol das
+universidades públicas, ainda está restrita a um público pequeno e elitizado, representando
+apenas cerca de 20% dos alunos de cursos de graduação no Distrito Federal (MELO, 2009).
+
+Segundo Oliveira (2013), a necessidade de expansão da Universidade de Brasília é
+muito discutida por membros do Conselho de Educação e do Estado. O crescimento acelerado
+da população do Distrito Federal e do entomo, não foi acompanhado de um adequado
+desenvolvimento econômico, tomando-se necessários investimentos na formação e
+qualificação de recursos humanos a fim de possibilitar a sustentabilidade do processo
+desenvolvimentista.
+
+Esse contexto e a necessidade de proporcionar maior inclusão na educação superior
+pública justificaram a elaboração da proposta de descentralização física do campus Darcy
+Ribeiro da UnB, situado no Plano Piloto, em direção às áreas do entomo com considerável
+contingente populacional, onde se localiza grande parte da população que precisa se deslocar
+para conseguir melhores condições de emprego e estudo (Oliveira, 2013).
+
+Para implantação do plano de expansão fez-se necessário aumento nos investimentos
+de ordem financeira com a finalidade de tornar realizável a construção de novos campus e
+espaços físicos, ampliação e reforma dos espaços já existentes, contratação de professores e
+técnicos administrativos e financiamento das pesquisas. Assim sendo, em meio a outras
+políticas públicas existentes relativas à educação, o REUNI demonstrou-se capaz de financiar
+as universidades no âmbito de seus projetos, indo ao encontro das necessidades e pretensões
+da UnB.
+
+O Conselho Universitário da Universidade de Brasília (CONSUNI) aprovou, em sua
+3332 reunião, realizada em 19 de outubro de 2007, o documento — A UnB Rumo aos 50 anos:
+Autonomia, Qualidade e Compromisso Social - como carta de intenções da Instituição para
+ingressar no REUNI.
+18
+
+Em 13 de março de 2008, a UnB assinou o Acordo de Metas com MEC, mas devido
+uma série de problemas, esse acordo foi reformulado e retomou-se o processo democrático de
+decisões, com discussões entre os diversos segmentos da Universidade. Assim sendo, no mês
+de junho de 2008, com o objetivo de orientar a reformulação da proposta da UnB para o
+REUNI, tendo como base o acordo de metas inicialmente assinado com o MEC, foram
+aprovadas as Diretrizes para Adequação da Proposta da UnB às Diretrizes Gerais do REUNI,
+com as seguintes metas gerais:
+
+e criação de novos cursos e expansão dos já existentes, sobretudo no período
+noturno, como forma de melhorar o aproveitamento do espaço físico;
+
+e abertura de novos cursos com perfis interdisciplinares — parcerias entre
+
+diferentes unidades acadêmicas;
+
+reestruturação pedagógica;
+
+criação de mobilidade inter e interinstitucional;
+
+criação de políticas de fortalecimento institucional;
+
+redução de evasão;
+
+ampliação da inclusão social; e
+
+fortalecimento das licenciaturas.
+
+Esse projeto, intitulado de Proposta da Universidade de Brasília para o Programa
+REUNI, foi aprovada pela 3392 reunião do CONSUNI, realizada em 04 de julho de 2008, e
+posteriormente ratificada pelo MEC. Acreditava-se que a implantação do Projeto traria à
+Universidade o volume de investimentos necessários à consolidação do Campus Darcy
+Ribeiro, à ampliação do Campus de Planaltina, à construção dos novos campus de Ceilândia e
+Gama, resultando na criação de 4.306 novas vagas, até o final de 2012. A Proposta
+apresentada descreve as dimensões, atividades e recursos orçamentários do projeto REUNI,
+incorporado ao Sistema de Planejamento Institucional da UnB, cuja execução contempla o
+período de 2008 a 2012 (UNB, 2008).
+
+O documento apresenta estratégias para alcançar as metas gerais propostas que
+contemplam a readequação de espaços físicos por meio de reforma e construções; compra de
+novos equipamentos; ampliação do quadro docente e de servidores; readequação e
+modemização da Biblioteca; incentivo a professores mais experientes para trabalhar com
+turmas iniciais; definição de normas que flexibilizem a reocupação de vagas ociosas por
+estudantes da própria instituição, bem como o preenchimento daquelas remanescentes, por
+estudantes de outras Instituições de Ensino Superior.
+
+A Universidade também se comprometeu a elevar gradualmente a taxa de conclusão
+média dos cursos de graduação presencial para 90% (noventa por cento), expandir sua
+
+participação na comunidade, revisar os projetos político-pedagógicos dos cursos, criar novos
+19
+
+cursos, ampliar a política de inclusão e assistência estudantil, articular a educação superior
+com a educação básica, bem como a graduação com a pós-graduação.
+
+2.3 Financiamento das IFES
+
+De um modo geral, as Instituições Federais de Ensino Superior (IFES) são financiadas
+com recursos do Tesouro Nacional, provenientes das receitas tributária, de contribuições,
+patrimonial, agropecuária, industrial, de serviços e outras que constituem o Orçamento da
+União.
+
+A CF/88, em seu Art. 212, estabelece que a União aplicará, nunca menos de dezoito, e
+os Estados, o Distrito Federal e os Municípios, vinte e cinco por cento, no mínimo, da receita
+resultante de impostos na manutenção e desenvolvimento do ensino.
+
+Conforme contido no Art. 55 da Lei Nº 9.394, de dezembro de 1996 — Lei de
+Diretrizes e Bases da Educação Nacional (LDB) — “Caberá à União assegurar, anualmente,
+em seu Orçamento Geral, recursos suficientes para manutenção e desenvolvimento das
+instituições de educação superior por ela mantidas”. Ainda no Art. 70, a LDB estabelece que
+são consideradas despesas de manutenção e desenvolvimento do ensino:
+
+I - remuneração e aperfeiçoamento do pessoal docente e demais profissionais da
+educação;
+
+II - aquisição, manutenção, construção e conservação de instalações e equipamentos
+necessários ao ensino;
+
+III - uso e manutenção de bens e serviços vinculados ao ensino;
+
+IV - levantamentos estatísticos, estudos e pesquisas visando precipuamente ao
+aprimoramento da qualidade e à expansão do ensino;
+
+V - realização de atividades-meio necessárias ao funcionamento dos sistemas de
+ensino;
+
+VI- concessão de bolsas de estudo a alunos de escolas públicas e privadas;
+
+VII - amortização e custeio de operações de crédito destinadas a atender ao disposto
+nos incisos deste artigo;
+
+VIII - aquisição de material didático-escolar e manutenção de programas de
+transporte escolar.
+
+Nas universidades públicas federais são três as principais fontes de recursos: as
+receitas governamentais, provenientes do Tesouro Nacional; as oriundas de convênios com
+organismos públicos e privados; e as receitas próprias ou diretamente arrecadadas.
+
+Os Convênios das universidades federais podem ser de caráter federal, estadual ou
+municipal. A prestação de serviços, a comercialização de bens e os projetos de cooperação
+têm sido formas bastante utilizadas na geração de receitas por essas instituições. Cada
+universidade procura o maior número possível de convênios, pois é uma forma permitida pela
+
+legislação para complementar a receita.
+20
+
+A terceira fonte relevante para as universidades federais são as receitas próprias. Esses
+recursos são provenientes da prestação de serviços pelas diversas unidades da própria
+instituição, tais como: a prestação de serviços ao Sistema Único de Saúde (SUS) pelos
+hospitais universitários; taxas intemas; aluguéis; doações; arrendamentos; e receitas
+resultantes de aplicações no mercado financeiro.
+
+As IFES vêm buscando opções variadas de captação de recursos próprios, como forma
+de complementar as verbas aportadas pelo MEC. Essas opções têm incluído, entre outras, a
+prestação de serviços diversos, como assessorias, realizações de concursos públicos e oferta
+de cursos — os de especialização, por exemplo.
+
+No caso específico da UnB, os recursos próprios são das mais diversas origens. Porém,
+destacam-se as receitas imobiliárias e as oriundas da elaboração e aplicação de provas de
+concursos públicos e vestibulares, em todo o país, por parte do Centro de Seleção e Promoção
+de Eventos (CESPE). Sendo, esse órgão, o responsável pela captação da maioria absoluta dos
+recursos próprios da Universidade (VELLOSO e MARQUES, 2005).
+
+Entretanto, no que tange a importância das receitas diretamente arrecadadas, o
+Tesouro Nacional ainda é o principal financiador dos recursos necessários à manutenção das
+IFES. Ou seja, a geração de recursos próprios não é suficiente para substituir o aporte de
+verbas públicas, sendo o poder público fundamental para a manutenção financeira e
+administrativa de cada uma das instituições.
+
+2.4 Evidenciação sobre ótica da Accountability
+
+A contabilidade é um sistema de informação e avaliação destinado a fornecer aos seus
+usuários análises e demonstrações de natureza física, financeira, econômica e de
+produtividade, com relação à entidade objeto de contabilização. Dentre os objetivos da
+Contabilidade, está o de auxiliar seus usuários na tomada de decisão fornecendo elementos e
+informações importantes para o processo decisório (PADOVEZE, 2010).
+
+Conforme Iudícibus (2000), a evidenciação ou disclosure possui ligação direta com os
+objetivos da contabilidade, ao garantir informações diferenciadas para os diversos tipos de
+usuários. As formas de evidenciação podem ser variadas, mas a essência é a mesma, consiste
+em apresentar informação quantitativa e qualitativa de maneira organizada, deixando o
+mínimo possível de informação fora dos demonstrativos, a fim de propiciar uma base
+
+adequada de informação para os interessados.
+21
+
+No que conceme à evidenciação da Contabilidade Pública, que pode ser entendida
+como o ramo da Contabilidade que estuda , orienta, controla e demonstra a organização dos
+atos e fatos da fazenda pública, do patrimônio público e suas respectivas variações, cabe
+ressaltar as instruções estabelecidas na Lei 4.320 de 1964:
+
+Art. 83. A contabilidade evidenciará perante a Fazenda Pública a situação de todos
+quantos, de qualquer modo, arrecadem receitas, efetuem despesas, administrem ou
+guardem bens a ela pertencentes ou confiados.
+
+Art. 89. A contabilidade evidenciará os fatos ligados à administração orçamentária,
+financeira patrimonial e industrial.
+
+Art. 90 A contabilidade deverá evidenciar, em seus registros, o montante dos
+créditos orçamentários vigentes, a despesa empenhada e a despesa realizada, à conta
+dos mesmos créditos, e as dotações disponíveis.
+
+Silva (2007) destaca que o gasto público, como instrumento utilizado pelo governo
+para satisfazer as necessidades dos cidadãos, precisa ser evidenciado pela contabilidade como
+forma de demonstrar o efeito de sua atuação nas obras públicas, transferências de recursos ou
+prestação de serviços para a sociedade, que, por sua vez, tem interesse em controlar os
+recursos entregues para a administração do governo e em receber a prestação de contas dessa
+responsabilidade que lhe foi conferida.
+
+Nesse contexto, verifica-se uma preocupação com a evidenciação e com o processo de
+transparência na utilização da coisa pública, pois uma nova visão de prestação de contas tem
+sido exigida pela sociedade em relação à atuação dos gestores públicos. Trata-se da
+accountability.
+
+O termo accountability, originário da língua inglesa, ainda não possui tradução precisa
+ou adequada para o português, por isso tem sido tratado na literatura de forma abrangente e
+variada. Remete-se à prestação de contas ou responsabilização de administradores por entes
+controladores ou seus representantes (PEDERIVA, 1998).
+
+Para Castro (2013) a accountability pode ser entendida como sendo uma filosofia de
+prestação de contas. Significa a responsabilidade de se prestar contas ao cidadão, das ações
+desenvolvidas e dos resultados alcançados pelos agentes públicos. Está relacionada com a
+questão dos direitos do cidadão, podendo ser entendida como uma proteção que esses têm em
+relação às práticas da má administração.
+
+Dessa forma, pode-se relacioná-la diretamente a democracia, pois quanto mais
+avançado o estágio democrático, maior interesse pela accountability que tende a acompanhar
+os avanços dos valores democráticos, tais como: igualdade, dignidade humana, participação,
+representatividade (CASTRO, 2013).
+22
+
+Ainda segundo esse autor, o mais importante é a prestação de contas da missão, dos
+objetivos dos programas governamentais e da efetividade destes, oferecendo a solução que a
+sociedade espera para resolver os problemas identificados e materializados nos orçamentos.
+
+Enquanto a contabilidade cuida das informações intemas da entidade (financeiras,
+orçamentárias e patrimoniais), a accountability, ao prestar contas de uma gestão, cuida dos
+resultados externos, e se preocupa em utilizar uma linguagem compreensível ao cidadão.
+
+Pode-se estabelecer que, na esfera pública, a accountability contribui para prevenir o
+mau uso do poder e outras formas inadequadas de comportamento, está relacionada com a
+melhoria da gestão e, consequentemente com a responsabilidade dos govemos, dos
+funcionários públicos e dos políticos perante a sociedade, na execução e administração dos
+recursos públicos, visando à busca de maior eficiência na aplicação dos recursos (SILVA,
+2007).
+
+Enfim, existem variadas formas de evidenciação por meio dos quais os gestores, ou
+demais responsáveis pela administração pública, possam divulgar informações e prestar conta
+dos seus atos. No tocante ao REUNI, na UnB, foi criada uma comissão permanente REUNL,
+responsável pela execução e condução dos trabalhos. Todas as atividades desenvolvidas pela
+comissão permanente foram sintetizadas em relatórios semestrais que estão disponíveis no site
+
+da UnB, além de terem auxiliado na realização desse trabalho.
+23
+
+3 PROCEDER METODOLÓGICO
+
+Segundo Oliveira (2013) a pesquisa toma-se necessária e imprescindível quando
+pautada na consciência da existência de um problema e nos anseios por encontrar uma
+solução. Para que a transmissão de conhecimento se dê de forma eficaz, é necessário que a
+pesquisa científica ocorra de forma organizada, analisando-se pontos e contrapontos,
+partindo-se sempre de um planejamento de fases a serem cumpridas de maneira que
+delimitem a matéria acerca da qual se pretende estudar.
+
+Tomando-se como referência as tipologias de delineamentos de pesquisa apresentadas
+por Beuren et al. (2006) o presente trabalho pode ser classificado da seguinte forma:
+
+a) quanto aos objetivos: enquadra-se como uma pesquisa descritiva. Haja vista, que
+está restrita à análise de dados pré-existentes sem qualquer interferência por parte do
+pesquisador. Porém visa observar os fatos, identificar, relatar e comparar os dados da amostra
+estudada, a fim de informar sobre situações, fatos e opiniões ou comportamentos que têm
+lugar na população analisada.
+
+b) quanto aos procedimentos: tratando-se da maneira pela qual se conduz o estudo e se
+obtêm os dados a presente pesquisa pode ser classificada como um estudo de caso, tendo em
+vista que os esforços concentraram-se em determinado objeto de estudo, no caso em questão a
+própria UnB.
+
+c) quanto à abordagem do problema: na realização da pesquisa estão conjugadas as
+abordagens qualitativa e quantitativa. É qualitativa em função da intenção de contribuir com o
+processo de aperfeiçoamento pelo qual vem passando a UnB, oferecendo informações sobre a
+aplicação dos recursos públicos por parte dessa IFES. De outra forma, apesar de não ter sido
+utilizado um instrumento estatístico específico para análise do problema proposto, fez-se uso
+de quantificações e de percentuais para o tratamento e análise dos dados, assim sendo também
+se enquadra como quantitativa.
+
+De acordo com a dimensão temporal, caracteriza-se pelo corte transversal, já que os
+dados foram coletados em um período de tempo pré-determinado que compreende os anos de
+2004 a 2014, abrangendo quatro anos antes do início do Programa REUNI e quatro após sua
+implantação, ficando as informações do ano de 2013 e 2014 como adicionais.
+
+A maior parte dos dados foi coletada nos sítios eletrônicos da UnB e do Senado
+Federal. Os relatórios de gestão, os relatórios de auto avaliação, os anuários estatísticos e os
+24
+
+folders de anos referentes ao período do estudo, disponíveis no site da UnB, serviram de
+subsídio para obtenção dos dados e desenvolvimento do trabalho.
+
+Os dados relativos à quantidade de pessoal nos anos de 2004 a 2014, tais como, o
+efetivo de docentes e servidores técnico administrativos foram obtidos junto ao Decanato de
+Gestão de Pessoas da UnB.
+
+O sistema de informações sobre o orçamento público Siga Brasil, disponível no sítio
+do Senado Federal, foi utilizado para retirada das informações referentes à execução dos
+recursos disponibilizados via Lei Orçamentária Anual (LOA). A obtenção de informações
+acerca dos orçamentos da UnB é bastante complexa, sendo necessário a compilação manual
+dos recursos utilizados. Todos os valores de despesas executadas anualmente, no período de
+2004 a 2014, foram retirados do Siga Brasil e referem-se a empenhos liquidados.
+
+A base de dados do Siga Brasil, utilizada nessa pesquisa, foi desenvolvida pelo Senado
+Federal e integra em um único repositório as informações constantes no Sistema Integrado de
+Administração Financeira do Govemo Federal (SIA FI), Sistema Integrado de Planejamento e
+Orçamento (SIOP), Sistema de Elaboração da Lei Orçamentária (SELOR), Sistema de
+Informação das Estatais (SIEST), Sistema de Gestão de Convênios e Contratos de Repasse do
+Govemno Federal (SICONV?), além de dados de outras bases.
+
+Todos os valores de despesas foram atualizados monetariamente pelo Índice de Preços
+ao Consumidor Amplo (IPCA) a preços de dezembro de 2014, o qual é elaborado pelo
+Instituto Brasileiro de Geografia e Estatística (IBGE). Foi escolhido o IPCA por ser o índice
+utilizado pelo Banco Central do Brasil, desde junho de 1999, para definição e
+acompanhamento das metas anuais de inflação, sendo considerado o índice oficial de inflação
+do país. A correção de valores visa obter uma base comparável que possibilita ter uma ideia
+da evolução do gasto, pois ao se descontar os valores decorrentes de correção, mantem-se o
+poder de compra original.
+
+Segundo Silva (2007), a correção de valores nominais de uma série temporal é
+justificada pela necessidade de se minimizar os efeitos da flutuação do nível de preços. Para
+se avaliar o crescimento real de uma série de dados financeiros, é necessário descontar a parte
+da variação que decorre basicamente da mudança generalizada dos preços (inflação). A
+correção de valores foi realizada utilizando-se a série do IPCA com frequência anual,
+disponível no sítio eletrônico do ipeadata, base de dados econômicos e financeiros mantida
+pelo Instituto de Pesquisa Econômica A plicada (Ipea).
+
+Após a coleta dos dados, as despesas foram divididas, primeiramente, por Categorias
+Econômicas. Sendo que, as Despesas Correntes estão apresentadas separadamente nos
+25
+
+Grupos: 1- Pessoal e Encargos Sociais, e 3 - Outras Despesas Correntes (ODC). O Grupo 2 —
+Juros e Encargos da Dívida não faz parte do orçamento da UnB. No que diz respeito às
+Despesas de Capital, essas compreendem a soma dos Grupos 4 - Investimentos e 5 -
+Inversões Financeiras, tendo em vista a inexpressiva representatividade das despesas
+liquidadas no grupo 5. O Grupo 6 — Amortização da Dívida, também não aparece em virtude
+desse tipo de despesa não fazer parte do orçamento da Universidade.
+
+Para melhor compreensão da seção de análise e discussões, torna-se importante
+discorrer sobre procedimento e organização dos dados. No Grupo 1, os gastos com Pessoal e
+Encargos Sociais foram segregados em pagamentos destinados a servidores ativos e inativos.
+A despesa com ativos compreende os elementos: vencimentos e vantagens fixas - pessoal
+civil; contratação por tempo determinado; outras despesas variáveis - pessoal civil; obrigações
+patronais; ressarcimento de despesas de pessoal requisitado; outros benefícios assistenciais; e
+contribuição a entidades fechadas de previdência. Os gastos com inativos e pensionistas são
+constituídos pelos elementos: aposentadorias; reserva remunerada e reformas; e pensões do
+Regime Próprio de Previdência Social (RPPS) e do militar. Os elementos sentenças judiciais e
+despesas de exercícios anteriores foram tratados por subelementos para segregar as partes
+referentes a ativos e inativos.
+
+O Grupo 3 - Outras Despesas Correntes, é formado por despesas de custeio e
+programas específicos, que se constituem, principalmente, pelos elementos de despesas:
+serviços de terceiros - pessoa física; serviços de terceiros - pessoa jurídica; locação de mão-
+de-obra; obrigações tributárias e contributivas; material de consumo; auxílios; despesas de
+locomoção e outros.
+
+O Grupo 4 — Investimentos, compreende, principalmente, os elementos de despesa
+obras e instalações e equipamentos e materiais permanentes.
+
+A análise dos dados foi realizada da seguinte forma: a série foi dividida em dois
+períodos, o primeiro compreende os anos de 2004 a 2008, comparados com base em 2004, e
+segundo se refere aos anos de 2009 a 2012, tendo como base o ano de 2008. Desta forma,
+pôde-se verificar e confrontar o comportamento e a disposição das despesas, realizadas pela
+UnB, em dois períodos distintos, sendo o primeiro anterior ao REUNI e o segundo período
+após início do Programa.
+
+O comportamento das diferentes classes de gastos utilizadas no trabalho foi analisado,
+com base em estudo desenvolvido por Santos (2008), dispondo-se do uso de números-índices
+que permitem demonstrar a relação entre os valores da despesa de cada ano em relação aos
+períodos-base (2004 e 2008). As razões são expressas em percentual, porém sem utilização do
+26
+
+sinal de percentagem, considerando o período base como 100% e os demais representando
+variações comparadas a esta base, conforme se verifica na seguinte expressão:
+
+Nº índice = — x 100
+
+Q(2004,2008)
+Onde:
+Q, = qualquer categoria de gasto ou quantidade analisado no ano t; e
+Q(2004,2008) = O gasto objeto da análise na posição base (2004 ou 2008 = 100).
+
+O número índice indica a variação relativa no preço, na quantidade, ou no valor entre
+
+um ponto anterior no tempo (período-base) e, usualmente, o período corrente.
+27
+
+4 DESCRIÇÃO E ANÁLISE DOS RESULTADOS
+
+Com o intuito de responder ao questionamento inicialmente proposto e atingir os
+objetivos estabelecidos para o presente trabalho, os dados coletados referentes aos Gastos
+Públicos com a Universidade de Brasília no período de 2004 a 2014 serão expostos e
+analisados nas subseções seguintes.
+
+4.1 Reflexos do REUNI no total das despesas executadas pela UnB
+
+Em termos gerais e sem qualquer tipo de exclusão, ou seja, os dados brutos
+relacionados às despesas liquidadas pela UnB (FUB + HUB) no período de 2004 a 2014, com
+valores atualizados pelo IPCA até dezembro de 2014, podem ser visualizados no Gráfico 1 a
+seguir:
+
+Gráfico 1 - Despesa executada pela UnB, no período 2004 a 2014
+
+ 
+
+Despesas exeutadas pela UnB
+2.000 1.844,8
+
+1.637,7 1.655,8 1.715,1
+É 1.464,7 156
+1.500 1.228,6
+
+1000 | 8645 8576 985
+
+ 
+  
+
+   
+ 
+ 
+ 
+ 
+  
+  
+   
+
+1.143,1 1.210,9
+6 10286 1/0445
+
+ 
+ 
+
+512,1
+
+    
+
+ 
+
+500
+2734
+o [5 46 607 828 903 1469 1060 66 7 202 192
+2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+TOTAL —4—PESSOAL E ENCARGOS SOCIAIS
+
+=E-- OUTRAS DESPESAS CORRENTES —4-—DESPESAS DE CAPITAL
+
+ 
+
+ 
+
+ 
+
+Fonte: Siga Brasil. Elaborado pelo autor.
+Nota: Valores corrigidos pelo IPCA, preços de dezembro de 2014.
+
+Constata-se que no período de 2004 a 2014 houve um crescimento substancial do
+montante das despesas executadas pela UnB, haja vista, que, em valores atualizados até
+dezembro de 2014, as despesas praticamente dobraram, saltando de 864,5 milhões de reais em
+2004, para 1.715,1 milhões de reais em 2014, representando um aumento real de 98,4%. As
+despesas relacionadas à pessoal e encargos sociais, pois cresceram 113,5% em 11 anos, sendo
+seguidas pelas Outras Despesas Correntes (ODC), com 77,4%. Por outo lado, apesar de
+menos expressivas, as despesas de capital, após um período de substancial aumento, atingindo
+28
+
+seu pico de 146,9 milhões de reais em 2009, fecharam o ciclo com queda de 20%, saindo de
+23,9 milhões em 2004, para 19,2 milhões em 2014,
+
+Esse comportamento das despesas de capital é plenamente justificável, pois esse tipo
+de gasto geralmente está relacionado com projetos, os quais, por definição, possuem tempo de
+maturação, ou seja, têm duração limitada, com datas de início e de término pré-definidas,
+como é o caso das construções de imóveis e das aquisições de máquinas, equipamentos e
+outros materiais permanentes. Assim, uma vez construídos ou adquiridos, cessa-se os
+investimentos e, naturalmente, tem início os gastos com a manutenção desses bens, os quais
+passam a ser classificados como despesas correntes.
+
+No que diz respeito à representatividade de cada tipo de despesa no montante dos
+gastos efetuados pela Universidade, a mais relevante é também a de pessoal e encargos
+sociais, com uma participação média de 61% no período sob análise, em seguida vem as
+ODC, com 34%, e por último as despesas de capital, com 5% de participação média.
+
+Após as constatações atinentes à evolução e à composição dos gastos efetuados pela
+UnB, no período delimitado para a presente pesquisa, toma-se importante buscar a origem dos
+recursos que suportaram o financiamento desses gastos. Assim sendo, para fins deste trabalho,
+quanto à sua origem, os recursos foram divididos em: Recursos do Tesouro e Recursos
+Próprios. O comportamento dessas Fontes de Recursos, em termos percentuais e ao longo dos
+11 anos estudados, pode ser visualizado no Gráfico 2 seguinte.
+
+Observa-se que os recursos do tesouro são os mais representativos e possuem, apesar
+de errática, uma tendência de crescimento ao longo do tempo, saindo de uma participação
+relativa de 72,5%, em 2004, para uma participação relativa de 82,5%, em 2014. De qualquer
+forma, os recursos próprios têm uma representatividade expressiva no orçamento da UnB.
+Porém, isso se deve a existência do CESPE, o que é uma especificidade dessa Universidade.
+
+Gráfico 2 - Despesas por Fonte de Recursos, no período 2004 a 2014
+
+ 
+
+Despesas da UnB por Fonte de Recursos
+
+27,5 33,2% —28,1
+%
+(VA
+
+2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+= TESOURO =PRÓPRIOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Siga Brasil. Elaborado pelo autor.
+29
+
+Cabe observar que, até o momento, a análise foi feita sobre todos os tipos de gastos
+efetuados pela UnB no período de 2004 a 2014. Entretanto, tendo em vista o objetivo geral
+deste trabalho, que é o de analisar os reflexos do Programa REUNI no orçamento da
+Universidade, verificou-se a necessidade de excluir os gastos com inativos e pensionistas. Isso
+se deu, visto que esse tipo de despesa, não contribui para o produto final colocado à
+disposição da sociedade por essa Instituição de Ensino Superior, que é o aluno formado.
+Assim sendo, o Gráfico 3 seguinte expõe as despesas executadas pela UnB após a dedução
+dos gastos com inativos e pensionistas.
+
+Tendo em vista que o ajuste efetuado só afetou o Grupo 1 — Pessoal e Encargos
+Sociais, não há que se fazer análise no que diz respeito ao comportamento dos demais tipos de
+despesas, pois esse aspecto já foi tratado anteriormente. Entretanto, no que diz respeito às
+despesas do Grupo 1, é possível constatar que essas cresceram 127,6%, saltando, de 396,6
+milhões de reais, para 902,8 milhões de reais em 11 anos. Resultado superior ao observado
+quando se computou os gastos com inativos e pensionistas, cuja variação positiva foi de
+113,5%. Tal variação pode ser resultante, tanto do aumento de efetivo, quanto de ganhos
+remuneratórios reais. Entretanto, esse aspecto será analisado em tópico específico.
+
+Já no tocante à representatividade de cada tipo de despesa no montante dos gastos
+efetuados pela UnB, após a dedução dos gastos com inativos e pensionistas, a alteração foi
+significativa. As despesas de pessoal e encargos sociais que tinham uma participação média
+de 61%, passou para 54%, as ODC que representavam 34%, passou para 40%, e as de capital
+passaram de 5% para 6% de participação média.
+
+Gráfico 3 - Despesas executadas pela UnB - Excluídos Inativos e Pensionistas
+
+ 
+
+      
+   
+
+1.800 Despesas da UnB, menos inativos e pensionistas LES
+
+E 1.600 pa
+
+É 1.392,0 1.399,4 13178 1.407,0
+1.400 1.245,0
+
+ 
+    
+   
+    
+    
+ 
+   
+
+   
+  
+
+   
+ 
+
+1.200 9979 1.030,8
+902,8
+1.000 8004 nm11 8566
+800 | 6938 686,2 ng8 PA à
+525,3 59
+
+600 | 1066 431,9 o 4763
+400 6 3257 - 485,0
+
+; , , 146,9
+200 23 463 60,7 82,8 90,3 106,0 86,6
+
+E 24,7 20,2 19,2
+
+ 
+
+0
+2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+
+==g=— PESSOAL E ENCARGOS SOCIAIS === OUTRAS DESPESAS CORRENTES
+«ge DESPESAS DE CAPITAL em TOTAL
+
+ 
+
+ 
+
+ 
+
+Fonte: Siga Brasil. Elaborado pelo autor.
+Nota: Valores corrigidos pelo IPCA, preços de dezembro de 2014.
+30
+
+Conforme exposto no capítulo destinado à metodologia, a análise dos reflexos do
+Programa REUNI no orçamento da UnB, tem como base o ano de 2008. Haja vista, que esse
+Programa foi formalizado junto aa MEC no segundo semestre daquele ano, com reflexos
+orçamentários somente a partir do ano de 2009. Dessa forma, para efeitos comparativos, a
+análise se deu em dois períodos: o primeiro, de 2004 a 2008, com base em 2004, e o segundo,
+de 2009 a 2012, com base em 2008. Ficando as realizações dos anos de 2013 e 2014 apenas
+como suporte para análises complementares. Assim sendo, pode-se confrontar o
+comportamento e a composição das despesas, realizadas pela UnB, antes e após a implantação
+do referido Programa.
+
+Utilizando-se de Números Índices como parâmetro de análise, é possível observar, na
+Tabela 1 seguinte, que houve um maior crescimento das despesas da UnB no período anterior
+à implantação do Programa REUNI. Haja vista, que essas tiveram um acréscimo de 49 pontos
+percentuais (p.p), contra um crescimento de 28 p.p após a implantação do referido Programa.
+
+Tabela 1 - Orçamento da UnB x Alunos matriculados — antes e após o REUNI
+
+ 
+
+ 
+
+, 1º Período 2º Período
+Período 2013 2014
+2004 2005 2006 2007 2008 | 2008 2009 2010 2011 2012
+Executado 694 686 800 998 1.031 1.031 1.245 1.392 1.399 1.318 1.558 1.407
+(em milhões)
+
+Número Índice 100 99 115 144 149 100 121 135 136 128 151 136
+
+ 
+
+Alunos
+
+Matriculados 25.864 25.294 25.993 28.066 30.259 | 30.259 33.078 35410 45.794 44519 48455 53171
+
+Número Índice 100 98 100 109 117 100 109 117 151 147 160 176
+
+ 
+
+ 
+
+Gasto Unitário
+
+Anual 26.826 27.130 30.791 35.555 34.067 | 34.067 37.637 39.311 30.558 29.602 32.160 26.461
+(em reais)
+Número Índice 100 101 115 133 127 100 110 115 90 87 94 78
+
+Fonte: Siga Brasil para os gastos; Anuário Estatístico/UnB/2014. Elaborado pelo autor.
+Nota: Valores corrigidos pelo IPCA a preços de dezembro de 2014. Alunos registrados 2º semestre.
+
+Desse resultado é possível inferir que, sob a ótica orçamentária, mesmo antes da
+implantação do REUNI, a UnB já passava por um processo de recuperação de seus meios. De
+outra forma, também é possível deduzir que esse Programa, apesar de ter entre suas
+estratégias o aumento da capacidade instalada da Universidade, tanto em pessoal quanto em
+infraestrutura e material, não pode ser indicado como único responsável pela expansão dos
+gastos da UnB ao longo do período estudado. Por outro lado, tal situação vai ao encontro de
+uma das metas gerais pré-estabelecidas, que era o melhor aproveitamento dos meios já
+existentes.
+31
+
+O objetivo estabelecido nas Diretrizes Gerais do REUNI, de melhor aproveitamento da
+estrutura física e de recursos humanos existentes nas universidades federais, também pode ser
+constatado ao se verificar o comportamento do quantitativo de alunos matriculados
+anualmente antes e depois da implantação do citado Programa. Pois, no período que vai de
+2004 a 2008 houve um incremento de 17 p.p no número de alunos ingressantes na UnB,
+enquanto que no período de 2008 a 2012 esse incremento foi de 47 p.p. Ou seja, houve um
+aumento do número de alunos matriculados sem que isso resultasse em um aumento
+proporcional de recursos orçamentários.
+
+Outro aspecto constante na Tabela 1 que vale a pena ser analisado, e que corrobora
+com as constatações anteriores, é o fato de ter havido um decréscimo anual do gasto por aluno
+após a implantação do REUNI. Haja vista, que, no período anterior ao referido Programa, o
+gasto unitário cresceu 27 p.p, e, no período pós implantação o gasto decresceu 13 p.p quando
+se leva em consideração o ano de 2012 e 22 p.p quando se leva em consideração o ano de
+2014.
+
+4.2 Reflexos do REUNI nas despesas com pessoal da UnB
+
+As despesas do grupo de Pessoal e Encargos Sociais são integralmente financiadas
+com recursos oriundos do Tesouro, e contemplam as forças de trabalho da FUB e de todas
+suas unidades gestoras, inclusive o CESPE e o HUB.
+
+A Tabela 2, a seguir, permite fazer comparações, por meio de números índices, do
+valor gasto com o pagamento de pessoal ativo em relação à variação do quantitativo de
+efetivos ativos, que compreendem docentes e servidores administrativos. Cabe observar que
+não foi possível tratar separadamente o gasto com professores, devido o pagamento ser
+
+realizado na mesma rubrica para todo o efetivo.
+
+Tabela 2 - Gasto Pessoal Ativo x Efetivo — Antes e após o REUNI
+
+ 
+
+ 
+
+ 
+
+ 
+
+a 1º Período 2º Período
+Feriodo 2001 2005 2006 2007 2008 | 2008 2009 2010 2011 201 “09 2014
+Executado 07 5 43 525 476 | 476 596 720 72 7h 857 903
+(em milhões)
+Número Índice 100 82 109 132 120 | 100 125 151 162 164 180 190
+Efetivo 5.682 5683 5.823 5783 5962 | 5962 6509 6926 7502 7927 8016 839
+Número Índice 100 100 102 102 105 | 100 109 116 12 133 134 141
+Gasto Unitário
+Anual 69.795 57.313 74172 90.832 79.891 | 79.891 91513 103934 102.915 98.540 106.867 107.512
+(em reais)
+Número Índice 100 82 106 130 114 | 100 115 130 129 123 134 135
+
+ 
+
+Fonte: Siga Brasil para os gastos; DGP/UnB. Elaborado pelo autor.
+Nota: Valores corrigidos pelo IPCA a preços de dezembro de 2014.
+32
+
+Verifica-se que o crescimento do efetivo não acompanhou o aumento dos gastos
+executados. O valor gasto com o pagamento de ativos cresceu 20 p.p no primeiro período,
+enquanto a variação de efetivos foi de 5 p.p. No segundo período houve aumento considerável
+de efetivo, que conforme exposto, alcançou 33 p.p, se comparado o ano de 2012 com o ano de
+2008. Entretanto, o valor gasto também aumentou, em maior proporção se comparado ao
+primeiro período.
+
+O comportamento do gasto unitário, na Tabela 2, é decorrente da relação do valor da
+despesa com pessoal ativo e o quantitativo de pessoal. Durante o período de 2004 a 2008,
+houve aumento de 14 p.p, já após o REUNI o crescimento foi de 23 p.p em 2012 e de 35 p.p
+se considerado 2014. Essa variação observada no gasto unitário sinaliza para duas
+possibilidades, sendo a primeira delas a de que houve ganho real em termos de salário, a
+segunda para o fato de que aumentou-se o nível de especialização dos profissionais, o que
+gera um aumento remuneratório.
+
+Dispondo-se do mesmo método para análise da evolução dos gastos, a Tabela 3
+possibilita fazer relação do valor gasto com o pagamento de pessoal ativo e a quantidade de
+alunos regularmente registrados em cada ano. Cabe observar que o Gasto Unitário Anual
+calculado a seguir não se assemelha ao custo por aluno apurado pela UnB, o qual segue uma
+metodologia própria e completamente diferente da utilizada na presente pesquisa.
+
+Tabela 3 — Relação Gasto Pessoal Ativo x Aluno — Antes e após REUNI
+1º Período 2º Período
+
+ 
+
+ 
+
+Periodo 73005 2006 2007 2008] 2008 2009 2010 2011 20) “9 2014
+Executado 7 o; 42 55 46 | 46 56 Do mM Ás 903
+(em milhões)
+
+Número Índice 100 82 109 132 120 100 125 151 162 164 180 190
+
+ 
+
+Alunos
+
+Matriculados 25.864 25.294 25.993 28.066 30.259 | 30.259 33.078 35410 45.794 44519 48455 53171
+
+Número Índice 100 98 100 109 117 100 109 117 151 147 160 176
+
+ 
+
+Gasto Unitário
+Anual 15.333 12.877 16.616 18.716 15.741 | 15.741 18.008 20.329 16.860 17.546 17.679 16.979
+(em reais)
+
+ 
+
+Número Índice 100 8 108 122 103 100 114 129 107 111 112 108
+
+Fonte: Siga Brasil para os gastos; Anuário Estatístico/UnB/2014. Elaborado pelo autor.
+Nota: Valores corrigidos pelo IPCA a preços de dezembro de 2014. Alunos registrados 2º semestre.
+
+Diferente do resultado encontrado na subseção anterior, no qual se verificou uma
+redução no gasto unitário anual com aluno, a Tabela 3 mostra que houve um crescimento
+desse gasto, o que permite concluir que o valor gasto com pessoal não tem participação no
+
+decrescimento do gasto com aluno.
+33
+
+A Proposta da UnB, apresentada no âmbito do REUNI, previu a ampliação do corpo
+de docentes e dos servidores técnico-administrativos, mediante a criação de vagas para os
+respectivos cargos. A Tabela 4 apresenta a evolução da quantidade de docentes e de
+servidores técnico-administrativos da UnB, incluído o HUB, no período compreendido entre
+2004 e 2014.
+
+Tabela 4 - Evolução do efetivo ativo da UnB, de 2004 a 2014
+
+ 
+
+QUADRO DE PESSOAL
+
+ 
+
+2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+Docentes efetivos 1.307 1.345 1.471 1,449 1.536 1.837 2.104 2.267 2.354 2.373 2.418
+
+Substitutos 325 309 266 289 227 201 100 146 202 248 263
+Visitantes 32 20 23 31 35 23 16 22 44 43 40
+Total Docentes 1.664 1.674 1.760 1.769 1.798 2.061 2.220 2.435 2.600 2.664 2.721
+Servidores Admin. 2.354 2.335 2.303 2.245 2.366 2.387 2.486 2.632 2.727 2.688 2.955
+Total ativos 5.682 5.683 5.823 5.783 5.962 6.509 6.926 7.502 7.927 8.016 8.397
+
+ 
+
+Fonte: DGP/UnB. Elaborado pelo autor.
+
+Entre os anos de 2004 e 2008, verifica-se que o total do efetivo ativo não apresentou
+variação significativa. Considerando-se os anos de 2008 a 2012, período de execução do
+REUNI, houve um aumento de efetivo da ordem de 802 docentes e 361 técnicos-
+administrativos, o que representa um crescimento de 53% na quantidade de docentes, e de
+30% no número de servidores, se comparados em relação a 2008. Tal situação corrobora com
+a Proposta da UnB no âmbito do REUNI.
+
+A Comissão Permanente do REUNI, criada para acompanhamento da execução do
+Programa, concluiu sobre a existência de carência generalizada de recursos humanos na
+Universidade, sendo que várias áreas acadêmicas e administrativas não possuem servidores do
+quadro e funcionam com o apoio de estagiários e de pessoal contratado e terceirizado. O
+REUNI não supriu todas as carências de pessoal da Instituição, mas permitiu à Universidade
+alcançar o objetivo inicial de redução do déficit de servidores e de melhoria das condições de
+funcionamento das unidades (UnB, 2013a).
+
+4.3 Reflexos do REUNI nas Outras Despesas Correntes e de Capital
+
+Consoante ao desenvolvido nas duas subseções anteriores, a Tabela 5 seguinte traz a
+mesma comparação para as despesas com ODCC, que consiste na relação do valor gasto e a
+quantidade de alunos matriculados. Pode-se observar que houve maior crescimento dos gastos
+
+no período anterior aa REUNI, pois entre os anos de 2004 e 2008 a despesa aumentou 87 p.p,
+34
+já no período após implantação do Programa, observa-se que houve um incremento de 3 p.p
+
+até o ano de 2012.
+
+Tabela 5 - Outras despesas correntes e de capital, antes e após 2008.
+1º Período 2º Período
+
+ 
+
+ 
+
+ 
+
+Período g—>005 2006 2007 2008] 20082009 2010 2011 20) 209 2014
+Executado 7 og ag am 555 | 555 649 62 67 57º mM 504
+(em milhões)
+Número Índice 100 121 14 159 187 | 100 7 17 13 97 127 g
+Alunos
+
+: 25.864 25.294 25.993 28.066 30.259 | 30.259 33078 35410 457 44519 48455 53171
+Matriculados
+
+Número Índice 100 98 100 109 117 100 109 117 151 147 160 176
+
+ 
+
+Gasto Unitário
+Anual 11.493 14253 14.175 16.839 18.326 | 18.326 19.630 18.982 13.698 12.056 14481 9.482
+(em reais)
+
+Número Índice 100 124 123 147 159 100 107 104 7 66 79 52
+
+Fonte: Siga Brasil para os gastos; Anuário Estatístico/UnB/2014. Elaborado pelo autor.
+Nota: Valores corrigidos pelo IPCA a preços de dezembro de 2014.
+
+ 
+
+Verifica-se, acima, que houve um decréscimo substancial do gasto unitário anual após
+o período de início do REUNI, tal situação decorre do fato de ter havido um aumento
+considerável de alunos sem o correspondente aumento dos recursos destinados ao
+funcionamento à manutenção da Universidade, o que contribui para diminuição do gasto
+unitário anual. O comportamento das despesas de ODCC assemelha-se ao verificado na
+despesa total da UnB. Esse resultado vai ao encontro das diretrizes preconizadas pelo REUNI
+e permite concluir pela existência de um aumento da eficiência operacional da UnB ao longo
+do tempo. Assim, pode-se dizer que houve uma otimização dos meios disponíveis, já que
+houve um acréscimo substancial de alunos sem que houvesse um aumento proporcional dos
+gastos.
+
+Conforme exposto anteriormente, as despesas correntes e de capital somadas
+correspondem à participação média de 46% no montante dos gastos da UnB. Apenas uma
+parcela dessas despesas é custeada com recursos do Tesouro, tomando-se importante
+identificar a origem dos recursos que suportam o financiamento desses gastos. O
+comportamento dessas Fontes de Recursos pode ser visualizado no Gráfico 4 seguinte. As
+informações foram apresentadas de forma consolidada, com integração das unidades
+orçamentárias FUB e HUB.
+
+Considerando que a maior parte dos recursos da União é consumida no pagamento de
+pessoal e encargos sociais, os recursos destinados à manutenção e investimento tornam-se
+
+insuficientes. Nesse sentido, o comportamento da participação dos recursos próprios da UnB,
+35
+
+como se pode visualizar, tem se mostrado muito significativo. Entretanto, cabe observar que
+essa é uma especificidade da UnB, devido à existência do CESPE.
+
+Gráfico 4 - Despesas correntes e de capital por Fonte de Recursos, 2004 a 2014
+ODCC por Fonte
+
+ 
+
+800 701,7
+
+649,3 672,2 6273
+
+im
+
+o 472,6 qua
+360,5 3684
+
+400 | 297,3
+
+300
+
+200
+
+100
+
+     
+ 
+  
+
+ 
+
+2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+=—4TESOURO —m--PROPRIOS —4=TOTAL
+
+ 
+
+ 
+
+ 
+
+Fonte: Siga Brasil. Elaborado pelo autor.
+
+Nota-se que o comportamento da série de recursos provenientes do tesouro, apesar de
+errática, possui uma tendência de crescimento ao longo do tempo, saindo de uma participação
+relativa de 20,2%, em 2004, para uma participação relativa de 25,4% em 2008, e de 40,6% no
+ano de 2014,
+
+Ao longo dos anos as despesas de custeio e investimento da universidade foram
+ampliadas em função da expansão física e acadêmica. Os recursos do Tesouro não foram
+suficientes para cobrir todas essas despesas. Assim sendo, eles vêm sendo complementados
+com recursos próprios captados pela UnB, oriundos de projetos e atividades diversas, como,
+aluguéis, receitas provenientes de concursos realizados pelo CESPE, dentre outras. Os
+recursos próprios mostram-se importantes para que a Universidade mantenha a sua estrutura
+física em funcionamento.
+
+Outro aspecto constante no Gráfico 4, que vale a pena ser destacado, está no ano de
+2014, no qual observa-se uma queda expressiva dos recursos oriundos da Fonte Recursos
+Próprios. Conforme constante em Relatório de Gestão (UnB, 2014), a redução na captação de
+recursos próprios foi decorrente da criação, em 2013, da Organização Social (OS)
+denominada, Centro Brasileiro de Pesquisa em Avaliação e Seleção e Promoção de eventos
+(CEBRASPE), que passou a ser vinculada ao Ministério da Educação (MEC) e não mais à
+FUB. Tal qualificação se deu por meio do Decreto Nº 8.078, de 19 de agosto de 2013.
+36
+
+A Tabela 6, seguinte, apresenta o valor total executado com ODCC ao longo do
+período de estudo, ou seja, de 2004 a 2014. Verifica-se que o item outros serviços de terceiros
+— pessoa física é o elemento de despesa mais representativo. Este elemento é constituído,
+principalmente, por gastos referentes ao pagamento de prestadores e demais serviços
+relacionados a atividade do CESPE.
+
+Cabe ressaltar que o elemento de despesa obrigações tributárias, com parcela relativa
+de 9,6% em relação ao gasto total de ODCC, também possui grande representatividade de
+gastos relacionados às atividades do CESPE. Apesar desses gastos não guardarem relação
+com formação do aluno, optou-se por não excluí-los, devido ao fato de parte dos recursos
+arrecadados pelo CESPE, serem utilizados para fomentar atividades de ensino, pesquisa e
+
+extensão universitária.
+
+Tabela 6 - Outras despesas correntes e de capital por elemento de despesa
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ELEMENTOS DE DESPESA TOTAL %
+36- OUTROS SERVICOS DE TERCEIROS - PESSOA FISICA 1974382.14579 392%
+39 - OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA 881.484.042,71 175%
+37- LOCACAO DE MAO-DE-OBRA 582.395.002,50 11,6%
+47 - OBRIGACOES TRIBUTARIAS E CONTRIBUTIVAS 485.567.98307 9,6%
+30 - MATERIAL DE CONSUMO 261.728.34450 52%
+18 - AUXILIO FINANCEIRO A ESTUDANTES 181.069.13397 36%
+aee 46 - AUXILIO-ALIMENTACAO 185.593.02677 3,7%
+CORRENTES 33- PASSAGENS E DESPESAS COM LOCOMOCA O 161.656.38476 32%
+20 - AUXILIO FINANCEIRO A PESQUISADORES 78.878.14441 1,6%
+14- DIARIAS - PESSOAL CIVIL 54.214.19520 11%
+93- INDENIZACOES E RESTITUICOES 52.11463232 1,0%
+49 - AUXILIO-TRANSPORTE 54.454. 002,66 1,1%
+92 - DESPESAS DE EXERCICIOS ANTERIORES 45204.92343 0,9%
+* OUTROS 38.400.699,64 0,8%
+SOMA 5.037.142.661,73 10,0%
+ELEMENTOS DE DESPESA TOTAL %
+pespesas 1" OBRASEINSTALACOES 357.69243308 50,0%
+DE CAPIrAL 52" EQUIPAMENTO E MATERIAL PERMANENTE 311.588.719,12 44,0%
+** OUTROS 38.267.11299 54%
+SOMA 707.548.265,19 | 100,0%
+RESUMO TOTAL %
+TOTAL ODC 5037.142.60L73 87,1%
+ODCC DESPESAS DE CAPITAL 707.548.265,19 12,3%
+SOMA 5.744.690.926,92 10,0%
+
+Fonte: Siga Brasil. Elaborado pelo autor.
+Nota: Valores corrigidos pelo IPCA, preços de dezembro de 2014. *OUTROS: soma dos elementos de despesa -
+67, 08, 48, 35, 04, 91, 31, 41, 59 e 01. **OUTROS: soma dos elementos de despesa - 39, 47, 62 e 92.
+
+As despesas executadas no grupo de ODC e Capital ocorreram em atendimento às
+
+necessidades operacionais da Universidade. O aumento real verificado é condizente com as
+
+atividades previstas no plano de metas e que foram executadas através do REUNI.
+a
+
+O gasto do grupo Investimentos está dividido, principalmente, em despesas destinadas
+à realização de obras e reformas e à aquisição de equipamentos e materiais permanentes. O
+montante total gasto com obras e reformas durante todo o período foi de 357,69 milhões.
+Quanto à aquisição de equipamentos e materiais permanentes o total no período foi de 311,58
+milhões.
+
+O APÊNDICE A relaciona os gastos realizados com obras e reformas durante a
+execução do REUNI. O montante total gasto com obras e reformas durante o REUNI na UnB,
+em valores nominais, foi de R$ 91.466.834,63.
+
+No ano de 2008 as obras de maior valor foram a construção do prédio do campus do
+Gama e parte do Instituto de Ciências Biológicas no campus Darcy Ribeiro. Em 2009 as
+principais obras foram à construção dos Departamentos de Ciência da Computação e
+Estatística, Bloco de Sala de Aulas Norte, Unidade de Ensino e Docência no Gama e o Bloco
+de Salas de Aula Eudoro de Souza (BA ES). Durante o ano de 2010 os maiores investimentos
+foram gastos na construção do Instituto de Relações Intemacionais e Política Externa
+(IREL/IPOL), Bloco de Salas de Aula Sul (BSA) e módulos de serviço. Em 2011 destacaram-
+se as obras de construção do Prédio do Instituto de Ciências Sociais (ICS), 22 etapa do BSA,
+reformas dos banheiros da BCE e de Anfiteatros do ICC. O ano de 2012 foi basicamente de
+termos aditivos para complementação de obras e reformas já iniciadas.
+
+No âmbito da infraestrutura, as obras realizadas não acompanharam o crescimento
+acadêmico da Universidade, destaca-se que alguns prédios foram acabados e entregues, mas
+parte das obras previstas não foi concluída, restando um conjunto de edificações a serem
+finalizadas sem que haja o orçamento correspondente para seu financiamento.
+
+As Instalações do campus da Faculdade de Ceilândia (FCE) são novas, mas a estrutura
+já não é suficiente para a quantidade de alunos, a Faculdade utiliza o espaço do Centro de
+Ensino Médio nº 4, que foi cedido através de parceria entre o Governo do Distrito Federal
+(GDF) ea UnB (DFTV, 2015).
+
+A outra parte dos recursos de investimento oriundos do REUNI foi utilizada para
+aquisição de equipamentos e materiais permanentes em atendimento às necessidades da
+Universidade, seus Institutos e Faculdades. O critério adotado para aquisição de equipamento
+foi de R$ 5.000,00 por vaga nova aberta.
+
+Os equipamentos e materiais permanentes que compõem a demanda das unidades
+acadêmicas constituem-se de itens como: mobiliário em geral - mesas, cadeiras, armários,
+
+arquivos; bens de informática - estabilizadores, impressoras, microcomputadores, monitores,
+38
+
+nobreaks, notebooks, projetores, scanners, processadores; materiais e equipamentos de
+laboratório; utensílios domésticos - condicionadores de ar, refrigeradores, televisores, fax.
+
+O Apêndice B relaciona os equipamentos e materiais permanentes adquiridos durante
+o período do programa REUNI na UnB. O total gasto com equipamentos e materiais
+permanentes, em valores nominais, foi de R$ 27.923.617,69.
+
+Enfim, é possível verificar que a partir de 2009 os créditos orçamentários da UnB
+foram fortalecidos com advento do programa REUNI, entretanto os recursos do Tesouro não
+são suficientes para custear o atendimento de necessidades básicas da Instituição. A
+quantidade de obras executadas e financiadas pelo REUNI preocupa, em função de não ter
+recursos suficientes para manter tais edificações e prover despesas básicas necessárias para
+atendimento à sua atividade fim, tais como, água e esgoto, energia elétrica, telefonia, limpeza,
+vigilância e segurança, e das instalações (TEIXEIRA, 2013).
+39
+
+5 CONSIDERAÇÕES FINAIS
+
+O trabalho teve como objetivo evidenciar o comportamento dos gastos da UnB após a
+sua entrada no Programa REUNI. Buscou-se destacar as variações das despesas orçamentárias
+executadas pela UnB, no período de 2004 a 2014, confrontando-as com o número de alunos
+matriculados, analisar o comportamento dos gastos com pessoal antes e após a implantação do
+Programa na UnB e fazer exposição dos principais gastos com a ampliação e manutenção da
+infraestrutura instalada.
+
+Em termos gerais, verificou-se um crescimento substancial no total de despesas da
+UnB, sendo que as despesas que mais contribuíram para esse comportamento foram às
+relacionadas à pessoal, seguidas pelas outras despesas correntes e com menor
+representatividade as despesas de capital. O comportamento das despesas de capital justifica-
+se pelo fato de estar relacionadas a projetos que possuem maturação e duração limitada. Outro
+aspecto observado foi a redução do gasto unitário anual por aluno, o que sugere um melhor
+aproveitamento da estrutura física e de recursos humanos após a implantação do REUNI.
+
+A Universidade de Brasília possui a especificidade de deter o CEBRASPE,
+denominado CESPE. Uma parte significativa das receitas próprias da UnB é proveniente do
+CESPE, que tem como meio de arrecadação a realização de concursos públicos, processos de
+seleção, exames e avaliações.
+
+No tocante aos gastos com pessoal, verifica-se que o aumento do montante gasto ao
+longo do tempo foi maior que o acréscimo de efetivo. O que sinaliza a existência de ganho
+real em termos salariais, mesmo que esses sejam decorrente de melhoria na qualificação
+profissional.
+
+Apesar disso, pode-se concluir que o REUNI, de fato, ampliou o acesso à educação
+superior, sem que isso resultasse em aumento proporcional dos gastos. Pois, após a
+implantação desse Programa, houve um aumento de 47% no número de alunos matriculados,
+enquanto que, em termos gerais, as despesas cresceram apenas 28% no mesmo período.
+
+Cabe destacar que em relação aos gastos com manutenção e ampliação da capacidade
+instalada, o montante total executado com obras e reformas durante todo o período de estudo
+foi de 357,69 milhões, e para a aquisição de equipamentos e materiais permanentes o total foi
+de 311,58 milhões. A pesar desses investimentos, realizados de forma pontual e concentrados,
+principalmente, nos anos de 2009 e 2010, os gastos com o funcionamento da Universidade
+vêm decrescendo substancialmente quando comparados com a quantidade de alunos
+40
+
+matriculados. Assim sendo, se por um lado isso pode denotar um melhor aproveitamento dos
+meios existentes, também é preciso verificar até que ponto isso não terá reflexos na qualidade
+do ensino. Pois, é necessário também se verificar as condições das instalações e a qualidade
+dos serviços que estão sendo oferecidos.
+
+Em função disso, sugere-se como trabalhos futuros, avaliar essa questão da ampliação
+do número de vagas em relação à qualidade do ensino. Bem como, a ampliação do escopo
+deste trabalho para as demais IFES, e, ainda, o desenvolvimento de abordagens para constatar
+sobre os critérios estabelecidos para a avaliação do Programa REUNI.
+41
+
+REFERÊNCIAS
+
+BEUREN, Ilse Maria et al (Org.). Como Elaborar Trabalhos M onográficos em
+Contabilidade: Teoria e Prática. 3. ed. São Paulo: Atlas, 2006.
+
+BRASIL. Lei nº 3.998, de 15 de dezembro de 1961. Autoriza o Poder Executivo a instituir a
+Fundação Universidade de Brasília, e dá outras providências. Diário Oficial da União.
+Brasília, DF, 23 dez. 1961. Disponível em: < http://www2.camara.leg.br/legin/fed/lei/1960-
+1969/lei-3998-15-dezembro-1961-376850-publicacaooriginal-1-pl.html>. A cesso em: 07 jul.
+2015.
+
+o Lei nº4.320, de 17 de março de 1964. Estatui Normas Gerais de Direito Financeiro
+para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios
+e do Distrito Federal. Diário Oficial da União. Brasília, DF, 23 jan. 1964. Disponível em:
+<http://www .planalto.gov.br/ccivil 03/leis/L4320.htm>. A cesso em: 22 jun. 2015.
+
+area . Constituição (1988). Constituição da República Federativa do Brasil de 1988.
+Brasília, DF, 05 out. 1988. Disponível em:
+
+<http://www .planalto.gov.br/ccivil 03/constituicao/constituicaocompilado.htm>. A cesso em:
+15 jun. 2015.
+
+O . Lei nº 9.394, de 20 de dezembro de 1996. Estabelece as diretrizes e bases da
+educação nacional. Diário Oficial da União. Brasília, DF, 23 dez. 1996. Seção 1, p. 27833.
+Disponível em: <http://www2.camara.leg.br/legin/fed/lei/1996/lei-9394-20-dezembro-1996-
+
+362578-normaatualizada-pl.html>. A cesso em: 15 jun. 2015.
+
+o . Decreto nº 6.096, de 24 de abril de 2007. Institui o Programa de A poio a Planos de
+Reestruturação e Expansão das Universidades Federais - REUNI. Diário Oficial União.
+Brasília, DF, 24 abr. 2007a. Disponível em: <http://www.planalto.gov.br/ccivil 03/ ato2007-
+2010/2007/decreto/d6096.htm>. A cesso em: 15 jun. 2015.
+
+O . Decreto Nº 8.078, de 19 de agosto de 2013. Qualifica como Organização Social o
+Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos - Cebraspe..
+Diário Oficial União. Brasília, DF, 20 ago. 2013. Disponível em:
+
+<http://www .planalto.gov.br/ccivil 03/ ato2007-2010/2007/decreto/d6096.htm>. A cesso em:
+07 jul. 2015.
+
+o . Ministério da Educação. Secretaria de Educação Superior. Reestruturação e
+Expansão das Universidades Federais: Diretrizes Gerais. Brasília: MEC, 2007b. Disponível
+em: <http://portal.mec.gov.br/sesu/arquivos/pdf/diretrizesreuni.pdf>. A cesso em: 15 jun.
+2015.
+
+O . Ministério da Educação. Secretaria de Educação Superior. Análise sobre a
+Expansão das Universidades Federais 2003 a 2012. Brasília: MEC, 2012a. Disponível em:
+<http://portal.mec.gov.br/index.php?option=com docman&task=doc download&gid=12386
+&Itemid=>. A cesso em: 15 jun. 2015.
+
+o . Organização das Nações Unidas para a Educação, a Ciência e a Cultura. Conselho
+Nacional de Educação do Ministério da Educação. Desafios e perspectivas da educação
+42
+
+superior brasileira para a próxima década 2011 - 2020. Brasília: UNESCO, 2012b.
+Disponível em: <http://unesdoc.unesco.org/images/0021/002189/218964POR .pdf>. A cesso
+em: 16 jun. 2015.
+
+TV Globo DF. Campus da UnB em Ceilândia está pequeno. Brasília: DETV, 2015. Son.,
+color. Disponível em: <http://fce.unb.br/noticias/259-campus-unh-globo-22-05-2015>.
+Acesso em: 22 jun. 2015.
+
+CASTRO, Domingos Poubel de. Auditoria, Contabilidade e Controle Interno no Setor
+Público. 5. ed. São Paulo: Atlas, 2013. Cap. 8. p. 568-574.
+
+CHAUI, Marilena. A universidade pública sob nova perspectiva. Rev. Bras. Educ, [s.1.], n.
+24, p.5-15, set. 2003. Fap-UNIFESP (SciELO). DOI: 10.1590/s1413-24782003000300002.
+
+IUDÍCIBUS, Sérgio de. Teoria da Contabilidade. 6. ed. São Paulo: Atlas, 2000.
+
+MELO, Lívia Veleda de Sousa e. Democarização do acesso à educação superior e pública
+no Distrito Federal - Universidade de Brasília/Faculdade UnB Planaltina. 178 f.
+Dissertação (Mestrado) - Curso de Mestrado em Educação, Universidade de Brasília, Brasília,
+2009.
+
+OLIVEIRA, Heverson Cid. Gastos Públicos Federais x Ensino Superior x Expansão Da
+Universidade De Brasília — Unb. 68 f. Dissertação (Mestrado) - Curso de Economia,
+Universidade de Brasília, Brasília, 2013.
+
+PADOVEZE, Clóvis Luis. Contabilidade gerencial e sistema de informação. In: PADOVEZE,
+Clóvis Luis. C onatbilidade Gerencial: Um enfoque em sistema de informação contábil. 7.
+ed. São Paulo: Atlas, 2010. Cap. 1. p. 47-49.
+
+PEDERIVA, João Henrique. Accountability no Setor Público. Contabilidade, G estão e
+Governança, [s.i.], v. 1, n. 2, p.98-116, jun. 1998. Disponível em: <http://www.cgg-
+amg.unb.br/index.php/contabil/article/view/108>. A cesso em: 22 jun. 2015.
+
+SANTOS, Antonio Carlos dos. Gastos Públicos no Brasil: evidenciação da dinâmica dos
+gastos correntes federais no período de 1995 a 2006. 139 f. Dissertação (Mestrado) - Curso de
+Mestrado em Ciências Contábeis, Universidade de Brasília, Universidade Federal da Paraíba,
+Universidade Federal de Pemambuco e Universidade Federal do Rio Grande do Norte,
+Programa Multiinstitucional e Inter-regional de Pós-graduação em Ciências Contábeis,
+Brasília, 2008.
+
+SILVA, Romildo Araújo da. Evolução e Dinâmica dos Gastos do Governo Federal
+Brasileiro no Período 1995-2005. 2007. 93 f. Dissertação (Mestrado) - Curso de Mestrado
+em Ciências Contábeis, Universidade de Brasília, Universidade Federal da Paraíba,
+Universidade Federal de Pernambuco e Universidade Federal do Rio Grande do Norte,
+Programa Multiinstitucional e Inter-regional de Pós-graduação em Ciências Contábeis,
+Brasília, 2007.
+
+TEIXEIRA, Marta Emília. O Impacto Do Reuni Sobre A Gestão A dministrativa E
+Financeira Da Universidade De Brasília. 81 f. Dissertação (Mestrado) - Curso de Mestrado
+em Economia, Universidade de Brasília, Brasília, 2013.
+43
+
+VELLOSO, Jacques; MA RQUES, Paulo Marcello F.. Recursos próprios da UNB, o
+financiamento das IFES e a reforma da educação superior. Educ. Soc., [s.1.], v. 26, n. 91,
+p.655-680, 2005. Fap-UNIFESP (SciELO). DOI: 10.1590/s0101-73302005000200018.
+Disponível em: <http://www.scielo.br/scielo.php?script=sci arttext& pid=S0101-
+73302005000200018&Ing=en&nrm=iso>. A cesso em: 21 jun. 2015.
+
+UNIVERSIDADE DE BRASÍLIA — UnB. Decanato de Ensino de Graduação. Anuário
+Estatístico 2014: 2009-2013. Brasília: UnB, 2014a. Disponível em: <
+http://www.dpo.unb.br/documentos/anuario/A nuario 2014.pdf>. Acesso em: 22 jun. 2015.
+
+o . Decanato de Ensino de Graduação. Documento aprovado na Da 3392, Reunião Do
+Conselho Universitário. Brasília: UnB, 2008. Disponível em:
+
+<http://www .unb.br/administracao/decanatos/deg/downloads/reuni/doc reuni novo.pdf>.
+Acesso em: 22 jun. 2015.
+
+O . Decanato de Ensino de Graduação. Comissão Permanente do Reuni. 1º Relatório
+Semestral do Programa de Reestruturação e Expansão das Universidades Federais na
+Universidade de BRASILIA: período de setembro de 2008 a abril de 2009. Brasília: UnB,
+2009. Disponivel em: <
+
+http://www .unb.br/administracao/decanatos/deg/downloads/reuni/Relatorio.pdf >. A cesso em:
+22 jun. 2015.
+
+O . Decanato de Ensino de Graduação. Comissão Permanente do Reuni. 8º Relatório de
+Atividades da Comissão Permanente do R euni de 2012: Período de Julho a Dezembro..
+Brasília: UnB, 2013a. Disponível em: <
+
+http://www .unb.br/administracao/decanatos/deg/downloads/relatorio reuni/8relatorio/8relator
+io.pdf >. Acesso em: 22 jun. 2015.
+
+o . Decanato de Planejamento e Orçamento. Relatório de Gestão do exercício de 2014.
+Brasília: UnB, 2015. Disponível em: <
+http://www.dpo.unb.br/documentos/Relatorio Gestao 2014.pdf>. Acesso em: 22 jun. 2015.
+
+o . Decanato de Planejamento e Orçamento. Relatório de Gestão do exercício de 2012.
+Brasília: UnB, 2013b. Disponível em: <
+
+http://www.dpo.unb.br/documentos/Gestao 2012/Relatorio% 20Gestao%202012.pdf>. A cesso
+em: 22 jun. 2015.
+
+o . Decanato de Planejamento e Orçamento. Relatório de Gestão do exercício de 2008.
+Brasília: UnB, 2009. Disponível em:
+
+<http://www.dpo.unb.br/documentos/Gestao 2008/Relatorio de Gestao%202008.pdf>.
+Acesso em: 22 jun. 2015.
+
+o . Decanato de Ensino de Graduação. Diretoria Técnica de Graduação. Guia do
+calouro 2º 2004. Brasília: UnB, 2014b. Disponível em: <
+
+http://www .unb.br/administracao/decanatos/deg/downloads/index/guia calouro 2 2014.pdf>.
+Acesso em: 22 jun. 2015.
+APÊNDICES
+APÊNDICE A - Despesas de Capital da UnB - Obras e Reformas REUNI
+Investimento - Obras e Reformas
+
+ 
+
+ 
+
+Reforma do Módulo 18 - antes ocupado pelo CESPE 467.022,20
+
+Construção de parte do Instituto de Ciências Biológicas 3.513.647,69
+
+ 
+
+ 
+ 
+
+Bloco de Salas de Aula Eudoro de Souza (BAES) 2.142.515,74
+
+Confecção de maquete para edifício BAES 7.200,00
+
+FAU - mezanino 235.182,80
+
+Reforma Anfiteatros 2, 5, 6, 15, 16 e 19 ICC (cadeiras) 945.811,08
+
+Reforma das escadas da BCE 32.507,61
+
+Reforma laboratórios FS 14.000,00
+
+Reforma Salas de Aula ICC 667.240,47
+
+ 
+
+Serviços de Topografia 14.200,00
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Unidade de Ensino e Docência - GAMA 6.955.541,34
+
+Relatório Técnico Ambiental - Gama 94.489,00
+
+Blocos de Salas de Aula Sul 3.848.949,04
+
+Termo Aditivo CIC/EST 20.648,01
+
+IPOL/IREL 7.725.701,03
+
+Reformas dos Anfiteatros 3, 8, 13e 18 ICC 761.310,81
+
+PRC - material para reforma 17.407,65
+46
+
+Recuperação da Praça Maior (pavimentação) 2.955.678,77
+
+Topografia - Casa do Estudante 14.850,00
+
+ 
+
+Módulos de Serviço e Apoio Comunitário - Gama 1.689.000,00
+
+ 
+ 
+ 
+ 
+
+Engenharia Elétrica 40.400,00
+
+ 
+
+CEPLAN - Termo Aditivo 72.252,58
+
+CAEP-— 12etapa 1.623.460,29
+
+CEPLAN - Nota complementar 71.596,88
+
+Obra Campus Ceilândia 571.061,10
+
+Faculdade de Tecnologia - Ampliação Bloco E 230.896,00
+
+Projeto de acústica — auditórios FS 14.300,00
+
+Reforma dos Anfiteatros 04, 10, 11 e 17 ICC 1.251.854,33
+
+Instituto de Letras 1.913.976,88
+
+ 
+
+ 
+ 
+
+BSA - SUL - 2º Termo Aditivo 206.815,33
+
+BSA - SUL - Climatização auditório e laboratórios 764.477,64
+
+Galpões Fazenda À gua Limpa - Termo A ditivo 291.281,84
+
+UEA - FGA - Serviços extracontratuais 107.063,44
+
+Reforma Instituto de Letras - Serviços Adicionais 111.899,67
+
+ 
+47
+
+APÊNDICE B - Despesas de C apital - Equipamentos e Materiais Permanentes REUNI
+
+ 
+
+Equipamentos e Materiais Permanentes
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2008 Executado (R$)
+Equipamentos de Informática 1.076.091,25
+Aquisição de veículos 1.887.736,10
+Subtotal 2.963.827,35
+2009 Executado (R$)
+Aparelhos de Medição e Orientação 146.619,38
+Aparelhos e Equipamentos de Comunicação 2.469,00
+Aparelhos e Equipamentos Utensílios Médicos,
+
+Laboratórios e Hospitalares 1.429.591,07
+Aparelhos e Utensílios Domésticos 275.682,86
+Coleções e Materiais Bibliográficos 724.082,97
+Equipamento de Proteção, Segurança e Socorro 113.040,00
+Instrumentos Musicais e Artísticos 66.556,11
+Máquinas e Equipamentos Energéticos 235.471,00
+Máquinas e Equipamentos Gráficos 84.010,00
+Equipamentos para Á udio, Vídeo e Foto 581.402,50
+Máquinas, Utensílios e Equipamentos Diversos 4.136,94
+Equipamentos de Processamento de Dados 4.642.076,61
+Máquinas, Instalações e Utensílios de Escritório 5.844,13
+Máquinas, Ferramentas e Utensílios de Oficina 1.034,50
+Mobiliário em Geral 3.288.843,46
+Subtotal 11.600.860,53
+2010 Executado (R$)
+Equipamentos de Informática 1.035.956,48
+Mobiliário 1.669.192,59
+Utensílios Domésticos 121.730,98
+Audiovisual 75.958,57
+Laboratório 1.156.833,60
+Veículos automotivos 1.379.298,23
+Subtotal 5.438.970,45
+2011 Executado (R$)
+Equipamentos de Informática 2.701.441,91
+Mobiliário 615.920,16
+Laboratório 1.593.954,51
+Audiovisual 1.014,00
+Livros 10.886,27
+48
+
+Equipamentos de Informática 993.999,60
+
+Laboratório 159.933,96
+
+Subtotal 2.996.742,51
+
+ 
+

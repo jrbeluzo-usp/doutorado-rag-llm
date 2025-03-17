@@ -1,0 +1,3343 @@
+“qa”
+
+ 
+
+Universidade de Brasília
+Instituto de Ciências Humanas
+Departamento de Serviço Social
+
+Mayara Daher de Melo
+
+Análise da incidência Tributária na População do Distrito Federal
+
+Brasília (DF), dezembro de 2011
+Mayara Daher de Melo
+
+Análise da Incidência Tributária na População do Distrito Federal
+
+Orientador: Prof. Dr. Evilásio da Silva Salvador
+
+Trabalho de Conclusão de Curso apresentado
+ao Departamento de Serviço Social da
+Universidade de Brasília como requisito
+
+parcial para a obtenção do grau de Assistente
+Social.
+
+Brasília (DF), dezembro de 2011
+FOLHA DE APROVAÇÃO
+
+Mayara Daher de Melo
+
+Análise da Incidência Tributária na População do Distrito Federal
+
+Aprovado em: [o
+
+BANCA EXAMINADORA
+
+Prof. Dr. Evilasio da Silva Salvador (orientador) — UnB
+
+Profa. MSc. Sandra Oliveira Teixeira - UnB
+
+Prof. MSc. Álvaro Luchiezi Jr. - SINDIFISCO NACIONAL elESB
+Para o meu avô Venâncio, por financiar os meus estudos e acreditar em mim, permitindo
+que eu chegasse até aqui.
+
+Para minha mãe e meu irmão, por estarem ao meu lado nos bons e maus momentos.
+Para o meu pai, por fazer parte da minha vida e por toda a sua ajuda.
+
+Para a minha querida avó Terezinha, por seu amor incondicional.
+Agradecimentos
+
+Ao meu admirado orientador Evilasio, por sua paciência e por despertar em mim o interesse
+pelo tema que resultou neste trabalho.
+
+À Sandra Teixeira e ao Álvaro Luchiezi, pela disponibilidade de integrarem a banca
+examinadora deste trabalho.
+
+Ao Victor, por seu grande companheirismo, compreensão, apoio técnico em meus trabalhos
+acadêmicos e por revisar tão prontamente esta monografia.
+
+As minhas queridas amigas da universidade, por compartilharem comigo os desafios de
+ensino, pesquisa e extensão desses quatro anos de graduação.
+
+À Ana Alice e à Paula, que me ensinaram a verdadeira atuação de uma Assistente Social.
+
+A todos que participaram direta ou indiretamente da elaboração desta monografia.
+“Só há duas opções nesta vida: se resignar ou se indignar.
+E eu não vou me resignar nunca. ”
+
+Darcy Ribeiro
+Resumo
+
+O Brasil possui um sistema tributário às avessas, onera injustamente mais as pessoas pobres
+em benefício das pessoas ricas. Isso ocorre devido à grande incidência de tributos indiretos,
+ou seja, tributos embutidos em mercadorias e serviços que são repassados para os preços
+finais e, consequentemente, para o trabalhador, gerando uma grande injustiça fiscal. Tal
+característica se repete com maior intensidade no Distrito Federal, onde há o maior PIB e
+renda per capita do país contraditoriamente com os maiores índices de Gini no país,
+coeficiente que infere a concentração de renda. Este trabalho constata que o injusto sistema
+fiscal é fator que não só mantém como agrava as desigualdades socioeconômicas no DF,
+devido a sua grande regressividade. Outro aspecto que contribui para as injustiças fiscais no
+Brasil é a ausência de cidadania tributária, ou seja, a falta de conhecimento dos cidadãos
+sobre questões tributárias. Novamente, esse fator se repete ao analisar o DF. A população
+da capital tem grande dificuldade ao tratar de temas tributários. Sem cidadania tributária os
+cidadãos não se sentem estimulados a participarem e acompanharem as decisões fiscais
+
+bem como não exigem prestações de contas e transparência tributária.
+
+Palavras-chave: tributos, regressividade, concentração de renda, desigualdade social,
+cidadania tributária, Distrito Federal.
+Lista de Tabelas
+
+Tabela 1 — Fontes de Financiamento da Previdência Social (2004 a 2010)... 32
+Tabela 2 — Fontes de financiamento da Assistência Social (2004 a 2010)... 35
+Tabela 3 — Porcentagem de Tributos Repassados para Entes Federados................s 48
+
+Tabela 4 — Regiões Administrativas agrupadas de acordo com a Renda per capita
+
+ 
+  
+
+Tabela 5 — Receita Tributária do Distrito Federal (2005 a 2010)...
+Tabela 6 — Despesa por Função no Distrito Federal (2005 a 2010)
+
+Lista de Quadros
+
+Quadro 1 — Competências Tributárias por Nível Federativo............... teem 46
+Lista de Gráficos
+
+Gráfico 1 — Perfil da Carga Tributária Brasileira...........ceereeereeereerenereeremereerenereeremnsa 26
+Gráfico 2 — Fontes de Financiamento da Previdência Social (2004 a 2010)........................ 33
+Gráfico 3 — Fontes de Financiamento da Previdência Social (2004 a 2010)........................ 36
+Gráfico 4 — Distribuição de renda entre os grupos de Regiões A dministrativas.................. 55
+Gráfico 5 — Renda per capita mensal superior a 20 SM entre Regiões A dministrativas......56
+Gráfico 6 — Porcentagem de arrecadação dos tributos no Distrito Federal em 2010.......... 61
+
+Gráfico 7 — Arrecadação de Impostos Diretos e Indiretos no Distrito Federal (2005 a
+2010)... ires reeeereerereer erre reer erre re aerea rante ae errar aeee n aaa ea renata area rena er ae rea es ar renana 64
+Gráfico 8 — Porcentagem da Receita Tributária do Distrito Federal em Relação a sua
+Receita Total (Média de 2005:a 2010) ssamasununanasenaae nana ecnamantaganenenaanzenano 65
+Gráfico 9 — Porcentagem das despesas do Distrito Federal por Função (Média de 2005 a
+2010)... ri rrreererereer aee rear eee rea re resetar aresta aeee rena an aaa Cetera area tener e arenas entenaanana 67
+Gráfico 10 — Nível de Conhecimento Tributário da Amostra Populacional do Distrito
+PONTA seen oe canana 69
+Gráfico 11 — Comparação Percentual da Amostra que Afirma Conhecer e o Percentual que
+Afirma pagar 0 ICMS e0 1SS.......... re erererree er aererearereae area enee see neasasarerena 70
+Gráfico 12 — Conhecimento da Amostra Populacional do Distrito Federal sobre os Tributos
+Indiretos............ rr erersererereaoarerer ee re rero arara near eras nene nana aan eras serenas area near ares ease ne nanda 70
+
+Gráfico 13 — Discrepância sobre o Conhecimento do ICMS e ISS com a Amostra
+Populacional
+
+ 
+ 
+
+Gráfico 14 — Tributos Considerados Justos pela Amostra Populacional
+Gráfico 15 — Tributos Considerados Injustos pela Amostra Populacional................... 73
+Lista de Siglas
+BDTD - Biblioteca Digital Brasileira de Teses e Dissertações
+CDES — Conselho de Desenvolvimento Econômico e Social
+CEP/IH — Comitê de Ética e Pesquisa/Instituto de Ciências Humanas
+CF — Constituição Federal
+CIDE - Contribuição de Intervenção no Domínio Econômico
+CODEPLAN - Companhia de Planejamento do Distrito Federal
+CSLL — Contribuição Social sobre o Lucro Líquido
+CTN — Código Tributário Nacional
+DF — Distrito Federal
+DIEESE — Departamento Intersindical de Estatística e Estudos Socioeconômicos
+DRU - Desvinculação de Recursos da União
+EC — Emenda Constitucional
+FCDF — Fundo Constitucional do Distrito Federal
+FHC — Fernando Henrique Cardoso
+FMI — Fundo Monetário Internacional
+FPE — Fundo de Participação dos Estados
+FPM — Fundo de Participação dos Municípios
+FUNDEB - Fundo de Manutenção e Desenvolvimento da Educação Básica e de
+Valorização dos Profissionais da Educação
+FUNDEF — Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de
+Valorização do Magistério
+GDF — Govemo do Distrito Federal
+IBGE - Instituto Brasileiro de Geografia e Estatística
+ICM — Imposto sobre Circulação de Mercadorias
+ICMS — Imposto sobre Operações relativas à Circulação de Mercadorias e Prestação de
+Serviços de Transporte Interestadual e Intermunicipal e de Comunicação
+TE — Imposto sobre Exportações
+IGP-DI — Índice Geral de Preços — Disponibilidade Interna
+IH — Imposto sobre Importações
+
+10
+INSS — Instituto Nacional do Seguro Social
+
+IOF — Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos e
+Valores Mobiliários.
+
+IPEA — Instituto de Pesquisa Econômica Aplicada
+
+IPI — Imposto sobre Produtos Industrializados
+
+IPTU — Imposto Predial e Territorial Urbano
+
+IPVA — Imposto sobre a Propriedade de Veículos Automotores
+
+IR — Imposto sobre a Renda e Proventos de Qualquer Natureza
+
+ISS — Imposto Sobre Serviços de Qualquer Natureza
+
+ITBI — Imposto de Transmissão de Bens Imóveis Inter-Vivos
+
+ITCD — Imposto sobre Transmissão Causa Mortis e Doação
+
+ITR — Imposto sobre a Propriedade Territorial Rural
+
+LODF — Lei Orgânica do Distrito Federal
+
+OSS — Orçamento da Seguridade Social
+
+PIB — Produto Interno Bruto
+
+PIBIC — Programa Institucional de Bolsas de Iniciação Científica
+
+PIS/COFINS — Programa de Integração Social/Contribuição para o Financiamento da
+Seguridade Social
+
+PNAD - Pesquisa Nacional por Amostra de Domicílio
+
+POF — Pesquisa de Orçamentos Familiares
+
+RA - Região Administrativa
+
+RPPS — Regime Próprio da Previdência Social
+
+SCIELO - Scientific Electronic Library On Line
+
+SINDIFISCO — Sindicato Nacional dos Auditores-Fiscais da Receita Federal do Brasil
+SM — Salário Mínimo
+
+STN -— Secretaria do Tesouro Nacional
+
+TCC — Trabalho de Conclusão de Curso
+
+TCLE — Termo de Consentimento Livre Esclarecido
+
+TRU - Taxa Rodoviária Única
+
+UF — Unidade Federativa
+
+1
+ 
+ 
+ 
+
+Introdução... eeerererereerererenerereereerearerarerereeerereererereaarerer ca erereasararer ee ceserersarererentesess 13
+Procedimentos Metodológicos...............iee eee erre ereaeeeereererrererreareeão 15
+Capítulo 1 — Fundo Público e Sistema Tributário no Brasil. 017
+1.1. Capitalismo e Fundo Público... 2017
+
+1.2. A Regressividade Tributária...........
+
+ 
+
+1.3. O Financiamento das Políticas Sociais: À ssistência e Previdência Social ns 28
+Capítulo 2 — Tributação e Federalismo no Brasil.............eeneeneaereeremereemenereereereereno 36
+2.1. A Peculiaridade do Federalismo Brasileiro..............seeeeeerenos 36
+2.2. A Tributação e as Políticas Sociais no Contexto do Federalismo............ 41
+2.3. A (Falta) de Cidadania Tributária..........eteereeemeereeeeneereeeereerereeeerenterenos 47
+Capítulo 3 — Análise do Sistema Tributário do Distrito Federal e a sua Incidência na Renda
+da População ssssusesunarnan munenecana sessenta maisena 48
+3:41, O Distrito Federal. assuma nmeaneansarasnaa ccnnuanaaça nana 49
+3.2. Concentração de Renda e Desigualdade Social no Distrito Federal... DO
+3.3. O Perfil da Tributação no Distrito Federal... 55
+3.4. A Cidadania Tributária no Distrito Federal: uma análise empírica................... 66
+Considerações Finais............eeeerererereareereererarerarerererereeerererererer aerea cera rereresereseserenereees n
+Referências Bibliográficas...........eeererenereerereereereeereerenerrereaeros erceenrereerereereererrereererentos 75
+ANEXOS assassina Das coma 80
+
+12
+Análise da incidência Tributária na População do Distrito Federal
+
+Introdução
+
+A questão tributária no Brasil está intrinsecamente ligada ao objeto de estudo do
+Serviço Social e objeto de intervenção e atuação do assistente social: a questão social. Na
+temática estudada, a questão social se concretiza em sua forma mais básica, a pobreza.
+Como será visto ao longo deste Trabalho de Conclusão de Curso (TCC), a atual forma de
+incidência tributária no Brasil tem um perfil de arrecadação regressivo, pois vem onerando
+muito mais a parcela da população que possui as rendas mais baixas. No Distrito Federal
+(DF) há um agravante, o alto índice de desigualdade socioeconômica da população.
+
+A questão social está definida como o objeto do exercício profissional. Ela se
+materializa na vida dos sujeitos pela ausência de algum de seus direitos: sejam políticos,
+civis, sociais ou humanos. A assistente social intervém na questão social por meio das
+políticas sociais, ainda que sua natureza seja contraditória, pois beneficia o capitalismo por
+um lado e os trabalhadores por outro (GUERRA et al., 2007).
+
+Para se entender a questão tributária é preciso realizar um estudo que abarque o
+próprio capitalismo, pois a arrecadação tributária é uma das formas mais antigas de
+exploração dos trabalhadores que provê a manutenção do capital (O"CONNOR, 1977).
+Nesse contexto, não há como deixar de tratar sobre o fundo público, que é o meio de
+contribuição do Estado para a reprodução do capitalismo.
+
+No Brasil, a ofensiva neoliberal encontrou espaço com os governantes que estavam
+no poder na década de 1990 e conseguiu finalizar os arranjos para disponibilizar os recursos
+públicos do país ao capital, por meio de “reformas” nas bases legais vigentes. Tais
+“reformas” possibilitaram uma onda de privatizações e o aumento do pagamento de juros e
+amortização da dívida, que tem fortes implicações no fundo público brasileiro e consume
+uma parcela importante do orçamento que deveria ser destinado às políticas sociais.
+
+O sistema tributário brasileiro é comprovadamente regressivo. Chama-se assim a
+carga tributária que incide mais sobre os pobres do que sobre os ricos. Isso ocorre, pois a
+maior parte da receita tributária provém de tributos indiretos, ou seja, aqueles tributos
+
+13
+embutidos em mercadorias e serviços que são repassados e pagos majoritariamente, em
+termos comparativos, pela classe trabalhadora. Tributos assim não respeitam o princípio da
+capacidade contributiva, que prevê a incidência tributária de acordo com a capacidade
+econômica do contribuinte, pois tanto o rico como o pobre pagam a mesma quantia. Mais
+agravante ainda é o contribuinte pagar o tributo, quase sempre, inconscientemente, o que
+também desrespeita a cidadania tributária, ou seja, o conhecimento dos cidadãos em relação
+ao sistema tributário.
+
+No que diz respeito ao financiamento das políticas sociais no Brasil, os tributos
+indiretos também possuem um papel de destaque, pois as suas principais fontes de
+financiamento são constituídas por arrecadações provenientes deste tipo de tributo.
+Resumindo, os usuários das políticas sociais estão pagando direta ou indiretamente, por
+meio de tributos incidentes sobre produtos e serviços, pelos próprios benefícios e serviços
+que recebem e aos quais têm direito.
+
+Para compreender a discussão tributária no DF é preciso analisar a questão do
+federalismo no Brasil. Como será descrito no capítulo 2, o federalismo é um modelo de
+arranjo político institucional adotado no Brasil por se adequar as suas características
+específicas. É a federação que determina a competência tributária de cada nível de governo,
+ou seja, União, estados, municípios e Distrito Federal. Nesse ponto o Brasil possui uma
+peculiaridade em relação às demais federações, o que divide opiniões de especialistas
+quanto suas vantagens e desvantagens: o seu alto grau de descentralização político-
+administrativa entre as esferas federativas e a competência estadual do tributo de maior
+arrecadação do país, o Imposto sobre Operações relativas à Circulação de Mercadorias e
+Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação
+(ICMS).
+
+Posto o referencial teórico, é feita a análise da questão tributária no DF e suas
+consequências para a população. O DF possui dupla competência tributária, ou seja,
+arrecada tributos estaduais e municipais. Também conta com transferências federais para
+um fundo constitucional próprio e estrutura física e de pessoal privilegiada. Contudo, o DF
+possui um alto índice de concentração de renda e, consequentemente, de desigualdade
+
+social e ainda possui uma característica particular, o maior nível de renda per capita do
+
+14
+Brasil (DISTRITO FEDERAL, 2007). Parte dessa desigualdade é explicada pela grande
+concentração de funcionários públicos com rendas elevadas na região (IPEA, 2010a), mas
+será esse o único motivo para dados tão destoantes?
+
+Com o aprofundamento teórico exposto ao longo deste trabalho sobre a
+regressividade tributária no Brasil e no DF, surgem questionamentos de pesquisa: a carga
+tributária que incide sobre a população do DF é um fator que realmente contribui para a
+imensa concentração de renda desta Unidade Federativa (UF)? E quanto à cidadania
+tributária no DF, qual será o nível de conhecimento da população acerca dos tributos
+diretos e indiretos que pagam e o que eles acham da carga tributária como um todo?
+
+A partir dessas questões o principal objetivo traçado por esta pesquisa é analisar a
+carga tributária da população do DF de 2005 a 2010. Especificamente, pretende-se
+comparar a incidência tributária entre pessoas ricas e pobres de diversas Regiões
+Administrativas (RAs) do DF e inferir o nível de conhecimento da população no que diz
+respeito ao ônus tributário que arcam para ter uma amostra do grau de cidadania tributária.
+
+A hipótese de pesquisa deste TCC é que a carga tributária do DF contribui
+profundamente para a concentração de renda e desigualdade socioeconômica de sua
+população, apesar de todas as particularidades da região. Outra hipótese é que a população
+do DF não tem um claro conhecimento sobre os tributos que pagam, pois não há cidadania
+tributária consolidada no DF.
+
+Procedimentos M etodológicos
+
+Este TCC foi realizado com base no método misto, ou seja, envolveu pesquisas
+qualitativas e quantitativas de aspecto investigativo. As técnicas qualitativas consistiram na
+revisão da literatura acadêmica de várias discussões correlacionadas ao tema principal, na
+aplicação de questionários semi- estruturados, ou seja, com questões abertas e fechadas, e na
+análise dos dados quantitativos obtidos. As técnicas quantitativas consistiram na coleta e
+sistematização dos dados estatísticos obtidos. Para realizar tais procedimentos
+metodológicos a realização desta pesquisa foi divida em três etapas principais:
+
+15
+1. Levantamento e revisão de bibliografia acadêmica correlacionada ao tema em
+estudo, a partir de sites de pesquisa acadêmicos como o Scientific Electronic
+Library On Line (SCIELO) e a Biblioteca Digital Brasileira de Teses e Dissertações
+(BDTD), bem como periódicos e revistas especializadas. Levantou-se artigos,
+dissertações e teses publicadas. Também se consultou publicações de instituições de
+pesquisa com estudos relevantes como o Instituto de Pesquisa Econômica Aplicada
+(IPEA), o Departamento Intersindical de Estatística e Estudos Socioeconômicos
+(DIEESE) e o Sindicato Nacional dos Auditores-Fiscais da Receita Federal do
+Brasil (SINDIFISCO). Por fim, foi realizada a revisão de documentos e legislações
+da presidência da república e do Governo do Distrito Federal (GDF).
+
+2. Levantamento de dados da Secretaria do Tesouro Nacional (STN) e do portal de
+transparência do GDF sobre a receita tributária do DF com a discriminação da
+receita de cada tributo e os gastos orçamentários do GDF por função. Analisou-se o
+período de 2005 a 2010 por apresentar a arrecadação de gestões distintas do
+governo e por abranger um período suficiente para se fazer uma análise da real
+composição da carga tributária na região. Para levantar os dados sobre as fontes de
+financiamento das políticas de assistência e previdência social, descritas no capítulo
+1 foi consultado o sistema SIGA Brasil, disponível no portal do Senado Federal.
+Para esses dados, analisou-se o período de 2004 a 2010. Nessa etapa da pesquisa
+também foi elaborado o Termo de Consentimento Livre Esclarecido (TCLE) e o
+questionário da pesquisa que teve por objetivo inferir o nível de conhecimento
+tributário de participantes residentes na região e, a partir desta amostra
+populacional, procurar inferir a cidadania tributária do DF.
+
+3. Sistematização e análise dos dados coletados. Os dados extraídos do sistema STN e
+do SIGA Brasil foram tabulados, deflacionados pelo Índice Geral de Preços —
+Disponibilidade Interna (IPG-D1I) a preços de 2010, calculou-se a média do período
+estudado e os dados foram expostos em porcentagens por meio de gráficos. Os
+dados extraídos dos questionários aplicados com uma amostra da população do DF
+foram tabulados, calculada a média das respostas para cada questão e transformados
+
+em gráficos em forma de porcentagem.
+
+16
+Este trabalho está organizado em três capitulos, além desta introdução e das
+considerações finais.
+
+O primeiro capítulo estuda o fundo público e o neoliberalismo, com atenção
+especial para o Brasil. Em seguida são analisados estudos sobre a questão tributária e
+apresentam-se os conceitos de regressividade e de tributos diretos e indiretos, essenciais
+neste trabalho. Por fim, é apresentada a análise das fontes de financiamento das políticas de
+assistência e previdência social entre 2004 e 2010, com uma breve apresentação sobre essas
+políticas no Brasil.
+
+O segundo capítulo é voltado para o estudo sobre o federalismo. Apresenta a
+conceituação de federação e dá ênfase a aspectos característicos do federalismo brasileiro e
+a competência tributária entre os níveis federativos. Em seguida expõe-se o debate
+divergente sobre o grau de descentralização no Brasil e a relação do federalismo com os
+recursos destinados a certas políticas sociais. Por fim, faz-se uma breve introdução à
+questão da cidadania tributária, ou a falta desta, para ajudar a compreender a análise de
+campo, exposta no último capítulo.
+
+O terceiro capítulo é dedicado ao estudo da incidência tributária na população do
+DF, analisando o sistema tributário local, mais especificamente os impostos de sua
+competência, e a profunda concentração de renda e desigualdade social existente no DF,
+procurando relacionar a questão social com a questão tributária. Também apresenta os
+dados coletados, suas análises e o resultado das aplicações dos questionários.
+
+17
+Capítulo 1 — Fundo Público e Tributação no Brasil
+
+Este capítulo realiza uma revisão histórica e teórica — a partir do debate acadêmico
+contemporâneo e normas legais correlatas — sobre as formas de acumulação capitalista para
+analisar a relação desse sistema com o Fundo Público e, indiretamente, com os tributos que
+o compõe. Essa revisão é fundamental para se compreender a atual configuração do Fundo
+
+Público e da Tributação no Brasil, no âmbito da lógica neoliberal vigente.
+
+1.1. Capitalismo e Fundo Público
+
+A discussão de fundo público é essencial para compreender a manutenção e
+sobrevivência do capitalismo, que utiliza o Estado para conseguir recursos públicos e para
+administrar os seus consumidores e também a mão de obra, por meio de políticas sociais.
+Tudo isso é viabilizado no fundo público, que é composto pela arrecadação de vários
+tributos como impostos, contribuições e taxas, ou seja, é sustentado pelo sistema tributário.
+
+Em 1944, foi firmado o acordo de Bretton Woods que muitos consideram um
+arranjo muito bem-sucedido das finanças internacionais, pois demonstrou um excelente
+desempenho macroeconômico e manutenção de relativa estabilidade entre os países
+participantes. Nesse acordo foi criado o Fundo Monetário Internacional (FMI), para cuidar
+dos processos de ajustes externos para evitar desvalorizações competitivas e protecionismo
+comercial. O fim desse acordo ocorreu na década de 1970, com a crise financeira dos
+Estados Unidos e a desvalorização do dólar, que era a moeda-base com peso em ouro para
+se equiparar às moedas dos outros países (CUNHA, 2006). Com o fim do acordo, os países
+centrais do capitalismo se voltaram para novas formas de se manterem e se depararam com
+os idearios neoliberais.
+
+A origem do neoliberalismo está na crise do modelo econômico pós-guerra da
+década de 1970. Com a recessão do capital, as ideias neoliberais começaram a ganhar
+terreno. O argumento dos neoliberais é que as crises são desencadeadas pelas pressões dos
+trabalhadores que aumentam os gastos sociais do Estado e levam a processos inflacionários
+com crises de mercado. A solução seria um Estado capaz de controlar os trabalhadores, mas
+
+18
+que não fizesse interferências na economia e, acima de tudo, tivesse como objetivo
+principal a estabilidade monetária com incentivos fiscais. O neoliberalismo é um
+movimento ideológico que continua se expandindo em escala mundial (ANDERSON,
+1995).
+
+Tavares e Fiori (1993) explicam os ajustes macroeconômicos ocorridos ao longo da
+década de 1970. Em geral, os ajustes consistiam em políticas monetárias de combate à
+inflação acompanhadas por políticas fiscais restritivas. Em 1982 houve a crise da dívida
+extema na América Latina, onde as dívidas desses países foram aprofundadas e
+renegociadas com bancos privados e agências multilaterais. Os autores afirmam que a crise
+resultou da soma da crise mundial com falhas no padrão de desenvolvimento que ocorrem
+ao longo das décadas de 1970 e 1980, em especial os choques do petróleo, o aumento das
+taxas de juros internacionais e a desaceleração do comércio internacional com os preços de
+mercadorias primárias inalterados, resultando em uma crise do capital.
+
+Em meio a esse processo, o Brasil passava por uma redemocratização. Em 1985,
+após vinte anos de regime autoritário é eleito o primeiro presidente civil. Assim, dois
+eventos ocorriam paralelamente: a instauração da Assembléia Constituinte, marcada por
+disputas sociopolíticas que dão origem a nova Constituição em 1988, e o surgimento de
+medidas de contenção da crise que expôs um “consenso” entre políticos, empresários e
+intelectuais — o Brasil precisava sofrer um ajuste macroeconômico, uma reestruturação
+produtiva e uma reforma de Estado. (TAVARES e FIORI, 1993).
+
+Diante disso, na opinião de Tavares e Fiori (1993) se consolidou um caminho
+favorável à implementação dos preceitos neoliberais, o que se constatou com medidas
+como privatizações e isenções, enfim, as chamadas “reformas” do govemno Collor. Enfim,
+ocorreu à adesão do Brasil ao Consenso de Washington, um plano que estipula princípios
+neoliberais aos seus signatários que recebem o título de países “emergentes”.
+
+Behring (2008) afirma que a orientação neoliberal se consolidou no Brasil na
+década de 1990, mas as pressões populares no processo de redemocratização interferiram
+na agenda política brasileira e contribuíram para retardar o avanço do neoliberalismo no
+país, permanecendo ainda o tensionamento entre a classe trabalhadora e a classe dominante.
+
+Para Fagnani (2008), nas últimas décadas se intensificaram as tensões entre dois
+
+19
+paradigmas de política social no Brasil: o primeiro inspirado no Estado de Bem-Estar
+Social estabelecido na Constituição Social (CF) de 1988 e o segundo inspirado no Estado
+Mínimo que se firmou na década de 1990 e iniciou uma série de reformas liberais
+antagônicas aos preceitos constitucionais.
+
+As “reformas” realizadas por Collor eram apresentadas como medidas para inibir
+uma crise supostamente causada pela grande intervenção estatal na economia. Pelo
+contrário, a apropriação dos lucros pelo capitalismo e o repasse da dívida para os cofres
+públicos culminou na verdadeira causa da chamada crise fiscal no Brasil. “Se a maior parte
+desta dívida foi contraída pelo setor privado, por pressões do FMI — o “feitor” da dívida -,
+houve na sequência uma crescente e impressionante socialização da mesma. No Brasil, por
+exemplo, 70% da dívida externa tornou-se estatal” (BEHRING, 2008, p.133).
+
+É necessário analisar o neoliberalismo no estudo do fundo público, pois são os
+princípios neoliberais - como isenções tributárias, recursos orçamentários destinados às
+empresas privadas, pagamentos de juros e amortização da dívida, enfim, políticas
+monetárias e fiscais do Estado a favor do capital — que estão diretamente ligados a recursos
+públicos. A partir deste ponto, o estudo se concentra na conjuntura que culminou em uma
+dependência do capital pelos recursos públicos.
+
+Segundo Offe (1984), o Welfare State, chamado pelo autor de Welfare State
+Keynesiano!, foi capaz de controlar as necessidades dos trabalhadores, uma vez que o
+Estado passou a prover serviços e benefícios básicos, mas também interferiu na capacidade
+do capital em se adaptar ao problema da produção/exploração. Assim, graças ao Welfare
+State, surgiu uma nova dinâmica na qual “as pressões para o ajuste às forças do mercado
+em mutação foram reduzidas tanto para o capital como para a mão de obra, graças à
+disponibilidade dos recursos providos pelo Estado” (p. 370).
+
+O conceito de “Welfare State” aqui empregado remete à análise de conceituações
+apresentada por Boschetti (2002), marcados por determinações históricas, sociais e
+econômicas distintas. O termo “Welfare State”, de origem anglo-saxônica, é usado para
+
+definir o conjunto de políticas sociais com a regulamentação do Estado que engloba não
+
+! Keynes pregava a intervenção do Estado na economia, pois o capitalismo não seria capaz de se auto-regular
+como afirmavam os defensores do livre mercado (SALVADOR, 2010a).
+
+20
+somente os seguros sociais, mas também a concepção de serviços sociais universalizados.
+O Welfare State, especificamente, está ligado à conjuntura histórica da Inglaterra. No
+Brasil, a concepção ampliada de Seguridade Social que envolve políticas sociais universais,
+seria um conceito semelhante ao modelo inglês. Porém, é preciso analisar o histórico, as
+políticas sociais, os direitos sociais, o financiamento e a forma de organização de cada país
+para reconhecer o seu modelo específico de Estado social.
+
+Salvador (2010a) ressalta a importância que o Estado assume ao controlar os ciclos
+econômicos com a combinação apropriada de políticas fiscais e monetárias e destaca que o
+fundo público opera com destaque na manutenção do capitalismo em relação à esfera
+econômica e na garantia do contrato social.
+
+De acordo com Francisco de Oliveira (1998), o Welfare State é uma forma de
+financiamento público do capitalismo. Assim, desde o chamado Estado de Bem-Estar
+Social, o fundo público se tomou pressuposto para o financiamento da acumulação de
+capital e da reprodução da força de trabalho, por meio dos gastos sociais.
+
+Francisco de Oliveira (1998) afirma que o fundo público passa de ex-post a ex-ante
+na reprodução do capital, ou seja, passa a ser pré-requisito para as condições de reprodução
+e, por isso, torna-se um componente estrutural insubstituível. Assim, o autor apresenta a
+tese de que o fundo público, por operar gastos sociais com os trabalhadores via bens e
+serviços públicos que melhoram suas condições de vida sem visar lucros”, acaba também
+operando como um “antivalor”: desmercantilização da força de trabalho, que não seria mais
+explorada pela sua mais-valia”.
+
+Apesar da importante contribuição de Francisco de Oliveira sobre o papel do fundo
+público na reprodução do capital, alguns autores discordam de sua tese sobre o antivalor do
+capital. De acordo com Behring (2010, p.32), o fundo público está “atuando permanente e
+visceralmente na reprodução ampliada do capital”, já que as crises do capital interferem na
+configuração e na destinação orçamentária e, assim, este contribui para a reprodução do
+capital e da força de trabalho.
+
+2 Ao considerar as contribuições do fundo público para os trabalhadores sem expectativa de lucro, o autor
+chama os benefícios e serviços ofertados de antimercadorias sociais.
+
+2 Força de trabalho excedente que o capitalismo busca obter por meio da exploração da mão de obra para
+gerar lucros.
+
+21
+O recurso dos cofres públicos é proveniente de arrecadações de tributos que incidem
+sobre os trabalhadores, ou seja, é parte do trabalho excedente que se materializa em lucros,
+juros e rendas que os trabalhadores pagam ao Estado. O fundo público vai ao socorro do
+capital, contribuindo para a sua reprodução especialmente em momentos de crise, assim
+como contribui para a reprodução da mão de obra com a implementação de políticas
+sociais. (BEHRING, 2010).
+
+Salvador (2010a) também contra-argumenta Francisco de Oliveira se firmando na
+teoria marxista e conclui que o fundo público atua a favor do capitalismo ao fornecer
+subsídios e desonerar tributos; reproduzindo a força de trabalho com salários indiretos que
+reduz o custo do capital com mão de obra; por meio da garantia de recursos orçamentários
+para ações operadas por empresas privadas; e pelos recursos públicos destinados ao
+pagamento de juros e amortização da dívida pública às agências internacionais do capital.
+Para o autor, o fundo público ao viabilizar a reprodução da força de trabalho e a
+acumulação de capital, contribui indiretamente para a criação de valor no capitalismo.
+
+Behring e Boschetti (2009) se embasam em Francisco de Oliveira para afirmar que
+o fundo público é reflexo das disputas das sociedades de classes, em que os trabalhadores
+lutam para a concretização de políticas públicas que os favoreçam, enquanto o capital busca
+subsídios e espaço na esfera financeira. Porém, ao tratarem da questão do fundo público, as
+autoras afirmam que o fundo público não pode ser considerado um antivalor, pois participa
+direta e indiretamente na produção e reprodução do valor. Mesmo não gerando
+diretamente” mais-valia, atua na reprodução da força de trabalho e do capital ao socializar
+os custos da produção e agilizar a realização da mais-valia.
+
+O fundo público funciona a favor do capital na medida em que é responsável por
+destinar recursos ao capital e reduzir ou mesmo desonerar a sua arrecadação tributária, por
+meio de incentivos fiscais. Assim, Salvador (2010b) esclarece que as despesas com juros e
+amortização da dívida pública são atualmente as mais representativas do orçamento
+público. As políticas monetárias e fiscais aceleram o crescimento do rendimento financeiro
+
+e vêm garantindo a rentabilidade do capital portador de juros.
+
+* Exceto quando produtor, como é o caso da Petrobrás.
+
+22
+Para Offe (1984), as demandas crescentes - mão de obra, capital, setores da
+economia em crescimento, setores da economia estagnados — pelos recursos públicos,
+aumentam a dívida pública e a necessidade do Estado reduzir ou mesmo extinguir
+programas de bem-estar social.
+
+Ao se referir à recente crise do capital, desencadeada pela especulação imobiliária
+norte-americana, Salvador (2010c, p. 50 - 51) traduz o cenário que representa a relação do
+neoliberalismo com o fundo público: “quando a crise se instala, todo o discurso e a defesa
+da eficiência do mercado, da privatização, da desregulamentação se “desmancham no ar”,
+chamem o Estado, ou melhor, o fundo público para socializar os prejuízos”.
+
+Com a exposição do debate acadêmico contemporâneo sobre a configuração do
+fundo público no Brasil fica evidente o seu papel na reprodução do capital e da força de
+trabalho, e, por isto, a dependência que causou sobre o capital. Evidencia-se também o
+tensionamento sobre os seus recursos, causado pela disputa entre classes acerca dos gastos
+
+com o dinheiro dos cofres públicos.
+1.2.A Regressividade Tributária
+
+Segundo O*Connor? (1977), a tributação é a base de sociedades capitalistas, sendo a
+arrecadação de tributos uma forma de exploração econômica e, como tal, é uma questão
+que envolve a luta de classes. Assim, o autor afirma que o Estado deve encontrar formas de
+arrecadação equitativas para maquiar a exploração inexorável, caso o contrário, pode sofrer
+uma revolta tributária, ou seja, uma revolta classista. “As classes dominantes, normalmente,
+ou tentam esconder ou justificar e racionalizar ideologicamente a exploração tributária [...]
+e o Estado tem de “explicar” as crescentes taxas tributárias e as bases fiscais ampliadas”
+(O'CONNOR, 1977, p.204).
+
+Entretanto, é preciso esclarecer que o sistema tributário em si não gera concentração
+de renda, o que pode gerar disparidades é a forma, estabelecida por cada govemo, de
+
+arrecadação e de investimento dos tributos, como por exemplo os governos que arrecadam
+
+3 James O*Connor teve o seu livro “The Fiscal Crisis of the State” publicado em 1973 e traduzido para a
+língua portuguesa em 1977. Suas análises sobre a lógica tributária podem ser interpretadas no contexto
+brasileiro.
+
+23
+grandes receitas de tributos embutidos em mercadorias e serviços, oneram mais uma
+parcela de baixa renda da população e, consequentemente, contribuindo para desigualdades
+socioeconômicas. Sociedades capitalistas tentam equilibrar a tributação com incentivos ao
+capital, ou seja, é uma forma da arrecadação de tributos não interferir na acumulação e
+produção capitalista. Já em 1973, O'Connor (1977, p. 205) afirma, “ainda, o uso da renda —
+e não o da riqueza — como medida da capacidade de pagar é gritantemente discriminatório
+contra os trabalhadores e a favor do capital”.
+
+Para O'Connor (1977), o sistema tributário permite que o capital aumente seus
+ganhos e bens, cumprindo um papel de destaque no fortalecimento da classe dominante,
+pois, mesmo com as taxas sobre os lucros, “os tributos das empresas são transferidos para
+os consumidores sob a forma de preços mais elevados” (p. 213).
+
+O sistema tributário também cobre os custos sociais, diminuindo as despesas do
+capital. O autor afirma que essa lógica limita a capacidade de acumulação do trabalhador,
+pois “força os trabalhadores a continuarem a ser trabalhadores” (p. 214). Assim, a classe
+trabalhadora se torna dependente do capital e do Estado. Essa dependência é inerente às
+sociedades que adotam o capitalismo, variando apenas o nível de dependência. Nessa
+perspectiva, o sistema tributário entra em uma contradição: os trabalhadores arcam com os
+tributos, mas acabam exigindo cada vez mais despesas de caráter social justamente por
+serem trabalhadores e não terem condições de acessar tais serviços por conta própria.
+Partindo dessa análise, O"Connor observa a proporcionalidade entre exploração tributária e
+gastos governamentais.
+
+No Brasil, as unidades federativas podem cobrar os seguintes tipos de tributos:
+impostos, taxas e contribuições de melhoria e, especificamente de competência federal, as
+contribuições sociais, inicialmente? destinadas ao financiamento da Seguridade Social.
+Especificamente os impostos, foco de análise desta monografia, são tributos compulsórios
+que compõem as receitas públicas para o Estado utilizar na oferta de serviços, benefícios,
+investimentos e gastos financeiros. Ressalta-se que, a priori, os impostos não são
+
+vinculados, ou seja, não têm um destino específico para a sua aplicação como muitos
+
+$ As contribuições sociais para o financiamento da Seguridade Social são constantemente desviadas pela
+Desvinculação de Recursos da União (DRU), que utiliza esses recursos para o pagamento de juros e
+amortização da dívida com as agências multilaterais.
+
+24
+acreditam. Assim, ao contrário das taxas e contribuições, os impostos não são vinculados a
+nenhum serviço ou benefício específico para a população, ficando a cargo do govemo a
+decisão de onde empregar sua receita.
+
+Para compreender melhor os conceitos sobre impostos, Fabrício de Oliveira (2009)
+apresenta claras definições. Os impostos têm o perfil determinado de acordo com a sua
+forma de incidência no nível de renda dos contribuintes. O imposto é regressivo quando
+apresenta uma relação inversa ao nível de renda do contribuinte, ou seja, representa uma
+parcela maior nas rendas mais baixas e uma parcela menor em rendas mais elevadas. O
+imposto é progressivo quando mantém uma relação favorável ao nível de renda, ou seja,
+quanto maior é a renda, maior é o ônus tributário. O imposto é proporcional quando a sua
+incidência não afeta a distribuição de renda positiva ou negativamente.
+
+Desta forma, pode-se medir o grau de equidade de um sistema tributário
+considerando o seu conjunto de tributos, pois nenhum sistema possui tributos com somente
+um tipo de perfil e, dependendo do equilíbrio entre eles, o sistema tributário poderá ser
+considerado regressivo, progressivo ou proporcional.
+
+Fabrício de Oliveira (2009) também explica que a incidência dos tributos pode ser
+dividida em dois grupos: os tributos diretos e indiretos. Para compreendê-los é preciso ter
+em mente as bases de incidência econômica no Brasil, ou seja, as bases sujeitas à
+arrecadação tributária: renda, patrimônio e consumo. Assim, os tributos diretos são aqueles
+que incidem sobre a renda e o patrimônio, não sendo passível de transferências que oneram
+terceiros. Já os tributos indiretos incidem sobre a produção e o consumo de bens e serviços
+e são passíveis de transferência para o próprio consumidor. Percebe-se que os tributos
+diretos possuem o perfil mais progressivo, pois a base de arrecadação se estabelece na
+renda e no patrimônio e acaba onerando mais quem possui mais patrimônio e maior renda.
+
+O gráfico 1 apresenta o perfil do sistema tributário brasileiro, conforme estudo do
+Conselho de Desenvolvimento Econômico e Social (CDES -— BRASIL, 2009),
+evidenciando que no Brasil apenas %4 dos tributos incidem sobre renda e patrimônio,
+
+enquanto os tributos indiretos representam praticamente metade da carga tributária.
+
+25
+Gráfico 1 — Perfil da Carga Tributária Brasileira
+
+E Impostos sobre
+produção e importação
+
+E Contribuições
+previdenciárias, FGTS,
+
+PIS/PASEP
+= Renda
+
+E Patrimônio
+
+ 
+
+Fonte: Sistema de Contas Nacionais 2004-2008(IBGE)
+Extraído de publicação do CDES (2009)
+Elaboração Própria
+
+No contexto neoliberal das últimas décadas do século XX, Salvador (2010c) explica
+as reformas fiscais que se instauraram em países europeus e que também pode se aplicar ao
+Brasil. O autor afirma que a desigualdade social aumentou paralelamente à redução da
+progressividade fiscal como, por exemplo, a redução do imposto de renda para os maiores
+salários e o aumento da incidência de tributos indiretos decorrentes da regressividade
+tributária, o que aumentou as desigualdades sociais existentes.
+
+Behring (2008) afirma que, desde o período de ditadura militar no Brasil, houve
+uma reorganização do sistema de financiamento do Estado, privilegiando um sistema
+tributário com base na incidência indireta. Já na Constituição Federal (CF) de 1988, o
+Brasil estabeleceu arrecadação de tributos pautada na justiça fiscal e social por meio dos
+princípios da universalidade, capacidade de contribuição, isonomia e essencialidade, que é
+a incidência tributária sobre produtos, serviços e mercadorias de acordo com a sua
+relevância de consumo. Estes princípios pretendiam tomar a carga tributária
+predominantemente progressiva com arrecadação equitativa.
+
+Está disposto no artigo 145, parágrafo 1º da CF de 1988 que, sempre que possível,
+os impostos incidiriam de acordo com a capacidade econômica do contribuinte, podendo a
+administração tributária, identificar patrimônio, renda e atividades econômicas do
+contribuinte. A efetivação desse artigo estaria de acordo com um perfil progressivo de
+tributação. Entretanto, como destaca Behring (2008), as eleições presidenciais de 1989, e
+
+26
+várias “contrarreformas” que ocorrem até hoje, com a vitória de Collor interromperam os
+avanços sociais democráticos estabelecidos na CF de 1988, marcando a implantação dos
+princípios neoliberais no Brasil.
+
+No governo seguinte, o Estado brasileiro continuou reproduzindo os padrões
+neoliberais. Porém, foi no governo de Fernando Henrique Cardoso (FHC) que ocorreram as
+mudanças mais perversas, agravando as distorções já sofridas na CF de 1988 e
+aprofundando a regressividade do sistema tributário brasileiro. Tais mudanças chegaram ao
+ponto de anular os princípios da reforma tributária dispostos na CF de 1988, o que o
+Salvador (2010a) chama de “contrarreforma” sorrateira”, por ter sido conduzida as margens
+do controle social e em prol da lógica neoliberal, que tornou o sistema tributário brasileiro
+extremamente regressivo.
+
+Já no govemo Lula, presidente que historicamente lutou pelos trabalhadores,
+também houve contribuições para o grande capital no que diz respeito ao sistema tributário.
+Um exemplo dessas contribuições foi a prorrogação da Desvinculação de Recursos da
+União (DRU) que retira grande parte dos recursos da Seguridade Social para assegurar a
+realização do superávit primário. Outro exemplo no govemno Lula a favor do capital foi a
+Proposta de Emenda à Constituição (PEC) 233/2008, que não eliminava o problema da
+grande regressividade tributária e ainda comprometia os recursos destinados à Seguridade
+Social, educação básica e seguro desemprego (SALVADOR, 2010b).
+
+Salvador e Amorim (2010) apontam que 54,90% da arrecadação de tributos no
+Brasil incidem sobre o consumo e apenas 3,72% são de tributos sobre o patrimônio, àqueles
+proporcionais a riqueza e não a renda salarial, e que, portanto, respeitam a equidade. Assim,
+a maior parte da carga tributária no Brasil advém de impostos regressivos, que contribuem
+para desigualdade social, pois as populações de baixa renda arcam com um ônus que causa
+um impacto muito maior em suas rendas enquanto pessoas com muito mais riquezas arcam
+
+com contribuições infimas em suas rendas.
+
+7 O termo “contrarreforma” é adotado por Behring, pois a autora argumenta que as “reformas” que ocorreram
+e continuam em curso no sistema tributário brasileiro são contrárias aos ganhos sociais conquistados na CF
+1988 e descaracterizam o verdadeiro conceito de reforma de Estado, que consiste em avanços sociais
+conquistados.
+
+27
+Salvador e Amorim (2010) concluem que um dos fatores da elevada concentração
+de renda e das desigualdades sociais no Brasil é a regressividade da carga tributária. O
+sistema tributário brasileiro tem favorecido a concentração de renda, arrecadando mais dos
+mais pobres e menos dos mais ricos. Assim, as receitas do Estado são financiadas
+principalmente pela classe trabalhadora e pessoas de baixa renda.
+
+Behring e Boschetti (2009, p.172) dizem que “a sustentação financeira com
+possibilidade de ampliação e universalização dos direitos, assim, não será alcançada com
+ajustes fiscais que expropriam recursos das políticas sociais”. Essa transformação depende
+da reestruturação de todo o modelo econômico vigente.
+
+Hickmann e Salvador (2005) mostraram que, em 2005, pessoas com menor poder
+aquisitivo eram responsáveis por 64% da receita advinda de impostos e arrecadações, além
+disto, 52% de toda a arrecadação foram de impostos sobre o consumo. Os autores alertam
+que “é um bom momento para a sociedade repensar os privilégios tributários concedidos
+nos últimos anos às rendas do capital, bem como rever sua política de tributar
+excessivamente os trabalhadores assalariados e a população de baixa renda” (p. 19).
+
+Um dos grandes responsáveis pela desigualdade socioeconômica é a carga tributária
+incidente na renda e não na riqueza de determinada população. Os grandes empresários
+“burlam” a legislação tributária, que já os favorece, e transferem para os trabalhadores,
+embutindo em produtos e serviços, os tributos indiretos que deveriam pagar. De fato, o
+caráter extremamente regressivo do sistema tributário no Brasil, por si só, já aumenta as
+
+desigualdades econômicas e sociais.
+
+1.3.0 Financiamento das Políticas Sociais: Assistência e Previdência Social
+
+Entender a lógica tributária brasileira é essencial para conhecer as bases de
+financiamento das políticas sociais. Na área de Serviço Social, o que se percebe é uma
+vasta bibliografia sobre o planejamento, a gestão e a execução das políticas sociais, porém,
+poucos autores tratam da questão de suas fontes de financiamento. O que é preocupante,
+pois o assistente social que atua na área de planejamento e gestão precisa compreender o
+
+28
+orçamento e financiamento das políticas para uma atuação eficaz. Nesta seção, será tratado
+mais especificamente o financiamento de duas políticas da Seguridade Social: assistência e
+previdência socialº. A análise do financiamento dessas políticas serve de base para se ter
+uma noção do financiamento das políticas sociais no Brasil. As duas políticas analisadas
+transferem importantes benefícios sociais para a população brasileira por meio do sistema
+de seguridade social. Contundo, há elevada prevalência de tributos indiretos nas fontes
+tributárias da assistência e previdência social.
+
+No Brasil, a seguridade social passa por dificuldades desde a sua criação, um dos
+motivos é a não-implementação do Orçamento da Seguridade Social (OSS), previsto na CF
+de 1988. O OSS teria como finalidade principal ser um espaço particular e articulador das
+políticas de previdência, saúde e assistência social e assegurar os recursos do orçamento
+fiscal que deveriam ser destinados à seguridade social. “Entretanto, isso na prática não se
+consolidou; a área de assistência social foi virtualmente eliminada, e a saúde imprensada,
+de um lado, pelo Orçamento Geral da União e, de outro, pelo Ministério da Previdência”
+(BOSCHETTI; SALVADOR, 2006, p. 54).
+
+No custeio das políticas de previdência e assistência, no período de 2004 a 2010,
+permaneceu a separação das fontes orçamentárias entre as duas políticas, em que pese 0
+comando constitucional. Os recursos advindos da contribuição direta de empregados e
+empregadores continuaram sendo exclusivamente utilizados nos gastos da previdência
+social, enquanto as contribuições sociais incidentes sobre o faturamento, o lucro e a
+movimentação financeira foram destinadas para a política de assistência social, não
+contribuindo para o fortalecimento da concepção de seguridade social na sua totalidade
+(SALVADOR, 2010).
+
+A identificação das bases econômicas das fontes de financiamento das duas políticas
+revela uma participação insignificante das receitas tributárias que tem como origem a renda
+do capital. Não há nenhuma fonte de custeio das duas políticas que tenha como base de
+incidência o patrimônio. A maior parte da arrecadação é feita por tributos que incidem
+
+é Esta seção constitui aproveitamento do Programa Institucional de Bolsas de Iniciação Científica (PIBIC)
+realizado pela autora deste TCC sob orientação do Prof. Dr. Evilásio Salvador.
+
+29
+sobre o consumo de bens e serviços ou sobre a contribuição direta dos próprios
+beneficiários das políticas, particularmente a da previdência social (SALVADOR, 2010a).
+
+O sistema de Seguridade Social está sendo financiado, por meio de tributos
+indiretos, pelos seus próprios usuários, via contribuição direta ou por meio de tributos
+indiretos incidentes sobre o consumo de bens e serviços, e este constitui o grande paradoxo
+da proteção social brasileira. Especificamente, a previdência social, que requer
+explicitamente contribuições, teve sua maior fonte de financiamento, entre 2000 e 2007,
+representadas pela arrecadação direta dos empregados e empregadores. Agravante ainda é o
+fato de que as contribuições incidem sob as folhas de pagamento dos trabalhadores formais,
+pois, a arrecadação que supostamente deveria recair sob as empresas empregadoras, é
+transferida para os preços de bens e serviços, com isso são os trabalhadores, que arcam
+duplamente com as contribuições (SALVADOR, 20104).
+
+Se o OSS fosse implementado e a DRU extinta, não existiria o chamado déficit
+previdenciário e, consequentemente, não haveria necessidade das tantas “reformas” na
+previdência. Assim, fica evidente que o desequilíbrio orçamentário é de responsabilidade
+do desvio de recursos para o orçamento fiscal. A seguridade não é sustentada por recursos
+do orçamento fiscal, ao contrário, grande parte de seus recursos financia o orçamento fiscal,
+com isso a política econômica utiliza recursos da Seguridade Social para assegurar o
+financiamento da dívida pública, via pagamento de juros e amortização, prejudicando os
+serviços a população (SINDIFISCO, 2010).
+
+De acordo com a tabela 1, a maior fonte de financiamento para a previdência social,
+entre 2004 e 2010, proveio da contribuição de empregados e empregadores. Essa
+arrecadação é de responsabilidade diretamente dos empregados, com incidência na folha de
+pagamento. Isto caracteriza uma arrecadação progressiva, porém, há limite para a
+progressividade, já que existe um teto para contribuição, o que significa que depois de um
+determinado patamar de renda, torna-se regressivo. Apesar disso, esse tributo é extremante
+relevante para o custeio da previdência social no Brasil, podendo fragilizar o seu
+financiamento caso o govemo resolva de fato reduzir a contribuição patronal para a
+previdência social como pretende o plano “Brasil Maior”. A maior parte dessa contribuição
+
+deveria incidir sobre os empregadores. Porém, a arrecadação é repassada aos preços de
+
+30
+bens e serviços, ou seja, toma a arrecadação regressiva. Assim, são os trabalhadores que
+arcam duplamente com as contribuições.
+
+Outra fonte relevante no financiamento da previdência social é a Contribuição para
+Financiamento da Seguridade Social (Cofins), que opera com a mesma lógica de outros
+tributos que são repassados para terceiros, contribuindo ainda mais para a regressividade no
+financiamento dessa política.
+
+31
+Tabela 1 — Fontes de financiamento da previdência social, Período: 2004 a 2010
+
+Valores, em milhões, deflacionados pelo Índice G eral de Preços — Disponibilidade Interna (IGP-DI, a preços de 2010)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fontes 2004 2005 2006 2007 2008 2009 2010 Média hai em
+Recursos Ordinários 15.172,84 1448167 9.927,44 15.014,26 17.400,84 32.643,68 28.143,61 18.969,19 85,48
+Contribuições Sob Concursos de Prognósticos 155,23 40,66 98,41 99,09 124,86 115,66 275,38 129,90 77,40
+Contribuição para Custeio de Pensões Militares 1.220,15 1.154,69 1.372,40 1.463,30 1.237,11 1.287,69 1.538,99 1.324,90 26,13
+Recursos de Concessões e Permissões 0,13 0,36 0,45 8,36 0,71 2,17 32,07 6,32 25122,11
+Operações de Crédito Externas - em Moeda 7,69 48,90 35,09 16,97 2,45 0,12 8,71 17,13 6752,47
+Recursos Não-Financeiros Diretamente Arrecadados 1.101,82 834,89 634,80 1.034,09 1.098,68 910,12 806,27 917,24 -26,82
+dica Social Sobre o Lucro das Pessoas 196286 258774 318913 609669 1318554 590137 9.665,38 6.512,67 94,75
+Ea 66.186,13 6624049 6929397 6919230 6429414 5308226 3723804 60.789,62 43,73
+Contribuição dos Empregadores e dos Trabalhadores 43942494 146.383,93 162.533,01 170.180,88 19372702 19707657 218.379,15 175.386,59 56,62
+para a Seguridade Social
+pn ae ei, So Me 813358 802801 863,97 9.511,65 18,37 6.864,92
+Contribuição Plano Seguridade Social Servidor 3.045,57 5.791,99 6.392,90 8.402,24 6.835,73 8.675,98 8.898,91 6.890,47 175,03
+conir buição Patronal para Flano de Seguridade Social 440534 872596 860927 1253513 1064827 1272128 1338076 1014657 203,73
+Taxa pelo Exercício do Poder de Polícia 56,13 67,02 69,08 53,16 64,78 82,51 6.207,28 942,85 1.0959,42
+Recursos Financeiros Diretamente Arrecadados 1.113,98 857,41 1.340,62 799,02 324,14 268,94 69,72 681,97 -93,74
+Juros de Mora da Receita A dministrada pela SRF/SF 2.437,90 2.437,90
+Recursos do Programa de A dministração Patrimonial 52,59 49.815.000,00
+Imobiliário
+Compensação Financeira para Exploração de Petróleo 10.892,92 10.317.458.640,0
+ou Gás Natural
+Receitas de Honorários de Advogados 676,71 640.960.000,00
+o ed sem Receitas A dministradas pelo 704,71 667.481.000,00
+Recursos das Operações Oficiais de Crédito 2.240,43  2.122.073.800,00
+Outras Contribuições Econômicas 2.848,10  2.697.641.560,00
+Recursos Não-Financeiros Diretamente Arrecadados 168,60 32,80 265,86 155,75
+Total 245.176,32 255.243,72 272.129,55 294.407,16 309.112,86 312.819,51 344.764,10 290.521,89 40,61
+
+ 
+
+Fonte: SIGA Brasil
+Elaboração Própria
+O gráfico 2, permite a visualização dos dados contidos na tabela 1, em porcentagem.
+A previdência social, que requer explicitamente contribuições, teve sua maior fonte de
+financiamento, entre 2004 e 2010, representadas pela arrecadação de empregados e
+empregadores, contribuição que possui um teto para a sua progressividade, seguida pela
+Cofins, contribuição que deveria incidir sobre empresas, mas acaba sendo repassada para os
+consumidores finais. Juntas, essas duas contribuições, na média dos seis anos analisados,
+constituem mais de 80% do orçamento para a previdência social.
+
+Gráfico 2 — Fontes de financiamento da previdência social
+(média de 2004 a 2010)
+
+E Contribuições
+Empregado/
+Empregador
+
+E Recursos Ordinários
+
+11,63%
+
+E Cofins
+
+ 
+
+E Demais Fontes
+
+Fonte: SIGA Brasil
+Elaboração Própria
+
+No que diz respeito à assistência social, para efetivá-la de acordo com os preceitos
+estipulados nas bases legais, é preciso articulação com as demais políticas sociais e com a
+política econômica. Para isso, é preciso enfrentar a questão da redistribuição de renda, pois
+a política de assistência social tem que ser redistributiva e não somente distributiva e contar
+com receitas tributárias progressivas e outros recursos não contributivos que não onerem a
+classe trabalhadora. Também é preciso reorganizar a assistência social em uma clara
+estrutura de descentralização e participação, que não desobrigue o Estado de suas
+responsabilidades e não onere a sociedade (PEREIRA, 2002).
+
+De acordo com a tabela 2, de 2004 a 2010 a COFINS foi a principal fonte de
+financiamento da política de assistência social. Em 2004, essa contribuição foi responsável
+por 61,04% do financiamento dessa política. Em 2010, esse financiamento saltou para
+impressionantes 89,87%. Por ser uma contribuição incidente sobre receitas de empresas, a
+COFINS é repassada para o preço final ou serviços finais destas mesmas empresas, ou seja,
+a COFINS onera principalmente pessoas de baixa renda, usuárias desses produtos e
+serviços. Destaca-se a ausência de qualquer tributo que tenha incidência sobre patrimônio
+no custeio da assistência social no Brasil, indicando claramente uma “preferência” pela
+
+tributação sobre a população mais pobre no financiamento desta política.
+
+34
+Tabela 2 — Fontes de Financiamento da Assistência Social, Período: 2004 a 2010
+
+Valores, em milhões, deflacionados pelo IG P-DI (a preços de 2010)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fontes 2004 2005 2006 2007 2008 2009 2010 Média Variação em %
+
+Recursos Ordinários 766,09 1.340,53 120,12 618,78 4.414,86 766,40 33,68 1.151,49 -95,60
+Contribuições Sobre Concursos de Prognósticos 3,10 0,00 0,00 0,00 0,00 0,00 0,52 -100,00
+Alienação de Bens A preendidos 26,27 23,42 19,01 19,31 85,11 19,83 19,10 30,29 -27,28
+Operações de Crédito Externas - em Moeda 0,00 41,43 18,47 13,89 8,69 2,11 14,10
+
+Recursos Não-Financeiros Diretamente Arrecadados 0,04 15,03 12,26 27,05 76,66 0,04 0,02 18,73 -59,95
+Contribuição Social sobre o Lucro das Pessoas Jurídicas 463,01 189,70 3.374,60 1.082,47 2.000,71 3.307,71 3.161,32 1.939,93 582,77
+Contribuição para Financiamento da Seguridade Social — 1253541 13.232,56 15.572,71 19.746,90 2711114 3150954 3711088 22.402,73 196,05
+Fundo de Fiscalização das Telecomunicações 362,13 362,13
+
+Fundo de Combate a Erradicação da Pobreza 6.733,11 6.555,95 829334 9.486,82 713,27 72,57 18,42 4.553,35 -99,73
+Recursos Financeiros Diretamente Arrecadados 131,41 32,65 26,89 86,69 42,51 64,03
+
+Restituição Recursos de Convênios e Congêneres 15,24 39,57 60,15 77,93 48,22
+
+Doações para Combate a Fome 8,19 3,42 0,77 0,56 0,72 1,06 0,97 2,24 -88,15
+Doações de Entidades Internacionais 1,08 0,00 0,00 0,36 -100,00
+Recursos de Concessões e Permissões 152,10 152,10
+
+PERA Financeira para Exploração de Petróleo ou 347,85 347,85
+
+Fundo de Combate a Erradicação da Pobreza — Financ. 3,80 1,33 0,00 1,71
+
+Total 20.536,30 21.402,05 27.542,67 31.043,67 3448142 35.825,32 41.329,02 30.308,64 101,25
+
+ 
+
+Fonte: SIGA Brasil
+Elaboração Própria
+O gráfico 3 demonstra claramente a elevada participação da COFINS no
+financiamento da política de assistência social no período analisado. A Contribuição Social
+sobre o Lucro Líquido (CSLL) das empresas, contribuição incidente sobre o lucro final de
+pessoas jurídicas e, portanto, não passível de repasses para terceiros, respondeu por apenas
+6% do financiamento da política de assistência, na média de 2004 a 2010.
+
+Gráfico 3 — Fontes de financiamento da assistência social
+(média de 2004 a 2010)
+
+4% 6% 16
+
+m Recursos Ordinários
+
+E CSLL
+
+m Demais Fontes
+
+E Cofins
+
+ 
+
+m Fundo de Combate a
+Pobreza
+
+Fonte: SIGA Brasil
+Elaboração Própria
+
+Os dados sobre as fontes de financiamento da assistência social são fortes
+indicadores de que os trabalhadores, inclusive os próprios beneficiários dessa política, são
+os responsáveis por seu financiamento. Em outras palavras, os benefícios transferidos como
+o Bolsa Família e o Benefício de Prestação Continuada são financiados em última instância
+pelo próprio beneficiário que, ao destinar o benefício recebido para o pagamento de bens e
+serviços essenciais, acaba “pagando” os tributos embutidos no preço das mercadorias,
+destacadamente a COFINS.
+Capítulo 2 — Tributação e Federalismo no Brasil
+
+Este capítulo discute as análises teóricas sobre o federalismo, a sua concepção
+descentralizadora do poder político-administrativo e o federalismo fiscal, com enfoque no
+debate sobre o histórico do federalismo brasileiro. Além de revisar a questão da distribuição
+de competências tributárias e grau de autonomia entre as UFS e a sua relação íntima com os
+
+rumos tributários no país.
+2.1. A Peculiaridade do Federalismo Brasileiro
+
+O Brasil é um país regido pelo modelo federativo de governo devido ao seu
+processo histórico de formação. Para compreender a sua dinâmica política e tributária em
+cada nível de governo é preciso analisar o federalismo brasileiro. O modelo federativo é um
+arranjo político-institucional no qual os níveis de governo — federal, estadual e municipal —
+de um determinado país firmam uma espécie de contrato, o pacto federativo, que estabelece
+a cooperação e articulação entre governo central, a União, e os governos subnacionais, os
+entes federados. Cada unidade federada também possui certa autonomia tributária, política
+e gestora que varia de acordo com as necessidades de cada federação.
+
+Na conceituação de Filho (2003a, p. 138) “a federação consiste numa forma
+organizatória em que coexistem várias ordens jurídicas e políticas autônomas e
+interdependentes entre si, dentro da estrutura do Estado”. De acordo com Rodden (2005), o
+federalismo é um processo onde a autoridade é distribuída e redistribuída entre os níveis de
+governo com as articulações em contínua construção.
+
+A origem do federalismo está na necessidade dos territórios em formarem alianças
+de interdependência que sejam sólidas e confiáveis. Tal aliança se mostrou possível com o
+estabelecimento de cooperação e incentivos fiscais e políticos entre unidades federativas.
+No caso de territórios colonializados como o Brasil, um pacto federativo é necessário para
+conservar a esfera nacional e evitar explorações (RODDEN, 2005). Filho (2003a) atribui às
+dimensões continentais do território brasileiro e a sua diversidade cultural o
+
+estabelecimento da federação. Já Oliveira (2010) afirma que o federalismo é a forma de
+
+37
+Estado mais indicada para países que pretendem construir um regime democrático. As
+afirmações dos autores não se excluem, mas se complementam, somando os fatores que
+levam um país aos rumos do federalismo.
+
+O federalismo é baseado na descentralização do poder por garantir formas de
+autonomia aos entes federados. Porém, o grau de autonomia é determinado por legislações
+de acordo com as necessidades de cada país. Por isso, a descentralização assume várias
+facetas, diferente da ideia usual de plena autonomia fiscal, política e gestora. Para Rodden
+(2005), na prática os casos de descentralização são, na maioria das vezes, uma transição do
+controle absoluto do governo central para um controle compartilhado com os governos
+subnacionais, sendo que a União ainda pode ter grande poder de decisão sobre
+competências e arrecadações dos govemos subnacionais.
+
+Em 1824 foi promulgada a primeira Constituição brasileira, que estabeleceu poderes
+administrativos para as 16 províncias da época. Mesmo sem autonomia política, esse poder
+foi considerado o primeiro passo para o federalismo brasileiro. Nas Constituições seguintes
+esse modelo foi se firmando, mas sempre com a característica da regulação federal. Com o
+Golpe Militar de 1964 vieram a reforma tributária de 1966 e a Constituição de 1967 que
+centralizaram o poder político e fiscal e descaracterizou o federalismo. Apesar disso, foi o
+primeiro sistema a estabelecer transferências de recursos por meio do Fundo de
+Participação dos Estados (FPE) e do Fundo de Participação dos Municípios (FPM), não de
+forma homogênea, mas considerando a necessidade de cada ente federado, o que contribuiu
+para a equalização fiscal, ou seja, para reduzir as desigualdades entre jurisdições (SOUZA,
+2005).
+
+O federalismo fiscal de 1967 reforçava a arrecadação tributária estadual com o
+Imposto sobre Circulação de Mercadorias (ICM) e municipal com o Imposto sobre Serviços
+(ISS), bem como instituía mecanismos de repartição das receitas com fins distributivos e
+cooperativos. Esse modelo se enfraqueceu juntamente com o regime militar, mas nem
+mesmo a Constituinte instalada em 1985 operou uma real modificação em sua base. O
+grande problema foi que ocorreram alterações na esfera federativa, causando um
+desequilíbrio tributário (REZENDE, 2003a).
+
+38
+Por ocasião das denúncias contra a centralização do recém superado regime militar a
+CF de 1988 estabeleceu a descentralização como um marco de superação. Essa foi operada
+em dois pontos principais: a ampliação das competências tributárias dos entes federados e o
+aumento dos repasses de receitas federais sem condicionalidades. Porém, a tributação de
+1967 foi mantida e o ICM foi rebatizado como ICMS (REZENDE 2003).
+
+Souza (2005) ressalta as inovações da CF de 1988 como o aumento das receitas e da
+autonomia dos governos subnacionais, mas considera que características de constituições
+anteriores ainda permaneceram como a uniformização de políticas para diferentes entes
+federados e a dificuldade de se operar uma equalização fiscal.
+
+Rezende (2003b) reforça que manter praticamente inalterado o modelo fiscal de
+1967 com as mudanças na autonomia dos entes federados causou um imenso desequilíbrio.
+Para o autor, o tripé — cooperação intergovernamental, incentivos para redução de
+desigualdades regionais e competências tributárias — foi deformado na medida em que a
+cooperação e os incentivos não foram bem definidos enquanto as competências tributárias
+aumentaram.
+
+De acordo com Prado (2006) º, a CF de 1988 estabeleceu diretrizes fortemente
+descentralizadoras no que diz respeito à receita disponível e autonomia tributária dos
+governos subnacionais. Arretche (2010, p.588) resume o pensamento de autores
+desfavoráveis à autonomia delegada aos entes federados: “em conjunto, as instituições
+federativas, tal como desenhadas pelos constituintes de 1988, comprometeriam a eficiência
+e efetividade do Estado brasileiro”, pensamento que é criticado pela autora.
+
+A peculiaridade do federalismo brasileiro consiste na elevada arrecadação dos entes
+federados em comparação com outros modelos de federação. Essa estrutura, incomum
+quando comparada a outros modelos federativos, tem base na elevada receita dos governos
+subnacionais, graças à competência estadual do ICMS, imposto de maior arrecadação,
+imposta na CF de 1988. Prado (2006, p.200-201) afirma que é “peculiaridade exclusiva do
+sistema tributário brasileiro a competência estadual do maior imposto do país, o ICMS”.
+
+Para Arretche (2010, p.588) está na “extensão das competências subnacionais na
+
+execução de políticas públicas, bem como no status dos municípios na federação,
+
+º 2006 é o ano de publicação do artigo, porém, Prado concluiu seu trabalho em 2003.
+
+39
+características que são de fato peculiares ao arranjo institucional brasileiro”. De acordo com
+o artigo 18 da CF de 1988, “a organização político-administrativa da República Federativa
+do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos
+autônomos, nos termos desta Constituição”. Esse arranjo levantou um debate acadêmico
+com a crítica de alguns autores que não concordam com essa demasiada autonomia.
+
+De acordo com Souza (2005), o federalismo no Brasil, desde o seu estabelecimento,
+encontra dificuldades para lidar com as desigualdades entre regiões. Ainda assim, a autora
+afirma que a CF de 1988 fortaleceu o equilíbrio entre os entes federados. Porém, as novas
+demandas econômicas impostas pelo cenário internacional exigem um forte controle fiscal
+e contribuem para as desigualdades entre jurisdições.
+
+Para argumentar a importância do controle do governo central, Castro e Menezes
+(2005) afirmam que a globalização da economia e a crise do Estado, especialmente no que
+tange a crise fiscal, afetaram modelos federativos na medida em que a União teve a sua
+capacidade de financiamento prioritariamente voltada para a dívida extema e perdeu parte
+de sua autonomia gestora para as agências internacionais do capital. Sem o papel
+aglutinador exercido pela União, a premissa de cooperação do federalismo deixa de existir,
+causando o que os autores chamam de “efeito perverso” (p.12) do federalismo, ou seja, os
+entes federados abandonam a cooperação, disputando o investimento de empresas e
+indústrias em seus territórios, possibilidade advinda com a globalização da economia.
+Enfim, os entes federados entraram em uma guerra fiscal para obterem investimentos
+devido a não regulação da União. Os autores alegam que o Brasil é um exemplo desse
+efeito perverso.
+
+Filho (2003a, p.150) define a guerra fiscal entre os entes federados como o
+“oferecimento de benefícios, incentivos, isenções, reduções de imposto visando atrair
+investimentos para Estados menos desenvolvidos” e afirma essa prática contribui para o
+desenvolvimento nacional. Por isso, o autor critica a proposta de reforma tributária do
+govemo Lula (PEC 233/2008) no que diz respeito a não utilização do ICMS como forma de
+incentivo e afirma que a verdadeira guerra tributária é operada pela invasão da União às
+competências tributárias dos entes federados.
+
+40
+Segundo Castro e Menezes (2005), o federalismo brasileiro é um exemplo em que
+há entes federados com baixa cooperação que exercem práticas predatórias um contra os
+outros devido à grande autonomia que lhes foi conferida. Promovendo disputas por meio de
+incentivos fiscais às empresas e indústrias para que se aloquem em seus respectivos
+territórios. Tal prática é possível graças ao domínio estatal do ICMS, particularmente forte
+no Brasil, o que causaria uma guerra fiscal entre os governos subnacionais.
+
+Arretche (2010) contrapõe que mesmo com o papel de destaque dos entes federados
+no Brasil, parte de seus gastos e execuções de políticas públicas são fortemente regulados
+pela União, especialmente a partir dos anos 1990. Até mesmo porque a intervenção da
+esfera federal é profundamente enraizada no Brasil pelo sentimento de nação, pela
+desconfiança de atitudes corruptas por parte dos governantes locais, pela desigualdade entre
+jurisdições e pela própria construção do Estado-nação que se estabeleceu em uma
+autoridade central e passou por um regime militar centralizador.
+
+Para Rezende (2003b), a globalização da economia afeta a federação no que diz
+respeito à autonomia dos governos subnacionais. Para manter a harmonização econômica
+passa a ser necessário uniformizar a arrecadação de impostos e estabelecer uma disciplina
+fiscal que impõe limites aos gastos dos entes federados. A facilidade de intercâmbio
+internacional também afeta a cooperação intergovemamental. Segundo o autor, a
+globalização gera focos de tensões manifestados pelas tentativas da União de controlar mais
+rigorosamente entes federados, pela exigência de compensações subnacionais, pelas
+oportunidades de comércio exterior que enfraquece os laços nacionais e pela própria guerra
+fiscal. Ainda assim, o debate sobre a reforma tributária no Brasil tem desconsiderado esses
+fatos.
+
+O federalismo fiscal brasileiro está estagnado no modelo tributário vigente em 1967
+com algumas desconfigurações. Isso levou a um imobilismo com deformações que
+impedem o verdadeiro desenvolvimento das propostas de descentralização e da redefinição
+das atribuições de cada ente federado na condução de políticas (REZENDE, 2003a).
+
+A análise do federalismo é importante para compreender o caso brasileiro,
+especialmente em relação aos tributos. De acordo com as competências tributárias
+estipuladas para cada unidade federativa pode se notar o nível da disputa entre jurisdições e
+
+44
+a incidência de tributos indiretos, pois são de mais fácil arrecadação e fiscalização para os
+governos, porém, como foi visto no capítulo sobre regressividade tributária, é prejudicial
+
+para o contribuinte.
+
+2.2. A Tributação e as Políticas Sociais no Contexto do Federalismo
+
+Segundo Filho (2003a), a efetiva autonomia dos entes federados depende da
+existência de recursos. Assim, o federalismo fiscal é essencial para o equilíbrio entre as
+atribuições e os meios financeiros dos entes federados, pois compreende a organização
+financeira da federação, ou seja, as competências tributárias delegadas a cada UF. Os
+tributos são os meios financeiros que precisam de distribuição adequada para garantir a
+harmonia da federação.
+
+Para Prado (2006), os modelos federativos enfrentam dificuldades ao configurarem
+seus sistemas tributários, pois existem vários orçamentos e vários níveis de autonomia em
+relação às receitas. O autor afirma que no caso brasileiro em que os entes federados são
+equiparados ao governo central pela própria Constituição, a dificuldade é ainda maior. Isso
+porque qualquer proposta de reforma tributária tem que respeitar a neutralidade distributiva,
+ou seja, não pode afetar a receita de nenhum govemo.
+
+Rezende (2003b) considera que as competências tributárias em conjunto com o
+sistema de partilhas e transferências determinam o perfil da repartição de receitas. Por isso,
+a alteração de somente um desses aspectos não consegue corrigir problemas nesse perfil,
+podendo até mesmo aprofundá-los. Rezende (2003a) também afirma que essas mudanças
+isoladas limitam alterações no próprio sistema tributário, pois a dificuldade de conciliar os
+interesses de cada UF e, consequentemente, estabelecer o equilíbrio entre competências e
+transferências é imensa.
+
+Rezende (2003b) considera a importância da harmonização tributária para ajustar as
+competências à atual conjuntura econômica. Para isso, o autor considera ser preciso adotar
+um sistema de competências partilhadas, no qual um mesmo tributo passa a ser de
+competência de todas as UFs. Esse regime traria mais estabilidade para a legislação
+tributária e consequentemente mais segurança ao contribuinte e mais atrativos para
+
+42
+investimentos de capital. Rezende admite que esse regime destoa dos princípios do
+federalismo, mas pode ser implementado se em contraponto se estabelecer uma maior
+liberdade nos gastos das receitas.
+
+Oliveira (2010) analisa que o federalismo brasileiro historicamente aderiu ao
+princípio de igualdade entre os Estados, fato que o autor afirma causar muitas das
+deficiências da federação, inclusive o fim da cooperação. Essa uniformização é muito
+prejudicial e pode causar conflitos entre entes federados, pois esses nem sempre conseguem
+cumprir as mesmas atribuições e nem em um mesmo período. A uniformização também
+prejudica regiões com especificidades que podem não ser contempladas em atribuições
+homogêneas. O autor ressalta o parágrafo único do artigo 23!º da CF de 1988, que prevê
+leis complementares para cooperação e equilíbrio do desenvolvimento entre as UFS,
+afirmando que o artigo fornece um dispositivo precioso para operar o equilíbrio federativo
+que não tem sido aproveitado.
+
+Em federações com grandes desníveis regionais, como o Brasil, regiões mais pobres
+teriam dificuldades em arrecadar tributos suficientes para realizar suas atribuições. Por isso,
+além da competência tributária, se estabeleceu também a partilha da receita tributária, por
+meio de repasse da arrecadação federal do Imposto sobre Produtos Industrializados (IPI) e
+do imposto de renda para os Fundos de Participação, disposto no art. 159 da CF de 1988, e
+percentual exclusivo em determinados tributos de competência de outra unidade federativa.
+Por exemplo, vinte e cinco por cento da arrecadação do ICMS de competência estadual
+pertence aos municípios (FILHO, 2003a).
+
+De acordo com Rezende (2003b), em um modelo ideal de tributação, suas bases
+principais — renda, consumo e patrimônio — deveriam competir ao nível de governo que está
+no âmbito de sua incidência. Porém, quando há grandes desigualdades regionais, deve
+haver um equilíbrio entre autonomia, para entes mais desenvolvidos, e transferências
+compensatórias, para entes com menor capacidade de arrecadação.
+
+As competências tributárias das UFs são estabelecidas na Constituição. Geralmente,
+tributos sobre imóveis são de competência municipal, tributos voláteis como a renda são de
+competência federal e tributos sobre vendas são de competência estadual (FILHO, 2003).
+
+10 Incluído pela Emenda Constitucional nº 53, de 2006.
+
+43
+Nesse ponto, cabe frisar que o Distrito Federal acumula competências legislativas de estado
+e município, de acordo com o artigo 32, parágrafo 1º da CF de 1988, bem como cabe ao
+Distrito Federal a competência tributária de Estados e Municípios, de acordo com o artigo
+147 da CF de 1988.
+
+No Brasil, de acordo com o Título VI, Capítulo I — sobre o Sistema Tributário
+Nacional —, Seções II, IV e V da CF de 1988, o Imposto sobre a Renda e Proventos de
+Qualquer Natureza — pessoa física e jurídica — (IR), o IPI, o Imposto sobre a Propriedade
+Territorial Rural (ITR)! e tributos sobre grandes fortunas, além das contribuições sociais
+para a Seguridade Social, são de competência federal. O Imposto sobre Propriedade de
+Veículos Automotores (IPVA), o Imposto sobre Transmissão Causa Mortis e Doação
+(ITCD) e o ICMS são de competência estadual!?, O Imposto Predial e Territorial Urbano
+(IPTU) e o Imposto de Transmissão de Bens Imóveis Inter-Vivos (ITBI) são municipais.
+
+Filho (2003b) explica que caso fosse aprovada a proposta de reforma tributária do
+govemno Lula, PEC nº 42 de 2003, iria modificar o modelo de federação brasileiro de modo
+a enfraquecê-lo. Nessa proposta, uma das modificações é a competência legislativa sobre o
+ICMS em poder da União, tornando Estados e Distrito Federal “meros cobradores”, nas
+palavras de Filho. Além disso, o ICMS não seria passível de isenção. Para o autor, essa
+medida desacompanhada de uma política de desenvolvimento regional irá manter a
+desigualdade entre jurisdições sem chance para os entes federados com baixas receitas
+promoverem incentivos para os seus desenvolvimentos. O autor conclui que “o projeto
+assegura a hegemonia dos Estados desenvolvidos e perpetua a dependência e espoliação
+dos Estados pobres e subdesenvolvidos” (p.178).
+
+O federalismo também interfere nas políticas públicas, no que diz respeito à fonte
+dos recursos que lhe serão destinados e qual unidade federativa será responsável pela sua
+gestão e execução. Se tratando dos recursos e formas de execução de políticas públicas, o
+Brasil atualmente adota diferentes graus de competências federativas para diferentes
+
+políticas.
+
+UA Lei nº 11.250 de 2005 prevê a possibilidade de convênios entre União e o DF e municípios para fiscalizar
+e arrecadar 0 ITR.
+
+2 A competência estadual dos três tributos mencionados foi instituída pela Emenda Constitucional nº 3, de
+1993.
+
+44
+Para Arretche (2010), o governo central aumentou a regulamentação e supervisão
+sobre as políticas subnacionais nos anos 1990 com medidas para compensar as
+desigualdades sociais e territoriais. Entre essas medidas estão as transferências
+condicionadas universais vinculadas a políticas específicas, saúde e educação, com o intuito
+de reduzir as desigualdades territoriais. A análise de Arretche sobre essas medidas mostra
+que a União cumpre um claro papel na redução de desigualdades de receita entre os
+municípios.
+
+Rezende (2003b) observa o retomo de duas iniciativas que haviam sido
+abandonadas com a CF de 1988: o Fundo de Manutenção e Desenvolvimento do Ensino
+Fundamental e de Valorização do Magistério (FUNDEF)! e a co-participação financeira na
+área de saúde básica. O autor explica a importância dessas transferências vinculadas às
+políticas públicas, mas destaca que são voltadas para questões sociais específicas e não
+podem ser consideras o marco de um novo federalismo fiscal que o Brasil tanto precisa
+para recompor o seu equilibrio federativo.
+
+Souza (2005) afirma a pretensão da CF de 1988 em estabelecer um federalismo
+cooperativo e também se refere à questão das transferências condicionadas, ao mencionar o
+repasse de recursos federais para a implementação das políticas de saúde e educação nos
+municípios. Porém, a autora conclui que o que realmente ocorre no Brasil é um federalismo
+competitivo sem mediações de interesses ou conflitos.
+
+Arretche (2010) explica que as teorias do federalismo propõem três resultados
+distintos para efetivação das políticas públicas. Primeiro, a autonomia pode gerar
+discordância e, consequentemente, desigualdade das políticas implementadas. Segundo,
+políticas distributivas não conseguiriam reduzir as desigualdades regionais, pois tenderiam
+a gastos localizados voltados para interesses clientelistas de governantes locais. Nesse
+cenário, não seria possível a redução de desigualdades regionais. Terceiro, o federalismo
+
+x
+
+não seria um modelo oposto à redução das desigualdades regionais, como mostra o
+
+3 O FUNDEF foi substituído pelo Fundo de Manutenção e Desenvolvimento da Educação Básica e de
+Valorização dos Profissionais da Educação (FUNDEB) a partir da Emenda Constitucional nº 53 de 2006 e
+sofreu algumas alterações como abrangência do financiamento para outras etapas de educação e mudanças de
+terminologias.
+
+45
+exemplo de federalismo bem sucedido da Alemanha, contanto que tenha uma autoridade
+política centralizada.
+
+Arretche (2010) define dois tipos de políticas descentralizadas, as reguladas — nas
+quais o governo central estabelece gastos e formas de execução que limitam os governos
+subnacionais — e as não reguladas — nas quais os govemos subnacionais têm autonomia
+deliberativa. A regulação de políticas está associada à transferência de recursos federais
+com condicionalidades e, portanto, no caso brasileiro poderia ser aplicada a qualquer
+política pública. O estudo de Arretche mostra que as políticas reguladas passam a ter
+prioridade nos governos subnacionais em contraposição ao descaso com políticas não
+reguladas. “A desigualdade horizontal de gasto nas políticas reguladas é bem menor do que
+nas políticas não reguladas” (p. 608).
+
+A particularidade do federalismo brasileiro é interpretada adequadamente quando se
+analisa a autonomia dos governos subnacionais em conjunto com a regulação federal para
+reduzir a desigualdade de receitas entre jurisdições, ou seja, as políticas reguladas. Nessa
+perspectiva, o federalismo brasileiro não reproduz a alta desigualdade de receita entre
+jurisdições, própria de federalismos competitivos. (ARRETCHE, 2010).
+
+O federalismo brasileiro apresenta uma clara dificuldade: está amarrado à grande
+autonomia que atribuiu aos seus entes federados. Essa autonomia não é o problema em si,
+porém, quando relacionada diretamente com a uniformização das políticas e as
+desigualdades entre jurisdições existentes, causa um impacto que contribui para essas
+desigualdades regionais e para a competitividade entre os entes federados. Isso está
+ocorrendo, pois o debate sobre o sistema tributário brasileiro segue desconsiderando a
+necessidade de se operar mudanças nas competências tributárias em conjunto com
+mudanças no sistema de partilhas para manter o equilíbrio federativo.
+
+Como foi exposto, foram tomadas algumas medidas de regulação federal para
+controlar esse desequilíbrio com aparente sucesso se comparada à autonomia sem restrições
+dos entes federados. Porém, essas medidas são voltadas para políticas específicas e não
+representam uma mudança mais ampla da questão. Os autores possuem posições
+divergentes quanto à interferência federal. Porém, as saídas para uma harmonização
+
+tributária que se adeque à nova lógica mundial apontam propostas que descaracterizam
+
+46
+princípios de autonomia do federalismo. O que precisa ser pesado é o grau de renúncia da
+autonomia conquistada em prol do equilíbrio federativo.
+
+O quadro 1 apresenta as competências tributárias por nível federativo no Brasil,
+revelando a existência de sete impostos federais, e seis impostos que são de
+
+responsabilidade dos estados e municípios.
+
+Quadro 1 — Competências Tributárias por Nível Federativo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tributo” União Distrito Federal Estados Municípios
+Imposto sobre Grandes Fortunas ICMS ICMS IPTU
+IOF? IPVA IPVA ITBI
+ITR ITCD ITCD ISS
+Impostos IPI IPTU
+IR ITBI
+TEÉ ISS
+ig
+Contribuições Sociais RPPS RPPS RPPS
+Contribuições Melhorias Melhorias Melhorias Melhorias
+CIDE”
+Cobradas em todos os níveis federativos, de acordo com suas atribuições, tendo como
+Taxas fato gerador o exercício do poder de polícia ou a necessidade de serviço público
+(Artigo 77 do CTN, 1966)
+
+ 
+
+ 
+
+ 
+
+Fonte: Constituição Federal de 1988/ Código Tributário Nacional (CTN)
+Elaboração Própria
+
+A tabela 3 apresenta a partilha federativa de distribuição dos tributos no Brasil.
+Percebe-se que os municípios são os mais beneficiados pelos repasses, tanto federais
+quanto estaduais. A dupla competência tributária do DF faz com que a capital receba
+transferências destinadas aos estados e municípios, acumulando grandes recursos.
+
+4 De acordo com Fabrício de Oliveira (2009), o imposto, contribuição e taxa são o conjunto de tributos
+arrecadados no Brasil. A arrecadação de impostos não pressupõe uma contrapartida direta para a população,
+ou seja, não tem uma aplicação determinada para beneficiar os contribuintes, ao contrário das taxas e
+contribuições, que são vinculadas à serviços e benefícios específicos.
+
+!5 Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos e Valores Mobiliários.
+
+16 Imposto sobre Exportações.
+
+1” Imposto sobre Importações.
+
+!8 Regime Próprio de Previdência Social, contribuição para o custeio da previdência de servidores públicos.
+
+1º Contribuição de Intervenção no Domínio Econômico (combustíveis).
+
+47
+Tabela 3 — Porcentagem de Tributos Repassados para Entes Federados
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Competência Tributária
+União Estados
+IR CIDE Impostos não previstos ITR IPI IPVA ICMS
+Estados 21,5% 29% 20% 10%
+Destino ——
+Municípios 23,5% 50% 50% 25%
+
+ 
+
+Fonte: Constituição Federal de 1988
+Elaboração Própria
+
+No total, o DF recebe transferências de sete tributos distintos, seis impostos e uma
+contribuição, quatro na qualidade de estado e quatro na qualidade de municípios, recebendo
+duplamente os repasses do IR.
+
+2.3.A (Falta) de Cidadania Tributária
+
+De acordo com o CDES (BRASIL, 2009), a cidadania tributária é a consciência dos
+cidadãos de que os tributos devem retornar em forma de benefícios para a população. A
+transparência sobre fontes de financiamentos e utilização de recursos públicos é requisito
+para o exercício da cidadania tributária.
+
+Cavalcante (2011) afirma que a falta de equidade e de retorno social da arrecadação
+tributária caracteriza a ausência da cidadania tributária. O autor afirma que a legislação
+tributária brasileira é caótica e confunde o cidadão e que a cidadania tributária é necessária
+para que se efetive preceitos constitucionais de justiça, desenvolvimento, erradicação da
+pobreza e marginalização, redução das desigualdades sociais e regionais e o bem-estar de
+todos.
+
+O CDES (BRASIL, 2009) considera que falta cidadania tributária no Brasil, pois os
+cidadãos não se percebem envolvidos no processo orçamentário, não conseguem relacionar
+o pagamento dos tributos com suas aplicações e não exigem prestação de contas dos
+governantes. Por isso o estudo do CDES levanta a hipótese de que a falta de cidadania
+tributária é parte importante das grandes injustiças verificadas no sistema tributário
+
+48
+brasileiro. Apesar de sua importância, a questão da falta de cidadania tributária não está
+sendo tratada adequadamente no debate sobre as injustiças fiscais.
+
+Martins (2009) acrescenta que a injustiça tributária no Brasil é decorrente dos
+seguintes fatores: regressividade, baixo retomo social, inibição de produção e
+empregabilidade, pacto federativo inadequado e a falta de cidadania tributária. O autor
+destaca que os cidadãos devem ser informados sobre o quanto pagam em tributos indiretos,
+pois sem essa conscientização não há mobilização da sociedade e sem essa mobilização os
+governantes não se atentarão para tal questão. Como foi exposto no capítulo 1, o Artigo
+150, parágrafo 5º, da CF de 1988 estabelece que “a lei determinará medidas para que os
+consumidores sejam esclarecidos acerca dos impostos que incidam sobre mercadorias e
+serviços”.
+
+A falta de consciência da população sobre os tributos que as oneram é resultado de
+vários fatores, como a incidência “invisível” de tributos indiretos, a ausência de
+informações claras sobre cada um dos tributos sendo divulgadas em larga escala e o próprio
+tecnicismo, que dificulta o acesso dos cidadãos às prestações de contas dos governantes. Há
+sim esforços para alcançar a cidadania tributária, mas as tão discutidas características do
+sistema tributário brasileiro impedem a sua consolidação. “Como os tributos indiretos são
+menos visíveis que as incidências sobre a renda e a propriedade, é disseminada a crença na
+sociedade brasileira de que a população de baixa renda não paga impostos” (BRASIL,
+2009, p.40). Essa crença leva à falta de conhecimento e participação democrática, o que
+prejudica o controle democrático e fiscal sobre o Estado.
+
+49
+Capítulo 3 — Análise do Sistema Tributário do Distrito Federal e a sua
+Incidência na Renda da População
+
+Este capítulo situa a questão tributária no DF, analisando suas condições específicas
+e se aprofundando nos tributos de sua competência. O enfoque está na questão social
+característica da região: a comprovada desigualdade social e elevada concentração de renda
+de sua população, relacionando essa característica gritante com a dinâmica que está sendo
+operada na incidência tributária sobre os cidadãos do DF. Complementarmente se
+investigou o conhecimento da população acerca dos tributos existentes.
+
+31. O Distrito Federal
+
+Brasília foi inaugurada pelo presidente Juscelino Kubitschek em 1960 e passou a ser
+a capital do Brasil. As então cidades satélites, formadas por ocupações de terrenos na época
+da construção de Brasília, tomaram-se Regiões Administrativas (RAs) para facilitar a
+administração dos espaços. Com a expansão populacional surgiram novas RAs (DISTRITO
+FEDERAL, 2004). Atualmente 30 localidades são consideradas RAs. A urbanização do DF
+apresenta uma lógica perversa, na qual as pessoas com menos condições financeiras são
+“empurradas” para a “periferia” do DF, ou seja, para as RAs localizadas no entorno, menos
+desenvolvidas. Assim, a “periferia” acumula moradores com rendas baixas, que muitas
+vezes trabalham no plano piloto, e não desenvolvem uma boa infraestrutura, causando
+verdadeiras muralhas segregadoras das diferenças socioeconômicas regionais.
+
+Por ser a capital do país e, portanto, sede dos poderes, o DF adquiriu algumas
+características particulares como, por exemplo, não possuir municípios e sim Regiões
+Administrativas. Com essa característica, o DF adquiriu dupla competência tributária, ou
+seja, acumula as competências tributárias pertinentes aos estados e municípios. Pois, de
+acordo com o artigo 147 da CF de 1988, cabe ao DF os impostos municipais, assim como
+cabe à União os impostos estaduais quando o território não for divido em municípios.
+
+De acordo com a Lei Orgânica do Distrito Federal (LODF, 1993, p.53), artigo 127
+
+“Ao Distrito Federal competem, cumulativamente, os impostos reservados aos Estados e
+
+50
+Municípios nos termos dos arts. 155 e 156 da Constituição Federal”. Os artigos 155 e 156
+da CF de 1988 se referem aos tributos de competência estadual e municipal,
+respectivamente.
+
+O DF também conta com o Fundo Constitucional do Distrito Federal (FCDF),
+previsto no artigo 21, inciso XIV da CF de 1988”, sendo obrigação da União prestar
+assistência financeira ao DF na execução de serviços públicos e organizar e manter polícia
+civil, militar e corpo de bombeiros. O FCDF foi instituído pela lei específica 10.633/02,
+que estabelece em seu artigo 2%: “A partir de 2003, inclusive, o aporte anual de recursos
+orçamentários destinados ao FCDF será de [...] dois bilhões e novecentos milhões de reais,
+corrigido anualmente pela variação da receita corrente líquida - RCL da União”. Esse
+dinheiro representa um recurso complementar destinado anualmente e exclusivamente ao
+
+GDF, destinado às políticas de saúde e educação e à segurança pública.
+
+3.2. Concentração de Renda e Desigualdade Social no Distrito Federal
+
+Desde 2008, de acordo com o IPEA (2010), o nível de desigualdade no DF já é o
+maior do país. O índice de Gini?! calculado no DF foi de 0,63 contra uma média de 0,55 no
+restante do país. A pesquisa do IPEA também aponta que as transferências da esfera federal
+contribuem para reduzir os níveis de desigualdades regionais, assim como foi vastamente
+afirmado por Arretche (2010) no capítulo anterior. Entretanto, essa afirmativa não se aplica
+ao DF, pois, de acordo com o IPEA as transferências federais não contribuíram para a
+redução das desigualdades no DF em 1998.
+
+Essa diferença chocante na distribuição de renda seria explicada por especificidades
+na própria estrutura ocupacional da população, como a alta concentração de funcionários
+
+públicos no DF. De fato, houve crescimento na renda dos mais pobres, porém os
+
+20 Inciso inserido pela Emenda Constitucional nº 19 de 1998.
+
+21 Mede o nível de concentração de uma distribuição variando de zero (maior igualdade) a um (maior
+desigualdade). No caso da renda, o zero representa distribuição mais equitativa e o um representa a maior
+concentração de renda possível (DISTRITO FEDERAL, 2004). Salvador e Amorim (2010) ressaltam os
+limites desse coeficiente para inferir a real distribuição de renda, pois não considera a fonte das rendas, as
+desigualdades regionais e locais e as condições de vida de determinada população.
+
+51
+funcionários públicos têm maiores aumentos salariais e os repasses federais para
+previdência beneficiam também os funcionários públicos. (IPEA, 2010a). Essa soma de
+fatores resultou na preocupante particularidade do DF: o alto e constante nível de
+desigualdade social.
+
+Contudo, a pesquisa apresenta uma limitação na discussão de renda somente entre
+os trabalhadores. Salvador e Amorim (2010) ressaltam quatro ponderações importantes em
+relação ao coeficiente de Gini:
+
+a) Limita-se a mensuração da desigualdade entre indivíduos e não entre classes,
+
+pois não distingue as fontes das rendas, se é do trabalho ou se é da propriedade;
+
+b) É um instrumento pouco eficaz para medir desigualdades regionais e locais,
+como, por exemplo, nas regiões metropolitanas;
+
+c) É um instrumento incapaz de medir a quantidade de riqueza ou de pobreza de
+um país, porque foi estruturado para medir a homogeneidade de renda em uma
+determinada população e, por isto, mede internamente as diferenças entre
+indivíduos de uma determinada população;
+
+d) Apesar de ser um índice medido globalmente, as comparações entre países
+apresentam deficiências.
+
+Os autores destacam a importância de estudar a questão do mercado de trabalho,
+renda e estrutura tributária para uma melhor compreensão das desigualdades
+socioeconômicas. Devido ao enfoque deste TCC, a análise limitou-se à compreensão da
+questão tributária no DF, com uma breve abordagem das desigualdades regionais no DF.
+
+Dados da Pesquisa Distrital por Amostra de Domicílios (PDAD - DISTRITO
+FEDERAL, 2004) constatam que a renda domiciliar média no DF é de nove Salários
+Mínimos (SM) 2 e a renda per capita é de 2,4 SM. “Do total da população os 10,0% de
+menor poder aquisitivo detêm apenas 0,5% da renda média mensal [...] sendo que os 10,0%
+de maior poder aquisitivo concentram 42,6% da renda” (DISTRITO FEDERAL, 2004,
+p.19).
+
+O estudo realizado pela PDAD (DISTRITO FEDERAL, 2004) foi essencial por
+analisar a especificidade das RAs do DF. Até então, o DF tinha sido pesquisado como um
+
+22 Atualmente, o valor de um salário mínimo é de 545 reais, de acordo com o a lei nº 12.382 de 2011.
+
+52
+todo homogêneo. A partir dos dados da PDAD, a Companhia de Planejamento do Distrito
+Federal (CODEPLAN - DISTRITO FEDERAL, 2007) dividiu as RAs pesquisadas à época
+de acordo com a renda per capita mensal, formando cinco grupos, conforme a tabela 4.
+
+53
+Tabela 4 — Regiões A dministrativas agrupadas de acordo com a
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Renda per capita Mensal
+Grupos Regiões A dministrativas Renda per capita
+Lago Sul 10,8
+Sudoeste/O ctogonal 8,6
+Grupo 1 — mais de 4 SM Lago Norte 7,8
+Brasília 6,8
+Park Way 4,9
+Guará 3,3
+Aguas Claras 8A
+Cruzeiro 31
+Grupo 2 — entre 2 e 4 SM Taguatinga 2,5
+Núcleo Bandeirante 2,4
+Sobradinho 24
+Candangolândia 2,2
+Sobradinho II 17
+Gama 1,6
+Grupo 3 — entre 1 e 2 SM Riacho Fundo Tê
+São Sebastião 1,4
+Ceilândia 1,2
+Paranoá 1,2
+Samambaia 1,0
+Santa Maria 0,9
+Recanto das Emas 0,9
+Grupo 4 — entre 0,5 e 1 SM Riacho Fundo II 0,9
+Varjão 0,8
+Brazlândia 0,8
+Planaltina 0,8
+Grupo 5 — entre O e 0,5 SM Estrutural vá
+Itapoã 0,4
+
+ 
+
+Fonte: CODEPLAN, 2007
+Elaboração Própria
+
+54
+O gráfico 4 ressalta a grande desigualdade de renda entre as RAs do DF. Enquanto
+no Grupo 1, que concentra as RAs consideradas área nobres do DF, como plano piloto e os
+lagos sul e norte, 33,4% da população tem renda acima de 20 SMs per capita por domicílio,
+no Grupo 5, com RAs consideradas periferias do DF, a situação se inverte e somente 0,1%
+da população possui renda superior a 20 SMs. Já 35,8% da população do Grupo 5
+sobrevivem com apenas um SM de renda per capita por domicílio, percentual que se quer
+consta nas rendas do Grupo 1.
+
+Gráfico 4 — Distribuição de renda entre os grupos de Regiões Administrativas
+
+ 
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+
+0%
+
+ 
+
+ 
+
+ 
+
+mAté1 SM
+mDela2SM
+mDe2a5SM
+=De5a10SM
+mDe10a20 SM
+m Mais de 20 SM
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+eo” 201
+Grupo1 Grupo? Grupo3 Grupo4 Grupoô5 4
+
+Fonte: CODEPLAN, 2007
+Elaboração própria
+
+A CODEPLAN (DISTRITO FEDERAL, 2007), baseada em dados da PDAD de
+2004, constata que, quando comparado a outras UFs, o DF apresenta vantagens quanto aos
+equipamentos e serviços públicos oferecidos. Entretanto, há altas desigualdades entre as
+RAs, que apresentam um recorte hierárquico no que diz respeito aos aspectos
+socioeconômicos. Mais além, o DF chama a atenção por apresentar a maior renda per capita
+do Brasil. Tamanha desigualdade é constatada ao se analisar as rendas per capitas iguais ou
+superiores a 20 SM, que podem ser mais bem visualizadas no gráfico 5.
+
+55
+Gráfico 5 — Renda per capita mensal superior a 20 SM entre Regiões Administrativas
+
+2,00% 0,50% 0,10%
+
+E Grupo1
+E Grupo2
+m Grupo3
+E Grupo4
+E Grupo5
+
+ 
+
+Fonte: CODEPLAN, 2007
+Elaboração Própria
+
+Na pesquisa da CODEPLAN (DISTRITO FEDERAL, 2007), a renda faz um papel
+de indicador para as condições de vida da população. O acesso à saúde, educação, cultura e
+saneamento, por exemplo, se mostram proporcionais ao nível da renda. O estudo expõe
+claramente um recorte de regiões localizadas no centro do poder com altos níveis
+socioeconômicos enquanto regiões da “periferia” apresentam rendas baixíssimas com
+baixíssimas condições de vida.
+
+Pesquisa realizada pelo DIEESE (2011) analisa 22 RAs dividas em três grupos:
+Grupo 1 — Brasília, Lago Sul e Lago Norte; Grupo 2 — Candangolândia, Cruzeiro, Gama,
+Guará, Núcleo Bandeirante, Planaltina, Riacho Fundo, Sobradinho, Taguatinga; e Grupo 3
+— Brazlândia, Ceilândia, Samambaia, Paranoá, São Sebastião, Santa Maria e Recanto das
+Emas. A pesquisa constata que um cidadão do grupo 1 obteve renda de 4,4 vezes maior do
+que um cidadão do Grupo 3, o que demonstra que a desigualdade está crescendo, pois, nos
+anos 2000 essa diferença era de quatro vezes.
+
+Este alto índice de desigualdade socioeconômica é corroborado por pesquisa do
+IPEA (2010b) que aponta o DF como a UF com maior desigualdade de renda em 2008 e a
+região Centro-Oeste como a região que obteve maior crescimento do Produto Interno Bruto
+(PIB) per capita. Paradoxalmente, é também a região que menos reduziu a taxa de pobreza
+
+56
+absoluta”. Em 2008, o índice de Gini no DF era de 0,62, apesar das deficiências neste
+coeficiente este é um dado significante.
+
+Entre 1995 e 2008, o DF apresentou apenas 12% de redução na taxa da pobreza
+absoluta, a menor do Brasil. O DF também foi apontado nesse período com um índice de
+Gini de 0,62, o índice mais alto do Brasil, ou seja, a UF com maior desigualdade de renda.
+O Centro-Oeste como um todo reflete o aspecto do DF, pois teve o maior crescimento anual
+do Produto Intemo Bruto (PIB) per capita e, paralelamente, o pior desempenho na redução
+anual da taxa de pobreza absoluta (IPEA, 2010c). Outra publicação do IPEA (2010b)
+considera que o DF deve ser omitido em análises do PIB por UFs, pois a ampla
+participação do setor público em sua dinâmica toma as taxas do DF discrepantes das
+demais UFs. Por exemplo, somente o seu PIB per capita em 2008 chegava quase ao triplo
+da média nacional.
+
+Os dados expostos permitem concluir que o DF, como sede do poder público,
+apresenta particularidades em relação às demais UFs. Porém, dentro do próprio DF há
+profundas desigualdades socioeconômicas entre as RAS que são resultados da grande
+concentração de renda. Essa má distribuição de renda não pode ser atribuída somente às
+particularidades do DF, pois é preciso considerar o envolvimento da carga tributária nessa
+questão.
+
+3.3. O Perfil da Tributação no Distrito Federal
+
+Já foi visto no capítulo 1 que o Brasil possui um perfil tributário extremamente
+regressivo, ou seja, onera mais os mais pobres. Será que o DF reproduz essa lógica
+tributária regressiva, aprofunda ainda mais essa lógica ou consegue superá-la e manter um
+perfil progressivo ou mesmo proporcional? Para responder essas questões é preciso analisar
+os tributos de competência do DF. Esse estudo se concentra na análise dos impostos
+específicos do DF, desconsiderando taxas, contribuições e transferências de tributos
+
+federais.
+
+23 Renda per capita de menos de meio salário mínimo mensal.
+
+57
+O IPTU é um tributo de competência municipal e pago anualmente cujo valor varia
+em cada município. De acordo com Oliveira (2008), o IPTU é um imposto que sofre
+distorções em sua administração, o que contribui para torná-lo regressivo, incidindo com
+mais intensidade em pessoas com renda mais baixa e com imóveis menos valorizados.
+Teoricamente, este imposto seria progressivo, variando apenas de acordo com o valor de
+mercado e traria vantagens para os municípios, como a dificuldade para se gerar guerra
+fiscal ou sonegação. As alíquotas deveriam ser estabelecidas progressivamente conforme o
+valor do imóvel e de acordo com sua localidade e utilização, princípio estabelecido no
+Artigo 156, parágrafo 1º! da CF de 1988. Porém, de acordo com o estudo do autor, ocorre
+o inverso do previsto da Constituição: quanto menor o valor de mercado do imóvel, maior o
+imposto sobre ele.
+
+A má administração do IPTU ocorre pelo ônus político que a arrecadação tributária
+correta poderia gerar aos governantes e pelo fato do tributo exigir um cadastro de todos os
+imóveis do município e a sua constante atualização, monitoramento que muitos municípios
+não teriam recursos para arcar. Sem esse controle o valor dos imóveis é corrigido de acordo
+com os índices de inflação e a diferença na valorização de cada imóvel não é considerada, o
+que acarreta em problemas na distribuição da carga tributária (OLIVEIRA, 2008).
+
+No DF, a alíquota nominal do IPTU é 0,3%. Utilizar essa alíquota na base de
+cálculo desse imposto lhe daria um perfil proporcional, porém vem sendo aplicada a
+alíquota efetiva, que decrescem de acordo com o valor de mercado. Por isso, o IPTU do
+Lago Sul, por exemplo, a RA com maior renda per capita do DF, é calculado sobre uma
+alíquota entre 0,09% e 0,15%, bem abaixo dos 0,3% previstos. Em contraposto, encontrou-
+se uma alíquota de 0,34% sobre o IPTU de um imóvel localizado no Gama, RA bem menos
+valorizada do que o Lago Sul. Com o exposto, “estaria ocorrendo uma grave e flagrante
+injustiça na cobrança do tributo” (OLIVEIRA, 2008, p.44).
+
+Publicação do IPEA (2010d) baseada em dados das Pesquisas de Orçamentos
+Familiares (POF) realizada pelo Instituto Brasileiro de Geografia e Estatística (IBGE)
+considera que o IPTU aumenta progressivamente de acordo com a renda das famílias.
+
+Porém, contraditoriamente, o tributo apresenta uma estrutura de administração e de
+
+2 Redação dada pela Emenda Constitucional nº 29, de 2000.
+
+58
+arrecadação regressiva: os mais ricos desembolsam aproximadamente 0,5% de sua renda
+com o IPTU, enquanto essa porcentagem é de 2,2% para os contribuintes mais pobres.
+Apesar do IPTU ser baseado no valor do imóvel, essa disparidade ocorre, pois os mais
+pobres retiram bem mais de suas rendas para o pagamento do tributo. Essa disparidade
+tende a se acentuar na medida em que mais famílias passarem a pagar o IPTU, enquanto ele
+permanecer mal administrado e mal arrecadado. Assim, os dados das POFs de 2002-2003 e
+2008-2009 mostraram alta regressividade entre os contribuintes.
+
+O ISS, tributo de competência municipal e do Distrito Federal, tem como fato
+gerador a prestação de serviços. Assim como o ICMS, o ISS acaba sendo repassado para o
+preço do serviço, incidindo sobre quem paga por ele e não sobre o prestador do serviço. O
+Artigo 156, inciso III, da CF de 1988 frisa que este tributo deve incidir sobre serviços não
+compreendidos na arrecadação do ICMS. De acordo como o CDES (BRASIL, 2009), os
+municípios arrecadam cumulativamente o ISS sobre os serviços não compreendidos pelo
+ICMS, havendo 5.554 legislações para o ISS.
+
+O ITBI, de competência municipal, é relativo à transmissão de imóveis por ato
+oneroso e acessão física ou de direitos sobre o imóvel, de acordo com a CF de 1988, Artigo
+156, inciso II. O Artigo 35 do CTN (1966) estabelece a cobrança do ITBI em casos de
+transmissão ou direito de bens imóveis a qualquer título. Já a LODF (1993), em seu Artigo
+137, ratifica o Artigo 156, parágrafo 2º da CF de 1988, ao determinar que o ITBI não incida
+sobre a transmissão de bens ou direitos incorporados ao patrimônio de pessoa jurídica e
+nem em decorrência de sua fusão, incorporação, cisão ou extinção a menos que a intenção
+seja de compra e venda desses bens ou direitos, locação de bens imóveis ou arrendamento
+mercantil.
+
+O IPVA é um tributo estadual que deve ser pago anualmente pelos proprietários de
+veículos automotores, sendo o arrecadamento rateado entre o estado e o município onde
+ocorreu o licenciamento. De acordo com Luchiezi Jr. (2010), o IPVA sucede a antiga Taxa
+Rodoviária Única (TRU), que vem sendo utilizada pelos proprietários de aeronaves e
+embarcações para evitar o seu pagamento, limitando a justiça fiscal. “O fato de que o IPVA
+se origina de uma taxa que se referia ao uso terrestre do veículo é apenas uma coincidência
+
+histórica” (SINDIFISCO, 2010, p. 4). Para o autor, esse imposto não deveria ficar restrito a
+
+59
+veículos terrestres e sim ampliados sobre veículos de luxos como iates e helicópteros,
+favorecendo de maneira mais completa os princípios da capacidade contributiva e da
+progressividade.
+
+Lima (2009) explica que há de fato divergência em relação à incidência do IPVA
+sobre aeronaves e embarcações, porém o autor afirma que dentre os estados pesquisados
+por ele, inclusive o DF, somente o Amazonas não se beneficiava desta arrecadação,
+excetuando embarcações de passeio e esporte. O autor afirma que as alíquotas do IPVA são
+determinadas pelos estados e Distrito Federal de acordo com suas necessidades. Tal fato
+gera brechas para regressividade ou progressividade do IPVA.
+
+O ITCD, também conhecido como ITCMD, ITC e ITD, de competência estadual, é
+relativo à sucessão de bens por morte ou por doação. De acordo com a LODF (1993),
+Artigo 133, inciso 1, o ITCD incide sobre “bens imóveis situados no Distrito Federal e
+sobre bens móveis, títulos e créditos quando o inventário ou arrolamento se processar no
+Distrito Federal ou o doador nele tiver domicílio”.
+
+Lima (2009) afirma que a alíquota do ITCD foi estabelecida pelo Senado Federal
+em 8%, por meio da Resolução nº 9/92. Porém, a maioria dos estados utiliza alíquotas bem
+menores na sua incidência. Mais uma vez, um tributo direto sobre o patrimônio é pouco
+onerado, contribuindo para a regressividade do sistema. No DF, como será observado no
+gráfico 6, a arrecadação do ITCD é praticamente inexistente na arrecadação tributária.
+
+O Artigo 155, inciso II, da CF de 1988, determina a competência dos estados e do
+Distrito Federal em relação ao ICMS, porém, o estabelecimento das alíquotas nas operações
+entre estados fica a cargo da União, nos termos do parágrafo 2º, incisos IV e V. De acordo
+com Lima (2009), as alíquotas em operações internas são determinadas pelos próprios
+estados e pode ser seletiva em relação à essencialidade do bem, ou seja, produtos básicos
+deveriam ter uma alíquota menor enquanto produtos supérfluos teriam alíquotas maiores.
+Isso contribuiria para redução da regressividade do tributo e para a justiça fiscal. Porém,
+como essa seleção de acordo com a essencialidade não é obrigatória, se percebe distorções
+nas alíquotas do ICMS em vários estados, onde está ocorrendo o inverso: bens supérfluos
+estão saindo mais baratos do que os básicos. De acordo com o CDES (BRASIL, 2009) não
+há harmonização entre as 27 legislações que regem o ICMS.
+
+60
+O gráfico 6 apresenta a composição da arrecadação tributária do Distrito Federal em
+2010. O gráfico mostra que 55% do montante arrecadado no DF em 2010 é representado
+pelo ICMS, um dos tributos mais regressivos do sistema tributário brasileiro. Impostos
+mais progressivos como IPTU, IPVA e IR representam menos da metade da arrecadação no
+DF.
+
+Gráfico 6 — Porcentagem de arrecadação dos tributos no Distrito Federal em 2010
+
+3%
+
+ 
+
+BICMS ISS Taxas BIPTU mMIPVA MITCD mIRRF mITBI
+
+Fonte: site transparência do DF, referente ao exercício de 2010
+Elaboração própria
+
+Convém ressaltar que o Imposto de Renda, apesar de ser de competência de
+arrecadação tributária da União, conforme Inciso 1, artigo 157 da CF de 1988, que
+determina que o produto da arrecadação do imposto da União sobre renda e proventos de
+qualquer natureza, incidente na fonte, sobre rendimentos pagos, a qualquer título das
+autarquias de das fundações mantidas pelos estados e pelo Distrito Federal não transita
+pelos cofres da União. Com isso, o IRRF representou 19% da arrecadação do DF.
+
+Magalhães et al. (2001), argumentam a importância de relacionar o sistema
+tributário com a distribuição de renda. Os autores estimaram, a partir da POF de 1995-
+1996, a carga de tributos indiretos que incidem sobre os alimentos por meio do ICMS e do
+Programa de Integração Social/Contribuição para o Financiamento da Seguridade Social
+(PIS/Cofins) e constataram que estes tributos atingem seus maiores valores, dentre as
+
+61
+cidades estudadas, em Brasília: o peso desses tributos sobre os alimentos chega a 17,1%,
+considerando o gasto médio das famílias.
+
+Para os autores, “diferenças marcantes de peso do tributo foram encontradas quando
+se avaliou o peso do imposto embutido no custo dos alimentos sobre a renda, mostrando
+significativa evidência do caráter regressivo dos impostos sobre o consumo de alimentos”
+(p.22). O estudo de Magalhães et al. (2001) constatou que famílias de baixa renda chegam a
+pagar carga tributária superior a 10% da renda somente com alimentos e ainda observaram
+que o ICMS tem maior peso na renda per capita mensal de famílias mais pobres em
+Brasília, dentre outras cidades, sendo os tributos sobre cestas alimentares sempre superiores
+a 8%. Por fim, fica evidente que a carga tributária sobre alimentos é mais onerosa para as
+famílias de baixa renda.
+
+Dados extraídos da STN expõem detalhadamente tamanha arrecadação com
+impostos indiretos em comparação com a arrecadação de impostos diretos. A Tabela 5
+mostra a arrecadação tributária do DF do ano de 2005 até o ano de 2010, em valores
+deflacionados pelo IGP-DI, expondo a enorme receita proveniente da arrecadação de
+tributos indiretos no DF.
+
+62
+Tabela 5 - Receita Tributária do Distrito Federal, Período: 2005 a 2010
+Valores, em milhões, deflacionados pelo IGP-DI (a preços de 2010)
+
+ 
+
+Discriminação
+Impostos = (Patrimônio e
+Renda+Produção e Circulação)
+
+2005 2006 2007 2008
+
+6.387,51 6.981,54 7.501,60 8.349,87
+
+2009 2010
+
+7.822,31 8.686,22
+
+Média
+
+7.621,51
+
+Variação
+(em % )
+
+35,98
+
+ 
+
+Impostos sobre o Patrimônio e a
+Renda =
+(IPTUHRHPVA HTCDHTBI)
+
+1.647,68 1.947,36 2.296,57 2.695,45
+
+2.564,32 2.833,82
+
+2.330,86
+
+71,9
+
+ 
+
+Imposto sobre a Propriedade Predial e
+Territorial Urbana - IPTU
+
+319,39 329,16 347,48 405,18
+
+392,09 422,31
+
+369,27
+
+32,22
+
+ 
+
+Imposto sobre a Renda e Proventos de
+Qualquer Natureza - IR =
+(IRRF+Outros Rendimentos)
+
+855,50 1.074,84 1.301,66 1.546,75
+
+1.383,57 1.587,75
+
+1.291,68
+
+85,59
+
+ 
+
+Imposto de Renda Retido na Fonte
+sobre os Rendimentos do Trabalho —
+IRRF
+
+855,50 1.074,84 1.294,15 1.535,41
+
+1.350,23 1.576,35
+
+1.281,08
+
+84,25
+
+ 
+
+Imposto de Renda Retido nas Fontes
+sobre Outros Rendimentos
+
+0 407,26 7,51 11,33
+
+33,34 11,39
+
+78,47
+
+ 
+
+Imposto sobre a Propriedade de
+Veículos Automotores - IPVA
+
+360,18 19,08 468,98 535,58
+
+575,91 567,13
+
+421,14
+
+57,45
+
+ 
+
+Imposto sobre Transmissão "Causa
+Mortis" e Doação de Bens e Direitos —
+ITCD
+
+16,49 116,99 26,07 30,47
+
+27,50 35,04
+
+42,09
+
+112,43
+
+ 
+
+Imposto sobre Transmissão "Inter
+Vivos" de Bens Imóveis e de Direitos
+Reais sobre Imóveis — ITBI
+
+96,09 5.034,18 152,36 177,45
+
+185,23 221,56
+
+977,81
+
+130,56
+
+ 
+
+ 
+
+Impostos sobre a Produção e a
+Circulação = (ICMS+HSSQN)
+
+4.739,82 4.257,55 5.205,03 5.654,42
+
+5.257,98 5.852,40
+
+5.161,20
+
+23,47
+
+ 
+
+ 
+
+ 
+
+Imposto sobre Op. Relativas à
+Circulação de Mercadorias e sobre
+Prest. de Serv.de Transp. Interest. e
+Interm. e Comunicações ICMS
+
+3.987,95 776,62 4.382,93 4.808,15
+
+4.396,96
+
+4.887,83 3.873,41
+
+22,56
+
+ 
+
+Imposto sobre Serviços de Qualquer
+Natureza - ISSQN
+
+751,86 113,70 822,09 846,27
+
+861,01 964,57
+
+726,58
+
+28,29
+
+ 
+
+Taxas
+
+98,84 983,51 128,38 136,97
+
+122,35 132,58
+
+267,10
+
+34,13
+
+ 
+
+ 
+
+Contribuição de Melhoria
+
+0 0 0 0
+
+0
+
+0
+
+ 
+
+Receita Tributária =
+(Impostos+T axas+Contribuição de
+Melhoria)
+
+6.486,35 7.095,24 7.629,99 8.486,85
+
+7.944,66
+
+8.818,81 7.743,65
+
+35,95
+
+ 
+
+Receita Total (todas as receitas do DF)
+
+9.292,26 10.071,84 10.842,84 12.394,18
+
+12.314,88 13.243,97
+
+11.360
+
+42,52
+
+ 
+
+Fonte: STN
+Elaboração Própria
+
+63
+No gráfico 7 é possível visualizar a porcentagem total da receita tributária do DF
+que corresponde aos tributos diretos e indiretos. Os tributos indiretos representam 68,89%
+do montante total da receita tributária, evidenciando o quanto o perfil de arrecadação no DF
+é regressivo e onera mais os mais pobres, que gastam uma parcela bem maior de suas
+rendas para pagar o mesmo valor que pessoas mais ricas pagam em tributos indiretos.
+
+Gráfico 7 — Arrecadação de Impostos Diretos e Indiretos no Distrito Federal
+(Média de 2005 a 2010)
+
+E Impostos Indiretos
+(Produção e Circulação
+de Bens e Serviços)
+
+E Impostos Diretos
+(Renda e Patrimônio)
+
+ 
+
+Fonte: STN
+Elaboração Própria
+
+Os dados expostos evidenciam a grande incidência de impostos sobre a produção e
+circulação de mercadorias, ICMS e ISS, no DF, Esses tributos indiretos são responsáveis
+por mais da metade da arrecadação e deixam claro o perfil regressivo da arrecadação
+tributária no DF.
+
+Além disso, fica evidente a importância da receita tributária no orçamento do DF,
+visto que corresponde a 68,16% de sua receita total, conforme o gráfico 8. Além da receita
+tributária, há receitas de contribuições sociais e econômicas, patrimoniais, valores
+
+mobiliários, agropecuária, industrial e de serviços, que, juntas, mal chegam a 4 da receita
+total.
+
+64
+Gráfico 8 — Porcentagem da Receita Tributária do Distrito Federal em Relação a sua
+Receita Total (Média de 2005 a 2010)
+
+E Outras Receitas
+
+E Receita Tributária
+
+ 
+
+Fonte: STN
+Elaboração Própria
+A tabela 6 apresenta algumas das funções com as quais a receita total do DF é gasta.
+
+Foram selecionadas algumas das maiores políticas sociais para ilustrarem os gastos, bem
+como a função “Encargos Especiais”, destinada ao pagamento de juros e amortização da
+dívida com as agências financeiras internacionais. Percebe-se a valorização de políticas
+reguladas, como a saúde e a educação, enquanto a assistência social recebeu menos
+recursos do que os encargos especiais.
+
+65
+Tabela 6 — Despesa por Função no Distrito Federal (2005 a 2010)
+Valores, em milhões, deflacionados pelo IGP-DI (a preços de 2010)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Discriminação 2005 2006 2007 2008 2009 2010 Média as
+Assistência Social 345 52 321,37 366,19 394,13 442,39 370 28,22
+Assistência ao Idoso 1 1 0,76 0,97 1,91 2,26 1 155,67
+SRD E 6 4 4,97 4u 448 5,10 5 -8,53
+Deficiência
+Ases nte Na 64 59 58,43 3456 3211 64,38 52 1,32
+Adolescente
+Assistência Comunitária 26 21 8,03 71,57 131,06 152,20 68 491,02
+FERE subfunções - Assistência 549 267º 24918 25498 2457 Ng 2H “12,35
+Previdência Social 842 913 1.018,47 1.069,48 1.094,69 1.245,98 1.030 48,06
+Previdência do Regime Estatutário 842 913 1.004,94 1.069,48 1.075,34 1.237,09 1.023 47,00
+Previdência Complementar 0 0 0,00 0,00 0,00 4,53 1
+FEnae Subfunções - Previdência 0 0 13,53 0,00 19,35 4,37 6
+Saúde 1.399 1.639 2.022,50 1.957,35 1.801,95 1.928,84 1.791 37,90
+Atenção Básica 66 60 16,69 8,27 48,08 92,38 49 39,79
+Assistência Hospitalar é 476 545 772,59 762,16 79220 861,73 702 81,03
+Ambulatorial
+Suporte Profilático e Terapêutico Mk 8 11,71 13,58 14,21 13,35 11 78,91
+Vigilância Sanitária 1 4 3,60 6,45 4,19 4,35 4 371,01
+Vigilância Epidemiológica 0 3 2,29 9,28 4,14 3,18 4 1.422,80
+Alimentação e Nutrição 0 0 0,00 0,00 0,00 0,05 0
+Demais Subfunções - Saúde 848 1.018 1.215,63 1.157,61 942,14 953,79 1.023 12,47
+Educação 1.143 1.358 1.490,49 2.679,75 2.839,23 3.030,98 2.090 165,24
+Ensino Fundamental 1.052 1.270 1.297,59 1.718,30 2.052,41 2.113,19 1.584 100,90
+Ensino Médio 13 23 72,53 381,19 359,60 467,50 219 3.621,23
+Ensino Profissional 4 3 9,22 21,88 21,98 23,33 14 500,38
+Ensino Superior 5 5 5,92 0,72 0,82 7,35 4 33,82
+Educação Infantil 12 6 27,63 196,97 219,61 257,58 120 2.035,61
+Educação de Jovens e Adultos 4 3 3,17 3,58 8,24 11,48 6 175,43
+Educação Especial 1 1 414 5,95 4,10 1,60 3 99,98
+Demais Subfunções - Educação 52 47 70,08 351,16 172,47 148,94 140 186,93
+Encargos Especiais 514 497 603,71 611,83 633,58 736,06 599 43,33
+Refinanciamento da Dívida Intema 103 99 101,69 107,87 98,66 102,17 102 -0,56
+Serviço da Dívida Intema 91 95 101,58 95,95 125,74 135;21 107 48,50
+Serviço da Dívida Extema 47 47 50,85 52,20 47,53 45,21 48 -3,97
+Transferências 0 1 2,95 1,67 1,63 1,90 2 359,88
+Outros Encargos Especiais 272 255 346,64 354,14 360,02 451,56 340 65,86
+Peniano e Rendas 9.279 10176 10.231,81 1206009 1257849 1295725 11.214 39,64
+
+Fonte: STN
+
+Elaboração Própria
+
+2 Nem todas as funções constam nesta tabela. Para consultar outras funções acesse o site do STN.
+O gráfico 9 permite a visualização do destino dos recursos no DF. As funções não
+especificadas, que aparecem no gráfico 9 como “outras funções” incluem despesas com
+políticas de trabalho, saneamento, transporte, habitação, urbanização, cultura, direitos à
+cidadania, gestão ambiental, ciência e tecnologia, agricultura, organização agrária,
+indústria, comércio e serviços, comunicações, energia, desporto e lazer, relações exteriores,
+segurança pública, defesa nacional e despesas com administração e com o poder legislativo
+e judiciário.
+
+Gráfico 9 — Porcentagem das despesas do Distrito Federal por Função
+(Média de 2005 a 2010)
+
+3,29% 9,18%
+
+E Assistência Social
+E Previdência Social
+E Saúde
+
+E Educação
+
+E Encargos Especiais
+
+m Outras Funções
+
+ 
+
+Fonte: STN
+Elaboração Própria
+
+Nota-se que políticas reguladas, ou seja, aquelas que recebem transferências
+federais com condicionalidades como a saúde e a educação receberem muito mais recursos
+na média dos cinco anos analisados. Nas políticas de saúde e educação ocorreram as
+maiores variações do período analisado, como no ensino médio, infantil e vigilância
+epidemiológica, que foram cada vez mais valorizados com maiores repasses, o que reforça
+o argumento de Arretche (2010) de que políticas reguladas recebem mais atenção dos entes
+federados.
+
+A política de previdência social recebeu uma boa parcela da receita, tendo em vista
+que a arrecadação do RPPS compete ao DF e ao, consequentemente, à sua receita. Já a
+política assistência social recebeu menos recursos do que a receita destinada ao pagamento
+de juros e amortização da dívida, constituída pela função de encargos especiais.
+3.4. A Cidadania Tributária no Distrito Federal: uma análise empírica
+
+Durante a realização desta pesquisa, com todas as implicações expostas sobre a
+cidadania tributária, surgiu um questionamento: qual é o nível de conhecimento da
+população do DF acerca dos tributos estaduais e municipais que as onera? Para inferir uma
+resposta a essa questão foi realizada uma pesquisa de campo com a aprovação do Comitê
+de Ética em Pesquisa do Instituto de Ciências Humanas da Universidade de Brasília
+(CEP/IH/UnB). Todos os participantes assinaram um Termo de Consentimento Livre
+Esclarecido (TCLE — ANEXO A). A pesquisa foi realizada em locais públicos distintos —
+Universidade de Brasília, Rodoviária de Brasília e shoppings centers — durante os meses de
+outubro e novembro em turnos variados. O método utilizado foi misto, com técnica de
+aplicação de questionários semi-estruturados (ANEXO B) e sistematização por meio de
+tabulação dos dados e elaboração de gráficos para estabelecer índices estatísticos.
+
+Como este é um TCC, pré-requisito para concluir a graduação em Serviço Social, a
+pesquisa não contou com qualquer tipo de financiamento, estando todos os encargos sobre a
+pesquisadora. Por isso, não foi possível aplicar o questionário com uma grande amostra da
+população do DF. Essa pesquisa não pretende estabelecer dados irrefutáveis do nível de
+cidadania tributária dos cidadãos, mas pretende proporcionar algumas respostas parciais e
+reflexões sobre o exercício da cidadania tributária na capital do país e seus dados estarão à
+disposição caso haja interesse de futuras pesquisas correlacionadas ao tema.
+
+A pesquisa foi aplicada com 34 pessoas de 15 RAs do DF: Brasília,
+Sudoeste/Octogonal, Gama, Guará, Cruzeiro, Lago Norte, Águas Claras, Samambaia, Lago
+Sul, Park Way, Sobradinho, Sobradinho II, Ceilândia, Taguatinga e São Sebastião. Pelo
+menos um representante das RAs citadas participou da pesquisa e a média de suas rendas
+per capitas domiciliares foi de 4,33 SM.
+
+O gráfico 10 apresenta o nível de conhecimento da amostra populacional do DF
+sobre os tributos federais, estaduais e municipais de acordo com o preenchimento do
+questionário pelos participantes da pesquisa.
+
+68
+Gráfico 10 — Nível de Conhecimento Tributário da Amostra Populacional do
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Distrito Federal
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+
+o S S >
+
+a” & & e e
+
+E Não Conhecem m Conhecem
+
+O único tributo que 100% dos participantes têm conhecimento é a contribuição para
+a Seguridade Social, que incide direta e compulsoriamente sobre a folha de pagamento dos
+trabalhadores formais e pode ser paga facultativamente pelo restante da população, ou seja,
+é um tributo direto. Por mais que haja um limite para a progressividade desse tributo, como
+foi visto na seção sobre o financiamento de políticas sociais, ainda assim é um tributo que
+incide diretamente sobre o contribuinte e mostrou ser o único do qual a população tem
+inteiro conhecimento. Em seguida, os tributos mais conhecidos pelos participantes são o IR,
+IPVA e IPTU, todos esses tributos diretos.
+
+O gráfico 11 apresenta uma disparidade entre os dados: as pessoas afirmam ter
+conhecimento sobre o ICMS e o ISS, mas não sabem que arcam com esses mesmos
+tributos. Aqui se levanta a hipótese de que possivelmente as pessoas já ouviram falar sobre
+esses tributos, mas que não sabem o que eles realmente significam ou simplesmente se
+esquecem que arcam com eles por estarem “invisíveis” nos preços de mercadorias e
+
+serviços.
+
+69
+Gráfico 11 - Comparação Percentual da Amostra que Afirma Conhecer e o
+Percentual que Afirma pagar o ICMS e 0 ISS
+
+E Participantes que afirmam
+
+  
+
+pagar
+80
+E Participantes que afirmam
+60 conhecer
+o =
+20 sm ,
+Participantes que afirmam conhecer
+õ Participantes que afirmam pagar
+
+ICMS ISS
+
+No gráfico 12 fica evidente que os participantes têm consciência de que há tributos
+embutidos em mercadorias e serviços, mas têm grande dificuldade em identificar esses
+tributos. Aqueles que conseguiram definir algum tipo de tributo indireto, não tinham
+conhecimento de todos eles. Por exemplo, nenhum participante descreveu o ICMS, ISS e o
+IPI como tributos indiretos, citando apenas um ou dois desses. Essa questão era
+dissertativa, por isso os participantes tiveram a liberdade para descrever qualquer tipo de
+tributo.
+
+Gráfico 12 — Conhecimento da Amostra Populacional do Distrito Federal sobre os
+Tributos Indiretos
+
+8,82% 2,94% E Não tem Conhecimento
+8,82%
+
+E Tem conhecimento, mas não
+sabe dizer qual tributo é indireto
+
+E ICMS
+
+mISS
+
+mIPI
+
+ 
+
+m Não Respondeu
+
+70
+O gráfico 13 mostra uma disparidade entre dados afirmados pelos participantes. O
+que se percebe é que muitos participantes conhecem os tributos, mas não sabem o que eles
+realmente significam, pois um número mínimo de participantes afirmou que o ICMS e o
+ISS são tributos indiretos embutidos em serviços e mercadorias. O mais agravante dos
+dados é a constatação de que as pessoas não têm conhecimento de que pagam esses tributos
+indiretos. A amostra populacional se mostra confusa em relação à questão tributária e se
+
+evidencia a ausência de uma cidadania tributária.
+
+Gráfico 13 - Discrepância sobre o C onhecimento do ICMS e ISS com a
+Amostra Populacional
+
+80,00% 14,10%
+
+ 
+
+E Participantes que afirmam
+
+70,00%
+conhecer
+
+ 
+
+ 
+
+60,00%
+
+    
+ 
+
+ 
+
+50,00% E Participantes que afirmam pagar
+
+41,17%
+40,00%
+
+ 
+
+30,00%
+
+ 
+
+E Participantes que afirmam ser
+um tributo embutido em
+mercadorias ou serviços
+
+20,00%
+10,00%
+
+ 
+
+0,00%
+
+ICMS ISS
+
+O gráfico 14 apresenta a opinião da amostra populacional sobre quais seriam os
+tributos mais justos. 38,23% dos participantes não consideram nenhum tributo justo.
+Aqueles que consideram a contribuição para a previdência social o tributo mais justo,
+consideram que a população é beneficiada com o pagamento dele, ou seja, recebe algum
+retorno concreto. O gráfico 14 revelou mais um dado preocupante, 5,88% dos participantes
+marcaram o ICMS, tributo extremamente regressivo, como sendo o tributo mais justo.
+Evidencia-se mais uma vez o desconhecimento dos cidadãos a respeito desse tributo.
+
+28 A Contribuição para a Seguridade Social por meio do desconto sobre a folha de pagamento foi definida na
+pesquisa como “previdência social — INSS”, para a compreensão dos participantes.
+
+A
+Gráfico 14 — Tributos C onsiderados J ustos pela Amostra Populacional
+
+   
+
+2,94%
+5,88%
+2,94%
+
+EIPTU MIPVA MICMS EITR BINSS mIR = Nenhum = Não respondeu
+
+O gráfico 15 expõe a opinião dos participantes sobre quais tributos eles consideram
+como sendo os mais tributos injustos. 17,64% dos participantes não consideram nenhum
+tributo justo em relação às suas rendas. Apenas 11,76% dos participantes consideram o
+ICMS, ISS ou o IPI como sendo os tributos mais injustos. A principal justificativa dos
+11,76% dos participantes que colocaram o IPVA como tributo mais injusto é que não são
+observadas melhorias nas estradas, o que mostra o desconhecimento da não vinculação dos
+impostos. O IPTU foi considerado o tributo mais injusto por aqueles que são locatários e
+não proprietários do imóvel. Os participantes que disseram ser a contribuição social o
+tributo mais injusto justificam com a precariedade dos serviços, infra-estruturas e pela
+dificuldade de acessar os direitos. A escolha do IR, ITBI e ITCD como tributos mais
+injustos pode ser explicada pela elevada renda de alguns participantes da pesquisa, já que a
+média de rendas per capita por domicílio dos participantes ficou em 4,33.
+
+72
+Gráfico 15 — Tributos C onsiderados Injustos pela Amostra Populacional
+
+2,94%
+
+  
+  
+  
+   
+
+5,88%
+
+2,94%
+2,94%
+
+2,94%
+
+IPTU BIPVA mICMS EITBI MITCD MISS BITR EINSS BIR EIPI m Todos =» Não respondeu
+
+Diante da pesquisa realizada com uma amostra populacional do DF para inferir o
+nível de conhecimento dessa população acerca dos tributos vigentes, se constatou uma clara
+ausência de cidadania tributária na região. Os participantes tiveram dificuldades em dizer o
+que significa cada um dos tributos, quais dos tributos eles realmente pagam e quais são os
+tributos mais justos ou injustos. Evidenciou-se uma distorção na noção de “justo” e
+“injusto” no que diz respeito aos tributos e muitos participantes ainda têm o pensamento de
+que impostos são destinados a fins específicos, como a melhoria de estradas, no caso do
+IPVA. Tais fatores representam a (des) informação da população sobre o sistema tributário,
+o que conduz a falta de participação e de controle democrático no processo tributário e,
+consequentemente, a falta de prestação de contas que seja clara para a população. Tal
+constatação na capital do país e centro dos poderes decisórios é um choque para um dito
+país social democrático.
+
+73
+Considerações Finais
+
+A atual forma de incidência tributária no Brasil tem o perfil predominantemente
+regressivo, o que não só contribui para manter a concentração de renda, e
+consequentemente a desigualdade social, como ajuda a aprofundá-la, pois vem onerando
+muito mais a parcela da população que possui rendas mais baixas. Tal fato ocorre pela
+característica da carga tributária no Brasil: maior parte da incidência concentrada via
+arrecadação de tributos sobre mercadorias e serviços, ou seja, tributos indiretos e
+cumulativos, enquanto uma parcela ínfima da carga incide sobre a renda e patrimônio, isto
+é, os tributos diretos que oneram mais os contribuintes com maiores rendas e patrimônios.
+Essa última arrecadação corresponde a uma carga progressiva dos tributos e contribuem
+para a justiça fiscal.
+
+No DF esse fator fica ainda mais evidente, pois a grande concentração de
+funcionários públicos com altíssimas rendas — incluindo-se os próprios govemantes —, a
+reprodução da regressividade tributária do Brasil a nível distrital com grande incidência de
+tributos indiretos e a má administração tributária levam aos dados mais discrepantes dentre
+as UFs: de um lado a maior renda per capita do país e, do outro, o alto nível de
+concentração de renda, desigualdade socioeconômica e o índice de Gini mais elevado de
+toda a federação.
+
+Os dados coletados neste trabalho evidenciam a regressividade do DF, pois apontam
+somente o ICMS como responsável por mais da metade da arrecadação tributária e quando
+somado aos outros tributos indiretos atingem 68,89% de receita tributária do DF e,
+consequentemente, representam a maior parcela da carga fiscal. Essa característica da
+arrecadação representa a injustiça do sistema, pois não leva em consideração o princípio da
+capacidade econômica, estipulado pela própria CF de 1988.
+
+O DF possui uma grande disparidade socioeconômica entre suas RAs, chegando ao
+ponto das RAs mais desenvolvidas, localizadas no centro do poder público, concentrarem
+33,4 das mais altas rendas per capitas por domicílio enquanto as RAs menos desenvolvidas,
+
+localizadas na “periferia” de Brasília, atingem apenas 0,1% das mesmas rendas.
+
+74
+Obviamente, há muitos fatores envolvidos nessa desigualdade socioeconômica que não
+foram exploradas neste trabalho.
+
+Porém, os dados levantados sobre a questão especificamente tributária no DF não
+deixam dúvidas: a carga tributária é sim um fator que contribui para a manutenção e
+aprofundamento da concentração de renda e desigualdade social da população do DF,
+devido a sua grande incidência de tributos indiretos e, consequentemente, grande
+regressividade em sua arrecadação. Tal constatação ratifica a primeira hipótese levantada
+por esta pesquisa.
+
+O segundo foco deste trabalho consistiu na cidadania tributária no DF, ou seja, o
+nível de conhecimento da população sobre a questão tributária. Como o referencial teórico
+mostrou, esse é um tema ainda deixado de lado no debate tributário, a despeito de sua
+importância, e recentemente começou a ganhar amplitude com os estudos desenvolvidos
+pelo CDES. Constata-se que no Brasil como um todo há ausência de cidadania tributária,
+pois os cidadãos não se envolvem no processo orçamentário, não conseguem relacionar o
+pagamento dos tributos com os seus benefícios e, como não compreendem, não exigem
+prestação de contas e transparência tributária. Tais fatores levam à hipótese levantada pelo
+CDES de que a falta de cidadania tributária é uma das responsáveis pelas injustiças fiscais.
+
+Essas características puderam ser constatadas na pesquisa empírica realizada com
+uma amostra populacional do DF para inferir a cidadania tributária da região. Os dados
+mostraram grandes disparidades, o que evidencia a dificuldade e confusão dos cidadãos ao
+tratarem da questão tributária. Grande parcela dos participantes afirmou conhecer alguns
+tributos diretos expostos na pesquisa enquanto nem metade tinha o conhecimento de
+tributos indiretos, excetuando o ICMS.
+
+Mesmo os participantes que afirmaram conhecer o ICMS caíram em contradição ao
+afirmarem que não o pagavam e ao não saber que esse é um tributo embutido em
+mercadorias e serviços. Tal contradição também se apresentou na análise do ISS, outro
+tributo indireto. Enquanto quase metade dos participantes afirma saber da existência de
+tributos embutidos em mercadorias e serviços, a maioria não sabe especificar quais são
+esses tributos. Por fim, alguns participantes chegaram a afirmar que tributos diretos são
+injustos é tributos indiretos seriam mais justos. Percebe-se claramente a falta de
+
+75
+conhecimento dos cidadãos sobre os tributos que eles próprios pagam. Esses dados
+ratificam também a segunda hipótese desta pesquisa: a população do DF não tem um claro
+conhecimento sobre os tributos que pagam.
+
+Os resultados evidenciam facetas da Questão Social que requerem a atuação de
+assistentes sociais. É premissa do assistente social trabalhar em prol dos trabalhadores,
+sendo um de seus papéis orientar e informar os usuários, bem como elaborar, implementar e
+executar projetos socioeducativos para a população. Nesse contexto, o assistente social tem
+um papel fundamental na disseminação e consolidação da cidadania tributária e,
+consequentemente, na mobilização os cidadãos para o importante debate sobre o sistema
+tributário.
+
+Este trabalho mostra que é preciso operar profundas mudanças na lógica tributária
+brasileira como um todo e especificamente no DF. Está mais do que provada a
+regressividade tributária no país e em sua capital, que opera de maneira perversa onerando
+muito mais os pobres do que os ricos. Essa gritante injustiça fiscal também se deve à
+ausência da cidadania tributária, onde os cidadãos, excluídos das decisões fiscais, pagam
+sem saber que estão pagando e quando sabem, não sabem para quê, para quem e nem para
+onde. Resumindo, o cidadão só paga a conta.
+
+76
+Referências
+
+ANDERSON, Perry. Balanço do neoliberalismo. In: SADER, Emir & GENTILI, Pablo
+(orgs.) Pós-neoliberalismo: as políticas sociais e o Estado democrático. Rio de Janeiro: Paz
+e Terra, 1995, p. 09-28.
+
+ARRETCHE, Marta. Federalismo e igualdade territorial: uma contradição em termos?.
+Dados, Rio de Janeiro, v. 53 n 3 2010... Available from
+<http://www .scielo.br/scielo.php?script=sci arttext&pid=S001152582010000300003&Ing
+=en&nrm=iso> access on 8 Jun. 2011. http://dx.doi.org/10.1590/S0011-
+52582010000300008.
+
+BEHRING, Elaine Rossetti. Brasil em contra-reforma: desestruturação do Estado e perda
+de direitos. 2. Ed. São Paulo: Cortez, 2008.
+
+BEHRING, Elaine. Crise do capital, fundo público e valor. In: Capitalismo em crise,
+política social e direitos. São Paulo: Cortez, 2010, p. 13 — 34.
+
+BEHRING, Elaine; BOSCHETTI, Ivanete. Política social: fundamentos e história. — 6.ed.
+— São Paulo: Cortez, 2009.
+
+BOSCHETTI, Ivanete. Seguridade Social: a Armadilha dos Conceitos. Texto preparado
+originalmente como item do projeto de pesquisa intitulado “A Seguridade Social
+
+Dilapidada: Elementos Determinantes de sua Fragmentação no Brasil”, apresentado ao
+CNPq em julho de 2002.
+
+BOSCHETTI, Ivanete; SALVADOR, Evilásio. O Financiamento da seguridade Social no
+Brasil no Período 1999-2004: Quem Paga a Conta? In: MOTTA, Ana Elizabete e outros
+(org.). Serviço Social e Saúde: Formação e Trabalho Profissional. São Paulo: Cortez,
+2006, v., p. 49-72.
+
+BRASIL. Constituição da República Federativa do Brasil. Senado Federal, 1988.
+
+BRASIL. Presidência da República. Lei nº 5.172, de 25 de outubro de 1966, Código
+Tributário Nacional. Brasília, DF, 1966.
+
+BRASIL. Presidência da República. Lei nº 10.633, de 27 de dezembro de 2002, Institui o
+Fundo Constitucional do Distrito Federal —- FCDF. Brasília, DF, 2002.
+
+BRASIL. Presidência da República. Lei nº 11.250, de 27 de dezembro de 2005,
+Regulamenta o inciso III do 8 4º do art. 153 da Constituição Federal. Brasília, DF, 2005.
+
+mA
+BRASIL. Presidência da República, Observatório da Equidade. Indicadores de Equidade
+do Sistema Tributário Nacional. Brasilia: Presidência da República, Observatório da
+Equidade, 2009.
+
+CASTRO, Jorge Abrahão de; MENEZES, Raul Miranda. Algumas discussões conceituais
+sobre descentralização e federalismo. Brasília: IPEA, 2005.
+
+CAVALCANTE, Ophir. Folha de S. Paulo (SP): Ophir Cavalcante: Cidadania tributária.
+Reportagem disponível em < http://www.ipea.gov.br/ > Acesso em 12 de novembro de
+2011.
+
+CUNHA, André Moreira. Estratégias periféricas sessenta anos depois do acordo de
+Bretton Woods. Rev. Econ. Polit. São Paulo, v. 26, n. 4 Dec. 2006. Available from
+<http://www .scielo.br/scielo.php?script=sci arttext&pid=S010131572006000400001&Ing
+=en&nrm=iso> access on 13 Nov. 2011. http://dx.doi.org/10.1590/S0101-
+31572006000400001.
+
+DIEESE. Pesquisa Socioeconômica em Territórios de Vulnerabilidade Social no Distrito
+Federal. Produto 6: Relatório Analítico Final da Pesquisa Socioeconômica em Territórios
+de Vulnerabilidade Social no Distrito Social — Contrato de Prestação de Serviços Nº
+050/2009 e Termos Aditivos, 2011.
+
+DISTRITO FEDERAL (Brasil). Companhia de Planejamento do Distrito Federal —
+CODEPLAN. Indicadores de Desigualdade Social no Distrito Federal. Brasília, DF, 2007.
+
+DISTRITO FEDERAL (Brasil). Câmara Legislativa do Distrito Federal. Lei Orgânica do
+Distrito Federal. Brasília, DF, 1993.
+
+DISTRITO FEDERAL (Brasil). Companhia de Planejamento do Distrito Federal —
+CODEPLAN. Pesquisa distrital por amostra de domicílios - PDAD. Dados agregados
+para o Distrito Federal e Regiões Administrativas. Brasília, DF, 2004.
+
+DISTRITO FEDERAL. Transparência do DF. Exercício do ano de 2010. Disponível em:
+<http://www .transparencia.df.gov.br>. Acesso em: 11 de julho de 2011.
+
+FAGNANI, Eduardo. Os Profetas do Caos e o Debate Recente sobre a Seguridade Social
+no Brasil. In: Debates contemporâneos, economia social e do trabalho, 4: Previdência
+Social: como incluir os excluídos? Uma agenda voltada para o desenvolvimento econômico
+com distribuição de renda/ organizadores Eduardo Fagnani, Wilnês Henrique e Clemente
+Ganaz Lúcio. — São Paulo: LTr, 2008. Vários autores. Parcerias: UNICAMP, CESIT, IE —
+Instituto de Economia, p. 31 a 43.
+
+FILHO, Osiris de Azevedo Lopes. A Competência Tributária e a Questão da Federação.
+
+In: Reforma Tributária e Federação. In: Reforma tributária em questão. Lauro Morhy... [et
+al.] (organizadores). — Brasília: Editora Universidade de Brasília, 2003a, p. 137 — 152.
+
+78
+FILHO, Osiris de Azevedo Lopes. Equilíbrio e Isonomia Tributária. In: Reforma
+Tributária e Federação. In: Reforma tributária em questão. Lauro Morhy... [et al.]
+(organizadores). — Brasília: Editora Universidade de Brasília, 2003b, p. 167 — 179.
+
+GUERRA, Yolanda; ORTIZ, Fátima da Silva Grave; VALENTE, Joana; FIALHO, Nádia.
+O debate contemporâneo da “Questão Social”. Universidade Federal do Maranhão,
+Programa de Pós-Graduação em Políticas Públicas — III Jornada Internacional de Políticas
+Públicas, Questão Social e Desenvolvimento no Século XXI. São Luis - MA, 28 a 30 de
+agosto de 2007.
+
+HICKMANN, Clair Maria; e SALVADOR, Evilásio. Carga Tributária Aumentou em 2005
+in A Super-receita: análise do projeto de lei que cria a super-receita. Tributação em
+revista. Ano 12, Nº 50, outubro a dezembro de 2005.
+
+IPEA. Brasília: impactos econômicos da capital no Centro-Oeste e no país. Comunicados
+do IPEA, Nº 44, Brasilia, 2010a.
+
+IPEA. Desigualdade regional recente: uma nota a partir de dados estaduais. Comunicados
+do IPEA, Nº 71. Brasília, 2010b.
+
+IPEA. Dimensão, evolução e projeção da pobreza por região e por estado no Brasil.
+Comunicados do IPEA, Nº 58. Rio de Janeiro, 2010c.
+
+IPEA. Evolução das despesas com habitação e transporte público nas Pesquisas de
+Orçamentos Familiares (POF): análise preliminar — 2002-2009. Comunicados do IPEA Nº
+69, 2010d.
+
+LIMA, Augustinho Pinheiro. Avaliação da arrecadação dos principais impostos estaduais
+— ICMS e IPVA — em relação ao Produto Interno Bruto. Dissertação (mestrado) FECAP,
+São Paulo, 2009.
+
+MAGALHÃES, Luís Carlos Garcia de; SILVEIRA, Fernando Gaiger; TOMICH, Frederico
+Andrade; e VIANNA, Salvador Wemeck. Carga Tributária sobre alimentação e seus
+impactos na distribuição de renda e na pobreza. In: Isenção tributária sobre os alimentos:
+uma solução para levar comida a milhões de famintos no Brasil. Tributação em revista. Ano
+9, Nº 35, janeiro/março, 2001.
+
+MARTINS, Marcelo Maiolino. Sistema Tributário Injusto: Conselho de Desenvolvimento
+Econômico e Social conclui que tributação perpetua desigualdades. Revista Desafios do
+Desenvolvimento, julho de 2009.
+
+O*CONNOR, James. USA: a crise do Estado capitalista. Rio de Janeiro: Paz e terra, 1977.
+
+79
+OFFE, Claus. 4 democracia partidária competitiva e o “welfare state” keynesiano: fatores
+de estabilidade e desorganização. In: Problemas estruturais do Estado capitalista. Rio de
+Janeiro: Tempo Brasileiro, 1984. p. 356-84.
+
+OLIVEIRA, Fabrício Augusto de. Economia e Política das Finanças Públicas no Brasil:
+um guia de leitura. São Paulo, Ilucitec, 2009.
+
+OLIVEIRA, Francisco de. Os direitos do antivalor: a economia política da hegemonia
+imperfeita. Petrópolis: Vozes, 1998.
+
+OLIVEIRA, Paulo Luiz Figueirêdo. O IPTU no Distrito Federal: um tributo que precisa
+ser melhor administrado. Revista Conjuntura, Ano VIII, nº 33, janeiro/março de 2008.
+
+OLIVEIRA, Ricardo Victalino de. A Configuração Assimétrica do Federalismo Brasileiro.
+Dissertação de mestrado em Direito do Estado. Faculdade de Direito da Universidade de
+São Paulo (USP). São Paulo, 2010.
+
+PEREIRA, Potyara Amazoneida Pereira. Sobre a Política de Assistência Social no Brasil.
+In: BRAVO, Maria I.S. e PEREIRA, Potyara A.P. Política Social e Democracia — 22 ed.
+São Paulo: Cortez; Rio de Janeiro: UERJ, 2002, p. 217 a 233.
+
+PRADO, Sérgio. Transferências Fiscais no Brasil: o Lado “Esquecido” da Reforma
+Tributária. In: Política fiscal e desenvolvimento no Brasil/ organização: Márcio Percival
+Alves Pinto, Geraldo Biasoto Júnior. - Campinas, SP: Editora da Unicamp, 2006, p. 173 —
+236.
+
+REZENDE, Femando. Modernização tributária e federalismo fiscal. In: Descentralização e
+federalismo fiscal no Brasil: desafios da reforma tributária Femando Rezende, Fabrício
+Augusto de Oliveira [organizadores] — Rio de Janeiro: Konrad A denauer Stiftung, 2003a, p.
+25 - 38.
+
+REZENDE, Fernando. Reforma Tributária e Federação. In: Reforma tributária em questão.
+Lauro Morhy... [et al.] (organizadores). — Brasília: Editora Universidade de Brasília, 2003b,
+p. 153- 165.
+
+RODDEN, Jonathan. Federalismo e descentralização em perspectiva comparada: sobre
+significados e medidas. Rev. Sociol. Polit., Curitiba, n. 24, June 2005. Available from
+<http://www .scielo.br/scielo.php?script=sci arttext&pid=S010444782005000100003&Ing
+=en&nrm=iso> access on 28 Out. 2011. http://dx.doi.org/10.1590/S0104-
+44782005000100008.
+
+SALVADOR, Evilásio. Fundo Público e Seguridade Social no Brasil. São Paulo: Cortez,
+2010a.
+
+80
+SALVADOR, Evilásio. Orçamento Público no Brasil: financiado pelos pobres, apropriado
+pelos ricos. Texto apresentado no XII Encontro Nacional de Pesquisadores em Serviço
+Social (ENPESS), no Rio de Janeiro, em 08/12/2010b.
+
+SALVADOR, Evilásio. Crise do capital e o socorro do fundo público. In: Capitalismo em
+crise, política social e direitos. São Paulo: Cortez, 2010c, p. 35 — 63.
+
+SALVADOR, Evilásio; e AMORIM, André Santarém Amorim. Abordagens das
+Desigualdades Socioeconômicas no Brasil do Século XXI. Revista Em Pauta (2010) Dez.
+Vol. 8, nº 26, pp. 31 a 47.
+
+SINDIFISCO. Lacunas e Controvérsias na Regulamentação do Imposto sobre a
+Propriedade de Veículos Automotores. Brasília: Sindifisco Nacional, 2010. Nota técnica
+nº14,
+
+SINDIFISCO. Financiamento da Seguridade Social: do “Déficit” da Previdência ao
+Superávit da Seguridade. Brasília: Sindifisco Nacional, 2010. Nota Técnica N21.
+
+SOUZA, Celina. Federalismo, desenho contitucional e instituições federativas no Brasil
+pós-1988. Rev. Sociol. Polit. Curitiba, n. 24, June 2005 . Available from
+<http://www .scielo.br/scielo.php?script=sci arttext&pid=S010444782005000100008&Ing
+=en&nrm=iso> access on 28 Out. 2011. hittp://dx.doi.org/10.1590/S0104-
+44782005000100008.
+
+TAVARES, Maria da Conceição; FIORI, José Luís. (Des) Ajuste global e modernização
+conservadora. — Rio de Janeiro: Paz e Terra, 1993.
+
+81
+ANEXOS
+ANEXO A
+
+SE
+Termo de Consentimento Livre Esclarecido
+
+Aceito participar da pesquisa “Análise da incidência Tributária na População do
+Distrito Federal” da aluna da Universidade de Brasília (UnB), Mayara Daher de Melo por
+meio de preenchimento de questionário. Fui informado (a) que a pesquisa tem como
+objetivo investigar o conhecimento da população sobre o sistema tributário do DF e
+pretende deixar os dados coletados como base para futuras pesquisas que permitam,
+juntamente com as mobilizações sociais, alcançar a transparência tributária e a cidadania
+tributária, ou seja, o pleno conhecimento da população sobre os tributos e impostos que
+pagam.
+
+Aceito participar da pesquisa enquanto sujeito informante, com o intuito de
+contribuir com o processo de pesquisa e estou ciente de que não receberei nenhuma forma
+de remuneração e de que tenho liberdade de me recusar a preencher o questionário ou
+deixá-lo a qualquer momento, sem nenhum prejuízo pessoal.
+
+Fui também esclarecido (a) que meu nome não será divulgado, assim como qualquer
+informação que possa me identificar, e serei informado, caso forneça um contato eletrônico,
+sobre os resultados da pesquisa.
+
+Contato da pesquisadora: mayaraipd( gmail.com
+Contato do pesquisador responsável: evilasioss( unb.br
+Contato do Comitê de Ética: cep ih unb.br
+
+Assinatura do entrevistado
+
+E-mail do entrevistado para ser informado sobre os resultados da pesquisa:
+
+82
+ANEXO B
+
+Questionário
+“Ur Questionário referente à pesquisa “Análise da Incidência Tributária na
+sc População do Distrito Federal”.
+
+. Qual é a Região A dministrativa do DF em que você mora?
+
+1
+
+() Brasília () Lago Sul () Lago Norte
+
+() Sudoeste/Octogonal () Park Way () Guará
+
+() Águas Claras () Cruzeiro () Taguatinga
+
+() Núcleo Bandeirante () Sobradinho () Candangolândia
+() Sobradinho II () Gama () Riacho Fundo
+() São Sebastião () Ceilândia () Paranoá
+
+() Samambaia () Santa Maria () Recanto das Emas
+() Riacho Fundo II (D Varjão () Brazlândia
+
+() Planaltina (O Estrutural () Itapoã
+
+() Jardim Botânico () Vicente Pires () SIA
+
+() SCIA (Cidade Estrutural e Cidade do Automóvel)
+
+2 Marque a alternativa que corresponde ao total da renda de sua casa, somando
+a renda de todos os familiares, em Salários Mínimos (SMs). Um SM = R$ 545,00:
+
+() inferior ou igual a 1 SM () de 1 a 2 SMs () de2 a 3 SMs
+
+() de 3a 4 SMs () de 4a 5 SMs () de 5 a 6 SMs
+
+() de 6a 7 SMs () de 7a 8 SMs () de 8a 9 SMs
+
+() de 10 a 15 SMs () de 15 a 20 SMs () igual ou superior a 20 SMs
+3, Quantas pessoas, incluindo você, moram em sua casa?
+
+4 Marque quais dos tributos abaixo você tem conhecimento:
+() Imposto Predial e Territorial Urbano (IPTU)
+
+() Imposto sobre a Propriedade de Veículos Automotores (IPVA)
+
+() Imposto sobre Circulação de Mercadorias e Serviços (ICMS)
+
+83
+() Imposto de Transmissão de Bens Imóveis Inter-Vivos (ITBI)
+() Imposto sobre Transmissão Causa Mortis e Doação (ITCD)
+() Imposto Sobre Serviços de Qualquer Natureza (ISS)
+
+() Imposto sobre a Propriedade Territorial Rural (ITR)
+
+() previdência social (“INSS”)
+
+() Imposto de Renda
+
+É Marque quais dos tributos abaixo você paga:
+Imposto Predial e Territorial Urbano (IPTU)
+Imposto sobre a Propriedade de Veículos Automotores (IPVA)
+Imposto sobre Circulação de Mercadorias e Serviços (ICMS)
+
+Imposto de Transmissão de Bens Imóveis Inter-Vivos (ITBI)
+
+Imposto Sobre Serviços de Qualquer Natureza (ISS)
+Imposto sobre a Propriedade Territorial Rural (ITR)
+
+5
+(
+(
+(
+(
+(
+(
+(
+() previdência social (“INSS”)
+(
+
+)
+)
+)
+)
+) Imposto sobre Transmissão Causa Mortis e Doação (ITCD)
+)
+)
+)
+)
+
+Imposto de Renda
+
+6. Você tem conhecimento de impostos embutidos em mercadorias ou serviços
+
+que você compra ou utiliza? Qual/ Quais?
+
+7. Dentre os tributos que você conhece, qual deles você considera mais justo em
+
+relação a sua renda? Por quê?
+
+84
+9. Você considera a carga tributária do DF bem distribuída em relação à renda
+
+da população? Por quê?
+
+85
+

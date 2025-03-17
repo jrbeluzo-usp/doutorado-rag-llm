@@ -1,0 +1,15 @@
+[ANSWER_EXAMPLES]
+Esta resposta poderá ser univalorada ou multivalorada. Siga os exemplos a seguir de acordo com o encontrado no contexto:
+
+Exemplo de Resposta 1 (univalorada): 
+{"bases_de_dados": "SIGA BRASIL"}
+
+Exemplo de Resposta 2 (multivalorada): 
+{"bases_de_dados": "DATASUS; SIGA BRASIL;INEP"}
+
+Exemplo de Resposta 3 (multivalorada): 
+{"bases_de_dados": "IBGE; Dados do Tribunal de Contas de MG"}
+
+Exemplo de Resposta 4 (univalorada - Quando não encontrar a resposta no contexto): 
+{"bases_de_dados": "-1"}
+[/ANSWER_EXAMPLES]

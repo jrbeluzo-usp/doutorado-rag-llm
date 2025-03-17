@@ -1,0 +1,903 @@
+Marcelo de Carvalho
+Roberto Bocaccio Piscitelli
+
+ 
+
+Análise da relação entre
+restos a pagar exigíveis
+e resultado primário!
+
+1 Esteartigo foi originalmente elaborado como trabalho de conclusão de
+Marcelo de Carvalho no Curso de Especialização em Contabilidade Pú-
+blica, promovido pela Faculdade de Economia, Administração e Conta-
+bilidade da Universidade de Brasília no ano de 2014.
+
+1
+
+ 
+Resumo
+
+Palavras-chave
+
+O sistema de metas fiscais brasileiro é baseado na
+apuração de resultado primário com intuito de
+manter a sustentabilidade da dívida pública. Para que
+este sistema seja eficaz, é necessário que os agentes
+econômicos depositem confiança no cumprimento
+destas metas. Autores apontam que o governo
+federal tem lançado mão de “contabilidade criativa”
+para atingir as metas fiscais. Um dos mecanismos
+de elevação do resultado primário é a postergação
+do Pi Pa Na SS piece TR Dj FNT o (or TON oC 0
+a pagar. À medida desta postergação é chamada de
+Dao tdo OR Tc NE Ro tes TEN ATT EO Se Tora jo ne
+
+cálculos de resultado primário ajustado para retirar
+o efeito do float. Entretanto, seus trabalhos não
+empregaram os conceitos da Contabilidade Aplicada
+ao Setor Público, entre os quais o conceito do
+reconhecimento da despesa patrimonial. À luz
+Fa RO o) feat [RAN e E TO ço E) OS
+restos a pagar não-processados a liquidar não fazem
+parte do passivo, pois não são exigíveis. A sucessiva
+prorrogação da validade dos restos a pagar não-
+processados permitiu um acúmulo de restos a pagar,
+cujo estoque se tornou praticamente um orçamento
+a executar. Este trabalho se propôs a calcular o
+Pa [ota [SRS ro oe o caco Tata [o coco RN Tera
+exigíveis dos não exigíveis e apontar sua relevância
+frente às metas de resultados primários e os resultados
+primários apurados pelo governo central. O resultado
+primário ajustado pelo float de restos a pagar
+FS tes Aga JET) 0) Tan MEa Toto e ES Ea oa Lilo
+resultado primário ajustado encontrado nos trabalhos
+Ea fae) to CS DA Vora Tae [o NU nto nico a afora feto oc CON]
+pagar pela União, a Dívida Líquida do Setor Público
+
+tem comportamento decrescente.
+
+Metas fiscais, Restos a Pagar, Enfoque Patrimonia
+
+ 
+Introdução
+
+O Estado é o principal agente econômico de qualquer nação. Sua
+capacidade de captação e alocação de recursos é tão superior aos demais
+agentes que suas ações afetam fortemente toda economia nacional. O Es-
+tado é um grande demandante do sistema de crédito e, como tal, exerce
+ascendência sobre as taxas de juros da economia. Despesas públicas exces-
+sivas influenciam os níveis de preços e salários. Segundo Vieira (2010), “o
+conhecimento sobre as informações contábeis e financeiras dos governos
+é prerrogativa do sistema democrático e se insere no amplo conjunto de
+informações às quais o cidadão pode ter acesso”.
+
+A função primordial de qualquer sistema contábil é prover os usuários
+dos demonstrativos financeiros com informações que os ajudarão a tomar
+decisões (TUDÍCIBUS, 2010). Em teoria, a construção do sistema con-
+tábil levaria em consideração quais são seus usuários e o que interessa a
+eles. Entretanto, existem usuários que estão em posição de exercer maior
+influência sobre a contabilidade (NIYAMA, SILVA, 2013), orientando
+sua forma para atender aos seus interesses.
+
+A rigor, o usuário final da contabilidade pública é o cidadão, cujo
+interesse é verificar a qualidade da administração pública. Os demais usu-
+ários são os gestores, o Poder Legislativo, os órgãos de controle, a impren-
+sa, os grupos de pressão, entre outros (NIYAMA, SILVA, op. cit). Pode-se
+ainda acrescentar como usuários da contabilidade pública os credores do
+governo e os investidores.
+
+No caso do setor público, as entidades executam atividades que não
+visam lucro, mas objetivam o bem-estar da sociedade. Portanto, suas in-
+formações têm a característica primordial de prestar contas no uso dos
+recursos obtidos por meio de tributos, de empréstimos e outras fontes
+para alcançar seu fim.
+
+A contabilidade do setor público brasileiro caracteriza-se pelo alto
+grau de regulamentação e pelo foco nos usuários internos (NIYAMA,
+SILVA, op. cit), o que pode ser creditado à posição privilegiada dos admi-
+nistradores e legisladores em relação aos demais usuários.
+
+A Lei nº 4.320/1964, principal norma brasileira de contabilidade e fi-
+nanças públicas, não emprega em qualquer parte de seu texto atualizado as
+palavras divulgação, publicação, acesso, transparência ou seus sinônimos.
+
+Foi somente com a promulgação da Lei Complementar nº 101/2000,
+conhecida como Lei de Responsabilidade Fiscal - LRF, que os cidadãos
+e a sociedade assumiram papel de principal destinatário da informação
+contábil do setor público (CAMPOS, 2007). A LRF consagrou a trans-
+
+ 
+
+Artigos & Ensaios
+parência como um pressuposto da gestão fiscal responsável e elencou ins-
+trumentos para assegurá-la.
+
+Por ocasião da renegociação da dívida dos Estados e dos acordos com
+o Fundo Monetário Internacional na segunda metade da década de 1990,
+institucionalizou-se o resultado primário como medida da capacidade de
+pagamento da dívida pública.
+
+O resultado primário foi definido na Lei nº 9.496/1997, que tratou
+do refinanciamento da dívida mobiliária dos Estados e do Distrito Fede-
+ral, como sendo a diferença entre as receitas não financeiras e as despesas
+não financeiras.
+
+As receitas não financeiras são aquelas derivadas da cobrança de tri-
+butos, da prestação de serviços, da mobilização do patrimônio e outras
+receitas não enquadráveis como financeiras (SANCHES, 2013). As des-
+pesas não financeiras são o conjunto de gastos do governo deduzidos os
+relativos aos serviços da dívida pública, à concessão de empréstimos e à
+equalização de taxas. (SANCHES, op. cit.)
+
+Mora (2002) afirma que a sustentabilidade da trajetória descendente
+da dívida púbica depende da capacidade de manter resultados primários
+condizentes com o estipulado.
+
+A LRF estabeleceu o resultado primário como principal medida de sus-
+tentabilidade das contas públicas, determinando que a Lei de Diretrizes Or-
+çamentárias - LDO trouxesse, em seu Anexo de Metas Fiscais, metas para o
+resultado primário para o exercício a que se refere e para os dois seguintes.
+
+A partir da meta de geração de superávits primários para os próximos
+três anos constante da LDO, o mercado financeiro e os meios produtivos
+criam uma expectativa racional do cumprimento desta política. As regras
+fiscais tornam-se críveis somente se anúncios tornam-se efetivos e existe
+convergência de expectativas entre os agentes de mercado e a política
+anunciada. Se as regras mudam ou não são cumpridas, os agentes econô-
+micos reagem, incorporando essas mudanças em suas restrições orçamen-
+tárias e em suas respectivas decisões. Ademais, quando existe assimetria
+de informações entre os gestores da política fiscal e o mercado, como,
+por exemplo, a respeito dos efeitos da inscrição em restos a pagar sobre a
+dívida pública, uma política fiscal que pareça sustentável no curto prazo
+pode deixar de ser quando a assimetria de informações for eliminada.
+
+Rosa (2011) afirma que a informação contábil deve ser confiável a
+ponto de tornar-se uma ferramenta aceita e utilizada tanto para avaliação
+quanto para decisão do usuário. Para tanto, a informação deve estar fun-
+damentada na veracidade e na validade de seu conteúdo e não oferecer
+
+ 
+
+Cadernos ASLEGIS | 51 e Janeiro/Abril e 2014
+privilégios a qualquer das partes, principalmente quando estas têm obje-
+tivos e interesses contrários.
+
+Entre os autores que apontaram recentemente evidências de que go-
+verno federal se vale de “contabilidade criativa” para atingir as metas de
+superávit primário estão Gerardo (2010), Schettini et al (2011), Barros
+(2011), Accioli (2012) e Augustinho et al (2013).
+
+De acordo com Gerardo (2010), a incidência de receitas atípicas, en-
+tendidas como aquelas não recorrentes ou não derivadas do esforço fis-
+cal do governo, ainda que contribua para a queda do estoque da Dívida
+Líquida do Setor Público — DLSP, representa geração artificial de recei-
+tas primárias e redunda em perda da credibilidade dos agentes públicos.
+Schettini et al (2011), Barros (2011) e Accioli (2012) chegam a mesma
+conclusão sobre efeito das receitas atípicas no resultado primário.
+
+Augustinho et al (2013) argumentam que uma análise mais acurada
+das contas nacionais indica que o governo vem fazendo uso de ajustes
+contábeis para alcançar esses resultados, reconhecendo receitas conside-
+radas atípicas ou extraordinárias, bem como protelando o pagamento de
+despesas, por meio de sua inscrição em restos a pagar.
+
+É notório que o volume de restos a pagar do governo federal tem cres-
+cido na última década. Santos (2009) apontou um crescimento constante
+do estoque de restos a pagar inscritos entre 2003 e 2008. Ainda segundo
+o autor, o estoque de restos a pagar é especialmente alto entre as despesas
+referentes a investimentos, alcançando, em 2008, 62,84% da dotação or-
+çamentária do mesmo grupo de natureza de despesa.
+
+Diversos autores (FERNANDES (2003), SILVA (2007), SANTOS
+(2009), GERARDO (2010), AUGUSTINHO ET AL (2013)) já quanti-
+ficaram o impacto da inscrição em restos a pagar sobre o resultado primá-
+rio da União, utilizando-se de métodos variados para calcular o resultado
+primário “real”, isto é, o resultado primário descontado os efeitos da ins-
+crição em restos a pagar.
+
+Nenhuma destas análises, entretanto, utilizou-se de conceitos intro-
+duzidos pelas Normas Brasileiras de Contabilidade Aplicadas ao Setor
+Público, especificamente a NBCT 16.5, que trata do registro contábil.
+
+No novo modelo de balanço patrimonial definido pelo Manual de
+Contabilidade Aplicada ao Setor Público - MCASP os restos a pagar não-
+-processados são diferenciados quanto à sua exigibilidade: os restos a pa-
+gar não-processados em liquidação são exigíveis e integram o passivo, os
+restos a pagar não processados a liquidar não são exigíveis e não integram
+o passivo. Assim, os restos a pagar exigíveis, que reúnem os restos a pagar
+processados e os restos a pagar não-processados em liquidação, e os restos
+
+ 
+
+Artigos & Ensaios
+a pagar não exigíveis, que são os restos a pagar não-processados a liquidar,
+devem ser tratados separadamente quando se analisa uma possível poster-
+gação de dispêndios visando incrementar o resultado primário.
+
+Neste ponto, define-se o problema de pesquisa deste trabalho: a ins-
+crição em restos a pagar, tratada sob enfoque dos conceitos da Contabili-
+dade Aplicada ao Setor Público, tem sido usada como recurso para que o
+governo federal atinja a meta de superávit primário definida pela LDO?
+
+Uma vez definido o problema, é possível estabelecer o objetivo do
+trabalho, que é mensurar a influência da inscrição em restos a pagar, tra-
+tada nos conceitos da Contabilidade Aplicada ao Setor Público, sobre o
+resultado primário e sobre a Dívida Líquida do Setor Público.
+
+Para estabelecer a relação entre restos a pagar e resultado primário,
+serão levantados os montantes inscritos em restos a pagar exigíveis e não
+exigíveis ano a ano a fim de calcular o float de restos a pagar utilizando
+uma metodologia “abaixo da linha”. De posse destes resultados, eles serão
+utilizados para ajustar o resultado primário divulgado pela Secretaria do
+Tesouro Nacional (STN). Por fim, esses valores serão relativizados pelo
+Produto Interno Bruto (PIB), a fim de montar uma série histórica.
+
+Este trabalho é composto por seis capítulos. O primeiro capítulo é essa
+introdução. O segundo capítulo trata de aprofundamento do referencial
+teórico. A metodologia do trabalho é trazida no terceiro capítulo. Os resul-
+tados e a conclusão são tratados, respectivamente nos quarto e quinto capí-
+tulos. Por fim, as referências bibliográficas estão contidas no sexto capítulo.
+
+Referencial teórico
+
+O orçamento brasileiro observa o princípio da periodicidade ou anu-
+alidade, que preconiza que o orçamento público deve ser elaborado para
+um período limitado de tempo, correspondente ao ano civil no caso bra-
+sileiro (GIACOMONJ). Esta periodicidade coincide com a prestação
+anual de contas do Presidente da República e a apuração dos resultados
+gerais do exercício prevista na Lei nº 4.320/1964.
+
+A Lei nº 4.320/1964 estabeleceu que pertencem ao exercício finan-
+ceiro as despesas nele empenhadas. Portanto, a despesa orçamentária está
+vinculada com o exercício do Orçamento em que se encontrar autorizada
+a sua realização.
+
+Conforme Rosa (2011) esquematizou, nem todos os estágios da des-
+pesa poderão ser concluídos durante o exercício, podendo a despesa en-
+contrar-se em uma destas situações no encerramento do exercício:
+
+a) despesas empenhadas, liquidadas e pagas;
+
+b) despesas empenhadas, liquidadas e não pagas; e
+
+ 
+
+Cadernos ASLEGIS | 51 e Janeiro/Abril e 2014
+c) despesas empenhadas, não liquidadas e não pagas.
+
+As despesas liquidadas e não pagas constituirão os restos a pagar pro-
+cessados e as despesas não liquidadas e não pagas, os restos a pagar não-
+-processados.
+
+Embora a legislação estabeleça que a despesa pública seja apropriada
+pelo regime de competência, o setor público brasileiro tradicionalmente
+tem utilizado o critério de competência orçamentária para reconhecimen-
+to da despesa, e não o critério patrimonial. Este entendimento origina-se
+no objetivo almejado pelos balanços do setor público, que é confrontar as
+receitas arrecadadas com o destino que lhes foi dado, sob a lógica de fluxo
+de recursos. (ALBUQUERQUE, MEDEIROS, SILVA, 2008).
+
+Segundo Souza (2010), o estoque de despesas pendentes de paga-
+mento, notadamente os restos a pagar, traçou uma linha ascendente nos
+últimos anos, causando preocupações no Governo Federal. O registro
+contábil desses valores, principalmente dos restos a pagar não-processa-
+dos, prejudica a execução do orçamento público, uma vez que são in-
+corporados ao patrimônio da entidade passivos que, em essência, ain-
+da não se configuraram como tal. O aumento excessivo desses passivos,
+oriundos de despesas que não foram integralmente realizadas, é capaz
+de gerar orçamentos que, na prática, duram anos até que cumpram seus
+objetivos, ferindo o princípio da anualidade do orçamento. Os resultados
+demonstraram que a falta de tratamento contábil patrimonial, o limite de
+desembolsos insuficiente e a morosidade na aprovação da Lei Orçamen-
+tária Anual estão entre os prováveis fatores que têm contribuído para o
+aumento do registro dos restos a pagar no País.
+
+Castro (2011) afirma que os restos a pagar decorrem do distancia-
+mento entre a ação da Secretaria de Orçamento Federal (SOF), que é
+pressionada para fixar dotações sem garantia de recursos financeiros su-
+ficientes, e da Secretaria do Tesouro Nacional (ST'N), que é pressionada
+para atingir superávits financeiros a despeito dos orçamentos aprovados.
+Castro acrescenta que os restos a pagar não-processados estão se trans-
+formando em restos a fazer, pois a legislação e a cultura vigentes fizeram
+com que bastassem a autorização orçamentária e o empenho para que a
+despesa pública fosse reconhecida, sem que se considerasse a real execução
+da despesa ou a existência de recursos para seu pagamento.
+
+Fernandes (2004) apresentou o conceito de float de restos a pagar
+como sendo a diferença entre as despesas primárias do exercício corrente
+pagas em exercícios posteriores e as despesas primárias de exercícios an-
+teriores pagas no exercício corrente. Neste sentido, um float de restos a
+
+ 
+
+Artigos & Ensaios
+pagar positivo indica que o estoque de restos a pagar é crescente e que,
+portanto, o resultado primário ajustado é menor do que o oficial.
+
+Silva (2007) aprimorou o conceito utilizado por Fernandes ao considerar
+também o cancelamento de restos a pagar no exercício. Ele argumenta que,
+quando o cancelamento de restos a pagar não é levado em conta, tende-se a
+superestimar o float. Este autor obteve o float de restos a pagar pela diferença
+entre o valor das despesas primárias inscritas em restos a pagar no final do
+ano e a soma do valor dos restos a pagar que são pagos no exercício financeiro
+com o montante de restos a pagar cancelados referentes ao total dos inscritos.
+Conforme sua metodologia, o ajuste pelo float de restos a pagar impacta o re-
+sultado primário do governo central negativamente em 0,30% do PIB entre
+2003 e 2006, o que significa que a meta de resultado primário de 2,45% do
+PIB não teria sido atingida em nenhum ano deste período. Gerardo (2010),
+valendo-se da mesma metodologia, apontou um float de restos a pagar médio
+de 0,62% do PIB entre 2003 e 2009.
+
+À argumentação por trás deste conceito de float é que, para reduzir
+a dívida mobiliária, fundada em títulos, o governo aumentou sua dívida
+flutuante, devida aos seus fornecedores. Entretanto, veremos adiante que,
+a luz dos novos conceitos da contabilidade aplicada ao setor público, restos
+a pagar não-processados nem sempre podem ser considerados uma dívida.
+
+Desde a publicação dos trabalhos de Fernandes e Silva, o estoque de res-
+tos a pagar cresceu consideravelmente, especialmente o de restos a pagar não-
+-processados. Este crescimento pode ser parcialmente atribuído à sucessiva
+prorrogação da validade dos restos a pagar não-processados desde 2006.
+
+A validade dos restos a pagar inscritos até 2006 era definida, pela reda-
+ção original do Decreto nº 93.872/1986, até 31 de dezembro do ano subse-
+quente. Entre 2008 e 2011, foram editados os Decretos nº 6.708/2008, nº
+7.057/2009, nº 7.418/2010, nº 7.468/2011 e nº 7.511/2011, que de várias
+formas prorrogaram a validade dos restos a pagar inscritos desde 2007. Por
+fim, a situação vigente foi definida pelo Decreto nº 7.654/2011, que fixou
+a validade dos restos a pagar não-processados e não liquidados até 30 de
+junho do segundo ano subsequente ao da inscrição e estabeleceu condições
+para que a validade dos restos a pagar seja mantida além dessa data.
+
+Essa sucessão de prorrogações levou a uma redução do cancelamento
+dos restos a pagar. Enquanto, entre 2005 e 2007, 29,0% do saldo inicial
+de restos a pagar inscritos foram cancelados até o final do exercício, os
+cancelamentos de restos a pagar representaram, de 2008 a 2013, 12,4%
+do saldo inicial de restos a pagar inscritos.
+
+A Lei de Diretrizes Orçamentárias para o exercício de 2013, Lei nº
+12.708/2012, estabeleceu em seu artigo 118 que os restos a pagar fossem
+
+ 
+
+Cadernos ASLEGIS | 51 e Janeiro/Abril e 2014
+segregados em exigíveis e não exigíveis. Neste sentido, a Secretaria do Te-
+souro Nacional orientou que os restos a pagar não-processados inscritos
+em 31 de dezembro de 2012 fossem segregados em restos a pagar não-
+-processados a liquidar (não exigíveis) e restos a pagar não-processados
+em liquidação (exigíveis). De acordo com a STN, estão em liquidação as
+despesas em que o credor, de posse do empenho correspondente, forne-
+ceu o material, prestou o serviço ou ainda executou a obra e que tenham
+sido devidamente atestadas ou estão em fase de análise e conferência.
+
+Segundo Rosa (2011), a despesa pública pode ser conceituada sob
+os enfoques orçamentário, patrimonial e fiscal. No enfoque orçamentá-
+rio, a despesa é reconhecida no momento do empenho. Já a despesa sob
+o enfoque patrimonial, tratada no MCASP como variação patrimonial
+diminutiva — VPD, deve ser reconhecida pelo respectivo fato gerador,
+independentemente do momento da execução orçamentária. Por fim, a
+despesa sob o enfoque fiscal corresponde ao pagamento e deve ser reco-
+nhecida no momento do desembolso.
+
+Os restos a pagar processados, os restos a pagar não-processados em
+liquidação e os restos a pagar não-processados liquidados correspondem
+a serviços já prestados ou a bens já entregues. No caso de serviços presta-
+dos, houve uma despesa no enfoque patrimonial, isto é, VPD. No caso
+de bens entregues, estes bens foram em algum momento incorporados
+ao ativo. Existe, portanto uma obrigação de pagamento e, enquanto estes
+serviços ou bens não forem pagos, deverão constar do passivo.
+
+Já os restos a pagar não-processados a liquidar não passam de uma
+intenção de aquisição de bens ou serviços. Se o serviço ainda não foi
+prestado ou se o bem ainda não foi entregue, não há obrigação de paga-
+mento. Dessa forma, é inadequado fazer os restos a pagar não-processados
+a liquidar constarem do passivo. Portanto, restos a pagar não-processados
+a liquidar não fazem parte da dívida pública.
+
+Considerando que as despesas orçamentárias que ainda não foram
+liquidadas ainda não constituíram uma despesa na acepção patrimonial
+(variação patrimonial diminutiva), a inscrição de restos a pagar não-
+-processados a liquidar não impacta a dívida pública. Portanto, à luz da
+Contabilidade Aplicada ao Setor Público, a medida da protelação dos pa-
+gamentos deve considerar apenas a variação do estoque de restos a pagar
+exigíveis, ou seja, processados e não-processados em liquidação.
+
+Assim, propõe-se um cálculo “abaixo da linha” para o float de restos
+a pagar, definido pela variação dos restos a pagar primários processados e
+dos restos a pagar primários não-processados em liquidação ao longo de
+um exercício. Exemplificando, o float de restos a pagar exigíveis no ano
+
+ 
+
+Artigos & Ensaios
+2013 será dado pela diferença entre os restos a pagar inscritos e reinscritos
+em 31/12/2013 e os restos a pagar inscritos e reinscritos em 31/12/2012.
+
+Metodologia
+
+Quanto ao objetivo, este trabalho caracteriza-se como pesquisa explo-
+ratória e descritiva. De acordo com Gil (2008), uma pesquisa exploratória
+dedica-se a proporcionar maior familiaridade com o problema, com vistas
+a torná-lo mais explícito ou a construir hipóteses. Já uma pesquisa descri-
+tiva se propõe a descrever, dimensionar ou estabelecer relações entre as va-
+riáveis do problema. Assim, o trabalho é exploratório na medida em que
+expõe a relevância do problema, reúne resultados de outros autores e or-
+ganiza o conhecimento acerca do tema. O trabalho também é descritivo,
+pois se propõe a modelar o problema sob outro enfoque e dimensioná-lo
+dentro deste modelo.
+
+Quanto aos procedimentos técnicos, este trabalho empregou as pes-
+quisas bibliográfica e documental. Ao conceituar as pesquisas quanto aos
+procedimentos, Gil (op. cit.) afirma que a pesquisa bibliográfica é desen-
+volvida com base em material já elaborado, constituído principalmente
+de livros e artigos científicos. Em relação à pesquisa documental, o autor
+assevera que essa se vale de materiais que não recebem ainda um trata-
+mento analítico, ou que ainda podem ser reelaborados de acordo com os
+objetos da pesquisa. O presente estudo abrangeu revisão bibliográfica,
+que embasa os conceitos teóricos apresentados, e teve como fonte docu-
+mental dados oficiais publicados pela Secretaria do Tesouro Nacional ou
+disponíveis nos sistemas informatizados mantidos por aquela Secretaria.
+
+Os dados referentes ao resultado primário do governo central, dívida
+líquida do setor público e produto interno bruto foram coletados, respec-
+tivamente, no sítios na Internet do Tesouro Nacional, do Banco Central
+do Brasil e do Instituto Brasileiro de Geografia e Estatística.
+
+Os dados referentes ao volume de restos a pagar inscritos foram cole-
+tados no Portal Orçamento do Senado Federal — Sistema SIGA Brasil e,
+especificamente no tocante aos restos a pagar processados em liquidação,
+no Sistema Integrado de Administração Financeira — SIAFI, módulo ge-
+rencial.
+
+Na escala temporal, o escopo do trabalho limita-se aos exercícios de
+2003 a 2013, que são aqueles cujos dados de execução de restos a pa-
+gar classificados por indicador de resultado primário estão disponíveis no
+
+SIGA Brasil.
+
+ 
+
+Cadernos ASLEGIS | 51 e Janeiro/Abril e 2014
+Quanto à esfera orçamentária, os dados foram limitados às esferas
+fiscal e da seguridade social, que correspondem ao âmbito do resultado
+primário do governo central.
+
+Para os exercícios até 2011, foram considerados como restos a pagar
+exigíveis os restos a pagar processados. A partir de 2012, os restos a pagar
+exigíveis foram calculados como a soma dos restos a pagar processados e
+dos restos a pagar não-processados em liquidação.
+
+Resultados
+
+Na Tabela 1 estão compilados os restos a pagar inscritos e reinscri-
+tos ao final de cada exercício, evidenciados aqueles que correspondem a
+despesas primárias e, dentre esses, os processados, os não-processados em
+liquidação e os exigíveis.
+
+Inscrição / Reinscrição de restos a pagar (R$ 1.000.000,00)
+Ano cai | Primário | Primário não | primário
+Eq | ei
+2003 31.677 18.782 72147 [o [774
+2004 21.347 16.963 394 | | 394
+
+[2005 [36791 [28657 [asse | [ass]
+[06 [446 [siso [ago | [asa]
+
+[207 | 55640 | 44050 | 5842 | | 5842 |
+[ 208 | 94576 | 7613 | 25403 | | 25453]
+
+[ 2009 | 114905 | 78555 | 10568 | | 10568]
+[2010 | 128893 | 64385 | 2435 | | 21435]
+[2011 | 141201 | 66343 | 20737 | | 20737]
+218.635
+
+Tabela 1. Inscrição de restos a pagar por exercício.
+
+ 
+
+Da Tabela 1 depreende-se que os estoques de restos a pagar totais e
+primários são crescentes desde 2004. Já os restos a pagar primários pro-
+cessados tem um comportamento variável, com destaque para a grande
+variação entre 2007 e 2008. Este variação está relacionada com alteração
+do critério de contabilização dos benefícios da previdência social em de-
+zembro de 2008. Os restos a pagar não-processados em liquidação repre-
+sentam cerca de 10% do total de restos a pagar exigíveis. Cabe observar
+
+Artigos & Ensaios ij
+que os restos a pagar não-processados em liquidação foram inscritos pela
+primeira vez em 2012.
+
+Na Tabela 2 está calculado o float de restos a pagar, conforme metodo-
+logia “abaixo da linha”, considerando os vários extratos de restos a pagar
+contidos na Tabela 1.
+
+Float de restos a pagar (R$ 1.000.000,00)
+
+Primário não-
+-processado em
+liquidação
+(1.819) (3.803) (3.803)
+11.694 455 455
+2.914 541 541
+
+12.480 902 - 902
+
+[2008 [sas [208 [os | [room]
+[205 [20% [244 [ms [| [os]
+[ooo [se [580 [user | [iso]
+[on (rã [isso [sm | [6 |
+
+Tabela 2. Float de restos a pagar por exercício.
+
+Primário
+exigível
+
+Primário
+
+Primata processado
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Observa-se na Tabela 2 que os floats de restos a pagar totais e primários
+foram positivos em todos os anos desde 2004, haja vista que os estoques
+de restos a pagar totais e primários são crescentes desde então. Quanto ao
+float de restos a pagar processados, uma vez que houve grande variação
+no seu estoque no período analisado, tem um comportamento bastante
+variado com alguns valores negativos e um pico registrado em 2008 pela
+razão exposta anteriormente. O float dos restos a pagar não-processados
+em liquidação foi positivo nos anos disponíveis, contribuindo para eleva-
+ção do float de restos a pagar exigíveis.
+
+ATabela 3 reúne as metas de resultado primário, os resultados obtidos
+pelo governo central, qual seria o resultado primário caso fosse ajustado
+pelo float de restos a pagar.
+
+ 
+
+Cadernos ASLEGIS | 51 e Janeiro/Abril e 2014
+Resultado primário do governo central (% do PIB)
+ms apo não = o a
+
+2005 2,45% 2,45% 1,91% 2,43%
+2006 2,45% 2,06% 1,93% 2,03%
+
+Tabela 3. Resultado primário do governo central almejado, obtido e ajustado pelo float de restos a pagar.
+
+ 
+
+A Figura 1 traz a representação gráfica do conteúdo da Tabela 3.
+
+ 
+
+Resultado Primário do Governo Central
+
+ 
+
+0,50%
+0,00%
+2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+Exercício
+Meta — — Obtido Ajustado pelo float de RP total «==+..- Ajustado pelo float de RP exigível
+
+ 
+
+ 
+
+Figura 1. Resultado primário do governo central almejado, obtido e
+ajustado pelo float de restos a pagar.
+
+Artigos & Ensaios
+
+ 
+O governo central alcançou ou superou a meta de resultado primário
+em 4 dos 10 exercícios analisados. Em média, o resultado apurado ficou
+0,13% do PIB abaixo da meta nesse período de 10 anos. Quando o re-
+sultado primário é ajustado pelo float de restos a pagar primários, a meta
+teria sido superada em apenas 2 exercícios e a média da insuficiência em
+relação à meta fica em 0,46% do PIB.
+
+Como a evidenciação dos restos a pagar exigíveis foi introduzida na
+inscrição dos restos a pagar de 2012, não existem dados a respeito dos
+restos a pagar não-processados exigíveis anteriores a esse exercício. En-
+tretanto, nos dois exercícios em que estes dados estavam disponíveis, os
+restos a pagar não-processados em liquidação representaram 10% do total
+de restos a pagar exigíveis. Assim, considerou-se que, para o período entre
+2004 e 2011, os restos a pagar não-processados são uma boa aproximação
+dos restos a pagar exigíveis.
+
+Assim, ajustando o resultado primário pelo float de restos a pagar
+exigíveis, a meta teria sido cumprida em 3 exercícios, porém a média da
+insuficiência em relação à meta é de 0,18% do PIB. Em comparação com
+o resultado primário apurado, o resultado ajustado pelo float de restos a
+pagar exigíveis é em média 0,05% do PIB menor.
+
+A Tabela 4 traz as razões entre a dívida líquida do setor público -
+DSLP e o passivo financeiro da União sobre o produto interno bruto.
+
+| Ano | RS DIRR | financeiro, % do PIB (B) (A) + (B)
+
+ 
+
+ 
+
+ 
+
+ 
+
+2011 36,4% 4,4% 40,8%
+2012 35,3% 47% 40,0%
+2013 33,6% 5,3% 38,9%
+
+ 
+
+Tabela 4. Evolução da dívida líquida do setor público e do passivo financeiro da União.
+
+É possível depreender da Tabela 4 que, a despeito da incidência do
+float de restos a pagar, os resultados primários obtidos pelo governo cen-
+
+Cadernos ASLEGIS | 51 e Janeiro/Abril e 2014
+tral têm sido suficientes para diminuir consistentemente a razão entre a
+DLSP eo PIB. Entretanto, a relação entre o passivo financeiro do gover-
+no federal e o PIB triplicou no período de 10 anos analisado, o que pode
+ser atribuído ao acúmulo de restos a pagar. Já o somatório destas medidas
+é decrescente, o que demonstra que o aumento do passivo financeiro é
+mais do que compensado pela queda da dívida pública.
+
+Conclusões
+
+A sustentabilidade da dívida pública depende da capacidade do Es-
+tado de gerar resultados primários em montante suficiente. Se o governo
+falha em atingir as metas estipuladas, os agentes econômicos modificam
+suas decisões a fim de adequar-se ao novo cenário. Portanto, existe in-
+centivo para que governo cumpra ou faça parecer que cumpriu as metas
+fiscais. Diversos autores afirmam que o governo lança mão de “contabili-
+dade criativa” para alcançar a meta de resultado primário.
+
+Uma maneira de incrementar o resultado primário é a postergação do
+pagamento de despesas, que pode ser observado pela sua inscrição em res-
+tos a pagar. A variação dentro de um exercício do estoque de restos a pagar
+é chamada de float. Alguns autores calcularam o float de restos a pagar
+da União e calcularam qual seria o resultado primário do governo central
+ajustado. Todavia, esses autores não levaram em consideração o enfoque
+patrimonial preconizado pela Contabilidade Aplicada ao Setor Público.
+
+Entretanto, como a previsão de segregação de restos a pagar exigíveis
+dos não exigíveis foi introduzida em 2012, não existe ainda uma série
+longa suficiente de dados para que seja estabelecida uma tendência. Para
+tanto, considerou-se que os restos a pagar processados são uma boa apro-
+ximação dos restos a pagar exigíveis para os exercícios até 2011.
+
+Uma análise comparativa dos volumes de restos a pagar primários to-
+tais e de restos a pagar primários exigíveis demonstrou que, quando apli-
+cado o enfoque patrimonial, o float de restos a pagar é menor e, portanto,
+os resultados primários ajustados pelo float situam-se, em média, apenas
+0,05% do PIB abaixo do valor apurado pelo governo central.
+
+Uma vez que a dívida líquida do setor público tem uma tendência
+consistente de queda em relação ao PIB, pode-se inferir que o float de
+restos a pagar não prejudica a sustentabilidade da dívida pública. Todavia,
+o aumento do estoque de restos a pagar é evidenciado pelo aumento do
+passivo financeiro da União.
+
+ 
+
+Artigos & Ensaios bj
+Bibliografia
+
+ACCIOLI, Cláudio. Faz de conta. Governo utiliza artifícios fiscais
+para cumprir meta de superávit primário. Revista Conjuntura Eco-
+nômica, FGV, Rio de Janeiro, v. 66, n. 10, p. 42-43, out. 2012. Dis-
+ponível em http://bibliotecadigital.fgv.br/ojs/index.php/rce/article/
+viewArticle/22189. Acessado em 16/8/2014.
+
+ALBUQUERQUE, Claudiano Manoel de, MEDEIROS, Márcio
+Bastos, SILVA, Paulo Henrique Feijó da. Gestão de Finanças Pú-
+blicas — Fundamentos e Práticas de Planejamento, Orçamento e
+Administração Financeira com Responsabilidade Fiscal. 2 ed. Bra-
+sília: Gestão Pública, 2008.
+
+AUGUSTINHO, Sonia Maria, OLIVEIRA , Antônio Gonçalves
+de, LIMA, Isaura Alberton de. A “Contabilidade Criativa” e a inscri-
+ção de Restos a Pagar como “Expediente” para Alcançar o Superávit
+Primário. REUNIR — Revista de Administração, Contabilidade e
+Sustentabilidade, Campina Grande, v.3, n. 4, p. 127-147, set./dez.
+2013. Disponível em http://150.165.111.246/revistaadmin/index.
+php/uacc/article/view/167. Acessado em 16/8/2014.
+
+BARROS, Gabriel Leal de. Uma Medida de Esforço Fiscal Primá-
+rio Líquido de Operações Atípicas. Nota Técnica. Rio de Janeiro:
+FGV, 2013. Disponível de http://bibliotecadigital.fgv.br/dspace/han-
+dle/10438/11717. Acessado em 16/8/2014.
+
+BRASIL. Decreto nº 6.708/2008, de 23 de dezembro de 2008.
+Prorroga a validade dos restos a pagar não processados inscritos no
+exercício financeiro de 2007 e dá outras providências. Disponível em
+hretp://www.planalto.gov.br/ccivil 03/ Ato2007-2010/2008/Decre-
+to/D6708.htm. Acessado em 29/7/2014.
+
+BRASIL. Decreto nº 7.057/2009, de 29 de dezembro de 2009.
+Prorroga a validade dos restos a pagar não processados inscritos nos
+exercícios financeiros de 2007 e 2008. Disponível em http://www.
+planalto.gov.br/ccivil 03/ Ato2007-2010/2009/Decreto/D7057.
+htm. Acessado em 29/7/2014.
+
+BRASIL. Decreto nº 7.418/2010, de 31 de dezembro de 2010.
+Prorroga a validade dos restos a pagar não-processados inscritos nos
+exercícios financeiros de 2007, 2008 e 2009. Disponível em http://
+www.planalto.gov.br/ccivil 03/ Ato2007-2010/2010/Decreto/
+D7418.htm. Acessado em 29/7/2014.
+
+ 
+
+Cadernos ASLEGIS | 51 e Janeiro/Abril e 2014
+BRASIL. Decreto nº 7.468/2011, de 30 de abril de 2011. Mantém
+a validade dos restos a pagar não processados inscritos nos exercícios
+financeiros de 2007, 2008 e 2009 que especifica, altera o parágrafo
+único do art. 68 do Decreto no 93.872, de 23 de dezembro de 1986,
+e dá outras providências. Disponível em http://www planalto.gov.br/
+ccivil 03/ Ato2011-2014/2011/Decreto/D7468.htm. Acessado em
+29/7/2014.
+
+BRASIL. Decreto nº 7.511/2011, de 30 de junho de 2011. Altera
+a redação do inciso III do art. lo do Decreto no 7.468, de 28 de
+
+abril de 2011. Disponível em http://www. planalto.gov.br/ccivil 03/
+Ato2011-2014/2011/Decreto/D7511.htm. Acessado em 29/7/2014.
+
+BRASIL. Decreto nº 7.654/2011, de 23 de dezembro de 2011. Al-
+tera o Decreto no 93.872, de 23 de dezembro de 1986, que dispõe
+sobre a unificação dos recursos de caixa do Tesouro Nacional, atualiza
+e consolida a legislação pertinente, e dá outras providências. Disponí-
+vel em http://www.planalto.gov.br/ccivil 03/ Ato2011-2014/2011/
+Decreto/D7654.htm. Acessado em 29/7/2014.
+
+BRASIL. Decreto nº 93.872, de 23 de dezembro de 1986. Dispõe
+sobre a unificação dos recursos de caixa do Tesouro Nacional, atualiza
+e consolida a legislação pertinente e dá outras providências. Diário
+Oficial [da] República Federativa do Brasil. Brasília, 1986. Disponí-
+vel em http://www.planalto.gov.br/ccivil 03/decreto/D93872.htm.
+Acessado em 29/7/2014.
+
+BRASIL. Lei Complementar nº 101, de 4 de maio de 2000. Esta-
+belece normas de finanças públicas voltadas para a responsabilidade
+na gestão fiscal e dá outras providências. Brasília, 2000. Disponível
+em http://www planalto.gov.br/ccivil 03/leis/lcp/lcp101.htm. Aces-
+sado em 29/7/2014.
+
+BRASIL. Lei nº 12.465, de 12 de agosto de 2011. Dispõe sobre as
+diretrizes para a elaboração e execução da Lei Orçamentária de 2012
+e dá outras providências. Brasília, 2011. Disponível em http://www.
+planalto.gov.br/ccivil 03/ Ato2011-2014/2011/Lei/L12465.htm.
+Acessado em 29/7/2014.
+
+BRASIL. Lei nº 4.320, de 17 de março de 1964. Estatui Normas
+Gerais de Direito Financeiro para elaboração e contrôle dos orçamen-
+tos e balanços da União, dos Estados, dos Municípios e do Distrito
+Federal. Brasília, 1964. Disponível em http://www.planalto.gov.br/
+ccivil 03/Jeis/14320.htm. Acessado em 29/7/2014.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Artigos & Ensaios
+CAMPOS, Cleber Silva. Informações Contábeis do Setor público:
+Estudo de caso do Balanço Financeiro da União. Monografia de
+Especialização em Orçamento Público. Instituto Serzedello Corrêa,
+Brasília, 2007.
+
+CASTRO, Domingos Poubel de. Auditoria, Contabilidade e Con-
+trole Interno no Setor Público. 4 ed. São Paulo: Atlas, 2011.
+
+FERNANDES, Ernani Luiz Barros. Restos a Pagar. Monografia
+de Especialização em Orçamento e Políticas Públicas. UnB, Brasília,
+2004. Disponível em http:/Ayww.orcamentofederal.gov.br/bibliote-
+ca/estudos e pesquisas/Monografia Ernani Fernandes.pdf. Acessa-
+do em 21/7/2014.
+
+GERARDO, José Carlos. Receitas Atípicas e Restos a Pagar: im-
+plicações sobre o Resultado Primário do Governo Central. In: XV
+Prêmio Tesouro Nacional. Brasília: Ministério da Fazenda/Secreta-
+ria do Tesouro Nacional, 2010. Disponível em http://www3.tesou-
+ro.fazenda.gov.br/Premio TN/XVPremio/divida/2afdpXVPTN/
+Tema 1 2Lugar.pdf. Acessado em 22/7/2014.
+
+GIACOMONL James. Orçamento Público. 16 ed. São Paulo: Atlas,
+2012.
+
+GIL, Antonio Carlos. Como Elaborar Projetos de Pesquisa. 4 ed.
+São Paulo: Atlas, 2002.
+
+IUDÍCIBUS, Sérgio de. Teoria da Contabilidade. 10 ed. São Paulo:
+Atlas, 2010.
+
+MORA, Mônica. Federalismo e Dívida Estadual No Brasil. Texto
+para discussão n. 866. Rio de Janeiro: IPEA, 2002. Disponível em
+http://www.ipea.gov.br/portal/images/stories/PDEs/TDs/td 0866.
+pdf. Acessado em 16/8/2014.
+
+NIYAMA, Jorge Katsumi; SILVA, César Augusto Tibúrcio. Teoria da
+Contabilidade. 3 ed. São Paulo: Atlas, 2013.
+
+ROSA, Maria Berenice. Contabilidade do Setor Público. 1 ed. São
+Paulo: Atlas, 2011.
+
+SANCHES, Osvaldo Maldonado. Novo Dicionário de Orçamento
+e Áreas Afins. 1 ed. Brasília: OMS, 2013.
+
+SANTOS, Armando Melo e. Análise da Distorção do Resultado
+Primário do Governo Federal quando Apurado sob Regime de
+Caixa. Monografia de Especialização em Orçamento e Finanças.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cadernos ASLEGIS | 51 e Janeiro/Abril e 2014
+UnB, Brasília, 2009. Disponível em http://bdm.unb.br/bitstre-
+am/10483/1634/1/2009 ArmandoMeloeSantos.pdf. Acessado em
+29/7/2014.
+
+SCHETTINI, Bernardo Patta, GOUVÊA, Raphael Rocha, ORAIR,
+Rodrigo Octávio, GOBETTI, Sérgio Wulff. Resultado Estrutural e
+Impulso Fiscal: Uma Aplicação para as Administrações Públicas
+No Brasil, 1997-2010. Texto para discussão n. 1650. Rio de Janeiro:
+
+IPEA, 2011. Disponível em http://www.ipea.gov.br/portal/images/
+stories/PDEs/TDs/td 1650.pdf. Acessado em 16/8/2014.
+
+SILVA, Alexandre Manoel Ângelo da, CÂNDIDO JÚNIOR, José
+Oswaldo e GERARDO, José Carlos. Restos a pagar: implicações
+sobre a sustentabilidade fiscal e a qualidade do gasto público. In:
+Prêmio SOF de Monografias — 2007. Brasília: Ministério do Planeja-
+mento, Orçamento e Gestão/Secretaria de Orçamento Federal, 2008.
+Disponível em http://www.orcamentofederal.gov.br/educacao-orca-
+mentaria/premio-sof-de-monografias/i premio/tema 2 1 lugar.pdf.
+Acessado em 21/7/2014.
+
+SOUZA, Ana Cecília de. Restos a Pagar: a última fronteira da trans-
+parência. Revista TCE-R]J, Rio de Janeiro, v. 5, n. 1 e 2, p. 68-83,
+
+jan./dez. 2010. Disponível em http://www.ecg.tce.rj.gov.br/arquivos/
+SinteseVol5-Num1-2-Jul-Dez2010.pdf. Acessado em 8/5/2014.
+
+VIEIRA, Laércio Mendes. Nova Contabilidade Governamental
+Brasileira e a evidenciação integral do valor dos passivos no Ba-
+lanço Patrimonial Federal: o caso dos restos a pagar não processa-
+dos, das despesas de exercícios anteriores e dos passivos reconheci-
+dos por insuficiência de crédito. In: XV Prêmio Tesouro Nacional.
+Brasília: Ministério da Fazenda/Secretaria do Tesouro Nacional,
+2010. Disponível em http://www3.tesouro.fazenda.gov.br/Premio
+TN/XVPremio/financas/2tefpXVPTN/Tema 4 2.pdf. Acessado em
+27/9/2014.
+
+ 
+
+ 
+
+Artigos & Ensaios
+

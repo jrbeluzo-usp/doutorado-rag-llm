@@ -1,0 +1,3311 @@
+Universidade de Brasília
+Faculdade de Economia, Administração e Contabilidade (FACE)
+
+Mestrado Profissional em Administração Pública (MPA)
+Programa de Pós-Graduação em Administração (PPGA)
+
+RAFAEL ROCHA PARENTE
+
+EXECUTIVO E LEGISLATIVO NA ALOCAÇÃO ORÇAMENTÁRIA:
+UM ESTUDO DE CASO SOBRE O PROGRAMA OFERTA DE ÁGUA
+
+Brasília — DF, 2014
+RAFAEL ROCHA PARENTE
+
+EXECUTIVO E LEGISLATIVO NA ALOCAÇÃO ORÇAMENTÁRIA:
+UM ESTUDO DE CASO SOBRE O PROGRAMA OFERTA DE AGUA
+
+Dissertação apresentada ao Programa de
+Pós-graduação em Administração da
+Universidade de Brasília como requisito
+parcial para obtenção do título de Mestre em
+Administração Pública — Ênfase em
+Orçamento.
+
+Orientadora: Professora Doutora Suylan de Almeida Midlej e Silva
+
+Brasília — DF, 2014
+RAFAEL ROCHA PARENTE
+
+EXECUTIVO E LEGISLATIVO NA ALOCAÇÃO ORÇAMENTÁRIA:
+UM ESTUDO DE CASO SOBRE O PROGRAMA OFERTA DE ÁGUA
+
+Dissertação apresentada ao Programa de
+Pós-graduação em Administração da
+Universidade de Brasília como requisito
+parcial para obtenção do título de Mestre em
+Administração Pública — Ênfase em
+Orçamento.
+
+Dra. Suylan de Almeida Midlej e Silva
+Professora-Orientadora
+
+Dr. João Henrique Pederiva Dra. Suely Vaz Guimarães de Araújo
+Professor-Examinador Professora-Examinadora
+
+Data da banca: 29 de agosto de 2014.
+AGRADECIMENTOS
+
+Ao meu filho Guilherme, por ser a motivação da minha busca por crescimento e
+melhora.
+
+À minha esposa Gabriella, companheira e incentivadora ao longo de todo o
+processo.
+
+Aos meus pais Marilene e Maurílio, pelo apoio incondicional em toda minha
+formação.
+
+À Professora Suylan, pela orientação e paciência durante a realização deste trabalho.
+
+Aos professores do PPGA, pelos ensinamentos, dedicação e exemplo.
+
+Aos colegas do PPGA, pelo companheirismo, amizade e apoio.
+
+Ao colega Amilton, pela lição de vida e exemplo.
+
+À Secretaria de Orçamento Federal, pela oportunidade.
+
+Aos colegas da Secretaria-Adjunta de Assuntos Fiscais, André, Cláudio, George,
+
+Glauber, Marco Antônio, Maurício e Ugo, pela compreensão e incentivo.
+RESUMO
+
+Esta dissertação investiga a relação existente entre os Poderes Executivo e
+Legislativo na alocação dos recursos governamentais destinados ao Programa Oferta de
+Água do Plano Plurianual - PPA 2012-2015. Trata-se de pesquisa qualitativa em que foi
+realizado estudo de caso. A utilização do método qualitativo justifica-se por ser forma
+adequada para entender a natureza de um fenômeno social complexo. A metodologia
+utilizada teve como objetivo verificar se o padrão de atuação descrito na literatura se aplica
+ao caso específico da interação entre Executivo e Legislativo na alocação e execução
+orçamentária do programa governamental. O estudo abarca o período referente à criação do
+Programa Oferta de Água, em 2012, a partir do Plano Plurianual 2012-2015, até a
+publicação da Lei Orçamentária para 2014. Foram analisados normativos, estudos e
+auditorias que versam sobre o programa. Além disso, o trabalho debruçou-se sobre o tipo e
+o conteúdo das emendas parlamentares incidentes sobre o programa. A pesquisa abrange a
+realização de 10 entrevistas semiestruturadas junto aos responsáveis pelo programa e pela
+elaboração, execução e acompanhamento da lei orçamentária nos Poderes Executivo e
+Legislativo. A análise da alocação e da execução orçamentária levou à discussão detalhada
+sobre os conflitos e ajustes entre os dois Poderes. Nesse sentido, a pesquisa demostrou as
+implicações decorrentes do arranjo institucional do processo orçamentário no desenrolar do
+programa Oferta de Água. Constatou-se que as emendas parlamentares individuais
+destinadas ao Oferta de Água podem ser enquadradas no conceito do Pork Barrel. Todavia,
+tais emendas tem importância limitada frente aos demais aspectos da atuação parlamentar.
+Dessa maneira, de forma geral, verificou-se que as agenda dos dois poderes, para o caso
+
+específico do programa são complementares.
+
+Palavras-Chave: Executivo, Legislativo, Orçamento, Políticas Públicas, Oferta de Água.
+ABSTRACT
+
+The study investigates the relationship between the Executive and the Legislative
+Powers in the allocation of governmental resources on the Program Oferta de Água,
+included in the Multiannual Plan - PPA 2012-2015. This case study uses qualitative
+methodology, appropriate form to understand the nature of a complex social phenomenon.
+The objective was to verify if the patterns of action described by the literature apply to the
+specific case of the governmental program. The study covers the period initiated with the
+PPA law, 2012, until the publication of the federal budget law for the year 2014. Laws,
+regulations, studies and audits concerning the program were analyzed. Furthermore, the
+work analyzed the type and the contents of the parliamentary amendments related to the
+program. In-depth interviews were carried out with 10 members of the governmental staff,
+located in the Executive and Legislative Powers, responsible for the program and for the
+elaboration, execution and monitoring of the federal budget law. The analysis of the
+budgetary allocation and execution led to a detailed discussion about the conflicts and
+adjustments among the two Powers. In that sense, the study demonstrates the implications
+of the institutional arrangements of the budgetary process on the conduction of the
+program. The evidence suggests that the individual amendments related to the program can
+be categorized as pork. However, those amendments have limited importance if compared
+to other aspects of the parliament action. In general, the agenda of the two federal powers,
+
+in the specific case of the oferta de Água, can be described as complementary.
+
+Keywords: Executive, Legislative, Budget, Public Policy, Oferta de Água.
+LISTA DE QUADROS
+
+Quadro 1 - Entrevistados...................
+
+Quadro 2 - Quadro Resumo do Método de Pesquisa
+LISTA DE TABELAS
+Tabela 1 - Programa Oferta de Água frente ao investimento governamental ................ 48
+Tabela 2 - Emendas Apresentadas frente à LOA ............ eee 49
+Tabela 3 - Valor das emendas incluídas no PAC ............ eee erereercereeannas 49
+Tabela 4 - Percentual dos valores de emendas incluídas no PAC.................... 50
+
+Tabela 5 — Programa Oferta de Água: distribuição das emendas quanto ao tipo de autor... 55
+
+Tabela 7 — Distribuição das despesas de investimentos por local de aplicação ................... 58
+Tabela 9 — Valor total das emendas por local de aplicação: 2012 a 2014............................. 60
+Tabela 10 — Distribuição das dotações por estado... eres 61
+Tabela 11 — Participação relativa do Legislativo nos gasto de investimento do Programa
+Oferta de Água: Lei Orçamentária Anual e despesas executadas (4) .........uimeemeseeeees 63
+Tabela 12 — Execução de emendas individuais em investimento e posição dos
+parlamentares: Programa Oferta de Água. .........ieeeeieeemeeteeereeeeeeeereeeeteeeere tectos 65
+
+Tabela 13 — Taxa de execução das emendas por tipo...................e 66
+CGU
+CODEVASF
+CMO
+DNOCS
+DOH
+DPE
+IFOCS
+IOCS
+LOA
+LDO
+MI
+MPOG
+PAC
+PLOA
+PPA
+SEPAC
+SIAFI
+SIOP
+SOF
+SPI
+TCU
+
+LISTA DE ABREVIATURAS E SIGLAS
+
+Controladoria Geral da União
+
+Companhia de Desenvolvimento do Vale do São Francisco
+Comissão Mista de Planos, Orçamentos Públicos e Fiscalizações
+Departamento Nacional de Obras contra das Secas
+Departamento de Obras Hídricas
+
+Departamento de Projetos Estratégicos
+
+Inspetoria Federal de Obras contra as Secas
+
+Inspetoria de Obras Contra a Seca
+
+Lei Orçamentária Anual
+
+Lei de Diretrizes Orçamentárias
+
+Ministério da Integração Nacional
+
+Ministério do Planejamento, Orçamento e Gestão
+Programa de Aceleração do Crescimento
+
+Projeto de Lei Orçamentária Anual
+
+Plano Plurianual
+
+Secretaria do Programa de Aceleração do Crescimento
+Sistema Integrado de Administração Financeira
+
+Sistema Integrado de Planejamento e Orçamento
+Secretaria de Orçamento Federal
+
+Secretaria de Planejamento e Investimento Estratégicos
+
+Tribunal de Contas da União
+SUMÁRIO
+
+1 INTRODUÇÃO... enero eee ee ee ee eeremeereeeeemeemeereeeereetea 10
+2 REFERENCIAL TEÓRICO... tese eteeeeereeeeceeeeeereertemeereeeectes 21
+2.1 DEMOCRACIA E GOVERNABILIDADE ............. eee 21
+2.2 PRESIDENCIALISMO DE COALIZÃO ............i temente 24
+2.3 TRANSAÇÕES DE INTERESSES ...........cieeemeeeeeeemeeeeeeeeeeemeeeeeeeeeeeerteees 27
+24 PODER DE AGENDA, sas cunsa nai Usada adia aan sa 35
+2.5 ORÇAMENTO E POLÍTICAS PÚBLICAS... 38
+3 METODOLOGIA... eee eteeeeeeeeeeereeeeereeeeeee creme erereereeeeers 41
+4 DISCUSSÃO E RESULTADOS. uu acumanaaenaranuascaeaseenamacasan consumos 47
+4.1 FASE LEGISLATIVA DO PLOA........... teresa 48
+42 EXECUÇÃO ORÇAMENTÁRIA ........... temer 62
+4.3 ORÇAMENTO IMPOSITIVO............ rimar 67
+5! CONSIDERAÇÕES.FINAÍS. snes canas 69
+
+6 REFERÊNCIAS ......... eee eee re eee rerernda 75
+10
+
+1 INTRODUÇÃO
+
+A maneira pela qual transcorrem as decisões políticas se constitui em importante
+subárea do campo de estudo das políticas públicas. Para compreensão das complexidades
+inerentes ao processo decisório político, recorre-se de maneira frequente à separação da
+decisão em seus componentes (LINDBLOM, 1981).
+
+Em primeiro lugar, estuda-se como surgem os problemas de decisão política e
+como os problemas entram para a agenda das autoridades governamentais. Em seguida, a
+questão é como são formulados os temas da ação governamental, como acontece a ação
+legislativa e como os administradores aplicam a política escolhida. Finalmente, o foco recai
+sobre o final do processo de políticas públicas, em como a política pode ser avaliada
+(LINDBLOM, 1981).
+
+Todavia, a lição de Lindblom (1981) ensina que o processo decisório nas políticas
+públicas não é um processo ordenado, que pode ser facilmente divisível em fases distintas.
+Segundo o autor, o processo decisório é algo extremamente complexo, sem princípio nem
+fim e com limites incertos. Nesse sentido, seu estudo é por vezes difícil e inconclusivo, o
+que não significa que não deva ser tentado (LINDBLOM, 1981).
+
+No que se refere ao processo decisório relacionado às políticas públicas, regimes
+democráticos enfrentam dificuldades adicionais, uma vez que o número de atores atuantes
+sobre as políticas é maior, exigindo arranjos governamentais complexos para a cooperação
+mediante ajuste mútuo (LINDBLOM, 1981). A necessidade de que os formuladores de
+políticas estejam atentos às preferências do eleitorado complica ainda mais as atividades
+dos grupos de interesses e dos líderes partidários típicos da democracia (LINDBLOM,
+1981).
+
+Dentre as complicações da liberdade, existe a deliberada divisão e sobreposição de
+autoridade que acaba por fazer com que os diversos participantes do processo político se
+especializem e, ao mesmo tempo, interfiram uns sobre os outros (LINDBLOM, 1981). Tal
+característica tem relação direta com o sistema de freios e contrapesos. Assim, mesmo que
+
+o Poder Executivo opte por uma determinada linha de ação, o Congresso Nacional serve
+1
+
+como segunda instância para as decisões tomadas pelo Presidente. Da mesma forma,
+decisões congressuais podem sofrer veto presidencial.
+
+Essa e outras características inerentes ao sistema político tornam ainda mais
+complexo o processo decisório. O Legislativo com duas casas, por exemplo, faz com que a
+deliberação seja mais custosa. Assim, as complexidades da política democrática exigem
+métodos especiais de organização e coordenação, mediante ajuste mútuo não previstos
+pelas regras formais (LINDBLOM, 1981).
+
+Devido à necessidade de organização, delegação, especialização e liderança,
+criam-se soluções institucionais na tentativa da dar ordem ao processo decisório. No âmbito
+do Congresso Nacional, por exemplo, o sistema de comissões foi uma das soluções
+encontradas na tentativa de estabilizar e resolver conflitos em um quadro de inúmeros
+temas e questões a serem debatidos e votados (LINDBLOM, 1981). Da mesma maneira, a
+preponderância do poder de agenda do Executivo sobre o Poder Legislativo surge como
+solução institucional para a estabilidade do sistema (SANTOS, 2007).
+
+Importante produto do processo de decisão política, as políticas públicas são o
+resultado da interação de múltiplos atores, cada um com suas preferências e incentivos. A
+partir dos acordos, conflitos e regras estabelecidos por esses atores é que são escolhidas as
+diretrizes e linhas de ação para as diversas políticas. Especificamente, a elaboração e a
+execução do orçamento anual são contextos em que ocorre o diálogo entre as distintas
+forças políticas. É por meio do orçamento que as variadas demandas por serviços públicos
+são consubstanciadas e as prioridades do governo são externadas à população.
+
+As interações entre os atores geram, invariavelmente, custos de transação.
+Especificamente sobre o processo orçamentário, as características institucionais do sistema
+político brasileiro produzem variados contextos que moldam o comportamento dos atores
+envolvidos (BARTLE e MA 2001).
+
+Dessa forma, o arranjo institucional presente em determinado sistema político não
+é obra do acaso. Tais características refletem efetivamente uma escolha social realizada no
+momento inicial de desenho das regras, que, por sua vez, são escolhidas pelos atores
+participantes do jogo político e refletem um equilíbrio social, no sentido microeconômico
+
+do termo (MELO, 2007).
+12
+
+Na definição das regras do jogo, que nascem da interação entre os atores políticos,
+e com o objetivo de resolver problemas de custos de transação, algumas estruturas
+economicamente ineficientes podem persistir. Na alocação dos recursos orçamentários, por
+exemplo, a aparente falta de disciplina com os gastos públicos pode refletir, na realidade,
+um equilíbrio político implícito, no sentido de acomodação dos interesses das diversas
+forças atuantes sobre o sistema (BARTLE e MA, 2001).
+
+Levando em consideração as ideias expostas e revisão dos marcos teóricos sobre o
+tema, este trabalho investiga a influência do Poder Legislativo na alocação dos recursos
+governamentais das políticas públicas. Em especial, a pesquisa trata das características
+institucionais do processo orçamentário do programa Oferta de Água. Mais
+especificamente, o trabalho foca a relação entre os Poderes Executivo e Legislativo nesse
+processo.
+
+A partir das premissas de erradicação da miséria, com a universalização dos
+serviços básicos de saneamento e saúde pública, além da disponibilização da oferta de água
+como indutor do desenvolvimento econômico, o Programa 2051 - Oferta de Água, do Plano
+Plurianual - PPA 2012-2015 (BRASIL, 2011), pretende realizar a implementação de uma
+política de integração nacional que atue sobre disparidades regionais, sejam elas sociais e
+econômicas ou de disponibilidade hídrica.
+
+O principal projeto do Programa é a transposição do Rio São Francisco.
+Atualmente, este projeto está sob responsabilidade do Ministério da Integração Nacional e
+tem como objetivo final assegurar a oferta de água, no ano de 2025, a cerca de 12 milhões
+de habitantes de pequenas, médias e grandes cidades da região semiárida dos estados de
+Pernambuco, Ceará, Paraíba e Rio Grande do Norte (BRASIL, 2004).
+
+A primeira vez que se considerou a transposição do São Francisco foi em 1847,
+quando Marcos de Macedo, engenheiro e deputado pelo estado do Ceará, apresentou a ideia
+para o então Imperador Dom Pedro II (CASTRO, 2011). Ainda durante o segundo reinado,
+o projeto voltou à baila por duas vezes. Primeiro, por uma comissão científica chefiada pelo
+Barão de Capanema. Segundo, por proposta resultante de estudos do engenheiro Tristão
+Franklin Alencar (Idem).
+
+Após a Proclamação da República, o projeto de transposição foi relembrado
+
+por diversas vezes. Em 1909 e em 1919 a Inspetoria de Obras Contra a Seca - IOCS, no
+13
+
+primeiro caso, e da Inspetoria Federal de Obras contra as Secas - IFOCS, no segundo,
+consideraram a construção de um canal que ligaria o Rio São Francisco ao Jaguaribe,
+planos logo arquivados (VIANA, 2011).
+
+Projeto semelhante voltaria a ser aventado em 1981, quando técnicos do
+Departamento Nacional de Obras contra as Secas - DNOCS elaboraram um novo plano de
+ação. O plano, porém, não obteve o apoio político necessário e foi arquivado (VIANA,
+2011).
+
+Durante o governo Itamar Franco, mais especificamente 1993, o Ministro da
+Integração Nacional, Aluísio Alves, propôs a construção de um canal que retiraria até 150
+metros cúbicos por segundo de água do Rio São Francisco para beneficiar os estados do
+Ceará e do Rio Grande do Norte. Contudo, parecer contrário do Tribunal de Contas da
+União — TCU, resultou no arquivamento do processo (VIANA, 2011).
+
+Duas novas versões do projeto foram apresentadas durante o governo Fernando
+Henrique Cardoso. A primeira pela Secretaria Especial de Políticas Regionais do Ministério
+da Integração Nacional - MI; a segunda pela Companhia de Desenvolvimento do Vale do
+São Francisco - CODEVASF. Todavia, por motivos diferentes, não foram levados adiante
+(VIANA, 2011).
+
+O projeto de transposição do Rio São Francisco só começou a sair do papel a partir
+do primeiro mandato do governo do Presidente Luís Inácio Lula da Silva. Encampado pelo
+próprio presidente, a execução do projeto foi incumbida ao então Ministro da Integração
+Nacional, Ciro Gomes.
+
+Para Viana (2011), o governo Lula criou diversas oportunidades políticas para a
+execução da obra. De acordo com a autora, o presidente teria tomado conhecimento da
+proposta durante as Caravanas da Cidadania! Em 2003, a pedido do presidente Lula, foi
+criado um grupo de trabalho para analisar propostas e viabilizar o projeto.
+
+Ainda segundo Viana (2011), a execução da obra tornou-se realidade a partir de
+sua inclusão no Programa de Aceleração do Crescimento — PAC, inserindo o projeto de
+transposição em uma concepção de Estado desenvolvimentista. Essa nova concepção de
+* Lula viajou pelo país durante o primeiro trimestre de 1993. Ele teve conhecimento do projeto de
+transposição por meio de nota elaborada por Otamar Carvalho. Nesse período, Lula também participou de
+reunião em Sousa, na Paraíba, onde o projeto foi apresentado. Nesse evento, liderado pelo Instituto Tancredo
+
+Neves, ligado ao PLF, Lula posicionou-se contrário à obra. Atualmente, Lula é um dos principais defensores
+do projeto (VIANA, 2011).
+14
+
+Estado, a disponibilidade orçamentária decorrente dessa visão, bem como as diversas
+alianças partidárias e com movimentos sociais foram determinantes para a incorporação do
+projeto de transposição à agenda política.
+
+À transposição do São Francisco agregaram-se outros diversos projetos de
+sistemas abastecimento, adutoras, barragens, poços de águas subterrâneas e demais obras de
+infraestrutura hídrica sob responsabilidade do Ministério da Integração Nacional, para
+formar o programa "Oferta de Água", que figura no PPA - 2012-2015, Plano Mais Brasil,
+sob o código 2051 (BRASIL, 2011).
+
+Segundo o Anexo X do PPA 2013-2015, as relações mais desfavoráveis entre
+demanda e oferta de água concentram-se na região Nordeste, no norte do estado de Minas
+Gerais e nos estados do Rio Grande do Sul e de São Paulo, em especial na região
+hidrográfica Atlântico Nordeste Oriental. As regiões do São Francisco e Atlântico Leste
+também apresentam áreas com situação crítica, devido ao baixo índice de chuvas, aliado à
+elevada evapotranspiração, características da região do semiárido nordestino. Nas regiões
+do Paraná e Atlântico Sudeste, a alta densidade demográfica é causa para a situação
+desfavorável de recursos hídricos. No caso das regiões Atlântico Sul e Uruguai, a demanda
+por irrigação torna a relação entre a demanda e a oferta preocupante (BRASIL, 2011).
+
+No contexto do cenário de escassez hídrica do semiárido e da necessidade de água
+para abastecimento humano, é importante mencionar, ainda, as crescentes demandas
+industriais, de turismo e de agricultura irrigada da região, impulsionadas pelo crescimento
+econômico.
+
+De acordo com o PPA, os estados da Bahia, Pernambuco e Ceará, juntos,
+representam 8,3% do PIB do país, e apresentam economias crescentes, conforme
+demonstrado pela instalação de grandes parques industriais, como o Complexo Industrial
+Portuário de SUAPE, em Pernambuco. Frente ao cenário de escassez hídrica, em
+praticamente toda a região Nordeste e norte do estado de Minas Gerais, e aos interesses
+conflitantes, como dos estados de São Paulo e do Rio Grande do Sul, o programa se propõe
+a realizar análise ponderada sobre quais escolhas devem ser priorizadas na implementação
+da política de enfrentamento à escassez de recursos hídricos (BRASIL, 2011).
+
+Dessa forma, a fundamentação do programa constante do PPA 2012-2015 aponta
+
+para a adoção de ações integradas de gestão dos recursos hídricos e de expansão da
+15
+
+disponibilidade de água, com o objetivo de suprir necessidades de abastecimento humano,
+nas regiões com déficit hídrico, e de contemplar os usos múltiplos da água, de modo a
+atender as crescentes demandas da indústria, do turismo, da agricultura e do saneamento
+básico (BRASIL, 2011).
+
+Outro parâmetro utilizado pelo programa para o direcionamento do investimento
+em oferta de água é o mapeamento das ocorrências de seca no país. O reconhecimento da
+situação de emergência ou do estado de calamidade pública devido a desastres naturais é
+realizado pelo poder executivo federal e se dá mediante requerimento do afetado (Poder
+Executivo municipal, estadual ou distrital). Observa-se concentração dos registros e a
+recorrência de secas no estado do Rio Grande do Sul, na região Nordeste e no norte de
+Minas Gerais (BRASIL, 2011).
+
+O problema da seca do Nordeste se coloca ao longo do tempo e as possíveis
+estratégias de enfrentamento contam com grupos defensores e opositores bastante
+consolidados. Viana (2011) analisa o projeto de transposição do Rio São Francisco sob o
+modelo de coalizão de defesa (advocacy coalition). Sob essa ótica, a política pública é
+concebida como um conjunto de subsistemas relativamente estáveis, que se articulam com
+os acontecimentos externos, os quais conferem os parâmetros para os constrangimentos e
+os recursos de cada política pública (SOUZA, 2006).
+
+Para o modelo de coalizão de defesa, crenças, valores e ideias são importantes
+dimensões do processo de formulação de política pública. Dessa forma, cada subsistema
+que integra uma política pública seria composto por um número de coalizões de defesa que
+se distinguem pelos seus valores, crenças e ideias, bem como pelos recursos de que
+dispõem (SOUZA, 2011).
+
+O modelo de Coalizões de Advocacia serve para lidar com problemas complexos,
+em que há disputas técnicas e políticas importantes, que envolvem múltiplos atores, em
+diferentes níveis de governo. Para os defensores desse tipo de análise, as políticas públicas
+são transformadas a partir da interação entre pessoas inseridas em uma comunidade
+política. Essas pessoas atuam para reforçar o seu poder e desenvolver formas melhores para
+lidar com os problemas identificados (VIANA, 2011).
+
+Com o modelo de Coalisões de Advocacia como pano de fundo, Viana, a partir de
+
+detalhado resgate histórico acerca do debate que acompanha à transposição do Rio São
+16
+
+Francisco, divide o território afetado em duas regiões, a da Bacia do Rio São Francisco e a
+do semiárido do Nordeste Setentrional. Segundo a autora, a separação é realizada com base
+no Plano Estratégico de Desenvolvimento do Semiárido, elaborado pelo Ministério da
+Integração no ano de 2005 (BRASIL, 2005). A área a ser beneficiada pela obra é
+denominada Sertão Norte ou Região Interiorana dos Estados do Nordeste Setentrional.
+
+De forma simplificada, Viana aponta que os grupos políticos federais e estaduais
+que se opõem ao projeto tendem a se localizar na Bacia do Rio São Francisco. Aliam-se aos
+opositores grupos ligados ao movimento ambientalista.
+
+Grupos políticos com representatividade no Nordeste Setentrional convergem
+favoravelmente à transposição. Também posicionam-se favoravelmente grupos de técnicos
+e políticos responsáveis pela condução do empreendimento. Este último segmento tem
+posicionamento mais moderado e busca a conciliação de interesses. Nesse sentido, foi
+introduzida a priorização da dessedentação de humanos e animais dentre os princípios do
+programa (VIANA, 2011).
+
+A integração da Bacia do Rio São Francisco, de acordo com o projeto hoje em
+execução, pretende beneficiar 390 municípios. O projeto prevê a retirada contínua de 26,4
+metros cúbicos por segundo de água, o que equivale a 1,4% da vazão que será garantida
+pela barragem de Sobradinho. Da vazão prevista para o projeto, 16,4 metros cúbicos por
+segundo beneficiarão o Eixo Norte e 10 metros cúbicos por segundo o eixo Leste
+(BRASIL, 2013).
+
+Para os defensores da política, a transposição de águas é uma política distributiva,
+uma vez que, segundo seu argumento, os rios com águas a serem desviadas tem volume
+suficiente para manter o nível de consumo das populações atualmente beneficiadas, bem
+como dos possíveis beneficiários da política (VIANA, 2011).
+
+Por fim, cabe salientar que a concepção do Programa Oferta de Água contempla
+apenas Sistemas Integrados de Abastecimento (em contraposição com sistemas isolados de
+abastecimento). Tais empreendimentos são de maior envergadura e tem a capacidade de
+afetar mais de uma localidade (BRASIL, 2011).
+
+Tendo como referência essa contextualização, o objetivo da pesquisa foi investigar
+como a atuação do Poder Legislativo influencia o processo orçamentário do programa
+
+Oferta de Água. Para isso, os objetivos específicos foram: caracterizar o papel do
+17
+
+Legislativo no processo orçamentário de forma geral; analisar a participação do parlamento
+na alocação orçamentária do Programa Oferta de Água; e discutir as influências do
+parlamento na execução orçamentária do Programa.
+
+Cabe ressaltar, quanto à temática relacionada ao Rio São Francisco, que este
+trabalho tratou apenas de aspectos ligados à sua transposição, ou seja, o deslocamento de
+parte das águas do rio para áreas com déficit de recursos hídrico. Não obstante a pertinência
+da discussão acerca de aliar a transposição de águas à revitalização da bacia do rio -
+Integração da Bacia do Rio São Francisco, esta não será discutida. O programa em que se
+insere o objeto de pesquisa é o Oferta de Água, que não contempla projetos ligados à
+revitalização da Bacia. Tais projetos, na forma do PPA 2012/2015, estão atrelados ao
+Programa de Conservação e Gestão de Recursos Hídricos, sob responsabilidade do
+Ministério do Meio Ambiente.
+
+Anteriormente à análise do papel do Poder Legislativo, no processo orçamentário
+do Programa Oferta de Água, fez-se necessária discussão acerca da implementação de
+políticas públicas de maneira geral. Sobre o assunto, Melo e Silva (2000) observam que
+estudos de situações concretas revelam um padrão em que prevalece a troca, a negociação,
+a barganha, o dissenso e a contradição quanto aos objetivos da política. Na prática, em
+lugar de controle, autoridade e legitimidade, há ambiguidade de objetivos, problemas de
+coordenação inter e intragovernamental, recursos limitados e informação escassa (MELO e
+SILVA, 2000). A implementação pode ser melhor representada como um jogo entre
+implementadores, em que papéis são negociados, os graus de adesão ao programa variam, e
+os recursos entre atores são objeto de barganha (MELO e SILVA, 2000).
+
+Nessa perspectiva, o policy cycle não é simples e linear, e nem tem um ponto de
+partida claramente definido. Ele é melhor representado por uma rede complexa de
+formuladores, implementadores, stakeholders e beneficiários que dão sustentação à política.
+(MELO e SILVA, 2000).
+
+Segundo Melo e Silva (2000), o desenho de estruturas de incentivo que promovam
+arranjos cooperativos em redes de implementação representa questão central para a política
+pública. Os autores destacam a importância dos mecanismos de coordenação para a
+implementação de políticas públicas em ambientes democráticos e descentralizados, como
+
+no caso em questão.
+18
+
+Nesse sentido, a implementação de políticas públicas passa a estar relacionada
+com estruturas de governança, ou seja, em regras do jogo e arranjo institucional que dão
+sustentação à cooperação, à coordenação e à negociação. O desenho de estruturas de
+incentivo que promovam arranjos cooperativos em redes de implementação representa
+questão central para a política pública (MELO e SILVA, 2000).
+
+Para Cunha (2011), consórcios públicos podem ser uma boa opção para a
+articulação de políticas de saneamento básico, recursos hídricos, desenvolvimento urbano e
+saúde pública. Entretanto, a cooperação nessas áreas depende muito mais do
+aprimoramento dos mecanismos de planejamento governamental do que da formação de
+novas organizações estatais (CUNHA, 2011).
+
+Na prática o programa Oferta de Água parece tratar-se de política eminentemente
+top-down. Para Ham e Hill (1993), as políticas top-down são entendidas como propriedade
+dos policy makers situados no topo das organizações como atores que têm o controle do
+processo de formulação. Nesse contexto de política, o hiato entre as aspirações desses
+atores localizados num plano central e a realidade na ponta seria a causa dos déficits de
+implementação.
+
+Assim, para o caso em questão, assevera-se a crítica ao modelo de cima para baixo
+debatido por Hill (2006). Para o autor, esse ponto de vista é fundamentado,
+equivocadamente, no modelo de estágios, buscando uma nítida distinção entre as etapas de
+formulação e implementação de políticas, cujos objetivos e metas foram decididos
+previamente, isto é, implica a existência de um momento anterior à ação, que abarca o
+processo de formulação e tomada de decisão. A barganha, a negociação e o debate sobre a
+política pública seriam dispensáveis, em favor da decisão autoritária e sem a deliberação
+que é típica de regimes políticos democráticos.
+
+O Programa Oferta de Água não foge à complexidade inerente à implementação de
+políticas públicas. Apesar de contar com orçamento elevado, R$ 3,9 bilhões em 2014, e ter
+inclusas no PAC grande parte de suas ações, o programa sofre com dificuldades na
+execução das obras. Vale lembrar que, a partir da instituição do PAC, os Decretos de
+Programação Orçamentária e Financeira editados pelo Poder Executivo excetuam as obras
+do programa do contingenciamento orçamentário. Assim, pelo menos em teoria, os projetos
+
+previstos no Programa Oferta de Agua não sofreriam com escassez de recursos.
+19
+
+Para a Controladoria Geral da União — CGU, grande parte do diagnóstico de baixo
+índice de execução deve-se a dificuldades nos projetos de engenharia apresentados e de
+acompanhamento das obras (CGU, 2013). De acordo com o órgão de controle (2013),
+verificam-se também problemas relativos ao planejamento e controle inadequados dos
+empreendimentos, o que resulta em falhas ao longo de todo o processo licitatório e de
+execução. A CGU também aponta deficiência no acompanhamento do projeto pelos
+gestores do Ministério da Integração Nacional. Para a CGU (2013), existem fragilidades
+nos controles internos realizados pela equipe do Ministério, tendo em vista o alto índice de
+alterações contratuais e, inclusive, ajustes nos Projetos Executivos, após a execução dos
+serviços, demonstrando que o MI não tem o domínio quanto o que será executado.
+
+Pelas características de importância para a agenda governamental e de
+descentralização na aplicação dos recursos do programa, o orçamento do Programa Oferta
+de Água, quando da análise pelo Congresso Nacional, é alvo de intensa discussão e, a partir
+dela, surgem diversas emendas parlamentares. Por exemplo, no Projeto de Lei
+Orçamentária de 2014, foram apresentados R$ 514,6 milhões em emendas”.
+
+Dentro da lógica atribuída à atuação dos congressistas, na qual esses agiriam,
+principalmente, com a finalidade de direcionar recursos para suas bases eleitorais
+(PEREIRA E MUELLER, 2002), o Programa Oferta de Água, por sua característica de
+descentralização geográfica da aplicação dos recursos, torna-se significativo para estudo de
+caso sobre a atuação do Congresso Nacional em relação às decisões orçamentárias.
+
+Nesse sentido, esta pesquisa realizou estudo sobre as implicações do arranjo
+institucional no processo orçamentário, em especial, da relação entre os Poderes Legislativo
+e Executivo e das características da atuação do parlamento no momento da definição da
+proposta orçamentária e ao longo da execução financeira do Programa Oferta de Água.
+
+Esta dissertação está organizada em cinco capítulos. Após a introdução, o segundo
+capítulo abrange o referencial teórico. Nele, inicialmente, discute-se a relação entre
+democracia e governabilidade. Em seguida, aborda-se a literatura que trata das
+
+características institucionais do presidencialismo brasileiro e sua relação na forma de
+
+? Fonte: Sistema Siga Brasil. Disponível em: <http:/Awww 12.senado.gov.br/orcamento/sigabrasil>. Acesso em:
+02 de outubro de 2013.
+
+ 
+20
+
+interação entre Executivo e Legislativo. O propósito das duas primeiras seções é
+contextualizar a discussão que se seguirá.
+
+A partir daí, o referencial teórico apresenta dois importantes eixos de discussão
+acerca da dinâmica do relacionamento entre os dois poderes — transação de interesses e
+poder de agenda. Por fim, discutem-se aspectos inerentes às políticas públicas e como estes
+podem influenciar na dinâmica existente Executivo e Legislativo.
+
+O terceiro capítulo apresenta a metodologia utilizada na pesquisa. Além da
+bibliografia discutida no referencial teórico, foram alvo de pesquisa documentos oficiais,
+relatórios de auditoria, leis, regulamentos, além da própria peça orçamentária e de dados de
+sua execução. A metodologia também incluiu etapa de entrevistas junto a pessoas
+envolvidas no processo orçamentário do programa.
+
+Apresentada a metodologia, passa-se à discussão dos resultados. Nesse capítulo, a
+análise é realizada a partir de informações empíricas coletadas junto ao Sistema Integrado
+de Planejamento e Orçamento - SIOP, ao Sistema Integrado de Administração Financeira -
+SAFI e ao Sistema Siga Brasil do Senado Federal. Nessa etapa as entrevistas se mostraram
+de importância fundamental para a interpretação dos dados coletados.
+
+Por fim, o último capítulo condensa as conclusões decorrentes da análise dos
+dados realizada no capítulo anterior. Ao final do trabalho é apresentado quadro geral sobre
+a relação entre os Poderes Executivo e Legislativo no processo orçamentário do Programa
+
+Oferta de Água.
+21
+
+2 REFERENCIAL TEÓRICO
+
+Este capítulo debate as relações entre os Poderes Legislativos e Executivo no
+Brasil. Todavia, antes que se inicie a discussão acerca deste tema, será apresentada a
+relação entre democracia e governabilidade, sendo o pano de fundo para a discussão sobre a
+relação entre os dois poderes.
+
+As características do presidencialismo brasileiro e sua influência sobre o
+relacionamento entre Executivo e Legislativo também serão abordadas. A partir daí são
+apresentados dois importantes eixos de discussão sobre o tema. Primeiro, os argumentos
+que embasam trabalhos a partir de visão voltada para a transação de interesses entre os dois
+Poderes. A sessão seguinte analisa a relação sobre a ótica do poder de agenda que dispõe o
+Poder Executivo. Por fim, serão feitas considerações sobre aspectos inerentes à política
+
+pública e como tais aspectos influenciam a relação entre os Poderes.
+
+2.1 DEMOCRACIA E GOVERNABILIDADE
+
+Nome proeminente no debate acerca da relação entre governabilidade e
+instituições em ambiente democrático, Huntington (1968) argumenta que problemas de
+governabilidade podem ser traduzidos como crise da democracia. Segundo o autor a falta
+de governabilidade não é problema relacionado à acumulação de recursos, bens e serviços
+aos cidadãos, mas é, principalmente, um problema de natureza política: autonomia,
+complexidade, coesão e legitimidade das instituições. Na sua exposição, a governabilidade
+em ambiente democrático depende do relacionamento entre autoridade de suas instituições
+de governo e da força de suas instituições de oposição.
+
+De acordo com o autor, as instituições políticas devem mostrar-se autônomas
+frente aos interesses cujo confronto visam regular. A sociedade, por sua vez, é aquela em
+que tais instituições se acham, em virtude dessa autonomia, defendida das mudanças do
+jogo cotidiano dos interesses, em vez de serem a mera expressão cambiante de tais
+
+variações.
+22,
+
+Por outro lado, as instituições políticas devem igualmente caracterizar-se por sua
+adaptabilidade, ou seja, devem mostrar-se sensíveis à multiplicidade de interesses e forças
+sociais, que se dão na sociedade, em particular aos novos focos de interesses que emergem
+de todos os lados.
+
+Para Bobbio, Matteucci e Pasquino (1995), sob a concepção de Huntington a
+democracia torna-se mais forte quando mais organizada, sendo que o crescimento da
+participação política deve ser acompanhado pela institucionalização dos processos e das
+organizações políticas. Quando, porém, diminui a autoridade política, tem-se a não-
+governabilidade.
+
+Discorrendo sobre a mesma temática, Fabio Wanderley Reis (2009) argumenta
+que governabilidade é um atributo daquilo que é governado, isto é, da sociedade. No
+entanto, o uso recente do termo a indica como uma característica da máquina do estado,
+tomando-a com sinônimo da capacidade estatal de governar. Tal impropriedade no uso da
+palavra expressa importante confusão de natureza substantiva, na qual se contrapõem
+perspectivas alternativas com respeito à análise dos problemas envolvidos. Segundo o
+
+autor:
+
+Se a governabilidade se reduzisse a uma questão de ajustar a máquina do estado,
+é de se supor que bastaria adotar, para equacioná-la, a perspectiva técnica própria
+da administração como disciplina especial, cujas recomendações, atrevo-me a
+propor, se aproximam com frequência de certo bom senso acaciano, mesmo
+quando travestidas em roupagens novas como a da “qualidade total” ou da
+“reengenharia”, Seja como for, tudo se resumiria, neste caso, em coisas como
+encontrar o tamanho certo do estado, tornar mais ágeis seus mecanismos
+operacionais nas funções reconhecidas como próprias dele etc.
+
+A eficácia supõe que os fins da ação do Estado tenham sido fixados com clareza e
+precisão, de forma a que se possa ponderar acerca dos meios a serem mobilizados para
+assegurar eficiência na realização de tais fins. Para Reis (2009), sob a ótica da eficiência, a
+concepção de estado que tende a se destacar é a do Estado como instrumento, e, muitas
+vezes, sujeito autônomo, do esforço de realização de fins preconcebidos.
+
+De outro lado, a concepção democrática envolve, por definição, a problematização
+do processo de fixação dos fins da ação do Estado, como o reconhecimento de que há fins
+diversos e às vezes antagônicos e de que é preciso agregar fins múltiplos, de forma a
+
+abarcar a multiplicidade dos interesses de que são portadores os diferentes grupos e
+23
+
+categorias da sociedade. Tais interesses devem ser compatibilizados por negociações e o
+processo de definição de prioridades deve ser percebido como legítimo (REIS, 2009).
+
+A concepção da democracia como meta enxerga o Estado com uma arena, em que
+os interesses diversos devem ser identificados e ter lugar na discussão. Nesta visão, o
+Estado, em lugar de mero agente da realização de fins dados ou mesmo formulador
+autônomo e autoritário desses fins, surge como expressão complexa e flexível (e, segundo o
+autor, morosa e emperrada, como consequência) da multiplicidade que é a sociedade.
+
+Tais ponderações ajudam a situar alguns dos problemas que se colocam na agenda
+política brasileira, tais como o das conexões entre o funcionamento eficiente do sistema de
+governo, por um lado, e do sistema de partidos, por outro.
+
+Dentro desse espírito, Santos (1997) argumenta que a discussão sobre o tema
+ultrapassa o marco operacional para incorporar questões relativas a padrões de articulação e
+cooperação entre atores sociais, políticos e arranjos institucionais que coordenam e regulam
+transações dentro e por intermédio das fronteiras do sistema econômico.
+
+Assim, a Governabilidade englobaria, também, a capacidade de um sistema
+político produzir políticas públicas que resolvam os problemas da sociedade, isto é, a
+capacidade de o sistema político captar diversas demandas da sociedade e resistir às
+pressões, tanto internas quanto externas, sem entrar em colapso. Para tanto, é preciso
+canalizar esses distúrbios em políticas governamentais satisfatórias, que terminariam por
+reforçar o apoio ao sistema político (SANTOS, 1997b).
+
+O sistema político, portanto, deve ser capaz de identificar problemas da sociedade
+e oferecer soluções por meio de políticas públicas, entre outros produtos políticos.
+Ademais, deve ser capaz de implementar as políticas formuladas, mobilizando de forma
+coordenada e eficiente os recursos políticos, organizacionais e financeiros necessários
+(SANTOS, 1997b).
+
+Dessa maneira, tanto formulação quanto implementação de políticas públicas são
+aspectos relevantes no que se refere à capacidade governativa de um Estado. A justificativa
+para o presente trabalho se apoia nessa discussão. Em que medida o padrão de relação
+existente entre os Poderes Executivo e Legislativo está relacionada com a implementação
+
+da política pública, nesse caso específico do Programa Oferta de Água? Santos (1997b)
+24
+
+destaca como elemento crucial constitutivo da capacidade governativa no Brasil justamente
+o processo de tomada de decisão envolvendo as relações Executivo-Legislativo.
+
+A formulação de políticas públicas depende, de um lado, do sucesso dos atores
+políticos em mobilizar apoio para as políticas de sua preferência, mediante a formação de
+coalizões de sustentação, e, de outro, da construção de arenas de negociação que evitem a
+paralisia decisória (SANTOS, 1997b). O êxito da implementação exige, além de coalizões
+de apoio ao governo, capacidade financeira, instrumental e operacional do Estado
+
+(SANTOS, 1997b)
+
+2.2 PRESIDENCIALISMO DE COALIZÃO
+
+Na literatura que trata dos efeitos do arranjo institucional no processo de políticas
+públicas é recorrente a ideia de que países governados por coalizões multipartidárias, como
+o Brasil, apresentam custos de barganha mais altos se comparados a governos formados por
+partidos majoritários (PORTEBA, 1994 e STEIN, TALVI e GRISANTI, 1998). O custo de
+criação e manutenção das coalizões envolveria uso político de recursos públicos, nas
+formas de patronagem, clientelismo e patrimonialismo, impedindo, assim, que o governo
+priorizasse suas preferências de políticas públicas (MAINWARING, 1999).
+
+A existência de múltiplos partidos tende a incluir na arena política diferentes
+ideologias, minorias e interesses locais e, dessa forma, a aumentar o número de posições
+discordantes. Além disso, as coalizões multipartidárias aumentam consideravelmente o
+número de veto players” no sistema político.
+
+Para a implementação de uma nova política pública, ou para a aprovação de nova
+legislação, devem ser considerados os custos envolvidos no processo democrático de
+convencimento dos diversos agentes de veto existentes. Espera-se, portanto, que a
+estabilidade das políticas públicas implementadas por governos constituídos por grandes
+
+coalizões partidárias, como no caso brasileiro, seja maior do que as oriundas de governos
+
+3 Tsebelis (1995) conceitua veto players como um ator individual ou coletivo cuja concordância é requerida
+para tomar a decisão de mudar uma política. O número de veto players varia de acordo com o assunto em
+discussão. Cada tema tende a mobilizar diferentes atores que atuam oportunisticamente para que seus
+interesses sejam atendidos. De maneira geral, quanto maior o número de agentes de veto, maior o esforço para
+que se consiga alterar o status quo. Assim, a estabilidade das políticas públicas, em um sistema político,
+aumenta quando crescem o número de veto players.
+25
+
+compostos por partidos majoritários. De outro lado, a capacidade governamental para dar
+respostas rápidas a novas demandas sociais fica comprometida (PORTEBA, 1994).
+
+Outros fatores do desenho institucional do sistema político brasileiro também
+propiciariam um ambiente de elevados custos relacionados à tomada de decisão. Scartascini
+(2011) defende, por exemplo, que o bicameralismo, se comparado ao unicameralismo, pode
+incrementar o número de jogadores relevantes (e, portanto, de agentes de veto) e fazer com
+que mudanças de status quo se tornem mais difíceis. Assim, para que mudanças ocorram,
+antes devem passar por um processo de cooperação e conflito entre as duas câmaras.
+
+Sistemas proporcionais de lista aberta, em que candidatos pertencentes a um
+mesmo partido competem entre si por votos, incentivariam a formação de facções em uma
+mesma agremiação, resultando em maiores esforços para a tomada de decisão
+(SCARTASCINI, 2011). Dessa forma, para que uma decisão seja tomada, mesmo que
+internamente a um partido, poderia haver um processo de elevado conflito e intensa
+barganha.
+
+Enquanto sistemas de lista fechada promoveriam a disciplina partidária e a busca
+sinérgica de votos para o partido, nos sistemas de lista aberta os legisladores tenderiam a
+favorecer as estratégias que incrementem a expectativa de votos pessoais, mesmo que em
+detrimento do partido (SCARTASCINI, 2011).
+
+Do mesmo modo, parte da literatura que trata do tema enfatiza que sistemas
+eleitorais proporcionais teriam menor capacidade de produzir decisões rápidas e efetivas,
+vez que, de maneira geral, possuem múltiplos pontos de veto (MELO, 2007). Segundo
+Melo, esse referencial teórico argumenta que sistemas proporcionais tendem a existir em
+sociedades com autoridade política dispersa e que, por esse motivo, teriam propensão a que
+sejam observadas maiores dificuldades em alcançar objetivos coletivos nacionais, se
+comparadas a sociedades com autoridade política concentrada.
+
+As características do sistema político brasileiro levariam, portanto, a uma paralisia
+decisória, em que parlamentares não teriam incentivo a cooperar com o executivo. A
+combinação de coalizões multipartidárias, bicameralismo e sistemas proporcionais de lista
+aberta resultaria em um sistema político ingovernável, em que a multiplicidade de agentes
+
+de veto dificultaria sobremaneira a capacidade de decisão.
+26
+
+Todavia, resultados obtidos por estudos que tratam das relações Executivo-
+Legislativo no Brasil não ratificaram a visão de que as instituições políticas deveriam sofrer
+reformas a fim de que se dotasse o presidencialismo brasileiro de governabilidade. Na
+realidade, a observação do comportamento congressual não revela indisciplina partidária
+nem tampouco um Congresso como um agente de veto institucional. Muito pelo contrário,
+a experiência pós Constituição de 1988 mostra um Congresso que se dispõe a cooperar com
+o Executivo e votar de maneira disciplinada (LIMONGI E FIGUEIREDO, 1998; SANTOS,
+1997a).
+
+A partir dessas características do atual sistema político brasileiro, a literatura sobre
+o tema apresenta dois possíveis eixos de explicação para a ascendência do executivo sobre
+o legislativo e a consequente disciplina congressual. Primeiro, explica-se a preponderância
+decisória do executivo por meio da transação de interesses. Nesse enfoque, se estabelece
+um complexo jogo de transações entre Executivo e parlamentares, trocando apoio
+parlamentar por uma série de concessões importantes para cada legislador
+(BITTENCOURT, 2012; PEREIRA E MUELLER, 2002). Por exemplo, para ver uma
+matéria de seu interesse aprovada, o Executivo poderia liberar a execução de emendas dos
+parlamentares ou conceder cargo em um de seus ministérios para determinado partido
+político.
+
+Segundo, a subordinação do Legislativo explicar-se-ia por meio do poder de
+agenda de que dispõe o executivo (SANTOS, 1997a; LIMONGI e FIGUEIREDO, 1998;
+PEREIRA E MUELLER, 2002). Sob esse prisma, a subordinação adviria das regras
+institucionais que dão poderes ao Executivo para encaminhar ou bloquear propostas de seu
+interesse (BITTENCOURT, 2012). Constituição, leis e regimentos internos das casas
+legislativas confeririam ao executivo poder de agenda sobre as proposições parlamentares.
+Nesse sentido, Limongi e Figueiredo (1998) atentam para o fato de que a Constituição de
+1988 manteve inovações introduzidas pelas constituições vigentes durante o período
+militar. Essas inovações teriam o objetivo de garantir a preponderância legislativa do
+Executivo e maior presteza à consideração de suas propostas legislativas.
+
+A partir das duas vertentes apresentadas - transações de interesses e poder de
+agenda - o trabalho discutirá as principais ferramentas apresentadas pela literatura para
+
+explicar a relação entre executivo e legislativo.
+27
+
+2.3 TRANSAÇÕES DE INTERESSES
+
+Um extenso grupo de autores considera a troca de concessões por apoio
+parlamentar como chave para o entendimento das transações entre Executivo e Legislativo.
+Sob essa perspectiva, o executivo oferece “bens” ao legislativo em troca de apoio
+parlamentar nas votações. Tais “bens” facilitaram a continuidade do acesso dos
+parlamentares à reeleição ou a outro cargo de seu interesse.
+
+E na prática, que bens seriam esses? Um primeiro ponto relevante é o interesse
+parlamentar por rubricas de despesa orçamentária que direcionam os recursos públicos para
+obras e serviços de natureza local. Pereira e Mueller (2002) consideram o controle sobre a
+liberação de recursos destinados às emendas parlamentares individuais à Lei Orçamentária
+Anual - LOA um importante mecanismo de barganha de que dispõe o Poder Executivo.
+
+A liberação de recursos para tais emendas orçamentárias funcionaria como “moeda
+de troca” por apoio político na hora da votação das matérias de interesse do governo.
+Assim, o executivo tenderia a executar emendas dos parlamentares que votam
+sistematicamente com o governo. De forma análoga, puniria com a não liberação de
+recursos os parlamentares que votam contra as proposições de interesse do Executivo
+(PEREIRA E MUELLER, 2002).
+
+As emendas, por sua vez, não refletiriam as prioridades estabelecidas por uma
+política nacional coordenada para enfrentar um problema específico, mas sim os interesses
+de indivíduos empenhados em enfrentar problemas locais. Assim, uma perspectiva parcial e
+local de como enfrentar o problema prevaleceria, em detrimento de uma análise integrada
+de informação sobre o todo o território nacional.
+
+Trata-se da lógica da conexão eleitoral, que propõe como principal motivação do
+comportamento parlamentar o interesse em obter vantagens durante o período de eleições.
+Sob essa lógica, o parlamentar teria por objetivo uma determinada posição eleitoral (seja no
+parlamento ou em quaisquer outro cargo eletivo), e, de acordo com sua conduta
+parlamentar, tal como percebida pela população, terá ou não o apoio dos eleitores para
+
+conquistar o cargo almejado (LEMOS e RICCI, 2011).
+28
+
+Dessa maneira, mantidas constantes as demais condições, quanto maior o valor das
+emendas executadas de um congressista, maiores seriam suas chances de reeleição. O
+sucesso na liberação de emendas já conferiria vantagens suficientes na disputa eleitoral.
+Não haveria, portanto, maiores incentivos à participação efetiva dos parlamentares no
+processo orçamentário.
+
+Sobre o assunto, cabe salientar que não foge à percepção dos autores que debatem
+o tema, e também do presente trabalho, o fato de que a sociedade civil exerce influência,
+via parlamento ou não, sobre as decisões referentes à alocação orçamentária e, de forma
+mais abrangente, às políticas públicas. As considerações deste trabalho, para fins de
+sistematização da pesquisa, tem foco restrito na relação entre os dois poderes.
+
+Sob esse ponto do vista, existem duas lógicas distintas no funcionamento dos
+Poderes Executivo e Legislativo. Para o Executivo interessaria garantir recursos
+orçamentários para seus programas prioritários e para manter a estabilidade fiscal. Ao
+Legislativo interessaria aprovar emendas parlamentares e, apenas de forma secundária,
+garantir recursos para os projetos prioritários (SANTOS, MACHADO E ROCHA, 1997). O
+Legislativo funcionaria, portanto, sob lógica eminentemente eleitoral, sendo que as
+emendas parlamentares seriam os principais mecanismos viabilizadores da vantagem
+eleitoral pretendida.
+
+Tais vantagens seriam distribuídas em uma circunscrição específica, pequena o
+suficiente para permitir a um único parlamentar ser reconhecido como o responsável pela
+benfeitoria. O eleitor, portanto, seria levado a visualizar no parlamentar o responsável
+direto pela alocação de recursos (PIRES JÚNIOR, 2006). Tal situação é conceituada na
+teoria política como Pork Barrel.
+
+O conceito de Pork Barrel não abarca somente uma relação entre parlamentar e
+eleitor, mas, igualmente, uma relação entre o congressista e uma estrutura política local que
+se beneficia do processo de intermediação de benesses e votos (BITTENCOURT, 2012).
+
+Um projeto Pork Barrel típico detém três características principais. Primeiro, os
+benefícios são direcionados a um eleitorado geograficamente bem definido, pequeno o
+suficiente para que um parlamentar sozinho seja reconhecido como seu benfeitor. Segundo,
+
+os benefícios são alocados de tal forma a levar o eleitorado a acreditar que o parlamentar
+29
+
+teve responsabilidade nisto. Terceiro, os custos advindos do projeto são largamente difusos
+ou não são percebidos pelo contribuinte (ELLWOOD, PATASHNIK, 1993).
+
+O Pork Barrel, portanto, resulta em políticas cujos benefícios econômicos ou
+serviços são concentrados em uma área circunscrita geograficamente, mas os custos são
+repartidos por todo território. São políticas que possuem como objetivo agradar
+determinada constituency, ou seja, visam premiar os eleitores de determinado parlamentar.
+
+De acordo com essa teoria, em uma estrutura de Presidencialismo de Coalizão, a
+ausência de trocas do tipo Pork faria com que o Presidente da República conseguisse
+realizar um percentual muito mais baixo de sua agenda de políticas públicas, que, por sua
+vez, seriam mais instáveis e tenderiam a situações de alto conflito (ALSTON e MUELLER,
+2005).
+
+Ocorre que, em contraposição à visão de barganha contínua, Figueiredo e Limongi
+(2008) afirmam não ser possível atribuir ao Congresso um comportamento voltado à
+obtenção de vantagens do tipo Pork Barrel. Para esses autores, existiria um viés de conexão
+eleitoral no estudo da relação entre legislativo e executivo no processo orçamentário. Esse
+viés acabaria por esconder outros aspectos relevantes para o estudo das relações entre os
+Poderes Executivo e Legislativo.
+
+Segundo Figueiredo e Limongi (2008), a literatura especializada parte da premissa
+de que as decisões políticas são balizadas apenas pela estratégia de manutenção de
+mandatos ou cargos pelos políticos. Dessa forma, o comportamento seria sempre office
+seeking e não policy seeking, ou seja, sempre levando em consideração a maximização da
+probabilidade de reeleição em detrimento, caso necessário, das boas práticas na gestão de
+políticas públicas e do orçamento (FIGUEIREDO E LIMONGI, 2008).
+
+Ao se examinar empiricamente a tese de que votos parlamentares seriam trocados
+por execução de emendas individuais, Figueiredo e Limongi (2008) afirmam não ter
+conseguido estabelecer relação causal entre os dois fatores. Segundo os autores, qualquer
+que seja o prisma de análise, as emendas individuais não são o meio mais importante de
+participação do Congresso no processo orçamentário. Isso porque, além das emendas
+individuais, o Legislativo pode apresentar outros dois tipos de emendas: as coletivas —
+
+apresentadas por bancadas estaduais e regionais ou por comissões - e as de relatores, que
+30
+
+podem ser de autoria do relator geral ou dos relatores setoriais da Comissão Mista de
+Planos, Orçamentos Públicos e Fiscalizações (FIGUEIREDO E LIMONGI, 2005).
+
+Segundo os autores, a suposição de que emendas coletivas não passariam de
+“euarda-chuvas” sob os quais se esconderiam emendas individuais também não procede.
+Isso porque os procedimentos formais para apresentação desse tipo de emendas garantiriam
+seu caráter coletivo. Dado o quórum exigido para sua apresentação”, essas emendas devem
+conter elevado grau de consenso.
+
+As emendas individuais também não são privilegiadas pelo próprio Legislativo,
+pois, em termos de montante de recursos alocados, as emendas coletivas e as de relatores
+têm precedência sobre as individuais (FIGUEIREDO E LIMONGI, 2005). Para Figueiredo
+e Limongi, como a definição do volume de recursos para as emendas individuais é uma
+decisão interna do Poder Legislativo, tal constatação é suficiente para colocar sob suspeição
+a tese de que o processo orçamentário é orientado exclusivamente para atender os interesses
+individuais dos parlamentares.
+
+A ideia de que emendas serviriam de moeda de troca pressupõe, implicitamente,
+que as emendas individuais dos legisladores iriam de encontro às pretensões de alocação de
+recursos do Executivo. De acordo com esse argumento, quando o presidente decide
+executar recursos de determinada emenda, ele o faz às expensas das prioridades do próprio
+Poder Executivo.
+
+Limongi e Figueiredo (2008) rejeitam essa forma de pensar. Para os autores, em
+grande parte das situações, as agendas dos Poderes Executivo e Legislativo não são
+conflitantes, mas sim complementares. Mais especificamente, quando se executa uma
+emenda, o poder executivo não está deixando de obedecer, também, sua própria agenda.
+Dessa forma, o executivo seria capaz de acomodar grande parte das demandas dos
+parlamentares no interior dos programas por ele definidos como prioritários.
+
+Argumentam os autores que emendas ao orçamento são contempladas sem que os
+votos esperados sejam dados. Da mesma forma, votos são dados sem que a contrapartida, a
+liberação de verbas, ocorra. Assim, o controle sobre a liberação de recursos não explicaria o
+
+comportamento dos parlamentares nas votações nominais.
+
+* No caso das emendas de bancada estadual o quórum é de dois terços da bancada em cada uma das casas.
+31
+
+Nessa linha de pensamento, a existência de diversas restrições na formatação
+institucional do processo orçamentário contribui para que as divergências entre os dois
+poderes sejam menores. Figueiredo e Limongi (2008) reiteram o ponto de que a
+participação do Legislativo no processo orçamentário é circunscrita em função de restrições
+de ordem institucional presentes na Constituição Federal e na legislação ordinária.
+
+Para Figueiredo e Limongi (2008), a literatura que trata da relação entre os
+Poderes Executivo e Legislativo no Processo Orçamentário coloca muita ênfase na
+legislação eleitoral em sua análise. Para os autores, regras internas adotadas pelo próprio
+Legislativo moldam de forma fundamental a maneira pela qual são apresentadas as
+emendas.
+
+Dessa forma, mesmo trabalhando com recursos que na teoria seriam de livre
+alocação, os parlamentares fazem opções sob amarras institucionais impostas pela proposta
+encaminhada pelo Executivo. Ao apresentar suas emendas individuais, os congressistas
+atuam sob forte restrição, apenas assumindo a localidade em que seriam efetuados os gastos
+(FIGUEIREDO E LIMONGI, 2008).
+
+Fortalece a visão de Figueiredo e Limongi a possibilidade de que o controle do
+Executivo sobre a execução do orçamento faz com que os congressistas se antecipem, uma
+vez que a opção por seguir agenda própria, alheia às prioridades do Poder Executivo,
+praticamente eliminaria as chances de futura execução (FIGUEIREDO E LIMONGI,
+2008). A antecipação dos possíveis cortes favoreceria a convergência de interesses.
+
+Todavia, segundo Limongi e Figueiredo (2008), a importância dessa estratégia não
+deve ser exagerada. Para os autores, parlamentares de oposição, por exemplo, teriam
+incentivos a buscar agendas alternativas. A opção pela não execução serviria como
+sinalização para o eleitorado acerca de qual seria sua agenda caso estivesse no governo.
+
+Isso pode ser examinado quando as emendas individuais são agregadas por
+partidos e analisadas de acordo com sua distribuição pelos órgãos responsáveis pela
+execução e pelos programas de governo. De acordo com a argumentação dos autores, o
+grau de liberdade dos parlamentares para a escolha de diferentes políticas públicas é
+bastante limitado, vez que as agendas orçamentárias dos congressistas situados na oposição
+
+são bastante próximas as dos parlamentares pertencentes à base de sustentação do governo.
+32
+
+Existem, portanto, duas correntes principais, quando se trata do estudo do
+comportamento parlamentar, no que se refere ao tipo de jogo político existente nas relações
+entre os poderes Legislativo e Executivo e a execução ou não de emendas parlamentares.
+Um primeiro grupo de autores atribui ao controle sobre a liberação de recursos destinados
+às emendas parlamentares individuais à Lei Orçamentária Anual - LOA um importante
+mecanismo de barganha de que dispõe o Poder Executivo (PEREIRA E MUELLER, 2002).
+
+Sob esse ponto de vista, parlamentares tem o comportamento orientado às
+eleições. Uma segunda corrente considera que as agendas executivas e legislativas, na
+maior parte das vezes, são coincidentes e, por isso, a execução de emendas pode interessar
+ao próprio executivo. Parlamentares fariam opções sob fortes amarras institucionais
+impostas pela proposta encaminhada pelo Executivo. Ao apresentarem suas emendas
+individuais, os congressistas atuariam sob forte restrição, apenas assumindo a localidade
+em que seriam efetuados os gastos (FIGUEIREDO E LIMONGI, 2008).
+
+O presente trabalho pretende identificar, para o caso específico do Programa
+Oferta de Água, se o comportamento parlamentar típico pode ser associado à uma das duas
+correntes. As emendas do programa podem ser caracterizadas como do tipo Pork? As
+agendas Legislativa e Executiva são conflitantes, ou o projetos advindos do Legislativo são
+também do interesse do Executivo?
+
+Ainda sob o enfoque da transação de interesses, importante característica da
+organização político partidária brasileira é o fato de os partidos que compõem a aliança que
+representa a base parlamentar de apoio ao governo estarem representados, diretamente ou
+indiretamente, em postos chave do Poder Executivo (REGO, 2008). Embora realizada pelo
+Presidente, a nomeação para tais cargos decorre diretamente de indicação dos partidos
+políticos, sendo comum que parlamentares assumam tais postos. Para Rego (2008), a
+relação que se estabelece entre os ministros e o partido que integram é bastante ativa. De
+acordo com o autor, os ministros atuam fortemente no atendimento das demandas de suas
+bases partidárias.
+
+Santos (1997a) argumenta que, dado o multipartidarismo verificado no sistema
+político brasileiro, é irreal supor que uma coalizão possa se sustentar única e
+
+exclusivamente com base na afinidade programática. Segundo o autor, em sistemas
+33
+
+multipartidários, é fundamental ter acesso aos cargos governamentais que alocam recursos
+públicos e regulam as atividades dos agentes econômicos e sociais.
+
+O raciocínio é que, em um sistema político como o brasileiro, o poder eleitoral de
+um partido não necessariamente é proporcional à sua influência legislativa. Em virtude do
+multipartidarismo e da natureza das coalizões feitas no interior do Parlamento, um partido
+detentor de um grande número de cadeiras pode ser deslocado dos centros mais importantes
+de decisão congressual. De outro modo, um partido com menor número de assentos, a
+depender de seu perfil ideológico, pode ter seu poder decisório ampliado,
+consideravelmente, se sua adesão for importante para a formação da coalização
+parlamentar.
+
+Em um sistema bipartidário, o partido que obtiver o maior número de cadeiras
+define a agenda legislativa e detém o comado das decisões. Nesse caso, a luta pelo maior
+número possível de vagas é decisiva, pois, sem isso, é praticamente impossível exercer
+qualquer influência na composição da agenda. Assim, o comportamento dos membros do
+Parlamento, sejam líderes partidários ou não, adequa-se de forma natural a uma ou a outra
+situação.
+
+Dessa forma, diferentemente de sistemas bipartidários, no multipartidarismo, a
+decisão acerca da participação da coalizão governamental de apoio aos presidentes não
+dependeria apenas do grau de concordância com o programa de governo, mas também do
+acesso a cargos políticos distribuídos em troca dessa cooperação. A coalizão formada
+apenas por similitude ideológica entre os partidos só se sustenta enquanto o tamanho do
+grupo que concorda com todas as propostas de políticas for suficientemente grande para
+garantir vitórias parlamentares sistemáticas (SANTOS, 1997a). Por sua vez, a coalizão
+sustentada pela distribuição de cargos se mantém até o momento em que o valor dos postos
+obtidos pela participação na coalizão presidencial for igual ou superior ao valor esperado
+pela obtenção de cargos que derivam da adesão a outras coalizões potenciais.
+
+Portanto, o fato de que os diferentes partidos que fazem parte da coalização
+governamental dispõem de representantes, nos Ministérios e demais órgão e entidades de
+governo, pode ser caracterizado uma das principais características do sistema político
+brasileiro. A estratégia adotada pelo executivo é a negociação entre o presidente e
+
+deputados membros de partidos não ideologicamente aliados, em que o primeiro está em
+34
+
+busca de maior apoio parlamentar. Por sua vez, a qualidade da relação dos detentores do
+cargo com suas bancadas acaba por refletir o grau de apoio que o presidente encontra no
+Congresso Nacional (REGO, 2008).
+
+A literatura, todavia, aponta alguns efeitos colaterais da utilização da estratégia de
+distribuição de cargos para a formação de bases parlamentares pelo Executivo. Santos
+(1997a) argumenta que a principal consequência da adoção de tal estratégia é a de produzir,
+nos quadros dos partidos ideologicamente mais alinhados, que fariam parte da coalizão de
+maneira natural, a mesma falta de coesão que levou o Executivo a procurar os partidos de
+espectro ideológico mais afastado. Imagina-se que membros de partidos mais alinhados não
+admitam negociar cargos e influência legislativa com quadros de partidos oposicionistas e
+que, por receberem menos cargos do que supunham, acabem por abandonar o apoio ao
+governo naquelas matérias em a preferência a favor do partido não seja intensa.
+
+Como consequência, em suas relações como Executivo, deputados e senadores,
+quando considerados individualmente, acabam por se defrontar com problemas de
+coordenação (FIGUEIREDO e LIMONGI, 1999). Um grande número de deputados da base
+de sustentação do governo pode ameaçar abandonar essa base, em caso de não atendimento
+de suas demandas particulares (número grande o suficiente para fazer com que governo
+perca a maioria no legislativo, caso todo o grupo cumpra a ameaça). O governo, por sua
+vez, pode não aceitar as exigências de seus afilhados em cargos executivos. A fim de
+decidir se vai votar a favor ou contra o Executivo, cada congressista teria de estar
+informado acerca do comportamento do restante do grupo. O representante somente
+cumprirá sua ameaça se souber que um número significativo de membros do grupo fará o
+mesmo. Caso contrário, o governo seria capaz de cumprir sua ameaça, uma vez que sabe
+que é possível dispensar o apoio desse grupo de parlamentares e ainda assim manter o
+apoio de uma maioria.
+
+As ameaças individuais são, portanto, arriscadas e, via de regra, não podem ser
+cumpridas. Diante de um governo decidido, uma ameaça individual não seria crível e
+durante o tempo em que forem apenas uma ameaça individual não haveria motivo algum
+para que o Executivo atendesse às demandas particularistas e mude de estratégia.
+
+Nessa situação, Santos (2002) aponta os partidos políticos como garantidores do
+
+recebimento da patronagem reivindicada como parte da barganha entre o Poder Executivo e
+35
+
+os congressistas. Uma vez que a patronagem é um recurso escasso e sua distribuição gera
+um custo para o presidente, isto é, para ele é racional minimizar a patronagem distribuída,
+não há garantias, para os congressistas, de que o presidente cumprirá sua promessa na troca
+de votos pela realização de suas demandas, pelo menos enquanto não houver nenhuma
+ameaça real da parte dos congressistas.
+
+Nesse sentido, o papel dos partidos é de funcionar como uma entidade coletiva.
+Quanto mais homogêneas são as posições sobre as várias questões políticas, maior é o
+poder de barganha de cada membro individualmente. Assim sendo, o comportamento coeso
+em uma legenda comum é do interesse de cada deputado, como forma de conferir
+
+credibilidade a uma ameaça que, do contrário, não chegará a importunar o Poder Executivo.
+
+2.4 PODER DE AGENDA
+
+Conforme discutido anteriormente, o diagnóstico de ingovernabilidade relacionado
+à combinação de presidencialismo de coalizão com voto proporcional de lista aberta, que
+resultaria a emergência de crises e na paralisia decisória, não foi observado na prática
+recente do sistema político brasileiro.
+
+As regras estabelecidas pela Constituição Federal de 1988 e as regras que balizam
+a atuação dos poderes Executivo e Legislativo dela decorrentes, acabaram por expressar
+supremacia do Executivo, quer pela capacidade decisória deste poder, quer pelo grau de
+coesão e disciplina dos partidos que formalmente pertencem à coalizão governamental.
+
+A obediência do Legislativo à agenda do Executivo é apontada por extensa
+literatura como importante mecanismo que garantiria estabilidade ao sistema político
+brasileiro. Sob esse enfoque as regras institucionais dariam ao executivo poderes especiais
+para encaminhar propostas de seu interesse, bem como de bloquear iniciativas congressuais
+que fosse de encontro à sua agenda. Para Fabiano Santos (1997a), a agenda executiva é
+imposta ao Legislativo, uma vez que o período que se inicia com a Constituição de 1988
+expressa a enorme supremacia do Executivo, quer pela capacidade decisória deste
+Poder frente à do Legislativo, quer pelo grau de coesão e disciplina dos partidos que
+
+pertencem à coalizão de apoio presidencial.
+36
+
+O poder de agenda se manifestaria, inicialmente, por meio da prerrogativa de que
+dispõe o Executivo de iniciativa de diversos tipos de legislação. A iniciativa das leis
+orçamentárias”, de competência exclusiva do Poder Executivo, é exemplo típico
+apresentado pela literatura por autores como Pereira e Muller (2002); Santos (1997a) e
+Figueiredo e Limongi (2008).
+
+Pode-se argumentar, todavia, que a Constituição Federal atribui ao Legislativo
+faculdade de emendar o Projeto de Lei Orçamentária Anual - PLOA enviada pelo
+Executivo. Contudo, o art. 166 da Carta Magna estabelece que emendas serão aceitas
+somente quando indicarem os recursos necessários, admitidos apenas aqueles provenientes
+de anulação de despesa, excluídas as que incidam sobre; dotações para pessoal e seus
+encargos; serviços da dívida; transferências tributárias constitucionais para estados,
+municípios e Distrito Federal.
+
+Além disso, a Lei nº 4.320/64 veda o cancelamento das dotações destinadas às
+despesas correntes, limitando o poder de intervenção do Congresso ao remanejamento das
+despesas com investimentos. Assim, com os demais gastos protegidos por determinações
+constitucionais e legais, os gastos com investimento são os que mais sofrem com o
+contingenciamento dos recursos pelo Executivo.
+
+A falta de regulamentação acerca dos efeitos decorrentes da não-aprovação da Lei
+Orçamentária, até o final do ano fiscal, também reforça o poder de barganha do Executivo,
+visto que o Poder Legislativo perde a possibilidade de ameaçar o governo com a
+paralisação de suas atividades em caso de não-atendimento das reivindicações congressuais
+(FIGUEIREDO E LIMONGI, 2008).
+
+A posição privilegiada do Executivo é reforçada pelo caráter autorizativo da Lei
+Orçamentária. O Executivo não necessita de autorização legislativa para realizar todos os
+gastos previstos no orçamento anual. O Decreto de Programação Orçamentária e
+Financeira, ou Decreto de Contingenciamento, editado pelo Poder Executivo no início de
+cada ano, acaba por determinar, de fato, as dotações efetivamente disponíveis para os
+
+órgãos e entidades públicos.
+
+* O artigo 165 da Constituição Federal de 1988 estabelece que Leis de Iniciativa do Poder Executivo
+estabelecerão o Plano Plurianual, as Diretrizes Orçamentárias e os Orçamentos Anuais.
+37
+
+Não bastasse o controle sobre a Lei Orçamentária Anual, a prerrogativa para
+legislar, de forma quase que independente, utilizando-se do instituto das Medidas
+Provisórias, é tema relevante para a explicação da influência do Poder Executivo sobre o
+Parlamento. Para Rego (2008), tem havido, no caso brasileiro, abuso no uso desse
+dispositivo. Muitas delas versam sobre assuntos que, claramente, não se coadunam com os
+critérios de relevância e urgência previstos pelo art. 62 da Constituição Federal.
+
+Soma-se a isso o leque de matérias que o Executivo pode tratar por decreto e o fato
+de que os projetos de lei dele oriundos, mesmo que sem exclusividade, como no caso da Lei
+Orçamentária, têm tramitação em regime de prioridade dentro do Parlamento.
+
+Sobre a tramitação das propostas, o controle sobre o Colégio de Líderes da Câmara
+dos Deputados confere ao Executivo poderes para determinar o ordem do dia das votações,
+o regime (urgência, prioridade ou normal) e as regras de tramitação das proposições (se vão
+para comissões ou direto aos plenários, e a ordem em que são votadas).
+
+O Colégio de Líderes foi criado, em 1989, como órgão auxiliar da mesa diretora
+para assuntos relacionados ao calendário de votações da Câmara dos Deputados. Apesar de
+não formalizado no Senado e na Comissão Mista de Orçamento, que atua sob as regras do
+Regimento Comum do Congresso Nacional, ele tem papel central na condução do processo
+legislativo e na definição do sistema de comissões (PEREIRA E MUELLER, 2000).
+
+De maneira geral é prerrogativa dos líderes dos partidos, por exemplo, nomear e
+substituir, a qualquer momento, os membros das comissões. Não são raros os casos em que,
+antecipando possível derrota do governo em matéria sob análise de comissão, os líderes da
+base governistas atuam de forma a garantir, por meio da troca dos membros da comissão, o
+resultado favorável ao governo.
+
+O fato é que o Executivo atua de forma estratégica, junto aos líderes dos partidos
+aliados, substituindo membros das comissões que lhe são menos leais com o objetivo de
+assegurar a vitória de seu interesse. O mesmo ocorre para os cargos de direção e relatoria
+das comissões.
+
+Atua, no mesmo sentido, o Presidente de cada casa, que tem o direito de
+determinar quais comissões irão analisar e dar parecer sobre cada projeto específico. Para
+Pereira e Mueller (2000), essa regra tem consequências importantes, porque, segundo o
+
+regimento interno da Câmara dos Deputados, quando um projeto é analisado por mais de
+38
+
+três comissões, é criada, automaticamente, comissão especial para tratar do tema. Dado que
+os líderes dos partidos têm poder de influenciar a composição de tais comissões, pode-se
+agir estrategicamente, de maneira a mitigar ao poder das comissões permanentes.
+
+Uma vez aprovado o projeto de lei pelo Congresso Nacional, o presidente ainda
+conta com poder de veto ao projeto. O veto permite ao presidente defender o status quo,
+reagindo à tentativa do parlamento de mudá-lo. Além do veto total, que permite ao
+presidente interromper a aprovação de todo o projeto, a Constituição Federal prevê,
+também, vetos parciais. Shugart e Carey (1992) argumentam que tal prerrogativa possibilita
+ao presidente dissecar a legislação e criar pacotes finais que são mais aceitáveis ao
+
+Executivo.
+
+2.5 ORÇAMENTO E POLÍTICAS PÚBLICAS
+
+A definição da alocação e da execução orçamentárias não depende apenas do
+arranjo entre Executivo e Legislativo. Particularidades da política pública que se pretende
+analisar nesta pesquisa e características inerentes ao processo orçamentário também
+contribuem para a decisão alocativa final.
+
+A relação entre política pública e orçamento é evidente: a “formulação de políticas
+públicas formaliza-se pela legislação, mas se materializa, em regra, sob a forma de despesas
+públicas, cujas fontes de financiamento — receita pública — devem ser quantificadas e
+identificadas”. (CÂMARA DOS DEPUTADOS, 2011, p.174).
+
+O orçamento público evidencia a extensão em que políticas públicas são
+hierarquizadas pelos governantes, já que determinadas áreas de governo recebem mais
+recursos orçamentários do que outras. Além disso, constitui a base financeira de sua
+implementação, pois através da chamada execução orçamentária as receitas arrecadadas são
+direcionadas para financiar o pagamento daquilo que o Estado necessita adquirir para
+viabilizar a realização das políticas, como insumos, equipamentos e serviços, incluindo
+tanto aqueles contratos com terceiros como os prestados por funcionários públicos.
+
+Definir em quais políticas públicas os recursos serão alocados é um dilema
+político, relacionado, necessariamente, ao conflito inerente à vida em sociedade, onde os
+
+recursos escassos são requisitados para fazer frente às necessidades individuais e coletivas.
+39
+
+No caso específico do Programa Oferta de Água, por exemplo, só o fato de o
+programa constar entre os projetos do Programa de Aceleração do Crescimento - PAC pode
+ter repercussões na esfera política. As dificuldades apontadas pela CGU (2013), na
+execução das obras do programa, também podem resultar em incentivos diversos e
+inesperados ao arranjo entre Legislativo e Executivo. Nesse raciocínio, o Poder Executivo
+teria incentivos a executar projetos oriundos de emendas advindas de parlamentares da
+oposição, vez que, realizadas as obras, aumentaria o percentual de execução das ações
+inscritas no PAC, conjunto de projetos prioritários do governo e que se constitui em
+importante medida de desempenho governamental para a sociedade.
+
+Ainda que já existam na literatura muitas considerações acerca da relação entre
+Executivo e Legislativo, o estudo de caso do referido programa de governo oferece a
+oportunidade de se analisar tal relação sob um novo prisma, no sentido de evidenciar como
+as particularidades de um programa governamental influencia a relação entre os Poderes
+Executivo e Legislativo.
+
+Assim, o primeiro objetivo específico proposto neste trabalho, “Caracterizar o
+papel do poder legislativo no processo de alocação orçamentária”, deve ser comparado à
+realidade prática observada durante a implementação do Programa Oferta de Água, que, por
+sua vez, está relacionada aos outros dois objetivos específicos “Analisar a participação do
+poder legislativo na alocação orçamentária do programa Oferta de Água” e “Discutir as
+influências do poder legislativo na execução orçamentária do programa Oferta de Água”. O
+referencial teórico apresentado, que descreve a visão de alguns autores acerca da relação
+entre os dois poderes, servirá como base de comparação do caso em geral, independente da
+política pública que se analisa, para o caso concreto do Programa Oferta de Água.
+
+Ainda em relação ao programa, há que se levar em consideração que a definição
+do gasto governamental, por parte dos dois poderes, é limitada não apenas por restrições
+institucionais, mas também por decisões prévias, no sentido de dependência de trajetória.
+Assim, escolhas prévias acabam por limitar escolhas futuras. Instituições, incluindo aquelas
+estabelecidas para possibilitar determinada política pública específica, bem como rotinas e
+procedimentos orçamentários, operam para reforçar a dinâmica sistêmica (JONES e
+
+ZALÁNYI, 2012).
+40
+
+Na lição de Davis, Dempster e Wildavsky (1966), a mais usual e acertada forma de
+se prever orçamentos é pelo modelo incremental. Segundo os autores, orçamentos quase
+nunca são revisados de forma geral, considerando de uma só vez o valor gerado por cada
+um dos programas existentes e comparando-os a todas possíveis alternativas. De forma
+diversa, o orçamento de um ano é amplamente baseado no orçamento do ano anterior. Os
+orçamentos seriam, portanto, incrementais.
+
+A alocação de relevante parcela dos recursos previstos nos orçamentos anuais
+decorre de decisões anteriores, tomadas fora do âmbito do ciclo orçamentário. A escolha
+por aumentar os gastos com determinada política social, por exemplo, podem refletir um
+compromisso de mais longo prazo com políticas que, por vezes, extrapolariam o mandato
+governamental (JONES e ZALÁNYI, 2012).
+
+No caso brasileiro, os gastos compulsórios, estabelecidos na Constituição ou em
+lei, limitam fortemente as escolhas por gastos futuros. Existem também restrições de ordem
+macroeconômica, que surgem da necessidade de o governo manter a estabilidade fiscal e
+monetária. Dessa forma, a elaboração do orçamento brasileiro, de antemão, já conta com
+elevada rigidez quanto às possibilidades de alocação de recursos. O governo atua com
+reduzido grau de liberdade, sendo escassos os recursos disponíveis para serem alocados nas
+
+diversas políticas públicas de investimentos (FIGUEIREDO E LIMONGI, 2008).
+41
+
+3 METODOLOGIA
+
+Trata-se de pesquisa qualitativa em que foi realizado estudo de caso do Programa
+Oferta de Água. A utilização do método qualitativo justifica-se por ser forma adequada para
+entender a natureza de um fenômeno social complexo. Não obstante, há o cuidado em se
+reconhecer que os problemas que requerem análise qualitativa exigem do pesquisador trato
+especial na condução das observações e habilidade quanto ao uso e criação de categorias
+(RICHARDSON, 1985).
+
+Por estudo de caso entende-se uma investigação empírica que terá como produto
+um objeto mais concreto e contextualizado, que preserva o caráter unitário do objeto
+estudado (GOODE E HATT, 1979). A utilização do método buscou a oportunidade para
+que o objeto pesquisado fosse estudado em profundidade, dentro de um período de tempo
+limitado.
+
+O estudo da atuação do Congresso Nacional na elaboração e execução
+orçamentária do programa Oferta de Água deu-se em etapas. A metodologia a seguir
+exposta teve como objetivo verificar se o padrão de atuação descrito na literatura se aplica
+ao caso específico da interação entre Executivo e Legislativo na alocação e execução
+orçamentária do Programa Oferta de Água. O estudo abarcou o período referente à criação
+do Programa Oferta de Água, em 2012, a partir do Plano Plurianual 2012-2015, até a
+publicação da Lei Orçamentária para 2014, ocorrida em janeiro do ano a que se refere a
+Lei.
+
+Na primeira etapa foi realizado levantamento e análise dos normativos que regem
+o Programa Oferta de Água, tais como a Lei nº 9.433/1997, que institui a Política Nacional
+de Recursos Hídricos, cria o Sistema Nacional de Gerenciamento de Recursos Hídricos,
+regulamenta o inciso XIX do art. 21 da Constituição Federal, e altera o art. 1º da Lei nº
+8.001/1990; o Decreto nº 7.535, de 26 de julho de 2011, que institui o Programa Nacional
+de Universalização do Acesso e Uso da Água -“Água para Todos”; e a Portaria
+Interministerial nº 507/2011, que regula os convênios, os contratos de repasse e os termos
+
+de cooperação celebrados pelos órgãos e entidade da Administração Pública Federal.
+42
+
+Em seguida, houve levantamento documental acerca de estudos, auditorias e
+análises já realizados sobre o programa. Buscaram-se: os relatórios da Comissão de
+Serviços de Infraestrutura do Senado Federal e da Comissão de Integração Nacional,
+Desenvolvimento Regional e da Amazônia da Câmara dos Deputados; os relatórios de
+auditoria do Tribunal de Contas da União e da Controladoria Geral da União referentes ao
+Programa Oferta de Água; além de trabalhos acadêmicos com foco na análise da
+implementação do programa.
+
+A etapa de pesquisa seguinte abarcou levantamento documental das regras
+institucionais formais acerca da atuação do Congresso Nacional. Foram alvo de estudo a
+Constituição Federal, a Lei de Responsabilidade Fiscal, as Leis Orçamentarias (Plano
+Plurianual, Lei de Diretrizes Orçamentárias e Lei Orçamentária Anual), os Regimentos
+Internos de cada uma das casas legislativas e do Congresso Nacional, as Resoluções da
+Comissão Mista de Planos, Orçamentos Públicos e Fiscalizações - CMO, além de quaisquer
+outros normativos que se mostrarem pertinentes quando da realização do levantamento.
+
+Foram pesquisados o tipo e o conteúdo das emendas parlamentares incidentes
+sobre o programa; os documentos do Congresso Nacional destinados ao Ministério da
+Integração Nacional, as análises das Consultorias Legislativas sobre o tema; os trabalhos da
+Comissão Mista de Orçamento, da Comissão de Serviços de Infraestrutura do Senado
+Federal e da Comissão de Integração Nacional, Desenvolvimento Regional e da Amazônia
+da Câmara dos Deputados; além de quaisquer outros documentos que se mostraram
+relevantes ao longo da pesquisa.
+
+O cerne desta etapa, contudo, foi, estudo detalhado da alocação e execução
+orçamentária do programa. A análise foi centrada em informações empíricas extraídas do
+Sistema Integrado de Planejamento e Orçamento - SIOP, do Sistema Integrado de
+Administração Financeira - SAFI e do Sistema Siga Brasil do Senado Federal.
+
+Além da revisão bibliográfica, do levantamento documental e das informações
+empíricas, extraídas do SIOP, do SAFI e do Sistema Siga Brasil do Senado Federal, foram
+realizadas entrevistas individuais semiestruturadas, cujo objetivo foi coletar as percepções
+dos atores envolvidos na alocação orçamentária do Programa Oferta de Água acerca do
+
+padrão de atuação dos Poderes Executivo e Legislativo.
+43
+
+As entrevistas semiestruturadas foram realizadas junto aos responsáveis pelo
+programa Oferta de Água e pela elaboração e execução da lei orçamentária, no Poder
+Executivo, mais especificamente, nas áreas responsáveis do Ministério da Integração
+Nacional (Secretaria de Infraestrutura Hídrica) e do Ministério do Planejamento Orçamento
+e Gestão (Secretaria de Orçamento Federal - SOF, Secretaria de Planejamento e
+Investimento Estratégicos - SPI e Secretaria do Programa de Aceleração do Crescimento -
+SEPAC); e aos servidores de gabinetes de parlamentares envolvidos no acompanhamento
+de emendas destinadas ao Programa Oferta de Água, de modo a captar as percepções do
+corpo técnico diretamente relacionado às emendas do programa. Ao todo foram
+entrevistadas 10 pessoas, cinco do Poder Executivo e 5 do Poder Legislativo, conforme
+
+consta no Quadro 1.
+
+Quadro 1 - Entrevistados
+
+ 
+
+ 
+
+ 
+
+ENTREVISTADO PERFIL
+Entrevistado Executivo A Ministério da Integração Nacional
+Entrevistado Executivo B Ministério da Integração Nacional
+Entrevistado Executivo C Ministério do Planejamento — Secretaria do
+
+Programa de Aceleração do Crescimento
+Entrevistado Executivo D Ministério do Planejamento — Secretaria de
+Planejamento e Investimento Estratégicos
+Entrevistado Executivo E Ministério do Planejamento — Secretaria de
+
+Orçamento Federal
+
+ 
+
+Entrevistado Legislativo A Gabinete Parlamentar
+Entrevistado Legislativo B Gabinete Parlamentar
+Entrevistado Legislativo C Gabinete Parlamentar
+Entrevistado Legislativo E Gabinete Parlamentar
+Entrevistado Legislativo F Gabinete Parlamentar
+
+ 
+
+ 
+
+ 
+
+Fonte: Elaborado pelo autor.
+Nota: Apesar de constar o nome Entrevistado Executivo B, essa entrevista contou com a participação de três
+
+técnicos do Ministério da Integração Nacional.
+44
+
+Antes de sair a campo, o roteiro de entrevistas, localizado no Apêndice 1 desta
+dissertação, passou por análise da banca de qualificação do projeto para verificar se os itens
+do roteiro estavam condizentes com os aspectos que se pretende analisar.
+
+Nas entrevistas realizadas, a disposição das perguntas procurou evidenciar
+eventual interferência parlamentar, ainda da fase executiva do PLOA, na escolha dos
+projetos escolhidos para o programa. O ordenamento das questões foi realizado de maneira
+a iniciar-se com perguntas de cunho mais geral (por exemplo: como o trabalho parlamentar
+contribui para o programa?) no sentido de perguntas mais específicas (o Congresso
+Nacional participa ativamente na escolha das obras a serem executadas?).
+
+A partir da revisão bibliográfica, do levantamento documental, das informações
+empíricas e dos resultados das entrevistas semiestruturadas, foi realizada análise acerca dos
+achados de pesquisa, por meio da técnica de análise de conteúdo, seguindo as etapas
+propostas por Bardin (2006), que a organiza em três fases: 1) pré-análise, 2) exploração do
+material e 3) tratamento dos resultados, inferência e interpretação.
+
+Finalizada a etapa de coleta dos dados, iniciou-se a busca por evidências, para a
+caracterização do padrão de atuação dos dois Poderes, no que se refere aos dois principais
+padrões de relacionamento apontados pela literatura, quais sejam: transações de interesses
+entre os Poderes e o exercício do poder de agenda por parte do Executivo.
+
+No que tange às características das troca de concessões por apoio parlamentar,
+duas questões foram analisadas. Primeiro, o trabalho pretendeu caracterizar o padrão de
+atuação e a influência exercida pelo Congresso Nacional e pelo Poder Executivo no que se
+refere especificamente às emendas parlamentares. Nesse sentido, identifica-se, na literatura,
+pelo menos duas correntes majoritárias no que se refere à interação entre Executivo e
+Legislativo no processo orçamentário.
+
+Para o primeiro grupo de autores, no qual se incluem Pereira e Mueller (2002), a
+natureza da relação entre Executivo e Legislativo é essencialmente conflitiva, vez que as
+demandas dos dois poderes não são complementares. Nessa linha, a inclusão das emendas
+parlamentares no orçamento seria suficiente para acomodar os desejos congressuais por
+políticas públicas. O abarcamento das emendas individuais na peça orçamentária já
+asseguraria as vantagens eleitorais desejadas pelos parlamentares, não havendo incentivos
+
+para discussões detalhadas sobre as políticas propostas no projeto de lei.
+45
+
+Já para um segundo grupo de pesquisados, entre os quais destacam-se Limongi e
+Figueiredo (2005), as demandas dos Poderes Executivo e Legislativo não são conflitantes.
+Dessa forma, a inclusão de emendas parlamentares individuais acaba por não interferir na
+agenda governamental, havendo baixa resistência do executivo para a incorporação das
+emendas. Assim, a interferência do poder legislativo no processo orçamentário seria de
+definição da localização geográfica dos gastos.
+A partir dos referenciais teóricos apresentados fez-se mister a caracterização do
+tipo de emenda predominante dentre aquelas apresentadas no âmbito do Programa Oferta
+de Água. Nesse sentido, levantou-se as seguintes informações:
+1. proporção de emendas apresentadas frente a dotação do programa constante do
+Projeto de Lei Orçamentária enviado pelo Executivo ao Congresso Nacional;
+
+2. proporção de emendas individuais apresentadas frente ao total de emendas;
+
+3. comparação da localização geográfica das emendas apresentadas frente aos
+projetos previstos inicialmente para o programa pelo Poder Executivo; e
+
+4. comparação entre a execução das emedas entre os partidos da base aliada em
+
+relação aos partidos da oposição.
+
+Prosseguindo com a caracterização da relação entre poderes, no que se refere à
+transação de interesses, o segundo passo foi a averiguação acerca da existência de
+evidências que identifiquem o uso de cargos, no Poder Executivo Federal, como forma de
+direcionamento de verbas do programa para localidades de interesse do detentor do cargo —
+no caso o de Ministro da Integração Nacional. Com esse objetivo, foram realizadas as
+seguintes análises:
+
+1. levantamento de evidências da prática de favorecimento a grupos aliados ao
+
+ministro a partir das entrevistas realizadas;
+
+2. proporção do número de emendas e de seus valores financeiros em relação aos
+
+partidos aliados e da oposição; e
+
+3. proporção do número de emendas e de seus valores financeiros em relação a
+
+localidade a que pertence o Ministro da Integração Nacional.
+
+Permeia a análise a caracterização da atuação dos Executivo e Legislativo em
+relação aos mecanismos institucionais que moldam a atuação dos Poderes. Pretende-se, ao
+
+final do estudo, caracterizar o padrão de atuação e a influência exercida pelo Congresso
+46
+
+Nacional no caso específico da destinação de recursos para o programa Oferta de Água. A
+
+seguir consta quadro resumo sobre a metodologia utilizada e sua relação com os objetivos
+
+do trabalho.
+
+Quadro 2 - Quadro Resumo do Método de Pesquisa
+
+ 
+
+Objetivos
+
+Procedimentos
+
+Ações
+
+ 
+
+Analisar a atuação do
+Congresso no processo
+orçamentário
+
+Levantamento documental das regras
+institucionais formais acerca da atuação
+do Congresso.
+
+Revisão de literatura sobre o tema.
+
+ 
+
+Verificar relevância do
+programa frente ao total do
+
+investimento governamental.
+
+Análise documental por meio dos
+sistemas Siga Brasil e SIOP.
+
+Comparar o orçamento do
+programa frente ao total do
+orçamento de investimentos
+
+ 
+
+Verificar interesse
+legislativo pelo Programa
+Oferta de Agua.
+
+1. Análise documental por meio dos
+sistemas Siga Brasil e SIOP.
+
+2. Entrevistas semiestruturadas com os
+técnicos do MI, MPOG (SOF, SPI e
+SEPAC): e servidores envolvidos no
+acompanhamento das emendas ao
+programa nos gabinetes dos
+parlamentares.
+
+Comparar percentuais do
+orçamento oriundo do legislativo
+com outros programas na área de
+infraestrutura
+
+ 
+
+Verificar se há indício de
+adoção de comportamento
+de cunho paroquialista.
+
+1. Análise documental por meio dos
+sistemas Siga Brasil e SIOP.
+
+2. Entrevistas semiestruturadas com os
+técnicos do MI, MPOG (SOF, SPI e
+SEPAC); e servidores envolvidos no
+acompanhamento das emendas ao
+programa nos gabinetes dos
+parlamentares.
+
+1. Analisar o percentual dos tipos
+de emendas incidentes sobre o
+programa (individuais, coletivas
+ou de relatores).
+
+2. Comparar dotação média de
+projetos do executivo com
+projetos aprovados após análise
+do congresso.
+
+ 
+
+ 
+
+Levantar indícios acerca da
+natureza conflitiva ou
+complementar das agendas
+dos Poderes Executivo e
+Legislativos
+
+1. Análise documental por meio dos
+sistemas Siga Brasil.
+
+2. Entrevistas semiestruturadas com os
+técnicos do MI, MPOG (SOF, SPI e
+SEPAC): e servidores envolvidos no
+acompanhamento das emendas ao
+programa nos gabinetes dos
+
+1. Comparar percentual de
+execução projetos oriundos do
+Poder Executivo com projetos
+incluídos por meio de Emendas
+pelo Congresso Nacional,
+
+2. Comparar percentual de
+execução de projetos oriundos de
+emendas de parlamentares da base
+governista com aqueles
+
+ 
+
+parlantenares: provenientes de parlamentares da
+oposição.
+Fonte: Elaborado pelo autor
+
+ 
+47
+
+4 DISCUSSÃO E RESULTADOS
+
+Na presente fase, como forma de organizar o pensamento, buscou-se analisar as
+informações produzidas seguindo a linha condutora do processo orçamentário. Todavia,
+inicialmente, serão discutidos breves aspectos gerais ligados à implementação do programa
+que servirão como embasamento para a seguinte discussão.
+
+Sob a perspectiva do processo orçamentário, serão tratadas, primeiramente, as
+informações coletadas referentes ao processo de confecção do PLOA, ainda em sua fase
+executiva, ou seja, antes do envio do projeto ao Legislativo. Nessa etapa, pretende-se
+responder a perguntas do tipo: o Poder Legislativo influencia o gasto da política mesmo
+antes de o PLOA chegar ao Parlamento? Em caso afirmativo, como ocorre tal influência?
+
+Em seguida, será debatida a etapa legislativa do processo. Nessa fase, o estudo
+recai sobre as regras congressuais para o tramite da proposta orçamentária, bem como para
+o padrão das emendas produzidas. Serão discutidas as seguintes perguntas: como as regras
+do próprio parlamento moldam o comportamento de Deputados e Senadores? Qual o tipo
+de emenda típica? Podemos enquadrá-las em emendas do tipo pork?
+
+Por fim, será analisada a fase de execução orçamentária. As emendas são
+realmente utilizadas como forma de barganha entre os poderes Executivo e Legislativo?
+Que tipos de projetos são executados? Os projetos oriundos do executivo têm maiores
+percentuais de execução?
+
+Importa ressaltar que, nas tabelas que se seguem, no que se refere às emendas, os
+números representam a quantidade de emendas classificadas com o Grupo Natureza de
+Despesa 4, o que corresponde apenas a investimentos. Tal opção explica-se em Figueiredo
+e Limongi (2008, p. 93):
+
+Na definição dos gastos de investimento, a atuação de ambos os poderes se dá em
+um ambiente mais livre de restrições, pois as impostas pela legislação são
+mínimas. Nessa área, trabalha-se com recursos primários, de livre movimentação,
+o que permite que as prioridades políticas de cada poder se expressem de forma
+mais plena. Por isso, a análise da distribuição dessas despesas oferece uma
+oportunidade única para se examinar as prioridades políticas e,
+consequentemente, os conflitos entre os dois poderes.
+48
+
+A partir do início de vigência do PPA 2012-2015, o Programa Oferta de Água
+ganhou, ano após ano, importância frente ao total de investimentos governamentais”.
+Conforme a Tabela 1, em 2012 o programa respondia por 2,89% da dotação orçamentária
+
+de investimentos consignado em Lei, em 2013 esse percentual passou a 3,95%, chegando a
+
+4,76% em 2014.
+
+Tabela 1 - Programa Oferta de Água frente ao investimento governamental
+
+ 
+
+ 
+
+ 
+
+2012 2013 2014
+Programa
+LOA Yo LOA Yo LOA Yo
+OFERTA DE ÁGUA 2.322.300.397 2,89%  3.415.860.681 3,95% 3.871.551.136 4,76%
+
+ 
+
+Fonte: Siga Brasil e SIOP.
+Nota: Apenas GND 4.
+
+41 FASE LEGISLATIVA DO PLOA
+
+O montante bruto do orçamento do programa oriundo de emendas parlamentares
+também cresceu ao final do período (apesar de, em 2013, o valor total de a dotação
+orçamentária haver sido reduzida). Conforme Tabela 2, em 2012 foram alocados R$ 489,0
+milhões em emendas, em 2013 foram R$ 330,4 milhões e, em 2014, R$ 514,6 milhões.
+Contudo, em termos percentuais, a proporção de emendas frente à dotação total para o
+programa no PLOA caiu, sendo que, em 2013, o percentual teve seu menor valor 9,67%.
+Em 2012, o valor percentual foi de 20,06% e, em 2014, 13,29%. Depreende-se, dessa
+forma, que o crescimento da dotação do programa não foi acompanhado do aumento no
+montante da dotação das emendas. O assunto será debatido mais a fundo quando da análise
+
+da etapa Legislativa do PLOA.
+
+6 : e: . = . :
+Foram considerados como “investimentos” aquelas ações governamentais classificados com o Grupo
+Natureza de Despesa — GND 4: Investimentos.
+Tabela 2 - Emendas Apresentadas frente à LOA
+
+ 
+
+ 
+
+ANO LOA EMENDAS PROPORÇÃO
+2012 2.322.300.397 488.985.921 21,06%
+2013 3.415.860.681 330.447.345 9,67%
+2014 3.871.551.136 514.640.225 13,29%,
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Siga Brasil e SIOP.
+Nota: Apenas GND 4.
+
+49
+
+Projetos oriundos de emendas, via de regra, não constam entre as obras abarcadas
+
+emendas.
+
+Tabela 3 - Valor das emendas incluídas no PAC
+
+ 
+
+ 
+
+ 
+
+Autor PAC Fora do PAC
+Comissões 5.000.000 91.500.000
+Bancadas Estaduais 124.025.851 848.159.811
+Parlamentares 0 242.031.000
+Relator Setorial 6.477.104 16.879.725
+Relator Geral 0 0
+Total 135.502.955 1.198.570.536
+
+ 
+
+Fonte: Siga Brasil e SIOP.
+
+Nota: Apenas GND 4.
+
+pelo PAC. Dentro do organograma do Ministério da Integração Nacional, os projetos do
+programa inserido no PAC contam com estrutura de implementação superior aos projetos
+não incluídos no PAC. A equipe responsável pelas obras de transposição do Rio São
+Francisco é distinta da equipe que trata dos projetos incluídos em decorrência da aprovação
+de emendas parlamentares. Ademais, dados colhidos a partir da observação in loco
+mostram que a estrutura destinada a implementação do projeto de transposição do Rio São
+Francisco é melhor que aquela disponível à equipe responsável pela execução das emendas
+parlamentares. O edifício e o mobiliário destinados à equipe do projeto do São Francisco
+
+são superiores e mais novos se comparados aos à equipe que cuida da execução das
+
+A Tabela 3 mostra os valores brutos das emendas incluídas/não incluídas no PAC
+
+e sua análise demostra que projetos oriundos do legislativo não conseguem integrar a
+carteira do plano. Em nenhuma oportunidade, emendas individuais conseguiram acesso ao
+
+PAC e apenas em raras ocasiões emendas coletivas passaram a integrar o plano. A tabela 4
+50
+
+apresenta os valores de forma percentual. Nota-se que apenas 10,16% das despesas
+
+alocadas via emendas foram incluídas no PAC.
+
+Tabela 4 - Percentual dos valores de emendas incluídas no PAC
+
+ 
+
+ 
+
+ 
+
+Autor PAC Fora do PAC
+Comissões 5,18% 94,82%
+Bancadas Estaduais 12,76% 87,24%
+Parlamentares 0,00% 100,00%
+Relator Setorial 27,13% 72,21%
+Total 10,16% 89.84%
+
+ 
+
+Fonte: Siga Brasil
+Nota: Apenas GND 4
+
+No Ministério da Integração Nacional, a Secretaria de Infraestrutura Hídrica é
+responsável pelo acompanhamento do programa. Ela é composta por dois departamentos:
+Departamento de Obras Hídricas - DOH e o Departamento de Projetos Estratégicos - DPE.
+
+O DOH é responsável por todos os projetos do programa, excluída a transposição
+do Rio São Francisco. Dessa forma, estão entre as atribuições do departamento projetos
+dentro e fora do PAC, bem como todas as emendas parlamentares. Sua estrutura conta com
+três coordenações-gerais.
+
+Por sua vez, o DPE responsabiliza-se pelo projeto de transposição do São
+Francisco. Ele é constituído por seis coordenações-gerais e um número de cargos gerenciais
+e de assessoramento bastante superior ao do DOH. Analisando-se a estrutura dos dois
+Departamentos e pelas impressões retiradas das entrevistas realizadas junto aos servidores
+do MI, percebe-se que o DPE conta com prestígio maior se comparado ao DOH.
+
+Ademais, enquanto os projetos do PAC são executados, diretamente, pelo Poder
+Executivo Federal, projetos não incluídos no programa são realizados, em sua maioria, por
+meio de convênio com municípios, que contam com capacidade de implementação muito
+menor se comparada à federal.
+
+A fragilidade institucional de grande parte dos municípios brasileiros tem sido
+apontada pela literatura e por documentos oficiais preocupados em examinar estruturas
+administrativas e a capacidade de gestão de programas e projetos (MARTINS, PIMENTA e
+LOPES, 2013). Tal fragilidade foi citada, pelos técnicos do MI, como aspecto fundamental
+
+para a não realização de projetos do DOH. Segundo os entrevistados, grande parte das
+51
+
+obras previstas não é executada devido à falta de capacidade de os municípios apresentarem
+projetos, documentações e informações necessários ao início dos empreendimentos.
+
+Entrevistas realizadas junto a servidores de gabinetes de deputados que
+apresentaram emendas individuais ao programa mostraram que é difundida a ideia de que o
+volume de projetos e obras sob responsabilidade da DOH não é compatível com o número
+de servidores do departamento. O Entrevistado Legislativo C citou que existem
+dificuldades relativas ao esclarecimento de eventuais dúvidas junto aos servidores do DOH.
+Segundo ele, apesar do bom trabalho realizado pelos técnicos, estes não dispõem de tempo
+para atender diretamente os técnicos municipais. Assim, ainda segundo o entrevistado,
+grande parte de seu trabalho é intermediar a relação entre os municípios e o DOH.
+
+O trabalho dos técnicos do Ministério da Integração é bom. Só que eles não têm
+tempo de ver tudo. Daí, às vezes, eu tenho que ir até lá pra falar com eles. Para
+pedir para eles falarem com a prefeitura. A prefeitura às vezes tem dúvidas e não
+consegue falar com eles. Eles não têm tempo de ligar para a prefeitura. Aí eu
+tenho que ir lá. Esse é o nosso trabalho. (Entrevistado Legislativo C, 2014)
+
+A incapacidade técnica está dos dois lados, saindo aqui de Brasília até os
+municípios. O Brasil deu uma largada no investimento e não deu a largada na
+capacitação das pessoas. (...) A incapacidade técnica vai da hora de inserir uma
+proposta no Siconv à análise do técnico aqui em Brasília. Não houve preparação
+dos servidores para todo esse crescimento. (Entrevistado Legislativo D, 2014)
+
+Além disso, fora da estrutura do MI, as obras do PAC ainda contam com o apoio
+da Secretaria do Plano de Aceleração do Crescimento — SEPAC, ligada diretamente à
+Secretaria Executiva do Ministério do Planejamento Orçamento e Gestão. O quadro de
+servidores da SEPAC é, em sua maioria, formado por servidores de carreiras classificadas
+como típicas de estado.
+
+No que se refere à estrutura de execução do programa, portanto, o Executivo trata
+de modo distinto os empreendimentos relacionados à transposição do Rio São Francisco e
+ao PAC das obras oriundas de emendas parlamentares. Enquanto o primeiro grupo de
+empreendimentos conta com estrutura de implementação que envolve mais de um
+ministério e tem obras executadas diretamente pelo governo federal, os projetos decorrentes
+de emendas dependem da capacidade de execução dos municípios interessados e dispõem
+
+de menor aparato burocrático de apoio em nível federal.
+
+7 Siconv é o sistema utilizado para registro de todos os convênios celebrados pelo Poder executivo da
+Administração Pública Federal.
+52
+
+As entrevistas demostraram que os parlamentares têm ciência dessas limitações.
+Todas as entrevistas realizadas junto aos servidores lotados nos gabinetes dos deputados e
+responsáveis pelas emendas concordam que o fato de o projeto estar inserido dentre as
+obras do PAC representa grande vantagem no sentido de aparato burocrático para a
+
+implementação da obra.
+
+Tem problemas de execução nos municípios. Nós gostaríamos de ver nossas
+emendas no PAC, Só que dificilmente elas entram. Até porque é complicado por
+causa do valor das emendas. As obras do PAC são muito grandes. (Entrevistado
+Legislativo D, 2014)
+
+Pode-se presumir, portanto, que caso determinado parlamentar tenha forte
+interesse na liberação financeira para sua emenda, este tentará incluir sua proposição
+diretamente dentre os projetos que constam da proposta orçamentária do governo. Dessa
+maneira, seu projeto seria incluído no PAC, contaria com todo o aparato de implementação
+
+do governo federal e, assim, teria maiores chances de ser executado.
+
+Acho que se as emendas fossem incluídas no PAC elas teriam mais chances de
+serem executadas. Até porque é um programa de governo. A bancada é uma coisa
+muito individualizada, por mais que seja grande. Mas entrando no PAC, que já é
+um programa de governo e que qualquer presidente que esteja no poder tem
+interesse de executar, eu acho que fica mais fácil. Facilita contemplar essa
+proposta de emenda de bancada. (Entrevistado Legislativo B, 2014)
+
+O Legislativo tenta incluir as obras no PAC, até porque a modalidade licitatória
+do PAC é diferenciada. Ela é mais flexível e aí, por conta disso, você tem uma
+facilidade maior de executar. (Entrevistado Legislativo C, 2014)
+
+Nesse sentido, interessaria ao parlamentar a inclusão da dotação orçamentária de
+seu projeto antes mesmo de o Projeto de Lei Orçamentária ser encaminhado ao Congresso
+Nacional. Assim, tendo sido incluído ainda na fase executiva do PLOA, o projeto teria mais
+chances de ser abarcado no PAC.
+
+O Executivo é responsável pela coordenação e elaboração do PLOA. Mais
+especificamente, compete ao Ministério do Planejamento Orçamento e Gestão — MPOG, na
+figura da Secretaria de Orçamento Federal - SOF, a coordenação e detalhamento do PLOA.
+Inicialmente, a SOF estima as receitas, define os parâmetros e especifica os limites de
+despesas para os programas que cada um dos órgãos públicos se propõe a desenvolver.
+Considerando os limites orçamentários definidos pela SOF, cada ministério prepara e
+devolve seu projeto àquela secretaria, que, por sua vez, fica com a responsabilidade de
+
+consolidar tudo, em uma única proposta, e encaminhá-la ao Congresso Nacional.
+53
+
+Pereira e Mueller (2002) ressaltam que é nessa etapa que alguns parlamentares,
+principalmente os de maior prestígio, recorrem às suas redes políticas dentro dos
+ministérios e órgãos federais para incluir projetos de seu interesse.
+
+As respostas dos entrevistados, tanto daqueles oriundos do Poder Executivo
+quanto do Legislativo, foram no sentido de que a decisão sobre as obras incluídas no PAC
+estão centralizadas na cúpula do Poder Executivo, com pouca participação parlamentar no
+processo. Exemplificando, para um dos entrevistados, pertencente ao grupo legislativo da
+amostra e responsável pelas emendas parlamentares de deputado federal de partido
+pertencente à base aliada, o papel desempenhado pelo parlamento nesses casos é de
+
+fiscalização, e não de determinação de que obras devem ser incluídas.
+
+Eu acho que o Legislativo participa mais na fiscalização. O foco maior do
+congresso é a fiscalização. Tem as obras de governo e tem as obras de interesse
+do parlamentar, entendeu? É mais na fiscalização do que na definição de onde irá
+aplicar o dinheiro. (Entrevistado Legislativo B, 2014).
+
+O Entrevistado Executivo C (SEPAC) afirmou que apenas em ocasiões muito
+específicas um projeto é incluído no PAC por solicitação de atores externos ao Poder
+
+Executivo Federal.
+
+Geralmente as emendas não estão no PAC. Eu não sei como é a execução dessas
+emendas. Do tempo que estou aqui, a três anos, eu nunca vi uma emenda
+parlamentar entrar no PAC. O que houve caso é coisa que entrou como emenda e
+depois transformaram em PAC e daí não precisou mais de emendas. Mas eram
+projetos discutidos já. Eram obras estratégicas. Houve um caso de uma cidade na
+Paraíba que entrou em colapso porque todos os reservatórios e açudes estava
+todos esgotados e ele queriam colocar uma adutora que puxasse água de um
+açude um pouco mais distante que tinha água. A população estava se
+manifestando. Era um cidade de porte médio e o abastecimento estava sendo todo
+por caminhão pipa. São casos muito pontuais. (...) Um exemplo de obra que
+entrou no PAC é a Barragem de Fronteiras. É uma obra que a bancada do Ceará
+faz muita pressão para que saia. Essa obra não foi colocada por emenda, foi
+negociação. Aí entrou a bancada do estado, o governador, junto com os
+ministérios e houve um consenso. Não havia conflito. Houve casos em que a
+bancada quer e o governador não quer. Aí fica mais difícil. (Entrevistado
+Executivo C, 2014)
+
+Dessa forma, para o caso de obras inclusas no PAC por apoio parlamentar, não se
+configura o argumento de Pereira e Mueller (2002) no qual a atuação parlamentar não
+refletiria as prioridades estabelecidas por uma política nacional coordenada para enfrentar
+um problema específico, mas sim os interesses de indivíduos empenhados em enfrentar
+
+problemas locais. Sob esse ponto de vista, uma perspectiva parcial e local de como
+54
+
+enfrentar o problema prevaleceria, em detrimento de uma análise integrada de informação
+sobre o todo o território nacional. As entrevistas realizadas não corroboram essa tese.
+Quando um projeto é incluído no PAC, este é resultado de consenso do qual participam não
+só os parlamentares, mas também o Poder Executivo Estadual e os Ministérios Envolvidos.
+
+Uma vez definidos os projetos prioritários do executivo e encaminhado o PLOA
+ao Parlamento, inicia-se a fase formal de análise orçamentária pelo Legislativo. De forma
+geral, as restrições de ordem institucional apontadas por Figueiredo e Limongi (2008)
+aplicam-se ao caso Programa Oferta de Água.
+
+De início, a Constituição Federal limita o poder de alteração da lei orçamentária ao
+estabelecer a obrigatoriedade de que as emendas indiquem os recursos necessários à sua
+execução, sendo apenas admitidas aquelas provenientes de anulação de despesa, excluídas
+as que incidam sobre dotações para pessoal e seus encargos, serviço da dívida,
+transferências tributárias constitucionais para estados, municípios e para o Distrito Federal.
+
+Tais restrições são acompanhadas pelos demais regramentos legais e
+regulamentares e serão discutidas, em momento oportuno, no transcorrer da análise
+orçamentária do programa. De todo modo, para o caso do programa Oferta de Água, pode-
+se afirmar que durante a fase de análise do PLOA pelo Congresso Nacional corroboram-se
+os apontamentos de Figueiredo e Limongi (2008), no sentido da limitação e circunscrição
+legal da atuação do parlamento na fase legislativa PLOA, sendo oriundas do parlamento
+emendas limitadas à realocação geográfica de recursos em investimentos.
+
+Sobre as emendas parlamentares, primeiro ponto de análise é a distribuição de
+emendas de acordo com o seu tipo. As emendas parlamentares são divididas em emendas
+individuais, de comissão, de bancada e de relator, nesse último caso subdividindo-se em
+emendas de relator geral e relator setorial.
+
+Quanto aos valores e tipos das emendas aprovadas, predominam as emendas de
+Bancada. Conforme Tabela 5, no ano de 2014, por exemplo, 89,49% das emendas atendidas
+no autógrafo são desse tipo. Em segundo lugar aparecem as emendas individuais que, no
+ano de 2014, representaram 8,56% das emendas aprovadas. Desse modo, pelo menos em
+primeira análise, não se corrobora a argumento de Bernando e Mueller (2002), no qual
+emendas individuais seriam preferidas pelos parlamentares como forma de destinar
+
+recursos para seu reduto eleitoral.
+55
+
+Tabela 5 — Programa Oferta de Água: distribuição das emendas quanto ao tipo de autor
+
+ 
+
+ 
+
+Autor (Tipo) 2012 Yo 2013 Yo 2014 Yo
+BANCADA ESTADUAL 287834092 58,86% 223.782.345 67,12% 460.569.225 89,49%
+COMISSÃO CÂMARA DOS
+DEPUTADOS 80.000.000 16,36% 6.500.000 1,97% — 5.000.000 0,97%
+COMISSÃO SENADO
+FEDERAL 0 0,00% O 0,00% 5.000.000 0,97%
+DEPUTADO FEDERAL 92.645.000 18,95% 91.865.000 27,80% 35.785.000 6,95%
+SENADOR 5.150.000 1,05% 8.300.000 2,51% 8.286.000 1,61%
+RELATOR SETORIAL 23.356.829 4,78% 0 0,00% 0 0,00%
+RELATOR GERAL 0 0,00% 0 0,00% 0 0,00%
+TOTAL 488.985.921 100% — 330.447.345 100% 514.640.225 100%
+
+ 
+
+Fonte: Siga Brasil.
+Nota: Apenas GND 4.
+
+Dessa forma, grande parte dos recursos movimentados pelo Congresso Nacional
+são definidos por atores coletivos e/ou institucionais. No caso do Programa Oferta de Água,
+a ampla maioria das emendas é apresentada por bancadas estaduais. Tanto a apresentação
+quanto à aprovação de emendas coletivas e institucionais são reguladas de maneira estrita
+pelas resoluções internas a Comissão Mista de Orçamento. Usando o argumento de
+Figueiredo e Limongi (2008), dadas essas regras, pode-se supor que o montante aprovado
+responde, de fato, a demandas coletivas e gerais.
+
+Para Figueiredo e Limongi (2008), os regulamentos da CMO estabelecem os
+atores autorizados a apresentar emendas e a maneira pela qual essas emedas devem ser
+apresentadas e acatadas pelo relator. Por exemplo, no que se refere às emendas de bancadas
+estaduais, o Regulamento Interno da CMO (2003) condiciona sua apresentação ao apoio de
+dois terços da representação do estado em cada uma das Casas Legislativas. Ademais, as
+bancadas estaduais podem apresentar um máximo de vinte e três emendas. Sendo que as
+bancadas com mais de onze parlamentares poderão apresentar, além do mínimo de dezoito
+emendas, uma emenda adicional para cada grupo completo de dez parlamentares da
+bancada que excederam a onze parlamentares (CONGRESSO NACIONAL, 2003).
+
+A percepção de que as emendas de bancada do programa correspondem, de fato, à
+concertação de interesses entre os parlamentares da bancada estadual foi corroborada nas
+entrevistas realizadas junto ao legislativo. Todos os entrevistados expuseram opinião
+
+semelhante, alinhada ao ponto de vista apresentado por Figueiredo e Limongi (2008).
+56
+
+Na verdade as emendas de bancada são de comum acordo. Há uma negociação
+dentro da bancada. O governo é do PT e a prefeitura é do democratas, tem a
+negociação dentro da bancada. Uma coisa que o ACM Neto queira
+prioritariamente e que a oposição abre um espaço para a situação. Mas é tudo de
+comum acordo. Até porque são poucas emendas. O valor é alto, o montante de
+emendas de bancada é alto, mas são poucas emendas. E elas acabam não sendo
+liberadas, e isso não é desse governo ou o do Lula, historicamente as emendas de
+bancada não são executadas. (Entrevistado Legislativo B, 2014)
+
+As emendas de bancada não são repartição de emendas individuais. Elas
+representam um acordo. Imagine que nós temos trinta deputados e aí o acordo é
+feito. Um grupo defende que tenha recurso pra saúde, outro defende recursos para
+a defesa e outros que tenha recursos hídricos. Aí depois de negociação os
+deputados decidem. Não tem uma semana que não tenha reunião de bancada. E
+aí, esses acordos vêm, também, de acordo com os interesses da sociedade.
+Felizmente os deputados têm tido essa sensibilidade. (Entrevistado Legislativo C,
+2014)
+
+Os entrevistados do Poder Executivo expressaram opinião semelhante. Nenhum
+deles expressou conhecimento acerca de acordos entre parlamentares para utilizar-se de
+emendas coletivas para disfarçar emendas individuais, nos termos apresentados por Pereira
+
+e Mueller (2002, p. 272).
+
+(...) Não é raro que parlamentares entrem em acordo com políticos nos estados e
+municípios para propor emendas individuais — Conhecidas como “rachadinhas” —
+disfarçadas de coletivas, pois consistem na apresentação de emendas genéricas ao
+orçamento, sem indicação do municípios onde será aplicado o recurso. Depois de
+aprovada a emenda, entretanto, os parlamentares enviam para o ministério
+responsável pela obra um lista de municípios que deverão ser contemplados na
+hora da liberação da verba.
+
+Quanto às emendas individuais, constata-se que representam percentual pequeno
+frente ao total de emendas apresentadas. Sob a tese de que o individualismo dos políticos
+nacionais seria exacerbado, esperar-se-ia que houvesse maiores valores relativos a emendas
+individuais e, principalmente, que o Congresso não produzisse, por si próprio, amarras
+institucionais que limitassem seu poder de alterar o Projeto de Lei Orçamentária.
+
+Uma das possíveis explicações para esse fato pode estar relacionado ao valor
+máximo de emendas distribuído uniformemente para cada parlamentar. No caso do
+Programa Oferta de Água, o valor total da cota para emendas individuais dos parlamentares
+não é suficiente para abarcar o custo da maioria dos projetos afetos ao programa. Dessa
+maneira, há desestimulo para a apresentação de emendas individuais e estímulo a
+apresentação de emendas de bancada. Ou seja, o teto de recursos sobre o qual incidem as
+
+emendas individuais acaba por dirigir, necessariamente, seus valores para investimentos de
+57
+
+pequeno porte, o que desestimula a alocação de tais recursos em ações de infraestrutura
+hídrica e, como consequência, no Programa.
+
+A título de comparação, ao orçamento de 2014, foram disponibilizados R$ 14.6
+milhões de reais para que cada deputado apresentasse suas emendas. Este valor foi,
+posteriormente, contingenciado para R$ 10.6 milhões pelo Poder Executivo. Vale lembrar
+que percentual desse valor ainda teve de ser alocado em emendas destinadas à saúde. Dessa
+maneira, restariam poucos recursos livres para a destinação de verbas ao programa
+(CONGRESSO NACIONAL, 2013).
+
+A restrição de montante das emendas individuais foi citada por alguns
+entrevistados oriundos do Poder Legislativo como limitador para a destinação de verbas
+para o programa. De acordo com um dos entrevistados, no que se refere a programas
+focados na oferta de recursos hídricos, as emendas individuais tendem a ser destinadas a
+programas de construção de cisternas. Ocorre que a construção de cisternas são
+empreendimentos de menor monta se comparados aos recursos necessários para a
+
+construção de adutoras e barragens, obras típicas do Programa Oferta de Água.
+
+Quase não há contingenciamento na questão do poço artesiano. Adutoras não, a
+gente atua mais sobre obras menores. Até pelas características das emendas e da
+região em que o deputado trabalha. O foco são obras menores. (Entrevistado
+Legislativo B, 2014)
+
+Essa ideia é também tratada por Figueiredo e Limongi (2008). Segundo os autores,
+em função do teto de recurso sobre os quais incidem, as emendas individuais são
+necessariamente dirigidas para investimento de pequeno porte. A tabela 6 exibe o valor
+médio das emendas por local de aplicação. A tabela deixa claro que os valores médios das
+
+emendas individuais são bastante inferiores aos dos demais tipos de emendas.
+
+Tabela 6 — Valor médio das emendas por tipo de autor e local de aplicação
+
+ 
+
+Valor médio da emenda
+
+ 
+
+ 
+
+Autor
+União/Região Estados Municípios  Totalda LOA
+Comissões 19.300.000 - - 19.300.000
+Bancadas Estaduais - 31.218.422 18.469.751 28.593.696
+Parlamentares 250.000 1.035.981 581.897 975.931
+Relator Setorial 2.451.052 13.552.621 - 4.671.366
+
+ 
+
+Fonte: Siga Brasil.
+Nota: Apenas GND 4.
+58
+
+A análise da distribuição dos recursos por local de aplicação por parte dos Poderes
+Executivo e Legislativo, conforme exposto na tabela 7, revela tendência de maior localismo
+do Poder Legislativo. O Congresso aloca uma proporção maior de recursos em nível
+municipal do que o Executivo. Enquanto o Legislativo destina 10,96% dos recursos para o
+nível local, o Executivo designa apenas 1,62%. No outro extremo, o Executivo aloca
+54,12% de seus recursos a nível nacional/regional, enquanto que o Legislativo destina
+apenas 8,01%. No que se refere ao Legislativo, a grande maioria dos recursos é distribuído
+
+a nível estadual (81,04%).
+
+Tabela 6 — Distribuição das despesas de investimentos por local de aplicação
+
+ 
+
+Valor total da emenda
+
+ 
+
+ 
+
+Autor
+União/Região Estados Municípios Total da LOA
+Executivo 54,12% 44,26% 1,62% 100,00%
+Legislativo 8,01% 81,04%, 10,96% 100,00%
+
+ 
+
+Fonte: Siga Brasil.
+Nota: Apenas GND 4.
+
+Enquanto a distribuição das emendas por tipo de autor revela importância restrita
+das emendas individuais e, pelo menos aparentemente, reforça o argumento de que a lógica
+de atuação estritamente eleitoral do Congresso deve ser mitigada, a Tabela 7 reforça a tese
+de que o Congresso atuaria de forma mais localista na determinação da alocação
+orçamentária.
+
+Sob esse argumento, o parlamento seria não apenas mais localista, concentrando
+seus gastos a nível municipal, como também responsável por uma dispersão maior de
+recursos, o que resultaria em valores médios de emendas menores das emendas individuais.
+
+A Tabela 7 mostra que, no que se refere ao Programa Oferta de Água, o
+Legislativo realmente tende a concentrar mais os recursos por ele alocados. Já a tabela 8
+mostra que os valores médios das emendas legislativas são, de fato, menores se comparados
+às dotações médias do poder Executivo.
+
+Além disso, os valores médios das emendas destinadas a municípios são bastante
+
+inferiores às médias das dotações destinadas a Estados.
+59
+
+Tabela 8 - Valores médios das emendas parlamentares e das dotações do executivo por local de
+aplicação
+
+ 
+
+Valor total da emenda
+
+ 
+
+Autor Total da
+União/Região Estados Municípios LOA
+Executivo 96.103.206 15.911.129 3.682.051 26.425.027
+Legislativo 9.709.473 4.412.678 4.0606.490 4.305.733
+
+ 
+
+Fonte: Siga Brasil.
+Nota: Apenas GND 4.
+
+As Tabelas 6 e 8 trazem o valor total e os valores médios das emendas tipo de
+autor e por local de aplicação. O objetivo é de que, por meio delas, se possa aprofundar a
+argumentação de que de que o Congresso seria fundamentalmente localista, ou seja, haveria
+uma distinção básica entre os dois poderes em relação à localização e montante das
+emendas.
+
+Quanto ao valor médio das emendas, a Tabela 8 trouxe valores já esperados. A
+tendência é de que os valores médios das emendas destinadas aos municípios sejam
+menores que os valores médios alocados em nível estadual e nacional/regional. Ademais,
+constata-se que, estando as emendas individuais sujeitas aos limites impostos pelo próprio
+Congresso Nacional, seus valores médios são menores, se comparados aos montantes
+médios das emendas das bancadas estaduais e das comissões, que, por sua vez, não
+carregam consigo limites tão estritos.
+
+Todavia, na contramão dos resultados obtidos por Figueiredo e Limongi, a Tabela
+9 revela que as emendas individuais não são as grandes responsáveis pelo viés localista da
+atuação do Legislativo. Figueiredo e Limongi (2008), em estudo sobre o percentual das
+emendas parlamentares destinadas a investimentos, obtiveram o resultado de que nada
+menos que 90% das dotações destinadas a municípios decorrem de emendas individuais.
+
+No que se refere ao Programa Oferta de Água, tal magnitude não se confirma, a
+Tabela 9 mostra que 88,45% dos recursos de emendas destinadas a municípios são oriundos
+de bancadas estaduais. Além disso, 1,62% dos recursos destinados ao programa pelo Poder
+Executivo são destinados aos municípios. Esse percentual corresponde ao montante de
+R$ 146,6 milhões, o que, por sua vez, perfaz 50% da dotação destinada pelo programa para
+
+os municípios.
+60
+
+Tabela 7 — Valor total das emendas por local de aplicação: 2012 a 2014
+
+ 
+
+Percentual da emenda
+
+ 
+
+ 
+
+Autor
+União/Região Estados Municípios
+Comissões 90,35% 0 0
+Bancadas Estaduais 0 77,97% 88,45%
+Parlamentares 0,47% 20,78% 11,55%
+Relator Setorial 9,18% 1,25%
+
+ 
+
+Fonte: Siga Brasil.
+Nota: Apenas GND 4.
+
+Quanto à localização geográfica das dotações orçamentárias, as emendas, na
+grande maioria das situações, preveem investimentos em estados também priorizados pelo
+Executivo e afetados por déficits hídricos. Nesse sentido, reforça-se a tese de que, no que se
+refere ao Programa Oferta de Água, as agendas dos Poderes Legislativo e Executivo são
+semelhantes. A Tabela 10 mostra que a distribuição percentual dos recursos alocados pelos
+Poderes Executivo e Legislativo é semelhante para a maioria dos casos.
+
+Tal percepção foi corroborada nas entrevistas realizadas. De forma geral, os
+entrevistados concordam que as obras previstas pelo Legislativo vão ao encontro dos
+
+objetivos do Poder Executivo.
+
+Não tem conflito entre o parlamento e o executivo. As obras do legislativo estão
+previstas no programa e querem acabar com o problema da seca. (Entrevistado
+Legislativo D, 2014)
+
+Em entrevistas realizadas junto a técnicos do Executivo foi ressaltado que o grande
+impedimento para a execução das emendas individuais são de ordem burocrática, no
+sentido de dificuldades de os municípios atenderem aos requisitos exigidos pelo Ministério
+
+da Integração Nacional para a liberação da verba necessária para execução das obras.
+
+Recurso para as emendas existe, o problema são os municípios que não
+conseguem fazer a parte deles, documentação, licitação, projetos. Nós temos
+interesse em realizar as obras, até porque, várias das emendas contemplam
+projetos bons para o executivo. (Entrevistado Executivo A, 2014)
+
+Da mesma forma, de parte do Legislativo, a sensação é de que o programa visa ao
+enfrentamento de problemas reais vividos por estados da federação que convivem com
+escassez de recursos hídricos. A ressalva é feita ao projeto de transposição do Rio São
+
+Francisco, criticado por alguns entrevistados oriundos do Poder Legislativo, inclusive da
+61
+
+base governista. Todavia, as demais obras previstas pelo Executivo para o Programa Oferta
+
+de Água são vistas com bons olhos pelos entrevistados oriundos do Legislativo.
+
+Tabela 8 — Distribuição das dotações por estado
+
+ 
+
+ 
+
+ 
+
+ 
+
+te EXECUTIVO LEGISLATIVO
+R$ % R$ %
+AL 690.101.232 16,94% 17.750.000 1,45%
+BA 284.487.814 6,98% 124.000.241 10,10%
+CE 606.055.712 14,88% 172.163.000 14,03%
+ES 0 0,00% 22.000.000 1,79%
+Go 300.000 0,01% 0 0,00%
+MA 0 0,00% 6.900.000 0,56%
+MG 287.600.705 7,06% 94.202.621 7,68%
+MT 0 0,00% 500.000 0,04%
+PB 798.899.858 19,61% 370.752.514 30,21%
+PE 709.326.487 | 17,41% 126.286.682 10,29%
+PI 263.597.628 6,47% 160.419.225 13,07%
+PR 0 0,00% 1.000.000 0,08%
+RJ 800.000 0,02% 500.000 0,04%
+RN 167.200.000 4,10% 22.900.000 1,87%
+RS 111.196.000 2,73% 450.000 0,04%
+SC 46.785.715 1,15% 275.000 0,02%
+SE 107.297.634 2,63% 98.450.000 8,02%
+SP 0 0,00% 2.320.000 0,19%
+TO 0 0,00% 6.400.000 0,52%
+Total 4.073.648.785  100,00% | 1.227.269.283 100,00%
+
+ 
+
+Fonte: Siga Brasil.
+Nota: Apenas GND 4.
+
+De forma sucinta, na tentativa de sumarizar os achados pertinentes à fase
+legislativa do PLOA, observa-se, primeiramente, que as restrições legais e institucionais à
+atuação Legislativo no processo orçamentário se confirmam, nos termo apontados por
+Figueiredo e Limongi (2008). Ademais, evidenciou-se que as emendas individuais tem peso
+pequeno, frente ao universo de emendas apresentadas ao programa. Quanto à localização
+geográfica das dotações, demonstrou-se que os estados para onde se destinam os projetos
+previstos pelos parlamentares não se diferenciam muito daqueles selecionados pelo Poder
+
+Executivo.
+62
+
+Por outro lado, o Congresso Nacional é mais localista e dispersa mais os recursos
+que aloca. No que se refere ao Programa Oferta de Água, mesmo para as emendas coletivas
+e institucionais, verificam-se dispersão nas alocações. São justamente as emendas de
+bancada as responsáveis pela maior parte das dotações destinadas pelo Congresso Nacional
+
+aos municípios.
+
+42 EXECUÇÃO ORÇAMENTÁRIA
+
+Mais informações acerca da relação existente entre os dois Poderes podem ser
+colhidas por meio da análise da execução orçamentária por parte do Executivo.
+Inicialmente, todavia, faz-se necessária pequena digressão acerca do contexto geral sobre o
+qual opera a execução orçamentária no Brasil.
+
+O caráter autorizativo da lei orçamentária, bem como a possibilidade de
+remanejamento de recursos entre rubricas, dentro de um teto pré-definido em LOA, sem
+consulta prévia ao legislativo, garante bastante autonomia ao Poder Executivo (PEREIRA E
+MULLER, 2002; FIGUEIREDO E LIMONGI, 2008; SANTOS, 1997a). Ao longo do ano,
+durante a execução do orçamento, o executivo contingencia gastos, liberando os recursos
+financeiros de acordo com o comportamento da arrecadação das receitas.
+
+Um panorama sobre as despesas governamentais mostra que os gastos com
+investimento são, de forma geral, financiados por recursos de livre movimentação, isto é,
+aqueles em que não há vinculação entre a arrecadação e despesa. Os recursos de livre
+aplicação são bastante escassos entre as receitas governamentais, uma vez que, no
+orçamento brasileiro, há elevado montante de gastos protegidos por determinações
+constitucionais e legais, que contam com prioridade frente aos gastos com investimentos.
+
+Além disso, as despesas com investimentos são as que mais sofrem restrições, a
+fim de atender as necessidades da política macroeconômica sob a qual o governo opera.
+Dessa forma, não é de estranhar que, de forma geral, as taxas de execução das despesas
+com investimentos sejam sempre inferiores aos montantes aprovados (FIGUEIREDO E
+LIMONGI, 2008).
+
+A participação relativa do Poder Legislativo, no efetivo gasto com investimentos,
+
+pode ser analisada, inicialmente, tomando-se como referência a participação percentual do
+63
+
+parlamento entre os valores consignados na LOA e comparando-a ao percentual
+efetivamente executado ao final do exercício financeiro.
+
+Como mostra a Tabela 11, para os dois anos em análise”, não há tendência definida
+acerca da relação da participação congressual na LOA e, posteriormente, nas despesas
+executadas. No ano de 2012, a tendência foi a participação legislativa maior na LOA do
+que nos valores executados. Enquanto na LOA 20,15% do orçamento advinha do
+Legislativo, apenas 0,38% das despesas executadas foram fixadas pelos parlamentares.
+Naquele ano, portanto, o Executivo pareceu privilegiar fortemente a execução dos gastos
+que ele próprio definiu.
+
+No ano seguinte a situação mudou diametralmente, 24,31% das despesas
+executadas foram oriundas do Poder Legislativo, em contraposição a 11.17% das rubricas
+constantes da LOA. O peso do Legislativo nas despesas executadas, portanto, foi muito
+superior ao do ano anterior. Cabe salientar que, no período em destaque, não houve
+
+execução de restos a pagar oriundos de emendas parlamentares.
+
+Tabela 9 — Participação relativa do Legislativo nos gasto de investimento do Programa Oferta de Água:
+Lei Orçamentária Anual e despesas executadas (%)
+
+ 
+
+ 
+
+ANO LOA Despesas Executadas
+2012 20,15% 0,38%
+2013 11,17%, 24,31%
+
+ 
+
+FONTE: Siga Brasil
+
+Nota 1: Apenas GND 4.
+Nota 2: Inclui suplementações.
+
+Nota 3: Despesa Liquidada.
+
+A análise das informações colhidas parece apontar para a situação descrita em
+literatura na qual o Executivo, que tem grande poder discricionário sobre a execução do
+orçamento anual, estaria utilizando tais prerrogativas para fazer pressão sobre a atuação dos
+parlamentares. Dessa forma, o aumento da participação percentual do Legislativo nas
+
+despesas executadas no ano de 2013, poderia estar relacionado a benesses oferecidas pelo
+
+“A opção foi por não incluir o ano de 2014 na análise. A escolha se deve ao fato de que a preparação do
+presente trabalho se dar ainda no primeiro semestre do ano de 2014. É padrão conhecido nos gastos com
+investimentos a acentuação de empenhos e liquidações ao final do ano. Dessa forma, caso se considerasse a
+execução do primeiro semestre de 2014, poder-se-ia passar a falsa impressão ao leitor de que a execução
+orçamentária no referido ano está aquém da execução dos demais anos sob análise.
+64
+
+Executivo em troca de votos em projetos de seu interesse. Ou seja, o Executivo poderia
+estar agindo estrategicamente ao liberar a execução orçamentária das emendas.
+
+Todavia, as entrevistas junto aos técnicos do Poder Executivo não confirmaram tal
+suposição. De acordo com o entrevistado Executivo A, representante do MI, não há
+orientação acerca de quais emendas serão executadas. Segundo ele, quando uma emenda
+não é executada, deve-se a dificuldades dos municípios cumprirem com as condicionantes
+de execução estabelecidas pelo MI. “Não há isso de segurar emendas individuais. Há
+recursos para o programa. Os municípios têm dificuldade em apresentar os documentos
+exigidos pela Portaria”.
+
+Parte da explicação pode estar no fato de que a execução orçamentária do
+programa como um todo tenha ficado aquém do esperado. Dessa forma, com os baixos
+níveis de execução das ações propostas pelo Executivo, teria sido mais fácil para que a
+proporção de emendas executadas no programa como um todo crescesse.
+
+Outro possível motivo para o crescimento da proporção da execução do orçamento
+advindo do Legislativo pode estar relacionado à própria dinâmica do Programa Oferta de
+Água. No primeiro ano de programa, as exigências impostas pelo Ministério da Integração,
+em virtude da circunstância de recém criação, podem ter representado obstáculo maior se
+comparadas às mesmas exigência no ano seguinte, período em que já houve tempo
+suficiente para a adequação dos munícipios às exigências do referido Ministério.
+
+Tal suposição, todavia, não pode ser corroborada sem a análise de série histórica
+que demostre padrão de execução semelhante ao de 2013 para os anos seguintes. Apenas
+com período de análise mais alongado que a tese exposta no parágrafo anterior poderia ser
+melhor analisada. Dessa forma, para o caso em questão, a restrição temporal do período de
+execução do programa sob debate no presente trabalho constitui-se em limitação da análise
+do ponto ora em discussão.
+
+A tese de que, no ano de 2013, a execução das emendas parlamentares estaria
+relacionada a eventuais recompensas, por parte da Presidente da República, a parlamentares
+
+que sistematicamente votam a favor dos projetos de interesse do Poder Executivo pode ser
+
+? Portaria Interministerial nº 507/2011, que regula os convênios, os contratos de repasse e os termos de
+cooperação celebrados pelos órgãos e entidade da Administração Pública Federal
+65
+
+colocada à prova pela análise da taxa de execução das emendas individuais em relação à
+orientação política dos parlamentares envolvidos.
+
+Inicialmente, cabe ressaltar que naquele ano a grande maioria das emendas
+executadas era proveniente de emendas individuais. De acordo com informações do sistema
+Siga Brasil, naquele ano apenas emendas de comissões e parlamentares foram executadas.
+As emendas de comissões somavam R$ 6,5 milhões enquanto que as emendas
+parlamentares somavam R$ 100,2 milhões.
+
+A Tabela 12 mostra que o fato de o parlamentar pertencer ou não à base do
+governo não tem influência na taxa de execução de suas emendas. No ano de 2012, a taxa
+de execução dos congressistas de oposição foi pouco superior à taxa verificada para os
+membros da base aliada. No ano de 2013, o percentual de execução dos dois grupos
+continuou bastante próximo. Assim, parecem se comprovar os resultados das entrevistas
+realizadas junto aos representantes do Poder Executivo, nas quais os entrevistados
+afirmaram não haver preferências no que se refere à execução de emendas vinculadas à
+
+orientação política dos parlamentares.
+
+Tabela 10 — Execução de emendas individuais em investimento e posição dos parlamentares: Programa
+Oferta de Agua.
+
+ 
+
+Taxa de Execução (%)
+
+ 
+
+ 
+
+ 
+
+2012 2013 2014
+Baserdo Oposição Base do Oposição Baseido Oposição
+Governo posiç Governo posiç Governo posiç
+1,66 2,78 74,45 73,38 0 0
+
+ 
+
+Fonte: Siga Brasil.
+
+Nota 1: O cálculo da taxa de execução foi feito levando-se em consideração o valor das emendas
+individuais liquidadas sobre o valor das emendas aprovadas, e compreende apenas os valores
+relativos a investimentos.
+
+Nota 2: Relatório extraído em 5 de junho de 2014.
+
+Por sua vez, o tipo de emenda parece ter influência nas chances de os
+parlamentares verem suas emendas executadas. A análise da Tabela 12 merece algumas
+considerações iniciais. Primeiro, o percentual de 92,31% de execução das emendas de
+comissão da Câmara dos Deputados em 2013 pode ser relativizado. No PLOA daquele ano
+foram apresentadas apenas R$ 6,5 milhões de reais em emendas de comissão. Como o valor
+
+total das emendas é baixo, qualquer execução orçamentária implicará em elevados índices
+66
+
+percentuais de execução. O mesmo não se pode afirmar das emendas individuais. No ano
+de 2013 foram apresentadas R$ 100,2 milhões em emendas.
+
+De todo modo, chama atenção a baixa execução das emendas de bancada. No ano
+de 2013, por exemplo, foram apresentadas R$ 223,8 milhões em emendas de bancadas
+estaduais. Mesmo naquele ano, quando houve aumento da taxa de execução de emendas,
+não foram executadas nenhuma emenda de bancada. As entrevistas realizadas junto aos
+responsáveis pelas emendas, nos gabinetes dos parlamentares, demostraram que a tendência
+à baixa execução das emendas apresentadas pelas bancadas estaduais é ideia difundida
+dentro do parlamento. É opinião geral entre os entrevistados que tais emendas não estão
+dentre as prioridades de execução por parte do Poder Executivo e que raramente são
+executadas.
+
+Mesmo no ano de 2012, quando R$ 124 milhões de emendas de bancada foram
+alocadas no PAC, não houve execução. De acordo com técnicos do poder executivo, ainda
+que inclusas no PAC, a execução de emendas dependem de autorização direta dos ministros
+de estado. Portanto, no que se refere ao Programa, emendas de bancada parecem ter
+
+menores chance de execução.
+
+Tabela 11 — Taxa de execução das emendas por tipo
+
+ 
+
+ 
+
+TIPO DE EMENDA 2012 2013
+Bancada Estadual 0,01% 0,00%
+Comissão Câmara dos Deputados 0,00% 92,31%
+Individuais 1,80% 74,21%
+Relator Setorial 0,24% -
+
+ 
+
+Fonte: Siga Brasil.
+
+No que se refere à execução orçamentária, portando, verifica-se que não há
+tendência definida acerca da relação entre a participação congressual na LOA e,
+posteriormente, nas despesas orçamentárias. A análise das informações da execução
+orçamentária aponta para a situação na qual o Executivo, que tem grande poder
+discricionário sobre a execução do orçamento anual, estaria utilizando tais prerrogativas
+para fazer pressão sobre a atuação dos parlamentares.
+
+Todavia, tal tese não se comprovou nas entrevistas realizadas. Parte da explicação
+
+pode estar no fato de que a execução orçamentária do programa como um todo ficou aquém
+67
+
+do esperado. Outra possível razão pode estar relacionada à própria dinâmica do Programa
+Oferta de Água. No primeiro ano de programa, as exigências do Ministério da Integração
+podem ter representado obstáculo maior se comparadas às mesmas exigências no ano
+seguinte, situação em que já houve tempo suficiente para a adequação dos munícipios às
+exigências. Todavia, essa tese não pode ser corroborada sem a análise de série histórica
+mais alongada, que demostre padrão de execução semelhante ao de 2013 para os anos
+seguintes.
+
+As informações da execução do orçamento e a percepção dos entrevistados
+mostram que o fato de o parlamentar pertencer ou não à base do governo tem pouca
+influência na taxa de execução de suas emendas. Por sua vez, o tipo de emenda parece ter
+influência nas chances de os parlamentares verem suas emendas executadas. Neste caso,
+chama atenção a baixa execução das emendas de bancada. É ideia difundida entre os
+entrevistados oriundos do Poder Legislativo que esse tipo de emenda tem poucas chances
+
+de execução.
+
+4.3 ORÇAMENTO IMPOSITIVO
+
+A LDO-2014 trouxe inovação quanto às regras de programação e execução
+orçamentária. De acordo com o art. 52 da referida lei, a execução das emendas individuais
+inseridas na LOA 2014 são de execução obrigatória. A execução obrigatória deve
+corresponder a até 1,2% da receita corrente líquida realizada no exercício anterior, sendo
+que metade desse percentual deve ser destinado à saúde.
+
+De forma a regulamentar a execução de tais emendas, seguindo orientação do
+Ministério do Planejamento e da Secretaria de Relações Institucionais da Presidência da
+República, o Ministério da Integração Nacional publicou a Portaria nº 104, de 10 de março
+de 2014, que trata da análise acerca da viabilidade de execução de emendas individuais ao
+orçamento 2014. A referida portaria estabelece os critérios sobre os quais as emendas
+individuais, teoricamente obrigatórias, devem ser executadas.
+
+De foram sucinta a Portaria nº 104 estabelece que os órgão e entidades vinculadas
+ao MI deverão opinar pela aprovação ou reprovação da execução de cada emenda
+individual, sendo sua reprovação condicionada aos casos em que forem configurados
+
+impedimento de ordem técnica. Impedimentos de ordem técnica são aqueles que obstam o
+68
+
+curso regular da realização da despesa referente à emenda individual de execução
+obrigatória. Exemplo de impedimento de ordem técnica seria a previsão de emenda para
+obra que não conta com os projetos necessários à sua execução.
+
+Acontece que, na opinião dos entrevistados que atuam como responsáveis pelo
+acompanhamento de emendas nos gabinetes dos parlamentares, as condicionantes
+estabelecidas pela portaria acabam por inviabilizar a execução da ampla maioria das
+
+emendas individuais.
+
+O governo aí criou um caso. O que o governo fez? Fez o impedimento técnico. É
+um absurdo isso de impedimento técnico. Um item que falta da prefeitura eles
+falam que é impedimento técnico. Se é pra ser obrigatório, tudo tem que ser
+obrigatório. Qualquer coisa mínima que acontece eles taxam a obra de inviável. O
+governo usa dois pesos e duas medidas. Quando é o Executivo que faz a política
+ele não faz isso. (Entrevistado Legislativo A, 2014)
+
+Na prática, portanto, emendas que, nos termos da LDO, deveriam ser de execução
+obrigatória, acabam tendo a liberação de seus recursos financeiros vinculada à autorização
+do Ministério da Integração Nacional.
+
+Apenas a título de ilustração, a Portaria nº 104 considera como impedimento de
+ordem técnica os projetos considerados, pelo MI, incompatíveis com o objeto do programa
+do órgão ou mesmo da ação orçamentária. Na prática, portanto, mesmo com a determinação
+da LDO, a decisão sobre executar ou não uma emenda ainda está a cargo do Poder
+Executivo.
+
+Assim, na realidade da política pública, supõe-se que a execução orçamentária das
+emendas parlamentares deverá ficar pouco alterada se comparada com a execução das
+emendas em anos anteriores. Apenas a título de ilustração, até o mês de maio de 2014,
+ainda não havia sido executado nenhum montante referente a emendas parlamentares.
+
+A afirmação ganha força ao se recordar que, de acordo com técnicos do Poder
+Executivo, o principal motivo para a não execução das emendas individuais é a falta de
+capacidade dos municípios em atender às exigências do Programa. Dessa maneira, espera-
+se que, durante a execução orçamentária de 2014, tal situação seja enquadrada como
+
+impedimento de ordem técnica.
+69
+
+5 CONSIDERAÇÕES FINAIS
+
+O Programa 2051 - Oferta de Água, do Plano Plurianual - PPA 2012-2015,
+pretende realizar a implementação de uma política de integração nacional que atue sobre
+disparidades regionais, sejam elas sociais, econômicas ou de disponibilidade hídrica. Além
+da transposição do Rio São Francisco, o programa agrega outros diversos projetos de
+sistemas abastecimento, adutoras, barragens, poços de águas subterrâneas e demais obras de
+infraestrutura hídrica.
+
+Sob responsabilidade do Ministério da Integração Nacional, o programa tem como
+objetivo final assegurar a oferta de água, no ano de 2025, a cerca de 12 milhões de
+habitantes de pequenas, médias e grandes cidades da região semiárida dos estados de
+Pernambuco, Ceará, Paraíba e Rio Grande do Norte (BRASIL, 2004). A fundamentação do
+programa, conforme consta do PPA 2012-2015, aponta para a adoção de ações integradas
+de gestão dos recursos hídricos e de expansão da disponibilidade de água, com o objetivo
+de suprir necessidades de abastecimento humano, nas regiões com déficit hídrico, e de
+contemplar os usos múltiplos da água, de modo a atender as crescentes demandas da
+indústria, do turismo, da agricultura e do saneamento básico (BRASIL, 2011).
+
+O Programa Oferta de Água não foge à complexidade inerente à implementação de
+políticas públicas. Apesar de contar com orçamento elevado, R$ 3,9 bilhões em 2014, e ter
+incluídas no PAC grande parte de suas ações, o programa sofre com dificuldades na
+execução das obras!”. O programa parece ser uma política eminentemente top-down,
+asseverando-se a crítica ao modelo de cima para baixo debatido por Hill (2006). Para o
+autor, esse ponto de vista é fundamentado, equivocadamente, no modelo de estágios,
+buscando uma nítida distinção entre as etapas de formulação e implementação de políticas,
+cujos objetivos e metas foram decididos previamente, isto é, implica a existência de um
+momento anterior à ação que abarca o processo de formulação e tomada de decisão. Assim,
+a barganha, a negociação e o debate sobre a política pública seriam dispensáveis, em favor
+
+da decisão autoritária e sem a deliberação que é típica de regimes políticos democráticos.
+
+!9 Vale lembrar que a partir da instituição do PAC, os Decretos de Programação Orçamentária e Financeira
+editados pelo Poder Executivo excetuam as obras do programa do contingenciamento orçamentário. Assim,
+pelo menos em teoria, os projetos previstos no Programa Oferta de Agua não sofreriam com escassez de
+recursos.
+70
+
+Esta pesquisa realizou estudo sobre as implicações do arranjo institucional no
+processo orçamentário, em especial, da relação entre os Poderes Legislativo e Executivo e
+das características da atuação do parlamento no momento da definição da proposta
+orçamentária e ao longo da execução financeira do Programa Oferta de Água.
+
+Um primeiro ponto relevante evidenciado é que, no que se refere à implementação
+do programa, o Poder Executivo direciona seus esforços para as obras do portfólio do Plano
+de Aceleração do Crescimento, e principalmente para o projeto de Transposição do Rio São
+Francisco. A parte do programa fora do PAC, caso das obras incluídas via emendas
+parlamentares, tem menor estrutura à disposição e estão em um segundo plano de
+prioridades.
+
+A estrutura de implementação montada pelo Ministério da Integração Nacional
+tem característica peculiar. Os projetos que fazem parte da Transposição do Rio São
+Francisco contam com melhor estrutura que aquelas destinadas às demais obras do
+programa (mesmo que as obras do programa incluídas no PAC e não constantes da
+Transposição). Mais funções gratificadas estão à disposição da equipe técnica responsável
+pela transposição, além disso, o edifício e o mobiliário da equipe envolvida no projeto do
+Rio São Francisco são mais novos e melhores. Entrevistas realizadas junto a servidores de
+gabinetes de parlamentares corroboraram esse ponto de vista
+
+Ademais, a parte do programa que pertence ao PAC conta importante estrutura de
+implementação e monitoramento de obras fora do âmbito do Ministério da Integração
+Nacional. As obras do PAC são acompanhadas por secretaria específica dentro do
+Ministério do Planejamento (SEPAC).
+
+Os projetos do PAC não sofrem com restrições orçamentárias durante sua
+execução, uma vez que são excepcionados nos Decretos de Programação Orçamentária e
+Financeira, ou seja, seus recursos não sofrem contingenciamento. Outro ponto desfavorável
+aos projetos incluídos via emendas parlamentares (que via de regra estão fora do PAC) é
+que estes não são executados diretamente pelo Poder Executivo Federal. De forma geral, as
+emendas são executadas via convênios com estados e, principalmente, com municípios.
+Dessa maneira, em decorrência da fragilidade institucional de grande parte dos municípios
+brasileiros, contam com capacidade de implementação muito menor se comparada à
+
+federal.
+n
+
+Portanto, constata-se que, no que se refere ao Programa Oferta de Água, projetos
+oriundos do Legislativo contam com aparato de implementação mais frágil, sofrem mais
+com restrições orçamentárias e tem menos chances de serem executados.
+
+Quanto à inclusão de projetos parlamentares no PAC, via emendas ou via
+influência política durante a fase de preparação do PLOA, o resultado da pesquisa não
+corroborou o argumento de Pereira e Mueller (2002), no qual a atuação parlamentar
+refletiria interesses individuais, em que prevaleceria uma perspectiva parcial e local de
+enfrentamento ao problema em questão. As entrevistas evidenciaram que os escassos
+projetos de interesse dos parlamentares incluídos no PAC são resultado de cooperação de
+diversos atores dentro e fora do parlamento. Exemplo é a Barragem de Fronteira no Ceará,
+caso em que a bancada estadual, o Governador do estado e o Ministério da Integração
+Nacional trabalharam conjuntamente pela inclusão da obra no Plano.
+
+Desde sua criação, em 2012, o programa ganhou importância frente ao total de
+investimentos governamentais. Naquele ano as dotações orçamentárias destinadas ao Oferta
+de Água correspondiam a 2,89% do total dos recursos de investimentos do governo federal.
+Em 2014, esse percentual passou para 4,76%.
+
+Todavia, o percentual do programa oriundo de emendas parlamentares variou
+durante o período de tempo considerado. Em 2012, 20,05% dos recursos do programa
+consignados em LOA advieram de emendas parlamentares. No ano seguinte, talvez pelas
+dificuldades de execução das emendas parlamentes pelo Poder Executivo, o percentual do
+orçamento oriundo do Legislativo caiu para 9,67%.
+
+A análise da fase de discussão do orçamento do programa no Congresso Nacional
+evidenciou, inicialmente, que as restrições ao poder de emendar apontadas por Figueiredo e
+Limongi (2008) aplicam-se no caso do programa. A Constituição Federal, disposições
+legais e regulamentos, tal qual o Regulamento Interno da CMO, restringem o poder de
+emendar dos parlamentares e fazem com que as emendas se limitem a realocação
+geográfica de recursos.
+
+Limitador fundamental da atuação parlamentar, principalmente no que se refere à
+proposição de emendas individuais, é o valor da cota financeira de emendas individuais por
+parlamentar. Devido aos elevados montantes dos projetos típicos do programa (barragens,
+
+adutoras, etc.), tal regra acaba por dificultar a apresentação de emendas parlamentares
+72
+
+individuais e a restringir os projetos incluídos via emendas a obras menores de interesse
+eminentemente local.
+
+Nesse sentido, as emendas individuais atendem aos requisitos apontados por
+Ellwood e Patashnik (1993) para caracterização de emendas do tipo pork, quais sejam: os
+benefícios são direcionados a um eleitorado geograficamente bem definido, pequeno o
+suficiente para que um parlamentar sozinho seja reconhecido como seu benfeitor; os
+benefícios são alocados de tal forma a levar o eleitorado a acreditar que o parlamentar teve
+responsabilidade nisto; e os custos advindos do projeto são largamente difusos ou não são
+percebidos pelo contribuinte.
+
+Todavia, a análise das emendas por tipo de autor revelou que as emendas
+individuais têm papel secundário dentre aquelas aprovadas pelo Parlamento. No caso do
+Programa Oferta de Água predominam as emendas de bancada. No ano de 2014, por
+exemplo, as emendas de bancada corresponderam e 90% das emendas atendidas no
+autógrafo. Assim, mitiga-se a importância das emendas individuais, que são em grande
+parte emendas do tipo pork.
+
+No que se refere à execução orçamentária, verifica-se, incialmente, que
+informações retiradas da execução do orçamento e a percepção dos entrevistados
+demonstram que o fato de o parlamentar pertencer ou não à base do governo tem pouca
+influência na taxa de execução de suas emendas. Por sua vez, o tipo de emenda parece ter
+influência nas chances de os parlamentares verem suas emendas executadas. Neste caso,
+chama atenção a baixa execução das emendas de bancada. É ideia difundida, entre os
+entrevistados oriundos do Poder Legislativo, que esse tipo de emenda tem poucas chances
+de execução.
+
+Também se observou que não há tendência definida acerca da relação entre a
+participação congressual na LOA e, posteriormente, nas despesas orçamentárias. A análise
+das informações da execução parece apontar para a circunstância na qual o Executivo usa
+seu poder discricionário sobre a execução do orçamento anual, e distribui a execução de
+emendas como forma de direcionar a atuação parlamentar no sentido de seus interesses.
+
+Todavia, essa tese não pode ser comprovada nas entrevistas realizadas. Uma das
+
+possibilidade de explicação pode residir no fato de a execução orçamentária do programa
+73
+
+como um todo ter ficado aquém do esperado. Outra possível explicação pode estar
+relacionada à própria dinâmica do Programa Oferta de Água.
+
+Sob esse argumento, no primeiro ano de programa, as exigências do Ministério da
+Integração podem ter representado obstáculo maior, se comparadas às mesmas obrigações
+no ano seguinte, situação em que já houve tempo suficiente para a adequação dos
+municipios.
+
+Todavia, essa tese não pode ser corroborada sem a análise de série histórica mais
+alongada, que demostre padrão de execução semelhante para os anos seguintes. O curto
+período de implementação do programa constituiu-se em limitação da pesquisa. Com
+menos de três anos desde a publicação do PPA 2012-2013 e apenas dois exercícios
+completos de implementação orçamentária, não se pôde definir padrão claro de atuação dos
+dois Poderes. Assim, há necessidade de período de implementação mais longo, para que
+sejam colocadas explicações mais sólidas acerca da fase etapa de execução orçamentária.
+
+De forma geral, portanto, a atuação parlamentar no programa mostrou-se limitada
+por alguns condicionantes. Em primeiro lugar, o valor máximo estipulado para as emendas
+individuais dificulta a inserção de projetos oriundos do Legislativo no programa. Essa
+constatação é reforçada pelos baixos índices de execução das emendas de bancada. Tal
+verificação pode ser aplicada a outras políticas públicas de investimento, no sentido de que
+os elevados montantes dos projetos podem significar barreira à entrada do Legislativo por
+meio de emendas.
+
+Ademais, a elevada taxa de execução orçamentária, observada no ano de 2013, e
+sua indistinção frente a orientação política do parlamentar - situação ou oposição, aponta
+para o argumento de que as agendas dos dois poderes, pelo menos para o caso aqui
+estudado, são complementares. O fato é que, quando não foram executadas, ano de 2012,
+sofreram emendas de deputados governistas e de oposição. No ano seguinte, quando da
+execução de parte das emendas, foram liberadas verbas para ambos os lados. As entrevistas
+realizadas junto aos técnicos do Poder Executivo corroboram esse achado. Para os
+entrevistados, não há distinção na hora de executar ou não um projeto, sendo o principal
+empecilho para a liberação de recursos as dificuldades de adequação dos municípios às
+
+regras previstas pelo Governo Federal.
+74
+
+Por fim, foram feitas algumas considerações acerca das inovações presentes na
+LDO-2014, no sentido de obrigar a execução das emendas parlamentares individuais. Sobre
+o assunto, constatou-se que, apesar do regramento, a análise acerca da viabilidade técnica
+da execução das emendas acaba por manter o poder decisório de execução ou não de uma
+emenda nas mãos do Poder Executivo. Assim, na prática, pode-se supor que, ao longo do
+ano 2014, a execução orçamentária das emendas parlamentares será pouco alterada se
+comparada à execução em anos anteriores.
+
+Entende-se que este trabalho pode vir a contribuir para uma reflexão mais
+aprofundada sobre os efeitos das características peculiares de determinada política pública
+na relação entre os Poderes Executivo e Legislativo. Visto pelo prisma da política pública,
+este trabalho contribui para a discussão acerca da do papel desempenhado pelo Congresso
+Nacional no tema.
+
+A análise da alocação e da execução orçamentária levou a discussão detalhada
+sobre os conflitos e ajustes entre os dois Poderes. Nesse sentido, demostrou-se as
+implicações decorrentes do arranjo institucional do processo orçamentário no desenrolar do
+
+programa Oferta de Água.
+to
+
+6 REFERÊNCIAS
+
+ALSTON, Lee J; MUELLER, Bernardo. Pork for policy: Executive and Legislative
+Exchange in Brazil. Working Paper 11273. National Bureau of Economic Research.
+Cambrigde, April, 2005.
+
+BARDIN, Laurence. Análise de Conteúdo. Lisboa: Edições 70. 2009.
+
+BARTLE, John R.; MA, Jun. Applying transaction cost theory to public budgeting and
+finance. In: BARTLE, John R. (Ed.). Evolving theories of public budgeting. Oxford:
+Elsevier Science Ltd., 2001, p. 157-181.
+
+BITTENCOURT, Fernando Moutinho Ramalho. Relações Executivo Legislativo no
+presidencialismo de coalização: um quadro de referência para estudos de orçamento e
+controle. Brasília, 2012. Disponível em:
+<http://www 12.senado.gov.br/publicacoes/estudos-legislativos/tipos-de-estudos/textos-
+para-discussao/td- 1 12-relacoes-executivo-legislativo-no-presidencialismo-de-coalizao-um-
+quadro-de-referencia-para-estudos-de-orcamento-e-controle>. Acessado em 02 de outubro
+de 2013.
+
+ 
+
+ 
+
+BOBBIO, Norberto; MATTEUCCI, Nicola; PASQUINO, Gianfranco. Dicionário de
+política. Rio de Janeiro: Paz e Terra, 1995.
+
+BRASIL. AGÊNCIA NACIONAL DE ÁGUAS. Síntese do Resumo Executivo do Plano
+Decenal de Recursos Hídricos da Bacia Hidrográfica do Rio São Francisco — PBHSF
+(2004-2013). Brasília, 2004. Disponível em:
+<http://www.ana.gov.br/prhbsf/arquivos/Sintese Resumo Exec.pdf>. acessado em 01 de
+agosto de 2013.
+
+ 
+
+ 
+
+ 
+
+. CONGRESSO NACIONAL. Regulamento Interno da Comissão Mista de
+Planos, Orçamentos Públicos e Fiscalização, 2003. Disponível em
+http://www .camara.gov.br/internet/comissao/index/mista/orca/Legisla CMO/Regulamento
+“interno CMO.pdf. Acessado em 03 de junho de 2014.
+
+ 
+
+ 
+
+. CONGRESSO NACIONAL. Manual de Emendas. Orçamento da União para
+2014. Disponível em
+http://www .camara.gov.br/internet/comissao/index/mista/orca/orcamento/or2014/emendas/
+Manual emendas.pdf. Acessado em 03 de junho de 2014.
+
+ 
+
+. CONTROLADORIA GERAL DA UNIÃO - CGU. Acompanhamento do
+projeto de integração do Rio São Francisco com bacias do nordeste setentrional.
+Disponível em
+76
+
+<http://www.senado.gov.br/atividade/materia/getPDF .asp?t=1 1971 | &tp=1>. Acessado em
+01 de agosto de 2013.
+
+ 
+
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL. Plano estratégico de
+desenvolvimento sustentável do semiárido. Versão para discussão. Brasília, 2005.
+
+. MINISTÉRIO DO PLANEJAMENTO ORÇAMENTO E GESTÃO. Plano
+Plurianual 2012-2015. Brasília, DF, 2011.
+
+. CÂMARA DOS DEPUTADOS (CD). 40 Anos de Consultoria Legislativa:
+consultores legislativos e consultores de orçamento. Série obras comemorativas.
+homenagem; n 1. Brasília: Edições Câmara, 2011. 200p.
+
+CASTRO, César Nunes de. Transposição do rio São Francisco: análise de oportunidade
+do projeto. Brasília: Ipea, 2011 (Texto para discussão, n. 1577).
+
+CUNHA, Alexandre dos Santos. Saneamento básico no Brasil: desenho institucional e
+desafios federativos. Brasília: Ipea, 2001 (Texto para discussão, n. 156).
+
+DAVIS, Otto, A.; DEMPSTER, M.A.H.; WIDAVSKY, Aaron. 4 Theory of the Budgetary
+Process. The American Political Science Review, Vol. 60, nº 3, set.1966, pp. 529-547.
+
+ELLWOOD, John N.; PATASHNICK, Eric M. In praise of Pork, Public Interest, Nº 110,
+Winter. 1993, pp. 19-33.
+
+GOODE, W.J.; HATT, P.K. Métodos em pesquisa social. Sa ed. São Paulo: Companhia
+Editora Nacional, 1979.
+
+HAM, Christopher; HILL, Michael. O processo de elaboração de políticas no estado
+capitalista moderno. Londres, 1993, 2º edição. Traduzido por Renato Amorim e Renato
+Dagnino.
+
+HILL, Michael. Implementação: uma visão geral. In: SARAVIA, Enrique; FERRAREZI,
+Elisabete. (orgs). Políticas Públicas: coletânea. Brasília: ENAP, 2006. vol. 2
+
+HUNTIGTON, Samuel. Political Order in Changing Societies, New Haven, Yale
+University
+Press, 1968.
+
+JONES, Bryan; D. ZALÂÁNYI, László; ÉRDI, Péter. Path Dependency as Exponential
+Incrementalism: The Dynamics of the US National Budget, 1791-2010. Texto de discussão.
+August 2012.
+
+LEMOS, Leany Barreiro de Sousa; RICCI, Paolo. Individualismo e partidarismo na lógica
+parlamentar: o antes e o depois das eleições. In. POWER, Timothy; ZUCCO, Cesar. O
+Cogresso por ele mesmo. Autopercepções da classe política brasileira. Editora UFMG,
+2011.
+71
+
+LINDBLOM, Charles E. O processo de decisão política. Brasília: Editora UnB, 1981.
+
+LIMONGI, Fernando; FIGUEIREDO, Argelina Cheibub. Bases Institucionais do
+Presidencialismo de Coalizão. Lua Nova, São Paulo. Cedec, v. 44, p.81-106, 1998.
+
+. Executivo e Legislativo na Nova Ordem Constitucional. Rio de Janeiro,
+Fundação Getúlio Vargas Editora, 1999.
+
+. Processo Orçamentário e Comportamento Legislativo: Emendas Individuais,
+Apoio ao Executivo e Programas de Governo. Dados — Revista de Ciências Sociais, Rio de
+Janeiro, Vol. 48, nº 4, 2005, pp.737 a 776.
+
+. Política Orçamentária no Presidencialismo de Coalizão. Rio de Janeiro:
+Editora FGV, 2008.
+
+MAINWARING, Scott P. Rethinking Party Systems and Party Systems in the Third Wave
+of Democratization: The Case of Brazil. Stanford, Stanford University Press. 1999
+
+MARTINS, Angela Maria; PIMENTA, Cláudia Oliveira; LOPES, Valéria Virgínia.
+Contratos, Convênios e Parcerias na Gestão da Educação em Municípios de Regiões
+Metropolitanas: Tensões e Desafios. Edu. Soc., Campinas, v. 34, nº 125, p.1049-1074, out.-
+dez. 2013.
+
+MELO, Marcus André. O viés majoritário na Política Comparada: responsabilização,
+desenho institucional e qualidade democrática. Revista Brasileira de Ciências Sociais. V.
+22,N. 63, p. 12-29, 2007.
+
+MELO, Marcus André; SILVA, Pedro Luiz Barros, “O Processo de Implementação de
+Políticas Públicas no Brasil: Características e Determinantes na avaliação de programas e
+projetos”. Caderno NEPP-UNICAMP, nº 48, 2000.
+
+PEREIRA, Carlos; MUELLER, Bernardo. Uma teoria da preponderância do Poder
+Executivo: O sistema de comissões no Legislativo brasileiro. Revista Brasileira de Ciências
+Socais, Vol. 15, nº 43, 2000.
+
+PEREIRA, Carlos; MUELLER, Bemardo. Comportamento Estratégico em
+Presidencialismo de Coalizão: As Relações entre o Executivo e Legislativo na Elaboração
+do Orçamento Brasileiro. Dados — Revista de Ciências Sociais. Rio de Janeiro, Vol. 45, nº
+8, 2002, pp. 265 a 301.
+
+PIRES JÚNIOR, José Antônio Meyer. Emendas Orçamentárias Individuais: “Pork
+Barrel” brasileiros? Revista da CGU, 1 (1), 2006. pp. 86-103.
+
+PORTEBA, James. State Response to Fiscal Crises: The Effects of Budgetary Institutions
+and Politics. Journal of Political Economy, 1994, vol. 102, no 4, pp. 79.
+REGO, Antônio Carlos P. do. As Relações Executivo-Legislativo no Brasil
+Contemporâneo. In: PEIXOTO. João Paulo M (org.). Governando o Governo:
+Modernização da Administração Pública no Brasil. São Paulo: Atlas, 2008.
+
+REIS, Fábio Wanderley. Governabilidade, Instituições e Partidos". Novos Estudos
+Cebrap, nº 41, São Paulo, março, 1995.
+
+. Mercado e Utopia. Rio de Janeiro: Centro Edelstein de Pesquisas Sociais,
+2009.
+
+RICHARDSON, Roberto Jarry. Pesquisa Social: Métodos e Técnicas. São Paulo: Atlas,
+1985.
+
+SANTOS, Fabiano. Patronagem e Poder de Agenda na Política Brasileira. DADOS, 40
+(3), 1997a, Rio de Janeiro: IUPERJ, 1997.
+
+. Partidos e Comissões no Presidencialismo de Coalizão. DADOS — Revista de
+Ciências Sociais, Rio de Janeiro, Vol. 45, nº 2, 2002, pp. 237 a 264.
+
+SANTOS, Maria Helena de Castro. Governabilidade, Governança e Democracia: Criação
+de Capacidade Governativa e Relações Executivo-Legislativo no Brasil Pós-
+Constituinte. Dados [online]. 1997b, vol.40, n.3.
+
+SANTOS, Maria Helena; MACHADO, Érica Mássimo; ROCHA, Paulo Eduardo Nunes de
+Moura. O Jogo Orçamentário da União: Relações Executivo-Legislativo na Terra do Pork-
+Barrel. In: DINIZ, Eli; AZEVEDO, Sérgio de (org.). Reforma do Estado e Democracia no
+Brasil. Brasília: Editora Universidade de Brasília, 1997.
+
+SCARTASCINI, Carlos. ;Quién es quién en el juego político? Describiendo a los actores
+que intervienen, y sus incentivos y funciones. In: SCARTASCINL, Carlos (Ed.): SPILLER,
+Pablo (Ed.); STEIN, Emesto (Ed.); TOMMASI, Mariano (Ed.) ;Cómo se deciden las
+políticas públicas? Colombia: BID, 2011, p. 33-74.
+
+STEIN, Ernesto; TALVI, Ernesto; GRISANTI, Alejandro. Institutional Arrangements and
+Fiscal Performance: The Latin American experience. Inter-American Development Bank.
+Working paper 367. Washington, D.C., 1998.
+
+SHUGART, Matthew S. e CAREY, Jonh M. Presidents and assemblies — constitutional
+design and electoral dynamics. Cambridge, Cambridge University press, 1992.
+
+TSEBELIS, George. Decision Making in Political Systems: Veto Players in
+Presidentialism, Parliamentarism, Multicameralism and Multipartyism. British Journal of
+Political Science, Vol. 25, No. 3, P. 289-325, Jul., 1995.
+
+VIANA, Luna Bouzada Flores. Entre o Abstrato e o Concreto: Legados do Embate sobre o
+Projeto de Integração do São Francisco ou da Transposição. Dissertação de Mestrado.
+Brasília, 2011.
+APÊNDICE 1 - Roteiro de Entrevista: Poder Executivo
+
+1. O objetivo da entrevista é colher informações acerca da influência exercida pelo
+Poder Legislativo na alocação de recursos e execução orçamentária do Programa
+Oferta de Água.
+
+2. Os nomes das pessoas entrevistadas serão mantidos em sigilo. Será apontado apenas a
+
+que poder pertence o entrevistado.
+
+3. Pretende-se que a entrevista dure aproximadamente uma hora.
+4. O senhor(a) receberá um cópia de toda e qualquer publicação em que a entrevista for
+utilizada.
+
+Bloco 1 — Informações sobre o programa
+1. Qual sua função em relação o Programa Oferta de Água?
+2. Qualo papel do Ministério do Meio Ambiente no programa?
+3. De um ano para o outro, observamos que o PLOA, mesmo antes de o projeto chegar
+ao Poder Legislativo, inclui novos projetos para o programa. Como se dá o processo
+para inclusão das obras no programa?
+
+4. Quais projetos são necessários para inclusão da obra no programa?
+
+5. Existe canal para que a sociedade em geral se manifeste em relação às obras
+
+necessárias ao programa?
+
+6. Quais projetos são necessários para início das obras?
+
+7. Como se dá o acompanhamento das obras do programa?
+
+8. Em que fase de andamento estão as obras do programa?
+9.
+
+Como se dá o processo para inclusão das obras no PAC?
+
+10. No âmbito do Programa, como se dá a discussão Integração x Trasposição do Rio
+
+São Francisco? No programa, existem medidas de revitalização da bacia?
+
+Bloco 2 — Relação Executivo-Legislativo
+
+1.
+
+Como o trabalho parlamentar contribui para o programa?
+
+Como o Poder Legislativo influencia o Programa?
+
+No que se refere ao Programa Oferta de Água, como você vê a relação entre
+Executivo e Legislativo, no processo de alocação de recursos, na fase do Projeto de
+
+Lei Orçamentária Anual - PLOA?
+
+No que se refere ao Programa Oferta de Água, como você vê a relação entre
+
+Executivo e Legislativo durante a execução do programa oferta de água?
+
+O Congresso Nacional participa ativamente na escolha das obras a serem
+
+executadas?
+
+As emendas parlamentares contribuem positivamente para o programa?
+
+Emendas de parlamentares tendem a ser executadas?
+
+Emendas provenientes de partidos da base de governo têm maiores chances de
+
+serem executadas?
+
+O fato de a grande maioria das ações do programa estar incluída no PAC influencia
+
+na relação entre os poderes Legislativo e Executivo?
+10. O fato de a grande maioria das ações do programa estar incluída no PAC faz com
+
+que o Poder Executivo tenda a executar emendas de parlamentares da oposição?
+82
+
+APÊNDICE 2 - Roteiro de Entrevista: Poder Legislativo
+
+O objetivo da entrevista é colher informações acerca da influência exercida pelo
+Poder Legislativo na alocação de recursos e execução orçamentária do Programa
+
+Oferta de Água.
+
+2. Os nomes das pessoas entrevistadas serão mantidos em sigilo. Será apontado apenas
+a que poder pertence o entrevistado.
+
+Pretende-se que a entrevista dure aproximadamente uma hora.
+
+4. O senhor(a) receberá um cópia de toda e qualquer publicação em que a entrevista
+for utilizada.
+
+Perguntas:
+
+1. Como o trabalho parlamentar contribui para o programa?
+
+2. Como o Poder Legislativo influencia o Programa?
+
+3. No que se refere ao Programa Oferta de Água, como você vê a relação entre
+Executivo e Legislativo, no processo de alocação de recursos, na fase do Projeto de
+Lei Orçamentária Anual - PLOA?
+
+4. No que se refere ao Programa Oferta de Água, como você vê a relação entre
+Executivo e Legislativo durante a execução do programa oferta de água?
+
+5. O Congresso Nacional participa ativamente na escolha das obras a serem
+executadas?
+
+6. As emendas parlamentares contribuem positivamente para o programa?
+
+7. Emendas de parlamentares tendem a ser executadas?
+8. Emendas provenientes de partidos da base de governo têm maiores chances de
+
+serem executadas?
+
+9. O fato de a grande maioria das ações do programa estar incluída no PAC influencia
+
+na relação entre os poderes Legislativo e Executivo?
+
+10. O fato de a grande maioria das ações do programa estar incluída no PAC faz com
+
+que o Poder Executivo tenda a executar emendas de parlamentares da oposição?
+
+11. Os projetos que constam das emendas coletivas (bancada e comissão) são repartidas
+de entre os deputados de forma a, na realidade, representarem apanhado de emendas
+individuais?
+

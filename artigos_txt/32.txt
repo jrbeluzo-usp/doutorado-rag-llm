@@ -1,0 +1,998 @@
+Execução dos programas orçamentários nas Universidades
+Federais Brasileiras: um estudo das influências
+
+Thiago José Galvão das Neves (UFPE) - thiago.nevesQufpe.br
+
+Jeronymo Libonati (UFPE) - jeronymolibonatiGyyahoo.com.br
+
+Marco Tullio de Castro Vasconcelos (UFPE) - mtullio2(gmail.com
+Hermano Perrelli de Moura (UFPE) - hermanoQcin.ufpe.br
+
+Umbelina Cravo Teixeira Lagioia (UFPE) - umbelinalagioiaQterra.com.br
+
+Juliana Araújo (UFPE) - juhliana.araujoQgmail.com
+Resumo:
+
+Esta pesquisa objetivou analisar se o perfil da universidade federal influencia a execução
+orçamentária dos programas Brasil Universitário e Desenvolvimento do Ensino da
+Pós-Graduação e da Pesquisa Científica. Para tanto, procedeu-se um estudo das informações
+sobre o desempenho orçamentário das ações desses programas fornecidas por dezenove
+universidades de quatro regiões do país, por meio da Lei de Acesso à Informação e disponíveis
+no site do Senado Federal. Foram utilizados o método da tabulação cruzada das variáveis
+investigadas e o teste de hipótese, com auxílio do pacote estatístico Statistical Package for
+Social Sciences (SPSS), versão 16.0 para Windows. Após a análise estatística inferencial,
+realizada por meio do teste não paramétrico Kruskal-Wallis, a investigação concluiu que a
+localização da universidade influencia a realização do empenho; a liquidação e o pagamento
+dos créditos orçados. Também constatou-se que a composição orçamentária influencia a
+alteração orçamentária; a realização do empenho e o pagamento dos créditos orçados. Os
+resultados dos testes demonstram ainda que os investimentos possuem os mais baixos índices
+de pagamento no exercício em que foram orçados.
+
+Palavras-chave: Execução Orçamentária; Prestação de Contas; Universidades Federais
+
+Área temática: Custos aplicados ao setor público
+XX Congresso Brasileiro de Custos - Uberlândia, MG, Brasil, 18 a 20 de novembro de 2013
+
+Execução dos programas orçamentários nas Universidades Federais
+Brasileiras: um estudo das influências
+
+Resumo
+
+Esta pesquisa objetivou analisar se o perfil da universidade federal influencia a execução
+orçamentária dos programas Brasil Universitário e Desenvolvimento do Ensino da Pós-
+Graduação e da Pesquisa Científica. Para tanto, procedeu-se um estudo das informações sobre
+o desempenho orçamentário das ações desses programas fomecidas por dezenove
+universidades de quatro regiões do país, por meio da Lei de Acesso à Informação e
+disponíveis no site do Senado Federal. Foram utilizados o método da tabulação cruzada das
+variáveis investigadas e o teste de hipótese, com auxílio do pacote estatístico Statistical
+Package for Social Sciences (SPSS), versão 16.0 para Windows. Após a análise estatística
+inferencial, realizada por meio do teste não paramétrico Kruskal-Wallis, a investigação
+concluiu que a localização da universidade influencia a realização do empenho; a liquidação e
+o pagamento dos créditos orçados. Também constatou-se que a composição orçamentária
+influencia a alteração orçamentária; a realização do empenho e o pagamento dos créditos
+orçados. Os resultados dos testes demonstram ainda que os investimentos possuem os mais
+baixos índices de pagamento no exercício em que foram orçados.
+
+Palavras-chaves: Execução Orçamentária - Prestação de Contas - Universidades Federais
+
+Área Temática: Custos Aplicados ao Setor Público
+
+1 INTRODUÇÃO
+
+Por meio da Portaria n. 42/1999 do Ministério de Planejamento, Orçamento e Gestão o
+Estado brasileiro implantou uma nova metodologia de planejamento, a gestão por programas.
+Segundo Marinho (2001), a análise desse modelo mostra um resgate da técnica do orçamento-
+programa; uma mudança estrutural na forma de planejar a coisa pública e o fim de um
+planejamento no qual a avaliação se restringe aos meios e aos processos, sem nenhum foco
+nos resultados trazidos pelos serviços públicos à sociedade.
+
+Estruturado a partir de dois pressupostos: cobrança de resultados e realidade
+problematizada, este novo modelo de gestão possui como foco o monitoramento e a avaliação
+dos resultados (MARINHO, 2001). Com essa nova metodologia, acredita-se que os agentes
+públicos possam planejar melhor seus gastos e que a sociedade possa ser capaz de identificar
+os responsáveis pela gestão de cada programa e avaliar seus resultados.
+
+Com a reforma da administração pública e a implantação do modelo gerencial,
+surgiram debates sobre a acessibilidade das informações públicas e, consequentemente, o
+aperfeiçoamento da prestação de contas pelos governantes à sociedade (PRADO, 2007). Para
+fazer face a essas mudanças, foi necessário modificar o processo de planejamento do
+orçamento público federal.
+
+Conforme Giacomoni (2003), o processo de planejamento do orçamento brasileiro
+passou por uma reformulação entre os anos de 1998 e 2000 com a introdução de novos
+conceitos, definições e classificações objetivando possibilitar avaliações quantitativas e
+qualitativas dos resultados de uma ação do govemo. Houve o relançamento do Orçamento-
+Programa e a sua divisão por Programas Orçamentários, com a finalidade de combater
+XX Congresso Brasileiro de Custos - Uberlândia, MG, Brasil, 18 a 20 de novembro de 2013
+
+problemas sociais e possibilitar um maior acompanhamento pela sociedade dos recursos
+disponibilizados. Nos Estados Unidos a implantação de um modelo semelhante de orçamento
+possibilitou uma melhor análise do custo-benefício das ações (MACHADO, 2005).
+
+As Universidades Federais de Ensino Superior (IFES) não fogem à regra das demais
+instituições públicas quanto à necessidade de adequação a um novo modelo de
+gerenciamento. Nessas IFES, o orçamento é dividido em programas que representam a forma
+como elas planejam a alocação de seus recursos para atendimento da demanda do público
+assistido e, conforme Marinho (2001), funcionam como elo que garante efetivamente a
+integração entre o planejamento e o orçamento.
+
+Nesse contexto, os programas Brasil Universitário e Desenvolvimento do Ensino da
+Pós-Graduação e da Pesquisa Científica ganham destaque por representarem cerca de 37%
+dos R$ 63,7 bilhões do orçamento do Ministério da Educação, conforme dados contidos no
+orçamento aprovado para o exercício de 2011 desse Ministério. Já no que conceme às
+universidades e a seus hospitais-escola, eles corresponderam a 72% do montante de crédito
+disponível previsto na Lei Orçamentária Anual para as IFES.
+
+Sendo assim, o seguinte questionamento descreve o problema que norteia a presente
+pesquisa:
+
+O perfil da universidade federal influencia a execução orçamentária dos programas
+Brasil Universitário e Desenvolvimento do Ensino da Pós-Graduação e da Pesquisa
+Científica?
+
+O perfil das Universidades Federais foi levantado conforme modelos de investigação
+propostos por esta pesquisa, os quais se baseiam em duas características: região de localização
+e composição do orçamento executado pelas universidades. Com relação à execução
+orçamentária, esta pesquisa utilizou-se das etapas para execução da despesa pública previstas
+na Lei 4.320/64 como base para formulação dos indicadores.
+
+A região de localização refere-se ao local em que a universidade está situada e, por
+conseguinte, onde o programa e suas ações estão sendo executados. Já a composição do
+orçamento executado pelas universidades foi separada por grupo de despesa, conforme
+previsto na Lei de Diretrizes Orçamentária.
+
+Após a identificação do problema de pesquisa formulado, a hipótese geral deste
+estudo pode ser apresentada da seguinte forma:
+
+Hipótese Geral: Existe uma associação entre o perfil da universidade federal e a
+execução orçamentária dos programas Brasil Universitário e Desenvolvimento do Ensino da
+Pós-Graduação e da Pesquisa Científica.
+
+A partir dessa hipótese geral, decorre a seguinte hipótese estatística:
+
+HO: o perfil da universidade federal não influencia a execução orçamentária dos
+programas Brasil Universitário e Desenvolvimento do Ensino da Pós-Graduação e da
+Pesquisa Científica.
+
+H1: o perfil da universidade federal influencia a execução orçamentária dos
+programas Brasil Universitário e Desenvolvimento do Ensino da Pós-Graduação e da
+Pesquisa Científica.
+
+O presente estudo teve como objetivo geral analisar se o perfil da universidade federal
+influencia a execução orçamentária dos programas orçamentários Brasil Universitário e
+Desenvolvimento do Ensino da Pós-Graduação e da Pesquisa Científica. Para tanto, buscou-se
+investigar as legislações pertinentes sobre a prestação de contas das IFES; comparar as
+XX Congresso Brasileiro de Custos - Uberlândia, MG, Brasil, 18 a 20 de novembro de 2013
+
+universidades federais, em termos quantitativos, no tocante à execução orçamentária dos
+programas Brasil Universitário e Desenvolvimento do Ensino da Pós-Graduação e da
+Pesquisa Científica; e analisar as principais interferências na execução dos Programas Brasil
+Universitário e Desenvolvimento do Ensino da Pós-Graduação e da Pesquisa Científica.
+
+A presente pesquisa se justifica pelo desenvolvimento de investigações que busquem
+contribuir para a elevação da eficácia e eficiência na execução dos programas orçamentários
+das IFES, com base no estudo da execução orçamentária dos programas Brasil Universitário e
+Desenvolvimento do Ensino da Pós-Graduação e da Pesquisa Científica.
+
+Para Campos (1990), eficiência está diretamente ligada ao conceito de accountability.
+Conforme Aucoin e Heintzman (2000, p.49):
+
+Os cidadãos, o poder legislativo e a administração pública precisam assegura-se que
+
+a autoridade pública e os recursos estatais esteja sendo usados em consonância com
+
+a lei, políticas públicas e nos serviços públicos. Isso constitui, precisamente, na
+maior dimensão da accountability.
+
+A accountability, exercida por esses responsáveis por administrar recursos escassos e
+necessidades múltiplas, só poderá atingir sua plenitude quando os cidadãos adquirirem um
+nível de consciência capaz de reivindicar, de seus representantes, informações mais claras e
+úteis para o pleno exercício do controle social.
+
+Assim, acredita-se que um estudo sobre a execução dos programas Brasil Universitário
+e Desenvolvimento do Ensino da Pós-Graduação e da Pesquisa Científica nas universidades
+federais contribuirá para um direcionamento adequado às entidades da Administração Pública,
+em especial quando se identificou possíveis associações de perfis das IFES com essa
+execução.
+
+O presente estudo está estruturado em cinco capítulos. No primeiro, foi introduzido e
+contextualizado o tema de pesquisa, discutindo-se a importância dos programas Brasil
+Universitário e Desenvolvimento do Ensino da Pós-Graduação e da Pesquisa Científica para
+as Universidades Federais. O enfoque da pesquisa, os objetivos, a justificativa e a estrutura do
+trabalho também integram essa introdução.
+
+No capítulo seguinte, é realizado um breve histórico sobre os aspectos relacionados ao
+financiamento público de universidades; a universidades federais no Brasil; ao orçamento
+dessas IFES e aos programas Brasil Universitário e Desenvolvimento do Ensino da Pós-
+Graduação e da Pesquisa Científica. No terceiro é apresentada a metodologia que norteou a
+presente pesquisa e no quarto são discutidos os resultados do presente estudo. No último
+capítulo, apresenta-se a conclusão do trabalho e sugestões para pesquisas futuras. Por fim,
+encontram-se as referências que embasaram a elaboração desta investigação.
+
+2 REFERENCIAL TEÓRICO
+2.1 Financiamento de Universidades Públicas
+
+Segundo Bertonha (2002), no modelo de financiamento das universidades americanas
+existem Instituições de Referências que são privadas, mas que recebem grandes volumes de
+financiamentos públicos e que são responsáveis pela maioria das pesquisas e da formação da
+elite intelectual do país. Para este autor, um financiamento de universidades baseado apenas
+em cobrança de mensalidades dos alunos nos levaria a um modelo que quase destruiu o
+sistema universitário e científico na Argentina.
+
+Aponta ainda Bertonha (2002) a busca no sistema americano pela eficiência e pela
+qualidade, sendo o professor avaliado periodicamente tanto nas atividades docentes como nas
+relacionadas a pesquisas. O autor retrata também que a comprovação de pouca eficiência pode
+XX Congresso Brasileiro de Custos - Uberlândia, MG, Brasil, 18 a 20 de novembro de 2013
+
+levar o educador a perder o emprego. Segundo o autor, tal busca é compartilhada pelo sistema
+Europeu, onde as Universidades são em regra públicas e gratuitas.
+
+Veugelers e Van Der Ploeg (2008, p.107-108) estudaram ainda financiamento das
+universidades europeias, que em regra são públicas, em relação às americanas e concluíram
+que:
+
+O investimento total no ensino superior na UE está abaixo do nível de seus
+principais concorrentes. Em particular, por aluno, é quase metade do nível de que
+nos EUA. A natureza do financiamento público para a educação varia
+consideravelmente entre os países e tempo com os escandinavos, os quais tem um
+financiamento muito maior. Diferenças entre os países nos gastos tornam-se ainda
+mais pronunciadas quando a fonte de público versus privado, se este financiamento
+é considerado, a lacuna no financiamento privado é particularmente importante. As
+diferenças no nível de investimento privado são resultado de diferenças no
+pagamento de incentivos (a maioria dos países da UE não têm incentivos), na
+participação de instituições privadas, em financiamento filantrópico, contribuições
+de ex-alunos e do nível de financiamento fomecido por empresas. E por isso que as
+universidades americanas são muito mais bem financiadas do que os seus
+homólogos europeus.
+
+Com uma demanda cada vez mais crescente por qualificação, bem como com a
+dificuldade do poder público de diversos países de prover as Instituições de Ensino Superior
+com recursos necessários, surge um debate sobre a avaliação dessas IFES e a otimização no
+uso de seus recursos (WORLD BANK, 1994).
+
+No Brasil, as universidades públicas que executam orçamentos da União são
+denominadas de Universidades Federais.
+
+2.2Universidades F ederais no Brasil
+
+O Decreto-lei 200/67, que instituiu a reforma administrativa, regulou a formação da
+administração indireta. Após esse normativo, as universidades adquiriram o direito a ter
+patrimônio próprio e de administrar suas próprias receitas. Essa descentralização
+administrativa e financeira afastou a subordinação hierárquica dessas instituições federais ao
+Ministério da Educação, mas não o controle ministerial deste sobre as atividades das
+universidades (PETER, 2004).
+
+De acordo com Silveira (2006), as universidades poderão e deverão ser hoje
+observadas e estudadas como “organizações”, à luz dos conhecimentos das diferentes teorias
+das organizações e da administração. Elas não devem ser tratadas como uma organização
+simples. Sua estrutura, forma de govemo, processo de decisão e objetivos, lhes garante uma
+peculiaridade incomum quando comparada com a maioria dos órgãos da administração, mas
+não as a imunizam do dever de seguir as regras e princípios do direito público.
+
+Sua autonomia administrativa e financeira fez surgir a necessidade de um
+planejamento de suas ações e programas, bem como da elaboração de um orçamento factível
+com as demandas da comunidade acadêmica e em consonância com a capacidade de
+financiamento do governo federal.
+
+2.3 Orçamento das Universidades F ederais no Brasil
+
+As universidades integram o Orçamento do Ministério da Educação e desde 2009
+tiveram, no seu orçamento, a separação dos seus hospitais de ensino. Assim como os demais
+órgãos públicos federais, elas possuem um orçamento dividido por Programas Orçamentários
+que representam as demandas ou problemas diagnosticados para a parcela da sociedade
+XX Congresso Brasileiro de Custos - Uberlândia, MG, Brasil, 18 a 20 de novembro de 2013
+
+assistida e que funcionam como elo que garante efetivamente a integração entre o
+planejamento e orçamento (MA RINHO, 2001).
+
+São exemplos de programas orçamentários nas Universidades o de Previdência de
+Inativos e Pensionistas da União; Apoio Administrativo; Operações Especiais: Cumprimento
+de Sentenças Judiciais; Brasil Escolarizado; Gestão da Política de Educação; e Brasil
+Universitário; Desenvolvimento do Ensino da Pós-Graduação e da Pesquisa Científica.
+
+Dentre esses programas, o Brasil Universitário e o Desenvolvimento do Ensino da
+Pós-Graduação e a Pesquisa Científica representaram o maior percentual do crédito
+disponível, cerca de 72% em 2011.
+
+2.4 Programa Brasil Universitário
+
+O programa Brasil Universitário subistituiu, em 2008, o programa Universidade do
+Século XXI. Este programa possui como público-alvo os alunos e os professores das
+Instituições Federais de Ensino Superior: IFES, bem como bolsistas das IES privadas. Sua
+vigência esteve condicionada ao Plano Plurianual de 2008 a 2011.
+
+Desde sua criação, ele representa, em termos percentuais, o programa de maior
+participação no Orçamento das IFES.
+
+Segundo o relatório de avaliação do Ministério da Educação (2011, p.51)
+
+o programa Brasil Universitário tem como objetivo ampliar, com qualidade, o
+acesso ao ensino de graduação, à pesquisa e à extensão, com vistas a disseminar o
+conhecimento. Diversas iniciativas e ações foram desenvolvidas a fim de possibilitar
+a oferta de vagas, por meio da expansão das Universidades federais e de programas
+de financiamento como o Programa Universidade para Todos (ProUni) e Programa
+de Financiamento Estudantil (Fies).
+
+Ele possui diversas ações que se repetem nas universidades. Dentre elas destacam-se:
+a Contribuição da União às suas Autarquias e Fundações para custeio do regime de
+previdência dos servidores; Readequação da Infra-Estrutura-REUNI; Expansão do ensino
+superior; Reforma e Modemização de Infraestrutura físicas das IFES; Assistência ao
+estudante de Graduação e, Funcionamento de cursos de graduação.
+
+2.5 Programa Desenvolvimento do Ensino da Pós-Graduação e da Pesquisa
+
+Científica
+
+Esse programa tem por objetivo formar pessoal de alto nível no país e no
+exterior, com vistas à produção do conhecimento científico, para a solução dos grandes
+desafios educacionais, econômicos e sociais do Brasil; além de atuar na formação inicial e na
+qualificação de docentes para a educação básica (RELATÓRIO DE AVALIAÇÃO, 2010).
+Seu público-alvo, conforme esse relatório, são os alunos de pós-graduação, professores de
+ensino superior, pesquisadores, bem como o cidadão graduado que demonstre interesse em
+capacitação pós-graduada. Esse programa possibilitou que se titulassem 11.368 doutores e
+35.692 mestres, em 2009.
+
+As principais ações incluídas nesse programa são a Concessão e Manutenção
+de Bolsas de Estudos no País; Acesso à Informação Científica e Tecnológica - Portal de
+Periódicos; Concessão e Manutenção de Bolsas de Estudos no Exterior; Fomento à Pós-
+Graduação; e Funcionamento de cursos de Pós-Graduação.
+ 
+
+XX Congresso Brasileiro de Custos - Uberlândia, MG, Brasil, 18 a 20 de novembro de 2013
+
+3 METODOLOGIA
+
+O presente estudo adota abordagem quantitativa, pois utilizará ferramentas de
+comparação entre os valores orçamentários previstos e executados pelas universidades em
+análise. Do ponto de vista do procedimento técnico, utilizou-se da pesquisa documental e da
+pesquisa bibliográfica.
+
+Para o presente trabalho, os documentos pesquisados foram as Decisões Normativas
+do TCU nº 100/2009, 110/2010 e 117/2011, e as informações sobre a execução orçamentária
+das ações dos programas Brasil Universitário e Desenvolvimento do Ensino da Pós-
+Graduação e da Pesquisa Científica, fornecidas pelas universidades federais por meio da Lei
+de Acesso à Informação, além dos relatórios gerados por meio de consulta ao site do Senado
+Federal sobre a execução orçamentária dos programas em estudo por grupo de despesa.
+
+Utilizou-se do método dialético nesta investigação, e para a coleta de dados foi
+utilizada a pesquisa descritiva na forma de observação e o levantamento de dados por meio da
+pesquisa documental ou fonte primária.
+
+Para atingir os objetivos propostos nesta pesquisa, foi utilizado o método da tabulação
+cruzada das variáveis investigadas, através do auxílio do pacote estatístico Statistical Package
+for Social Sciences (SPSS), versão 16.0 para Windows.
+
+3.1 Universo e amostra da pesquisa
+
+Foram solicitadas informações sobre a execução orçamentária das ações referentes aos
+programas a serem pesquisados às 27 Instituições chamadas de Universidades Públicas
+Federais pelas Decisões Normativas do Tribunal de Contas da União-TCU nº 100/2009;
+110/2010 e 117/2011, as quais representam o universo dessa pesquisa. Contudo, só foram
+obtidas respostas completas de 19 destas Instituições até o dia 30 de setembro de 2012, data
+do encerramento da coleta.
+
+A amostra correspondeu, portanto, as 19 universidades federais que encaminharam as
+informações solicitadas por meio da Lei de Acesso à Informação, conforme descritas no
+Quadro 1 a seguir.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PA SIGLA DA UNIVERSIDADE UNIVERSIDADE
+1 UFAL Universidade Federal de Alagoas
+2 UFCG Universidade Federal de Campina Grande
+3 UFJF Universidade Federal de Juiz de Fora
+4 UFLA Universidade Federal de Lavras
+5 UFMG Universidade Federal de Minas Gerais
+6 UFPE Universidade Federal de Pemambuco
+7 UFSC Universidade Federal de Santa Catarina
+8 UFSM Universidade Federal de Santa Maria
+9 UNIFESP Universidade Federal de São Paulo
+10 UFES Universidade Federal do Espírito Santo
+1 UFPA Universidade Federal do Pará
+12 UFPR Universidade Federal do Paraná
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+XX Congresso Brasileiro de Custos - Uberlândia, MG, Brasil, 18 a 20 de novembro de 2013
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+13 UFRB Universidade Federal do Recôncavo da Bahia
+14 UFRJ Universidade Federal do Rio de Janeiro
+
+15 UFTM Universidade Federal do Triângulo Mineiro
+16 UFF Universidade Federal Fluminense
+
+17 UFRA Universidade Federal Rural da Amazônia
+
+18 UFRPE Universidade Federal Rural de Pernambuco
+19 UTFPR Universidade Tecnológica Federal do Paraná
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Decisões Normativas do Tribunal de Contas da União-TCU nº 100/2009; 110/2010 e 117/2011.
+
+Quadro 1- Relação das Universidades que integram a amostra da pesquisa.
+
+Foram analisadas 763 ações que integraram os programas Brasil Universitário e
+Desenvolvimento do Ensino da Pós-Graduação e da Pesquisa Científica e que em muitos
+casos, se repetem nas universidades federais ao longo dos três anos.
+
+3.2 Coleta de Dados
+
+A coleta de dados ocorreu em dois momentos. No primeiro momento foram
+solicitados, por meio do sistema da CGU para cadastro das demandas oriundas da Lei de
+Acesso à Informação, os valores correspondentes à dotação inicial, dotação final, empenhado,
+liquidado e pago por cada ação de govemo integrante dos programas Brasil Universitário e
+Desenvolvimento do Ensino da Pós-Graduação e da Pesquisa Científica nas universidades
+federais nos exercícios de 2009, 2010 e 2011. O segundo momento foi a consulta ao SIGA
+BRASIL do Senado Federal das informações sobre a execução orçamentária das IFES da
+amostra por grupo de despesa.
+
+3.3 Tratamento de Dados
+
+Nesta pesquisa, utilizou-se a estatística descritiva e a inferencial. As análises da
+estatística inferencial foram realizadas por meio do teste não paramétrico Kruskal-Wallis, a
+fim de se buscar associações estatisticamente significativas entre as variáveis de perfil e
+variáveis de execução orçamentária dos programas, uma vez que o teste de Shapiro-Wilk
+constatou que as variáveis não seguem uma distribuição normal. O nível de rejeição da
+hipótese de nulidade foi valor menor ou igual a 0,05 (5%).
+
+4, ANÁLISE DOS DADOS
+
+A análise dos dados foi dividida em duas seções. A primeira, diz respeito à análise
+descritiva do perfil dessas universidades e a segunda refere-se à análise inferencial dos dados,
+em que se utilizou a estatística não paramétrica, por meio do teste de Kruskal-W allis, a fim de
+se verificar possíveis correlações entre as variáveis de perfil e as variáveis de execução
+orçamentária.
+
+Conforme comentado na seção introdutória, o perfil das universidades federais foi
+levantado conforme modelos de investigação propostos por esta pesquisa, os quais se baseiam
+em duas características: região de localização e composição do orçamento executado pelas
+universidades.
+
+Como base para formulação das variáveis de execução orçamentária, utilizou-se as
+etapas para execução da despesa pública previstas na Lei 4.320/64. O quadro dois, a seguir,
+descreve as variáveis utilizadas na pesquisa.
+ 
+
+XX Congresso Brasileiro de Custos - Uberlândia, MG, Brasil, 18 a 20 de novembro de 2013
+
+ 
+
+Variáveis de Execução Orçamentária Descrição
+
+Corresponde ao percentual de alteração do orçamento inicialmente
+
+E x -
+'8 DOTAÇÃO FINAL DOTAÇÃO INICIAL aprovado na Lei Orçamentária A nual- LOA para a respectiva ação
+
+Representa o total empenhado do montante de créditos orçamentários
+
+5 -
+% EMPENHADO / DOTAÇÃO FINAL fixados na LOA e nos créditos adicionais para a ação
+
+ 
+
+Informa o percentual de recebimento de materiais ou prestação de
+% LIQUIDADO / EMPENHADO serviços que efetivamente foram realizados no exercício em que
+foram empenhados
+
+ 
+
+Apresenta em percentuais o quanto do total disponibilizado no ano
+
+o E
+6 LIQUIDA DO 1. DOTAÇÃO, FINAL para a ação houve recebimento de materiais ou prestação de serviços
+
+Demonstra o quanto efetivamente foi pago no exercício do total de
+
+o -
+% PAGO) DOTAÇÃO FINAL crédito que foi fixado na LOA e nos créditos adicionais.
+
+ 
+
+ 
+
+Quadro 2 - Relação das variáveis orçamentárias da pesquisa.
+
+Estas variáveis de execução orçamentária serão confrontadas com as de perfil, tanto na
+realização da análise descritiva como também para a execução da análise inferencial.
+
+ 
+
+4,1 Análise Descritiva das Variáveis Relacionadas com o Perfil das Universidades F ederais
+da Amostra
+
+Este primeiro grupo de análise diz respeito ao perfil das universidades quanto aos
+aspectos de região onde a universidade está localizada e de composição do orçamento. No
+tocante ao perfil “região de localização”, esta investigação propôs a utilização da divisão do
+Brasil por regiões. Já quanto ao perfil “composição do Orçamento”, essa investigação
+utilizou, como base para a divisão em categorias, o grupo de despesa, previsto nas Leis de
+Diretrizes Orçamentárias.
+
+4.1.1 Análise descritiva das variáveis de perfil associadas à região de localização
+
+Para esta variável foi considerada a região em que a universidade está localizada e, por
+conseguinte, em que o programa e suas ações estão sendo executados. Nessa análise
+descritiva, foram associadas as variáveis de execução orçamentária por ação no triênio à cada
+região que possui ação sendo executada, tendo verificado que a maior frequência de ações foi
+da região Sudeste com 44,3%, seguida pelo Nordeste (23,1%), Sul (22,5%) e Norte com
+10,1%, das 763 ações analisadas.
+
+Dos dados contidos na Tabela 1, a seguir, é possível observar que, no que se refere à
+utilização por meio da realização dos empenhos dos recursos disponibilizados, constatou-se
+um melhor desempenho das instituições da região Norte (94,78%). Contudo, elas obtiveram o
+segundo pior índice de liquidação desses recursos empenhados (59,30%), sendo superadas
+apelas pelas localizadas no Sul (54,02%).
+
+Outro fato que também merece atenção na Tabela 1 diz respeito ao pagamento. Todas
+as universidades da amostra obtiveram índices inferiores a 50% dos créditos autorizados pelo
+Orçamento. Tal fato pode ser explicado pela utilização de grande parte do orçamento nos
+últimos meses do ano, não restando tempo hábil para a entrega do produto ou realização do
+serviço por parte dos fornecedores.
+XX Congresso Brasileiro de Custos - Uberlândia, MG, Brasil, 18 a 20 de novembro de 2013
+
+Tabela 1- Análise descritiva associada à variável de perfil região do país
+
+Norte Mediana | Desvio-Padrão | Mínimo | Máximo
+
+ 
+
+% DOTAÇÃO FINAL / DOTAÇÃO INICIAL 100,00 10,49 95,04 156,53
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+% EMPENHADO / DOTAÇÃO FINAL 13,75 20,98 100,00
+% LIQUIDADO / EMPENHADO 0,00 100,00
+% LIQUIDADO / DOTAÇÃO FINAL 37,82 0,00 100,00
+% PAGO/ DOTAÇÃO FINAL 34,84 0,00 97,66
+Nordeste Mínimo | Máximo
+
+% DOTAÇÃO FINAL / DOTAÇÃO INICIAL 28.994,47 342.912,26 12,50) 4.071.973,44
+
+ 
+
+% EMPENHADO / DOTAÇÃO FINAL 88,66 21,82
+% LIQUIDADO / EMPENHADO
+
+5,67 100,00
+0,00 100,00
+
+ 
+
+ 
+
+% LIQUIDADO / DOTAÇÃO FINAL
+% PAGO/ DOTAÇÃO FINAL 41,78 33,64
+
+0,00 100,00
+0,00 99,80
+
+ 
+    
+   
+
+ 
+
+Sul Mediana | Desvio-Padrão | Mínimo | Máximo
+
+% DOTAÇÃO FINAL / DOTAÇÃO INICIAL 23,95 67,69 234,48
+19,11 1,30 100,00
+
+37,35 0,00 100,00
+% LIQUIDADO / DOTAÇÃO FINAL 34,62 0,00 100,00
+% PAGO/ DOTAÇÃO FINAL 33,40 0,00 95,32
+
+ 
+
+% EMPENHADO / DOTAÇÃO FINAL
+% LIQUIDADO / EMPENHADO
+
+ 
+
+Desvio-Padrão | Mínimo | Máximo
+
+9.245,62 29,69 145.127,64
+26,35 4,05 100,00
+
+Sudeste
+% DOTAÇÃO FINAL / DOTAÇÃO INICIAL
+
+ 
+
+% EMPENHADO / DOTAÇÃO FINAL
+% LIQUIDADO / EMPENHADO
+
+30,46 0,00 100,00
+% LIQUIDADO / DOTAÇÃO FINAL 34,02
+
+% PAGO/ DOTAÇÃO FINAL 49,54 50,06 34,30
+
+4.1.2 Análise descritiva das variáveis de perfil associadas à composição do orçamento
+executado pelas Universidades
+
+ 
+
+o
+So
+Ss
+
+100,00
+100,00
+
+ 
+
+ 
+
+ 
+
+ 
+
+Como composição do orçamento das universidades, utilizou-se a separação por grupo
+de despesa, conforme previsto na Lei de Diretrizes Orçamentária, quais sejam 1 - pessoal e
+encargos sociais; II - juros e encargos da dívida; III - outras despesas correntes; IV -
+investimentos; V - inversões financeiras, incluídas quaisquer despesas referentes à
+constituição ou aumento de capital de empresas; e VI - amortização da dívida.
+
+Nessa análise descritiva, foram associadas as variáveis de execução orçamentária no
+triênio à cada grupo de despesa que integra o Orçamento fixado para os programas Brasil
+Universitário e Desenvolvimento do Ensino da Pós-Graduação e da Pesquisa Científica nas
+universidades da amostra. Verificou-se que 71,34% dos créditos totais estão associados a
+despesas com pessoal; 18,58% a outras despesas correntes; 9,95% a investimentos; e 0,09% a
+inversão financeira.
+XX Congresso Brasileiro de Custos - Uberlândia, MG, Brasil, 18 a 20 de novembro de 2013
+
+A Tabela 2 apresenta os dados sobre a execução orçamentária por grupo de despesa
+para os programas em análise. Nela observa-se que o grupo das despesas com pessoal obteve
+maiores índices no que tange à execução de empenho, liquidação e pagamento, atingindo uma
+média próxima de 100% em todas essas fases da despesa.
+
+Em contraponto ao desempenho do grupo de pessoal, encontram-se os formados pelos
+gastos em investimentos e em inversão financeira, cujos índices de realização de empenho
+foram respectivamente 81,83% e 64,67%. Esses tiveram ainda dificuldades no pagamento dos
+créditos disponibilizados obtendo índices médios de 24,18% e 64,67%, respectivamente. Os
+resultados demonstram ser o grupo formado pelas despesas com investimentos, o maior
+responsável pelo baixo desembolso pelo govemo dos valores previstos no Orçamento dessas
+IFES.
+
+A tabela 2 abaixo demonstra ainda distorções no planejamento financeiro das ações
+associadas a outras despesas correntes (213,81%), investimentos (119,82%) e pessoal
+(132,56%).
+
+Tabela 2 - Análise descritiva associada à variável de perfil grupo de despesa
+Pessoal Média Mediana | Desvio-Padrão | Mínimo Máximo
+
+% DOTAÇÃO FINAL / DOTAÇÃO INICIAL 132,56] 127,00 18,66 101,00 199,00
+% EMPENHADO / DOTAÇÃO FINAL 99,67 99,00 11,04 92,00 181,00
+
+% PAGO/ DOTAÇÃO FINAL 97,79 2,34 87,00 99,00
+
+ 
+
+Outras despesas correntes Média Mediana | Desvio-Padrão | Mínimo Máximo
+
+% DOTAÇÃO FINAL / DOTAÇÃO INICIAL 213,81) 100,00 1.098,28 33,00] 11.782,00
+% EMPENHADO / DOTAÇÃO FINAL 82,40 91,00 21,72 17,00 100,00
+
+% PAGO/ DOTAÇÃO FINAL 64,76 68,00 21,29 13,00 100,00
+
+Investimento Média Mediana | Desvio-Padrão | Mínimo Máximo
+
+00
+% DOTAÇÃO FINAL / DOTAÇÃO INICIAL 119,82] 100,50 88,56 37,00 688,00
+% EMPENHADO / DOTAÇÃO FINAL 81,83 91,50 23,87 3,00 100,00
+% PAGO/ DOTAÇÃO FINAL 24,18 22,00 16,75 0,00 86,00
+
+ 
+
+ 
+
+Inversão Financeira Média Mediana | Desvio-Padrão | Mínimo Máximo
+% EMPENHADO / DOTAÇÃO FINAL 64,67 94,00 56,08 0,00 100,00
+% PAGO/ DOTAÇÃO FINAL 64,67 94,00 56,08 0,00 100,00
+
+ 
+
+ 
+
+4.2 Análise do Teste Estatístico das Associações entre a Execução Orçamentária e o Perfil
+das Universidades
+
+Objetivando uma associação estatística entre as variáveis de perfil (região de
+localização e composição do orçamento) com as de execução orçamentária, realizou-se o
+Teste de Kruskal- Wallis. A seguir são demonstrados os resultados das associações.
+
+4.2.1 Análise do Teste Estatístico por Região
+
+A verificação das associações significativas entre a execução orçamentária das ações
+dos programas e a região onde a universidade está localizada demonstram a ocorrência de um
+p-valor estatisticamente significante para os índices de liquidação dos valores empenhados; de
+XX Congresso Brasileiro de Custos - Uberlândia, MG, Brasil, 18 a 20 de novembro de 2013
+
+liquidação da dotação final autorizada; e os correspondentes aos valores pagos da dotação
+final autorizada, conforme pode ser observado na Tabela 3 a seguir.
+
+Com isso pode-se inferir que a localização da universidade influencia no seu
+desempenho orçamentário no que concerne ao empenho dos valores orçados, bem como
+na liquidação dos valores orçados e empenhados.
+
+Com base nas informações acima, para esse perfil é possível rejeitar a hipótese HO,
+uma vez que houve influência significativa quanto à execução orçamentária das ações e
+consequentemente dos programas em estudo.
+
+Tabela 3 - Associações encontradas com a região de localização
+
+ 
+
+ 
+
+% DOTAÇÃO FINAL
+/ DOTAÇÃO % EMPENHADO / | % LIQUIDADO / | % LIQUIDADO / |% PAGO/DOTAÇÃO
+INICIAL DOTAÇÃO FINAL | EMPENHADO | DOTAÇÃO FINAL FINAL
+P-valor 0,195 0,001 0,000 0,000 0,165
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Verificou-se também que a associação relacionada ao empenhamento da dotação
+disponibilizada é mais significativa na região Norte (94,78%). Já como relação à liquidação
+dessas despesas empenhadas, essas associações possuem como maiores índices os da região
+sudeste (78,02%).
+
+Com isso é possível inferir que uma universidade eficiente no que conceme ao
+empenhamento da dotação autorizada pela Lei Orçamentária Anual não necessariamente será
+eficiente no recebimento dos materiais ou serviços adquiridos.
+
+4.2.2 Análise do Teste Estatístico por Grupo de Despesa
+
+Nessa análise são demonstradas na Tabela 4 as associações significativas entre a
+execução orçamentária das ações dos programas e o grupo de despesa. A análise dessa tabela
+demonstra a ocorrência de um p-valor estatisticamente significante para os índices de dotação
+final sobre a inicial; de realização de empenhos da dotação final autorizada; e dos valores
+pagos da dotação final autorizada quando relacionados com o grupo de despesa orçamentária.
+
+ 
+
+Com isso pode-se inferir que o grupo de despesa orçamentária influencia no seu
+desempenho orçamentário no que concerne à alteração orçamentária, à realização do
+empenho, bem como no seu pagamento.
+
+Tabela 4 - Associações encontradas com o grupo de despesa
+
+ 
+
+% DOTAÇÃO FINAL / DOTAÇÃO % EMPENHADO / % PAGO/ DOTAÇÃO
+INICIAL DOTAÇÃO FINAL FINAL
+P-valor 0,000 0,000 0,000
+
+ 
+
+ 
+
+ 
+
+ 
+
+Com base nas informações acima, é possível rejeitar a hipótese HO, uma vez que
+houve influência significativa no tocante à execução orçamentária das ações e
+consequentemente dos programas em estudo.
+
+Constatou-se ainda que associações significantes relacionadas ao empenhamento da
+dotação disponibilizada é mais significativa nas despesas relacionadas com pessoal (99,67%)
+e com o grupo outras despesas correntes (82,40%), o que pode ser explicado pois as despesas
+com pessoal possuem uma maior facilidade para execução, uma vez que não se submetem à
+lei de licitações para sua realização.
+XX Congresso Brasileiro de Custos - Uberlândia, MG, Brasil, 18 a 20 de novembro de 2013
+
+CONCLUSÃO
+
+O estudo em tela objetivou responder ao seguinte problema: o Perfil da Universidade
+Federal influencia a execução orçamentária dos Programas orçamentários Brasil
+Universitário e Desenvolvimento do Ensino da Pós-Graduação e da Pesquisa Científica?
+
+Como principais resultados, destacam-se os maiores índices de desempenho na
+realização dos empenhos pelas instituições da região Norte (94,78%) e os de liquidação
+(78,02%) e de pagamento (49,54%) pelas do Sudeste.
+
+Verificou-se que na composição do orçamento o grupo formado pelas outras despesas
+correntes sofreu maior alteração ao longo do ano, no que concerne à dotação inicial, atingindo
+uma média de (213,81%). Já o das despesas com pessoal obteve maiores índices no que tange
+à execução de empenho, liquidação e pagamento, atingindo uma média próxima de 100% em
+todos os casos.
+
+Para as despesas com investimentos e com inversão financeira, os índices de
+realização de empenho foram respectivamente 81,83% e 64,67%. Quanto aos de pagamento,
+esses foram de 24,18% e 64,67, respectivamente.
+
+No tocante às influências, rejeitou-se para todos os perfis das universidades a hipótese
+HO: o perfil da universidade federal não influencia a execução orçamentária dos programas
+orçamentários Brasil Universitário e Desenvolvimento do Ensino da Pós-Graduação e da
+Pesquisa Científica.
+
+No que conceme às influências na execução orçamentária, constatou-se que a
+localização da universidade influencia a realização do empenho; a liquidação e o pagamento
+dos créditos orçados. Também verificou-se que a composição orçamentária influencia a
+alteração orçamentária; a realização do empenho e o pagamento dos créditos orçados.
+
+Durante a realização da pesquisa foi possivel observar duas dificuldades. A primeira
+refere-se à ausência de fornecimento ou fornecimento incompleto por parte de 8 (oito)
+universidades das informações sobre a execução orçamentária das ações dos programa em
+estudo nos exercícios de 2009 a 2011, solicitadas por meio do sistema criado pela
+Controladoria Geral da União - CGU para registros das demandas decorrentes da edição da
+Lei de Acesso à Informação, sedo excluídas da amostra.
+
+Por fim, a coleta de dados no site do Senado Federal restou limitada pela ausência de
+informações sobre os valores correspondentes a fase da despesa de liquidação, uma vez que as
+informações sobre valores liquidados por programa orçamentário constantes nesse site
+correspondem ao valor empenhado no período, e não o correspondente aos materiais e
+serviços recebidos dos fornecedores pelas IFES.
+
+Dessa forma, responde-se a problemática da pesquisa com a constatação de que o
+perfil da universidade federal influencia a execução orçamentária dos programas
+orçamentários Brasil Universitário e Desenvolvimento do Ensino da Pós-Graduação e da
+Pesquisa Científica.
+
+Como sugestões de trabalhos futuros, observou-se a necessidade de investigação sobre
+outros perfis que possam também influenciar a execução dos programas orçamentários, tais
+como idade da instituição, número de doutores e número de alunos.
+
+REFERÊNCIAS
+
+AUCOIN, P.; HEINTZMAN, R. The Dialetics of Accountability for Performance in
+Public Management Reform. International Review of Administration Sciences, v. 66, p.45-
+55, 2000.
+XX Congresso Brasileiro de Custos - Uberlândia, MG, Brasil, 18 a 20 de novembro de 2013
+
+BERTONHA, J. F. Modelo americano ou europeu: qual o melhor caminho para a
+Universidade brasileira?. Revista Espaço Acadêmico- Ano II - Nº 14 - Julho de 2002 -
+Mensal - ISSN 1519.6186.
+
+o . Decreto-lei n. 200, de 25 de fevereiro de 1967. Dispõe sobre a organização da
+Administração Federal, estabelece diretrizes para a Reforma Administrativa e dá outras
+providências.
+
+O . Lei nº 4,320, de 17 de março de 1964. Estatui normas de Direito Financeiro e para
+elaboração e controle dos orçamentos e balanços da União, dos estados, dos municípios e do
+Distrito Federal.
+
+o . Portaria MPOG nº, 42, de 14 de abril de 1999. Diário Oficial [da] República
+Federativa do Brasil, Brasília, DF, 15 abr. 1999.
+
+CAMPOS, A. M. Accountability: Quando poderemos traduzi-la para o Português? Revista de
+Administração Pública. Vol. 24, n. 2, p. 30-50, fev./abr. 1990.
+
+FARBER, J. C. e SEGRETI, J. B. Contribuição da Contabilidade para a Eficácia da
+Gestão e Controle de C ondomínios. In: Congresso de Controladoria e contabilidade da USP.
+Disponível em:
+
+<http://www.congressoeac.localweb.com.br/art62006/401.pdf>. A cesso em 16/01/2012.
+
+FREITAS, 1. M. A.C. Configurações estratégicas em Universidades federais brasileiras.
+2002. Tese (Doutorado em Engenharia de Produção) Programa de Pós - Graduação em
+Engenharia de Produção - Universidade Federal de Santa Catarina, Florianópolis, 2002.
+
+GIACOMONL J. Orçamento público. São Paulo: Atlas, 2003.
+
+LAPSLEY, I The NPM Agenda: Back to the Future. Financial Accountability and
+Management, 24(1): 77-96, February, 2008.
+
+MACHADO, N. Sistema de informação de custo: diretrizes para integração ao orçamento
+público e à contabilidade governamental. Tese de doutorado em contabilidade, Universidade
+de São Paulo, 2005.
+
+MARINHO, S. L. F. Gestão por programas: Uma Concepção de orçamento. Cadernos
+FUNDAP n.22, São Paulo, 2001.
+
+MILENA, L.; NASSIF. L. O desafio orçamentário das Universidades Federais. Disponível
+em: <http://www.andifes.org.br/index.php?option=com content&view=article&id=7404:0-
+desafio-orcamentario-das-Universidades-federais- &catid=61 & Itemid=100015>. Acesso em:
+10/01/2013.
+
+MINISTÉRIO DA EDUCAÇÃO. Recursos dobram em oito anos nas Universidades
+federais. Disponível em:
+<http://reuni.mec.gov.br/index.php?option=com content&view=article&id=902:recursos-
+dobram-em-oito-anos-nas-Universidades-federais& catid=377:% 20noticia-
+
+destaque& Itemid=30>. Acesso em: 14/01/2012.
+
+PETER, M. da G. A. et al. Aspectos do Projeto Pedagógico Institucional nas
+Universidades Brasileiras. IV Colóquio de Gestão Universitária da América do Sul.
+Florianópolis, 2004.
+
+PRADO, Otávio & PÓ, Marcos Vinícios. Discursos, Prestação de Contas e Responsabilização
+Democrática nas Reformas da Gestão Pública. Anais do XXXI EnANPAD. Rio de Janeiro,
+set. 2007.
+XX Congresso Brasileiro de Custos - Uberlândia, MG, Brasil, 18 a 20 de novembro de 2013
+
+RELATÓRIO DE AVALIAÇÃO 2010. Relatório de Avaliação do Plano Plurianual
+(2008-2011). do Ministério da Educação. Brasilia 2010. Disponível em:
+<http://www.google.com.br/url?sa=t&rct=) &q=& esrc=s&frm=1 &source=web& cd=3&ved=0
+CDQQFIAC &url=http% 3A % 2F% 2Fportal.mec.gov.br% 2Findex.php%3Foptiony3Dcom do
+cman%26task% 3D doc download%26gid%3D 8567% 26ItemidWw3D &ei=sD2DT K600818Q
+TESIX 1Bw&usg=A FQ;JCNGcgY jjKySantwEqU 7104 CjJjpeA Q>. Acesso em 10/01/2012.
+
+SIGA BRASIL. Senado Federal. Disponível em: <www.senado.gov.br>. Acesso em
+04/10/2012.
+
+SILVEIRA, L. A. Relação universidade-empresa. 1 ed. Florianópolis: Imprensa
+Universitária, 2006.
+
+TRIBUNAL DE CONTAS DA UNIÃO. Instrução Normativa TCU nº 63/2010, de 1 de
+setembro de 2010. Brasília, 2010.
+
+. Decisão Normativa TCU nº 100/2009, de 7 de outubro de 2009. Brasília, 2009.
+. Decisão Normativa TCU nº 110/2010, de 1 de dezembro de 2010. Brasília, 2010.
+o . Decisão Normativa TCU nº 117/2011, de 19 de outubro de 2011. Brasília, 2011.
+
+VEUGELERS R.; DER PLOEG, F. V. Towards Evidence-based Reform of European
+Universities. CESifo Economic Studies, Vol. 54, 2/2008, 99-120, doi:10.1093/cesifo/ifn015,
+2008.
+
+WORLD BANK. Higher education: The lessons of experience. New York: Oxford
+University Press, 1994.
+
+ 
+

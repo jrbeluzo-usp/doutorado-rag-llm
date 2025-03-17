@@ -1,0 +1,3514 @@
+<P
+“a
+
+UNILEGIS
+
+ 
+
+SENADO FEDERAL
+UNIVERSIDADE DO LEGISLATIVO BRASILEIRO
+UNILEGIS
+
+FERNANDO LUCAS PINTO
+
+Regionalização do Orçamento da União:
+
+Planejamento e Controle da Ação Governamental
+
+BRASÍLIA-DF
+2008
+DS
+“a
+UNLEGIS
+
+FERNANDO LUCAS PINTO
+
+Regionalização do Orçamento da União:
+
+Planejamento e Controle da Ação Governamental
+
+Trabalho final apresentado para aprovação no
+curso de pós-graduação latu sensu em Direito
+Legislativo realizado pela Universidade do
+Legislativo Brasileiro e pela Universidade
+Federal do Mato Grosso do Sul como
+requisito para obtenção do título de
+especialista em Direito Legislativo.
+
+Orientador: Mestre ] cão Henrique P ederiva
+
+Brasília-DF
+2008
+Reprodução parcial permitida desde que citada a fonte.
+
+FICHA CATALOGRÁFICA
+
+ 
+
+PINTO, Fernando Lucas.
+
+Regionalização do Orçamento da União: Planejamento
+e Controle da Ação Governamental / Fernando Lucas
+Pinto. - Brasília, 2008.
+
+67 f.
+
+Trabalho de conclusão, curso de pós-graduação latu
+sensu do UNILEGIS. Curso de Direito Legislativo.
+
+1. Direito Financeiro 3. Orçamento da União 3.
+Orçamento Regionalizado. 4. Anteprojeto de lei - 1. Título.
+
+ 
+
+ 
+
+ 
+Regionalização do Orçamento da União:
+
+Planejamento e Controle da Ação Governamental
+
+Trabalho de Conclusão do Curso de Especialização em Direito
+Legislativo pela Universidade do Legislativo Brasileiro no 2º
+semestre de 2008.
+
+Fernando Lucas Pinto
+
+Banca Examinadora:
+
+Prof. Mestre ] oão Henrique P ederiva
+
+Prof. Doutor Lucio Remuzat Rennó J unior
+
+Brasília, 03 de dezembro de 2008.
+Dedico aos meus pais que, com muita
+dificuldade e esforço, conseguiram me
+proporcionar uma formação sólida para
+que meu pudesse chegar onde me
+encontro hoje.
+Agradeço a Deus, que me iluminou para
+elaboração desse trabalho; a minha
+companheira, amiga e esposa, Claudia
+Pompeu, pela sua compreensão; ao meu
+orientador, Prof. Mestre João Henrique
+Pederiva pela dedicação e paciência; aos
+professores colaboradores do UNILEGIS e
+aos meus amigos e colegas da
+Consultoria de Orçamentos do Senado
+Federal, em especial, ao Leonei Gomes
+de Oliveira.
+“Embora ninguém possa voltar atrás e
+fazer um novo começo, qualquer um
+pode começar agora e fazer um novo
+fim”.
+
+Chico Xavier (Francisco Cândido Xavier)
+(1910 - 2002).
+
+“O tempo não tem fim e muito menos
+começo, mas conhece todos os
+endereços".
+
+Carla Pompeu (1961 - 2008)
+RESUMO
+
+Esta pesquisa estuda a regionalização do orçamento da União de 2001 a
+2008 e estabelece o grau de discricionariedade das dotações orçamentárias
+consignadas, sem indicação prévia da localidade beneficiada pela ação
+governamental.
+
+O estudo cria o Índice de Regionalização da Despesa (IRD), instrumento que
+quantifica percentualmente a regionalização, na busca de meios para que as
+despesas fixadas no orçamento Federal obedeçam a um planejamento prévio, para
+diminuir a discricionariedade dos gestores orçamentários e aumentar a atuação do
+Poder Legislativo nas definições das localidades onde o dispêndio público ocorrerá.
+
+Verifica-se a distribuição das emendas parlamentares por região, os
+benefícios da regionalização, a correlação entre a regionalização e execução
+orçamentária das programações do orçamento da União.
+
+Além disso, apresentar a importância SIGA Brasil, portal do Senado Federal,
+dedicado ao orçamento público, focado na transparência, publicidade e
+acessibilidade, escolhido como a principal ferramenta de pesquisa, por
+disponibilizar a qualquer pessoa, usuário, via internet, o acesso ao orçamento da
+União, e assim, analisar, de uma forma confiável e rápida a alocação das verbas
+públicas.
+
+A adoção do IRD mínimo, por projeto de lei ou emenda à Lei de Diretrizes
+Orçamentária (LDO), para a aceitação da proposta orçamentária enviada ao
+Congresso Nacional, como uma alternativa de aperfeiçoamento para alocação dos
+gastos da União publicados, aumenta o planejamento e facilita o controle da ação
+governamental, ao divulgar onde a programação pretende incidir.
+
+Palavra-chaves: Direito Financeiro, Regionalização, Orçamento público.
+LISTA DE ILUSTRAÇÕES
+
+Tabelas
+Tabela 1 - Série histórica de 2001 a 2008 dos valores dos autógrafos por Região 44
+Tabela 2 - Série histórica de 2001 a 2008 dos percentuais dos autógrafos por Região 45
+
+Tabela 3 - Série histórica de 2001 a 2008 do Índice de Regionalização da Despesa no PLOA 47
+
+Tabela 4 - Distribuição das Emendas por Região e Tipo de Autor no PLOA 2007 50
+Tabela 5 - Valores orçamentários e financeiros de 2007 por UF das Unidades Gestoras 52
+Tabela 6 - Índice de Regionalização da Despesa do PLOA 2008 por Esfera e GND 54
+Tabela 7 - Índice de Regionalização da Despesa do PLOA 2008 por Setor 54
+Tabela 8 - LOA 2007 - Execução por Setor Orçamentário 55
+
+Tabela 9 - LOA 2007 - Execução dos Programas e Ações da LDO 2007 - Prioridades e Metas 58
+
+Gráficos
+
+ 
+
+Gráfico 1 - Representação percentual da série histórica dos valores da Tabela 2...
+
+Gráfico 2 - LOA 2007 - Execução por Setor Orçamentário..........asesenaeseseanaesesenensesereranseses 56
+Gráfico 3 - LOA 2007 - Programação do Anexo | - Prioridades e Metas da LDO 2007 .............. 59
+Figuras
+Figura 1 - Tela principal do Portal de Trabalho de pesquisas do SIGA Brasil... 38
+
+ 
+
+Figura 2 - Tela da consulta / documento corporativo ....
+
+Figura 3 - Representação gráfica do universo “LOA 2008 - Despesa Elaboração” com alguns
+objetos e filtros escolhidos da janela dos dados ........esesensassessesentereesersereesorsanteraesensereesansantesa 40
+LISTA DE ABREVIATURAS E SIGLAS
+
+CONORF- Consultoria de Orçamentos, Fiscalização e Controle do Senado Federal
+CMPOF - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+CPMI- Comissão Parlamentar Mista de Inquérito
+
+CPMF - Contribuição Provisória de Movimentação Financeira
+
+IMRD - Índice Médio de Regionalização da Despesa
+
+IRD - Índice de Regionalização da Despesa
+
+LOA - Lei Orçamentária Anual
+
+LRF - Lei de Responsabilidade Fiscal
+
+MPO - Ministério do Planejamento Orçamento e Gestão
+
+PLOA - Projeto de Lei Orçamentária Anual
+
+PL - Projeto de Lei
+
+SELOR - Sistema de Elaboração Orçamentária do Legislativo
+
+SIAFI - Sistema de Acompanhamento Financeiro
+
+SIDOR - Sistema Integrado de Dados Orçamentários do governo federal
+Sumário
+
+T INTRODUÇÃO canossanmaniseosssaneacasmonamcoransarerannnasaasennncareremmnaamenssscnans 13
+1.1 Questão, Objetivos e Hipóteses de Pesquisa... cerererasarerararerasas 15
+1.2 Justificação e Contexto ...........sccscrrersererserseserserenrenserease nte serras cerensarsasense sea sentara 16
+1.2.1 Orçamento Público .............ccceserrerereererereererercerereasererenserenseresensereasare sense res sasereasans 17
+Debimi OÊÃOÃr 17
+1.2.1.2 Natureza )undica, usasse aaçasasae nas aaa Sa 20
+1,2:1.3: Contexto HiSLÓNICO sasaassncanna usar eua as 20
+
+1.2.2 Participação popular no processo orçamentário e a regionalização ................. 22
+1.2.3 Accountability, a descentralização e a regionalização .............essesseessensenseensensoss 23
+1.2.4 SIGA Brasil - Sistema de Informações sobre Orçamentos Públicos................ 24
+1.2.5 Lei Orçamentária Anual (LOA) ..........ccsereererereerererrerersererenserensareseaserereasereaseros 25
+
+ 
+
+1.2.5.1 Estrutura e Classificação Orçamentária da Despesa.
+1.2.5.1.1 Classificação por Esfera Orçamentária
+1.2.5.1.2 Classificação Institucional
+
+ 
+ 
+
+1.2.5.1.3 Classificação Funcional da Despesa .............ieeeeeeeeeereeeeeereeeeeeertetena 28
+1.2.5.1.4 Programa............ ir eererereeererererereaereaereere aorta rea tereerereerereerereererserersenertanes 28
+1.2.5.1.5 Ação
+
+ 
+
+ 
+
+1.2.5.1.6 Subtítulo (Localizador de gasto)...
+1.3 Estrutura do Trabalho «css smmesescerriissmaca cumes ceriiinsrsecas sir anensvasniaiãs 30
+2 METODOLOGIA... eoeereessnessesasssesaos eoeereessnessesasssesaos eoeereessnessesasssesaos 32
+
+ 
+
+2.1 Procedimento da Produção Científica
+
+2.2 Distribuição das verbas públicas ...........ccsecsesreereerterrerrerterserserserserserser street 33
+2.2.1 Distribuição das verbas públicas por região .............ieeeseeeeeaereereerterererraes 33
+2.2.2 Distribuição das verbas públicas pelas unidades da Federação.................iesmeses 35
+
+2.3 Índice de Regionalização por dentro da estrutura e classificação orçamentária
+
+da despesa... crsaserasaserasareeasasa crsaserasaserasareeasasa crsaserasaserasareeasasa crsaserasaserasareeasasa 30
+
+2.4 SIGA Brasil - Técnica de Pesquisa............csessessesserserseaseassarearearearsersersersenso 36
+3 APRESENTAÇÃO E ANÁLISE DOS RESULTADOS .....cisesersesesrseas 42
+
+3.1 Regionalização do orçamento da União ............ssecsesemsersereasersererserenrensareasenso 43
+3.2 Regionalização da LOA 2007 e do PLOA 2008.................csssessesersesemesersasea 53
+3.3 Regionalização das Prioridades e Metas da LDO 2007...............ssesessessseso 56
+3.4 Limitações e Desafios..........ccsessessssessesersescasensasense so sersescuscrs ass ass ss sata sas cas ans assadd 60
+CONCLUSÃO: «ssanamasaniananaananasaranan nana cnc 62
+REFERÊNCIAS BIBLIOGRÁFICAS... srta reesmerrerets 65
+APÊNDIGE. ereemenaninom sosisenmeemeninem corsa eneromi nc caneco caes 69
+13
+
+1 INTRODUÇÃO
+
+O orçamento público da União possui uma multiplicidade de aspectos, como o
+político, o contábil, o administrativo, o jurídico, o financeiro e o econômico entre
+outros, e por isso tem sido objeto de muitos conceitos. Todos eles têm algo em
+comum: a declaração da prévia estimativa da receita e fixação da despesa.
+
+O planejamento é uma constância nesses aspectos. Partindo desse princípio,
+o presente estudo, portanto, aborda o processo de estruturação das Finanças
+Públicas, as normas, os conceitos, as definições e a classificação funcional da
+despesa no âmbito da elaboração e da execução orçamentária da despesa. Os
+poderes Executivo e Legislativo com a finalidade de determinar se o Projeto de Lei
+Orçamentária Anual (PLOA) e a Lei Orçamentária Anual (LOA) prevêem a
+regionalização da despesa, conforme estabelecido no artigo 39, Ill e artigo 165,8 7º
+da Constituição Federal.
+
+Convém esclarecer que a Constituição Federal prevê a elaboração de Lei
+Orçamentária Anual por todos os entes da Federação (União, Estados, Municípios e
+Distrito Federal), mas a proposta dessa tese restringe-se à análise do nível de
+regionalização do Projeto de Lei Orçamentária Anual (PLOA) e da Lei Orçamentária
+Anual da União (LOA), do ano de 2001 a 2008, especialmente a do ano de 2008.
+
+Os métodos empregados nesta pesquisa, sobre a regionalização do Projeto
+de Lei Orçamentária Anual (PLOA) e da Lei Orçamentária Anual (LOA) nortearam-se
+pelos princípios da máxima transparência, eficiência e efetividade das informações
+geradas no portal do SIGA Brasil !, apresentadas em tabelas e gráficos, sendo
+assim, possível determinar o Índice de Regionalização da Despesa (IRD) de 2001 a
+2008.
+
+1 O portal SIGA Brasil do Senado Federal, dedicado ao orçamento público, é um instrumento de
+transparência orçamentária, suporte para elaboração legislativa, formulação de políticas públicas e
+realização de pesquisas acadêmicas que, e continuarão crescendo à medida que o SIGA Brasil
+incorpore novas bases de dados.
+
+A propósito, esse portal de pesquisas foi o escolhido como a principal ferramenta de pesquisa, por
+disponibilizar a qualquer pessoa, usuário, via internet, o acesso às bases de dados Orçamentárias da
+União, e no futuro também, dos Estados, e assim, analisar, de uma forma confiável e rápida a
+alocação das verbas públicas.
+
+Além disso, os usuários podem, por intermédio do portal, criar e armazenar suas próprias consultas,
+bem como usar consultas pré-elaboradas, tratadas de documentos corporativos, disponibilizadas pela
+Consultoria de Orçamentos do Senado Federal. <http://www.senado.gov.brísiga
+14
+
+Z
+
+A regionalização é a localização física dos gastos públicos, na forma das
+ações de governo, segundo os respectivos projetos, atividades ou operações
+especiais. Veremos que, tradicionalmente, a regionalização que é divulgada, através
+do PLOA e da LOA, é muito baixa, o que dificulta o controle prévio das despesas,
+reduz a transparência, atesta o acanhado planejamento e aumenta a
+discricionariedade, produzindo o baixo interesse da comunidade pelas questões
+orçamentárias.
+
+O método empregado para determinação do Índice de Regionalização da
+Despesa (IRD) é o descrito na estrutura e classificação orçamentária da receita e da
+despesa, definida na Lei nº. 4.320, de 17 de março de 1964, que instituiu as normas
+gerais de direito financeiro, e pela classificação funcional da despesa instituída pela
+“Portaria nº. 42, de 14 de abril de 1999, do então Ministério do Orçamento e Gestão”,
+e pelo Manual Técnico do Orçamento (MTO).
+
+O IRD que foi determinado, avaliou os recursos alocados no PLOA e na LOA
+por unidade da Federação (UF), implementados por meio do sistema da
+classificação funcional da despesa, no detalhamento do subtítulo.
+
+O subtítulo é utilizado para especificar a localização física da ação e agregar
+as metas físicas, de forma regionalizada, segundo os respectivos projetos,
+atividades ou operações especiais.
+
+A localização do gasto poderá ser de abrangência nacional, de natureza
+genérica, (NA - código do subtítulo 0001), no exterior (EX - código do subtítulo
+0002), por Região, por Estado ou Município, baseados no padrão do IBGE, ou,
+excepcionalmente, por um critério específico, quando necessário. É vedada na
+especificação do subtítulo referência a mais de uma localidade, área geográfica ou
+beneficiário.
+
+Outro método, abordado neste estudo, para determinar a regionalização da
+despesa, é baseado na classificação institucional, isto é, o registro dos gastos
+realizados por uma determinada unidade orçamentária no estado onde se localiza.
+Esse critério pode parecer, à primeira vista, mais satisfatório para a distribuição por
+UF, por não ter localização genérica regional ou nacional, mas há também,
+concentração de despesa na UF Distrito Federal, DF.
+15
+
+A classificação institucional, além de não ser mais eficaz, pode não refletir o
+montante transferido pelo governo federal aos estados, e quando combinado com o
+critério da classificação funcional da despesa, ocorrer a dupla contagem. Mais
+adiante, confrontaremos os dois métodos quanto à regionalização das dotações
+orçamentárias.
+
+1.1 Questão, Objetivos e Hipóteses de Pesquisa
+
+Giacomoni (2003) questiona a precariedade da regionalização dos
+orçamentos federal, quanto à esfera Fiscal, da Seguridade Social e do Investimento,
+e aponta para a evidente carência de regulamentação da matéria, inclusive no que
+tange a sua aplicabilidade por parte dos demais entes federativos.
+
+Diante dessa questão e da experiência empírica do autor da monografia com
+o PLOA e com a LOA, na constatação da baixa vinculação da despesa à localidade,
+surgiu a proposta de uma monografia que levantasse a questão cientificamente e
+numericamente para propor uma solução através de emenda à Lei de Diretrizes
+Orçamentária (LDO), ou de um projeto de lei, de fácil implementação, sem a
+necessidade de reforma constitucional.
+
+Deste modo, surge como questão de pesquisa determinar se o disposto nos
+artigos 3º, II e 165,8 7Ê da Constituição Federal são contemplados no orçamento
+da União.
+
+Da análise do PLOA e da LOA com o enfoque na localidade do gasto público
+nominalmente identificado no Projeto e na Lei Orçamentária, elaboraram-se as
+hipóteses de pesquisa:
+
+2 Art. 3º Constituem objetivos fundamentais da República Federativa do Brasil:
+
+[...] Ill - erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais; [...]
+
+* Art. 165. Leis de iniciativa do Poder Executivo estabelecerão:
+
+[..] 8 7º - Os orçamentos previstos no 8 52, | e Il, deste artigo, compatibilizados com o plano
+plurianual, terão entre suas funções a de reduzir desigualdades inter-regionais, segundo critério
+populacional.
+
+[..]
+16
+
+As despesas descritas e publicadas no PLOA e na LOA de 2001 a 2008 são
+regionalizadas?
+
+1. Qual o grau ou o Índice de Regionalização da Despesa (IRD)
+descrito no PLOA e na LOA de 2001 a 2008?
+
+2. Qualo grau de discricionariedade da LOA? Alto, médio ou baixo?
+
+O primeiro objetivo deste trabalho é então, analisar o planejamento do Projeto
+de Lei Orçamentária Anual (PLOA) e a Lei Orçamentária Anual (LOA) quanto à
+localidade do gasto público, do federalismo brasileiro e às desigualdades regionais
+no país, com base nos dados orçamentários por regiões, unidades federativas e
+determinar a capacidade de o PLOA e a LOA identificar em onde estão sendo
+aplicados os recursos públicos da União.
+
+O segundo objetivo da monografia é sugerir alternativas de aperfeiçoamento
+para alocação dos gastos da União publicados, na grande maioria sem especificar
+onde a despesas se dará. Para tal, foi proposto o Índice de Regionalização da
+Despesa (IRD) ano a ano, deste de 2001, para aferir o grau de vinculação anual dos
+
+gastos da União à região geográfica, ou ao Estado, ou ao município, onde a
+despesa efetivamente ocorrerá.
+
+Z
+
+Por fim, o objetivo é apresentar uma ferramenta democrática que dá
+transparência ao processo de alocação e regulamentação da despesa, uma
+municipalização, e assim, compatibilizar a participação individual e a participação
+coletiva, estabelecer, as prioridades na aplicação dos recursos da região e
+possibilitar o exercício da cidadania ativa.
+
+1.2 ) ustificação e Contexto
+
+Por possuir uma multiplicidade de aspectos, como o político, o contábil, o
+administrativo, o jurídico, o financeiro e o econômico, entre outros, o orçamento
+público tem sido objeto de muitos conceitos. Apresentamos a seguir a visão,
+segundo alguns autores, sobre o conceito, a natureza jurídica e o contexto histórico
+do orçamento público no Brasil.
+17
+
+1.2.1 Orçamento Público
+
+Segundo Baleeiro (2000), a atividade financeira do Estado Brasileiro, nos
+anos 90, enfrentou grandes desafios. A falta de recursos gerou grave crise fiscal,
+devido à má administração e do pífio planejamento dos gastos governamentais. A
+elevada inflação das décadas de 80 e 90 dificultava o planejamento e o diagnóstico
+de onde e como aplicar os recursos governamentais, o que acarretou na baixa
+eficiência dos programas existentes na LOA.
+
+Baleeiro (2000) ainda esclarece, que normalmente, os governantes realizam
+despesas desnecessárias, sem satisfazer as necessidade públicas; gastam mais do
+que podem, contraem dívidas e geralmente a amortização da dívida é tão lenta que
+transpassa vários governos.
+
+Esse quadro gerou uma situação caótica das finanças públicas brasileira
+limitando o reconhecimento das verdadeiras necessidades da população e o baixo
+investimento da LOA em obras de infra-estrutura.
+
+1.2.1.1 Conceitos
+
+A palavra orçamento é de origem italiana: "orzare", que significa fazer cálculos
+ou estimar. (WIKIPÉDIA, 2008)
+
+A finalidade do orçamento segundo Celso Bastos (1992)
+
+[...] é de se tornar um instrumento de exercício da democracia pelo qual os
+particulares exercem o direito, por intermédio de seus mandatários, de só
+verem efetivadas as despesas e permitidas as arrecadações tributárias que
+estiverem autorizadas na lei orçamentária.
+
+O citado autor conclui que
+
+[...] o orçamento é, portanto, uma peça jurídica, visto que aprovado pelo
+legislativo para vigorar como lei cujo objeto disponha sobre a atividade
+financeira do Estado, quer do ponto de vista das receitas, quer das
+despesas. O seu objeto, portanto, é financeiro.
+
+Para Pires (1999) o orçamento pode ser definido como:
+
+[...] um conjunto organizado de informações financeiras em que se estima a
+receita e se prevêem as despesas de uma unidade de governo para um
+período futuro.”;
+
+[...] conjunto de decisões políticas em torno da arrecadação e aplicação de
+recursos; e
+18
+
+[...] um instrumento de planejamento e controle do recurso financeiro de
+governos.
+
+Diante das várias definições observa-se que o orçamento público é um
+instrumento de planejamento que prevê as receitas e fixa as despesas. Com isso,
+ele permite o controle com enfoque na área das Finanças Públicas, uma das mais
+importantes do Estado Brasileiro, que, conforme Deodato (1973, p. 57), considera
+“...] procura de meios para satisfazer as necessidades públicas.”.
+
+Dentre os conceitos mais aceitos do orçamento público, tem-se:
+
+e O orçamento é um plano que expressa em termos de dinheiro, para um
+período de tempo definido, o programa de operações do governo e os
+meios de financiamento desse programa. (MANVE , 2002, p. 22).
+
+e ato legislativo mediante o qual se autoriza o máximo de gastos que o
+Governo pode realizar durante um período de tempo nas obrigações
+que detalhadamente são especificadas e que prevêem os ingressos
+necessários para cobri-las. (BEREI) O apud TORRES, 2006, p. 45);
+
+e Musgrave (2006) esclarece que o serviços públicos oferecidos pelo
+governo necessitam de recursos para financiar suas ações, os quais
+podem ser obtidos de várias maneiras, sendo a arrecadação de tributos
+a responsável pela maior parte da receita pública total.
+
+Entende-se por receita pública, segundo Baleeiro (2000), a entrada de
+recursos que, integrando-se ao patrimônio público sem quaisquer reservas,
+condições ou correspondência no passivo, vem acrescer o seu vulto, como elemento
+novo e positivo. Ainda segundo Baleeiro, para a despesa pública, há dois conceitos
+possíveis. O primeiro designa o conjunto dos dispêndios do Estado ou de outra
+pessoa de direito público para o funcionamento dos serviços públicos, e o segundo
+seria a aplicação dos recursos por parte da autoridade competente, dentro de uma
+autorização legislativa, para a execução de fim a cargo do governo.
+
+Receita e despesa públicas são, então, partes integrantes do Orçamento
+Público que, em sentido formal, é uma lei, cujo objeto é estimar a receita e fixar a
+despesa para um determinado período, normalmente um ano, conforme explica
+Morgado (1997), e, em sentido material, é um ato administrativo, proposto pelo
+Poder Executivo e apreciado pelo Poder Legislativo, no qual se encontram
+
+estimadas as despesas a serem fixadas nos diversos programas de trabalho do
+19
+
+Governo e as correspondentes receitas a serem arrecadadas, em suas diversas
+origens.
+
+É importante compreender, no caso do Brasil, como é realizada a aplicação
+dos recursos disponíveis entre os diferentes segmentos da sociedade, constituindo-
+se em despesa pública. Muitas despesas já estão determinadas em lei, grande parte
+delas na própria Constituição Federal. Também as receitas obedecem a uma gama
+de dispositivos legais, constitucionais e não-constitucionais, que estabelecem, entre
+outros aspectos, sua repartição entre os demais níveis de governo e, em muitos
+casos, sua vinculação a despesas predeterminadas.
+
+Conforme se pode observar, o processo orçamentário brasileiro se dá sob o
+peso de decisões tomadas no passado e que criam limitações para a realização de
+escolhas no presente.
+
+Esclarece Morgado (1997), que a parcela remanescente da receita, destinada
+a efetivar outros gastos públicos que não os predeterminados pelas vinculações é
+pequena, sendo o remanejamento feito quase sempre mediante o cancelamento de
+recursos de outros programas, no mesmo montante, o que, muitas vezes, pode
+implicar em cortes de itens essenciais para a sociedade,
+
+O critério para a fixação das despesas é, em geral, político, práxis que tem
+conduzido estudiosos à concepção de uma nova visão das finanças públicas,
+partindo da aceitação de que as “finanças públicas são a economia política da
+atualidade, à medida que a maior parcela das decisões econômicas é concebida no
+âmbito da política” (PEREIRA, 2003, p.18), Isso permite afirmar que economia e
+política passaram a interagir de maneira efetiva, nas decisões de interesse da
+sociedade.
+
+Cabe à população, como parte interessada, buscar os meios para que as
+despesas fixadas na LOA obedeçam a um planejamento prévio, para diminuir a
+discricionariedade dos gestores orçamentários e os gastos atendam, de fato,
+interesses coletivos e não particulares, geralmente com fins eleitoreiros.
+
+O princípio do estreitamento desse vínculo entre sociedade e orçamento deve
+vir do estímulo de debates e da adoção de medidas e instrumentos de transparência
+e planejamento do gasto público, como esta monografia, que sugere uma solução de
+emenda à LDO, por um anteprojeto (ver o Apêndice), para o fortalecimento da
+20
+
+sociedade e suas relações com o Estado, aumentando e diversificando espaços de
+negociação e de intermediação de interesses.
+
+1.2.1.2 Natureza ) urídica
+
+A natureza jurídica do orçamento tem sido amplamente discutido por
+especialistas e compreende vários aspectos : o econômico, o político, o técnico e o
+jurídico.
+
+Do ponto de vista político, Baleeiro (1974, p. 20) supõe a adoção de decisões
+na condução do Estado. O econômico representa uma ordenação das necessidades
+públicas, segundo suas prioridades, e sobre o prisma jurídico “é um ato pelo qual um
+certo período as despesas destinadas ao funcionamento dos serviços públicos e
+outro afins adotados pela política econômica e geral do país, assim como, à
+arrecadação das receitas criadas em lei.”
+
+1.2.1.3 Contexto Histórico
+
+Orçamento público surgiu com a finalidade precípua de ser instrumento de
+controle da receita arrecadada segundo Giacomoni (2003). Santa Helena (2003)
+acrescenta que a aceitação desse controle social da gestão pública pelos
+detentores do poder absoluto não foi nada tranquila. Não obstante os séculos de
+marchas e contramarchas, a instituição do orçamento público seguiu evoluindo de
+modo a abranger, também, a preocupação com a despesa e, posteriormente,
+passou a enfatizar a execução do orçamento. Mais tarde deu-se o início efetivo
+da fiscalização parlamentar, sobre a execução orçamentária, com a Bill of Rights
+(Declaração de Direitos), quando surgiu a formulação “todo o subsídio (tributo)
+será votado anualmente pelo parlamento”, que, convertida em princípio, viria a
+servir de referencial básico para o controle dos poderes deferidos ao Estado,
+pelos representantes do povo.
+
+Esclarece Morgado (1997), que no Brasil, à semelhança da maioria dos
+21
+
+países recém-saídos do período colonial, a implantação das primeiras normas
+orçamentárias também está ligada a lutas. A Inconfidência Mineira, ocorrida no
+final do século XVIII, bem exemplifica isso, ao retratar a revolta da população
+contra a imposição de Portugal de cobrar impostos arbitrários sobre o ouro
+extraído no Brasil. Quando não ocorria o pagamento espontâneo dos impostos
+por parte dos contribuintes, era decretada a Derrama, que consistia na busca, de
+casa em casa, do ouro escondido, sendo presos os que ofereciam qualquer
+resistência, e aplicadas outras tantas medidas violentas que a história tão bem
+registra.
+
+A despeito da derrota da Inconfidência Mineira, o ideário do movimento
+permaneceu e expandiu-se, criando condições à proclamação da independência,
+em 1822 e teve, como conseguência natural, o processo de estruturação do
+Estado brasileiro, aí incluídas as Finanças Públicas, que, em termos normativos,
+foram reguladas pela Constituição de 1824, quando se atribui à Câmara dos
+Deputados a iniciativa privativa das leis orçamentárias, o que, concretamente, só
+ocorreu no final de 1827.
+
+Segundo Sanches (1998), no contexto mundial, a partir do século XIX o
+princípio do controle sobre a ação do Estado, pelos representantes do povo, se
+consolida, criando instituições como as Cortes de Contas e a intervenção do
+Legislativo na formulação, fiscalização e avaliação da execução dos orçamentos,
+modelo que prevalece até os dias de hoje, inclusive no Brasil, conforme se
+observa na Constituição Federal de 1988, que determina, entre seus dispositivos,
+caber ao Congresso Nacional a fiscalização contábil, financeira, orçamentária,
+operacional e patrimonial da União e das entidades da administração direta e
+indireta, quanto à legalidade, economicidade, aplicação das subvenções e
+renúncias de receitas.
+
+A busca pelo cumprimento dessa determinação constitucional brasileira
+tem sido cada vez mais intensificada, e, em decorrência, muitas ações foram
+implementadas, como, por exemplo, a aprovação de leis, seja por meio de
+legislação complementar, no caso da Lei Complementar nº 101, de 2002 - Lei de
+Responsabilidade Fiscal (LRF) -, seja por inserção de dispositivos na Lei de
+Diretrizes Orçamentárias, que estabelece explicitamente a disponibilização dos
+meios necessários para que as Casas do Poder Legislativo possam dar
+22
+
+cumprimento a suas funções constitucionais e legais.
+
+A participação do Poder Legislativo, no âmbito do processo orçamentário,
+tem crescido muito nos últimos anos principalmente após a Comissão
+Parlamentar Mista de Inquérito - CPMI do Orçamento de 1994 que apontou
+falhas na elaboração e execução da LOA. Esta Comissão apresentou o relatório
+final com a sugestão de criação de assessorias permanentes em ambas as Casas
+do Congresso Nacional, capazes de auxiliar a análise parlamentar das matérias
+orçamentárias e financeiras e o exercício do controle e da fiscalização. Neste
+sentido, surgiam a Consultorias de Orçamentos do Senado Federal e da Câmara
+dos Deputados, compostas de profissionais qualificados e selecionados por
+concurso público.
+
+A Consultoria de Orçamentos do Senado Federal, além de realizar estudos,
+notas técnicas, pareceres e pesquisas orçamentárias e financeiras, implementou
+instrumentos que propiciam mais transparência e publicidade das receitadas
+arrecadadas e das despesas previstas e executadas. O portal do Orçamento da
+União, aliado ao sistema de pesquisa gerencial avançada, o SIGA Brasil, reúne
+os dados do SIAFI ? e outras bases sobre orçamentos públicos em um único
+portal. A SIGA constitui-se, pois, uma ferramenta relevante e confiável para
+elaboração de consultas.
+
+1.2.2 Participação popular no processo orçamentário e a
+regionalização
+
+Giacomoni (2003) esclarece que o orçamento participativo é um mecanismo
+de expressão da participação popular no processo de elaboração do orçamento, e
+que essa difusão ajuda a partilha dos recursos disponíveis, no planejamento dos
+programas prioritários, na definição onde ocorrerão as ações governamentais e a
+controlar a aplicação dos investimentos públicos.
+
+* Sistema Integrado da Administração Financeira (SIAFI): é o principal instrumento utilizado para
+registro, acompanhamento e controle da execução orçamentária, financeira e patrimonial do Governo
+Federal.
+23
+
+Z
+
+Rennó (2006) aponta que, “O Orçamento Participativo é um caso que
+mistura oportunidades para discussão sobre temas nacionais com temas
+locais.” É nessa perspectiva de discussão, de aproximar as associações de
+moradores, os cidadãos, que ao regionalizar os programas e as ações do
+orçamento da União, os indivíduos identifiquem a localidade, o Estado ou a Região
+onde morrem, e através da publicidade, da comunicação direta divulgada na LOA,
+estabelece-se a prática de transparência, o planejamento, o controle e fiscalização
+de obras e melhoramentos pela população, compatibilizar a participação individual e
+a participação coletiva para o exercício da cidadania ativa.
+
+1.2.3 Accountability, a descentralização e a regionalização
+
+Accountability é um termo da língua inglesa, sem tradução exata para o
+português, que remete à obrigação de membros de um órgão administrativo ou
+representativo de prestar contas a instâncias controladoras ou a seus representados
+(WIKIPÉDIA, 2008). E, é nessa ótica de prestar contas das ações governamentais,
+que a accountability, na descentralização dos recursos orçamentários, repartidos
+com os entes da unidade da Federação, ou seja, regionalizados, favorece a
+transparência, o controle e o planejamento na alocação das despesas públicas.
+
+Segundo, Pederiva (2006), no estudo sobre do setor público, vincula-se, em
+sentido amplo, ao conhecimento das informações relevantes para tomar decisões e
+na busca de uma sociedade livre, justa e solidária, que garanta o desenvolvimento
+nacional, erradique a pobreza e a marginalização, reduza as desigualdades
+sociais e regionais.
+
+A redução das desigualdades sociais e regionais é um dos objetivos desse
+estudo sobre a regionalização, pois visa, através da descentralização das dotações
+orçamentárias, onde a localização dos gastos ocorre excessivamente na localidade
+denominada de “Nacional”.
+
+Outro objetivo para a regionalização da Lei Orçamentária, apoiado nos
+princípios da accountability, é auxiliar os órgãos de controle interno e externo, os
+auditores e contabilistas, a sociedade civil organizada e a qualquer cidadão com um
+24
+
+instrumento de informação relevante para tomada decisões, onde a ação
+governamental almejar atuar, e assim, incentivar a participação popular no processo
+de elaboração, no planejamento e controle do orçamento da União.
+
+1.2.4 SIGA Brasil - Sistema de Informações sobre Orçamentos
+Públicos
+
+O SIGA Brasil, portal do Senado Federal dedicado ao orçamento público, é
+um instrumento de transparência orçamentária:
+
+A transparência dos atos públicos é considerada hoje um dos principais
+instrumentos de melhoria da eficiência e efetividade do governo. Ela tanto
+previne quanto combate a corrupção, além de aperfeiçoar a base de
+conhecimentos sobre os quais as políticas públicas são decididas,
+elaboradas e executadas.
+
+As potencialidades do SIGA Brasil como suporte para elaboração
+legislativa, formulação de políticas públicas e realização de pesquisas
+acadêmicas são incontáveis, e continuarão crescendo à medida que o SIGA
+Brasil incorpore novas bases de dados, o que já é previsto. (CONORF,
+2008)
+
+O projeto SIGA Brasil com o foco na transparência, publicidade e
+acessibilidade, permite que se efetue os cruzamentos desejados entre um amplo
+leque de dados, por meio de uma única interface amigável, disponível para o acesso
+livre e sem cadastro prévio.
+
+O sistema SIGA Brasil fruto da parceria entre o Prodasen (Serviço de
+Processamento de Dados do Senado Federal) e a Consultoria de Orçamentos,
+Fiscalização e Controle do Senado Federal (CONORF) iniciada em 2000, rendeu à
+equipe e ao sistema numerosos destaques e prêmios nacionais e internacionais.
+
+Por exemplo, no ano de 2006 com o artigo “Tecnologia da Informação a
+Serviço da Eficiência, Transparência e Controle Social do Gasto Público: o projeto
+SIGA Brasil” foi o 1º colocado do “Prêmio Brasil de Tecnologia da Informação e
+Comunicações - Prêmio TIC Brasil”.
+
+Em dezembro de 2006 a reportagem do Jornal Correio Braziliense, no
+Caderno de Informática, destaca o empenho da equipe do SIGA Brasil com a
+
+5 CONORF - Consultoria de Orçamentos, Fiscalização e Controle do Senado Federal
+25
+
+matéria “Tecnologia para o Bem - Funcionários do Senado criam software que
+permite ao cidadão acompanhar a destinação do dinheiro da União.” (ver anexo )
+
+Em 2008 o SIGA Brasil foi destaque em publicação do Relatório Mundial do
+Parlamento Eletrônico em 2008 “World e-Parliament Report 2008”, na Suíça.
+
+A conferência teve por o objetivo central a troca de informações e de
+experiências sobre melhores práticas, utilizando a Tecnologia da Informação e
+Comunicações - TIC para modernizar processos parlamentares.
+
+O contexto de transparência, controle e comunicação, em que se dá o SIGA
+Brasil, inspirou o presente estudo de Regionalização do Orçamento Anual da União,
+como uma forma de determinar na LOA um melhor planejamento e, por conseguinte,
+uma menor discricionariedade da execução.
+
+1.2.5 Lei Orçamentária Anual (LOA)
+
+A Lei Orçamentária Anual (LOA) estima as receitas que a União espera
+arrecadar durante o ano e fixa os possíveis gastos a serem realizados com tais
+recursos conforme autorizado pelo Congresso Nacional segundo a estrutura e
+classificação orçamentária da receita e da despesa, definida na Lei nº. 4.320, de 17
+de março de 1964, que estatui normas gerais de direito financeiro.
+
+A Lei nº. 4.320/1964, recepcionada pela Constituição Federal de 1988, como
+lei complementar, estabelece a discriminação da despesa e da receita, representa o
+marco fundamental da classificação da receita e da despesa orçamentária. Para
+auxiliar processo de elaboração da proposta orçamentária, a Secretária de
+Orçamento Federal (SOF), organizou, no Manual Técnico de Orçamento (MTO), os
+conceitos, os procedimentos e as instruções a serem observados na elaboração da
+proposta orçamentária da União, compreendendo os orçamentos fiscal, da
+seguridade social e do investimento.
+
+1.2.5.1 Estrutura e Classificação Orçamentária da Despesa
+
+Segundo o Manual Técnico do Orçamento - MTO 2008, a compreensão do
+orçamento da despesa exige o conhecimento de sua estrutura e organização, as
+quais são implementadas por meio de um sistema de classificação estruturado com
+26
+
+o propósito de atender às exigências de informação demandadas por todos os
+interessados nas questões de finanças públicas, como os poderes públicos, as
+organizações públicas e privadas e os cidadãos em geral. (SOF;, 2008, p.21)
+
+A estruturação atual do orçamento público considera que as programações
+orçamentárias estejam organizadas em Programas de Trabalho, e que
+esses possuam programação física e financeira. O Programa de Trabalho,
+que define qualitativamente a programação orçamentária, deve responder,
+de maneira clara e objetiva, às perguntas clássicas que caracterizam o ato
+de orçar, sendo, do ponto de vista operacional, composto dos seguintes
+blocos de informação: Classificação por Esfera, Classificação Institucional,
+Classificação Funcional e Estrutura Programática, conforme detalhado a
+
+seguir:
+BLOCOS DA ESTRUTURA ITEM DA ESTRUTURA PERGUNTA RESPONDIDA
+Classificação por Esfera Esfera Orçamentária Em qual Orçamento ?
+E Orgão
+Classificação Institucional Quem faz ?
+Unidade Orçamentária
+. Emque área da despesa a
+. Função -
+Classificação Funcional - ação governamentalserá
+Subfunção
+malizada ?
+Estrutura Programática Programa Oque fazer?
+- Objetivo Para que é feito ?
+informações Principais do - Problema resolver Porque é feito ?
+Programa - Público Alvo Paraquem é feito ?
+- Indicadores Quais as medidas ?
+Ação Como fazer ?
+- Descrição Oque é feito ?
+- Finalidade Para que é feito ?
+hformações Principais da
+Acã - Forma da Implementação Como é feito ?
+ção
+- Etapas Quais asfases ?
+- Produto Qualo resultado ?
+- Subtítulo Onde é feito?
+
+ 
+
+ 
+27
+
+Esfers orçamentária
+Orgão
+
+Unidade orçamentáris
+Função
+
+Subtunção
+
+Programa
+
+Ação
+
+Localização co gesto
+(Subtítulo)
+
+DOC
+
+IDuso
+
+Fome
+
+Natureza (Categoria
+econômica/grupo despess/
+mocslidsce ce aplicação)
+
+icacor ce
+
+Resultado Primério
+
+Quadro 1 - Estrutura orçamentária
+
+ 
+
+Assim, após apresentar a estrutura orçamentária completa, abordaremos a
+seguir a classificação da despesa: por Esfera Orçamentária, pela Institucional e pela
+Funcional da Despesa, com breves definições, importantes para a compreensão do
+tema abordado.
+
+1.2.5.1.1 Classificação por Esfera Orçamentária
+
+A esfera orçamentária tem por finalidade identificar se o orçamento é fiscal
+(F), da seguridade social (S) ou de investimento das empresas estatais (1), conforme
+disposto no art. 165, 8 5º da Constituição Federal:
+
+8 5º- A lei orçamentária anual compreenderá:
+
+| - o orçamento fiscal referente aos Poderes da União, seus fundos, órgãos
+e entidades da administração direta e indireta, inclusive fundações
+instituídas e mantidas pelo Poder Público;
+
+Il - o orçamento de investimento das empresas em que a União, direta ou
+indiretamente, detenha a maioria do capital social com direito a voto;
+
+HI - o orçamento da seguridade social, abrangendo todas as entidades e
+órgãos a ela vinculados, da administração direta ou indireta, bem como os
+fundos e fundações instituídos e mantidos pelo Poder Público.
+
+A classificação do orçamento em três esferas é apenas a forma
+multidocumental como se apresenta o orçamento em nada prejudica o princípio da
+unidade orçamentária.
+28
+
+1.2.5.1.2 Classificação Institucional
+
+A classificação institucional reflete a estrutura organizacional e administrativa
+governamental e está estruturada em dois níveis hierárquicos: órgão orçamentário e
+unidade orçamentária. As unidades orçamentárias são as estruturas administrativas
+responsáveis pelos recursos financeiros (dotações) e pela realização das ações.
+
+1.2.5.1.3 Classificação Funcional da Despesa
+
+A classificação funcional, por funções e subfunções, busca responder
+basicamente à indagação “em que” área de ação governamental a despesa será
+realizada. Cada atividade, projeto e operação especial identificará a função e a
+subfunção às quais se vinculam.
+
+A atual classificação funcional foi instituída pela Portaria nº. 42, de 14 de abril
+de 1999, do então Ministério do Orçamento e Gestão. Ela é composta por funções -
+por exemplo: 09-Previdência, 10-Saúde, 12-Educação - e por subfunções - por
+exemplo: 274-Previdência Especial, 304-Vigilância Sanitária, 364-Ensino Superior -
+predeterminadas pelo órgão central de planejamento da União, que servem como
+agregador dos gastos públicos por área de ação governamental nas três esferas de
+Governo.
+
+A classificação é de aplicação comum e obrigatória segundo a Lei nº.
+4.320/1964, no âmbito dos Municípios, dos Estados, do Distrito Federal e da União,
+o que permite a consolidação nacional dos gastos do setor público.
+
+1.2.5.1.4 Programa
+
+O programa é o instrumento de organização da ação governamental visando
+à concretização de objetos comuns preestabelecido, mensurado por indicadores
+29
+
+instituídos no plano plurianual, visando a solução de um problema ou o atendimento
+de determinada necessidade ou demanda da sociedade.
+
+O programa pode ser definido, como a capacidade de representar cenários
+complexos usando termos simples que contem ações do Governo para proporcionar
+maior racionalidade e eficiência na administração pública e ampliar a visibilidade dos
+resultados e benefícios gerados para a sociedade, bem como elevar a transparência
+na aplicação dos recursos públicos.
+
+Como exemplos podemos citar os programas: 0089 - Previdência de Inativos
+e Pensionistas da União, 1289 - Vigilância Sanitária de Produtos, Serviços e
+Ambientes, e 1073 - Universidade do Século XXI.
+
+1.2.5.1.5 Ação
+
+As ações são instrumentos de realização dos programas das quais resultam
+bens ou serviços. São classificadas, segundo a Portaria 42 de 1999 art. 2º do
+Ministério do Planejamento em:
+
+[...] Projeto, um instrumento de programação para alcançar o objetivo de
+um programa, envolvendo um conjunto de operações, limitadas no tempo,
+das quais resulta um produto que concorre para a expansão ou o
+aperfeiçoamento da ação de governo; (grifo nosso)
+
+Atividade, um instrumento de programação para alcançar o objetivo de um
+programa, envolvendo um conjunto de operações que se realizam de modo
+contínuo e permanente, das quais resulta um produto necessário à
+manutenção da ação de governo; (grifo nosso)
+
+Operações Especiais, as despesas que não contribuem para a
+manutenção das ações de governo, das quais não resulta um produto, e
+não geram contraprestação direta sob a forma de bens ou serviços. [...]
+(grifo nosso)
+
+A ação também registra os atributos quanto à finalidade, descrição, produto,
+
+unidade de medida, especificação do produto, tipo de ação, formas de
+implementação e etc.
+30
+
+1.2.5.1.6 Subtítulo (L ocalizador de gasto)
+
+O subtítulo é utilizado para especificar a localização física da ação e
+agregar as metas físicas, de forma regionalizada, segundo os respectivos
+projetos, atividades ou operações especiais.
+
+A localização do gasto poderá ser de abrangência nacional (NA - código do
+subtítulo 0001), no exterior (EX - código do subtítulo 0002), por Região, por Estado
+ou Município, baseados no padrão do IBGE cujo o menor detalhamento é o
+município, ou, excepcionalmente, por um critério específico, quando necessário. É
+vedada, na especificação do subtítulo, a referência a mais de uma localidade, área
+geográfica ou beneficiário.
+
+As regiões segundo a SOF (2008, p. 146), são:
+
+a) NO: Norte - código do subtítulo 0010;
+
+b) NE: Nordeste - código do subtítulo 0020;
+
+c) SD: Sudeste - código do subtítulo 0030;
+
+d) SL: Sul - código do subtítulo 0040; e
+
+e) CO: Centro-Oeste - código do subtítulo 0050.
+
+O subtítulo representa o menor nível de categoria de programação e é
+detalhado por unidade orçamentária e programação financeira, sendo o produto e a
+unidade de medida os mesmos da ação orçamentária. A especificação do subtítulo
+pode identificar a localidade do gasto público, sendo assim, possível, determina o
+
+Índice de Regionalização da Despesa (IRD) do orçamento da despesa.
+
+1.3 Estrutura do Trabalho
+
+O Capítulo 1 introduz os parâmetros, os conceitos a natureza jurídica do
+orçamento do público e apresenta as questões de pesquisa, as hipóteses e os
+objetivos da monografia.
+
+No Capítulo 2 são explanados a metodologia, os procedimentos de
+elaboração das tabelas e os gráficos utilizados para as análises da questão.
+31
+
+O Capítulo 3 apresenta e discute os resultados e as análises alusivos à
+questão de pesquisa e prega a utilização do Índice de Regionalização da Despesa
+(IRD). No Capítulo estão todas as tabelas e gráficos utilizados para as análises
+sobre a regionalização dos dispêndios públicos descritos nos PLOAs e nas LOASs
+dos anos de 2001 a 2008.
+
+Por último, na Conclusão, estão respondidas as questões de pesquisa e as
+hipóteses quanto à regionalização do orçamento federal e reforça a necessidade de
+da adoção do IRD mínimo para a aquiescência do PLOA enviado ao Congresso
+Nacional.
+32
+
+2 METODOLOGIA
+
+A pesquisa bibliográfica, realizada nas bibliotecas da Câmara dos Deputados,
+Tribunal de Contas da União, Senado Federal e em especial, na Consultoria de
+Orçamentos, Fiscalização e Controle do Senado Federal e no portal SIGA Brasil,
+bem como em artigos jurídicos encontrados na “Internet”, consolidado pela análise
+qualitativa do autor.
+
+O SIGA Brasil, um novo instrumento de transparência para acompanhar a
+elaboração e execução do orçamento da União, foi o eleito pelo autor da
+monografia, para a obtenção dos dados e geração das tabelas e dos gráficos, todos
+elaboração própria.
+
+2.1 Procedimento da Produção Científica
+
+As tabelas e os gráficos foram organizados com base nos dados do SIGA
+Brasil, a partir do estudo e da constatação empírica do pesquisador, nos Projetos de
+Leis Orçamentárias (PLOA) e nas Leis Orçamentárias (LOA) de 2001 a 2008.
+
+Das alocações das despesas definidas nos PLOAs e nas LOAs, foram
+ressalvadas as dotações para atender ao serviço da dívida pública, para não inserir
+despesas com a rolagem da dívida pública e a reserva de contingência” - GNDs 2,
+6e9;e0 Órgão orçamentário 90000.”
+
+é Reserva de Contingência, permitida para a União no art. 91 do Decreto-Lei 200, de 1967 e no art. 5º
+, Inciso Il, da Lei Complementar no 101, de 2000, a ser utilizada como fonte de recursos para
+abertura de créditos adicionais e para o atendimento de passivos contingentes e outros riscos e
+eventos fiscais imprevistos.
+
+7? GND - Grupo de Natureza da Despesa: GND 2 -) uros e Encargos da Dívida, GND 6 - Amortização
+da Dívida e GND 9 - Reserva de Contingência; Orgão Orçamentário: 90000 - Reserva de
+Contingência. (SOF, 2008).
+33
+
+2.2 Distribuição das verbas públicas
+
+A Tabela 1 refere-se à série histórica das distribuições, por região geográfica,
+dos valores em reais (R$ bilhões) dos Autógrafos e os percentuais de acréscimos
+das verbas orçamentárias de um ano para outro, constantes nos PLOAs de 2001 a
+2008. A variável denominada de Região, no SIGA Brasil, pertence à classe
+“Localidade” (localização geográfica das despesas, distinguindo Região, Estados-UF
+e Municípios) e objeto de dimensão “Região”.
+
+Ainda na Tabela 1, os valores dos Autógrafos indicam ano a ano, o montante
+das despesas nominalmente identificadas para cada região geográfica do país. A
+variável Autógrafo, no SIGA, pertence à classe “Valores da Despesa” (que contém
+os valores orçamentários e financeiros relativos à elaboração e execução
+orçamentária) e objeto de valor “Autografo”.
+
+A Tabela 2 refere-se à série histórica das distribuições, por região geográfica,
+dos percentuais dos Autógrafos em relação ao total, constantes nos PLOAs de 2001
+a 2008. Nessa tabela, há a variável “% Autog. Médio” que representa o percentual
+médio, de 8 anos, dos Autógrafos em relação ao total, a variância da população e o
+desvio padrão da população.
+
+O Gráfico 1 foi elaborado a partir dos dados da Tabela 2. Representa a série
+histórica da alocação dos gastos nos PLOAs de 2001 a 2008, por Região em três
+dimensões (3D) com as variáveis Ano, percentual do Autógrafo e Região indicados
+nos eixos X, Y e Z respectivamente. Para melhor visualização, optou-se pela ordem
+crescente dos valores percentuais destinados a cada região.
+
+2.2.1 Distribuição das verbas públicas por região
+
+A Tabela 3 é uma síntese decorrente da Tabela 2, que excluí a alocação
+genérica “Nacional”, para expressar numericamente, o percentual médio da
+alocação nominal da despesa no PLOA e na LOA, através de um Índice da
+Regionalização da Despesa (IRD) e do Índice Médio da Regionalização da
+Despesa (IMRD).
+34
+
+Os índices da Tabela 3, propostos nesta monografia, são fáceis de serem
+calculados. O IRD representa o somatório dos percentuais de todas as dotações
+nominalmente identificadas às Regiões, Estados ou Municípios, exceto para a
+localidade “Nacional”, sigla “NA”, ou na classificação funcional da despesa de
+subtítulo “0001”, excetuado o serviço da dívida pública e a reserva de contingência.
+
+No SIGA Brasil a fórmula para o cálculo do IRD do valor do Autógrafo é a
+seguinte: IRD(Autografo) * = ([Autografo] Onde ([Região]<>"NA")lAutografo]) º.
+
+E a fórmula para o cálculo do IRD do valor Projeto de Lei (PL) é a seguinte:
+IRD(PL)!º =([PL] Onde ([Região]<>"NA")IPL]) 1.
+
+O IMRD é calculado pelo somatório dos IRDs dividido pela quantidade de
+anos da amostra analisada, no presente caso, por 8.
+
+A Tabela 4 demonstra como foram distribuídos os valores das emendas por
+região e por tipo de autor no PLOA 2007. Optamos por esse ano pela atipicidade do
+PLOA 2008, no qual o valor do PL precisou ser reduzido diante da queda da receita
+prevista pela não aprovação, pelo Congresso Nacional, da Contribuição Provisória
+sobre Movimentação Financeira (CPMF).
+
+O tipo de autor é classificado como: Bancada Estadual, Comissão Câmara
+dos Deputados, Comissão Senado Federal, Deputado Federal, Relator Geral,
+Relator Setorial e Senador; e é encontrado no site do SIGA Brasil nas consultas pré-
+elaboradas pela Consultoria de Orçamentos, Fiscalização e Controle (CONORF) do
+Senado Federal sobre a execução das emendas dos parlamentares ou, por
+exemplo, no universo “LOA2007 - Execução Emendas”, na variável “Autor (Tipo)”,
+classe “Emenda” / “Autor”.
+
+8 Variável criada pelo autor da monografia, no SIGA Brasil.
+
+º São variáveis pertencestes ao universo Execução Emendas no SIGA Brasil: [Autografo] é objeto de
+valor e [Região] é um objeto de dimensão. O filtro para exclusão da região genérica Nacional é dado
+na fórmula, pela expressão: Onde ([Região]<>"NA").
+
+1º Variável criada pelo autor da monografia, no SIGA Brasil.
+
+1 são variáveis pertencestes ao universo Execução Emendas no SIGA Brasil: [PL] é objeto de valor e
+[Região] é um objeto de dimensão. O filtro para exclusão da região genérica Nacional é dado na
+fórmula, pela expressão: Onde ([Região]<>"NA").
+35
+
+2.2.2 Distribuição das verbas públicas pelas unidades da Federação
+
+A Tabela 5 apresenta os valores orçamentários e financeiros das despesas
+realizadas e pagas por unidades da Federação (UF) das unidades gestoras (UG),
+descritas na LOA de 2007, ano fechado. A confecção desta tabela considerou a UF
+da UG informada no SIGA Brasil, universo “LOA2007 - Execução da Despesa” com
+os valores dos objetos/variáveis de valor!? : Autorizado, Empenhado, Liquidado e o
+total Pago (Pago +RP Pago).
+
+Consta, ainda na Tabela 5, a coluna do percentual calculado com base no
+valor do total Pago por UF(UG) divido pelo somatório do total Pago à UFSs(UG),
+excetuado o serviço da dívida pública e a reserva de contingência.
+
+2.3 Índice de Regionalização por dentro da estrutura e classificação
+orçamentária da despesa
+
+As Tabela 6 e Tabela 7 detalham o IRD pela ótica da estrutura e classificação
+da despesa segundo Esfera Orçamentária, Grupo da Natureza da Despesa (GND) e
+Setor Orçamentário. A fórmula do IRD é a mesma descrita para Tabela 3.
+
+A Tabela 6 reflete o IRD com o enfoque na Esfera dos Orçamentos: Fiscal, da
+Seguridade Social e do Investimento; elaborada no SIGA Brasil, no universo
+“LOA2008 - Despesa Elaboração” com o objeto/variável de dimensão “Esfera
+(Cod/Desc)”, e objetos/variáveis de valores: “PL” e “Autografo”, excetuado o serviço
+da dívida pública e reserva de contingência.
+
+A Tabela 6, ainda reflete o IRD com o enfoque no Grupo da Natureza da
+Despesa (GND); e foi elaborada no universo “LOA2008 - Despesa Elaboração” com
+
+'2 Autorizado: Registra a soma dos valores da Dotação Inicial com os cancelamentos e
+remanejamentos relativos à abertura de créditos adicionais. Exemplo: Autorizado = Dotação Inicial +
+Créditos Suplementares + Créditos Especiais + Créditos Extraordinários + Dotação
+Cancelada/R emanejada;
+
+Empenhado: Soma dos empenhos a liquidar e liquidados, corresponde ao primeiro estágio da
+despesa;
+
+Liquidado: Empenhos liquidados corresponde ao segundo estágio da despesa;
+
+Pago: Indica os valores pagos e corresponde ao terceiro e último estágio da despesa; e
+
+RP Pago: Restos a Pagar Pago ao longo do atual exercício.
+36
+
+o objeto/variável de dimensão “GND (Cod/Desc)”, e objetos/variáveis de valores:
+“PL” e “Autografo”, excetuado o serviço da dívida pública e reserva de contingência.
+
+A Tabela 7 reflete o IRD com o enfoque no Setor Orçamentário, elaborada no
+universo “LOA2008 - Despesa Elaboração” com o objeto/variável de dimensão
+“Setor (Cod/Desc)”, e objetos/variáveis de valores: “PL” e “Autografo”, excetuado o
+serviço da dívida pública e reserva de contingência.
+
+A Tabela 8 foi elaborada por Setor Orçamentário, a partir da programação do
+Anexo | da LDO 2007. Demonstra a execução desta, na LOA 2007, excetuado o
+serviço da dívida pública e reserva de contingência. A tabela compara a
+INexecução! com a regionalização das despesas nominalmente identificadas na
+LOA.
+
+O Gráfico 2 confeccionado a partir dos dados da Tabela 2, apresenta no eixo
+X os Setores Orçamentários e no eixo Y o percentual de Índice de Regionalização
+da Despesa (IRD) e o percentual de INexecução.
+
+2.4 SIGA Brasil - Técnica de Pesquisa
+
+As informações orçamentárias deste estudo foram obtidas no portal de
+pesquisas SIGA Brasil (www.senado.gov.br/siga). Este portal possui uma ferramenta
+chamada Web Intelligence com todos os mecanismos necessários para que
+qualquer usuário, via intranet ou intemnet, possa acessar e analisar os dados
+armazenados nos servidores do Prodasen, de uma forma simples e rápida.
+
+Além disso, os usuários podem, por intermédio do portal, criar e armazenar
+suas próprias consultas, bem como usar consultas pré-elaboradas, tratadas de
+documentos corporativos, disponibilizadas pela Consultoria de Orçamentos do
+Senado Federal.
+
+O portal possui duas poderosas ferramentas para que o usuário possa
+construir suas consultas: os chamados “Painéis de Relatórios”. Um deles é em
+
+13 INexecução = (Autorizado - Liquidado) conforme empregado por Pederiva (2008).
+37
+
+HTML e se desenvolve no próprio “browser”; o outro é um applet JAVA de instalação
+automática no computador do usuário.
+
+No SIGA Brasil é formado por um enorme volume de dados organizados em
+um gigantesco banco que abriga vários subconjuntos de dados, chamados
+Universos, que têm o objetivo de fornecer todas as informações sobre o orçamento.
+
+Os universos são classificados por um assunto específico do banco de dados,
+com o intuito de isolar o usuário de termos técnicos, por exemplo: Execução de
+emendas no Orçamento de 2007, Elaboração da receita do Orçamento de 2008,
+Execução da despesa no Orçamento de 2008. Atualmente os Universos disponíveis
+no SIGA BRASIL são os seguintes, onde X identifica os anos de 2002 a 2008:
+
+e LOA 200X - Despesa Elaboração;
+
+e LOA 200X - Despesa Execução;
+
+e LOA 200X - Elaboração Parecer Emenda;
+e LOA 200X - Emendas;
+
+e LOA 200X - Meta Elaboração; e
+
+e LOA 200X - Receita Elaboração.
+
+A Figura 1 ilustra a tela principal do Portal de Trabalho. Nesta tela há duas
+áreas importantes, sendo a área 1 para acesso aos Documentos Corporativos, e
+outra, a área 2, para a criação de novas pesquisas, de acordo com a necessidade
+do usuário - 21 Documento do Web Intelligence. Esses documentos podem ser
+salvos em planilha Excel ou no formato Acrobat - .PDF. !º
+
+!º O documento/ consulta “LOA 2008 - Despesa Elaboração - Índice de Regionalização” é uma
+sugestão desta monografia, concretizada no portal do SIGA Brasil. Disponível em:
+<http://www.senado.gov.br/siga>. Acesso em: 22.set.2008.
+38
+
+ 
+
+ 
+
+ 
+
+ 
+
+89 e fê hip: uni. senado.gov.br/businessob jects/enterprises 15 desktoplaunch/InfoView/logon/logon. object; blx| le
+
+ 
+
+ 
+
+ 
+
+d 8 [é sia bras BB Ebtágnar O) Feramentas +”
+
+   
+
+Bem-vindo: publico
+
+ 
+
+ 
+
+ 
+
+ 
+
+E go
+
+ 
+
+ 
+
+(É Organizar + | X | Fitro: Todos os Tipos »
+
+Documento do Web
+
+pm BB Categorias Pessoais Ao 3) é (a)LOA2008-Despesa Elaboração - por O infaligenca
+
+E EE Categorias Corporativas
+B1-LDo çd D à) & (b)L0A2008-Despesa Elaboração - Demonstrativo Regionalizado
+p EB2-PPA PN
+E 63 - Orçamento - Elaboração 2) & (d)L042008-Despesa Elaboração - Fome Zero eemeno do Web
+a 8341-2008 RIR
+8 3141 -Projeto de Lei
+E E31.2- Emendas e Relatório Receita | Ds
+
+8 EB31,3-Parecer Preliminar |
+E Ê3.14-Emendas [Ml à) + L042008-Despesa Elaboração - Índice de Regionalização
+
+Documento do Web
+Intelligence
+
+ 
+
+ 
+
+ 
+
+LOA 2008 - Despesa Elaboração - Erradicação do Analfabetismo Documento do Web
+Intelligence
+
+Documento do Web
+
+Intelligence
+
+ 
+
+E EB315-Ciclo Setorial Histórico | Modificar | Propriedades
+
+g Universo: LOA 2008 - Despesa Elaboração Medidas: PL, Ciclo Setorial, Ciclo Geral, Autógrafo
+E [B3.16-Cido Geral Dimensões: Programa, ação, UF, Órgão, GND, Mod. Aplic, Esfera, Setor.
+E 317 -Autógrafos e Lei
+
+E B32-Outros Anos LOA 2008 - Despesa Elaboração - Manutenção do Ensino
+[B4- orçamento Fiscal é Seguridade - Execuçê
+e EB5- Orçamento - Receita = , LOAZ008- Elaboração Parecer Emenda - Atendimento das emendas - por Documento do Web
+E (B5- Emendas - Orçamento Cielo - por Autor Inteligence
+
+Documento do Web
+Intelligence
+
+ 
+
+ 
+
+ 
+
+8 (7 Créditos Adicionais É LOA 2008 - Elaboração Parecer Emenda - Atendimento das emendas Documento do Web
+És - Orçamento das Estatais - Execução coletivas Intelligence
+
+E 3 -Regiões, Estados e Municípios
+
+ 
+
+f LOA 2008 - Elaboração Parecer Emenda - Atendimento das emendas por Documento do Web
+e BA Patidadas Neisadan l é
+E Da E | autor Intelligence
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 Intranet local 810% +;
+
+ 
+
+ 
+
+ 
+
+Figura 1 - Tela principal do Portal de Trabalho de pesquisas s do SIGA Brasil |
+
+A Figura 2 ilustra a tela de uma consulta / documento, elaborada pela
+Consultoria de Orçamentos, disponível na categoria corporativa 3 - Orçamento -
+Elaboração, tanto para o acesso livre como para o acesso especialista. Por este
+acesso, qualquer pessoa que possui, preferencialmente, CPF e e-mail poderá obter
+o cadastrado de “Especialista”, que lhe dá direito de personalizar as consultas /
+documentos corporativos disponíveis e salva-las na “Categorias Pessoais” nos
+servidores do SIGA Brasil.
+39
+
+ 
+
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+      
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“8 SIGA Brasil - Windows Internet Explorer JEJÊI
+» Refazer | Zoom [100% Editar | 5 Atualizar Dados | (),
+Re serie = | E) Dupicar =| (A, Alertas
+gi ]
+[EM Objetos Disponíveis EF SIGA “
+[Xmas Ea Ei BRASIL | SENADO FEDERAL
+la h E
+8 ado (ode Valores previstos no PLOA 2008 e o Índice de Regionalização
+=] Data Carga Dados Exceto GND 2, 6e 9 e Reserva de Contingência
+= Esfera
+= Esfera (Cod) R$1,00
+= Esfera (Cod/Desc) a
+= Fonte (CodiDesc) Índice Índice
+3 função (CodiDesc) Esfera (CodiDesc) PL Region. Autografo e
+CND (Cod) F = ORÇAMENTO FISCAL 311855272514 1388% | 319437755.209 16,23%
+= CND (Codiabrev) TEORCAMENTO NVESTMENTO 2099693445 TOS% | 62122003446 71,04%
+=] Mod. Apie S- ORÇAMENTO DA SEGURIDADE SOCIAL 361,532.095671 TE20% | J62550551.229 15,82%
+7) Mod. Apiic. (Cod) TOTAL 735526062031 19,42% 744121379974 20,70%
+=] Mod. Apic. (CodiDesc)
+7) Nome Universo
+=) Programa (Cod/Desc) Índice PP
+= Região coa) suo PL Region. Autograto Region.
+= Setor «PD <Autografo>
+7 Setor (Cod) || PESSOALE ENCARGOS SOCIAIS 140582923203 00% | TSTBIZESEAO 18,10%
+7) Setor (CodiDesc) 3 OUTRAS DESPESAS CORRENTES 465.710,670.898 11,28% 489.516.914900 11,50%
+7 Subtunção (CodiDesc) 4 NVESTMENTOS 90.889.735.945 B7DE% 100005723199 70,38%
+a 5 INVERSÕES FNANCERAS 37.942.731.965 TII0% | 30986143385 T2 78%
+abrgão TOTAL 735.526.062.031 19,42% | 744.121.379.974 20,10%
+= Órgão (CodiDesc)
+9 Autografo
+9 Ciclo Geral
+9 Cico Setorial
+o PL
+| Egg Veriáveis
+O Índice Region. <Autograto» em
+a Índice Region. <PL> a a ] =
+sen Fórmuts E) Estera-cno [NE [[B| Programa || B/ — || Bj Mod pio so
+
+ 
+
+ 
+
+Fonte: CONORF (2008)
+
+Figura 2 - Tela da consulta / documento corporativo
+
+A Figura 3 é a representação gráfica do universo “LOA 2008 - Despesa
+Elaboração”. Na parte superior posicionam-se os objetos de dimensão, de medida e
+de detalhe. Na parte inferior seleciona-se o filtro da consulta. É
+
+O cubo azul que aparece nos quadros representa os objetos de dimensão aos
+quais serão associados os valores. Exemplos de objetos de dimensão: GND,
+Programa, Região, Órgão etc.
+
+A esfera rosa representa os valores que são os objetos de medida,
+representados pelas dotações (receitas e despesas) com os devidos
+créditos/cancelamentos e os seus estágios na elaboração do PLOA. Exemplos de
+valores são: Projeto de Lei (PL), Ciclo Setorial, Ciclo Geral, Autógrafo e etc.
+
+3 A Figura 3 ilustra os objetos do resultado e filtros que geram os relatórios visualizados na Figura 2.
+40
+
+ 
+
+(o Painel de de Relatório Java do Web Intelligence - Windows Internet Explorer OBS
+
+ 
+   
+
+ 
+
+ 
+
+ 
+
+onsulta | [E] Editar relatório Gexecutar consulta A B| O -
+RES E EE TIBEQ 2]
+[Dados | Propriedades fo Objetos do resultado
+E 671042008 - Despesa Elaboração ta] E A A
+YNome Universo | YData Carga Dados 7 Região 7 UF Órgão (Cod/Desc) 1 Órgão
+& (8 Identidade Universo [ É o a ão (Codes) a
+Localidade
+
+ 
+
+Órgéos e Urigádes Orcamantêriss Função (Cod/Desc) | 7 Subfunção (Cod/Desc) | Programa (Cod/Desc) | Ação (Cod/Desc) | GND (Cod)
+
+= € Funcional e Programática
+7 FuncionalÃJO
+
+7 Funcional ' i
+= Sequencial SOF Mod, Aplic. 7Mod. Aplic, (Cod/Desc) YFonte (Cod/Desc) Setor (Cod) 7 Setor | Setor (Cod/Desc)
+
+Mod. Aplic. (Cod) JEsfera (Cod) 7 Esfera | Esfera (Cod/Desc) 1 GND (Cod/abrev) 7 GND
+
+> PL “Ciclo Setorial > Ciclo Geral 9 Autografo
+
+Objetos de Resultado
+
+ 
+
+ro
+
+“F Ação pertencente a duas Esferas
+“Y Programa/Ação inexistente no PL
+“Y Funcionais Criadas no Congresso.
+“Y Manutenção Ensino
+
+ 
+
+ 
+
+Y Obras Irregulares Y Filivos de consulta
+
+“Y Passível Cancelamento L T ————
+
+Y vedações PARPRE = 7 GND (Cod) Foradalista, 2;6;9
+
+“f vetos do PPA E "+
+º ane 2 Órgão (Cod/Desc) Diferente de, 90000 - RESERVA DE CONTINGÊNCIA [=
+& 6 GND ' ET TODO
+& (8 Fonte de Recursos É iltros da Consulta
+
+& (83 Modalidade de aplicação
+& (83 Identificador Primário
+& (8 Identificador de Uso
+a 6 Meta
+= (gl Valores da Despesa
+SPL
+> autografo
+& (8 Ciclo
+Y Cancelamento Setorial Órgão 90000 |
+
+| Carmim hrcârcimne
+
+ 
+
+(9 Todos os objetos (O Higrarquias
+
+ 
+
+ 
+
+ 
+
+Elsbenog 4Dx
+Número com 17 (dezessete) dígitos com a seguinte estrutura: Função, Subfunção, Programa, Ação e Subtítulo pata da última atualização: 17 de abril de 2008 14h3minz3s
+
+ 
+
+Fonte: Elaboração própria com base na CONORF (2008)
+Figura 3 - Representação gráfica do universo “LOA 2008 - Despesa Elaboração” com aguas
+objetos e filtros escolhidos da janela dos dados
+
+O projeto SIGA Brasil, abre o orçamento da União para todos, ao publicar as
+ações governamentais, os brasileiros ou não, qualquer individuo ou entidade pode
+escolher setores ou temas de interesses, delimitados através do acesso especialista,
+em séries históricas, e assim, comparar resultados ano a ano, avaliar as prioridades
+do Governo, os recursos destinados para as unidades da Federação, o que aumenta
+a transparência.
+
+Porém apenas publicar não significa transparência, é necessário que a
+população tenha condições de decodificar as informações que afetam o seu
+cotidiano. E, é nesse espírito de informar com clareza, segundo as autoras Dayse
+Resende e Rosane Stochiero (2006, p. 47), que o sistema SIGA Brasil, um
+instrumento na transparência e democratização dos dados orçamentários, foi
+desenvolvido:
+41
+
+[..] O SIGA BRASIL buscou proporcionar o máximo de clareza e
+simplificação na acessibilidade operacional, objetivando tornar o orçamento
+menos complexo e mais próximo da sociedade em geral. Igualmente o
+sistema propicia fazer-se diagnóstico contínuo da execução dos Planos de
+Governo, melhorando o controle de gastos e, também, oferecendo maiores
+facilidades para a cobrança de resultados. [...]
+
+Apesar disso, ainda não é o suficiente para a tão sonhada transparência, pois
+falta aumentar a regionalização, registrar previamente a localidade beneficiada pelas
+ações governamentais, que significa identificar, na LOA, a localidade do gasto.
+42
+
+3 APRESENTAÇÃO E ANÁLISE DOS RESULTADOS
+
+Neste Capitulo será apresentado as tabelas, os gráficos, as análises e os
+resultados alusivos à regionalização dos dispêndios públicos descritos nos PLOAs e
+nas LOAs dos anos de 2001 a 2008 e sugerido a adoção de um índice para medir o
+grau de regionalização do orçamento da União.
+
+A regionalização dos gastos públicos na LOA tradicionalmente é muito baixa o
+que dificulta o controle prévio das despesas, reduz a transparência, atesta o
+acanhado planejamento e aumenta a discricionariedade, produzindo o desprezível
+interesse da comunidade pelas questões orçamentárias e a frase do ditado popular:
+“O orçamento da União é uma peça de ficção”.
+
+O ditado popular faz algum sentido, pois na análise do PLOA de 2001 a 2008
+(ver Tabela 2), observa-se que as dotações da União, para a maioria das despesas,
+a região denominada de Nacional, sigla “NA”, detêm 80,7% !º dos valores do
+Autógrafo !”, média dos últimos 8 anos, o que caracteriza grande concentração das
+dotações orçamentárias num localizador de gasto genérico.
+
+O uso exagerado do localizador de gasto “Nacional” na LOA, fere o Art 3º,
+inciso Ill da Constituição Federal, inibi a avaliação da distribuição das dotações por
+Unidades da Federação e o objetivo descrito na Constituição de reduzir as
+desigualdades sociais e regionais:
+
+Art. 3º - Constituem objetivos fundamentais da República Federativa do
+Brasil:
+
+| - construir uma sociedade livre, justa e solidária;
+
+Il - garantir o desenvolvimento nacional;
+
+Ill - erradicar a pobreza e a marginalização e reduzir as desigualdades
+sociais e regionais; [...] (grifo nosso).
+
+A insuficiente fixação da localidade dos gastos federais nas leis orçamentárias
+
+de 2001 a 2008, é verificada pelo somatório dos valores dos Autógrafos para as
+regiões, exceto a região genérica “Nacional”, que totalizam 19,4% (ver Tabela 3),
+
+18 Percentual médio de 2001 a 2008, baseado nos valores dos Autógrafos, exceto Grupo de Natureza
+da Despesa (GND): 2 - Juros e Encargos da Dívida, 6 - Amortização da Dívida e 9 - Reserva de
+Contingência; e Orgão Orçamentário: 90000 - Reserva de Contingência.
+
+Y valor em Reais previsto no Autógrafo (na redação final da Lei Orçamentária Anual - LOA,
+encaminhada à Presidência da República para análise e sanção).
+43
+
+denominada neste estudo de Índice Médio de Regionalização da Despesa
+(IMRD). Este baixo Índice dificulta a compilação dos gastos por unidades da
+Federação, além de não definir onde as funções de governo serão realizadas e,
+portanto, não prevê a redução das desigualdades inter-regionais, conforme
+estabelece o artigo 165, 8 7º da Constituição Federal:
+
+Art. 165 - Leis de iniciativa do Poder Executivo estabelecerão:
+
+[..] 8 7º - Os orçamentos previstos no 8 52 | e Il, deste artigo,
+compatibilizados com o plano plurianual, terão entre suas funções a de
+reduzir desigualdades inter-regionais, segundo critério populacional.
+[..] (grifo nosso)
+
+Por fim, o disposto no Titulo IX - Ato das Disposições Constitucionais
+Transitórias - ADCT 35 da Constituição Federal não foi até hoje cumprido conforme
+previsto:
+
+Art. 35 - O disposto no Art. 165, 8 7º, será cumprido de forma progressiva,
+no prazo de até dez anos, distribuindo-se os recursos entre as regiões
+macroeconômicas em razão proporcional à população, a partir da situação
+verificada no biênio 1986-87.
+Na próxima seção as tabelas e os gráficos desvendaram a regionalização
+prevista no orçamento Federal, as explanações e a importância do Índice de
+
+Regionalização da Despesa (IRD).
+
+3.1 Regionalização do orçamento da União
+
+Diante do exposto na seção anterior, o excesso de dotação prevista na LOA
+para a localidade “Nacional”, sigla “NA” de 80,7% dos valores totais, média dos
+últimos 8 anos, ou da classificação funcional da despesa no subtítulo de código
+“0001”, causa:
+
+a) acumulo da despesa em uma localidade, sigla ou código;
+
+b) problema no controle prévio de onde se dará o gasto do governo
+federal;
+
+c) vinculação baixa da despesa a uma Região, Unidade da Federal ou
+localidade e discricionariedade elevada;
+
+dificuldade de avaliar os preceitos constitucionais, principalmente o
+descrito no Art. 3, inciso Ill e no Art.165, 8 7º, todos da Constituição
+Federal;
+
+d
+44
+
+e) a não definição, pelo Congresso Nacional, de onde realizar-se-ão
+os gastos da União;
+
+f) insuficiência de planejamento e de diagnostico das necessidades de
+bens e serviços por estado; e
+
+9) redução da transparência dos gastos da União.
+
+A Tabela 1 apresenta a série histórica por região de 2001 a 2008, com os
+valores absolutos dos Autógrafos, em bilhões de reais, excetuado o serviço da
+dívida pública e a reserva de contingência. Observam-se algumas variações nos
+acréscimos orçamentários das verbas destinadas às regiões, porém, a média geral
+dos acréscimos, nos últimos 8 anos, gira em torno de 15% ao ano, exceto para a
+região Exterior (EX), onde a variação média é grande, 38%, muito superior a media
+geral.
+
+Essa média, muito além da média geral, tem pouca influência no total, pois os
+valores dos Autógrafos são baixos para a região EX.
+
+Tabela 1 - Série histórica de 2001 a 2008 dos valores dos autógrafos por Região
+Projeto de LeiOrçamentária Anual (PLOA).
+Série histórica de 2001 a 2008
+
+Valores dos Autógrafos por Região
+
+Exceto GND 2, 6e 9e Reserva de Contingência
+
+Orçamento Fiscal, da Seguridade e do Investimento - Em R$ bilhões:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ano 2001 2002 2003 2004 2005 2006 2007 2008 %
+% % % % % % % Acrésci
+Região | Autog. | Acrésci| Autng. | Acrésci| Autog. | Acrésci| Autog. | Acrésci| Autog. | Acrésci | Autog. | Acrésci| Autog. | Acrésci | Autog. mo
+mo mo mo mo mo mo mo Médio
+co 8,72] -10,0% 7,85] 12,2% 8,81 6,6%) 9,39) 27,8%) 12,00 15,7%) 13,89] 14,2%) 15,87] 11,6% 17,72] 112%
+EX 1,63 3,0%] 1,68/ 151,8%| 4,23] 93,3%] 8,17] -12,4% 7,16] 13,2% 810) -5,6% 7,65] 27,6% 9,76] 38,7 %|
+
+ 
+
+NA 225,57) 17,8%) 265,64] 11,0% 294,95] 21,9%) 359,50] 14,2%) 410,60] 11,3%) 456,87] 14,5%) 523,03] 12,8%) 590,11 14,8%)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NE 16,05] 11,9%] 17,96] -1,6%) 17,67] -2,4%| 17,24] 43,0%) 24,66] 12,5%) 27,73] 14,5%) 31,74] 26,7%) 40,23] 14,9%
+NO 6,35) 11,2% 7,07] 10,8% 7,83] 2,6% 7,63] 32,1%) 10,08 7,2%) 10,80] 22,8% 13,26) 143% 15,16) 13,7%
+sD 16,82] 25,9%] 21,17 33%) 21,86] 18,3% 25,87) 283% 33,18] 14,8% 38,08) 18,3% 45,07] 20,5%) 5429] 18,5%)
+sL 5,93] 24,1% 7,36] 10,5% 8,13 5,8% 8,60) 23,7% 10,64] 10,2% 11,72] 19,5%) 14,01] 203% 16,85] 16,3%
+'Total 281,07| 17,0%) 32873] 10,6%| 36348] 20,1%| 43640] 16,5%) 508,31] 11,6%| 567,20] 14,7%) 650,64] 14,4%| 74412] 15,0%
+Fonte: SIGA Brasil/Senado Federal / SIAFI Gerencial Data da carga dos dados: 09/07/2008:
+
+Legenda: CO - Centro-Oeste; EX - Exterior; NA - Nacional;
+NE - Nordeste; NO - Norte; SD - Sudeste; SL - Sul
+Autog. - Valor do Autógrafo.
+% Acréscimo - percentual de acréscimo do Autógrafo
+GND - Grupo de Natureza da Despesa; GND 2 - Juros e Encargos da Dívida;
+
+ 
+
+ 
+
+ 
+45
+
+Os valores da Tabela 1 indicam um acréscimo das verbas orçamentárias da
+União, na média geral de 15,0% ao ano, quase o mesmo para a região genérica
+denominada de Nacional (NA), de 14,8% ao ano.
+
+A Tabela 1 ressalta a importância e a concentração dos recursos
+orçamentários em apenas uma região, a genérica ou Nacional (NA). A Tabela 2
+comprova a concentração, nos percentuais da distribuição da alocação dos recursos
+da União por Região.
+
+A Tabela 2 mostra a série histórica de 2001 a 2008 dos percentuais dos
+autógrafos por região. Observa-se a centralização das despesas na região NA, na
+média de 8 anos de 80,7% das dotações orçamentárias na localidade Nacional, a
+variância da população de 0,66 e o desvio padrão de 0,81, indicando pequena
+dispersão dos percentuais anuais em relação ao Autógrafo médio de 80,7%.
+
+Tabela 2 - Série histórica de 2001 a 2008 dos percentuais dos autógrafos por Região
+
+Projeto de Lei Orçamentária Anual (PLOA)
+Série histórica de 2001 a 2008
+
+Percentuais dos Autógrafos por Região
+
+Exceto GND 2,6 e 9e Reserva de Contingência
+
+Orçamento Fiscal, da Seguridade e do Investimento
+
+Ano 2001 2002 2003 2004 2005 2006 2007
+
+ 
+
+Desvio
+
+Região | | % % % % % % %
+Autog. | Autog. | Autog. | Autog. | Autog. | Autog. | Autog.
+
+co 31 24 24 2,2 2,4 24 2,4
+EX 0,6 0,5 12 1,9 14 14 12
+NA 80,3 80,8) 81,1 82,4 80,8 80,5 80,4
+NE 51 5;5 4,9 4,0 4,9 4,9 4,9
+No 23 21 2,2 1,7 2,0 1,9 2,0
+sD 6,0 6,4 6,0 5,9 6,5 6,7 6,9
+SL 21 2,2 2,2 2,0 21 21 2,2
+
+Total 100,0] 100,0] 100,0] 100,0) 100,0] 100,0) 100,0
+
+Fonte: SIGA Brasil/Senado Federal / SIAFI Gerencia
+
+Legenda: CO - Centro-Oeste; EX - Exterior; NA - Nacional;
+
+NE - Nordeste; NO - Norte; SD - Sudeste; SL - Sul
+
+% Autog. - Percentual do Autógrafo.
+
+GND - Grupo de Natureza da Despesa
+
+GND 2 -Juros e Encargos da Dívida
+
+GND 6 - Amortização da Dívida;
+
+GND 9 - Reserva de Contingência
+
+Reserva de Contingência - Órgão Orçamentário 90000
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Data da carga dos dados: 09/07/2008
+
+ 
+46
+
+No Gráfico 1 é visível a linearidade e a constância dos percentuais por região,
+além da grande diferença entre a região “Nacional” e as demais.
+
+Projeto de Lei Orçamentária Anual (PLOA)
+Exceto GND 2, 6e 9e Reserva de Contingência
+Exercícios Financeiros de 2001 a 2008
+
+Percentual do valor do Autógrafo por Região e Ano
+
+ 
+
+DEX
+ENO
+DSL
+DCco
+ENE
+BSD
+BNA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gráfico 1 - Representação percentual da série histórica dos valores da Tabela 2
+
+Da análise da Tabela 2 e do Gráfico 1 estabelecemos o Índice Médio de
+Regionalização da Despesa (IMRD), 19,3%, apresentado na Tabela 3 na série
+histórica da regionalização da despesa, que é o somatório de todas as dotações
+nominalmente identificadas às Regiões, Estados ou Municípios, exceto para a
+localidade “Nacional”, sigla “NA”, ou na classificação funcional da despesa de
+subtítulo “0001”.
+
+No SIGA Brasil a formula do filtro para excluir a região Nacional, já foi descrita
+e explicada no Título 2 - Metodologia desta monografia, e apresentada novamente,
+47
+
+para robustecer a acuidade das informações apresentadas na Tabela 3 é a dada
+por: IRD(Autografo)!º = ([Autografo] Onde ([Região]<>"NA")/Autografo]) "º.
+
+Tabela 3 - Série histórica de 2001 a 2008 do Índice de Regionalização da Despesa no PLOA
+
+Projeto de Lei Orçamentária Anual (PLOA)
+
+Série histórica da regionalização da despesa de 2001 a 2008
+
+Percentual do Índice de Regionalização do Projeto de Lei e do Autógrafo
+Exceto GND 2,6 e 9e Reserva de Contingência
+
+Orçamento Fiscal, da Seguridade e do Investimento
+
+     
+
+ 
+
+   
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+   
+
+ 
+
+   
+
+ 
+
+ 
+
+     
+
+ 
+
+   
+
+ 
+
+    
+
+ 
+
+   
+
+ 
+
+ 
+      
+   
+
+ 
+
+ 
+
+  
+
+ 
+
+Descrição
+9
+2001 RI , 17,5%
+Autógrafo 19,7%
+9
+2002 RI . 18,0%
+Autógrafo 19,2%
+9
+2003 RE o 17,5%
+Autógrafo 18,9%
+9
+2004 PIE . 16,1%
+Autógrafo 17,6%)
+9
+na PL E 18,3%
+Autógrafo 19,2%)
+9
+2006 Ro . 18,6%
+Autógrafo
+9
+2007 RI 18,1%
+Autógrafo
+9
+ODE PL . 19,4%
+Autógrafo 20,7%
+[IMRD PL
+
+ 
+
+ 
+
+IMRD Autógrafo
+
+ 
+
+Data da carga dos dados: 09/07/2008
+
+Fonte: SIGA Brasil/Senado Federal / SIAFI Gerencial
+Legenda: IRD - Índice de Regionalização da Despesa;
+IMRD - Índice Médio de Regionalização da Despesa
+PL - Projeto de Lei;
+GND - Grupo de Natureza da Despesa: GND 2 - Juros e Encargos da Dívida,
+GND 6 - Amortização da Dívida e GND 9 - Reserva de Contingência.
+Reserva de Contingência - Órgão Orçamentário 90000
+
+A Tabela 3 sintetiza os dados da Tabela 2 com a determinação do Índice
+Médio de Regionalização da Despesa (IMRD) de 2001 a 2008. O índice representa a
+percentagem das despesas nominalmente identificadas no PLOA com o localizador
+do gasto determinado excluído o gasto genérico Nacional.
+
+1º Variável criada pelo autor da monografia, no SIGA Brasil.
+
+'º São variáveis pertencentes ao universo Execução Emendas no SIGA Brasil: [Autografo] é objeto de
+valor e [Região] é um objeto de dimensão. O filtro para exclusão da região genérica Nacional é dado
+na fórmula, pela expressão: Onde ([Região]<>"NA").
+48
+
+O IMRD igual a 19,3% atesta a baixa vinculação no PLOA, desestimula a
+participação popular no processo orçamentário, além de colaborar com o ditado
+popular de que o “Orçamento da União é uma peça de ficção”.
+
+Na Tabela 3 os percentuais do IRD baseado nos percentuais do Projeto de
+Lei (PL) e o IRD baseado no Autógrafo têm se mantido constantes nos últimos 8
+anos e com a contribuição do Congresso Nacional a regionalização aumenta quase
+nada.
+
+O poder Executivo envia o PLOA ao Legislativo com um IMRD de 17,9% e no
+processo de elaboração, os parlamentares, por meio das emendas individuais,
+coletivas e as dos relatores, acrescentam ao IMRD 1,4 pontos percentuais refletido
+no Autógrafo com o IMRD de 19,3%, ou um acréscimo médio de 7,8% na
+regionalização do orçamento.
+
+Os dados da Tabela 3 não deixam dúvidas a respeito da pouca participação
+dos parlamentares na definição da localidade do gasto. Emenda sem localidade
+definida, genérica, parece um contra-senso, pois elas têm por objetivo atender as
+reivindicações dos bancadas regionais e locais dos parlamentares.
+
+As informações não estão erradas da Tabela 3, apenas refletem o dado
+macro da regionalização do PLOA, no início do processo de elaboração no
+Legislativo, através do valor do PL, e ao final, pelo valor do Autógrafo enviado ao
+Presidente da República para sanção e/ou veto. Então qual é a explicação para o
+pequeno acréscimo de 7,8%, na regionalização da LOA pelos parlamentares?
+
+A explicação pode estar no trecho abaixo retirado do artigo "Programação
+Fiscal: Sugestões a médio prazo." de Giambiangi (2004) . Ele explica as etapas do
+processo orçamentário no Brasil e a participação dos parlamentares no ciclo
+orçamentário, pelas emendas individuais e coletivas. Ao explicar sobre as emendas
+coletivas, o autor comenta sobre as emendas genéricas conhecidas como
+“rachadinhas”:
+
+[...] As emendas coletivas têm mais chances de aprovação porque têm o
+apoio não só de indivíduos mas de um grupo que chegou a um acordo
+coletivo. Porém, a admissão de emendas coletivas não quer dizer que as
+individuais tenham desaparecido ou perdido importância. Não é raro que
+parlamentares entrem em acordo com políticos nos estados e municípios
+para propor emendas individuais - conhecidas como "rachadinhas" -
+disfarçadas de coletivas, pois consistem na apresentação de emendas
+genéricas ao orçamento, sem indicação do município onde será
+49
+
+aplicado o recurso. Depois de aprovada a emenda, entretanto, os
+parlamentares enviam para o ministério responsável pela obra uma lista de
+municípios que deverão ser contemplados na hora da liberação da verba.
+De acordo com o deputado Sérgio Miranda (PC do B-MG), integrante da
+CMPOF.[...] Grifo nosso.
+
+Ainda sobre as emendas “rachadinhas”, Lúcio Vaz (2006), tece considerações
+sobre o loteamento de R$ 2,8 bilhões, pelos parlamentares, que deveriam ser
+investidos em grandes obras:
+
+[...] Com três meses de atraso, a Comissão Mista de Orçamento começa a
+votar hoje o parecer do relator-geral, deputado Carlito Merss (PT-SC). Dos
+R$ 21,2 bilhões destinados a investimentos, cerca de R$ 5,8 bilhões serão
+reservados para atender as emendas de bancadas. Essa verba deveria ser
+aplicada em grandes obras estruturantes, mas quase a metade (R$ 2,8
+bilhões) foi loteada entre parlamentares por intermédio das chamadas
+“rachadinhas” — proposições coletivas que se transformam em
+emendas individuais. Com essa estratégia, o dinheiro público é
+pulverizado em milhares de pequenas obras nos redutos eleitorais dos
+deputados e senadores.
+
+O atendimento dessas emendas é depois negociado diretamente nos
+ministérios. Essas emendas têm uma descrição genérica. [...] grifo nosso
+
+Lima Filho (2002), Consultor de Orçamentos do Senado Federal, esclarece
+que as leis orçamentárias recentes apresentaram inúmeras dotações a nível
+nacional:
+
+[..]O 8 7º do artigo 165 da Constituição estabelece que os orçamentos
+fiscal e de investimento das estatais, compatibilizados com o plano
+plurianual, terão entre suas funções a de reduzir desigualdades inter-
+regionais, segundo critério populacional. As recentes leis orçamentárias
+apresentaram inúmeras dotações consignadas a nível nacional, que,
+apesar de muitas vezes serem despendidas de forma regional, distorcem os
+dados de regionalização das despesas. A regionalização da execução da
+despesa, mesmo alocada no orçamento a nível nacional, deveria
+corresponder ao Município/Estado/Região beneficiado pela despesa.
+[...] (grifo nosso)
+
+O Consultor de Orçamentos, na Nota Técnica (NT 27/2002), expõe a
+distorção dos dados relativos à regionalização devido ao caráter nacional do registro
+da despesa, e que a alocação desta deveria corresponder ao Município, Estado ou
+Região.
+
+Diante do exposto, fica claro que a emenda genérica no orçamento, sem
+indicação da localidade onde será aplicado o recurso, é fonte de negociação política
+nos gabinetes dos ministérios, gerando baixíssima transparência, publicidade e com
+objetivos eleitoreiros, o que fere o princípio da impessoalidade da verba pública na
+LOA.
+50
+
+A Tabela 4 mostra a distribuição das emendas parlamentares por Tipo de
+Autor no ano de 2007. Optamos por esse ano, devido atipicidade do PLOA 2008, em
+que o valor do PL precisou ser reduzido diante da queda da receita prevista pela não
+aprovação, pelo Congresso, da Contribuição Provisória sobre Movimentação
+Financeira - CPMF,
+
+Tabela 4 - Distribuição das Emendas por Região e Tipo de Autor no PLOA 2007
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Projeto de Lei Orçamentária Anual de 2007 (PLOA 2007)
+Distribuição das Emendas por Região e Tipo de Autor
+Exceto GND 2, 6e 9e Reserva de Contingência
+Orçamento Fiscal, da Seguridade e do Investimento - em R$ 1,00
+E E Nºde Valor Aprovado da Percentual na Percentual
+Região Nufor (Tipo) Emenda Eméfida Região no Total
+BANCADA ESTADUAL 70 1.261.662.000 64,4% 4,3%
+BANCADA REGIONAL 2 31.500.000 1,6% 0,1%
+COMISSÃO SENADO FEDERAL 2 16.500.000 0,8% 0,1%
+co DEPUTADO FEDERAL 518 240.345.000 12,3% 0,8%
+RELATOR GERAL 23 224.283.884 11,4% 0,8%
+RELATOR SETORIAL 46 121.273.428 6,2% 0,4%
+SENADOR 140 63.820.000 3,3% 0,2%
+co 801 1.959.384.312 100,0% 6,7%
+BANCADA ESTADUAL 6 47.500.000 0,3% 0,2%
+COMISSÃO CAMARA DOS DEPUTADO! 94 1.674.578.243 12,1% 5,7%
+COMISSÃO SENADO FEDERAL 50 1.265.435.741 9,2% 4,3%
+NA DEPUTADO FEDERAL 254 60.715.000 0,4%, 0,2%
+RELATOR GERAL 105 10.295.708.278 74,7% 35,0%
+RELATOR SETORIAL 193 427.534.558 3,1% 1,5%
+SENADOR 3 16.250.000 0,1% 0,1%
+NA 765  13.787.721.820 100,0% 46,9%
+BANCADA ESTADUAL 168 2.868.800.000 57,6% 9,8%
+BANCADA REGIONAL 2 21.000.000 0,4% 0,1%
+NE DEPUTADO FEDERAL 2.004 887.050.000 17,8% 3,0%
+RELATOR GERAL 55 953.866.203 19,1% 3,2%
+RELATOR SETORIAL 52 92.653.394 1,9% 0,3%
+SENADOR 332 158.700.000 3,2% 0,5%
+NE 2.613 4.982.069.597 100,0% 17,0%
+BANCADA ESTADUAL 125 2.032.658.709 63,9% 6,9%
+BANCADA REGIONAL 2 40.450.000 1,3% 0,1%
+COMISSÃO CAMARA DOS DEPUTADO! 2 23.000.000 0,7% 0,1%
+No COMISSÃO SENADO FEDERAL 1 11.000.000 0,3% 0,0%
+DEPUTADO FEDERAL 681 379.370.000 11,9% 1,3%
+RELATOR GERAL 35 509.920.363 16,0% 1,7%
+RELATOR SETORIAL 13 62.803.870 2,0% 0,2%
+SENADOR 246 123.000.000 3,9% 0,4%
+NO 1.105 3.182.202.942 100,0% 10,8%
+BANCADA ESTADUAL 82 1.579.206.760 41,8% 5,4%
+BANCADA REGIONAL 2 41.000.000 1,1% 0,1%
+COMISSÃO CAMARA DOS DEPUTADO! 1 6.000.000 0,2% 0,0%
+sD DEPUTADO FEDERAL 2.555 1.032.324.000 27,3% 3,5%
+RELATOR GERAL 27 924.460.195 24,5% 3,1%
+RELATOR SETORIAL 58 128.780.100 3,4% 0,4%
+SENADOR 143 67.680.000 1,8% 0,2%
+sD 2.868 3.779.451.055 100,0% 12,9%
+BANCADA ESTADUAL 58 874.810.000 51,5% 3,0%
+BANCADA REGIONAL 2 41.000.000 2,4% 0,1%
+SL DEPUTADO FEDERAL 1.098 459.830.000 27,1% 1,6%
+RELATOR GERAL 25 256.091.650 15,1% 0,9%
+RELATOR SETORIAL 19 23.718.465 1,4% 0,1%
+SENADOR 115 44.350.000 2,6% 0,2%
+SL 1.317 1.699.800.115 100,0% 5,8%
+Total 9.459 29.390.629.841 100,0% 100,0%
+Fonte: SIGA Brasil/Senado Federal / SIAFI Gerencial
+Legenda: CO -Centro-Oeste; NA - Nacional;
+NE - Nordeste; NO - Norte; SD - Sudeste; SL - Sul
+
+ 
+
+ 
+51
+
+A Tabela 4 expõe que R$ 13,787 bilhões de reais, 46,9% das emendas têm
+destinação genérica no orçamento de 2007, para Região “NA”, sem indicação da
+localidade onde será aplicado o recurso, e deste percentual 74,7% são emendas do
+Relator Geral. São R$ 13,787 bilhões de reais, apenas referente às emendas, de
+livre negociação nas salas e ante-salas dos Ministérios, sem qualquer escrutínio
+popular ou responsabilização específica.
+
+A distribuição dos recursos da União para as unidades da Federação já foi
+objeto de vários estudos, e todos eles reportam a dificuldade de identificar a
+destinação regional do dispêndio público. O estudo do Instituto de Pesquisa
+Econômica Aplicada - IPEA “Sistema de Informações sobre os Gastos Públicos da
+Área de Educação - SIGPE: Diagnóstico para 1995”, de 1999, menciona a
+importância e a dificuldade na determinação do gasto público por estado com
+programas sociais (Educação, Saúde, Assistência Social, Saneamento e outros):
+
+[...] A regionalização dos gastos federais é fundamental para se realizar a
+consolidação dos gastos públicos do país na área social por unidades da
+Federação, tarefa de certa complexidade, sobretudo porque, para grande
+parte dos programas, não foi possível identificar uma destinação
+regional inequívoca dos recursos nos descritores dos projetos/atividades
+associados aos códigos da classificação funcional-programática.
+(ABRAHÃO; FERNANDES, 1999 p. 11) [...] Grifo nosso.
+
+Nesse estudo os autores do IPEA, descrevem dois métodos de regionalização
+dos gastos federais relacionados aos dados do Sistema de Acompanhamento
+Financeiro (SIAFI) e do Sistema Integrado de Dados Orçamentários do governo
+federal (SIDOR).
+
+O primeiro método, descrito pelos pesquisadores do IPEA, é o via
+classificação funcional da despesa - isto é, à regionalização via códigos e subtítulos
+de projeto e/ou atividade, amplamente discutido nesta monografia, de reduzida
+abrangência, devido à alta concentração, 80,7% em média de gastos nacionais ou
+não regionalizáveis.
+
+O segundo método, pela classificação institucional, isto é, o registro dos
+gastos realizados por uma determinada unidade orçamentária no estado onde se
+localiza. Esse critério pode parecer, à primeira vista, mais satisfatório para a
+distribuição por UF, por não ter localização genérica regional ou nacional, mas há
+também, concentração de despesa na UF: Distrito Federal, DF.
+52
+
+A centralização das despesas no DF ocorre, porque muitas unidades
+orçamentárias - UOs ou unidades gestoras - UGs, empenham e compram bens e
+serviços, consumidos ou executados noutros estados.
+
+A Tabela 5 registra os valores orçamentários e financeiros das despesas
+realizadas e pagas por UF das Unidades Gestoras (UG), descritas na LOA de 2007,
+ano fechado.
+
+Tabela 5 - Valores orçamentários e financeiros de 2007 por UF das Unidades Gestoras
+
+Lei Orçamentária Anual - LOA 2007
+Valores orçamentários e financeiros por UF da Unidade Gestora
+Exceto GND 2, 6e 9e Reserva de Contingência
+
+Orçamento Fiscal e da Seguridade Social - em R$ 1,00
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+me Autorizado Empenhado Liquidado enaa E Sao) % Total Pago
+AC 144.217.002 491.973.551 491.972.111 470.261.726 0,08%
+AL 529.066.519 722.256.669 721.956.928 687.331.744| 0,12%
+AM 948.432.769 1.441.156.756 1.441.142.961 1.395.714.728 0,24%
+AP 61.619.768 846.633.060 846.633.060 827.471.502 0,14%
+BA 1.418.220.501 2.152.614.917 2.152.600.901 2.033.188.090 0,35%
+CE 5.018.802.558 5.528.709.013 5.528.664.332 5.243.282.451 0,89%
+DF 580.953.269.172) 520.828.574.218| 520.828.064.867 501.828.235.981 85,23%
+Es 637.166.179 887.354.664 887.349.832 849.556.678 0,14%
+Go 747.789.052 1.115.112.969 1.115.304.734 1.078.711.529 0,18%
+MA 567.713.267 1.015.777.065 1.015.773.105 941.882.565 0,16%
+MG 3.657.883.334 5.039.539.876 5.039.499.920 4.886.223.151 0,83%
+MS 444.031.431 911.643.509 911.546.989 882.251.832 0,15%
+MT 534.950.428 1.025.082.099 1.024.841.090 996.548.342 0,17%
+PA 2.073.193.671 3.384.914.218 3.384.910.204 3.127.005.711 0,53%
+PB 1.118.788.594 1.424.348.970 1.424.370.253 1.382.121.935 0,23%
+PE 2.020.508.481 3.570.331.759 3.570.269.053 3.377.131.546 0,57%
+PI 409.217.316 976.464.919 976.464.514 776.647.049 0,13%
+PR 1.356.977.545 2.142.840.161 2.142.794.660 2.078.310.255 0,35%
+RJ 25.859.635.120 36.380.786.364 36.379.846.062 34.911.687.418 5,93%
+RN 850.013.321 1.289.021.818 1.289.021.818 1.257.243.423 0,21%
+RO 295.890.241 995.694.241 995.679.620 958.499.127 0,16%
+RR 95.798.254 657.347.783 657.336.476 638.114.570 0,11%
+RS 4.264.915.218 7.963.157.773 7.963.116.366 7.815.287.607 1,33%
+sc 1.122.169.806 1.739.477.363 1.739.443.342 1.671.697.038 0,28%
+SE 365.575.630 558.513.203 558.510.837 538.497.379 0,09%
+sP 3.558.104.435 8.291.537.332 8.291.513.678 7.934.794.956 1,35%
+TO 122.690.434 230.763.996 230.761.303 214.221.030 0,04%
+Total 639.176.640.046| 611.611.628.266|) 611.609.389.016 588.801.919.363 100,00%
+
+ 
+
+ 
+
+ 
+
+Fonte: SIGA Brasil/S enado Federal / SIAFI Gerencial
+
+Data de atualização dos dados: 01/10/2008 :
+
+Legenda: UF (UG) - Unidade da Federação da Unidade Gestora
+GND - Grupo de Natureza da Despesa: GND 2 - Juros e Encargos da Dívida,
+GND 6 - Amortização da Dívida e GND 9 - Reserva de Contingência.
+Reserva de Contingência - Órgão Orçamentário 90000
+
+* Total Pago = valores Pagos em 2007 + Restos a Pagar Pagos de 2006
+
+O critério da regionalização baseado na classificação institucional, na unidade
+orçamentária, descrito pelos pesquisadores do IPEA, ou unidade gestora, pode não
+53
+
+refletir o montante transferido pelo governo federal aos estados, e quando
+combinado com o critério da classificação funcional da despesa, ocorrer à dupla
+contagem.
+
+Observa-se que a regionalização é uma tarefa difícil e complexa, mas não por
+falta de um instrumento, pois existe a classificação funcional da despesa de 17
+algarismos, sendo as últimas 4 posições reservadas ao localizador de gasto,
+denominado de subtítulo, e que, devido ao pouco uso na LOA, tona a
+regionalização precisa, uma empreitada quase que impossível.
+
+3.2 Regionalização da LOA 2007 e do PLOA 2008
+
+Nesta seção desvendaremos o Índice de Regionalização da Despesa (IRD)
+da LOA 2007, Lei nº. 11.451, de 07 de fevereiro de 2007 e do PLOA 2008, Lei nº,
+11.647 de 24 de março de 2008, por dentro da estrutura e classificação
+orçamentária da despesa, ilustrada por várias tabelas.
+
+O PLOA 2008 foi detalhado em diferentes visões a respeito do IR, por dois
+motivos: primeiro, por ser o último projeto de lei orçamentária disponível, e segundo,
+pelo fato do IRD de 20,7% no PLOA 2008 ser muito próximo ao Índice Médio de
+Regionalização da Despesa - IMRD de 19,3% descrito na Tabela 3. Portanto, a
+análise realizada no PLOA 2008 pode ser estendida aos anos anteriores.
+
+A Tabela 6 indica que a esfera do Orçamento Fiscal e da Seguridade Social
+têm baixa regionalização, IRD(Autógrafo) 16,3% e IRD(Autógrafo) 15,9%
+respectivamente, e que a esfera do Orçamento do Investimento, está próxima ao
+IRD considerado razoável pelo anteprojeto de lei, descrito no Apêndice, de 75%. E
+pelo Grupo da Natureza da Despesa - GND vemos que a regionalização é baixa,
+exceto o GND 4- Investimentos com IRD(Autógrafo) 70,4%.
+
+O GND 1 - Pessoal e Encargos Sociais, com IRD(Autógrafo) 18,1% poderia
+ser muito mais elevado, superior até, do IRD mínimo exigido por este anteprojeto de
+lei, descrito no Apêndice, de 75%, pois o governo federal conhece ou deveria
+54
+
+conhecer, a localização, a lotação de cada funcionário. Portanto não há justificativa
+
+para a lei orçamentária expressar Índice medíocre para o GND 1.
+
+Tabela 6 - Índice de Regionalização da Despesa do PLOA 2008 por Esfera e GND
+
+“Projeto de Lei Orçamentária Anual - PLOA 2008
+Índice de Regionalização da Despesa - IRD
+Exceto GND 2, 6e 9e Reserva de Contingência
+
+Orçamento Fiscal, da Seguridade e do Investimento - em R$ 1,00
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Esfera (Cod/Desc) an Lei RD(PL) Autografo ( REA)
+F - ORÇAMENTO FISCAL 311.893.272.914 13,9% 319.437.755.299 16,3%
+|- ORÇAMENTO INVESTIMENTO 62.099.693.446 71,0% 62.122.693.446 71,0%
+S - ORÇAMENTO DA SEGURIDADE SOCIAL 361.533.095.671 15,4% 362.560.931.229
+TOTAL 735.526. 31 19,4% 744.121.379.974
+
+ 
+
+ 
+
+Fonte: SIGA Brasil/Senado Federal / SIAFI Gerencial
+
+Data de atualização dos dados : 09/07/2008
+
+Orçamento Fiscal, da Seguridade e do Investimento - em R$ 1,00
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GND (Cod/Desc) E Lei RD(PL) Autografo isto
+1-PESSOAL E ENCARGOS SOCIAIS 140.982.923.203 17,7% 137.612.598.490 18,1%
+3 - OUTRAS DESPESAS CORRENTES 465.710.670.898 11,3% 469.516.914.900 11,5%
+4 - INVESTIMENTOS 90.889.735.945 67,1% 100.005.723.199 70,4%
+5 - INVERSÕES FINANCEIRAS 37.942.731.985 11,7% 36.986.143.385 12,8%
+TOTAL 735.526.062.031 19,4% 744.121.379.974 20,7%
+
+ 
+
+Fonte: SIGA Brasil/Senado Federal / SIAFI Gerencial
+Legenda: GND - Grupo de Natureza da Despesa: GND 2 - Juros e Encargos da Dívida,
+GND 6 - Amortização da Dívida e GND 9 - Reserva de Contingência.
+
+Data de atualização dos dados : 09/07/2008
+
+Já a Tabela 7 exibi a regionalização do PLOA 2008 por Setor em ordem
+
+decrescente do IR D(Autógrafo). Por essa tabela nota-se um grupo de setores 05, 07,
+
+06 e 09 com IRD próximo ao mínimo de 75%, e um outro grupo de setores 10, 01,
+04, 03, 08 e 02 distante do IRD mínimo.
+
+Tabela 7 - Índice de Regionalização da Despesa do PLOA 2008 por Setor
+
+[Projeto de Lei Orçamentária Anual - PLOA 2008
+Indice de Regionalização da Despesa - IRD
+Exceto GND 2,6e 9e Reserva de Contingência
+
+Orçamento Fiscal, da Seguridade e do Investimento - em R$ 1,00
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Setor (Cod/Desc) ca Lei mD(PL) Autografo (nto
+05 INFRAESTRUTURA 7056797546] | 700% 71.186.504.569 70,5%
+07- SAUDE 5L799.771210 63,0% 52.553.023.638 66,8%
+Donna ro a oa ds TENGIR 37.295.684.139 612% 38.716.066.031 63,8%
+09-INTEGRAÇÃO NACIONALE MEIO AMBIENTE 11329545207 59,5% 12871.009.293 63,8%
+doar ELAMENTO E DESENVOLVIMENTO 16.435.560.282 24,0% 14.814.228.601 35,2%
+01-PODERES DO ESTADO E REPRESENTAÇÃO 45.423.633414 87% 44.327.319.116 10,1%
+Dede ULTURA E DESENVOLVIMENTO 10.233.483.462 13% 10.608.212.807 7,0%
+03 - FAZENDA E DESENVOLVIMENTO 170.602.130.397 56% 176.571.183.973 6,4%
+CECIL HO: PREVIDENCIA E ASSISTENCIA 271, 214.964.928 4,2% — 272112.602.025 4,3%
+02 - JUSTIÇA E DEFESA 50.723.313.525 3,2% 50.361.229.921 4,2%
+TOTAL 735.526.062031 19,4% | 744.121.379.974 20,7%
+
+Fonte: SIGA Brasil/Senado Federal / SIAFI Gerencial
+
+Legenda: GND - Grupo de Natureza da Despesa: GND 2 - Juros e Encargos da Dívida,
+GND 6 - Amortização da Dívida e GND 9 - Reserva de Contingência.
+
+Data de atualização dos dados : 09/07/2008
+55
+
+Por fim, a Tabela 8 registra a execução da LOA 2007 por Setor Orçamentário
+em ordem decrescente do IRD(Liquidado). Nesta tabela fica claro a correlação
+elevada entre a regionalização e o valor orçamentário Liquidado. Os benefícios da
+regionalização são evidentes, pois quanto maior é a regionalização menor é a
+INexecução? ou maior é o IRD, ou seja, maior o valor Liquidado.
+
+Tabela 8 - LOA 2007 - Execução por Setor Orçamentário
+
+Lei Orçamentária Anual - LO A 2007
+
+Execução por Setor Orçamentário
+
+Índice de Regionalização da Despesa - IRD
+Exceto GND 2,6e 9e Reserva de Contingência
+
+Orçamento Fiscal e da Seguridade - emR$ 100
+
+ 
+
+ 
+
+ 
+
+Setor (Cod/Desc) Autorizado Liquidado INexecução RE (Eidilásdo]
+07-SAÚDE 52.776.877.542 49.297.438.447 3.479.439.095 6,6% 67,3%
+06 EDUCAÇÃO! CULTURA, GIENGINETEGNOLOGIA 36.614.469.749 35.211873.577 1402.596.72 3,8% 62,9%
+E ESPORTE
+09- INTEGRAÇÃO NACIONALE MEIO AMBIENTE D.446.651856 11156.771046 1289.880.810 10,4% 53,2%
+
+05-INFRA-ESTRUTURA 16.925.940.014 14.877.042.079 2.048.897.935 2% 49,8%
+10-PLANEJ AMENTO E DESENVOLVIMENTO
+
+ 
+
+ 
+
+ 
+
+ORBÁTO B.028.760.020 10.724.671053 2.304.088.967 7% 36,7%
+01-PODERES DO ESTADO E REPRESENTAÇÃO 38.802.092.601 37,087.951742 174.40.859 44% 8%
+03-FAZENDA E DESENVOLVIMENTO 160.958.362.084 150.485.067.097 10.473.294.987 6,5% 6,3%
+aa OUR FIDES ENVOLVIMENTO 10.743.49.339 8.422.269.061 2320.880.278 216% 6%
+SL PRENIDENGIRE ASSISTÊNCIA 249.045.117 628 247.848.437.709 1196.679.919 0,5% 4,0%
+O2-JUSTIÇAEDEFESA 4758229246 45BOLISOJA 1256478504 21% 12%
+TOTAL 638.399.650.079 610.913.272.552 27.486.377.527 4,3% 15,7%
+
+Fonte: SIGA Brasil/Senado Federal / SIAFI Gerencial Data de atualização dos dados : 10/10/2008
+
+Legenda: Autorizado =Valor da Lei +Créditos,
+Liquidado =Empenhos Liquidados,
+INexecução = Autorizado - Liquidado
+
+ 
+
+ 
+
+O Gráfico 2 elaborado com os dados da Tabela 8 elucida o percentual direto
+
+entre IRD (Liquidado) x o percentual de INexecução.
+
+2 INexecução = (Autorizado - Liquidado) conforme empregado por Pederiva (2008).
+56
+LOA 2007 - Execução por Setor Orçamentário
+
+80%
+
+ 
+
+70%
+
+60%
+
+ 
+
+50% |
+
+ 
+
+40% |
+
+ 
+
+30%
+
+ 
+
+20%
+
+ 
+
+10%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0%
+
+ 
+
+mM, w o 14 O wo ; uu wu
+8 gsu B8, 5 E É 8 ub sé Sas
+á oo gu LE Lu ú nu « « di Sá JUSa va
+0 GáDE gua fp à Zocge Cê EECSÁEO nl
+É = a ' 5 Z sx
+5 DodS Pia ay pugsBsi No dasésco Sê
+n<Loa sós u z 2 O yu o RE '
+nEéu Ega Ss 25 cuca “vu Giqgrl 8
+120 a úÚ my «uu Sa
+E ú as A uw Dn
+Sar 2 Z n S q Su Eu
+o q Q o Soa
+—€— % INexecução BIRD (Liquidado)
+ç
+
+ 
+
+ 
+
+ 
+
+Gráfico 2 - LOA 2007 - Execução por Setor Orçamentário
+
+A Tabela 6 e a Tabela 7 representam algumas das visões a respeito do IRD,
+por dentro da estrutura e classificação orçamentária da despesa do PLOA 2008.
+Conforme se pode observar, a existência, dentro da lei orçamentária, de diferentes
+graus de detalhamento quanto à localidade da despesa. As Tabelas, pelos IRDs,
+indicam áreas orçamentárias onde a consignação das dotações são baixas ou
+elevadas.
+
+3.3 Regionalização das Prioridades e Metas da LDO 2007
+
+A LDO, entre outras providências, estabelece as prioridades e metas da
+Administração Pública Federal, atendidas as despesas que constituem obrigação
+constitucional ou legal da União, as de funcionamento dos órgãos e entidades que
+57
+
+integram os Orçamentos Fiscal e da Seguridade Social, as quais terão precedência
+na alocação dos recursos e na sua execução, não se constituindo, todavia, em limite
+à programação da despesa.
+
+O estudo sobre a Relevância das prioridades orçamentárias de Pederiva
+(2008), embasou a questão da regionalização das prioridades e metas descritas na
+LDO 2007, Anexo |. Na sua pesquisa na LOA 2006, Pederiva, confirmou
+parcialmente a expectativa de preferência pelas programações prioritárias, em
+relação às não prioritárias. As suas constatações apontam para uma seleção
+adversa da execução das programações constantes do Anexo de Prioridades e
+Metas da LDO 2006.
+
+No nosso ensaio verificou-se uma relação entre a regionalização e o
+percentual de INexecução?! (Autorizado - Liquidado) apresentado a Tabela 9 e no
+Gráfico 3.
+
+A Tabela 9 foi elaborada a partir da programação do Anexo | da LDO 2007,
+que demonstra a execução desta, na LOA 2007 por Setor Orçamentário, excetuado
+o serviço da dívida pública e reserva de contingência. Na tabela, observa-se uma
+correção inversamente proporcional quase que perfeita entre % IDR (Liquidado) e o
+% da INexecução.
+
+Quanto maior o IDR (Liquidado) menor o percentual de INexecução, ou seja,
+uma preferência pela execução das Ações de que possuem localização pré-
+determinada, em detrimento às genérica ou localização Nacional, ou ainda, quanto
+maior a regionalização, maior a execução orçamentária das prioridades e metas da
+Administração Pública Federal.
+
+a INexecução = (Autorizado - Liquidado) conforme empregado por Pederiva (2008).
+58
+
+Tabela 9 - LOA 2007 - Execução dos Programas e Ações da LDO 2007 - Prioridades e Metas
+
+ 
+
+ 
+
+Lei Orçamentária Anual - LOA 2007
+
+Execução dos Programas e Ações da LDO 2007 - Anexo | - Prioridades e Metas
+Índice de Regionalização da Despesa - IRD
+
+Exceto GND 2, 6e 9 e Reserva de Contingência
+
+Orçamento Fiscal e da Seguridade - em R$ 1,00
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Setor (Cod/Desc) Autorizado Liquidado INexecução % INexecução IRD (Liquidado)
+08- TRABALHO, PREVIDÊNCIA E ASSISTÊNCIA SOCIAL 10.604.693.614 10.437.469.767 167.223.847 1,6% 87,4%
+ESPORTE ' ' 15.385.447.873 14.868.539.742 516.908.131 3,4% 76,7%
+05 - INFRA-ESTRUTURA 1.746.101.024 1.660.557.867 85.543.157 4,9% 75,5%
+10 - PLANEJAMENTO E DESENVOLVIMENTO URBANO 4.685.730.588 3.492.944.549  1.192.786.039 25,5% 62,3%
+09- INTEGRAÇÃO NACIONAL E MEIO AMBIENTE 1.251.737.405 832.772.059 418.965.346 33,5% 49,2%
+07-SAÚDE 4.344.279.531 2.670.257.152  1.674.022.379 38,5% 45,5%
+03 - FAZENDA E DESENVOLVIMENTO 3.194.062.110 2.792.047.886 402.014.224 12,6% 26,7%
+02 - JUSTIÇA E DEFESA 1.473.073.463 977.599.838 495.473.625 33,6% 21,4%
+04 - AGRICULTURA E DESENVOLVIMENTO AGRÁRIO 5.094.774.394 3.248.852.399 1.845.921.995 36,2% 6,2%
+01-PODERES DO ESTADO E REPRESENTAÇÃO 216.183.658 154.421.139 61.762.519 28,6% 0,7%
+TOTAL 47.996,083.660 41,135.462.398 6.860.621.262 14,3% 65,0%
+Fonte: SIGA Brasil/Senado Federal / SIAFI Gerencial Data de atualização dos dados : 10/10/2008
+
+Legenda: Autorizado = Valor da Lei + Créditos,
+Liquidado = Empenhos Liquidados,
+INexecução = Autorizado - Liquidado.
+
+ 
+
+ 
+
+ 
+
+O Gráfico 3 é a visualização espacial dos dados da por Setor Orçamentário, o
+IDR (Liquidado) e % de INexecução, ou seja, maior a regionalização menor a
+INexecução, ou maior o grau de execução por Setor na LOA 2007.
+59
+
+| LOA 2007 - Ações do Anexo | de Metas e Prioridades da LDO 2007, por Setor
+' Orçamentário
+
+100%
+
+ 
+
+90%
+
+80% e
+
+70% 4
+
+ 
+
+ 
+
+60%
+
+ 
+
+50%
+
+ 
+
+40%
+
+ 
+
+30%
+
+ 
+
+20% 4
+
+ 
+
+10%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0% +
+
+ 
+
+ju wu 14 0 O o u o u u o 9
+SS osu 5 E E Sã 5 ui gs gsE 8,5
+J02 120 ce G G QE z <ú SE Sã nv
+DZ] DA Emis EN 5 ú
+ag EosipE Cr à So Bug Do GE Gif G5c 85
+
+il 1 5s2 044 ! > 3 >
+ESsQD04S ah Dudá lia 5 Ng vã daé dEG
+984 EEgh q 25 208 va 8 Ggl tus
+Sa o PR a iu as q tu «iu a db
+
+83H 9 2 Sun U S É
+
+õ Ss 0 a Ea)
+
+—€— % INexecução —B-— IRD (Liquidado)
+
+ 
+
+ 
+
+ 
+
+Gráfico 3 - LOA 2007 - Programação do Anexo | - Prioridades e Metas da LDO 2007
+O Gráfico 3 não deixa dúvidas, quanto à correlação inversa entre o IDR
+
+(Liquidado) e o % de INexecução orçamentária das programações descritas no
+Anexo | - Prioridades e Metas da LDO 2007 na LOA 2007.
+
+Nota-se o benefício da regionalização na execução orçamentária. As
+dotações consignadas, previamente, à localidade, têm menor INexecução, fator
+este, para o autor da monografia, devido a um planejamento melhor da programação
+orçamentária. Ademais, a não execução dessas programações regionalizadas,
+acarreta maior desgaste político do que as programações sem definição prévia da
+localidade.
+60
+
+3.4 Limitações e Desafios
+
+Antes de tecer considerações sobre as limitações e os desafios, convêm
+ressaltar a grande satisfação pelo tema, a regionalização orçamentária, na
+realidade, uma bandeira do autor, de pouguíssimas vozes no Direito Financeiro
+brasileiro.
+
+O primeiro desafio foi a escolha, a determinação e a delimitação do tema de
+pesquisa, tendo em vista a questão orçamentária no Brasil, objeto de numerosos
+debates técnicos e políticos, pouco ou quase nada, se discutia da necessidade do
+vinculo prévio do gasto público à localidade beneficiada da ação governamental.
+
+Os doutrinadores e a mídia debatiam muito sobre a reforma constitucional
+para aprimorar o orçamento público, o orçamento impositivo, o contingenciamento
+ou uma nova norma geral de Direito Financeiro, para substituir a “velha norma”, a Lei
+Complementar 4.320, de 1964.
+
+O desafio de escrever sobre importância da regionalização para o
+planejamento e controle das Finanças Públicas, diante do quadro de escassez
+bibliografia, conseguimos delimitar, o presente estudo, a análise das despesas
+orçamentárias descritas no PLOA e na LOA,
+
+Outro desafio, diz respeito aos universos do SIGA Brasil, para cada ano há
+em média 12 universos, entendê-los é uma tarefa complexa, inerente ao próprio
+processo orçamentário, mas se agrupados, facilitariam as pesquisas.
+
+Para obtermos a regionalização optamos pelo objeto de dimensão/variável
+denominado de “UF” da classe “Localidade”, o descrito na Lei Orçamentária, porém
+nos universos “Despesa Execução”, existem mais 4 objetos de dimensão/variáveis
+denominados de “UF” - UF da UG, UF da Gestão, UF do Favorecido do Empenho e
+UF da UG do Favorecido do Empenho. Eles devem ser revisados, pois ao cruzá-los
+vemos divergências nas informações.
+
+Por último, a pesquisa limitou a análise a despesa pública, porém a receita
+descrita na lei orçamentária da União, carece de um estudo a respeito da
+61
+
+regionalização, uma melhor identificação da origem do recurso por estado da
+Federação segundo seu fato gerador, pois nota-se pelas consultas do SIGA Brasil,
+grande concentração dos recursos na unidade da Federação DF.
+62
+
+CONCLUSÃO
+
+A questão inicial de pesquisa argúiu se o disposto nos artigos 3º, II12 e 165, $
+7º da Constituição Federal são contemplados no orçamento da União. Os
+resultados e as análises das tabelas e dos gráficos, amplamente demonstrados no
+Capítulo 3, provam que o orçamento Federal observa parcialmente o que estabelece
+os artigos mencionados acima.
+
+A parcialidade está demonstrada na Tabela 3, pelo Índice Médio de
+Regionalização da Despesa (IMRD), que atesta que apenas 19,3% das dotações
+orçamentárias estão previamente identificadas quanto à localidade da despesa, e
+que o restante 80,7% sem a indicação prévia da localidade onde será aplicado o
+recurso, consignadas a nível nacional, na região “NA”, ressalvadas as dotações para
+atender ao serviço da dívida pública e a reserva de contingência.
+
+A Tabela 3 responde as hipóteses investigadas no Capítulo 1, sobre a
+regionalização e o grau de discricionariedade na LOA. Ela sintetiza a comparação
+dos percentuais da regionalização do PLOA e da LOA de 2001 a 2008, pelo Índice
+de Regionalização da Despesa (IRD) foi possível determinar o grau baixo da
+regionalização, por exemplo, para 2008, de 20,7%, corresponde ao
+Município/E stado/R egião beneficiado pela despesa.
+
+O objetivo de analisar o planejamento do PLOA e da LOA quanto à localidade
+do gasto público no país, com base nos dados orçamentários por regiões não foi
+possível, devido à concentração dos recursos na localidade genérica denominada de
+Nacional.
+
+ps
+
+O Índice de Regionalização da Despesa (IRD)? proposto é um dos objetivos
+
+desta monografia, de sugerir um instrumento para medir o grau de vinculação das
+ações governamentais, das despesas públicas, à localidade física.
+
+22 Art. 3º Constituem objetivos fundamentais da República Federativa do Brasil:
+
+[...] Ill - erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais; [...]
+
+2 Art. 165. Leis de iniciativa do Poder Executivo estabelecerão:
+
+[..]8 7º - Os orçamentos previstos no $ 52, | e Il, deste artigo, compatibilizados com o plano
+plurianual, terão entre suas funções a de reduzir desigualdades inter-regionais, segundo critério
+populacional. [..]
+
+* IRD: Somatório dos percentuais de todas as dotações nominalmente identificadas às Regiões,
+Estados ou Municípios, exceto para a localidade “Nacional”, sigla “NA”, ou na classificação funcional
+da despesa de subtítulo “0001”, excetuado o serviço da dívida pública e a reserva de contingência.
+63
+
+As dotações genéricas de caráter nacional centralizam a maior parte dos
+recursos alocados no projeto de lei orçamentária. Esse fato concede expressivo
+poder decisório, discricionário, aos gestores do orçamento, em detrimento das
+decisões tomadas pelo poder Legislativo. O Congresso Nacional é leniente e tímido
+quanto à regionalização do gasto federal, pois os parlamentares também alocam
+recursos genéricos, através das emendas denominadas de “rachadinhas”, descrita
+na Tabela 4.
+
+Pelo IRD proposto, foi possível identificar na estrutura e na classificação da
+despesa as áreas piores e as melhores ranqueadas, descrita na Tabela 6 e na
+Tabela 7. Determinar quais áreas do orçamento necessitam maior ou menor
+atenção.
+
+Da análise das Tabelas 8 e 9 constatou-se a correlação elevada entre a
+regionalização e a execução dos programas governais. Quanto maior o IRD menor é
+a INexecução, ou maior e a execução pelo valor Liquidado.
+
+Nota-se o benefício da regionalização na execução orçamentária. As
+dotações consignadas, previamente, à localidade, têm menor INexecução, fator
+este, para o autor da monografia, devido a um planejamento melhor da programação
+orçamentária. Ademais, a não execução dessas programações regionalizadas,
+acarreta maior desgaste político do que as programações sem definição prévia da
+localidade.
+
+A monografia apresenta uma ferramenta democrática que dá transparência ao
+processo de alocação e regulamentação da despesa, propõe um anteprojeto de lei,
+descrito no Apêndice, que adota o IRD mínimo para aceitação do PLOA pelo
+Congresso Nacional.
+
+Além disso, destaca-se a importância SIGA Brasil, portal do Senado Federal,
+dedicado ao orçamento público, focado na transparência, publicidade e
+acessibilidade, escolhido como a principal ferramenta de pesquisa, por disponibilizar
+a qualquer pessoa, usuário, via internet, o acesso ao orçamento da União. Sem o
+SIGA Brasil, as análises e os resultados teriam alguns anos de defasagem em
+relação ao ano da pesquisa de 2008.
+
+Nos trabalhos adicionais cumpre avançar, sobre a regionalização da despesa
+e da receita com o objetivo de compatibilizar a participação individual e a
+64
+
+participação coletiva, estabelecer, as prioridades na aplicação dos recursos da
+Região/Estado/Município para possibilitar o exercício da cidadania ativa.
+
+Por fim, a correlação entre a regionalização e o valor Liquidado, abordado
+acima, deve ser melhor investigada, em futuros estudos, com base no valor
+financeiro do Total Pago (valor Pago no exercício financeiro + os Restos a Pagar
+Pagos do exercício financeiro anterior).
+
+Diante do exposto, podemos afirmar que regionalizar, na ótica das Finanças
+Públicas significa: diagnosticar, participar, planejar, executar e controlar.
+65
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+ABRAHÃO, Jorge; FERNANDES, Maria Alice Cunha. Sistema de Informações
+sobre os Gastos Públicos da Área de Educação - SIGPE: Diagnóstico para 1995.
+IPEA, 1999. 40 p.
+
+BALEEIRO, Aliomar. Uma introdução à ciência das finanças. 15. ed. Rio de
+Janeiro: Forence, 2000, 517 p.
+
+BRASIL, Constituição Federal de outubro de 1988. Constituição da República
+Federativa do Brasil. Disponível em:
+<http://www.planalto.gov.br/ccivil 03/Constituicao/Constituiçao.htm>. Acesso em:
+05.ago.2008.
+
+o . Lei n. 4.320, de 17 de março de 1964. Institui Normas Gerais de Direito
+Financeiro para Elaboração e Controle dos Orçamentos e Balanços da União, dos
+Estados, dos Municípios e do Distrito Federal. 1964. Disponível em:
+<http://www.planalto.gov.br/ccivil 03/leis/L4320.htm>. Acesso em: 05.ago.2008.
+
+o . Lei Complementar n, 101, de 04 de maio de 2000. Lei de Responsabilidade
+Fiscal - LRF. Estabelece normas de finanças públicas voltadas para a
+responsabilidade na gestão fiscal e dá outras providências. 2000. Disponível em:
+<http://www.planalto.gov.br/ccivil 03/Leis/quadro/2000.htm>. Acesso em
+
+02.ag0.2008.
+
+o . Tecnologia da Informação a Serviço da Eficiência, Transparência e
+Controle Social do Gasto Público: o projeto SIGA Brasil. Prêmio TIC Brasil. 2006.
+1º lugar. Disponível em: <http://jwww.serpro.gov.br/imprensa/publicacoes/
+
+Tema/tema 189/materias/premio-tic-brasil/>. Acesso em: 05.ago.2008.
+66
+
+Congresso Nacional. Relatório Final da CPMI do Orçamento. Brasília, 1994, 516 p.
+Disponível em <http://www2.senado.gov.br/bdsfiitem/id/84896>. Acesso em:
+02.ag0.2008.
+
+CONORF. Consultoria de Orçamentos, Fiscalização e Controle do Senado Federal.
+SIGA Brasil O que é o SIGA Brasil. Disponível em:
+<http://www.senado.gov.br/siga>. Acesso em: 05.ag0.2008.
+
+GIACOMONI, J. Orçamento Público. 12. ed. São Paulo: Atlas, 2003, 314 p.
+
+GIAMBIANGI, Fábio. Programação Fiscal: Sugestões a médio prazo. 2004.
+<http://www .interlegis.gov.br/fiscalizacao/20040130112419/20040415161133/200402
+05160008/>. Acesso em: 05.90.2008.
+
+LIMA FILHO, Luiz Gonçalves. Nota Técnica 27/2002. Estrutura e Classificação da
+Despesa. Brasília, 16.abr.2002. Consultoria de Planos, Orçamentos Públicos e
+Fiscalização do Senado Federal. p. 3.
+
+MANVE, Allan D. Instrumentos do Ciclo de Planejamento. Governo do Estado de
+Mato Grosso. Cuiabá, 2002, 50 p.
+
+Ministério do Planejamento, Portaria 42, de 14 de abril de 1999. Atualiza a
+discriminação da despesa por funções de que tratam o inciso | do 8 lo doart. 20 e 8
+20 do art. 80, ambos da Lei no 4.320, de 17 de março de 1964, estabelece os
+conceitos de função, subfunção, programa, projeto, atividade, operações especiais, e
+dá outras providências. Disponível em:
+<http://www.planejamento.gov.br/orcamento/conteudo/legislacao/legislacao sof.htm>.
+Acesso em: 30.ago.2008.
+
+MORGADO, J. V. Introdução ao estudo do orçamento público. Brasília: ILB,
+1997, 95 p.
+67
+
+PEDERIVA, João Henrique. Accountability, Constituição e Contabilidade. R evista
+de Informação Legislativa. A. 35, n. 140, p. 17-39, out.-dez 1998. Disponível em:
+<http://www.senado.gov.br/web/cegraf/ril/P df/pdf 140/1140-03.pdf> Acesso em:
+01.0ut.2008.
+
+acesa . Relevância das prioridades orçamentárias revisitada. 6º. Encontro da
+ABCP, UNICAMP, Campinas (SP). De 29 de julho a 1º de agosto de 2008. Disponível
+em: <http://201.48.149.88/abcp2008/AprovacaoS 2.asp? IdAtividade=2154&tipo =E f>.
+Acesso em: 01.0ut.2008.
+
+PEREIRA, ).M. Finanças Públicas: a política orçamentária no Brasil. São Paulo:
+Atlas, 2003, 254 p.
+
+RENNÓ, Lucio R.. Os militantes são mais informados? Desigualdade e
+informação política nas eleições de 2002. Opinião Pública, Nov. 2006, vol.12, no.2,
+p.329-347.
+
+RESENDE, Dayse Cristina; STOCHIERO, Rosane Melo F. A. SIGA Brasil: um
+instrumento para a transparência e democratização das informações orçamentárias.
+Unilegis: 2005, 50 p.
+
+SANCHES, Osvaldo Maldonado. A Atuação do Poder Legislativo no Orçamento:
+Problemas e Imperativos de um Novo Modelo. Revista de Informação Legislativa,
+Brasília, nº 138, p. 1-21, abr./jun. 1998.
+
+SANTA HELENA, E.Z. O processo de alocação dos recursos federais pelo
+Congresso Nacional. Cadernos ASLEGIS 21. Brasília, v. 6, p.1 a 112, dez 2003.
+
+SANTORO, Carlos Magno. The Siga Brasil Project. World e-Parliament Report
+2008. Genebra, Suiça. 2008. p. 121. Disponível em:
+68
+
+<http://www5.senado.gov.br/boletimprodasen/boletins/boletim55/> | Acesso em:
+05.ago.2008.
+
+SOF. Secretaria de Orçamento Federal. Manual Técnico de Orçamento - MTO.
+Versão 2008 - 4, Brasília, 2007, 152 p.
+
+TECNOLOGIA para o Bem - Funcionários do Senado criam software que
+permite ao cidadão acompanhar a destinação do dinheiro da União. ) ornal
+Correio Braziliense, Suplemento de Informática, p.3, 12.dez.2006. (ver anexo)
+
+VAZ, Lúcio. Emendas coletivas dominam Orçamento. mar.2006. Disponível em:
+<https://www portalsof.planejamento.gov.br/portal/clipping/clip marco.html>. Acesso
+em: 05.ag0.2008.
+69
+
+APÊNDICE
+
+Sugestão do autor da monografia
+Anteprojeto de Lei Nº. de 2008
+
+Regula o artigo 165º, parágrafo 7 e o artigo
+3º, inciso Ill todos da Constituição Federal,
+que dispõem da redução desigualdades
+inter-regionais e institui o Indice de
+Regionalização da Despesa (IRD).
+
+O CONGRESSO NACIONAL decreta:
+
+Art. 1º Os orçamentos previstos no artigo 165, 8 5º, | a Ill da Constituição
+Federal e os créditos adicionais, compatibilizados com o plano plurianual,
+ressalvadas as dotações para atender ao serviço da dívida pública e a reserva de
+contingência, terão a programação dos gastos detalhados, no mínimo, por unidades
+da Federação e Regiões.
+
+$ 1º O detalhamento dos gastos dar-se-á na proporção de no mínimo 3/5 para
+as Unidades da Federação e o restante para as Regiões, exceto a Nacional, sobre o
+disposto no art. 29,8 2º,
+
+8 2º A Classificação relativa à Regionalização das ações deve levar em conta
+
+a localidade beneficiada pela ação.
+
+Art. 22 O Projeto de Lei Orçamentária Anual encaminhado ao Congresso
+Nacional apresentará um quadro com os valores previstos no projeto de lei por
+unidades da Federação e Regiões observado o IRD.
+
+$ 1º O Índice de Regionalização da Despesa (IRD) representa o somatório
+dos gastos das unidades da Federação e Regiões, exceto a Nacional.
+
+$ 22º O Índice de Regionalização da Despesa (IRD) será igual ou superior a
+75% (setenta e cinco por cento).
+70
+
+Parágrafo Único O IRD no primeiro ano será de 30% (trinta por cento),
+acrescido a cada ano, de 15 (quinze) pontos percentuais até atingir o disposto no
+art. 22,8 2º.
+
+Art. 3º Os valores dos Restos a Pagar serão detalhados, no mínimo, por
+unidades da Federação ou Regiões de acordo com o Índice de Regionalização da
+Despesa (IRD).
+
+Art. 4º A execução dos gastos orçamentários e financeiros obedecerão IRD
+disposto no art. 28,8 2º,
+
+Art. 5º Esta Lei entrará em vigor na data de sua publicação.
+
+Brasília, — de de
+7
+
+ANEXO
+
+SIGA BRASIL - MATÉRIA DO JORNAL CORREIO BRAZILIENSE
+
+Suplemento de Informática, p.3, 12.dez.2006
+
+q
+
+Conrio BRAZILIENSE + Brasília. terça-feira. 2 de dezembro de 2006 + 3
+
+ 
+
+INFORMÁTICA
+
+ 
+
+ 
+
+SERVIÇO PÚBLICO
+
+ 
+
+FUNCIONÁRIOS DO SENADO CRIAM SOFTWARE QUE PERMITE AO CIDADÃO ACOMPANHAR A DESTINAÇÃO DO DINHEIRO DA UNIÃO
+
+TECNOLOGIA para o Bem
+
+DA REDAÇÃO
+
+ezaalenda que os funcio-
+
+nários públicos são aco-
+
+modados e não traba-
+
+lham, de fato, para a so
+ciedade. Bem, nem tanto à terra
+nem ao tanto ao mar: há, sim,
+muita gente por aí preocupada
+coma eficácia do serviço público.
+Asarmas? A transparência e a
+inovação tecnológica. Esse é o ca-
+so de Rita de Cássia dos Santos,
+assessora legislativa do Senado
+Federal, Ela coordenou o grupo
+de servidores que desenvolveu
+um sistema chamado Siga Brasil.
+que possibilita a qualquer pessoa
+acessar à internet e saber por on-
+de anda o dinheiro que os contri-
+buintes põem nos cofres dos go-
+vernos. Por meio do Siga, qual-
+quer um pode descobrir quem li-
+berou a verba para determinado
+município — e quando isso acon-
+teceu, Fica mais fácil, também,
+acompanhar (e cobrar ) o traba-
+lho dos deputados e senadores
+eleitos. Tudo isso sem sair de
+frente do computador.
+
+Antes do Siga Brasil, conseguir
+informações sobre orçamentos
+da União era tarefa praticamente
+de garimpeiro. Era preciso coletar
+dados em diversos órgãos e cru-
+zar as mais diversas informações.
+“Se já era difícil para funcionários
+do próprio Senado, geralmente
+altamente especializados, imagi-
+ne para o cidadão, para servido-
+res de órgãos estaduais e munici-
+pais”, observa Rita de Cássia. “Até
+para as ONGs que acompanham
+políticas públicas é um trabalho
+árduo; reforça.
+
+Agora a realidade é outra. Por
+meio do Data Warehouse, um
+sistema de computação que in-
+tegra banco de dados, o projeto
+
+ 
+
+Pado H CarvahoiCB 111206
+
+BRASIL
+
+IRE O ORÇAMENTO DA UNIÃO
+
+  
+
+FUNCIONÁRIOS DO SENADO GANHADORES DO PRÊMIO BRASIL DE TECNOLOGIA DA INFORMAÇÃO: CRIATIVIDADE PARA INFORMAR ONDE O DINHEIRO PÚBLICO É GASTO
+
+desenvolvido pelo Processa-
+mento de Dados do Senado
+(Prodasen) põe à disposição de
+qualquer cidadão todas as infor-
+mações do orçamento. “No iní-
+cio, ficamos com receio de libe-
+rar. Com o tempo, isso foi se di-
+luindo. O nosso objetivo era ex-
+por as entranhas do Congresso
+mesmo”, brinca a funcionária.
+Rita ainda revela que quando
+os funcionários envolvidos no
+projeto se deram conta da poten-
+cialidade do Siga Brasil, logo per.
+ceberam que seria um serviço
+útil à sociedade. Quem quiser ter
+
+acesso às informações não preci-
+sa ser “especialista” em orçamen-
+to. À interface do programa tem
+orientações de como encontrar
+os dados, montar pesquisas mais
+específicas e até consultar um es-
+pecialista do Senado. As informa-
+ções são liberadas para todos. Pa-
+ra dados mais aprofundados.
+basta fazer cadastro prévio. O
+serviço está à disposição no site
+wwwsenado gov.brósiga.
+
+E como projetos bons preci-
+sam ser mostrados, o projeto
+de Maria Rita e seus funcioná-
+rios chegou logo com reconhe-
+
+cimento público: foi o ganha-
+dor do | Prêmio Brasil de Tec-
+nologia da Informação. cujo
+tema era Promoção da Eficácia
+no Setor Público.
+
+O segundo lugar ficou com Ri-
+naldo Accioly e Miguel Nery, fun-
+cionários do Departamento Na-
+cional de Produção Mineral
+(DNPM). Eles sabiam e se inco-
+modavam com o fato de que o
+processo de registro, autoriza-
+ções e mineração demorava até
+quatro anos. Agora, com a inicia
+tiva deles (batizada de Moderni-
+zação da Sistemática das Outor-
+
+gas Minerais no Brasil), quem de-
+pende da extração mineral do
+Brasil pode se beneficiar com
+mais rapidez.
+
+O projeto visa a moderniza-
+ção tecnológica nos processos
+de outorga, fiscalização e arreca-
+dação no setor. “Por meio de so-
+luções baseadas na web, o gover-
+no tem mais controle e o dinhei-
+ro chega mais rápido ao desti-
+no”, explica Rinaldo. Toda vez
+que alguém compra um produto
+derivado de extração mineral
+uma quantia é destinada aos
+municípios, estados e à União.
+

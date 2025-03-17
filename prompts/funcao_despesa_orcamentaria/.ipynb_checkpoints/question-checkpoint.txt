@@ -1,0 +1,3 @@
+<question>Seja as funções de despesa orçamentária a seguir:  Legislativa, Judiciária, Essencial à Justiça, Administração, Defesa Nacional, Segurança Pública, Relações Exteriores, Assistência Social, Previdência Social, Saúde, Trabalho, Educação, Cultura, Direitos da Cidadania, Urbanismo, Habitação, Saneamento, Gestão Ambiental, Ciência e Tecnologia, Agricultura, Organização Agrária, Indústria, Comércio e Serviços, Comunicações, Energia, Transporte, Desporto e Lazer, Turismo, Encargos Especiais. 
+Considerando as definições de despesa orçamentária acima e o contexto, Qual a função da despesa orçamentária encontrada no contexto?
+</question>

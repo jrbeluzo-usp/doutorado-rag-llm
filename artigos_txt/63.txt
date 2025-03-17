@@ -1,0 +1,1720 @@
+A Conexão Ministerial: governo de coalizão e viés
+partidário na alocação de emendas parlamentares
+ao orçamento (2004-2010)!
+
+Mariana Batista* | Universidade Federal de Pernambuco
+
+Resumo. Os ministros influenciam a alocação de recursos pelo Executivo Federal? O presente trabalho discute
+em que medida o poder dentro do Executivo é compartilhado entre o presidente e os partidos que formam a
+coalizão governativa, analisando a alocação de recursos pelo Executivo Federal. O foco específico está nas
+emendas parlamentares ao orçamento federal no período de 2004 a 2010. Busca-se identificar se o controle de
+ministérios pelos partidos da coalizão significa um canal privilegiado para os membros dos partidos da coalizão.
+A hipótese central é que ser membro do partido do ministro ao qual o recurso está vinculado aumenta a chance
+de liberação da emenda parlamentar. Os resultados indicam que parlamentares do mesmo partido do ministro
+são beneficiados na alocação de emendas. Contudo, o viés partidário não é extremo, de forma que o partido do
+presidente é igualmente beneficiado e os demais partidos da coalizão também recebem recursos, indicando a
+atuação de mecanismos de coordenação pela Presidência da República.
+
+Palavras-Chave. Presidencialismo, governo de coalizão, relação executivo-legislativo, emendas orçamentárias.
+
+1. Introdução
+
+No presidencialismo de coalizão o apoio político
+dos partidos da base no Congresso é estabelecido
+a partir da distribuição de pastas ministeriais para
+os diferentes partidos que compõem a coalizão go-
+vernativa (Amorim Neto, 2001). Com o apoio da co-
+alizão o presidente é capaz de aprovar sua agenda
+legislativa e manter a governabilidade. Este é um
+ponto suficientemente enfatizado na literatura (Fi-
+gueiredo e Limongi, 2001). Contudo, pouco ainda se
+sabe sobre o funcionamento do presidencialismo de
+coalizão sob a perspectiva do Poder Executivo.
+
+O sistema presidencialista apresenta o presidente
+como chefe absoluto e responsável pelo governo.
+Contudo, com a distribuição de posições no gabine-
+te para os partidos da coalizão, cada ministro tem
+controle sobre uma pasta específica, significando
+em alguma medida influência sobre as decisões to-
+madas na área. Segundo Martin e Vanberg (2012),
+tais governos se tornam mais complexos e geram
+maiores custos de coordenação, tendo em vista que
+
+os diferentes partidos governam juntos, mas dis-
+putam eleições separadamente. Nesse sentido, os
+ministros representam partidos com posições po-
+líticas e preferências próprias. O presente trabalho
+parte do pressuposto de que há processos internos
+de delegação e de coordenação que fazem com que a
+teoria do Poder Executivo como ator unitário, iden-
+tificado exclusivamente como o presidente, não seja
+apropriada para o entendimento dos governos de
+coalizão brasileiros.
+
+Neste sentido, como se dá a relação entre o presi-
+dente e os ministros no processo decisório de um
+governo multipartidário? Qual a influência da co-
+alizão nas decisões do Executivo? Essas questões
+se tornam ainda mais importantes considerando a
+dominância legislativa e os fortes poderes orçamen-
+tários do Executivo federal brasileiro. O presente
+trabalho foca na participação da coalizão na aloca-
+ção de recursos do Poder Executivo. O foco especí-
+fico está nas emendas parlamentares, já que esta é
+a forma mais diretamente observável de participa-
+ção dos parlamentares na formulação do orçamento
+
+RIEL — REVISTA IBERO-AMERICANA DE ESTUDOS LEGISLATIVOS :: N.4 :: MAI :: 2015 :: RIO DE JANEIRO :: FGV
+brasileiro. Tais emendas podem ser vistas como o
+principal mecanismo de obtenção de recursos pelos
+parlamentares para influenciar os eleitores, numa
+estratégia de sobrevivência política (Pereira e Ren-
+nó, 2001; Pereira e Mueller, 2003). Nesse sentido,
+são recursos valorizados pelos parlamentares. Qual
+o papel dos ministros na execução de tal estratégia?
+
+Assumindo que a formação de governos de coalizão
+significa os partidos políticos no processo decisório
+do Poder Executivo, a análise das emendas parla-
+mentares permite identificar se há variação na alo-
+cação de tais recursos de acordo com a distribuição
+de pastas ministeriais específicas entre os membros
+da coalizão. Busca-se aqui identificar se a alocação
+de emendas parlamentares é feita de forma a bene-
+ficiar o partido do ministro setorial ou mecanismos
+de coordenação impostos pelo presidente estão pre-
+sentes de forma a impedir a autonomia ministerial.
+
+Testando o argumento de Laver e Shepsle (1990),
+a hipótese é a de que um viés partidário pode ser
+observado na alocação de emendas parlamentares,
+de forma que os ministérios podem ser vistos como
+um canal privilegiado para os membros dos partidos
+da coalizão no processo decisório do Poder Execu-
+tivo. Dito de outra forma, os parlamentares valori-
+zam emendas parlamentares e os ministros são re-
+presentantes partidários, de forma que se tiverem
+autonomia para tanto, buscarão beneficiar os mem-
+bros do seu próprio partido.
+
+O artigo está organizado da seguinte forma. A pró-
+xima seção se dedica à discussão sobre governos de
+coalizão e desenvolve o argumento sobre o papel
+dos ministros na alocação de recursos orçamentá-
+rios pelo Poder Executivo. Em seguida, o processo
+orçamentário brasileiro é analisado. Na quarta se-
+ção os dados, variáveis, métodos e os resultados
+sobre o viés partidário na alocação de emendas par-
+lamentares pelos ministérios no período de 2004 a
+2010 são analisados. Por último a conclusão.
+
+2. Governos de Coalizão: formação,
+governança e implicações para o
+presidencialismo brasileiro
+
+Um tema bastante tradicional na análise sobre
+sistemas parlamentaristas está na formação e no
+funcionamento de governos de coalizão. Um traba-
+lho pioneiro que se tornou clássico é The Theory of
+Political Coalitions de William Riker (Riker, 1962).
+Neste trabalho Riker (1962) lança o argumento
+até então contraintuitivo de que na barganha po-
+lítica para a formação de um governo de coalizão,
+os partidos não maximizam cadeiras, isto é, não
+buscam a formação de um governo com o maior
+número de cadeiras legislativas, mas sim buscam
+a formação de um governo que controle apenas o
+número suficiente de cadeiras para ganhar. Esse
+é o critério da coalizão mínima vencedora, que se
+tornou dominante no debate.
+
+A partir deste princípio, trabalhos foram feitos no
+sentido de entender os determinantes da formação,
+composição e tamanho das coalizões. O foco está na
+formação do governo com base na barganha entre
+atores racionais maximizando a sua participação na
+distribuição do “prêmio”. O prêmio em questão é o
+governo, que pode ser subdividido em subunidades
+- os ministérios - e distribuído entre os membros
+da coalizão vencedora. O argumento dominante é
+o de que os partidos na coalizão demandarão par-
+ticipação no governo proporcional ao seu tamanho,
+no que ficou conhecido como Lei de Gamson: “Any
+participant will expect others to demand from a
+coalition a share of the payoff proportional to the
+amount of resources which each contribute to a co-
+alition” (Gamson, 1961: 376).
+
+Os modelos de formação de governo orientados pelo
+princípio do tamanho e o argumento da demanda
+proporcional de participação no governo estabelece
+implicitamente o que é conhecido como o argumen-
+to office-seeking. Isto é, o prêmio a ser dividido são
+posições no gabinete e isto é tudo a ser considerado
+no jogo de formação da coalizão. Alguns trabalhos
+posteriores passaram a enfatizar o aspecto ideoló-
+gico na formação de governos de coalizão. Isto é,
+algumas coalizões são mais prováveis do que outras
+eisto acontece devido a razões de proximidade ide-
+ológica entre os futuros parceiros. Aqui a ênfase é
+na busca por cargos, porém, esses cargos seriam
+um instrumento para a implementação de políticas.
+Como após a formação da coalizão é esperado que os
+membros governem juntos, considerações acerca da
+policy-position dos atores são de importância (Axel-
+rod, 1970; DeSwaan, 1973).
+
+Pensar no quê acontece após a formação do governo
+e como os partidos de fato governam representou a
+transição do foco exclusivo na formação da coalizão
+para as análises sobre a governança das coalizões.
+Nas palavras de Laver e Shepsle (1990): “discus-
+sions of government coalitions have concentrated
+almost exclusively on the fact that they are coali-
+tions and more or less ignored the fact that they are
+also governments. Little attention has been devo-
+ted to what happens after a government has been
+formed” (Laver e Shepsle, 1990: 873). Nas análises
+sobre governança o debate gira em torno de como as
+decisões são tomadas, quais atores influenciam as
+decisões e como a divisão do trabalho afeta as polí-
+ticas implementadas pelo governo.
+
+Laver e Shepsle (1990) construíram o argumento
+dominante sobre a divisão do trabalho em gover-
+nos de coalizão em sistemas parlamentaristas. Os
+autores analisam as barganhas da coalizão sobre
+alternativas críveis de alocação de portfólios. O ar-
+gumento básico é o de que a autonomia ministerial
+sobre o ministério específico e a implementação das
+preferências do partido que controla o ministério é
+a única alternativa crível de formação do governo, já
+que um partido não pode se comprometer a imple-
+mentar políticas que se afastem da sua preferência.
+Nesse sentido, os ministros possuem autonomia na
+
+RIEL — REVISTA IBERO-AMERICANA DE ESTUDOS LEGISLATIVOS :: N.4 :: MAI :: 2015 :: RIO DE JANEIRO :: FGV
+condução das decisões de seu ministério e por isso é
+esperado que implementem a decisão mais próxima
+de suas preferências. Nas palavras dos autores:
+
+“Division of labor within a cabinet means that
+most ministers are assigned particular policy ju-
+risdictions, or “portfolios”. This gives a minister
+the job of initiating and implementing policy wi-
+thin a particular field. The resources commanded
+by a minister to facilitate this — typically control
+over a government department - give conside-
+rable de facto power over policy outputs in the
+minister's jurisdiction. (...) This characterization
+of the workings of the division-of-labor cabinet
+system should lead actors to forecast that jurisdic-
+tion-specific policy outputs will tend towards tho-
+se preferred by the party of the relevant minister.
+This means that a proposal that promises to enact
+the preferred policy position ofthe person (party)
+nominated for each relevant portfolio is credible in
+the sense that it depends only on giving ministers
+the power to do what they expressly want to do.
+Any proposal promising that a minister with wide-
+-ranging power over the relevant policy jurisdic-
+tion will act against expressed preferences is less
+credible” (Laver e Shepsle 1990: 874).
+
+Neste argumento que ficou conhecido como “portfo-
+lio allocation”, os autores propõem um modelo de di-
+visão do trabalho sob governo de coalizão no qual os
+ministros possuem total autonomia decisória sobre a
+área específica que controlam. Nesse sentido, a dis-
+tribuição específica de ministérios e o posicionamen-
+to ideológico dos partidos se tornam fundamentais
+para entender não só a formação da coalizão, mas
+também os resultados do governo. Sobre o “governo
+ministerial”, Laver e Shepsle (1994) afirmam:
+
+“[Ministerial government] implies a powerful
+executive in which individual ministers, by vir-
+tue of their positions as the political heads of
+the major departments of state, are able to have
+a significant impact on policy in areas that fall
+under their jurisdiction. This entails a division-
+-and-specialization-of-labor  arrangement in
+which effective policy of any government depen-
+ds upon the allocation of cabinet portfolios be-
+tween politicians. A different allocation implies
+a different policy profile for the cabinet, and
+changes in portfolio allocations signal changes
+in government policy” (Laver e Shepsle, 1994: 8)
+
+Apesar da dominância de tal argumento na literatura
+sobre governos de coalizão em sistemas parlamenta-
+ristas, uma série de trabalhos vem colocando em dis-
+cussão o pressuposto da total autonomia dos minis-
+térios. Segundo Thies (2001), governos implicam de-
+legação de poderes e governos de coalizão implicam
+relações de delegação ainda mais complexas, tendo
+em vista que a delegação é interpartidária e não in-
+trapartidária como em governos de partido único.
+
+Dessa forma, há duas opções para a governança da
+coalizão: a autonomia ministerial, que o autor ar-
+
+gumenta ser uma opção subótima, devido à incerte-
+za quanto às decisões tomadas pelo ministério, e a
+alternativa de “administrar” a delegação aos minis-
+tros. Tal administração de coalizões multipartidárias
+pode ser feita através do desenho institucional cen-
+tralizado, como forma de supervisionar as decisões
+dos ministérios, ou, principalmente, a indicação de
+“ministros-júnior” de outro partido que não o do mi-
+nistro, como um contraponto ao controle absoluto do
+ministro e também como uma fonte de informação al-
+ternativa para os parceiros da coalizão (Thies, 2001).
+
+Martin e Vanberg (2004; 2011) apontam o papel
+do parlamento nas democracias parlamentaristas
+como uma arena decisória alternativa, na qual os
+conflitos não resolvidos ou a assimetria informa-
+cional entre os parceiros da coalizão tem uma nova
+oportunidade de discussão e revisão dos acordos. As
+bancadas dos partidos membros da coalizão podem
+observar as decisões de ministérios controlados por
+outros partidos e assim manter as decisões do go-
+verno mais próximas das preferências da coalizão
+como um todo e não só to partido que controla o mi-
+nistério específico (Martin e Vanberg, 2004; 2011).
+
+A primazia do ministro na área específica que con-
+trola ainda é aceita. Contudo, formas de controle
+mútuo são desenhadas como forma de manter o go-
+verno de fato da coalizão e não departamentalizado
+em unidades autônomas e desconectadas.
+
+Trabalhos empíricos vêm sendo feitos no sentido de
+testar a capacidade preditiva do modelo de autono-
+mia ministerial e a sua alternativa com base na coor-
+denação e controle mútuo no gabinete. A estratégia
+proposta por Laver e Shepsle (1994) é contrastar os
+modelos de tomada de decisão com base numa vari-
+ável dependente específica. Isto é, modelos de ga-
+binete são traçados e busca-se identificar qual mo-
+delo explica a variação nas políticas adotadas pelo
+governo. Segundo Laver e Shepsle (1994), há seis
+modelos possíveis: o governo burocrático, no qual
+a composição da burocracia determina as políticas
+adotadas; o governo legislativo, no qual todas as
+decisões sobre políticas são tomadas pela legislatu-
+ra; o governo do primeiro ministro, no qual as pre-
+ferências do primeiro ministro determinam as polí-
+ticas adotadas; o governo do partido, partidos bem
+organizados e disciplinados ao controlar o governo
+controlam as decisões políticas tomadas; governo
+do gabinete, as decisões são tomadas coletivamen-
+te; por último, o governo ministerial, no qual as
+políticas adotadas por cada ministério refletem as
+preferências do ministro que lidera o departamento
+(Laver e Shepsle, 1994).
+
+Uma forma de testar o papel dos ministérios nas
+decisões tomadas pelo governo é identificar as
+preferências dos ministros setoriais e avaliar se as
+políticas adotadas pelo governo na área específica
+refletem tais preferências ou não. No primeiro caso,
+o teste mostrará evidência a favor da autonomia mi-
+nisterial, no segundo formas de coordenação e con-
+trole mútuo estão em ação e devem ser analisadas.
+
+RIEL — REVISTA IBERO-AMERICANA DE ESTUDOS LEGISLATIVOS :: N.4 :: MAI :: 2015 :: RIO DE JANEIRO :: FGV
+O objetivo do presente trabalho é se basear em tais
+testes como uma forma de identificar a participação
+dos ministérios na tomada de decisão e alocação de
+recursos pelo Poder Executivo brasileiro. Contudo,
+como utilizar esse conhecimento acumulado sobre
+governos de coalizão em sistemas parlamentaristas
+para entender o caso brasileiro? “Presidencialismo e
+parlamentarismo são, de fato, diferentes e as insti-
+tuições claramente criam incentivos” (Cheibub, Pr-
+zeworski e Saiegh, 2002: 188). Uma séria de regras
+marca as diferenças institucionais entre presidencia-
+lismo e parlamentarismo, dentre elas a eleição dire-
+ta para o chefe do Poder Executivo, a sua autonomia
+frente o Legislativo, a existência de mandato fixo e
+independência nas indicações para composição do
+governo (Stepan, 1990).
+
+No presidencialismo brasileiro o presidente tem au-
+tonomia na condução das decisões do governo e pode
+ainda modificar a configuração de seu ministério sem
+necessidade de aprovação pelo Legislativo. Nesse
+sentido, algo razoável a ser assumido é que as polí-
+ticas respondam às preferências do presidente. Con-
+tudo, qual seria então o incentivo para um partido
+integrar a coalizão se não tem nenhuma perspectiva
+de influenciar as decisões do governo?
+
+O argumento aqui desenvolvido é o de que o presiden-
+cialismo de coalizão representa uma barganha entre o
+presidente e os partidos de coalizão, na qualo presen-
+te busca apoio político para a sua agenda legislativa e
+os partidos em contrapartida buscam influência sobre
+as decisões governamentais. Uma vez no controle de
+um ministério, o ministro tem por objetivo influenciar
+as decisões de modo a beneficiar o seu próprio partido
+e assim extrair rendas da participação no governo. A
+questão que se impõe é se o ministro consegue impor
+a sua preferência ou se o presidente é capaz de manter
+o governo sob controle, mantendo as decisões mais
+próximas do seu próprio interesse.
+
+Partindo da estratégia proposta por Laver e Sheps-
+le (1994), busca-se avaliar se as políticas adotadas
+pelo governo refletem as preferências do presidente
+ou se a distribuição de ministérios é uma variável
+relevante para entender as decisões do governo.
+Para tanto, é preciso identificar as preferências do
+presidente e dos ministros e observar uma determi-
+nada decisão do governo como forma de identificar
+a sua ligação com os ministérios. A estratégia aqui
+utilizada é a de analisar a distribuição de emendas
+parlamentares. O foco é na participação da coalizão
+na alocação de recursos do Poder Executivo.
+
+Emendas parlamentares são vistas como a principal
+forma de participação dos parlamentares na aloca-
+ção de recursos do orçamento federal. Com o forte
+controle exercido pelo Executivo, a inclusão de inte-
+resses dos parlamentares pode ser feita diretamente
+apenas através de emendas à proposta apresentada
+pelo Executivo. Segundo o debate recente, emendas
+parlamentares são valorizadas pelos parlamentares
+por possibilitarem uma forma de transferir recursos
+para o seu eleitorado e assim conquistar votos num
+
+sistema eleitoral que incentiva a ligação persona-
+lista entre representante e representado (Pereira e
+Rennó, 2001; Pereira e Mueller, 2003).
+
+Ademais, as emendas parlamentares são vinculadas
+a ministérios específicos. Partindo do objetivo de
+identificar a participação dos ministros na alocação
+de recursos, assume-se que os ministros preferem
+alocar recursos para o seu próprio partido, de modo
+que a autonomia ministerial deve se apresentar
+como um viés partidário na alocação de emendas
+parlamentares, favorecendo o partido do ministro.
+Os ministérios serviriam como um canal privilegiado
+para os membros do partido no governo, da mesma
+forma que o ministro representa o apoio do seu par-
+tido no Legislativo.
+
+A próxima seção analisa o desenho institucional do
+Executivo, os dados de emendas parlamentares ao
+orçamento e a metodologia utilizada para estimar o
+efeito de controlar o ministério sobre a execução das
+emendas apresentadas no período de 2004 a 2010.
+
+3. Desenho Institucional do Executivo:
+regras e procedimentos do processo de
+alocação do orçamento
+
+No processo orçamentário brasileiro estão previsto
+três estágios: a elaboração da peça orçamentária pelo
+Poder Executivo, a discussão, modificação e aprovação
+pelo Legislativo e a execução dos gastos novamente
+pelo Executivo. Como pode ser visto, o poder de agen-
+da ea palavra final ou a “chave do cofre” estão com o
+Poder Executivo. Por essa razão, “there are strong re-
+asons to believe that the president plays a central role
+in determining which jurisdictions get what, when,
+and how” (Berry, Burden e Howell, 2010: 783).
+
+De acordo com Berry, Burden e Howell (2010), a li-
+teratura empírica sobre política distributiva tem sido
+“legislature centric” e o Executivo quando apare-
+ce nas análises é identificado como um veto player.
+Contudo, o papel do Executivo é muito mais amplo
+do que o simples veto. Durante a formulação, e ain-
+da mais importante, durante a implementação do
+orçamento o Executivo tem amplas oportunidades de
+afetar a distribuição de recursos de acordo com suas
+preferências políticas Berry, Burden e Howell, 2010).
+Dessa forma, para entender a atuação do governo nos
+gastos públicos e a participação dos atores políticos
+na alocação de recursos é preciso olhar também para
+o funcionamento interno do Executivo.
+
+O processo orçamentário no Brasil é dividido em três
+peças legislativas principais de iniciativa exclusiva do
+Presidente: o plano plurianual, a lei de diretrizes or-
+çamentárias e a lei orçamentária anual. O plano plu-
+rianual (PPA) estabelece de forma regionalizada as
+diretrizes, objetivos e metas da administração pública
+federal, contendo os programas de trabalho a serem
+realizados nos quatro anos seguintes. Constitui-se no
+grande instrumento de planejamento que orienta a
+formulação dos orçamentos anuais no período que
+
+RIEL — REVISTA IBERO-AMERICANA DE ESTUDOS LEGISLATIVOS :: N.4 :: MAI :: 2015 :: RIO DE JANEIRO :: FGV
+compreende. A lei de diretrizes orçamentárias (LDO)
+estabelece, com base no PPA, as metas e prioridades
+que deverão ser observadas na formulação do orça-
+mento. Com base no planejamento para quatro anos
+do PPA, a LDO estabelece as prioridades. Por último,
+a lei orçamentária anual (LOA) estabelece a progra-
+mação financeira do próximo ano fiscal de forma
+consolidada, indicando a fonte de receita e previsão
+de despesa para o orçamento fiscal, o orçamento de
+investimento das empresas e o de seguridade social.
+A LOA apresenta o impacto regionalizado dos gastos
+previstos e tem por objetivo expresso a redução das
+desigualdades regionais. Na prática a LOA estabelece
+restrições sobre os gastos no ano fiscal, uma vez que
+é vedado o início de programas não incluídos na lei
+e a realização de despesas que excedam os créditos
+orçamentários (Brasil, 1988).
+
+A Constituição Federal de 1988 classifica os or-
+çamentos anuais como leis de iniciativa do Poder
+Executivo, porém, não dispõe sobre as regras de
+formulação do projeto dentro do Executivo, garan-
+tindo poderes discricionários para o presidente, que
+
+pode organizar o processo e o papel dos atores in-
+ternamente. Com base nos manuais técnicos do or-
+çamento, documento organizado pelo Ministério do
+Planejamento/Secretaria de Orçamento Federal, é
+possível entender o processo interno de formulação
+das leis orçamentárias anuais no Brasil.
+
+O órgão central do sistema de planejamento fede-
+ral é a Secretaria de Orçamento Federal (SOF), do
+Ministério do Planejamento. Este órgão é respon-
+sável por receber e consolidar as propostas dos ór-
+gãos setoriais, compatibilizando-as entre si e com
+as metas e objetivos do governo como um todo. As
+unidades de orçamento dos ministérios e da Casa Ci-
+vil se constituem em órgãos setoriais. As unidades
+orçamentárias são responsáveis pela programação e
+execução orçamentária (Lei 10.180/2001; Ministé-
+rio do Planejamento, 2004; 2012).
+
+A figura abaixo apresenta o processo orçamentário,
+com ênfase no papel desempenhado por cada um
+desses atores nos diferentes estágios de formulação
+da lei Orçamentária Anual.
+
+Figura 1. Processo de Formulação da Lei Orçamentária Anual
+
+GO 1 [o vi '
+1 SETORIAL ORÇAMENTÁRIA ;
+
+ 
+
+ 
+
+INÍCIO
+DEFINE '
+Diretrizes Estratégicas |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fixa
+Diretrizes
+
+   
+
+ 
+
+Parâmetros Quantitativos
+
+Normas para Elaboração Setoriais
+
+ 
+
+ 
+
++
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+L,| Estuda, definee
+divulga limites
+
+ 
+
+ 
+
+PROPOSTA
+Programas
+-ação
+- subtítulo
+
+ 
+
+ 
+
++
+
+ 
+
+Compara :
+; Consolida e
+
+Limites ko! e
+Programações ! | Valida Proposta
+
+Formaliza |
+Proposta !
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+| |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Decide
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Ministério do Planejamento (2012).
+
+ 
+
+O processo de formulação da peça orçamentária tem seu
+início no órgão central - a SOF - que estabelece as previ-
+sões de receita e limites de gasto por unidade. A defini-
+ção das diretrizes macroeconômicas do orçamento conta
+com participação da assessoria econômica do Ministério
+do Planejamento, do Ministério da Fazenda, da Casa Civil
+e dos órgãos setoriais. A definição e divulgação dos limi-
+tes para as propostas setoriais conta com o respaldo da
+Casa Civil como representante da Presidência. De acordo
+
+ 
+
+Envia ao
+congresso
+
+Formaliza !
+. ' Proposta 1
+ajusta i P 1
+Propostas ; b
+Ee [ii yS
+Setoriais ' ;
+y 1 1
+Consolida e ' '
+Formaliza Proj, >>
+de Lei i i nacional
+
+ 
+
+ 
+
+ 
+
+com Alston et all (2009), “it is at this stage that the tri-
+ckiest negotiations occur within the executive branch it-
+self, with each part trying to enlarge its own budget and
+the treasury trying to hold back their demands” (Alston
+et all, 2009: 71). Em seguida os órgãos setoriais esta-
+belecem as diretrizes para cada unidade e as unidades
+orçamentárias formulam os programas de trabalho com
+base nas limitações pré-estabelecidas. Formalizadas as
+propostas setoriais, a SOF ajusta as propostas e envia
+
+RIEL — REVISTA IBERO-AMERICANA DE ESTUDOS LEGISLATIVOS :: N.4 :: MAI :: 2015 :: RIO DE JANEIRO :: FGV
+
+ 
+para o órgão central do Poder Executivo, a Presidên-
+cia da República, assistida pelo Ministério do Planeja-
+mento, para decisão quanto ao seu conteúdo.
+
+Uma vez formulada a proposta, o projeto é enviado
+ao Congresso em apreciação unicameral regida pelo
+regimento comum. Mesmo se tratando de um proje-
+to de lei ordinária, a LOA apresenta um rito especial
+devido a natureza de sua matéria orçamentária. A
+apreciação é feita por uma comissão mista composta
+de 40 membros, 30 deputados e 10 senadores, res-
+peitando o critério da proporcionalidade partidária.
+O projeto é dividido em áreas temáticas, a cargo de
+relatores setoriais .
+
+O principal mecanismo de atuação dos parlamentares
+sobre o orçamento é através das emendas parlamen-
+tares. Através das emendas “os parlamentares podem
+opinar ou influir na alocação de recursos públicos em
+função de compromissos políticos que assumiram
+durante seu mandato, tanto junto aos estados e mu-
+nicípios quanto a instituições. Tais emendas podem
+acrescentar, suprimir ou modificar determinados
+itens (rubricas) do projeto de lei orçamentária en-
+viado pelo Executivo” (Senado, 2013). As emendas
+podem ser individuais, de bancada (estaduais) ou
+de comissão e obedecem atualmente os seguintes li-
+mites: 25 emendas individuais por parlamentar com
+base no limite fixado no parecer preliminar, entre 4 e
+8 emendas para as comissões e as bancadas estaduais
+podem apresentar até 23 emendas .
+
+A proposição de emendas é limitada por uma série
+de restrições. As emendas que propõem acréscimo
+ou inclusão de despesas só podem ser aprovadas se
+estiverem incluídas no PPA e na LDO e a partir da in-
+dicação da fonte de recursos necessários para sua
+execução. Dessa forma, os parlamentares incluem
+suas propostas dentro dos limites e dos programas
+estabelecidos anteriormente. Usualmente as emen-
+das parlamentares são vinculadas aos programas
+de trabalho dos ministérios, não sendo tão facil-
+mente dissociadas dos programas do governo. Isto
+é, os parlamentares não promovem novos gastos
+ou novas políticas públicas, mas sim incluem suas
+preferências de alocação, principalmente quanto a
+distribuição geográfica dos recursos, na estrutura
+programática estabelecida nos ministérios.
+
+Uma vez aprovada, a lei orçamentária é enviada ao
+Executivo para sanção presidencial. Após a sanção
+tem início o processo de execução. Este processo tem
+como atores principais no âmbito do Executivo Fede-
+ralo ministério do planejamento (MP), o ministério
+da fazenda (MF) e os ministérios gestores. A execu-
+ção orçamentária, definida como a utilização dos cré-
+ditos consignados na LOA, tem sua liderança no MP,
+e a execução financeira, que representa a utilização
+dos recursos financeiros, é liderada pelo MF através
+da Secretaria do Tesouro Nacional (STN).
+
+O processo de execução tem início na programação
+de desembolso, que tem por objetivo ajustar o rit-
+mo de execução do orçamento ao fluxo provável de
+recursos. Isto é, uma vez aprovada a LOA o Executi-
+vo adapta os objetivos da lei ao ritmo específico de
+implementação dos gastos de acordo com a previsão
+de recursos disponíveis. Essa programação é realiza-
+da até 30 dias após a sanção da LOA através de de-
+creto do Executivo. Esse decreto inicial estabelece
+os valores autorizados para movimentação e empe-
+nho e valores mensais autorizados para pagamen-
+to. Ou seja, Logo após a LOA o Executivo adapta a
+programação orçamentária, e apresenta no decreto
+inicial a diferença entre os valores fixados na lei e os
+valores liberados para movimentação e empenho.
+Essa diferença é chamada de contingenciamento e
+reflete a atuação direta do Executivo na redistribui-
+ção de recursos entre as suas unidades .
+
+Além dessa limitação inicial, o Executivo estabelece
+ainda cotas financeiras mensais para os ministérios,
+e é formulada em conjunto entre o MP e o MF. Essas
+cotas tem por objetivo manter o equilíbrio entre os
+gastos e a arrecadação de forma continuada e bus-
+cam “assegurar a liberação automática e oportuna
+dos recursos necessários à execução dos programas
+anuais de trabalho”. Desta forma se teria a flexibi-
+lidade da implementação descentralizada dos gas-
+tos nos ministérios aliada ao controle centralizado
+sobre o ritmo dos gastos durante o ano fiscal. O
+processo de execução financeira prevê a liberação
+dos recursos financeiros na forma de liberações
+mensais após solicitação e aprovação das propostas
+financeiras das unidades gestoras. A figura abaixo
+apresenta o processo de execução orçamentária e
+financeira no Executivo Federal.
+
+Figura 2. Processo de Execução Orçamentária /Financeira no Executivo Federal
+
+ 
+
+ 
+
+» MP
+
+ 
+
+SOF | -
+
+ 
+
+ 
+
+CONGRESSO
+
+NACIONAL H—») PRESIDENTE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+|
+| >) PROGRAMAÇÃO |») MINISTÉRIOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+STN | -s
+
+ 
+
+ 
+
+ 
+
+Fonte: elaboração própria com base na legislação citada.
+
+COTAS MENSAIS
+
+ 
+
+ 
+
+ 
+
+RIEL — REVISTA IBERO-AMERICANA DE ESTUDOS LEGISLATIVOS :: N.4 :: MAI :: 2015 :: RIO DE JANEIRO :: FGV
+
+ 
+Como pôde ser visto, a participação direta dos par-
+lamentares no sentido de alocar recursos para o seu
+eleitorado se restringe às emendas parlamentares.
+Na prática, tais emendas acabam restringindo-se
+principalmente aos recursos de investimento das
+unidades orçamentárias, no caso aqui analisado,
+os ministérios. Como o orçamento é autorizativo e
+não impositivo, o Executivo tem a prerrogativa de
+contingenciar dotações e reter liberações financei-
+ras, controlando o direcionamento da alocação de
+recursos e também o timming das liberações. Nesse
+ponto poderia se esperar a autonomia dos ministros
+na execução das emendas parlamentares vinculadas
+ao seu orçamento. Contudo, a atuação de um dos ór-
+gãos da presidência se torna relevante no que con-
+cerne às emendas parlamentares.
+
+A Secretaria de Relações Institucionais da Presidên-
+cia da República (SRI) é um órgão de apoio direto
+ao presidente, contando na estrutura da Presidên-
+cia da República. Compete à Secretaria de Relações
+Institucionais assistir ao presidente na coordenação
+política do governo, na condução da relação do go-
+verno com o Congresso Nacional partidos políticos
+e também na relação com estados e municípios (Lei
+10.683/2003). Nessa interlocução entre o Executivo
+e o Legislativo a SRI se torna fundamental quando
+consideramos a sua prerrogativa de “acompanhar,
+apoiar e, quando couber, recomendar medidas aos
+órgãos e entidades da administração pública fede-
+ral quanto à execução das emendas parlamentares,
+constantes da Lei Orçamentária Anual, e sua ade-
+quação aos critérios técnicos e de compatibilização
+com a ação governamental” (Decreto 6.207, 2007).
+Nesse sentido, a SRI acaba assumindo o papel de
+receber as demandas dos parlamentares para a exe-
+cução de suas emendas aprovadas no orçamento,
+pressionando os ministérios na liberação. Dessa
+forma, mesmo não sendo considerada diretamente
+na estrutura do processo orçamentário, a SRI pode
+desempenhar papel fundamental, limitando a auto-
+nomia dos ministérios, buscando manter a liberação
+das emendas parlamentares mais próxima dos inte-
+resses do presidente.
+
+Tendo em mente a prerrogativa dos ministros de
+orientar a execução orçamentária do ministério que
+chefia e essa estrutura de centralização das decisões
+de liberação de recursos num órgão da presidência,
+os ministério são capazes de alocar os recursos de
+forma a beneficiar o seu próprio partido ou a cen-
+tralização na presidência reduz a autonomia minis-
+terial mantendo as decisões do governo de acordo
+com as preferências do presidente? A próxima seção
+apresenta os dados, a metodologia e os resultados
+do teste da hipótese de que há um viés partidário
+na alocação de emendas no sentido de beneficiar o
+partido do ministro.
+
+4. Conexão Ministerial na Alocação do
+Orçamento? Dados, métodos e resultados
+
+Para compreender o papel dos ministérios na aloca-
+ção de recursos do Executivo Federal foram analisa-
+das as emendas parlamentares aprovadas ao orça-
+mento federal e a execução de tais emendas. O pe-
+ríodo analisado é de 2004 a 2010, incluindo assim os
+dois governos de Luiz Inácio Lula da Silva, permitindo
+variação de coalizão, de composição partidária dos
+ministérios e do ciclo eleitoral. A comparação com
+os governos de Fernando Henrique Cardoso (1995-
+2002) não foi possível devido à indisponibilidade de
+dados para o período no sistema consultado.
+
+A análise tem por base a identificação do partido dos
+autores das emendas ao orçamento, o ministério ao
+quala emenda se vincula e a filiação partidária do mi-
+nistro. Para as informações sobre as emendas parla-
+mentares foi construído um banco de dados com base
+nas informações do Siga Brasil. O banco é composto
+por todas as emendas parlamentares ao orçamento.
+As informações sobre execução de emendas parla-
+mentares somente estão disponíveis a partir de 2002.
+Os anos de 2002 e 2003 não foram considerados aqui
+por serem anos “atípicos”, o último ano do governo
+Fernando Henrique Cardoso, e assim não seria ma-
+terial suficiente para generalizar para esse governo,
+e o primeiro ano do governo Luiz Inácio Lula da Sil-
+va, com um orçamento aprovado durante o governo
+anterior. Foi analisado um total de 69.952 emendas
+parlamentares aos orçamentos no período.
+
+A unidade de análise é a emenda parlamentar. O
+foco está na execução ou não da emenda, consistin-
+do numa variável de resposta qualitativa binária. A
+opção por trabalhar com apenas com a execução ou
+não da emenda e não com a taxa de execução vem
+do problema de desagregar o valor executado que
+se refere estritamente à emenda parlamentar e os
+valores referentes a execução dos programas minis-
+teriais. Esse mais facilmente observado quando o
+valor executado da emenda supera em muito o valor
+inicialmente aprovado, com taxas de execução su-
+periores a 100%, indicando que parte do valor não
+se refere a emenda.
+
+Informações sobre a filiação partidária dos minis-
+tros foram disponibilizadas por Argelina Figueiredo
+e tem por base seu trabalho sobre os ministros do
+Brasil (Figueiredo, 2007). O objetivo aqui é identifi-
+car se o ministro beneficia o seu partido na execução
+das emendas parlamentares. A hipótese a ser testa-
+da é a de que quando o parlamentar e o ministro são
+do mesmo partido a probabilidade de execução da
+emenda aumenta. A tabela abaixo apresenta a dis-
+tribuição dos ministérios entre os partidos da coali-
+zão no período analisado.
+
+RIEL — REVISTA IBERO-AMERICANA DE ESTUDOS LEGISLATIVOS :: N.4 :: MAI :: 2015 :: RIO DE JANEIRO :: FGV
+
+9 TN
+
+ 
+Tabela 1. Distribuição Partidária dos Ministérios - Governos Luiz Inácio Lula da Silva (2003-2010)
+
+ 
+
+Ministério
+
+Partidos
+
+ 
+
+Primeiro Mandato
+
+Segundo Mandado
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ministério da Agricultura, Pecuária e Abastecimento SFP SFP —- PMDB - PMDB
+Ministério da Assistência Social PT —
+Ministério da Ciência e Tecnologia PSB - PSB SFP
+Ministério da Cultura Pv SFP— PV
+Ministério da Defesa SFP-PL-SFP-PL-PT PT- PMDB
+Ministério da Educação PT-PT-PT PT
+Ministério da Fazenda PT-PT PT
+Ministério da Integração Nacional PPS - PSB PSB - PMDB - PMDB
+Ministério da Justiça PT PT-PT
+Ministério da Previdência Social PT — PMDB - PMDB — SFP SFP-PT-PT-PT
+Ministério da Saúde PT - PMDB - PMDB PMDB - PMDB
+Ministério das Cidades PT-PP PP
+Ministério das Comunicações PDT - PMDB - PMDB PMDB
+Ministério das Minas e Energia PT- PMDB PMDB - PMDB
+Ministério das Relações Exteriores SFP SFP
+Ministério do Desenvolvimento Agrário PT-PT PT
+Ministério do Desenvolvimento Social e Combate à Fome PT PT
+Ministério do Desenvolvimento, Indústria e Comércio Exterior SFP SFP - SFP
+Ministério do Esporte PCdoB - PCdoB PCdoB
+Ministério do Meio Ambiente PT PT-PT
+Ministério do Planejamento, Orçamento e Gestão PT-SFP-PT PT
+Ministério do Trabalho e Emprego PT-PT-PT PT- PDT
+Ministério do Turismo PTB PTB-PT-PT
+Ministério dos Transportes PL-PL-SFP SFP- PR
+Ministério da Pesca e Aquicultura = PT
+
+ 
+
+Fonte: elaboração própria com base no banco de dados de Figueiredo (2007).
+
+A tabela 1 apresenta a composição dos ministérios
+nos governos de Luiz Inácio Lula da Silva. Podemos
+notar alguns aspectos interessantes na composição
+das coalizões formadas nos dois governos conside-
+rados: a dominância do partido do presidente na
+composição dos ministérios é clara, mesmo consi-
+derando o tamanho das coalizões formadas, che-
+gando a 9 partidos, algo sem precedente na política
+brasileira. Tal dominância, como é de se esperar, se
+torna ainda mais expressiva quando se considera os
+ministérios de “coordenação”, como o ministério do
+planejamento, da fazenda e da justiça.
+
+Contudo, apesar da forte presença do partido do pre-
+sidente, número expressivo de ministérios, inclusive
+ministérios mais importantes como o da saúde foram
+distribuídos aos partidos da base. Qual é o impacto
+de tal distribuição de cargos na estrutura do Executi-
+vo sobre a alocação de recursos? O presente trabalho
+busca identificar se existe relação entre a composição
+dos ministérios e a alocação de emendas parlamenta-
+res. Para tanto, primeiramente analisamos a impor-
+tância relativa dos diferentes ministérios na engrena-
+gem de alocação de emendas ao orçamento. O gráfico
+1 apresenta o percentual de emendas por ministério.
+
+RIEL — REVISTA IBERO-AMERICANA DE ESTUDOS LEGISLATIVOS :: N.4 :: MAI :: 2015 :: RIO DE JANEIRO :: FGV
+
+10 TN
+—
+ 
+
+Gráfico 1. Total de Emendas por Ministérios (2004-2010)
+o
+8
+o
+&
+E
+o
+a
+o
+oancogszersays
+Tv Da PES Las
+SsEgrsesdadts
+“Ess4BMadgaO Ss
+os o ss 2
+nu E E g
+gm E
+$
+8
+
+Fonte: elaboração própria.
+
+O gráfico 1 mostra o “destino” das emendas ao or-
+çamento aprovadas pelos parlamentares brasileiros.
+Nota-se a importância do ministério da saúde como
+o principal alvo das emendas aprovadas. Ainda com
+participação expressiva estão os ministérios das ci-
+dades, educação, turismo, transportes, desenvolvi-
+mento social, agricultura e integração nacional. Es-
+tes ministérios correspondem ao destino da maioria
+das emendas e esta posição tem duas explicações:
+primeiro, saúde, educação e os ministérios que rea-
+lizam obras como o de integração nacional são áreas
+
+Assist. Social
+Desenv. Agrário
+
+Pesca
+
+Justiça
+Planejamento
+Rel. Exteriores
+
+Meio Ambiente
+Indústria
+Fazenda
+Comunicações
+
+Trabalho
+Minas e Energia
+Previdência
+
+Desenvolvimento
+
+de grande interesse para os parlamentares; segundo,
+esses são os ministérios com os maiores orçamentos
+de investimento e, portanto, orçamento disponível
+para a inclusão de emendas. Essa distribuição tam-
+bém é interessante pelo indicativo que oferece da di-
+ferença no peso e importância dos ministérios nesse
+aspecto específico das emendas parlamentares.
+
+O gráfico abaixo apresenta a relação entre o parla-
+mentar e o ministro ao qual a emenda aprovada é
+vinculada.
+
+Gráfico 2. Relação Parlamentar-Ministro na Execução das Emendas
+
+40
+
+30
+1
+
+%
+20
+1
+
+10
+1
+
+ 
+
+Coalizão
+
+Fonte: elaboração própria.
+
+Fora da Coalizão
+
+Partido Ministro Partido Presidente
+
+RIEL — REVISTA IBERO-AMERICANA DE ESTUDOS LEGISLATIVOS :: N.4 :: MAI :: 2015 :: RIO DE JANEIRO :: FGV
+
+11 TR
+—
+O gráfico acima foca na relação entre o parlamentar
+eo ministro ao qual a emenda é vinculada. 40% das
+emendas aprovadas foram propostas por partidos
+membros da coalizão. Em seguida, 32,5% das emen-
+das foram propostas por partidos fora da coalizão
+governativa. Em 16,4% dos casos as emendas foram
+enviadas por parlamentares para ministérios con-
+trolados pelo mesmo partido que o seu. Emendas
+propostas por membros do partido do presidente
+a ministérios controlados também pelo partido do
+presidente aconteceram em 11% dos casos. O obje-
+tivo aqui é identificar se ministros executam mais
+emendas do seu próprio partido ou mecanismos de
+coordenação impostos pela presidência, principal-
+mente a partir da SRI minimizam a autonomia mi-
+nisterial, mantendo as decisões do governo de acor-
+do com as preferências do presidente.
+
+Para tanto, será realizado um modelo de regressão
+logística que busca estimar a probabilidade de exe-
+cução da emenda parlamentar, considerando como
+
+principal preditor a relação entre o parlamentar e
+o ministro. A variável independente será operacio-
+nalizada como um conjunto de variáveis dummy,
+na quala categoria de referência é a situação “par-
+lamentar e ministro são do mesmo partido”. O ob-
+jetivo é identificar se há um efeito diferencial de
+ser do mesmo partido do ministro sobre a chance
+de execução da emenda, comparando com as de-
+mais categorias: “partido da coalizão”, “partido
+fora da coalizão” e “mesmo partido do presiden-
+te”. Como controles serão incluídos efeitos fixos de
+ano e de ministério.
+
+A variável dependente também se caracteriza como
+uma variável dummy, assumindo valor quando a
+emenda é executada e O na situação contrária. Duas
+especificações são usadas, uma para execução no
+período total e outra apenas para execução no exer-
+cício corrente (no ano vigente da lei orçamentária).
+A distribuição das variáveis dependentes são apre-
+sentadas abaixo.
+
+Gráfico 3. Distribuição das Variáveis Dependentes - Execução da Emenda
+
+ol
+o
+od
+o
+ol
+o o
+e 927
+5 Se
+S s
+Ss uu
+5
+2 Ss
+o Ss
+9 ol 58
+o 2 ol
+e g gs
+E Et
+E S
+Es E
+uv
+E
+us
+ol
+a od
+aq
+o o
+
+ 
+
+ 
+
+ 
+
+Não Sim
+
+Fonte: elaboração própria.
+
+O painel esquerdo do gráfico apresenta a distribui-
+ção da execução total, mostrando que em torno
+de 66% das emendas parlamentares propostas ao
+orçamento e aprovadas não são efetivamente exe-
+cutadas. Essa proporção é ainda maior quando se
+considera a execução no exercício, apresentada no
+painel direito. Aqui 84% das emendas não são exe-
+cutadas. Isso quer dizer que aprovar a emenda não
+implica na sua execução. O orçamento é um recur-
+so escasso e pelo desenho institucional brasileiro
+o Executivo tem a prerrogativa na alocação desses
+recursos. A questão passa a ser como o Executivo
+escolhe quais emendas serão priorizadas e quais
+serão ignoradas. Quem ganha e quem perde, quan-
+
+Não Sim
+
+do e por que para parafrasear a clássica definição
+de política.
+
+Considerando que o Executivo brasileiro não pode
+ser identificado exclusivamente com o presidente,
+sendo composto por diferentes partidos controlando
+os ministérios para os quais as emendas são envia-
+das, o objetivo é justamente identificar em que me-
+dida os ministros são capazes de usar a sua posição
+de decisão no governo para extrair rendas para o seu
+próprio partido. Espera-se que emendas enviadas por
+parlamentares do mesmo partido do ministro tenham
+maior probabilidade de execução. Os resultados para
+esse teste são apresentados na tabela a seguir.
+
+RIEL — REVISTA IBERO-AMERICANA DE ESTUDOS LEGISLATIVOS :: N.4 :: MAI :: 2015 :: RIO DE JANEIRO :: FGV
+Tabela 2. Conexão Parlamentar-Ministro e Execução de Emendas ao Orçamento
+
+ 
+
+VD: Execução total
+
+VD: Execução Exercício
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Modelo 1 Modelo 2 Modelo 3 Modelo 4
+-.J28*** ;B25*++ <2.133*** -.506***
+Constante
+(.022) (.053) (.033) (.077)
+z ” * ++
+Partido Presidente -Oe2 “006 -087 148
+(.035) (.039) (.052) (.061)
+4Gr** = 430*** - 208*** = 104***
+Partido Coalizão 140 140 208 104
+(.026) (.028) (.041) (.044)
+uGG*** = 469** - 608*** . B39++*
+Partido Fora Coalizão 465 “469 508 532
+(.028) (.030) (.045) (.049)
+Dummy Ano Não Sim Não Sim
+Dummy Ministério Não Sim Não Sim
+Log Likelihood -33288.318 -30915.886 -16204.708 -14555.308
+Lr Chi? 373.61*** 5103.87*** 268.69*** 3563.59***
+N 56254 56232 56254 56232
+
+ 
+
+Coeficientes reportados. Erro padrão entre parênteses.
+* Sig 0.10; ** Sig 0.05; *** Sig 0.01.
+
+Os resultados acima mostra o efeito da relação entre
+o parlamentar e o ministro sobre a probabilidade de
+execução da emenda. “Mesmo partido do ministro”
+é a categoria de referência, de forma que a direção e
+efeito das demais categorias são sempre considera-
+das em relação aos parlamentares do mesmo partido
+do ministro. Os dois primeiros modelos analisam a
+execução total e os dois últimos a execução no mes-
+mo exercício.
+
+Nos dois primeiros modelos que tratam da execu-
+ção total pode-se notar o sinal negativo em todas
+três categorias analisadas em referência aos par-
+lamentares do mesmo partido do ministro. Isto é,
+comparando com parlamentares do mesmo partido
+do ministro, emendas propostas por parlamenta-
+res do mesmo partido do presidente, parlamenta-
+res de outros partidos da coalizão e parlamentares
+fora da coalizão tem menor probabilidade de exe-
+cução. Contudo, esse resultado não é estatistica-
+mente significativo para os parlamentares do mes-
+mo partido do presidente, significando que não há
+diferença na probabilidade de execução da emenda
+para parlamentares do mesmo partido do ministro.
+Esse resultado se mantém incluindo controles do
+ano e de ministério. De forma geral esse resultado
+indica que há uma escala de prioridades na aloca-
+ção de recursos pelo Executivo: primeiramente os
+parlamentares do mesmo partido que controla o
+ministério, os parlamentares do mesmo partido do
+presidente, os parlamentares dos demais partidos
+da coalizão e por último os parlamentares fora da
+coalizão de governo.
+
+Os dois últimos modelos analisam a execução de
+emendas no exercício. A execução no exercício pode
+
+ser considerada como execução prioritária. São
+as emendas executadas primeiro num contexto de
+restrição orçamentária. Aqui a relação se altera um
+pouco. A probabilidade de execução das emendas de
+parlamentares do partido do presidente é maior do
+que dos parlamentares do mesmo partido do minis-
+tro, indicando que a prioridade é o partido do pre-
+sidente. Para os demais membros da coalizão e para
+os partidos fora da coalizão a relação se mantém
+negativa e significativa.
+
+Um comentário adicional sobre esse resultado é
+importante. O efeito negativo de estar fora do go-
+verno já é esperado e identificado na literatura. A
+execução de emendas é vista como uma forma de
+recompensar os parlamentares pelo apoio político
+e estar fora da coalizão anuncia a exclusão desses
+benefícios. Contudo, não foi ainda explorado como
+a engrenagem funciona no sentido de executar as
+emendas dos partidos da coalizão. A escala de prio-
+ridades mostrada acima indica que o ministro prio-
+riza primeiro o seu próprio partido e o partido do
+presidente, em seguida os demais partidos da coa-
+lizão e em último lugar os partidos fora da coalizão.
+Os quatro modelos são significativos como um todo
+como indicado pelo Lr Chi?. Quanto ao total de ob-
+servações analisadas na regressão, a diferença se dá
+devido ao fato de que para 13.698 emendas não foi
+possível estabelecer a relação entre o parlamentar
+eo ministro, seja por se tratar de emendas de ban-
+cada ou por não indicar o partido do parlamentar.
+Dessa forma, o número de observações total para a
+análise de regressão foi de 56.254 emendas. Como
+os coeficientes da regressão logística não estão
+transformados, a sua interpretação substantiva é
+feita com base nos gráficos apresentados abaixo.
+
+RIEL — REVISTA IBERO-AMERICANA DE ESTUDOS LEGISLATIVOS :: N.4 :: MAI :: 2015 :: RIO DE JANEIRO :: FGV
+
+13
+Gráfico 4. Conexão Parlamentar-Ministro e Probabilidade de Execução (95% I.C.)
+
+19
+O,
+
+Pr(Execução Emenda)
+25;
+
+ 
+
+ 
+
+Presidente
+
+Partido Ministro |
+
+Fonte: elaboração própria.
+
+O gráfico acima mostra a escala de prioridades na
+execução de emendas parlamentares ao orçamen-
+to, dependendo da relação do parlamentar com o
+ministro ao qual a emenda está vinculada. O gráfi-
+co mostra que não há diferença estatística entre a
+probabilidade de execução de emendas do mesmo
+partido do ministro e emendas de parlamentares do
+
+Coalizão —|
+
+Fora da Coalizão +
+
+partido do presidente. A probabilidade de execução
+é 0.30. Quando se trata de emendas dos demais par-
+tidos da coalizão essa probabilidade já cai para 0.27.
+Por último, a probabilidade de execução de emen-
+das de parlamentares fora da coalizão é de 0.21. O
+gráfico 4 apresenta a probabilidade de execução no
+exercício.
+
+Gráfico 4. Conexão Parlamentar-Ministro e Probabilidade de Execução no Exercício (95% 1.C.)
+
+ 
+
+ 
+
+a
+a
+2
+5 8
+» º
+5
+2
+= =
+o
+Ss Ss
+E
+5
+E
+o
+o
+8 8
+S.
+s
+3
+$
+ER
+o
+[4
+8
+a) T T 1
+o
+g £ R É
+a õ :s s
+E s S S
+E e S S
+= a S S
+o x o
+e - S
+5 g
+s
+e e
+
+Fonte: elaboração própria.
+
+Em geral a probabilidade de execução no exercício
+é muito baixa. Porém,, há diferenças entre os par-
+lamentares na prioridade de execução. Primeira-
+mente estão os parlamentares do mesmo partido do
+presidente (0.085), seguidos por parlamentares do
+mesmo partido do ministro (0.075), depois os parla-
+mentares dos demais partidos da coalizão (0.068) e
+por último os partidos fora da coalizão (0.042).
+
+Três resultados principais podem ser derivados
+dessa análise. Primeiro, controlar um ministério
+pode ser um instrumento fundamental para ga-
+rantir acesso as decisões do Executivo, incluindo
+a execução de emendas parlamentares. O efeito
+negativo de estar fora do governo já é esperado
+e identificado na literatura. A execução de emen-
+das é vista como uma forma de recompensar os
+
+RIEL — REVISTA IBERO-AMERICANA DE ESTUDOS LEGISLATIVOS :: N.4 :: MAI :: 2015 :: RIO DE JANEIRO :: FGV
+
+ 
+parlamentares pelo apoio político e estar fora da
+coalizão anuncia a exclusão desses benefícios. A
+escala de prioridades mostrada acima indica que
+o ministro prioriza primeiro o seu próprio partido
+eo partido do presidente, em seguida os demais
+partidos da coalizão e em último lugar os partidos
+fora da coalizão.
+
+Segundo, o fato de os ministros não serem capazes de
+beneficiar mais o seu partido do que o partido do pre-
+sidente ou excluir totalmente os demais partidos da
+coalizão mostram a efetividade dos mecanismos de
+coordenação da coalizões instituídos na Presidência
+da República, principalmente através da Secretaria
+de Relações Institucionais que recebe as demandas
+dos parlamentares e monitora os ministros para que
+os interesses do presidente sejam mantidos.
+
+Terceiro o efeito da relação com o ministro é peque-
+no quando se considera a mudança na probabilidade
+de execução. Isso indica que características do par-
+lamentar como a disciplina partidária ou do estado
+ao qual a emenda é destinado, características já
+analisadas pela literatura e que não se constituem
+no foco da presente análise, podem ser mais impor-
+tantes quando o que está e jogo é a execução de
+emendas. O resultado aqui apresenta não deixa de
+ser relevante uma vez que aponta para mais um dos
+fatores a influenciar a alocação de recursos e indica
+
+Referências Bibliográficas
+
+a influência dos ministros no processo decisório do
+presidencialismo de coalizão brasileiro.
+
+5. Conclusão
+
+O presente trabalho teve por objetivo principal ana-
+lisar o papel dos ministros na alocação de recursos
+pelo Poder Executivo federal. O foco está nas emen-
+das parlamentares ao orçamento, avaliando em que
+medida os ministros se configuram como um canal
+privilegiado para os membros do seu partido no Con-
+gresso através da análise da execução das emendas
+por ministério. Há um viés partidário na alocação
+de recursos? Isto é, as emendas dos parlamentares
+do partido do ministro são beneficiados com maior
+chance de execução de suas emendas?
+
+Os resultados sugerem que os parlamentares do par-
+
+tido do ministro são sim beneficiados. Contudo, o
+“governo ministerial” (Laver e Shepsle, 1990) não se
+impõe e os parlamentares do partido do presidente
+são igualmente beneficiados e os parlamentares dos
+demais partidos da coalizão também recebem recur-
+sos. Nesse sentido, as instituições de coordenação do
+governo, principalmente a SRI, atuam no sentido de
+minimizar os efeitos negativos da autonomia minis-
+terial e garantir um resultado mais próximo das pre-
+ferências do presidente.
+
+ALSTON, Lee; MELO, Marcus; MULLER, Bernardo; PEREIRA, Carlos (2009). “Presidential Power, Fiscal Responsibility
+Laws, and the Allocation of Spending: The Case of Brazil”. In: HALLERBERG, Mark; SCARTASCINI, Carlos;
+STEIN, Ernesto: lho Decides the Budget: a political economy analysis of the budget process in Latin America.
+Inter-American Development Bank.
+
+AMORIM NETO, Octávio (2006). Presidencialismo e Governabilidade nas Américas. Editora Fgv: Rio de Janeiro.
+
+BERRY, Christopher; BURDEN, Barry; HOWELL, Howell (2010). “The President and the Distribution of Federal
+Spending.” American Political Science Review, v. 104.
+
+BUDGE, Ian; LAVER, Michael (1986). “Office Seeking and Policy Pursuit in Coalition Theory”. Legislative Studies
+Quarterly, Vol. 11, No. 4.
+
+CHEIBUB, José Antônio; PRZEWORSKI, Adam; SAIEGH, Sebastian (2002). “Governos de Coalizão nas Democracias
+
+Presidencialistas e Parlamentaristas”. Dados, 45, 2.
+
+DE SWAAN, Abram (1973). Coalition Theories and Cabinet Formation. Amsterdam: Elsevier.
+
+EDWARDS III, George; KESSEL, John; ROCKMAN, BERT (EDs) (1993). Researching the Presidency: vital questions,
+
+new approaches. University of Pittsburgh Press: Pittsburgh.
+
+FIGUEIREDO, Argelina; LIMONGI, Fernando (2001). Executivo e Legislativo na Nova Ordem Constitucional. Editora
+
+FGV: Rio de Janeiro.
+
+FIGUEIREDO, Argelina; LIMONGI, Fernando (2008). Política Orçamentária e Presidencialismo de Coalizão. Editora
+
+FGV: Rio de Janeiro.
+
+FIGUEIREDO, Argelina (2007). “Governments Coalitions in Brazilian Democracies”. Brazilian Journal of Political
+
+Science, v. 1, n.2.
+
+GAMSON, William (1961). “A Theory of Coalition Formation”. American Sociological Review, v. 26, n. 3.
+
+INÁCIO, Magna (2006). “Entre Presidir e Coordenar: presidência e gabinetes multipartidários no Brasil”. Paper
+
+preparado para apresentação no 3 Encontro Latino-americano de Ciência Política. Campinas - Brasil.
+
+LAVER, Michael; SHEPSLE, Kenneth (1990). “Coalitions and Cabinet Government”. American Political Science
+
+Review, v. 84, n. 3.
+
+LAVER, Michael; SHEPSLE, Kenneth (1994). Cabinet Ministers and Parliamentary Government. Cambridge University
+
+Press: Cambridge.
+
+MARTIN, Lanny; VANBERG, Georg (2011) Parliaments and Coalitions: The Role of Legislative Institutions in Multiparty
+Governance. Oxford: Oxford University Press.
+
+MOE, Terry (1985). “The Politicized Press”. In. John E. Chubb & Paul E. Peterson: The New Directions in American
+Politics. The Bookings Institution: Washington.
+
+ 
+
+RIEL — REVISTA IBERO-AMERICANA DE ESTUDOS LEGISLATIVOS :: N.4 :: MAI :: 2015 :: RIO DE JANEIRO :: FGV
+MULLER, Wolfgang; STROM, Kaare (1999). Policy, Office or Votes: how political parties in Western Europe make hard
+decisions”. Cambridge: Cambridge University Press.
+
+MULLER, Wolfgang; STROM, Kaare (2000). Coalition Governments in Western Europe. Oxford University Press: Oxford.
+
+NEUSTADT, Richard (1961). Presidential Power: the politics of leadership. John Wiley & Sons: New York - London.
+
+PEREIRA, Carlos; RENNÓ, Lúcio (2001). “O que é que o Reeleito Tem? Dinâmicas Político-Institucionais Locais e
+Nacionais nas Eleições de 1998 para a Câmara dos Deputados”. Dados, V. 44, N. 2.
+
+PEREIRA, Carlos; MULLER, Bernardo (2003). “Partidos fracos na arena eleitoral e partidos fortes na arena
+legislativa: a conexão eleitoral no Brasil”. Dados, V. 46, N. 4.
+
+PEREIRA, Carlos; MULLER, Bernardo (2003). “The cost of governing: strategic behavior in Brazil's budgetary
+process”. Textos para Discussão, N. 304, Universidade de Brasília.
+
+RAILE, Eric; PEREIRA, Carlos; POWER, Timothy (2010). “Executive Toolbox: building legislative support in a
+multiparty presidential regime”. Textos para discussão, N. 235, Escola de Economia de São Paulo.
+
+RUDALEVIGE, Andrew (2002). Managing the President's Program: presidential leadership and legislative policy
+formulation. Princeton University Press: New Jersey.
+
+RUDALEVIGE, Andrew; LEWIS, David (2005). “Parsing the Politicized Presidency: centralization and politicization
+as presidential strategies for bureaucratic control”. Paper prepared for presentation at the 2005 Annual
+Meeting of the American Political Science Association, Washington, DC.
+
+THIES, Michael (2001). “Keeping tabs on partners: the logic of delegation in coalition governments”, American
+Journal of Political Science, v. 45, n. 3.
+
+Notas
+
+1 Versão anterior desse trabalho foi apresentado no 36º Encontro Anual da Anpocs, no Grupo de Trabalho “Es-
+tudos Legislativos”. Agradeço aos pertinentes comentários do coordenador do Gt Gustavo Grohmann. Agra-
+deço ainda a Fernando Ramalho do Senado Federal pela atenção e paciência na ajuda com os dados das emen-
+das parlamentares ao orçamento. Agradeço ainda a Argelina Figueiredo pela disponibilização de seu banco
+de dados sobre os ministros brasileiros e a Ana Regina Amaral, da Câmara dos Deputados, pelas inúmeras
+dúvidas respondidas. Qualquer imprecisão remanescente é de minha total responsabilidade.
+
+Mestre e doutora em Ciência Política pela Universidade Federal de Pernambuco. Professora Adjunta do De-
+partamento de Ciência Política da mesma instituição. Pesquisa nas áreas de Poder Executivo e Governos de
+Coalizão, Agências Reguladoras, Corrupção e Metodologia Política. Trabalhos publicados em Revista Brasilei-
+ra de Ciências Sociais, Opinião Pública e Brazilian Political Science Review. mariana. bsilva(m gmail.com
+
+RIEL — REVISTA IBERO-AMERICANA DE ESTUDOS LEGISLATIVOS :: N.4 :: MAI :: 2015 :: RIO DE JANEIRO :: FGV
+
+16 TN
+—
+

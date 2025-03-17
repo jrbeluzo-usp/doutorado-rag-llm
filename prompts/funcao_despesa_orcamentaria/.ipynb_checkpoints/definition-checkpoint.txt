@@ -1,0 +1,112 @@
+<definitions>1. Administração
+Subfunções:
+Planejamento e Orçamento: Engloba atividades de formulação, implementação e avaliação do planejamento e orçamento público.
+Administração Geral: Inclui despesas para manter a estrutura administrativa e os serviços comuns a todas as áreas de governo.
+Controle Interno: Abrange atividades relacionadas ao controle e fiscalização dos atos administrativos.
+Administração Financeira: Atividades de gestão financeira e de arrecadação.
+2. Assistência Social
+Subfunções:
+Assistência à Criança e ao Adolescente: Programas de proteção à infância e adolescência.
+Assistência ao Idoso: Destina-se ao suporte para idosos.
+Assistência ao Portador de Deficiência: Apoio a pessoas com deficiência física ou mental.
+Assistência Comunitária: Atividades voltadas para o desenvolvimento comunitário e a inclusão social.
+3. Educação
+Subfunções:
+Ensino Fundamental: Envolve atividades do ensino fundamental.
+Ensino Médio: Refere-se às despesas do ensino médio.
+Ensino Superior: Abrange o ensino universitário.
+Educação Infantil: Inclui a educação em creches e pré-escolas.
+Educação de Jovens e Adultos: Alfabetização e capacitação de adultos.
+Educação Profissional: Envolve o ensino técnico e profissionalizante.
+4. Saúde
+Subfunções:
+Atenção Básica: Atividades de atenção primária à saúde.
+Assistência Hospitalar e Ambulatorial: Atividades em hospitais e ambulatórios.
+Vigilância Sanitária: Fiscalização de normas de saúde.
+Vigilância Epidemiológica: Controle de doenças e endemias.
+Alimentação e Nutrição: Programas de suporte alimentar e nutricional.
+5. Segurança Pública
+Subfunções:
+Polícia Judiciária: Atividades da polícia investigativa e judiciária.
+Policiamento: Policiamento ostensivo para prevenção de crimes.
+Defesa Civil: Ações de defesa e segurança em desastres.
+Inteligência: Atividades de inteligência e investigação.
+6. Defesa Nacional
+Subfunções:
+Operações de Paz: Missões de paz e cooperação militar.
+Defesa Naval, Aérea e Terrestre: Operações militares das Forças Armadas.
+7. Direitos da Cidadania
+Subfunções:
+Direitos Individuais e Coletivos: Proteção dos direitos humanos.
+Assistência ao Indígena: Suporte e proteção às populações indígenas.
+Igualdade e Promoção Social: Promoção da igualdade e integração social.
+8. Trabalho
+Subfunções:
+Emprego e Renda: Políticas para geração de emprego e renda.
+Fiscalização do Trabalho: Inspeções para cumprimento da legislação trabalhista.
+Segurança e Saúde no Trabalho: Prevenção de acidentes e proteção à saúde dos trabalhadores.
+9. Previdência Social
+Subfunções:
+Aposentadorias: Pagamento de aposentadorias.
+Pensões e Benefícios: Assistência a pensionistas e segurados.
+10. Habitação
+Subfunções:
+Desenvolvimento Urbano: Planejamento e execução de políticas urbanas.
+Habitação Urbana: Políticas de habitação nas áreas urbanas.
+Habitação Rural: Políticas de habitação nas áreas rurais.
+11. Saneamento
+Subfunções:
+Saneamento Básico Urbano: Infraestrutura de saneamento nas cidades.
+Saneamento Básico Rural: Infraestrutura de saneamento em áreas rurais.
+Resíduos Sólidos: Gerenciamento e destinação de resíduos.
+12. Cultura
+Subfunções:
+Patrimônio Histórico e Artístico: Preservação e restauração de patrimônio cultural.
+Difusão Cultural: Promoção e incentivo a atividades culturais.
+13. Ciência e Tecnologia
+Subfunções:
+Desenvolvimento Científico: Pesquisa e inovação científica.
+Pesquisa e Desenvolvimento Tecnológico: Inovação tecnológica aplicada.
+14. Comunicações
+Subfunções:
+Correios: Serviços de correspondência e entrega.
+Telecomunicações: Serviços de comunicação e transmissão de dados.
+Difusão de Informações: Publicações e transmissão de informações públicas.
+15. Energia
+Subfunções:
+Energia Elétrica: Distribuição e geração de eletricidade.
+Energia Nuclear: Atividades de energia nuclear.
+Recursos Hídricos: Gestão e distribuição de água.
+16. Transporte
+Subfunções:
+Rodoviário, Ferroviário, Aquaviário e Aeroviário: Gestão de transportes terrestres, aquáticos e aéreos.
+Transporte Público: Mobilidade urbana e interurbana.
+17. Desporto e Lazer
+Subfunções:
+Esporte Comunitário: Atividades esportivas comunitárias.
+Desporto de Alto Rendimento: Apoio ao esporte profissional e de alto rendimento.
+18. Organização Agrária
+Subfunções:
+Reforma Agrária: Redistribuição de terras e incentivo à agricultura familiar.
+Colonização: Políticas de ocupação territorial.
+19. Indústria
+Subfunções:
+Desenvolvimento Industrial: Incentivo ao crescimento industrial.
+20. Comércio e Serviços
+Subfunções:
+Comércio Interior e Exterior: Promoção do comércio interno e externo.
+21. Agricultura
+Subfunções:
+Agricultura Familiar: Apoio a pequenos produtores.
+Grande Agricultura: Incentivo ao agronegócio.
+22. Encargos Especiais
+Subfunções:
+Serviço da Dívida: Pagamento de juros e amortizações da dívida pública.
+Reserva de Contingência: Reservas para imprevistos e emergências.
+Turismo
+Subfunções:
+Fomento ao Turismo: Inclui políticas e ações que incentivam o turismo, como a promoção de destinos turísticos, campanhas publicitárias e apoio a eventos culturais e turísticos.
+Infraestrutura Turística: Envolve investimentos na infraestrutura necessária para suportar o turismo, como construção e manutenção de centros de apoio ao turista, sinalização de pontos turísticos, entre outros.
+Capacitação e Qualificação: Inclui programas de capacitação para profissionais do setor turístico, promovendo a qualificação de guias, recepcionistas e outros profissionais.
+Desenvolvimento de Produtos e Roteiros Turísticos: Incentiva a criação de novos produtos turísticos e a estruturação de roteiros para diversificar e ampliar a oferta turística do país.
+</definitions>

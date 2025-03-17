@@ -1,0 +1,17 @@
+[ANSWER_EXAMPLES]
+Esta resposta poderá ser univalorada ou multivalorada. Siga os exemplos a seguir de acordo com o encontrado no contexto:
+
+Esta resposta poderá ser univalorada ou multivalorada. Siga os exemplos a seguir de acordo com o encontrado no contexto:
+
+Exemplo de Resposta 1 (univalorada): 
+{"esfera_governamental": "Federal"}
+
+Exemplo de Resposta 2 (multivalorada): 
+{"esfera_governamental": "Federal; Estadual;Municipal"}
+
+Exemplo de Resposta 3 (multivalorada): 
+{"esfera_governamental": "Estadual; Municipal"}
+
+Exemplo de Resposta 4 (univalorada - Quando não encontrar a resposta no contexto): 
+{"esfera_governamental": "-1"}
+[/ANSWER_EXAMPLES]

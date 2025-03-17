@@ -1,0 +1,3129 @@
+ 
+
+SENADO FEDERAL
+UNIVERSIDADE DO LEGISLATIVO BRASILEIRO
+UNILEGIS
+
+CARLOS MELLO MARSHALL
+
+OS CRÉDITOS EXTRAORDINÁRIOS ABERTOS POR MEDIDA
+PROVISÓRIA: UM ORÇAMENTO PARALELO?
+
+BRASÍLIA
+2008
+O
+e
+
+UNILEGIS
+
+CARLOS MELLO MARSHALL
+
+OS CRÉDITOS EXTRAORDINÁRIOS ABERTOS POR MEDIDA
+PROVISÓRIA: UM ORÇAMENTO PARALELO?
+
+Trabalho final apresentado para aprovação no
+curso de pós-graduação lato sensu em Ciência
+Política realizado pela Universidade do
+Legislativo Brasileiro e Universidade Federal
+do Mato Grosso do Sul como requisito para
+obtenção do título de especialista em Ciência
+Política em 2008.
+
+Orientador: Prof. Dr. Caetano Emesto Pereira
+de Araújo
+
+BRASÍLIA
+2008
+OS CRÉDITOS EXTRAORDINÁRIOS ABERTOS POR MEDIDA
+PROVISÓRIA: UM ORÇAMENTO PARALELO?
+
+Trabalho de Conclusão do Curso de Especialização em Ciência Política
+realizado pela Universidade do Legislativo Brasileiro e Universidade Federal
+do Mato Grosso do Sul no 1º semestre de 2008.
+
+Aluno: Carlos Mello Marshall
+
+Banca Examinadora:
+Prof. Dr. Caetano Emesto Pereira de Araújo - Orientador
+
+Profê. Drê Leany Barreiro de Sousa Lemos - Professor convidado
+
+Brasília, 3 de Dezembro de 2008.
+DEDICATÓRIA
+
+Aos meus pais, Isnard e Mariza, por todas as
+lições de vida recebidas.
+
+À minha esposa, Norma, por ter ficado ao meu
+lado em todos os momentos desta caminhada.
+
+Aos meus filhos, Rogério e Rafael e à minha
+enteada Carolina, pelo apoio incondicional.
+AGRADECIMENTOS
+
+Ao Senado Federal, por ter me dado a oportunidade de ampliar os meus conhecimentos em
+Ciência Política neste curso de especialização.
+
+Ao colega e orientador, Prof. Dr. Caetano Emesto Pereira de Araújo, pelas sugestões
+recebidas, sempre pertinentes e úteis.
+
+Ao diretor da Subsecretaria de Apoio Técnico da Consultoria de Orçamentos, Fiscalização e
+Controle do Senado Federal, Leonei Gomes de Oliveira, pelo apoio recebido na elaboração
+das consultas aos bancos de dados do SIGA Brasil.
+EPÍGRAFE
+
+“Creio no povo, anônimo e coletivo, com todos
+os seus contrastes, desde a febre criadora à
+mansidão paciente. Creio ser desse amálgama,
+dessa fusão de lama e emoções, que emana não
+apenas o Poder, mas a própria sabedoria. E,
+nele crendo, não posso desacreditar de seus
+delegados. Creio na palavra, ainda quando viril
+ou injusta, porque acredito na força das idéias e
+no diálogo que é seu livre embate. Creio no
+regime democrático, que não se confunde com
+a anarquia, mas que em instante algum possa
+rotular ou mascarar a tirania. Creio no
+Parlamento, ainda que com suas demasias e
+fraquezas, que só desaparecerão se o
+sustentarmos livre, soberano e independente.
+Creio na liberdade, este vínculo entre o homem
+e a eternidade, essa condição indispensável
+para situar o ser à imagem e semelhança de seu
+Criador"
+
+Mário Covas (12/12/1968)
+RESUMO
+
+As constituições brasileiras, regra geral, adotaram o princípio da separação dos poderes,
+sistematizado por Montesquieu. A Constituição de 1988 o consagrou como cláusula pétrea. A
+par disso, dotou o Poder Executivo de um poderoso instrumento que o permite legislar de
+forma excepcional: a medida provisória, sucedânea do decreto-lei, de larga utilização na Era
+Vargas e no período da ditadura militar. A medida provisória deve ser empregada, segundo a
+Constituição de 1988, apenas em casos de relevância e urgência. Ela também é utilizada para
+abrir créditos extraordinários à lei orçamentária anual. Nesse caso em particular, a
+Constituição de 1988 exige também que a despesa a ser coberta pelo crédito seja imprevisível.
+Recentemente, a edição recorrente de medidas provisórias editadas pelo atual Presidente da
+República sem a observância, na visão dos partidos políticos de oposição, dos pressupostos
+constitucionais de urgência e relevância, levou o Partido da Social Democracia Brasileira a
+ingressar com uma ação no Supremo Tribunal Federal questionando a ausência daqueles
+pressupostos em uma determinada medida provisória. O Supremo Tribunal Federal decidiu,
+liminarmente, no sentido de suspender a vigência do diploma questionado. No julgamento, o
+ministro Celso de Mello, em seu voto, reproduziu trecho no qual o autor da ação argumenta
+que o Presidente da República, ao abusar da edição de medidas provisórias para abrir créditos
+extraordinários, cria uma espécie de “orçamento paralelo”. O presente trabalho tem como
+objeto verificar a veracidade daquela assertiva, ou seja, se as medidas provisórias que abrem
+créditos extraordinários afetam a lei orçamentária aprovada e a sua execução financeira a
+ponto de configurarem um “orçamento paralelo”. A dotou-se como hipótese a ser testada a de
+que, se adotado como parâmetro da pesquisa o Grupo de Natureza da Despesa, os créditos
+extraordinários abertos entre 2003 e 2007 modificariam a distribuição percentual das despesas
+autorizadas pelo Congresso Nacional nas leis orçamentárias anuais, o que configuraria um
+afastamento das prioridades nacionais lá estabelecidas e, em consequência, a existência de um
+“orçamento paralelo”. Adicionalmente, o trabalho analisa a distribuição percentual dos
+créditos extraordinários entre os grupos de natureza de despesa, tanto nos orçamentos
+autorizados como na execução financeira. Ademais, para o grupo de maior interesse dos
+parlamentares - o grupo Investimentos -, examina a repartição dos valores pagos entre as
+funções e programas. Por fim, conclui que os créditos extraordinários alteraram, em todos os
+anos estudados, a distribuição percentual dos grupos de natureza de despesa dos orçamentos
+autorizados e da execução financeira, o que confirma a hipótese de trabalho inicial.
+
+Palavras-chave: Créditos extraordinários. Medida provisória.
+LISTA DE TABELAS
+
+Tabela 1- Leis aprovadas por autoria de iniciativa, exceto decretos-leis....................... 31
+Tabela 2 - Leis aprovadas por autoria de iniciativa, inclusive decretos-leis.................... 32
+Tabela 3 - Leis aprovadas por autoria de iniciativa e MP's originárias aprovadas.......... 32
+Tabela 4 - Medidas provisórias de créditos extraordinários: 2003-2007... 41
+Tabela 5 - Efeito global dos créditos extraordinários nos orçamentos autorizados:
+2003-200 escopo Denon 41
+Tabela 6 - Distribuição percentual dos grupos de natureza de despesa para os valores
+autorizados: 2003-2007 asas nasais ana area aa oa 42
+Tabela 7 - Efeito dos créditos extraordinários nos orçamentos autorizados de 2003, por
+grupo de natureza de despesa... reererereerereererererrerereaeaerenearerere are rerersarenenos 43
+Tabela 8 - Efeito dos créditos extraordinários nos orçamentos autorizados de 2004, por
+grupo de natureza de dESDESA.. ssa esa nana nano 43
+
+Tabela 9 - Efeito dos créditos extraordinários nos orçamentos autorizados de 2005, por
+
+ 
+
+grupo de natureza de despesa. 44
+Tabela 10 - Efeito dos créditos extraordinários nos orçamentos autorizados de 2006,
+por grupo de natureza de despesa............eemereeareeararararararararararaearararararararaeararanas 45
+Tabela 11 - Efeito dos créditos extraordinários nos orçamentos autorizados de 2007,
+por grupo de natureza de despesa................reeeeeeerrereereaererearereneasererersaserenensa 45
+Tabela 12 - Emendas aprovadas no grupo Investimentos: 2003-2007........................... 46
+Tabela 13 - Efeito global dos créditos extraordinários na execução financeira: 2003-
+70 (0 AR 47
+Tabela 14 - Distribuição percentual dos grupos de natureza de despesa para os valores
+pagos: 2003-2007 «susana nao nes aa ns aa ns eae 48
+
+Tabela 15 - Efeito dos créditos extraordinários na execução financeira de 2003, por
+grupo de natureza de despesa.
+Tabela 16 - Efeito dos créditos extraordinários na execução financeira de 2004, por
+grupo de natureza de despesa.
+Tabela 17 - Efeito dos créditos extraordinários na execução financeira de 2005, por
+
+grupo de natureza. dO dESDESA.. ssa amenos nana 50
+Tabela 18 - Efeito dos créditos extraordinários na execução financeira de 2006, por
+
+grupo de natureza de despesa.
+Tabela 19 - Efeito dos créditos extraordinários na execução financeira de 2007, por
+grupo de natureza de despesa.
+Tabela 20 - Efeito dos créditos extraordinários nos orçamentos autorizados e na
+
+   
+
+   
+
+execução financeira, para os principais grupos de natureza de despesa... 52
+Tabela 21 - Efeito dos créditos extraordinários na execução financeira do grupo
+Investimentos, em 2006: principais funções e programas...............imseseemeea 53
+
+ 
+
+Tabela 22 - Efeito dos créditos extraordinários na execução financeira do grupo
+Investimentos, em 2007: principais funções e programas...............emeemeea 3
+SUMÁRIO
+
+1 INTRODUÇÃO... eee 10
+2 O PRINCÍPIO DA SEPARAÇÃO DOS PODERES.............mems 13
+3 A COMPETÊNCIA LEGISLATIVA DO PODER EXECUTIVO NO
+
+BRASIL san acasos 17
+3:1.A Consumiiçao de 1824. apra ecoa remos 17
+3.2 A Constituição de 1891... rreeeeeearereeeeerererernrerecereraseeesa 17
+3.3 0 Decreto nº 19.938/30.............ii ci serem remeneeremeeeerereerererereerereeeers 18
+3.4 A Constituição de 1934... reeeeeeaeeraeea rara rara re rare ererereress 18
+3.5 A Constituição de 1937... erereereeeeereraeeeeere rare raraererererereenea 19
+3.6 A Constituição de 1946... erreereeeeererareeeeere rare rareerererereseeaea 20
+3.7 Os Atos Institucionais emitidos entre 1964 e 1967... 20
+3.8 A Constituição de 1967, outros Atos Institucionais e a Emenda
+
+Constitucional nº 1, de 1969............. er erreeereeaeeneeerereeereararanas 21
+3.9A Constituição-Cidadã de 1988... reeeeeeeeeeeerrrerareraes 23
+3.10 A Medida Provisória..........eeeeeeeereeereeeemererererereerererereeeeererata 25
+3.11 A produção legislativa do Poder Executivo no período republicano
+
+PECENE. ucrmasamaramancanis aa 31
+4 A MEDIDA PROVISÓRIA COMO INSTRUMENTO PARA A
+
+ABERTURA DE CREDITO EXTRAORDINÁRIO...............ss 34
+4.1 Histórico... ereereeeeereerrerererereereerererener erre rece reereerererererenereeserata 34
+4,2 A tramitação no Congresso Nacional.................seesneemsnena 37
+
+5 O EFEITO DOS CRÉDITOS ORÇAMENTÁRIOS NOS
+ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL (2003-2007)... 39
+
+5.1 Definições... eeeeerereerieeereraseereaaiaeraeaaraeecaraere raise ee easeereneeresa 39
+5.2 Simplificações e conseguências.............iireemeeeemeeeerereeerereererereees 40
+5.3 Os créditos extraordinários no período 2003-2007... 41
+5.4 O efeito global dos créditos extraordinários nos orçamentos
+
+EUTONZAÇOS. acessam aa na 41
+5.5 O efeito dos créditos extraordinários nos orçamentos autorizados, por
+
+grupo de natureza de despesa.............eeeereereeereeaeraeeeereerererraeitas 42
+
+5.6 O efeito global dos créditos extraordinários na execução
+IIANCOITA, ssa esa cr aa caça 47
+5.7 O efeito dos créditos extraordinários na execução financeira, por grupo
+
+de natureza de despesa: suma asus mana casaca aan asaDam ana
+5.8 O efeito dos créditos extraordinários na execução financeira do grupo
+Investimentos, por função e por programa..............emeeeeeneemerereraereos 2
+6 CONCLUSÕES............... ci iteeermeeeemeermeeeremeerteeee remo reeeeerreereemaettos 55
+
+REFERÊNCIAS... eae eee tee teares 58
+10
+
+1 INTRODUÇÃO
+
+A teoria da separação dos poderes, idealizada por Montesquieu, foi por ele
+sistematizada na obra O Espírito das Leis e está inscrita na maioria das constituições
+republicanas do século XX. A segregação das funções do Estado e o controle recíproco entre
+os seus Poderes se constituem nos dois pilares da teoria. Assim, ela preconiza uma divisão das
+funções do Estado entre três Poderes: o Executivo, o Legislativo e o Judiciário. Em paralelo,
+admite algum espaço de competência concorrente, com o objetivo de produzir um equilíbrio
+entre eles (MONTESQUIEU, 2000).
+
+As constituições republicanas brasileiras, à exceção daquelas dos períodos ditatoriais,
+não se afastaram do paradigma de Montesquieu, tendo adotado a tripartição de Poderes e um
+sistema capaz de proporcionar um equilíbrio entre eles!. Assim, cabe ao Poder Legislativo,
+via de regra, legislar. Entretanto, a Constituição de 1988, seguindo o exemplo da maioria das
+democracias contemporâneas, permite que o Poder Executivo, em condições especialíssimas,
+atue como legislador sob controle, a posteriori, do Poder Legislativo.
+
+O instrumento por excelência utilizado pelo Poder Executivo para exercer seu papel de
+legislador extraordinário foi, no passado, o decreto-lei; hoje, é a medida provisória, instituída
+pela Constituição de 1988. No entanto, desde o seu aparecimento no ordenamento jurídico
+pátrio ela tem sido mal utilizada, segundo um grande número de doutrinadores, juristas e
+parlamentares. Os questionamentos têm se concentrado principalmente no excessivo número
+de medidas provisórias adotadas e na ausência dos pressupostos constitucionais de urgência e
+relevância que deveriam balizar a sua utilização.
+
+A medida provisória também é, conforme dispõe o art. 167 da Carta Magna, o
+instrumento de que dispõe o Presidente da República para a abertura de créditos
+extraordinários à lei orçamentária anual. A Constituição de 1988 também exige, nesse caso
+em particular, que a despesa a ser coberta pelo crédito extraordinário seja imprevisível e
+urgente.
+
+As críticas à edição de medida provisória em geral e, em particular, àquelas com o
+objetivo de abrir créditos extraordinários, têm se exacerbado nos últimos anos. Essa situação
+levou o Partido da Social Democracia Brasileira, um dos partidos políticos de oposição ao
+Govemo Lula, a ingressar com uma Ação Direta de Inconstitucionalidade no Supremo
+Tribunal Federal (STF) (ADIN nº 4.048/DF, de 31/05/2008) questionando a
+
+! Denomina-se sistema de pesos e contrapesos ao arranjo, quase sempre constitucional, que tem esse objetivo.
+11
+
+constitucionalidade da Medida Provisória nº 405/2007 (MP nº 405/2007), que abria crédito
+extraordinário para diversos órgãos do Poder Executivo e do Poder Judiciário. O autor da ação
+argumentou que o fato que motivou a abertura do crédito não era imprevisível, não era
+relevante e não demandava uma providência urgente por parte do Estado. O STF decidiu,
+liminarmente, no sentido de suspender a vigência da Lei nº 11.658/2008 (lei de conversão da
+MP nº 405/2007) desde a sua publicação, em 22 de abril de 2008. No julgamento, o ministro
+Celso de Mello, em trecho de seu voto, destacou, das alegações do autor da ação, o seguinte
+trecho a respeito do efeito orçamentário causado pela edição abusiva de medidas provisórias
+para abertura de créditos extraordinários:
+[...]
+Para que se tenha uma idéia da gravidade da situação, de 10.01.2007 até 17.04.2008,
+foram editadas 23 medidas provisórias relativas à abertura de créditos
+extraordinários que somam, aproximadamente, R$ 62,5 bilhões. O orçamento da
+União, no ano passado, ficou em algo em tomo de R$ 1,2 a 1,4 trilhão.
+Desconsiderada a dívida pública, o valor fica em tomo de R$ 600 bilhões. Em suma:
+as últimas medidas provisórias de créditos extraordinários somaram mais de 10% do
+orçamento de 2007. Em outras palavras: tem-se, na prática, em razão do notório
+
+abuso de créditos - ditos - “extraordinários”, um orçamento paralelo [...]
+(grifei) (BRASIL, 2008f).
+
+Esta monografia pretende verificar empiricamente a veracidade da afirmação, contida
+na parte final do fragmento reproduzido, de que o excessivo número de créditos
+extraordinários abertos caracteriza um “orçamento paralelo”. A leitura do excerto incluído no
+voto do ministro Celso de Mello não deixa dúvidas a respeito do sentido daquela assertiva: o
+autor acredita que o elevado número de créditos extraordinários abertos tem como
+consegiência um desvirtuamento do orçamento aprovado pelo Congresso Nacional (e
+sancionado pelo Presidente da República) e, portanto, um distanciamento das prioridades
+nacionais lá estabelecidas. Em consonância com essa interpretação, o objetivo desta
+monografia é investigar se os créditos extraordinários abertos no período compreendido entre
+os anos 2003 e 2007, alteraram o perfil das despesas autorizadas e de sua execução financeira.
+A hipótese a ser testada é a que, adotado como parâmetro da pesquisa o Grupo de Natureza da
+Despesa, os créditos extraordinários realmente modificam a distribuição das despesas
+autorizadas e da execução financeira e, portanto, configuram um “orçamento paralelo”. O
+parâmetro selecionado para o teste da hipótese foi o Grupo de Natureza da Despesa, por ser,
+no universo de itens que compõem a classificação funcional, institucional e programática dos
+orçamentos da União, o que melhor informa o destino das dotações orçamentárias. A
+verificação da hipótese dar-se-á a partir da comparação entre os orçamentos autorizados de
+
+cada ano, com e sem a inclusão dos créditos extraordinários. O mesmo procedimento será
+12
+
+adotado para a execução financeira. Essa será avaliada segundo o conceito de caixa: os
+valores pagos correspondem aos valores pagos no ano em análise, relativos ao orçamento
+autorizado daquele ano, acrescido dos valores pagos nesse mesmo ano referentes a
+orçamentos de exercícios anteriores.
+
+Os dados orçamentários foram obtidos por meio do sistema SIGA Brasil, do Senado
+Federal, administrado pelo Serviço de Processamento de Dados do Senado Federal (Prodasen)
+e pela Consultoria de Orçamentos, Fiscalização e Controle do Senado Federal (CONORF),
+que utiliza informações constantes do Sistema de Administração Financeira Integrada
+(SIA FD)”, de responsabilidade do Ministério da Fazenda.
+
+Além da Introdução, outros cinco capítulos compõem este trabalho.
+
+O segundo capítulo trata do princípio da separação dos poderes e dos corretivos
+utilizados pelas democracias modernas para amenizar a sua rigidez.
+
+O terceiro analisa a competência legislativa do Poder Executivo no Brasil no período
+compreendido entre 1824 e 1988.
+
+No quarto capítulo são analisadas a medida provisória como instrumento para a
+abertura de crédito extraordinário e a sua tramitação legislativa.
+
+O quinto capítulo apresenta, para o período 2003-2007, os dados relativos aos efeitos
+produzidos pelos créditos extraordinários nos orçamentos autorizados e na sua execução
+financeira, e discute os resultados obtidos.
+
+Finalmente, no último capítulo, são apresentadas as conclusões e oferecidas sugestões
+de temas que, na visão do autor, mereceriam ser explorados para o aprofundamento da análise
+desenvolvida neste trabalho.
+
+2 As empresas estatais não se utilizam do SIA FI para registrar os dados da execução financeira da programação
+constante do Orçamento de Investimento das Empresas Estatais; daí decorre que este trabalho considera apenas
+os Orçamentos Fiscal e da Seguridade Social.
+13
+
+2 O PRINCÍPIO DA SEPARAÇÃO DOS PODERES
+
+O desaparecimento das instituições políticas, econômicas e sociais instauradas com o
+feudalismo marcou o fim da Idade Média e o fortalecimento do poder real, origem do
+Absolutismo, regime que se tomou predominante em quase toda a Europa até o final do
+século XVIII.
+
+Nos dois principais estados europeus da época, duas revoluções marcaram,
+respectivamente, o fim do período absolutista: a Revolução Gloriosa de 1688, na Inglaterra, e
+a Revolução Francesa de 1789. Esses dois movimentos inauguraram, na Europa, novas formas
+de organização estatal estruturada com base em poderes independentes e harmônicos.
+Surgiram assim novos Estados, agora burgueses, liberais e democráticos (NOGUEIRA
+FILHO, 2007).
+
+Os estados modemos formados após a queda do Absolutismo se inspiraram no
+Liberalismo, doutrina política, filosófica e econômica, nascida das reivindicações burguesas
+contra as arbitrariedades do Estado Absoluto, das limitações econômicas produzidas pelas
+corporações de ofício e dos entraves intelectuais de origem religiosa. O propósito do
+Liberalismo era a fundação de uma nova ordem social que garantisse, a todos, direitos
+políticos, de consciência e de propriedade (MESQUITA JÚNIOR, 2006).
+
+O Liberalismo defendia a existência de um conjunto de direitos naturais do homem
+como, por exemplo, o direito à vida, à liberdade e à propriedade privada, os quais deveriam
+ser respeitados e garantidos pelo Estado. A doutrina liberal também preconizava a
+implantação de um Estado de Direito, onde a atuação estatal estaria limitada por normas
+legais, as funções do Estado seriam segregadas, e haveria mecanismos de controle recíprocos
+entre as instituições responsáveis pelo exercício daquelas funções. Esses mecanismos, na
+visão dos liberais, possibilitariam controlar o poder estatal. Observa-se a coerência desses
+pontos com o desejo liberal de reduzir ao máximo o papel do Estado e deixar aflorar o espírito
+de iniciativa dos homens nas esferas política, econômica e religiosa.
+
+O princípio da separação dos poderes reuniu estas duas características do Liberalismo:
+a segregação das funções do Estado entre Poderes e a existência de mecanismos de controle
+recíproco entre eles.
+
+O sistematizador do princípio da separação dos poderes foi Montesquieu (2000) que,
+em sua obra O espírito das leis afirmou ser necessário distribuir as funções do Estado em
+
+instituições distintas para prevenir o uso abusivo do poder e assegurar a existência da
+14
+
+liberdade negativa - na definição de Benjamin Constant de Rebecque -, tão cara aos adeptos
+do Liberalismo.
+
+De início, Montesquieu, no Livro Décimo Primeiro de sua obra, define liberdade, em
+uma sociedade onde existam leis, como o direito de fazer tudo o que as leis permitem. Para
+ele, essa liberdade só existiria nos Estados onde esse poder não fosse exercido de forma
+abusiva. No entanto, faz parte da natureza humana que todo homem que possui algum poder
+dele irá abusar até que se lhe imponham limites. Portanto, é necessário que a sociedade se
+organize de tal forma que possibilite a existência de um mecanismo de contenção do poder
+estatal.
+
+Dito isso, ele distingue três Poderes em cada Estado.
+
+Existem em cada Estado três tipos de poder: o poder legislativo, o poder executivo
+das coisas que dependem do direito das gentes e o poder executivo daqueles que
+dependem do direito civil. (MONTESQUIEU, 2000, p. 167).
+
+Em sua concepção, esse terceiro Poder seria, em realidade, o Judiciário, visto que
+teria, segundo o autor (p. 168), a função de “castigar os crimes” ou “julgar as querelas entre
+os particulares”.
+
+Prosseguindo, Montesquieu elabora uma conexão entre a liberdade e os três Poderes
+por ele concebidos, ao afirmar que a primeira não poderia existir enquanto funções que
+deveriam estar repartidas estivessem reunidas em um só ente. Assim ele se manifestou a
+respeito:
+
+Quando, na mesma pessoa [...] o poder legislativo está reunido ao poder executivo,
+não há liberdade; porque se pode temer que o mesmo monarca [...] faça leis tirânicas
+para executá-las tiranicamente.
+
+Tampouco existe liberdade se o poder de julgar não estiver separado do poder
+legislativo e do executivo. Se estivesse unido ao poder legislativo, o poder sobre a
+vida e a liberdade dos cidadãos seria arbitrário, pois o juiz seria legislador. Se
+estivesse unido ao poder executivo, o juiz poderia ter a força de um opressor.
+(MONTESQUIEU, 2000, p. 168).
+
+E ainda:
+
+Tudo estaria perdido se o mesmo homem [...] exercesse os três poderes: o de fazer
+leis, o de executar as resoluções públicas e o de julgar os crimes ou as querelas entre
+os particulares. (MONTESQUIEU, 2000, p. 168).
+
+Montesquieu também idealizou um sistema que produzisse um equilíbrio entre os três
+Poderes. Esses deveriam ter não só a faculdade de estatuir”, ou seja, o direito de ordenar por si
+mesmo ou de forma independente, mas também o de corrigir as decisões tomadas por outro
+Poder; igualmente deveriam possuir a faculdade de impedir, isto é, o direito de anular uma
+decisão de outro Poder. Exemplificando, de acordo com Montesquieu, o Executivo deveria ter
+
+* Estatuir, de acordo com o dicionário Aurélio, significa: resolver, estabelecer, decretar.
+15
+
+o direito de limitar as iniciativas do Legislativo, caso contrário esse poderia ser tornar
+despótico, pois, para isso, bastaria outorgar a si mesmo todo o poder que desejasse; por outro
+lado, o Legislativo deveria ter o direito de examinar como as leis por ele criadas estariam
+sendo aplicadas pelo Executivo.
+
+De acordo com Bonavides (2006), as faculdades de estatuir e de impedir, presentes na
+concepção de Montesquieu, anteciparam as formas de controle extemo entre os Poderes,
+presentes no constitucionalismo modemo. Esses mecanismos têm como objetivo suavizar a
+rigidez inerente ao princípio da separação do poderes. Por meio deles, cada Poder, além de
+exercer suas competências primárias, exerce uma parte das do outro, como uma forma de
+controle recíproco; em outras palavras, há uma mescla de funções.
+
+Assim, conforme assinala Bonavides (2006), essa teoria admite a interferência de um
+Poder na esfera de atuação originária de outro. Por exemplo, o Executivo atua na órbita de
+competência do Legislativo quando veta uma lei aprovada por esse ou apresenta um projeto
+de lei. No primeiro caso, impede a introdução de um normativo legal no ordenamento
+jurídico; no segundo, inicia um processo de produção legislativa. Já o Executivo age na área
+do Judiciário por meio do indulto e da nomeação de membros daquele Poder. Como exemplo
+da participação do Legislativo na esfera de competência do Executivo, encontra-se a rejeição
+ao veto, o processo de impeachment, a aprovação de tratados e a apreciação de indicação de
+autoridades para o desempenho de altos cargos na administração pública. O Legislativo
+interfere no Judiciário quando fixa o número de membros daquele Poder, determina limites
+para as suas despesas, e realiza julgamento político. Por fim, o Judiciário exerce sua faculdade
+de impedir quando decide sobre a inconstitucionalidade de atos do Legislativo e sobre a
+ilegalidade de ações administrativas do Executivo.
+
+Aqui é importante ressaltar que Montesquieu, quando se referiu à capacidade de
+estatuir do Poder Executivo, sustentou, embora de forma indireta, a tese que esse Poder não
+deveria legislar. Isso pode ser constatado no trecho de sua obra onde afirma: “O poder
+executivo, como já dissemos, deve participar da legislação com sua faculdade de impedir, sem
+o que ele será logo despojado de suas prerrogativas”. (MONTESQUIEU, 2000, p. 175).
+Assim, parece claro que a contenção do Poder Legislativo por parte do Poder Executivo
+estaria circunscrita, na concepção do filósofo, à capacidade de impedir, isto é, exercer o poder
+de veto. Nesse sentido dispôs a Constituição Americana de 1787 quando adotou o princípio da
+separação dos poderes e um adequado sistema de pesos e contrapesos, mas vedou ao Poder
+Executivo competência para apresentar projetos de lei.
+16
+
+Ainda a respeito da faculdade de legislar do Poder Executivo, Pessanha (2002) afirma
+que as circunstâncias históricas da Primeira Guerra Mundial levaram os países beligerantes e
+neutros a simplificarem os procedimentos legislativos. Isso, na prática, resultou em um
+aumento da participação do Poder Executivo naquele processo. O autor esclarece ainda que o
+término dos conflitos não motivou um retorno à situação original. Ao contrário, o que se
+observou foi a sua intensificação.
+
+Em outra obra, Pessanha (2000) assinala que essa influência do Poder Executivo na
+produção legal fez-se notar com mais intensidade nas constituições promulgadas após a
+Segunda Guerra Mundial. As formas de intervenção mais usuais são a delegação, por meio da
+qual o Poder Legislativo confere ao Poder Executivo a capacidade de apresentar projetos de
+lei sobre assuntos específicos e a intervenção direta, onde o Poder Legislativo legisla, em
+caráter extraordinário e emergencial, mediante o uso de decreto-lei e suas variantes. Essa
+última forma está presente nas constituições da Alemanha, da França, de Portugal, da Espanha
+e da Itália.
+
+Concluindo, verifica-se que os textos constitucionais mais recentes, ao exacerbarem a
+competência legislativa do Poder Executivo, excederam a concepção original de
+Montesquieu, segundo a qual esse Poder deveria ter apenas a faculdade de impedir (ou seja, a
+de vetar) como forma de controle sobre o Poder Legislativo.
+
+Como os textos constitucionais brasileiros trataram, em uma perspectiva histórica, o
+princípio da separação dos poderes? O Poder Executivo desde sempre possuiu competência
+legiferante excepcional? Caso positivo, ele a tem exercido? Em que medida? Essas questões
+são analisadas no próximo capítulo.
+17
+
+3A COMPETÊNCIA LEGISLATIVA DO PODER EXECUTIVO NO BRASIL
+
+Este capítulo se dispõe a examinar como o princípio da separação dos poderes e as
+prerrogativas legislativas do Poder Executivo estiveram presentes na vida imperial e
+republicana brasileira até desembocar, em 1988, na instituição da medida provisória. Além
+disso, pretende, ao final, mostrar empiricamente como aqueles privilégios influenciaram a
+
+produção legislativa brasileira nos últimos anos.
+
+3.1 A Constituição de 1824
+
+Na lição de Bonavides (2006), o Brasil, ao optar pela forma republicana de govemo,
+aderiu ao princípio da separação de poderes na melhor tradição francesa. O Império se
+abraçara, porém, à tese de Benjamin Constant de Rebecque, que defendia a necessidade da
+existência de um quarto Poder - o Poder Real ou Moderador -, que teria a função de manter o
+equilíbrio político entre os Poderes. A esse respeito, assim dispunha a Constituição de 1824,
+outorgada por D.Pedro I:
+
+Art. 9. A Divisão, e harmonia dos Poderes Politicos é o principio conservador dos
+Direitos dos Cidadãos, e o mais seguro meio de fazer effectivas as garantias, que a
+Constituição offerece.
+
+Art. 10. Os Poderes Politicos reconhecidos pela Constituição do Imperio do Brazil
+são quatro: o Poder Legislativo, o Poder Moderador, o Poder Executivo, e o Poder
+Judicial. (como grafado no original)
+
+Segundo Pessanha (2002), a participação do imperador no processo legislativo deu-se
+por meio da faculdade de expedir regulamentos visando à boa execução das leis (art. 102,
+XII). No que diz respeito ao orçamento imperial, cabia ao Poder Executivo a elaboração da
+proposta orçamentária (art. 172) e à Assembléia Geral (Câmara dos Deputados e Senado) a
+sua aprovação (art. 15, X).
+
+3.2 A Constituição de 1891
+
+A Constituição Republicana de 1891 dispunha em seu art. 15: “São órgãos da
+soberania nacional o poder legislativo, o executivo e o judiciário, harmônicos e
+independentes”. Entretanto, além do poder de sancionar, promulgar e fazer publicar as leis e
+resoluções do Congresso, ao Presidente da República ainda competia expedir decretos,
+instruções e regulamentos para a fiel execução daqueles instrumentos (art. 48, 19). Assim,
+
+conforme Pessanha (2002), o Poder Executivo permaneceu com o poder de participar de
+18
+
+forma ativa na produção legislativa, pela via da regulamentação. Cabe destacar, ainda, que a
+elaboração da proposta orçamentária era de competência privativa do Congresso Nacional,
+embora, segundo vários doutrinadores, os trabalhos fossem conduzidos, extra-oficialmente,
+pelo Ministro da Fazenda. Assim rezava o art. 34, 1º:
+
+Art 34 - Compete privativamente ao Congresso Nacional:
+19) orçar a receita, fixar a despesa federal anualmente e tomar as contas da receita e
+despesa de cada exercício financeiro;
+
+3.3 0 Decreto nº 19.938/30
+
+O Decreto nº 19.398, de 11/11/1930, instituiu o Govemo Provisório no Brasil. Por esse
+decreto todas as funções e atribuições do Poder Legislativo e do Poder Executivo ficavam
+concentradas no Governo Provisório, chefiado por Getúlio Vargas, que passou a deter poderes
+ditatoriais:
+
+Art. 1º O Govemo Provisório exercerá discricionariamente, em toda sua plenitude,
+as funções e atribuições, não só do Poder Executivo, como tambem do Poder
+
+Legislativo, até que, eleita a Assembléia Constituinte, estabeleça esta a
+reorganização constitucional do país;
+
+3.4 A Constituição de 1934
+
+O constituinte de 1934 reverteu completamente a situação anterior ao optar por
+estabelecer mecanismo que impedisse a delegação de poderes do Legislativo ao Executivo,
+presente nas constituições de 1824 e 1891 (PESSANHA, 2002). Dessa forma, a Constituição
+de 1934 deu maior ênfase à separação dos poderes:
+
+Art 3º - São órgãos da soberania nacional, dentro dos limites constitucionais, os
+Poderes Legislativo, Executivo e Judiciário, independentes e coordenados entre si.
+
+$ 1º- E vedado aos Poderes constitucionais delegar suas atribuições.
+
+8 2º- O cidadão investido na função de um deles não poderá exercer a de outro.
+
+A Constituição de 1934 também devolveu ao Presidente da República a competência
+privativa de elaborar a proposta orçamentária (art. 50, 8 1º). Ao Poder Legislativo coube votá-
+la (art. 39, 8 29), podendo emendá-la sem restrições de qualquer espécie. A demais, inovou ao
+tratar, pela primeira vez em sede constitucional, da questão dos créditos extraordinários.
+
+Art 186
+
+8 1º. A abertura de crédito especial, ou suplementar, depende de expressa
+autorização da Câmara dos Deputados; a de créditos extraordinários poderá ocorrer,
+de acordo com a lei ordinária, para despesas urgentes e imprevistas em caso de
+calamidade pública, rebelião ou guerra.
+19
+
+3.5 À Constituição de 1937
+
+A Carta de 1937 teve como traço principal o fortalecimento do Poder Executivo e
+vigeu durante o período ditatorial do Estado Novo. O Poder Executivo passou a dispor de um
+enorme arsenal de prerrogativas que o tomava praticamente o único legislador. Foi a
+Constituição de 1937 que inaugurou a figura do decreto-lei no Brasil, que mais tarde
+inspiraria a medida provisória da Constituição de 1988. A Constituição de 1937 dispunha: a
+iniciativa de projetos de lei cabia, em princípio, ao Governo (art. 64, caput); não eram
+admitidos projetos de lei de qualquer das Câmaras que versassem sobre matéria tributária ou
+resultassem em aumento de despesa (art. 64, caput); a iniciativa de projeto de lei exigia a
+assinatura de um terço dos Deputados ou membros do Conselho Federal (art. 64, 819.
+Ademais, o Presidente da República podia expedir: os decretos e regulamentos necessários à
+execução das leis (art. 74); decretos-leis sobre matérias de competência legislativa da União,
+com algumas exceções, nos períodos de recesso do Parlamento ou de dissolução da Câmara
+dos Deputados (art. 13); decretos-leis sobre a organização do Govemo e da Administração
+Federal, o comando supremo e a organização das forças armadas (art. 14); decretos-leis sobre
+todas as matérias da competência legislativa da União, enquanto não se reunisse o Parlamento
+(art. 180). Essa última prerrogativa foi fartamente exercida por Getúlio Vargas. O Congresso
+Nacional esteve fechado durante todo o período do Estado Novo, o que permitiu a Getúlio
+Vargas a emissão de 8.154 decretos-lei (PESSA NHA, 2002).
+
+* Como visto, não havia, nas Constituições de 1824, 1891 e 1934, menção a instrumento semelhante ao decreto
+com força de lei ou decreto-lei. Entretanto, Dantas (1997) observa que a primeira referência a “medida
+provisória” é a constante no art. 179, XXXV, da Carta de 1824, mas que tinha sentido diverso daquele que hoje
+lhe é dada:
+Art. 179. A inviolabilidade dos Direitos Civis, e Politicos dos Cidadãos Brazileiros,
+que tem por base a liberdade, a segurança individual, e a propriedade, é garantida
+pela Constituição do Imperio, pela maneira seguinte.
+[res]
+XXXV. Nos casos de rebellião, ou invasão de inimigos, pedindo a segurança do
+Estado, que se dispensem por tempo determinado algumas das formalidades, que
+garantem a liberdede individual, poder-se-ha fazer por acto especial do Poder
+Legislativo. Não se achando porém a esse tempo reunida a Assembléa, e correndo a
+Patria perigo imminente, poderá o Governo exercer esta mesma providencia, como
+medida provisoria, e indispensavel, suspendendo-a immediatamente que cesse a
+necessidade urgente, que a motivou; devendo num, e outro caso remetter á
+Assembléa, logo que reunida fôr, uma relação motivada das prisões, e d'outras
+medidas de prevenção tomadas; e quaesquer Autoridades, que tiverem mandado
+proceder a ellas, serão responsaveis pelos abusos, que tiverem praticado a esse
+respeito. (como grafado no original)
+3 0 Conselho Federal era uma das duas câmaras do Parlamento Nacional. A outra era a Câmara dos Deputados.
+é No período compreendido entre 1937 e 1946, José Linhares emitiu 810 e Eurico Dutra, 950 decretos-leis;
+Linhares, apoiado nas disposições transitórias da Carta de 1937 e Dutra, autorizado pela Lei Constitucional nº
+15/45.
+20
+
+A Carta de 1937 manteve a prerrogativa do Presidente da República de elaborar a
+proposta orçamentária (art. 67, b) e, embora coubesse à Câmara dos Deputados e ao Conselho
+Federal deliberar separadamente a respeito da proposta (art. 71), as Câmaras não funcionaram
+durante todo o período do Estado Novo. Na prática, portanto, o Presidente da República
+elaborava e decretava o orçamento.
+
+3.6 A Constituição de 1946
+
+A Constituição de 1946 manteve o modelo da separação dos poderes e vedou a
+delegação legislativa. O art. 36 dispunha:
+
+Art 36 - São Poderes da União o Legislativo, o Executivo e o Judiciário,
+independentes e harmônicos entre si.
+
+$ 1º- O cidadão investido na função de um deles não poderá exercer a de outro,
+salvo as exceções previstas nesta Constituição.
+
+$ 2º- E vedado a qualquer dos Poderes delegar atribuições.
+
+O texto constitucional de 1946 não elencou, dentre as atribuições do Presidente da
+República, a de editar decretos-leis. Esses voltaram a ser admitidos no ordenamento jurídico
+pátrio na década de 60, em plena ditadura militar.
+
+Na lição de Pessanha (2002), a Constituição de 1946 ampliou e diversificou as
+possibilidades de iniciativa legal do Poder Legislativo. Regra geral, a iniciativa passou a ser
+concorrente entre o Presidente da República e os membros do Congresso (art. 67). Embora a
+Carta de 1946 não contemplasse a delegação legislativa propriamente dita, o art. 87, 1,
+concedia ao Presidente da República competência privativa para sancionar, promulgar e fazer
+publicar as leis e expedir decretos e regulamentos para a sua fiel execução. A elaboração da
+proposta orçamentária a ser submetida ao Congresso era de competência privativa do
+Presidente da República (art. 87, XVI) ao passo que o Poder Legislativo tinha a competência
+de deliberar a respeito da proposta (art. 65, 1), podendo modificá-la por meio de emendas.
+
+3.7 Os Atos Institucionais emitidos entre 1964 e 1967
+
+O regime ditatorial implantado no Brasil em 31 de março de 1964 foi o responsável
+por alterações no processo legislativo que, como era de esperar, por um lado, restringiram a
+possibilidade de o Poder Legislativo apresentar projetos de lei e, por outro, aumentaram a
+competência do Poder Executivo nessa direção. De particular importância para esse trabalho
+foi a modificação introduzida pelo Ato Institucional nº 2 de 1965, que reintroduziu no Brasil a
+figura do decreto-lei, ao autorizar o Presidente da República a se utilizar desse instrumento
+21
+
+para legislar sobre matéria de segurança nacional (art. 30) e, em caso de recesso do Congresso
+Nacional, sobre qualquer matéria (art. 31, parágrafo único). Esse recesso poderia ser
+decretado pelo Presidente da República a qualquer tempo (art. 31, caput).
+
+Em 1966, por meio do Ato Institucional nº 4, o Congresso Nacional foi convocado
+extraordinariamente, no período compreendido entre 12/12/1966 a 24/01/1967, com o
+objetivo de votar o projeto de Constituição apresentado pelo Presidente da República, Castello
+Branco. O ato concedia prerrogativa ao Presidente da República para baixar decretos-lei sobre
+matéria de segurança nacional, até 15/03/1967 (art. 99), e sobre matéria financeira enquanto
+durasse o período de convocação extraordinária do Congresso Nacional (art. 9º, 8 1º). Por fim,
+o ato dava ao Presidente da República competência para expedir decretos com força de lei
+sobre matéria administrativa e financeira, no período compreendido entre o fim da
+convocação extraordinária do Congresso Nacional e a primeira reunião ordinária do
+Congresso Nacional (art. 9º, 8 29).
+
+3.8 A Constituição de 1967, outros Atos Institucionais e a Emenda
+Constitucional nº 1, de 1969
+
+O princípio da separação dos poderes foi mantido na Carta de 1967, que estabeleceu,
+em seu art. 6% “São Poderes da União, independentes e harmônicos, o Legislativo, o
+Executivo e o Judiciário”.
+
+O art. 58 introduziu o decreto-lei nas constituições brasileiras:
+
+Art 58 - O Presidente da República, em casos de urgência ou de interesse público
+relevante, e desde que não resulte aumento de despesa, poderá expedir decretos com
+força de lei sobre as seguintes matérias:
+
+I- segurança nacional;
+
+I - finanças públicas.
+
+Parágrafo único - Publicado, o texto, que terá vigência imediata, o Congresso
+Nacional o aprovará ou rejeitará, dentro de sessenta dias, não podendo emendá-lo;
+se, nesse prazo, não houver deliberação o texto será tido como aprovado.
+
+Aqui vale ressaltar alguns pontos desse texto: primeiro, a instituição de três condições
+para a apresentação do decreto-lei: urgência, interesse público relevante e ausência de
+aumento de despesa; segundo, a vigência imediata do decreto; terceiro, o prazo para deliberar
+sobre o decreto-lei corria a favor do Poder Executivo, uma vez que a inércia do Congresso
+Nacional acarretaria a aprovação do decreto-lei por decurso de prazo; por fim, o Congresso
+Nacional não podia alterar o decreto-lei; apenas aprová-lo ou rejeitá-lo, o que, conforme
+salientou Pessanha (2002), amplificava os poderes legislativos do Presidente da República.
+22
+
+A Carta de 1967 retirou do Poder Legislativo toda e qualquer possibilidade de
+participar do processo orçamentário: o art. 67, caput, concedeu ao Poder Executivo a
+iniciativa exclusiva das leis orçamentárias e de quaisquer outras que autorizassem, criassem
+ou aumentassem a despesa pública, e o 8 1º do mesmo artigo restringiu de tal maneira a
+apresentação de emendas à proposta orçamentária por parte do Poder Legislativo, que nada
+mais lhe restava senão aprovar integralmente a proposta:
+
+Art 67 - É da competência do Poder Executivo a iniciativa das leis orçamentárias e
+das que abram créditos, fixem vencimentos e vantagens dos servidores públicos,
+concedam subvenção ou auxilio, ou de qualquer modo autorizem, criem ou
+aumentem a despesa pública.
+
+$ 1º- Não serão objeto de deliberação emendas de que decorra aumento da despesa
+global ou de cada órgão, projeto ou programa, ou as que visem, a modificar o seu
+montante, natureza e objetivo.
+
+Em 1968, uma vez mais, um ato autoritário devolveu ao Poder Executivo a
+prerrogativa de baixar decretos-leis sem a deliberação do Poder Legislativo. Assim dispunha o
+Ato Institucional nº 5:
+
+Art. 2º - O Presidente da República poderá decretar o recesso do Congresso
+Nacional, das Assembléias Legislativas e das Câmaras de Vereadores, por Ato
+Complementar, em estado de sitio ou fora dele, só voltando os mesmos a funcionar
+quando convocados pelo Presidente da República.
+
+$ 1º - Decretado o recesso parlamentar, o Poder Executivo correspondente fica
+autorizado a legislar em todas as matérias e exercer as atribuições previstas nas
+Constituições ou na Lei Orgânica dos Municípios.
+
+Em 1969, a Emenda Constitucional nº 1 manteve as mesmas exigências para a
+expedição de decreto-lei da Constituição de 1967 (urgência, interesse público relevante e
+ausência de aumento de despesa), porém aumentou significativamente o rol de matérias que
+poderiam ser objeto daquele instrumento. À semelhança do disposto na Constituição de 1967,
+a vigência era imediata e o Congresso Nacional não tinha competência para modificar o
+decreto do Poder Executivo. Vale notar que a rejeição do decreto-lei não implicava na
+nulidade dos atos praticados durante a sua vigência. O art. 55, em sua redação original,
+estabelecia:
+
+Art. 55. O Presidente da República, em casos de urgência ou de interesse público
+relevante, e desde que não haja aumento de despesa, poderá expedir decretos-leis
+sobre as seguintes matérias:
+
+I- segurança nacional;
+
+I - finanças públicas, inclusive normas tributárias; e
+
+III - criação de cargos públicos e fixação de vencimentos.
+
+$ 1º Publicado o texto, que terá vigência imediata, o Congresso Nacional o aprovará
+ou rejeitará, dentro de sessenta dias, não podendo emendá-lo; se, nesse prazo, não
+houver deliberação, o texto será tido por aprovado.
+
+8 2º A rejeição do decreto-lei não implicará a nulidade dos atos praticados durante a
+sua vigência.
+23
+
+O 8 1º do art. 55 foi alterado pela Emenda Constitucional nº 22, de 1982 que, embora
+mantivesse o mecanismo do decurso de prazo, dava ao Congresso Nacional um prazo extra de
+
+dez sessões para deliberar sobre a matéria.
+
+Art. 55.
+
+[3]
+
+$ 1º. Publicado o texto, que terá vigência imediata, o decreto-lei será submetido
+pelo Presidente da República ao Congresso Nacional, que o aprovará ou rejeitará,
+dentro de sessenta dias a contar do seu recebimento, não podendo emendá-lo, se,
+nesse prazo, não houver deliberação, aplicar-se-á o disposto no $ 3º do art. 51.
+
+[e]
+
+O art. 51 determinava:
+Art 51.
+
+[...]
+
+$ 2º- Se o Presidente da República julgar urgente o projeto poderá solicitar que a
+sua apreciação seja feita em sessão conjunta do Congresso Nacional, dentro do prazo
+de quarenta dias.
+
+$ 3º - Na falta de deliberação dentro dos prazos estabelecidos neste artigo e no
+parágrafo anterior, cada projeto será incluído automaticamente na ordem do dia, em
+regime de urgência, nas dez sessões subsequentes em dias sucessivos, se, ao final
+dessas, não for apreciado, considerar-se-á definitivamente aprovado.
+
+A partir desse ponto passaram a conviver no cenário político nacional duas formas
+distintas de decretos-leis: os autorizados pelo $ 1º do art. 2º do Ato Institucional nº 5, que
+estavam imunes de apreciação pelo Congresso Nacional, e os que passariam pelo crivo
+legislativo, nas condições estabelecidas pelo art. 55 da Emenda Constitucional nº 1, de 1969,
+alterado pela Emenda Constitucional nº 22, de 1982. O uso dos primeiros seria
+definitivamente banido por meio da Emenda Constitucional nº 11, de 1978, que declarou
+revogados, a partir de 1º de janeiro de 1979, os atos institucionais e complementares, no que
+contrariarem a Constituição Federal (art. 3º); os do segundo grupo tiveram que aguardar a
+
+Constituição de 1988.
+
+3.9 A Constituição-cidadã de 1988
+
+A Constituição-cidadã de 1988 confirmou, em seu art. 2º, o princípio da separação dos
+poderes: “São Poderes da União, independentes e harmônicos entre si, o Legislativo, o
+Executivo e o Judiciário”. E mais, o consagrou como cláusula pétrea ao não admitir emenda
+constitucional que tenha o intuito de aboli-lo (art. 60, 8 4º, III). No que diz respeito às
+competências do Poder Legislativo, a Constituição de 1988 atuou em dois sentidos. De um
+lado o fortaleceu, ao restabelecer muitas das prerrogativas que lhe foram subtraídas no
+período militar e ao ampliar os seus poderes, se comparados àqueles constantes da Carta de
+24
+
+1946; por outro, o limitou, ao não retirar do Presidente da República recursos que lhe
+permitiram dirigir o processo legislativo durante a quadra autoritária. Dito de outra forma,
+embora a Constituição de 1988 tenha proporcionado ao Poder Legislativo uma inegável
+revitalização, o que é sempre lembrado e exaltado pelos analistas políticos, há que se
+reconhecer que traços da legislação autoritária foram mantidos na nova ordem constitucional,
+fato que tem sido menos notado.
+
+Nesse sentido, de acordo com Figueiredo e Limongi (1999), o fortalecimento do Poder
+Legislativo comparado ao do Executivo, se tomado como parâmetro a Constituição de 1946,
+pode ser avaliado pelas seguintes conquistas: a redefinição do papel do Poder Legislativo no
+processo orçamentário e no controle das finanças públicas; o fortalecimento do Tribunal de
+Contas da União; a participação do Congresso Nacional na nomeação dos membros desse
+tribunal; a diminuição da abrangência do veto presidencial; a redução da maioria necessária
+para a derrubada de voto presidencial, de dois terços para maioria absoluta; a maior
+abrangência da área de competência legislativa exclusiva reservada ao Legislativo; a
+faculdade do Congresso Nacional de sustar os atos normativos do Poder Executivo que
+exorbitem do poder regulamentar ou dos limites de delegação legislativa.
+
+Por outro lado, muitas das competências do Presidente da República introduzidas
+pelos militares no ordenamento jurídico foram mantidas: a capacidade de o Presidente da
+República solicitar, unilateralmente, regime de tramitação extraordinária para os projetos de
+lei de sua autoria e, ainda, de sobrestar a pauta de votação da Casa onde estiver tramitando,
+caso não tenha se ultimado a votação dentro do prazo de quarenta e cinco dias; a manutenção
+da competência exclusiva do Presidente da República de iniciar legislação sobre a maioria dos
+temas mais importantes, como matéria tributária e orçamentária; a prerrogativa do Poder
+Executivo de elaborar leis delegadas, a partir de uma autorização específica do Congresso
+Nacional, dada sob a forma de uma resolução, que especificaria seu conteúdo e os termos de
+seu exercício. Além disso, foi mantida a faculdade do Poder Executivo, presente em todas as
+constituições republicanas anteriores, de expedir decretos e regulamentos para fiel execução
+das leis.
+
+Por fim, na visão de Figueiredo e Limongi (1999), a capacidade de legislar sem o
+concurso do Poder Executivo, em situações excepcionais, por medida provisória (art. 62),
+
+pode ser considerada como a manutenção do poder presidencial de editar decretos-leis.
+25
+
+3.10 A Medida Provisória
+
+A Constituição de 1988, embora tenha adotado a tripartição dos poderes como
+postulado fundamental permite, como bem salientou Szklarowsky (1991), que o Poder
+Executivo, em condições especialíssimas, atue como legislador sob controle, a posteriori, do
+Poder Legislativo. Assim, o art. 62 autoriza o Presidente da República a editar, em caso de
+relevância e urgência, ato excepcional, com força de lei, com o objetivo de regular a situação
+excepcional que lhe deu causa, devendo, entretanto, submetê-lo, de imediato, à apreciação do
+Congresso Nacional. Esse instrumento recebeu a denominação de medida provisória” e
+sucedeu ao antigo decreto-lei. A capacidade de o Presidente da República legislar por meio de
+medidas provisórias é visto como o principal poder pró-ativo do Poder Executivo presente na
+Constituição de 1988.
+
+O entendimento que o titular do Poder Executivo deve dispor de um instrumento ágil
+e excepcional para enfrentar situações relevantes e urgentes é pacífico. Os estados
+contemporâneos demandam, muitas vezes, principalmente no domínio econômico, uma
+pronta intervenção do Poder Executivo; caso contrário, as providências tomadas podem não
+surtir o efeito esperado. Cite-se, no caso brasileiro, a medida provisória que instituiu o Plano
+Real, em 1994. Essa necessidade premente não se coaduna com a lentidão natural do processo
+decisório do Poder Legislativo. Isso porque é característica desse Poder a busca de uma
+solução consensual para as questões que lhe são submetidas, tendo como pano de fundo os
+diversos interesses em jogo. Assim, é natural que, em face desse binômio, as decisões
+legislativas sejam mais demoradas; porém, é lícito supor também que sejam mais
+democráticas que as tomadas unilateralmente pelo Poder Executivo.
+
+Segundo Moraes (2007), o constituinte brasileiro, ao incluir a medida provisória no
+ordenamento jurídico pátrio, inspirou-se na Constituição da República Italiana de 1947, cujo
+art. 47 prevê os chamados decretilegge in casi straordinari di necessitá e d'urgenza
+(decretos-leis em casos extraordinários de necessidade e urgência). Entretanto, no Brasil vige
+um regime presidencialista de govemo e na Itália um parlamentarista. Nesse último, é o
+
+7A redação original do art. 62 era a seguinte:
+
+Art. 62. Em caso de relevância e urgência, o Presidente da República poderá adotar
+medidas provisórias, com força de lei, devendo submetê-las de imediato ao
+Congresso Nacional, que estando em recesso, será convocado extraordinariamente
+para se reunir no prazo de cinco dias.
+
+Parágrafo único. As medidas provisórias perderão eficácia, desde a edição, se não
+forem convertidas em lei, no prazo de trinta dias, a partir de sua publicação, devendo
+o Congresso Nacional disciplinar as relações jurídicas delas decorrentes.
+26
+
+Primeiro Ministro que edita uma medida provisória e a sua rejeição pelo Parlamento equivale
+a uma perda de confiança no Gabinete por parte do Parlamento. Na maioria das vezes, esse
+fato traz como consegiiência a queda do Gabinete. Já no Brasil, se uma medida provisória for
+rejeitada, o Presidente da República não sofre nenhuma sanção política.
+
+A medida provisória, sucedânea do decreto-lei, na versão original do art. 62, guardou
+algumas importantes diferenças em relação ao seu antecessor. As principais características
+que diferenciavam as medidas provisórias dos decretos-leis eram: as medidas provisórias não
+sofriam restrições de ordem temática?, ao contrário dos decretos-leis; as medidas provisórias
+tinham vigência imediata e perdiam eficácia desde sempre, em caso de ausência de
+deliberação no prazo fixado; já os decretos-leis, nesses casos, eram tacitamente aprovados; no
+caso de rejeição das medidas provisórias cabia ao Congresso Nacional dispor sobre os atos
+praticados durante a sua vigência enquanto a rejeição dos decretos-leis não atingia esses atos;
+as medidas provisórias podiam ser emendadas pelo Congresso Nacional, o que não era
+permitido para os decretos-leis.
+
+A medida provisória, na versão original do art. 62, suscitou importantes reflexões nas
+esferas política e jurídica, principalmente a respeito dos pressupostos constitucionais de
+relevância e urgência e da possibilidade de reedição da medida provisória.
+
+Segundo a maioria dos doutrinadores, a verificação do atendimento aos pressupostos
+constitucionais nunca seria uma tarefa fácil, principalmente quando se tratasse do aspecto da
+relevância. De acordo com Bulos (2007), os termos relevância e urgência são vagos, fluidos e
+imprecisos. A compreensão do significado desses vocábulos envolve juízos de valor e pode
+alcançar dimensões variáveis no tempo e no espaço. A questão da urgência é menos
+complexa, na opinião unânime dos estudiosos. Para eles, o pressuposto estaria atendido se a
+matéria a ser regulada pela medida provisória não pudesse aguardar o prazo para a tramitação
+urgente de um projeto de lei no Congresso Nacional. Alinham-se com esse entendimento
+Greco (1991, apud Cléve, 1999), Rocha (2001), Corrêa (2005), Chiesa (2002), Bulos (2007).
+Também é geral a convicção sobre a dificuldade de se dar uma interpretação objetiva ao
+termo relevância. Para Rocha (2001), a adoção de medida provisória somente se justifica caso
+essa seja a única solução para superar uma situação, essa sim, relevante, ou seja, importante
+
+ou essencial para a sociedade. Por sua vez, Chiesa (2002, p. 46) defende um critério bastante
+
+É Essa situação mudou, a partir de 1994, com a promulgação da Emenda Constitucional de Revisão nº 1 e as
+Emendas Constitucionais nºs 5, 6, 7, 8 e 9, que impuseram limites matérias à edição de medidas provisórias. De
+toda forma, a ausência de qualquer limite material nunca foi um entendimento pacífico entre os doutrinadores;
+muitos defendiam a tese que uma interpretação lógico-sistemática do texto constitucional levaria a uma série de
+restrições, mas esse é um tema que excederia os limites desse trabalho.
+27
+
+interessante. Para ele, o termo relevância deve ser entendido “como sendo algo tão importante
+que justifique o abandono da sistemática da separação dos poderes, transferindo-se a
+competência legislativa para o chefe do Poder Executivo”.
+
+Quanto a esses pressupostos, o Congresso Nacional, ao dispor sobre a apreciação das
+medidas provisórias”, estabeleceu a necessidade de um parecer prévio a respeito. Entretanto, a
+resolução pertinente considerava os requisitos de relevância e urgência atendidos, caso o
+Plenário do Congresso Nacional não deliberasse a respeito em um prazo determinado. A
+ausência de deliberação tomou-se rotineira e, em consegiência, os requisitos eram,
+invariavelmente, considerados atendidos por decurso de prazo. Resumindo, a própria
+resolução admitiu a possibilidade de o Congresso Nacional abrir mão de seu poder de
+inadmitir uma medida provisória. A omissão do Poder Legislativo facilitou o uso abusivo
+desse instrumento por parte do Poder Executivo. Esse, por exemplo, considerou relevante e
+urgente e, portanto, editou uma medida provisória para inscrever o nome de Tiradentes no
+Livro dos Heróis da Pátria e outra para comprar um automóvel para o Vice-Presidente da
+República (VALLE, 2004). Por sua vez, o Poder Judiciário, provocado a respeito, decidiu,
+reiteradas vezes, que “a necessidade de edição de uma medida provisória obedece a critérios
+subjetivos do Presidente da República”. (VALLE, 2004, p. 36); ou, nas palavras do Ministro
+Moreira Alves, “os pressupostos para a edição de medidas provisórias decorrem, em
+princípio, do juízo discricionário de oportunidade e de valor do Presidente da República”?
+
+Quanto à reedição, o texto constitucional original não previa essa possibilidade para
+medida provisória não apreciada pelo Poder Legislativo no prazo constitucional; tampouco a
+vedava explicitamente. A partir do momento em que a primeira medida provisória naquela
+condição foi reeditada pelo Presidente Samey, o Congresso Nacional perdeu seu principal
+mecanismo de controle. O Poder Judiciário avalizou o procedimento do Poder Executivo ao
+decidir sobre a constitucionalidade da reedição de medida provisória não apreciada pelo
+Congresso Nacional no prazo legal. Ademais, admitiu a convalidação!! dos atos praticados
+durante a vigência da medida provisória reeditada!?, embora o art. 62, parágrafo único, fosse
+bastante claro ao determinar a perda de eficácia, desde a sua edição, de medida provisória não
+
+º Resolução nº1, de 1989.
+
+19 ADI 162-1/DF.
+
+! Convalidar, segundo o dicionário Aurélio, significa “restabelecer a validade ou eficácia de ato ou contrato”.
+
+!2 A súmula 651 do STF foi editada após várias decisões do Supremo Tribunal Federal, a saber: ADI 1397 MC,
+ADI 1617 MC, ADI 295 MC, ADI 1533 MC, ADI 1647, ADI 1610, ADI 1612, ADI 1614, RE 239287 AgR.
+Segundo a súmula, a Medida Provisória não apreciada pelo Congresso Nacional podia, até a Emenda
+Constitucional 32/2001, ser reeditada dentro do seu prazo de eficácia de trinta dias, mantidos os efeitos de lei
+desde a primeira edição. (BRASIL, 20084).
+28
+
+convertida em lei no prazo legal. Assim, o Poder Judiciário, indiretamente, revogou o
+mecanismo da perda da eficácia e etemizou as medidas provisórias.
+
+A omissão do Congresso Nacional em deliberar sobre a medida provisória no prazo
+legal, a carta-branca dada pelo Poder Judiciário ao Poder Executivo para reeditar medida
+provisória não apreciada e, por fim, a relutância do Poder Judiciário em julgar a
+constitucionalidade de medida provisória editada sem atender aos requisitos de relevância e
+urgência, foram determinantes para acelerar o processo de banalização do instrumento. Dessa
+forma, embora tenha sido concebida com a perspectiva de ser utilizada excepcionalmente, a
+medida provisória acabou se transformando, na prática, em um instrumento ordinário.
+
+Tudo isso fez com que o Congresso Nacional aprovasse uma alteração do art. 62 por
+meio da Emenda Constitucional nº 32, de 2001. Segundo Valle (2004, p. 9), a intenção do
+legislador “foi restringir a edição das medidas provisórias e assegurar um procedimento célere
+de apreciação pelo Congresso Nacional”. As principais inovações introduzidas foram: a
+dilatação do prazo de validade das medidas, que passou de 30 para 60 dias, prorrogáveis por
+outros 60 dias, apenas uma vez; a vedação de reedição no caso de medida provisória que
+tenha sido rejeitada ou que tenha perdido sua eficácia por decurso de prazo; a explicitação das
+matérias que não poderiam ser objeto de medida provisória; a inclusão do juízo prévio sobre o
+atendimento aos pressupostos constitucionais de relevância e urgência; o sobrestamento das
+deliberações legislativas na Casa em que a medida provisória estiver tramitando, caso não seja
+apreciada no prazo estabelecido; a manutenção das relações jurídicas constituídas e
+decorrentes de ato praticados durante a vigência de medida provisória rejeitada ou que tenha
+perdido eficácia, caso o Congresso Nacional não tenha editado, no prazo estabelecido, decreto
+legislativo disciplinando aquelas relações jurídicas; e, de forma indireta, a autorização para a
+edição de medida provisória para a abertura de crédito extraordinário. Este é o texto vigente
+do art. 62 da Constituição de 1988:
+
+Art. 62. Em caso de relevância e urgência, o Presidente da República poderá adotar
+medidas provisórias, com força de lei, devendo submetê-las de imediato ao
+Congresso Nacional.
+
+$ 1º E vedada a edição de medidas provisórias sobre matéria:
+
+1- relativa a:
+
+a) nacionalidade, cidadania, direitos políticos, partidos políticos e direito eleitoral;
+
+b) direito penal, processual penal e processual civil;
+
+c) organização do Poder Judiciário e do Ministério Público, a carreira e a garantia de
+seus membros;
+
+d) planos plurianuais, diretrizes orçamentárias, orçamento e créditos adicionais e
+suplementares, ressalvado o previsto no art. 167,8 3º;
+
+II - que vise a detenção ou sequestro de bens, de poupança popular ou qualquer
+outro ativo financeiro;
+
+TI - reservada a lei complementar;
+29
+
+IV - já disciplinada em projeto de lei aprovado pelo Congresso Nacional e pendente
+de sanção ou veto do Presidente da República.
+
+$ 2º Medida provisória que implique instituição ou majoração de impostos, exceto
+os previstos nos arts. 153, I, IL IV, V, e 154, II, só produzirá efeitos no exercício
+financeiro seguinte se houver sido convertida em lei até o último dia daquele em que
+foi editada.
+
+$ 3º As medidas provisórias, ressalvado o disposto nos 88 11 e 12 perderão eficácia,
+desde a edição, se não forem convertidas em lei no prazo de sessenta dias,
+prorrogável, nos termos do $ 7º, uma vez por igual período, devendo o Congresso
+Nacional disciplinar, por decreto legislativo, as relações jurídicas delas decorrentes.
+$ 4º O prazo a que se refere o 8 3º contar-se-á da publicação da medida provisória,
+suspendendo-se durante os períodos de recesso do Congresso Nacional.
+
+$ 5ºA deliberação de cada uma das Casas do Congresso Nacional sobre o mérito das
+medidas provisórias dependerá de juízo prévio sobre o atendimento de seus
+pressupostos constitucionais.
+
+$ 6º Se a medida provisória não for apreciada em até quarenta e cinco dias contados
+de sua publicação, entrará em regime de urgência, subsequentemente, em cada uma
+das Casas do Congresso Nacional, ficando sobrestadas, até que se ultime a votação,
+todas as demais deliberações legislativas da Casa em que estiver tramitando.
+
+$ 7º Prorrogar-se-á uma única vez por igual período a vigência de medida provisória
+que, no prazo de sessenta dias, contado de sua publicação, não tiver a sua votação
+encerrada nas duas Casas do Congresso Nacional.
+
+$ 8º As medidas provisórias terão sua votação iniciada na Câmara dos Deputados.
+
+$ 9º Caberá à comissão mista de Deputados e Senadores examinar as medidas
+provisórias e sobre elas emitir parecer, antes de serem apreciadas, em sessão
+separada, pelo plenário de cada uma das Casas do Congresso Nacional.
+
+$ 10. E vedada a reedição, na mesma sessão legislativa, de medida provisória que
+tenha sido rejeitada ou que tenha perdido sua eficácia por decurso de prazo.
+
+$ 11. Não editado o decreto legislativo a que se refere o $ 3º até sessenta dias após a
+rejeição ou perda de eficácia de medida provisória, as relações jurídicas constituídas
+e decorrentes de atos praticados durante sua vigência conservar-se-ão por ela
+regidas.
+
+$ 12. Aprovado projeto de lei de conversão alterando o texto original da medida
+provisória, esta manter-se-á integralmente em vigor até que seja sancionado ou
+vetado o projeto.
+
+A nova redação foi, em um primeiro momento, recebido com entusiasmo, e esperava-
+se que os problemas detectados na utilização da medida provisória fossem sanados, e que o
+Congresso Nacional exercesse as suas prerrogativas. Tudo indicava que a conjugação de
+quatro novidades inseridas no texto, quais sejam, a dilatação do prazo de validade das
+medidas provisórias, a possibilidade de uma reedição e apenas uma; a exigência, agora em
+sede constitucional, de um juízo prévio a respeito do atendimento de seus pressupostos
+constitucionais, e o instituto do sobrestamento da pauta seriam suficientes para que o
+Congresso Nacional deliberasse sobre as medidas provisórias antes do prazo fatal.
+
+Em face da nova redação, a adoção de um novo rito de tramitação da medida
+provisória no Congresso Nacional fez-se necessário, o que deu origem à Resolução nº 1, de
+2002. Essa, embora tivesse exigido, como condição para que a medida provisória fosse
+apreciada pelo plenário da Casa onde estivesse tramitando, que uma comissão mista se
+manifestasse previamente sobre os pressupostos de relevância e urgência, permitiu que esse
+30
+
+parecer fosse substituído por um parecer de plenário, quase sempre emitido sem maiores
+análises por parte do relator designado. Em consequência, houve uma acomodação por parte
+do Congresso Nacional e o que seria exceção tornou-se regra: a comissão não se reunia, ou
+quando se reunia não deliberava no prazo regimental. Assim, o Poder Executivo, ao perceber
+a condescendência com que o Congresso Nacional analisava os pressupostos constitucionais,
+não relaxou o ritmo de edição das medidas provisórias, indo de encontro às expectativas
+geradas pelo novo texto constitucional.
+
+Constatado o fato de que a nova redação mostrara-se inócua para limitar a edição de
+medidas provisórias, outras críticas surgiram. O texto não previu uma sanção política ao chefe
+do Poder Executivo pela edição de uma medida provisória sem o devido respaldo legal, ou,
+em outras palavras, em desacordo com os pressupostos constitucionais de urgência e
+relevância!, Em consegiiência, observou-se um afrouxamento na avaliação desses critérios
+por parte do Poder Executivo.
+
+Outra censura estava relacionada à regulação das situações jurídicas constituídas pela
+medida provisória rejeitada, tanto expressa como tacitamente, no período de sua vigência.
+Havendo omissão do Congresso Nacional em regulá-las, essas situações conservar-se-iam,
+por tempo indeterminado, regidas pela medida provisória rejeitada. Desse modo, segundo
+Chiesa (2002), estaria consolidada uma situação na qual relações jurídicas poderiam se tornar
+definitivas com fundamento em ato unilateral baixado pelo Poder Executivo e não em virtude
+de ato normativo editado pelo Poder Legislativo ou com o qual esse tenha aquiescido
+previamente ou a posteriori.
+
+Por fim, conforme preceitua o art. 62, 8 6º da Constituição, a não apreciação de
+medida provisória, em prazo de 45 dias, pelo Congresso Nacional, teria como consegiuência o
+sobrestamento de todas as deliberações legislativas da Casa onde a medida provisória estiver
+tramitando, o que prejudicaria o bom andamento dos trabalhos legislativos. De fato,
+levantamento recentemente realizado pela Secretaria-Geral da Mesa da Câmara dos
+Deputados confirmou essa suspeita ao apontar que, entre 2004 e 2007, a pauta daquela Casa
+esteve obstruída, por conta daquele sobrestamento, em 70% das sessões, em média (BRASIL,
+2008b). Situação idêntica observou-se no Senado Federal. Em entrevista concedida ao
+programa Senado Federal em Pauta nº 47 (BRASIL, 2008c), em 27/05/2008, o presidente da
+Casa, Senador Garibaldi Alves Filho, ao ser indagado se havia consenso político sobre a
+3 Em consonância com essa crítica, o Congresso Nacional, sob forte pressão dos partidos de oposição ao
+Govemo, principalmente o PSDB e o DEM, reabriu a discussão sobre a forma de tramitação das medidas
+
+provisórias. Em consequência dessa ação, encontra-se atualmente em tramitação, na Câmara dos Deputados, a
+PEC nº2511-A, de 2006, do Senado Federal, que tem como objetivo alterar o art. 62 da Constituição de 1988.
+31
+
+necessidade de o Executivo reduzir a edição de medidas provisórias, afirmou que “[...] no ano
+passado [2007], por exemplo, das 122 sessões deliberativas ordinárias realizadas no Senado,
+89 estiveram sobrestadas por medidas provisórias. É um número significativo, pois representa
+73% de todas as reuniões deliberativas da Casa”. Nesse sentido, o novo art. 62, 8 6%, em
+combinação com o excessivo número de medidas provisórias editadas acarretou, na prática,
+uma virtual paralisação das demais atividades legislativas na Casa onde estava tramitando a
+medida provisória. Isso, de certa forma, permitiu ao Poder Executivo, de um lado, bloquear a
+tramitação no Congresso Nacional dos projetos que não fazem parte de sua agenda e, de
+outro, impor a apreciação da sua própria agenda, consubstanciada nas medidas provisórias.
+
+Pode-se concluir, portanto, que a Constituição de 1988 não se afastou do paradigma do
+constitucionalismo modemo ao dotar o Poder Executivo de um instrumento célere e poderoso
+para enfrentar situações que requeiram uma ação urgente do Estado.
+
+3.11 A produção legislativa do Poder Executivo no período republicano recente
+
+A importância do poder de legislar concedido ao Poder Executivo nas últimas
+constituições brasileiras pode ser avaliada empiricamente a partir da análise da taxa de
+dominância!! dos três Poderes ao longo do período, constante das tabelas seguintes.
+
+ 
+
+Tabela 1
+Leis aprovadas por autoria de iniciativa, exceto decretos-leis (1)
+Executivo Legislativo Judiciário
+Período Taxa de Nº Taxa de Nº Taxa de Nº
+- dominância (%) dominância (%) dominância (%)
+1946/1963 | 1804 40,7 2403 54,2 228 5,0 4430
+1964/1988 | 2527 | 74,0 [569 16,7 318 9,3 [3a
+
+ 
+
+Fonte: Pessanha (2007. Elaboração do autor.
+(1) Exclui leis delegadas!º e decretos-leis.
+
+Observa-se que os dois períodos analisados apresentam características distintas. No
+período 1946/1963 houve uma razoável predominância de legislação de iniciativa do Poder
+Legislativo e no período ditatorial nota-se uma clara supremacia do Poder Executivo.
+
+De acordo com Pessanha (2002), no período 1965/1985!º foram editados 2.481”
+decretos-leis, sendo 2449 aprovados. Verifica-se que quando os decretos-leis aprovados são
+
+!! A taxa de dominância em um determinado período é a relação entre o número de leis cuja iniciativa de autoria
+é de um determinado Poder e o total de leis aprovadas no mesmo período (Limongi, 2006).
+
+I5 A delegação foi pouco utilizada na tradição republicana brasileira: no período que correspondeu ao regime
+parlamentarista (1961-1963), apenas onze leis delegadas foram aprovadas; no govemo Fernando Collor, outras
+duas, em 1992.
+32
+
+agregados ao quantitativo de leis aprovadas de autoria do Poder Executivo, a preponderância
+legislativa desse Poder toma-se ainda mais flagrante, alcançando uma taxa de dominância de
+84,9% no período 1964/1988. É o que demonstra a tabela seguinte.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabela 2
+Leis aprovadas por autoria de iniciativa, inclusive decretos-leis (1)
+Executivo Legislativo Judiciário
+Período Nº Taxa de Nº Taxa de Nº Taxa de Nº
+dominância (%) dominância (%) dominância (%)
+
+1946/1963 | 1804 40,7 2403 54,2 225 5,0 4430
+
+1964/1988 | 4976 | 84,9 5569 | 9,7 38, 54 | 5863
+Fonte: Pessanha (2002). Elaboração do autor.
+(1) Exclui leis delegadas e inclui decretos-leis aprovados.
+
+ 
+
+A próxima tabela aponta as taxas de dominância do Poder Executivo no período que
+vai desde a instituição da medida provisória (1988) até o final de 2007. Elas continuaram
+bastante altas, confirmando a preponderância legislativa do Poder Executivo, mesmo após a
+promulgação da Constituição de 1988. Note-se que a entrada em vigor da Emenda
+Constitucional nº 32, de 2001, não afetou esse panorama.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabela 3
+Leis aprovadas por autoria de iniciativa e MP's originárias aprovadas (1)
+MP Leis ordinárias e leis complementares
+Executivo Legislativo Judiciário (2)
+é . o
+Período Presidente Taxa de Taxa de Taxa de N
+Nº | Nº | dominância | Nº | dominância | Nº | dominância
+(%) (%) (%)
+1989/1990 Samey/Collor 72 63 56 24,6 37
+1991/1992 | Collor/Itamar | 18 | 110 41 17,8 61
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1993/1994 Itamar 40 112
+EGO [TEREI Fo img TT
+1999/2002  FHC2 168 128.
+2003/2006 | Lulal | 215
+
+82 32,4 19
+148 33,2 24
+
+ 
+
+   
+
+174 35,6 19
+2007 Lula 2 60
+
+163 30,0 31
+53 36,8 5
+Fonte: (BRASIL, 2008d). Elaboração do autor.
+
+(1) Não inclui leis que abrem créditos especiais e suplementares; inclui medidas provisórias originárias (não
+inclui reedições), inclusive as que abrem créditos extraordinários; inclui leis ordinárias, leis complementares
+e emendas constitucionais.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+!6 Cabe notar que os decretos-leis não foram extintos em 1985, ano que corresponde ao fim do regime
+autoritário; sobreviveram até a promulgação da Constituição de 1988.
+
+7 Por força da legislação vigente na época de sua edição, 1.037 decretos-leis não foram submetidos ao
+Congresso Nacional. Dos 1.444 que tramitaram no Congresso Nacional, apenas 32 foram rejeitados, sendo que
+desses, 22 em virtude do disposto no art. 25 das Disposições Transitórias da Constituição de 1988.
+33
+
+(2) a Poder Judiciário, Ministério Público da União, Tribunal de Contas da União e leis de iniciativa
+popular.
+
+Verifica-se, portanto, que a faculdade de legislar do Poder Executivo, observada no
+período 1946-2007, entendida como competência tanto para iniciar legislação como para
+legislar de forma extraordinária e emergencial, tem suplantado a do próprio Poder Legislativo,
+relegado assim a um papel secundário naquilo que seria a sua principal competência
+originária.
+
+O propósito principal desse capítulo foi demonstrar que, em uma perspectiva histórica,
+a predominância da produção legislativa do Poder Executivo, vis-à-vis a do Poder Legislativo,
+foi se acentuando com o passar dos anos. De uma taxa de dominância inferior à do Poder
+Legislativo no período 1946/1963 (40,7% contra 54,2%), o Poder Executivo no período
+ditatorial alcançou uma taxa de quase 85% mas, de forma surpreendente, com o retorno à
+normalidade democrática, essa taxa diminuiu no período 1989-2007 (média de 60%), mas não
+retornou ao nível da quadra democrática anterior ao golpe de 1964 (40,7%). Como visto em
+capítulo anterior, essa exacerbação do poder de legislar não tem apoio na sistematização do
+princípio da separação dos poderes preconizado por Montesquieu. Entretanto, em face dos
+números apresentados, não se pode negar que o Poder Executivo tem usado e abusado dessa
+
+competência excepcional a ele concedida nas constituições brasileiras.
+34
+
+4A MEDIDA PROVISÓRIA COMO INSTRUMENTO PARA A ABERTURA
+DE CREDITO EXTRAORDINÁRIO
+
+A abertura de créditos extraordinários por meio de medida provisória é,
+possivelmente, a face mais visível das prerrogativas legislativas do Poder Executivo no Brasil.
+Isso porque concede ao Poder Executivo a competência de alterar unilateralmente a lei
+orçamentária anual, considerada, em um regime democrático, a mais importante. Ao editar a
+medida provisória e, ato contínuo, efetuar o gasto correspondente, o que lhe é facultado pela
+Constituição de 1988, o Poder Executivo retira do Congresso Nacional a possibilidade de
+decidir a respeito. Com efeito, nesse caso em particular, pouco ou nada pode ser feito pelo
+Poder Legislativo, como será visto mais adiante. O objetivo deste capítulo é apresentar um
+breve histórico da legislação relativa à tramitação dos créditos extraordinários no Congresso
+Nacional.
+
+4.1 Histórico
+
+A legislação recente acerca dos créditos extraordinários, no que trata das condições
+para a sua abertura, ratifica, segundo Perezino (1999, p. 298), disposições existentes desde o
+Império. Isso pode ser observado nos seguintes trechos de alguns diplomas legais imperiais e
+do início do período republicano, conforme Biolchini (1928, apud PEREZINO, 1999, p. 298).
+
+Em casos extraordinários, como sejam os de epidemia ou qualquer outra calamidade
+pública, sedição, insurreição, rebelião e outros desta natureza, o Govemo poderá
+autorizar previamente a despesa, abrindo créditos extraordinários e dando
+imediatamente conta ao Poder Legislativo. (Lei nº 514, de 28 de outubro de 1848,
+art.53; Lei nº 589, de 1850, art. 4º)
+
+Conjuntamente com o decreto de abertura de qualquer crédito extraordinário ou
+suplementar, fará o Govemo publicar a proposta e informações demonstrativas das
+necessidades dos mesmos créditos. (Lei nº 3.229, de 1884, art. 20; Lei nº 266, de
+1894, art. 8º)
+
+Os diferentes ministérios, nos respectivos relatórios, darão conta ao Congresso dos
+motivos de necessidade e urgências, que determinaram a abertura de créditos
+suplementares e extraordinários, da aplicação que lhe deram, quanto por eles se
+gastou e o estado em que se acham. (Lei nº 1.144, de 1903, art. 59)
+
+O autor afirma que, tanto no Império como no início do período republicano, foi
+frequente o recurso ao crédito extraordinário para o enfrentamento de rebeliões. E mais, que
+diversos documentos históricos dão conta que os créditos extraordinários foram muitas vezes
+utilizados em desfavor das despesas autorizadas pelo Poder Legislativo (PEREZINO, 1999).
+Entretanto, os créditos extraordinários nunca mereceram tratamento constitucional até a
+promulgação da Constituição de 1934 que, como visto em capítulo anterior, autorizou a
+35
+
+abertura de créditos extraordinários apenas para “despesas urgentes e imprevistas em caso de
+calamidade pública, rebelião ou guerra” (art. 186, 819).
+
+Mais recentemente, a partir de 1964, e até a promulgação da Constituição de 1988, a
+abertura de créditos extraordinários estava regulada pelos arts. 41, III e 44, da Lei nº 4.320, de
+1964. Esses dispositivos tratavam das condições e dos procedimentos necessários à abertura
+do crédito.
+
+Art. 41, Os créditos adicionais classificam-se em:
+
+III. extraordinários, os destinados a despesas urgentes e imprevistas, em caso de
+guerra, comoção intestina ou calamidade pública.
+
+Art. 44. Os créditos extraordinários serão abertos por decreto do Poder Executivo,
+que deles dará imediato conhecimento ao Poder Legislativo.
+
+De acordo com Machado Jr. e Reis (2002/2003), a abertura dos créditos
+extraordinários, embora não seguisse a regra da prévia autorização legal por parte do Poder
+Legislativo, exigida para os créditos suplementares e especiais, não eximia esse Poder de
+julgar a ação do chefe do Poder Executivo, avaliando as circunstâncias em que havia ocorrido
+a sua abertura, e zelando para evitar abusos.
+
+A partir da promulgação da Constituição de 1988, a utilização de medida provisória
+para a abertura de crédito extraordinário passou a ser prática corrente, em consonância com a
+doutrina dominante. Entretanto, vale assinalar que esse entendimento sempre foi alvo de
+controvérsias!, A corrente majoritária se apoiou no trecho final do 8 3º do art. 167 -
+observado o disposto no art. 62 - e no fato de que é exatamente o art. 62 que regula a adoção
+de medida provisória. São os seguintes os dispositivos pertinentes:
+
+Art. 167. São vedados:
+
+[is]
+
+$ 2º Os créditos especiais e extraordinários terão vigência no exercício financeiro em
+que forem autorizados, salvo se o ato de autorização for promulgado nos últimos
+quatro meses daquele exercício, caso em que, reabertos nos limites de seus saldos,
+serão incorporados ao orçamento do exercício financeiro subsequente.
+
+8 3º A abertura de crédito extraordinário somente será admitida para atender a
+despesas imprevisíveis e urgentes, como as decorrentes de guerra, comoção interna
+ou calamidade pública, observado o disposto no art. 62.
+
+Art. 62. Em caso de relevância e urgência, o Presidente da República poderá adotar
+medidas provisórias, com força de lei, devendo submetê-las de imediato ao
+
+18 Segundo Giacomoni (2005, p. 291), “o emprego da medida provisória para a abertura de crédito extraordinário
+é matéria controversa”. De acordo com Sanches (2001, apud Giacomoni, 2005, p. 291), “dado que pela absoluta
+funcionalidade do procedimento tradicional, o entendimento mais razoável para a referência ao art. 62 da
+Constituição, contida no $3º supra, seria o de haver necessidade de convocação do Congresso Nacional no caso
+da abertura de crédito extraordinário ocorrer durante período de recesso...”. Observa-se que aqui Sanches se
+referia à redação original do art. 62. De todo modo, as observações continuam válidas. A respeito desse tema, ver
+também Sanches (2001).
+36
+
+Congresso Nacional, que, estando em recesso, será convocado extraordinariamente
+para se reunir no prazo de cinco dias.
+
+Parágrafo único. As medidas provisórias perderão eficácia, desde a edição, se não
+forem convertidas em lei no prazo de trinta dias, a partir de sua publicação, devendo
+o Congresso Nacional disciplinar as relações jurídicas delas decorrentes.
+
+A atual redação do art. 62, dada pela Emenda Constitucional nº 32/2001, consolidou
+definitivamente o entendimento da maioria, quando, de forma indireta, excepcionou a
+vedação da edição de medida provisória para a abertura de crédito extraordinário. É a seguinte
+a redação vigente, no que interessa ao trabalho:
+
+Art. 62. Em caso de relevância e urgência, o Presidente da República poderá adotar
+medidas provisórias, com força de lei, devendo submetê-las de imediato ao
+Congresso Nacional.
+
+$ 12 E vedada a edição de medidas provisórias sobre matéria:
+
+1- relativa a:
+
+[..]
+
+d) planos plurianuais, diretrizes orçamentárias, orçamento e créditos adicionais e
+suplementares, ressalvado o previsto no art. 167,8 3º;
+
+Essa nova versão não invalida as críticas à utilização de medida provisória para a
+abertura de crédito extraordinário. Segundo Giacomoni (2005, p. 291):
+
+Por outro lado, o emprego de medida provisória para a abertura de crédito
+extraordinário não é certamente uma boa solução. Ao ser apreciada, a medida
+provisória poderá receber emendas, com objetivos contrários aos pretendidos com a
+medida, e até mesmo ser rejeitada. O fundamento do crédito extraordinário é a
+urgência da ação governamental, não devendo se cogitar em prévia autorização
+legislativa para a realização das despesas correspondentes. Careceria de sentido,
+portanto, emendar e rejeitar um crédito extraordinário. Como o problema está,
+também, na excessiva flexibilidade concedida na utilização do mecanismo, dever-se-
+ia retomar ao modelo anterior ao da Constituição de 1988, ou seja, a abertura do
+crédito extraordinário dar-se-ia apenas em caso de guerra, comoção intema ou
+calamidade pública, por meio de Decreto do Poder Executivo, com imediata
+comunicação ao Poder Legislativo.
+
+No que diz respeito às situações para as quais é possível a abertura de crédito
+extraordinário, observa-se a diferença crucial existente entre a redação da Lei nº 4.320, de
+1964 e a da Constituição de 1988. Enquanto a primeira afirma que apenas a constatação de
+uma situação de guerra, comoção intestina ou calamidade pública justificaria a abertura de um
+crédito extraordinário, a Constituição de 1988 considera essas situações como meramente
+exemplificativas ao usar a expressão “como as decorrentes de guerra, comoção intema ou
+calamidade pública”. Essa flexibilização foi, certamente, uma das causas da vulgarização do
+uso do crédito extraordinário por parte do Poder Executivo. Ressalte-se que o crédito
+extraordinário difere dos demais créditos adicionais pelo fato de serem abertos por medida
+provisória, o que lhes proporciona eficácia imediata. Assim, ao contrário dos demais tipos de
+37
+
+créditos, o Poder Executivo não depende de prévia autorização do Congresso Nacional para
+realizar a despesa prevista.
+
+Finalmente, os pressupostos constitucionais exigidos para a edição de medida
+provisória destinada a abertura de crédito extraordinário resultam da combinação do disposto
+no art. 62 com o estatuído no art. 167, 8 3º ambos da Constituição de 1988. O primeiro
+somente autoriza a abertura de crédito extraordinário em caso de relevância e urgência; o
+segundo determina que as despesas a serem atendidas pelo crédito sejam urgentes e
+imprevisíveis. Essa última condição pode ser entendida da seguinte maneira: a despesa a ser
+coberta pelo crédito extraordinário deve ser de tal natureza que o Poder Executivo não tenha
+condição de prever e, portanto, de incluir recursos para o seu atendimento na proposta
+orçamentária.
+
+Resumindo, a edição de medida provisória que se destina a abertura de crédito
+extraordinário, se legitima pela observância da ocorrência simultânea dos seguintes requisitos:
+a existência de uma situação fática impossível de ser prevista, envolvendo um tema relevante,
+que demanda uma atuação urgente por parte do Poder Executivo.
+
+4.2. A tramitação no Congresso Nacional
+
+A apreciação das medidas provisórias pelo Congresso Nacional foi, como visto,
+sucessivamente regulada pelas resoluções do Congresso Nacional nº 1, de 1989 e de nº 1, de
+2002, essa atualmente em vigor. A última, em seu art. 2º, 8 6º, estipula que cabe à Comissão
+Mista prevista no art. 166, $ 1º da Constituição de 1988, a apreciação de medida provisória
+que abre crédito extraordinário.
+
+Ar. 2º
+
+$ 6º Quando se tratar de Medida Provisória que abra crédito extraordinário à lei
+orçamentária anual, conforme os arts, 62 e 167, $3º da Constituição Federal, o
+exame e o parecer serão realizados pela Comissão Mista prevista no art. 166, 819, da
+Constituição, observando-se os prazos e os ritos estabelecidos nesta Resolução.
+
+Até o advento da Resolução nº 1, de 2006, do Congresso Nacional, os ritos a que se
+referia o art. 62, 8 6º eram os estabelecidos pela Resolução nº 1, de 2001 e suas alterações.
+Essa, por sua vez, determinava:
+
+Art. 22 A Comissão Mista de Planos, Orçamentos Públicos e Fiscalização tem por
+competência:
+
+$ 1º A Comissão, no exame e emissão de parecer à medida provisória que abra
+crédito extraordinário, conforme art. 62 e art. 167, 8 3, da Constituição, observará,
+no que couber, o rito estabelecido em resolução própria do Congresso Nacional.
+38
+
+Essa última resolução foi revogada pela Resolução nº 1, de 2006, em vigor a partir de
+dezembro de 2006. No que diz respeito aos créditos extraordinários inova, ao restringir a
+possibilidade de o Congresso Nacional alterá-lo (art.111).
+
+Art. 110. A CMO, no exame e emissão de parecer à medida provisória que abra
+crédito extraordinário, conforme arts. 62 e 167, 8 3º, da Constituição, observará, no
+que couber, o rito estabelecido em resolução específica do Congresso Nacional.
+Parágrafo único. A inclusão de relatório de medida provisória na ordem do dia da
+CMO será automática e sua apreciação terá precedência sobre as demais matérias
+em tramitação.
+
+Art. 111. Somente serão admitidas emendas que tenham como finalidade modificar
+o texto da medida provisória ou suprimir dotação, total ou parcialmente.
+
+Essa alteração está em consonância com a própria natureza do instrumento. Ao menos
+em tese, a execução financeira dos créditos extraordinários abertos deveria ser imediata e no
+valor total solicitado, o que tomaria sem sentido, tanto o emendamento como a rejeição da
+medida provisória, como bem salientou Giacomoni (2005).
+
+Resumindo, a atuação do Congresso Nacional no que tange à medida provisória que
+abre crédito extraordinário está, de acordo com a legislação vigente, limitada às seguintes
+opções: aprová-la integralmente; rejeitá-la no mérito, ou por não atender os pressupostos
+constitucionais de relevância e urgência; modificar o texto da medida provisória; ou, no que
+se refere à programação constante do crédito, diminuir o seu montante, caso entenda
+excessivo o valor previsto. Qualquer uma das opções tem pouca ou nenhuma efetividade. A
+aprovação é inócua, visto que a própria edição da medida provisória já autorizava o gasto. A
+rejeição, por qualquer motivo, implicará na necessidade de aprovação de um decreto
+legislativo regulando as relações jurídicas constituídas durante o período em que vigeu a
+medida provisória. Ora, se o gasto já tiver ocorrido, como é de se esperar, nada mais resta ao
+Congresso Nacional que convalidar os atos correspondentes. A modificação do texto da
+medida provisória também não tem sentido, visto que esse, normalmente, apenas consolida os
+valores das programações de trabalho constantes do crédito. A diminuição do montante
+somente é possível caso se saiba, de antemão, a parte ainda não utilizada do crédito, ou aquela
+
+que se tenha certeza que não será gasta.
+39
+
+5 O EFEITO DOS CRÉDITOS ORÇAMENTÁRIOS NOS ORÇAMENTOS
+FISCAL E DA SEGURIDADE SOCIAL (2003-2007)
+
+Este capítulo tem como objetivo analisar o efeito dos créditos extraordinários sobre os
+orçamentos fiscal e da seguridade social do período 2003-2007, com o objetivo de testar a
+hipótese da pesquisa. Faz-se previamente necessário definir algumas expressões utilizadas nas
+tabelas e explicitar algumas simplificações metodológicas adotadas na análise e impostas por
+
+limitações intrínsecas ao banco de dados utilizado.
+
+5.1 Definições
+
+a) Orçamento inicial - Corresponde à soma dos valores dos orçamentos fiscal e da
+seguridade social (exceto fonte 143!) constantes da lei orçamentária anual aprovada pelo
+Congresso Nacional e sancionada pelo Presidente da República.
+
+b) Orçamento autorizado (sem CE?) - Corresponde aos valores do Orçamento inicial
+retificado pelos créditos adicionais, exceto créditos extraordinários, e pelas alterações
+introduzidas pelo Poder Executivo com base em autorização expressa na lei orçamentária
+anual ou na Constituição de 1988.
+
+c) Orçamento autorizado (com CE) - Corresponde aos valores do Orçamento inicial
+retificado pelos créditos adicionais, inclusive créditos extraordinários, e pelas alterações
+introduzidas pelo Poder Executivo com base em autorização expressa na lei orçamentária
+anual ou na Constituição de 1988.
+
+d) Valor pago (sem CE) - Corresponde ao valor pago até 31/12 do ano em análise, exceto
+créditos extraordinários, relativo ao Orçamento Autorizado (sem CE).
+
+e) Valor pago (com CE) - Corresponde ao valor pago até 31/12 do ano em análise, inclusive
+créditos extraordinários, relativo ao Orçamento Autorizado (com CE).
+
+f) RP pago (sem CE) - Corresponde ao valor pago até 31/12 do ano em análise, relativo às
+despesas que restaram a pagar de exercícios anteriores, exceto as que tiveram origem em
+créditos extraordinários.
+
+9) RP pago (com CE) - Correspondente ao valor pago até 31/12 do ano em análise, relativo
+às despesas que restaram a pagar de exercícios anteriores, inclusive as que tiveram origem em
+
+créditos extraordinários.
+
+I9 A fonte 143 (Títulos de Responsabilidade do Tesouro - Refinanciamento da Dívida Mobiliária Federal)
+corresponde ao montante da dívida que será amortizada com a emissão de novos títulos.
+2º CE significa Crédito Extraordinário.
+40
+
+h) Pago total (sem CE) - Corresponde à soma do Valor Pago (sem CE) com o RP Pago
+(sem CE).
+i) Pago total (com CE) - Corresponde à soma do Valor Pago (com CE) com o RP Pago
+(com CE).
+j) CE pago - Corresponde à diferença entre o Pago total (com CE) e o Pago total (sem CE).
+
+5.2 Simplificações e consequências
+
+Dentre os exercícios pesquisados, 2003 a 2007, o último apresentou uma atipicidade.
+Naquele exercício foram abertos créditos extraordinários para mais de uma centena de
+programações constantes da lei orçamentária anual. O fato por si só é inusitado, porque foge à
+lógica orçamentária. A existência da programação na lei orçamentária anual vai de encontro à
+condição de imprevisibilidade exigida para a abertura de crédito extraordinário. Nesses casos,
+o correto seria a apresentação de um projeto de lei de crédito suplementar. As simplificações
+adotadas dizem respeito a essa particularidade, em conjugação com limitações intrínsecas ao
+banco de dados utilizado. Assim, foram adotados, para aquele ano, os seguintes
+procedimentos simplificadores, os quais podem acarretar as consequências apontadas:
+
+a) na ocorrência simultânea, em uma determinada programação, de valores não nulos
+para Orçamento autorizado (sem CE), crédito extraordinário e valor cancelado, considerou-
+se esse último incidindo sobre o Orçamento autorizado (sem CE) enquanto existisse saldo;
+a partir daí, incidente sobre o crédito extraordinário. Nesse caso, o valor máximo de uma
+possível subavaliação do Orçamento autorizado (sem CE) e, em consegiiência, de uma
+superavaliação da influência dos créditos extraordinários nos orçamentos autorizados seria de
+R$ 90 milhões.
+
+b) na ocorrência simultânea, em uma determinada programação, de valores não nulos
+para Orçamento autorizado (sem CE), crédito extraordinário e valor executado, considerou-
+se esse último incidindo sobre o Orçamento autorizado (sem CE) enquanto existisse saldo;
+a partir daí, incidente sobre o crédito extraordinário. Nesse caso, o valor máximo de uma
+possível superavaliação do Valor pago (sem CE) e, em consegiuência, de uma subavaliação
+da influência dos créditos extraordinários na execução financeira seria de R$ 188 milhões.
+
+Concluindo, tendo em vista os valores globais envolvidos na análise dos dados, os
+
+possíveis erros máximos apontados não invalidam as conclusões deste trabalho.
+5.3 Os créditos extraordinários no período 2003-2007
+
+41
+
+A tabela seguinte apresenta um resumo dos valores autorizados correspondentes aos
+
+créditos extraordinários abertos por medidas provisórias no período 2003-2007.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabela 4
+Medidas provisórias de créditos extraordinários: 2003 - 2007
+Medidas provisórias
+Ano fai
+Editadas | Aprovadas Rej pe pa Valores autorizados
+
+2003 5 5 0 2,6
+2004 10 9 1 81
+2005 17 16 1 11,7
+2006 | 27 26 1 ] 22,2
+2007 | 20 17 3 | 48,7
+
+ 
+
+Fonte: (BRASIL, 2008e). Elaboração do autor.
+Notas: Valores em R$ bilhões.
+Orçamentos Fiscal e da Seguridade Social.
+
+5.4 O efeito global dos créditos extraordinários nos orçamentos autorizados
+
+A tabela seguinte apresenta a influência dos créditos extraordinários nos orçamentos
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+autorizados.
+Tabela 5
+Efeito global dos créditos extraordinários nos orçamentos autorizados: 2003 - 2007
+Orçamento e Orçamento o 7
+
+A Orçamento autorizado | O di aútorizado | (MD q (d) E /(b)
+no (sem CE) (%) (com CE) (%) (%)
+(a) (b) (c) (d) (e) (£
+2003 513,9 558,1 +8,6 560,7 +9,1 +0,5
+2004 609,0 638,7 +4,9 646,8 +6,2 +1,3
+2005 670,6 687,2 425 699,0 +42 +1,7
+2006 823,2 873,3 +6,1 895,6 +8,8 +2,6
+2007 8704 | 8920 “o MT 4810455
+
+ 
+
+Fonte: SIAFI / SIGA Brasil. Acesso em 06/10/2008. Elaboração do autor.
+Notas: Valores em R$ bilhões.
+Orçamentos Fiscal e da Seguridade Social.
+
+Da observação dessa tabela conclui-se que os créditos extraordinários vêm, desde
+
+2002, aumentando, de forma constante e crescente, o valor do Orçamento autorizado (sem
+CE). Esse incremento, de 0,5%, em 2003, alcançou 5,5%, em 2007. Verifica-se que, de 2006
+para 2007, o aumento percentual mais que duplicou (2,6% em 2006 e 5,5% em 2007).
+42
+
+5.5 O efeito dos créditos extraordinários nos orçamentos autorizados, por grupo
+de natureza de despesa
+
+Esta seção tem o objetivo de verificar o impacto dos créditos orçamentários no
+orçamento autorizado, em cada grupo de natureza de despesa, ano a ano.
+
+A primeira tabela evidencia a distribuição percentual, ano a ano, por grupo de natureza
+de despesa, do Orçamento autorizado (sem CE) e do Orçamento autorizado (com CE). Por
+meio da comparação entre essas duas colunas, pode-se verificar em que medida a edição de
+créditos extraordinários alterou a distribuição percentual entre os grupos de natureza de
+despesa do Orçamento autorizado (sem CE).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Tabela 6
+
+Distribuição percentual dos grupos de natureza de despesa para os valores autorizados: 2003-2007
+Grupo de Natureza de | 2003 (%) 2004 (%) 2005 (%) 2006 (%) 2007 (%)
+
+Despesa (1) 02) (1) 2) (1) 02) (1) 2) (1) 02)
+a o 142 141 141 140 147 146 132 129 144 137
+oclals
+Juros e Encargos da 168 167 184 181 161 159 206 201 189 179
+Dívida
+Guiras Despesas 439 438 436 439 484 488 42,3 431 452 456
+orrentes
+Investimentos as 25 23 24 Sa 33 215 2,9 3,0 45
+Inversões Financeiras 4,6 5,0 5a 5,6 49 4,9 35 3,0 3,6 4,2
+Amortização /
+Refinanciamento da 15,5 154 131 129 1060 98 158 154 123 116
+Dívida
+Peserva de 25 25| 32 | 32) 2,7 21 | 2a | 2,0 26| 25
+ontingência
+
+ 
+
+Fonte: SIAFI / SIGA Brasil. Acesso em 06/10/2008. Elaboração do autor.
+Notas: Orçamentos Fiscal e da Seguridade Social.
+Eventuais diferenças são devidas aos arredondamentos.
+(1) Orçamento autorizado (sem CE)
+(2) Orçamento autorizado (com CE)
+
+Em todos os anos, a distribuição percentual entre os grupos de natureza de despesa é
+alterada por influência dos créditos extraordinários, o que configura um desvirtuamento das
+prioridades estabelecidas pelo Congresso Nacional, via procedimento legal ordinário.
+Verifica-se que os grupos Pessoal e Encargos Sociais, Juros e Encargos da Dívida e
+Amortização / Refinanciamento da Divida tiveram, em todos os anos, a sua participação
+reduzida em função do aumento observado nos grupos Outras Despesas Correntes,
+43
+
+Investimentos e Inversões Financeiras (à exceção do grupo Outras Despesas Correntes, no ano
+
+de 2003). As tabelas seguintes apresentam os detalhes das alterações na distribuição entre os
+
+grupos de natureza de despesa, para cada ano.
+
+Tabela 7
+Efeito dos créditos extraordinários nos orçamentos autorizados de 2003, por grupo de natureza de despesa
+
+ 
+
+ 
+
+ 
+
+Orçamento o Orçamento o .
+Grupo de Natureza de ro autorizado (b) no autorizado (d) O (d) aaa
+Despesa (sem CE) É (com CE) º y
+(a) | (b) (c) (d) (e) (d)
+Fen oC DEõos | 710 | 79,3 4,9 79,3 +29 | 0
+ociais
+da Ens dá 93,6 93,7 +41 93,7 +0,1 0
+ívida
+Outras Despesas
+Comentas 224,0 245,2 +9,5 245,5 +9,6 +0,1
+Investimentos Í 14,2 13,9 -2,2 13,9 -1,6 +0,6
+Inversões Financeiras | 24,4 25;7 +5,3 28,0 +14,8 +9,0
+Amortização / :
+Refinanciamento da 60,2 86,6 +43,9 86,6 +43,9 0
+Divida
+pe 20,5 13,7 -331 0
++8,6 +0,5
+
+ 
+
+ 
+
+ 
+
+Fonte: SIAFI / SIGA Brasil. A cesso em 06/10/2008. Elaboração do autor.
+
+Notas: Valores em R$ bilhões.
+Orçamentos Fiscal e da Seguridade Social.
+
+Eventuais diferenças são devidas aos arredondamentos.
+
+No exercício de 2003, o acréscimo observado no Orçamento autorizado (sem CE) por
+
+influência dos créditos extraordinários, concentrou-se quase que integralmente no grupo
+
+Inversões Financeiras (+9,0%).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabela 8
+Efeito dos créditos extraordinários nos orçamentos autorizados de 2004, por grupo de natureza de despesa
+Orçamento n Orçamento o. po
+
+Grupo de Natureza do | Oramento | autorizado | OH(GNO) | cuiorizado | (Mat | (Oh)
+
+Despesa (sem CE) o (com CE) º 9,
+
+(a) (b) (c) (d) (e) (1)
+
+Pessoal e Encargos
+Sociais 84,1 90,2 +13 90,3 +13 +0,1
+Juros e Encargos da 117,8 1174 DM TA 4 0
+Divida Ê ' e 4 '
+aires icenesas 273,6 278,3 4,7 283,6 43,7 4,9
+
+ 
+
+Correntes
+44
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+Orçamento q Orçamento o º
+Grupo de Natureza de aro autorizado (b) (a) autorizado (d) a (o) | td a (b)
+Despesa (sem CE) (com CE)
+(a) (b) (c) (d) (e) (1)
+Investimentos 12,4 14,9 +20,1 1a: 423,3 | +2,6
+Inversões Financeiras 39,2 33,9 +2,0 36,3 +9,2 +71
+Amortização /
+Refinanciamento da 66,0 83,5 +26,7 83,5 +6,7 0
+Divida
+psp 22,0 204 RI 20,4 “a 0
+ontingência Í
+Total 609,0 638,7 +4,9 646,8 +6,2 +1,3
+Fonte: SIAFI / SIGA Brasil. Acesso em 06/10/2008. Elaboração do autor.
+
+ 
+
+Notas: Valores em R$ bilhões.
+Orçamentos Fiscal e da Seguridade Social.
+Eventuais diferenças são devidas aos arredondamentos.
+No exercício de 2004, foi, uma vez mais, no grupo Inversões Financeiras que mais se
+fez sentir a influência dos créditos extraordinários sobre o Orçamento autorizado (sem CE)
+(47,1%).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Tabela 9
+Efeito dos créditos extraordinários nos orçamentos autorizados de 2005, por grupo de natureza de despesa
+Orçamento a Orçamento . "
+Grupo de Natureza de Orçamento autorizado (b) na autorizado (d) a (8 a
+Despesa (sem CE) o (com CE) o 4
+(a) (b) (c) (d) (e) (f)
+
+o 98,1 101,2 41 101,7 +36 +0,5
+
+ociais ,
+pp À 110,8 110,8 0 110,8 0 0
+Dívida Í
+Rs Hesriesas 319,1 332,7 +43 341,0 +69 +2,5
+
+orrentes
+Investimentos | 21,4 21,4 +0,4 23,4 +9,4 +9,0
+Inversões Financeiras | 33,8 33,4 -1,0 34,5 42,1 43,1
+Amortização / :
+Refinanciamento da | 65,8 68,8 +4,6 68,8 +4,6 0
+Divida Í
+Peserva de 21,6 -12,9 18,8 -12,9 0
+
+ontingência
+
+Total | 670,6 | 4,5 | 699, +1,7
+
+   
+
+ 
+
+Fonte: SIAFI / SIGA Brasil. Acesso em 06/10/2008. Elaboração do autor.
+Notas: Valores em R$ bilhões.
+
+Orçamentos Fiscal e da Seguridade Social.
+
+Eventuais diferenças são devidas aos arredondamentos.
+45
+
+O ano de 2005 marca o início de uma mudança. Nesse exercício, o Orçamento
+
+autorizado (sem CE) do grupo Investimentos foi proporcionalmente o mais afetado pelos
+
+créditos extraordinários (+9,0%).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabela 10
+Efeito dos créditos extraordinários nos orçamentos autorizados de 2006, por grupo de natureza de despesa
+Orçamento p Orçamento o a
+Erupode Namrezado gemea autorizado | (b) di autorizado | (D na (d) o
+Despesa (sem CE) o (com CE) o o
+(a) (b) (c) (d) (e) (1)
+Bessa 6-Bfidangos 112,7 115,5 +,5 115,6 +,6 +41
+Sociais
+Juros e Encargos da 179,5 179,9 +,2 179,9 +,2 0
+Dívida
+Enre Despesas 366,7 369,4 +0,8 386,3 454 +46
+orrentes
+
+Investimentos 21,2 21,7 42,1 26,2 483,1 +20,6
+Inversões Financeiras 30,8 30,6 -0,7 31,4 +2,0 +2,6
+Amortização / E
+Refinanciamento da 89,5 138,3 +54,4 138,3 +54,4 0
+Divida
+Pesado 22,8 -20,9 0
+Contingência
+
+823,2 , 46,1. +,6
+
+ 
+
+Fonte: SIAFI / SIGA Brasil. Acesso em 06/10/2008. Elaboração do autor.
+Notas: Valores em R$ bilhões.
+Orçamentos Fiscal e da Seguridade Social.
+Eventuais diferenças são devidas aos arredondamentos.
+
+O exercício de 2006 confirma a reversão de tendência iniciada em 2005: a maior
+
+influência dos créditos extraordinários novamente se fez sentir no grupo Investimentos e com
+mais intensidade (+20,6%).
+
+Efeito dos créditos extraordinários nos orçamentos
+
+Tabela 11
+autorizados de 2007, por grupo de natureza de despesa
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Orçamento 4 Orçamento o º
+Grupo de Natureza de = autorizado (b) É a autorizado (d) E (a) (d) ao (b)
+Despesa (sem CE) n (com CE) o f,
+(a) (b) (c) (d) (e) (
+gessoal e Encargos 128,1 128,8 +0,6 128,8 +0,6 0
+ociais
+Juros e Encargos da 165,9 168,2 “4 168,2 +44 0
+Divida
+Outros Despesas 413,9 403,0 -2,6 429,2 43,7 +6,5
+
+Correntes
+
+ 
+46
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Orçamento q Orçamento o º
+Grupo de Natureza de aro autorizado (b) (a) autorizado (d) a (a) | (d) a (b)
+Despesa (sem CE) E (com CE) o 0
+(a) (b) (c) (d) (e) (d)
+Investimentos PA 274 -1,0 42,1 +53,9 +55,4
+Inversões Financeiras | 32,4 32,1 -1,2 39,5 421,9 423,4
+Amortização / i
+Refinanciamento da PIA 109,6 +42,2 109,6 +42,2 0
+Divida
+pe 25,7 23,3 93 233 -93 0
+ontingência
+Total 8704, 8920, 25, 940, +81 +55
+
+ 
+
+ 
+
+Fonte: SIAFI / SIGA Brasil. Acesso em 06/10/2008. Elaboração do autor.
+Notas: Valores em R$ bilhões.
+Orçamentos Fiscal e da Seguridade Social.
+Eventuais diferenças são devidas aos arredondamentos.
+
+Em 2007 acentua-se a influência dos créditos extraordinários. Esses são responsáveis
+
+por um incremento de 55,4% no valor do grupo Investimentos do Orçamento autorizado (sem
+
+CE).
+
+Da observação do conjunto das tabelas apresentadas conclui-se que os créditos
+
+extraordinários têm sido abertos quase que exclusivamente nos grupos Outras Despesas
+
+Correntes, Investimentos e Inversões Financeiras. Nos dois primeiros estão concentrados os
+
+programas governamentais que trazem benefícios diretos à sociedade e, são, justamente por
+
+conta desse fato, os que despertam maior interesse por parte do Congresso Nacional. Em
+
+particular, o grupo Investimentos concentra as emendas que têm como objetivo alocar
+
+recursos para obras em seus redutos eleitorais, como mostra a tabela seguinte.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabela 12
+Emendas aprovadas no grupo Investimentos: 2003-2007
+Total de emendas aprovadas Emendas aprovadas em (c)/(a) | (dy (b)
+
+Investimentos (%) (%)
+
+dg Nº emendas | Valor aprovado Nº emendas | Valor aprovado
+(a) (b) (c) (d) (e) (£
+2003 7.467 9.080 6.306 7.557 84 83
+“2004 | 7.909 6.393 6.595 5.483 83 86
+2005 8.247 9.947 6.899 8.779 ao 88
+2006 | 8.528 10.858 6.830 9252 | 80 | 85
+2007 | 9.571 16.187 7.389 14.208 VT , 8
+
+ 
+
+Fonte: SIA FI/SIGA Bra Acesso em DO/10/2008. Elaboração do autor.
+Notas: Valores em R$ milhões.
+Orçamentos Fiscal, da Seguridade Social e de Investimento das Empresas Estatais.
+Autores: Parlamentares, bancadas estaduais e regionais, comissões permanentes. Não inclui os
+47
+
+relatores setoriais e geral.
+
+O grupo Investimentos, além de ser, como foi visto, o grupo que mais sofre a
+influência da abertura dos créditos extraordinários é, também, o de maior interesse dos
+parlamentares e, portanto, o que recebe o maior volume de emendas. Essa combinação, aliada
+ao fato de que é no grupo Investimentos onde se concentra a maior parte das despesas
+discricionárias, ou seja, aquelas para as quais a execução orçamentária não é obrigatória,
+reforça a suspeita que o Poder Executivo, por meio dos créditos orçamentários, cria novas
+prioridades de investimentos e relega as incluídas pelo Congresso Nacional a um segundo
+plano. As tabelas seguintes destinam-se a verificar empiricamente como o aumento observado
+nos orçamentos autorizados, por conta da abertura de créditos extraordinários, repercute na
+
+execução financeira.
+
+5.6 O efeito global dos créditos extraordinários na execução financeira
+
+O aumento observado no Orçamento autorizado (sem CE) dos anos 2003 a 2007, por
+conta da edição de créditos extraordinários, visto nas tabelas da seção anterior, não teria
+nenhuma consequência prática se não viesse acompanhado da execução financeira daqueles
+créditos. A tabela seguinte tem o intuito de verificar se a execução financeira apresentou o
+
+mesmo comportamento observado nos orçamentos autorizados, ano a ano.
+
+Tabela 13
+Efeito global dos créditos extraordinários na execução financeira: 2003 - 2007
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pago total (sem | Pago total (com (b)-(a)/(a)
+
+Ano CE) CE) (%)
+
+(a) (b) (c)
+2003 473,9 476,2 +0,5
+2004 521,0 “596 +1,7
+2005 575,8 “5850 +1,6
+2006 772,0 BBB +22
+2007 : 787,3 822,1 +44
+
+ 
+
+Fonte: SIAFI / SIGA Brasil. Acesso em 06/10/2008. Elaboração do autor.
+Notas: Valores em R$ bilhões.
+Orçamentos Fiscal e da Seguridade Social.
+
+Observa-se que os créditos extraordinários têm sido responsáveis por uma parcela
+cada vez maior da execução financeira, comportamento similar ao verificado em relação aos
+orçamentos autorizados.
+48
+
+5.7 O efeito dos créditos extraordinários na execução financeira, por grupo de
+natureza de despesa
+
+Esta seção tem o objetivo de verificar o impacto dos créditos orçamentários na
+execução financeira, em cada grupo de natureza de despesa, ano a ano.
+
+A primeira tabela evidencia a distribuição percentual, ano a ano, por grupo de natureza
+de despesa, do Pago total (sem CE) e do Pago total (com CE). Por meio da comparação entre
+essas duas colunas pode-se verificar em que medida a edição de créditos extraordinários
+alterou a distribuição percentual entre os grupos de natureza de despesa do Pago total (sem
+CE).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabela 14
+
+Distribuição percentual dos grupos de natureza de despesa para os valores pagos: 2003-2007
+Grupo de Natureza de | 2003 (%) 2004 (%) 2005 (%) 2006 (%) 2007 (%)
+
+Despesa (1) (2) (1) (2) (1) (2) (1) (2) (1) (2)
+a o 167 166 170 168 163 160 148 145 160 153
+oclals
+Juros e Encargos da 134) 133 142) 140) 154 152) 196) 191) 178 170
+Dívida
+Guiras Despesas 18,9 488 508 510 550 554 456 463 492 500
+orrentes
+
+Investimentos 11 11] 12 | 12[ 17] 18] L6 | 19 19 | 23
+28 29
+
+Inversões Financeiras Ja 35 32 3,7 33 34 2,7
+
+ 
+
+Amortização /
+Refinanciamento da 16,7 | 16,7] 135] 133 83 82 | 15,6, 153, 123| 118
+Divida
+
+Fonte: SIAFI / SIGA Brasil. Acesso em 06/10/2008. Elaboração do autor.
+
+Notas: Orçamentos Fiscal e da Seguridade Social.
+
+(1) Pago total (sem CE)
+
+(2) Pago total (com CE)
+
+ 
+
+Em todos os anos, a distribuição percentual entre os grupos de natureza de despesa é
+alterada por influência dos créditos extraordinários, a exemplo do que já havia sido constatado
+em relação aos orçamentos autorizados. Observa-se também que os grupos Pessoal e
+Encargos Sociais, Juros e Encargos da Divida e Amortização / Refinanciamento da Divida
+tiveram a sua participação reduzida em contrapartida ao aumento observado nos grupos
+Outras Despesas Correntes, Investimentos e Inversões Financeiras. As tabelas seguintes
+apresentam os detalhes das alterações na distribuição entre os grupos de natureza de despesa,
+para cada ano.
+49
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Tabela 15
+Efeito dos créditos extraordinários na execução financeira de 2003, por grupo de natureza de despesa
+Valor Pago | RP Pago Valor Pago RP pago (B-(c)/(c)
+Grupo de
+Natmezado | (sem CE) | (semCE) | (MH | (comcE) | (comcE) | (D+ %
+Despesa (a) (b) (c) (d) (e) (f) (9)
+Pessoal e
+Encargos Sociais 78,5 0,5 79,0 78,5 0,5 79,0 0
+Juros e Encargos i
+da Divida 63,5. 0,0 63,5 63,5 0,0 63,5 0
+Quiras Despesas 228,2 35 2317 228,4 410 2325 +0,3
+orrentes
+Investimentos Ps 2,9 jo 2, 2,9 52 +0,3
+pa 14,8 0,3 15,2 15,2 14 16,7 +9,9
+inanceiras |
+Amortização /
+Refinanciamento 79,3 0,0 79,3 79,3 0,0 79,3 0
+da Dívida
+740 4B9 4672 9,0 +,5
+
+ 
+
+ 
+
+Fonte: SIAFI / SIGA Brasil. Acesso em 06/10/2006. Elaboração do autor.
+Notas: Valores em R$ bilhões.
+Orçamentos Fiscal e da Seguridade Social.
+Eventuais diferenças são devidas aos arredondamentos.
+À semelhança do observado na tabela 7, também referente ao exercício de 2003, a
+maior influência dos créditos extraordinários se fez sentir no grupo Inversões Financeiras
+
+(+9,9%).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabela 16
+Efeito dos créditos extraordinários na execução financeira de 2004, por grupo de natureza de despesa
+Valor Valor
+Grupo de Pa RP Pago RP pago (D-(c)/(c)
+go (a)+(b) Pago (d)+e)
+Nou do (sem CE) (sem CE) (com CE) (com CE) %
+(a) (b) (c) (d) (e) () (9)
+e. 88,3 0,3 88,7 884 0,3 88,7 +0,1
+Encargos Sociais
+Jusos e niarans 74,2 0,0 74,2 74,2 0,0 74,2 0
+da Dívida
+Quiras Despesas 267,1 28 2699 +20
+orrentes
+Investimentos 5,1 1,3 6,4 +2,9
+inversões 18,6 12 19,8 +19,0
+Financeiras
+Amortização / Í
+Refinanciamento 70,6 0,0 70,6 70,6 . 0,0
+da Dívida Í
+Total) 5164, 45) 520, 5239, 5,7 |
+
+ 
+
+ 
+
+Fonte: SIAFI / SIGA Brasil. Acesso em 06/10/2008. Elaboração do autor.
+50
+
+Notas: Valores em R$ bilhões.
+Orçamentos Fiscal e da Seguridade Social.
+Eventuais diferenças são devidas aos arredondamentos.
+
+Também nesse caso verifica-se um predomínio do grupo Inversões Financeiras
+
+(+19,0%), à semelhança do apresentado na tabela 8, referente ao mesmo exercício.
+
+ 
+
+ 
+
+Tabela 17
+Efeito dos créditos extraordinários na execução financeira de 2005, por grupo de natureza de despesa
+Valor Valor
+Grupo de Pa RP Pago RP pago (D- (o)/(c)
+go (a) Hb) Pago (d)+e)
+
+Natureza de (sem CE) (sem CE) (com CE) (com CE) %
+
+Despesa
+
+(a) (b) (c) (d) (e) (6) (g)
+Pessoal e
+
+x 93,1 0,5 93,6 93,3 0,5 93,8 +0,2
+Encargos Sociais
+
+Juros e Encargos 0,0
+
+   
+
+ 
+
+  
+
+da Dívida
+Outras Despesas
+Correntes 6,5 Fa
+Investimentos 4,4 +5,0
+Inversões 13 19,8 +,6
+Financeiras
+Amortização / Í
+Refinanciamento 48,0 0,0. 48,0 48,0 0,0 48,0 0
+da Dívida Í
+
+Total| 5633) 125) 57158) 573] 12,7 | 5850 +16
+
+Fonte: SIAFI / SIGA Brasil. Acesso em 06/10/2008. Elaboração do autor.
+Notas: Valores em R$ bilhões.
+
+Orçamentos Fiscal e da Seguridade Social.
+
+Eventuais diferenças são devidas aos arredondamentos.
+
+ 
+
+No exercício de 2005 a maior influência dos créditos extraordinários permanece no
+grupo Inversões Financeiras (+5,6%), embora já se faça sentir um acréscimo relevante no
+
+grupo Investimentos (+5,0%).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabela 18
+Efeito dos créditos extraordinários na execução financeira de 2006, por grupo de natureza de despesa
+Grupo de Valor Pago | RP Pago (a)+(b) qu RP pago (d)He) (B-(c)/(c)
+Natureza de (sem CE) | (sem CE) (com CE) (com CE) %
+Despesa
+ê (a) (b) (c) (d) (e) (D (g)
+te 114,0 0,4 114,4 114,0 0,5 114,5 +0,1
+Encargos Sociais
+Juros e Encargos 151,0 00 1510 1510 00 1510 0
+da Dívida
+Pd Pespesas 3424 9,9 352,3 355,3 10,3 365,6 +38
+orrentes
+
+Investimentos 5,0 to 12,5 6,6 8,7 15,3 421,8
+51
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Valor
+Grupo de Valor Pago | RP Pago RP pago (B-(c)/(c)
+Natureza de (sem CE) | (sem CE) (Hb) EEE (com CE) (De) %
+Despesa
+P (a) (b) (c) (d) (e) (d (9)
+an é 19,7 15 21,2 20,3 15 21,8 +3,2
+inanceiras
+Amortização / |
+Refinanciamento | 120,5 0,1 120,6 120,5 0,1 120,6 0
+da Dívida
+Total) 7525 194, 720 76770 21 7888 +22
+
+ 
+
+Fonte: SIAFI / SIGA Brasil. Acesso em 06/10/2008. Elaboração do autor.
+Notas: Valores em R$ bilhões.
+
+Orçamentos Fiscal e da Seguridade Social.
+
+Eventuais diferenças são devidas aos arredondamentos.
+
+No ano de 2006, nota-se que a maior influência dos créditos extraordinários passa a
+
+ocorrer no grupo Investimentos, responsável por um acréscimo de 21,8% na execução
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+financeira.
+Tabela 19
+Efeito dos créditos extraordinários na execução financeira de 2007, por grupo de natureza de despesa
+Valor Valor
+ate | 2 | Gamt)| (94) | Pao | pre | cama | OQ
+Epa e (sem CE) (com CE) o
+(a) (b) (c (d) (e) (b) (9)
+o o 1250. 0,6 125,7 125,1 06 1257 0
+Encargos Sociais |
+Vorgefimesaos 140,1 00 1401 140,1 00 1401 0
+da Dívida
+ão Despesas 376,8 10,2 387,0 399,2 12,1 4113 +63
+orrentes
+Investimentos 6,4 8,8 5,2 8,6 10,5 19,2 +26,0
+prersões 20,6 19 22,5 26,9 2,0 29,0 +28,6
+inanceiras
+Amortização /
+Refinanciamento 96,8 0,0 96,9 96,8 0,0 96,9 0
+da Dívida
+Total 21,7) 113) 767 254) 821 | 4
+
+   
+
+ 
+
+Fonte: SIAFI / SIGA Brasil. Acesso em 06/10/2008. Elaboração do autor.
+Notas: Valores em R$ bilhões.
+
+Orçamentos Fiscal e da Seguridade Social.
+
+Eventuais diferenças são devidas aos arredondamentos.
+
+Em 2007 verifica-se um equilíbrio entre os grupos Investimentos (+26,0%) e Inversões
+Financeiras (+28,6%). Vale notar que, no grupo Investimentos, os créditos extraordinários
+respondem por R$3.961 milhões, o que corresponde a aproximadamente 21% da execução
+financeira global do grupo, de R$19.170 milhões.
+52
+
+A tabela seguinte compara, para os três principais grupos, o nível de influência que
+sofrem por conta dos créditos extraordinários abertos, tanto para os orçamentos autorizados
+como para a execução financeira.
+
+Tabela 20
+
+Efeito dos créditos extraordinários nos orçamentos autorizados e na execução financeira, para os principais
+grupos de natureza de despesa
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Grupo de Natureza de | 2003 (%) 2004 (%) 2005 (%) 2006 (%) 2007 (%)
+Despesa (1) 2) (1) 2) (1) 02) (1) (07) (1) 02)
+Quiras Despesas 4,10 403 H9 20 25 WA 46 4,8 45 +63
+orrentes
+Investimentos +0,6 +0,3 +2,6 +2,9 +9,0 +50 +20,6 +1,8 +554 +26,0
+
+ 
+
+ 
+
+ 
+
+Inversões Financeiras 49,0 499 411 490) 431) 456) 426) 432 4234] 4286.
+Fonte: SIAFI / SIGA Brasil. Acesso em 06/10/2008. Elaboração do autor.
+Notas: Orçamentos Fiscal e da Seguridade Social.
+(1) [Orçamento autorizado (com CE) - Orçamento autorizado (sem CE)] / Orçamento autorizado (sem CE)
+(2) [Pago total (com CE) - Pago total (sem CE)] / Pago total (sem CE)
+
+ 
+
+ 
+
+5.8 O efeito dos créditos extraordinários na execução financeira do grupo
+Investimentos, por função e por programa
+
+O grupo Investimentos é, como comprovou a tabela 12, o que desperta maior interesse
+do Congresso Nacional. Nos anos de 2006 e 2007, em particular, o grupo foi fortemente
+influenciado pelos créditos extraordinários, tanto nos orçamentos autorizados como na
+execução financeira. Essa seção se propõe a examinar quais foram as funções de govemo e os
+programas mais afetados pelos créditos extraordinários, em sua execução financeira. Foram
+selecionadas apenas as funções que tiveram valores pagos, a título de créditos extraordinários,
+iguais ou superiores a R$ 100 milhões, no grupo Investimentos, nos exercícios de 2006 e
+2007. As tabelas seguintes apresentam os detalhes.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Tabela 21
+Efeito dos créditos extraordinários na execução financeira do grupo Investimentos, em 2006: principais funções
+e programas
+x % do total de No
+
+Funções CE Pago CE Pago Principais Programas CE Pago
+Manutenção da malha rodoviária federal 810,0
+Corredor Araguaia-Tocantins 230,6
+
+Transportes 1.388,5 50,7 mm
+Corredor Leste 118,0
+Corredor Nordeste 85,8
+Comércio e 329,1 120 Desenvolvimento da infra-estrutura 300,0
+
+Serviços
+
+aeroportuária
+53
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0
+Funções CE Pago % e Pega Principais Programas CE Pago
+DefesaNacional | 3057) 112 | pespam tamento oodequeção daForçaÃtra | 93,
+Tirhanismo 2799 | 102 Descentralização do sistema ferroviário 1821
+, , urbano de passageiros ,
+
+Outras funções 4339 159 NA NA
+Total | 2.7364, | |
+
+Fonte: SIAFI / SIGA Brasil. Acesso em 06/10/2008. Elaboração do autor.
+Notas: Valores em R$ milhões.
+
+Orçamentos Fiscal e da Seguridade Social.
+
+Eventuais diferenças são devidas aos arredondamentos.
+
+ 
+
+Do exame da tabela acima é lícito concluir que houve uma forte concentração dos
+créditos extraordinários em algumas funções. As quatro selecionadas receberam pouco mais
+de 84% dos valores pagos em 2007, tendo a função Transportes sido beneficiada com mais de
+50% daquele montante. No âmbito da função Transportes, o programa Manutenção da malha
+rodoviária federal foi beneficiado com 58,3% dos valores correspondentes à função, o que
+correspondeu a 29,6% do total dos créditos extraordinários pagos no ano de 2007.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+   
+
+ 
+
+Efeito dos créditos extraordinários na execução uma grupo Investimentos, em 2007: principais funções
+e programas
+
+Funções ca le é E a Principais Programas CE Pago
+Recenseamentos gerais 375,6
+| Promoção da sustentabilidade de espaços sub- | 3741
+
+regionais - Promeso ,
+Administração | 1.7239,7 | 43,9 | Desenvolvimento dos eixos do Nordeste | 298,6
+Promoção e inserção econômica de sub- 1642
+
+regiões - Promover
+| Organização produtiva de comunidades 108,1
+| | 462,7
+Transporte | 1.214,6 | 30,7 349,0
+| | 232,0
+| Í 152,6
+E ia | 276,9 | 7,0 155
+Educação 174,5 44 137,5
+Defesa Nacional 152,8 | 3,9 Diversos 152,8
+Gestão Ambiental 141,6 3,6 | Pro-água infraestrutura 116,1
+Desporto e Lazer | 123,1 | 3,1 Rumo ao PAN2007 — 123,0
+
+Outras funções 138,2 35 NA , NA
+
+ 
+54
+
+ 
+
+ 
+
+ 
+
+x CE % do total de no
+Funções Pago CE Pago Principais Programas CE Pago
+Total | 3.961,4
+
+ 
+
+ 
+
+Fonte: SIAFI / SIGA Brasil. Acesso em 06/10/2008. Elaboração do autor.
+Notas: Valores em R$ milhões.
+
+Orçamentos Fiscal e da Seguridade Social.
+
+Eventuais diferenças são devidas aos arredondamentos.
+
+Em 2007, a concentração em funções não foi tão expressiva como em 2006. As sete
+funções selecionadas concentram 96,5% dos créditos extraordinários pagos. As funções
+Administração (43,9%) e, uma vez mais, Transportes (30,7%), foram as mais beneficiadas.
+No caso da função A dministração, nota-se uma razoável distribuição dos valores pagos entre
+vários programas governamentais. Na função Transportes, o programa Manutenção da malha
+rodoviária federal foi contemplado com 38,1% dos valores pagos, o que equivale a 11,7% do
+total dos créditos extraordinários pagos em 2007.
+jo)
+
+6. CONCLUSÕES
+
+Este capítulo tem o objetivo de condensar as principais conclusões que emanam do
+levantamento de dados, realizado com o intuito de testar a hipótese de trabalho. Ao final, são
+apresentadas algumas sugestões de temas para futuras pesquisas relacionadas com o assunto
+deste estudo.
+
+Esta monografia procurou responder à seguinte questão: os créditos extraordinários
+abertos por medida provisória configuram um orçamento paralelo? A resposta é positiva para
+as premissas estabelecidas previamente, ou seja, se o grupo de natureza de despesa e a
+distribuição percentual dos seus valores nos orçamentos autorizados e na execução financeira
+forem considerados como critérios para a verificação da hipótese. Positiva porque a
+distribuição percentual dos valores referentes aos orçamentos autorizados entre os grupos de
+natureza de despesa se altera quando são introduzidos os valores correspondentes aos créditos
+extraordinários. Esse fato ocorreu para todos os exercícios analisados, de 2003 a 2007. A
+hipótese de trabalho estaria rejeitada caso a distribuição percentual permanecesse idêntica ao
+do orçamento autorizado. Isso significaria que o novo perfil das despesas autorizadas teria
+respeitado as prioridades estabelecidas pelo Congresso Nacional, sob a ótica do grupo de
+natureza de despesa, tanto na lei orçamentária anual como nos seus mecanismos retificadores
+- os créditos especiais, suplementares e as autorizações legais e constitucionais. Ressalte-se a
+aplicação dos mecanismos retificadores estão sujeitos a uma autorização prévia do Poder
+Legislativo, dispensada para os créditos extraordinários, que têm vigência imediata.
+
+Verificou-se também que os créditos extraordinários têm impactado, de 2003 a 2007,
+de forma constante e crescente, os orçamentos autorizados. Em 2003, os créditos
+extraordinários foram responsáveis por um acréscimo de 0,5% nos orçamentos autorizados. Já
+em 2007, o aumento foi de 5,5%.
+
+No que tange à execução financeira, observou-se o mesmo padrão, embora com
+valores ligeiramente inferiores. No caso, o impacto variou entre 0,5%, em 2003, e 4,4%, em
+2007.
+
+O trabalho avançou com o intuito de verificar quais foram os grupos de natureza de
+despesa mais afetados, em termos percentuais, ano a ano. Nesse sentido, a conclusão é que os
+créditos extraordinários foram, via de regra, direcionados aos grupos Outras Despesas
+Correntes, Investimentos e Inversões Financeiras. Observou-se essa tendência tanto em
+
+relação aos orçamentos autorizados como na execução financeira. Em uma perspectiva
+56
+
+histórica, no que tange aos orçamentos autorizados, o grupo Inversões Financeiras foi,
+percentualmente, o maior beneficiário dos créditos extraordinários nos exercícios de 2003 e
+2004. A partir de 2005, inverteu-se essa tendência em prol do grupo Investimentos.
+
+Quanto à execução financeira, o grupo Inversões Financeiras foi o mais afetado em
+2003, 2004 e 2005, ao passo que em 2006 essa primazia foi do grupo Investimentos. Em 2007
+houve um equilíbrio entre esses dois grupos.
+
+Finalmente, ressalte-se o forte impacto dos créditos extraordinários na execução
+financeira do grupo Investimentos, em 2006 e 2007. No primeiro ano, aqueles foram
+responsáveis por um incremento de 21,8% e, em 2007, por 26,0%. Esses dados revestem-se
+da maior importância, pois o grupo Investimentos é aquele que mais recebe emendas
+parlamentares por ocasião da tramitação da proposta orçamentária do Poder Executivo no
+Congresso Nacional. Assim, uma vez que os recursos são manifestamente escassos, a
+execução financeira dos créditos extraordinários se faz em detrimento da execução dos
+investimentos autorizados pelo Poder Legislativo, via processo legislativo ordinário. Além
+disso, é possível especular em duas direções, com base nos dados obtidos. A primeira é que o
+Poder Executivo se utiliza dos créditos extraordinários para compor uma carteira de
+investimentos diversa daquela aprovada pelo Congresso Nacional e, além disso, e mesmo, por
+conta disso, prioriza a sua execução. A segunda é que o Poder Executivo estaria se utilizando
+dos créditos extraordinários em troca de apoio em votações no Congresso Nacional. Em vista
+desses fatos, considerou-se conveniente o aprofundamento do estudo no sentido de verificar
+que funções e programas seriam os alvos preferenciais do Poder Executivo para a abertura de
+créditos extraordinários no grupo Investimentos.
+
+Dos dados levantados pode-se concluir que, pelo menos nos dois últimos anos, não se
+constatou a existência de um padrão para a abertura de créditos extraordinários, no que diz
+respeito às funções de Governo. Do grupo das funções mais contempladas com créditos
+extraordinários, apenas as funções Transportes e Defesa Nacional apareceram em ambos os
+exercícios (2006 e 2007). O que chama a atenção é que, em 2006, os créditos extraordinários
+abertos na função Transportes foram responsáveis pela execução de R$1.388,5 milhões,
+pouco mais da metade da execução global dos créditos extraordinários, de R$2.736,4 milhões.
+Em 2007, embora em percentual menor (30,7%), a execução naquela função também foi
+relevante, alcançando R$1.214,6 milhões, para uma execução global de R$3.961,4 milhões.
+As mesmas tabelas igualmente demonstram uma prevalência, no âmbito da função
+Transportes, do programa Manutenção da malha rodoviária federal, que concentrou 58,3% da
+execução dos créditos extraordinários abertos na função em 2006 e 38,1% em 2007: R$810
+97
+
+milhões e R$462,7 milhões, respectivamente. Conclui-se que, inegavelmente, o binômio
+função Transportes - programa Manutenção da malha rodoviária federal tem sido o mais
+beneficiado pelo Poder Executivo com a abertura de créditos extraordinários: em 2006
+recebeu 29,6% de todos os valores pagos relativos a créditos extraordinários e, em 2007,
+11,7%.
+
+Quanto às sugestões, pelo menos dois temas relacionados com este trabalho
+mereceram um estudo mais aprofundado. Na esfera do Direito Legislativo, faz-se
+imprescindível uma revisão dos procedimentos necessários à abertura de créditos
+extraordinários. De todo o exposto no capítulo pertinente, conclui-se que a sua abertura por
+meio de medida provisória, com a sistemática atual, não faz sentido. Entretanto, mantida a
+abertura por medida provisória, algo deve ser feito em relação aos pressupostos
+constitucionais de relevância e urgência. Uma sugestão seria a postergação da entrada em
+vigor da medida provisória que abre crédito extraordinário para data posterior à aprovação.
+por parte do Congresso, da admissibilidade dos pressupostos. Isso obrigaria o Poder
+Executivo a atuar efetivamente para a sua aprovação. Outra opção seria o retomo à
+sistemática anterior - abertura por decreto, e exclusivamente para casos de guerra, comoção
+interna ou calamidade pública - constante da Lei nº 4.320/64, que funcionava a contento.
+Poder-se-ia adicionar a exigência, para o último caso, da prévia decretação do estado de
+calamidade pública, por parte do prefeito municipal. No âmbito da Ciência Política, se
+poderia avançar no sentido de verificar a existência - ou não - de uma correlação entre os
+créditos extraordinários abertos em favor de obras de manutenção de rodovias em
+determinadas localidades, e os votos dados pelos supostos beneficiários dos investimentos,
+nas votações mais importantes na Câmara dos Deputados ou no Senado Federal.
+58
+
+REFERÊNCIAS
+
+BONAVIDES, Paulo. Ciência Política. 12.ed. São Paulo: Malheiros Editores, 2006.
+
+BRASIL. Poder Judiciário. Supremo Tribunal Federal. ADI-MC 4048/DF - Distrito
+Federal. Medida Cautelar na Ação Direta de Inconstitucionalidade. Disponível em <
+http://www .stf.gov.br/portal/jurisprudencia/listar]urisprudencia.asp?s1=(A DI$.SCLA .% 20E%
+204048.NUME.J%200 U%20(A DIA CMS.%20A DJ2%204048.A CMS.) &base=baseA cordaos
+>. Acesso em: 14 out. 2008f.
+
+ 
+
+ 
+
+o . Poder Judiciário. Supremo Tribunal Federal. Súmula 651. Disponível em <
+http://www .stf.gov.br/portal/jurisprudencia/listar]urisprudencia.asp?s1=651.NUME.% 20NA O
+%20S.FLSV .&base=baseSumulas >. A cesso em: 15 out. 2008a.
+
+ 
+
+o . Poder Legislativo. Câmara dos Deputados. Parecer do Relator da PEC nº 511-A, de
+2006, do Senado Federal, na Comissão Especial da Câmara dos Deputados destinada a
+proferir parecer à referida proposta. Disponível em <
+http://www.camara.gov .br/sileg/integras/551412.pdf >. Acesso em: 14 out. 2008b.
+
+ 
+
+o . Poder Legislativo. Senado Federal. Biblioteca Digital do Senado Federal. Senado
+Federal em Pauta. O processo legislativo do Senado a serviço da cidadania. Disponível
+em < http://www2.senado.gov.br/bdsf/item/id/98672 >. Acesso em: 14 out.2008c.
+
+ 
+
+o . Poder Legislativo. Senado Federal. Relatório da Presidência de 2007. Senado
+Federal e Congresso Nacional. Disponível em <
+http://www .senado.gov.br/Relatorios SGM/RelPresi/2007/ > A cesso em: 9 set. 2008d.
+
+ 
+
+O . Poder Executivo. Presidência da República. Medidas Provisórias. Disponível em <
+https://www .planalto.gov.br/ccivil 03/MPV/Quadro/ Quadro%20Geral.htm >, Acesso em:
+21 out. 2008€.
+
+ 
+
+BULOS, Uadi Lammêgo. Curso de Direito Constitucional (atualizado até a Emenda
+Constitucional nº 53, de 19-12-2006). São Paulo: Saraiva, 2007.
+
+CHIESA, Clélio. Medidas Provisórias (Regime J urídico-C onstitucional). 2.ed. Curitiba:
+Juruá Editora, 2002.
+
+CLÉVE, Clêmerson Merlin. Medidas Provisórias. 2. ed. São Paulo: Max Limonad, 1999.
+CORRÊA, Oscar Dias. In: BELMONTE, Cláudio; MELGARE, Plínio. (Orgs.). O Direito na
+sociedade contemporânea - estudos em homenagem ao Ministro José Néri da Silveira.
+
+Rio de Janeiro: Forense Universitária, 2005. p. 481-495.
+
+DANTAS, Ivo. Aspectos Jurídicos das Medidas Provisórias. Brasília: Brasília Jurídica,
+1997.
+
+FIGUEIREDO, Argelina Cheibub; LIMONGI, Fernando. Executivo e Legislativo na nova
+ordem constitucional. Rio de Janeiro: FGV, 1999.
+59
+
+GIACOMONL James. Orçamento Público. 13. ed. São Paulo: Atlas, 2005.
+
+LIMONGI, Figueiredo. A Democracia no Brasil: Presidencialismo, coalizão partidária e
+processo decisório. Revista Novos Estudos. CEBRAP. São Paulo, n. 76, p. 17-41, nov.
+2006.
+
+MACHADO JR. J. Teixeira; REIS, Heraldo da Costa. A Lei 4320 comentada e a Lei de
+Responsabilidade Fiscal. 31. ed. Rio de Janeiro: IBAM, 2002/2008.
+
+MESQUITA JÚNIOR, Geraldo. Breviário da Cidadania. Brasília: Senado Federal, 2006.
+
+MONTESQUIEU. O Espírito das Leis. Tradução: Cristina Muracho. 2.ed. São Paulo:
+Martins Fontes, 2000.
+
+MORAES, Alexandre de. Direito C onstitucional. São Paulo: Atlas, 2007.
+
+NOGUEIRA FILHO, Octaciano da Costa. Introdução à Filosofia Política. Brasília:
+Unilegis, 2007.
+
+PEREZINO, Luiz Fernando de Mello. Crédito extraordinário: discussão sobre tramitação e
+forma de operacionalização. Revista de Informação Legislativa. Brasília, ano 36, n. 142, p.
+297-305, abr./jun. 1999.
+
+PESSANHA, Charles. O Poder Executivo e o Poder Legislativo nas Constituições Brasileiras.
+Teoria e Prática. In: VIANNA, Luiz Wemeck. (Org.). A Democracia e os Três Poderes no
+Brasil. Belo Horizonte: Editora UFMG, Rio de Janeiro: IUPERJ/FA PERJ, 2002.
+
+PESSANHA, Charles. O Poder Legislativo do Executivo no Brasil: O decreto-lei e a
+medida provisória, 1965-1999. In: Seminario Internacional Las instituciones en las nuevas
+democracias: la cuestión republicana, 2000, Buenos Aires. Disponível em <
+http://www .geocities.com/Nuevas formas politicas/Ponencia Pessanha Legislativo y ejec
+Brasil.htm >, Acesso em: 11 set. 2008.
+
+ROCHA, Carmen Lúcia Antunes Rocha. In: MARTINS, Ives Gandra da Silva. (Org.). Direito
+Contemporâneo: estudos em homenagem a Oscar Dias Corrêa. Rio de Janeiro: Forense
+Universitária, 2001. p. 44-69.
+
+SANCHES, Osvaldo Maldonado. Abertura de créditos extraordinários por medida provisória:
+equívoco e irracionalidade. Cadernos A slegis. Brasília, v. 5, n. 13, p. 28-34, jan./abr. 2001.
+
+SZKLAROWSKY, Leon Fredja. Medidas Provisórias. São Paulo: Revista dos Tribunais,
+1991.
+
+VALLE, Juliana Carla de Freitas do. Medidas Provisórias: o procedimento legislativo e
+seus efeitos jurídicos. Brasília: FDK Editora, 2004.
+

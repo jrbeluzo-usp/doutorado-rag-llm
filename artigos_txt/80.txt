@@ -1,0 +1,1991 @@
+ 
+
+Revista de Gestão e Projetos - GeP
+e-ISSN: 2236-0972
+DOI: 10.5585/gep.v8i1.485
+
+Data de recebimento: 02/09/2016
+(” [B Data de Aceite: 05/02/2017
+Organização: Comitê Científico Interinstitucional
+é Editor Científico: Emerson Antonio Maccari
+
+” Avaliação: Double Blind Review pelo SEER/OJS
+Revista de Gestão e Projetos Revisão: Gramatical, normativa e de formatação
+
+  
+
+ 
+
+GERENCIAMENTO DE PROJETOS: UM MODELO DE MONITORAMENTO E CONTROLE DE
+PROJETOS PÚBLICOS EXECUTADOS COM RECURSOS DE TRANSFERÊNCIAS VOLUNTÁRIAS
+
+RESUMO
+
+A crescente demanda social por serviços púbicos de qualidade e ao alcance de todos, em contraposição à diminuição
+das receitas públicas nos últimos anos, conferem aos recursos oriundos das transferências voluntárias da União papel
+fundamental na execução dos projetos do poder executivo estadual. Em um Estado no qual os recursos destinados a
+investimentos dependem das transferências voluntárias, a falta de planejamento quando da captação e da execução,
+aliada à ausência de uma ferramenta estadual de monitoramento e controle desses recursos, acarretam perdas
+financeiras e sociais de difícil reparação. O objetivo geral deste artigo é propor uma rotina e uma ferramenta de gestão
+capazes de acompanhar, de forma tempestiva, a execução orçamentária, financeira e física de todas as fases dos
+projetos no âmbito do poder executivo estadual, executados com recursos oriundos de transferências voluntárias.
+Trata-se de uma pesquisa qualitativa de caráter exploratório e descritiva, baseada em um estudo de caso. Como
+principais resultados, listam-se: a identificação do total de convênios em execução e dos recursos devolvidos nos
+últimos exercícios, além da propositura de uma rotina e ferramenta de acompanhamento. Sugere-se que futuras
+pesquisas avancem nas causas de insucesso dos projetos individuais.
+
+Palavras-chave: Administração pública; Gestão de projetos; Transferências voluntárias.
+
+PROJECT MANAGEMENT: A MODEL OF MONITORING AND CONTROL OF PUBLIC PROJECTS
+EXECUTED WITH VOLUNTARY TRANSFERS RESOURCES
+ABSTRACT
+
+The increasing social demand for quality in public services and the universality of it, in contrast to the decrease in
+public revenues in recent years, make the resources derived from the voluntary transfers of the federal government to
+play a fundamental role in the execution of projects of the state executive power. In a state in which investment
+resources depend on voluntary transfers, a lack of planning of funding and execution, with the absence of a public
+tool for monitoring and controlling these resources, lead to financial and social losses that are difficult to repair. The
+main objective of this article is to propose a routine and a management tool for monitoring, in a timely manner, the
+budgetary, financial and physical execution of all phases of the projects within the scope of the state executive power,
+executed with funds from voluntary transfers. This qualitative research based on a case study is exploratory and
+descriptive. The main results are: a) the identification of agreements in execution and the sum of resources retumed
+in the last years, b) the proposal of a routine and monitoring tool for the public power. We suggest that future research
+should focus on the causes of failure of individual projects.
+
+Keywords: Project Management, Public Administration, V oluntary Transfers.
+
+Francisco José de Lima!
+
+Jefferson Correia Cirqueira?
+
+Vannildo Cardoso Pinto?
+
+Waldemar A ntônio da Rocha de Souza!
+
+1 Mestrando em A dministração Pública em Rede Nacional - pelo Mestrado Profissional em A dministração Pública da
+Universidade Federal de Alagoas - PROFIAP/UFAL. Brasil. E-mail: kikolima-alo hotmail.com
+
+2 Mestrando em A dministração Pública em Rede Nacional - pelo Mestrado Profissional em A dministração Pública da
+Universidade Federal de Alagoas - PROFIAP/UFAL. Brasil. E-mail: ten correia hotmail.com
+
+3 Mestrando em A dministração Pública em Rede Nacional - pelo Mestrado Profissional em A dministração Pública da
+Universidade Federal de Alagoas - PROFIA P/UFAL. Brasil. E-mail: vannildocpintoQ yahoo.com.br
+
+* Doutor em Ciências (Economia Aplicada) pela Universidade de São Paulo - USP. Professor Livre-docente de
+Finanças da Universidade Federal de Alagoas - UFAL. Brasil. E-mail: waldemar souza feac.ufal.br
+
+LIMA/ CIRQUEIRA 102 Revista de Gestão e Projetos - GeP
+PINTO/ SOUZA Vol. 8,N. 1. Janeiro/Abril. 2017
+Gerenciamento de Projetos: Um Modelo de Monitoramento e Controle de Projetos Públicos
+Executados com Recursos de Transferências V oluntárias
+
+1INTRODUÇÃO
+
+As mudanças trazidas na década de 1990
+com a substituição do modelo de gestão burocrático
+pelo gerencial aliada à profunda mudança
+introduzida pela Lei de Responsabilidade Fiscal
+(Brasil, 2000), implantaram na administração
+pública brasileira características do modelo de
+excelência que coloca o planejamento como parte
+fundamental do processo, reconhecendo o
+atendimento às necessidades do cidadão como o
+objetivo final a ser alcançado.
+
+No entanto, a falta de uma cultura de
+planejamento na administração pública ainda é um
+paradigma de difícil ruptura. Gestões voltadas para
+atuação política e clientelista relegam o
+planejamento e passam a buscar resultados a curto
+prazo sem considerar todas as variáveis envolvidas
+em um processo tão complexo como o de gerir
+recursos limitados diante de uma demanda
+invariavelmente-crescente.
+
+Segundo o Instituto Brasileiro de Geografia
+e Estatística (Ibge, 2016), o Produto Intemo Bruto —
+PIB de Alagoas, em 2014, foi de R$ 40,975 bilhões,
+correspondendo a pouco mais de 0,7% do PIB
+nacional, que foi de R$ 5.778,953 bilhões no mesmo
+ano. Na região Nordeste, Alagoas somente
+apresentava PIB maior do que os estados do Piauí e
+de Sergipe. Ainda segundo o Ibge, Alagoas
+apresentava o vigésimo quinto PIB per capita entre
+os estados brasileiros, com um valor de R$
+12.335,44 contra R$ 69.216,80 do Distrito Federal,
+primeiro colocado da lista.
+
+A capacidade de investimento do Estado
+vem caindo ao longo dos anos, tornando Alagoas
+cada vez mais dependente das transferências
+voluntárias da União para a execução de projetos
+públicos estaduais, o que pode ser verificado no
+Projeto da Lei Orçamentária Anual para o exercício
+de 2017, enviado ao Legislativo, o qual destina
+apenas 7,26% da receita total aos projetos, sendo que
+desse montante, 43,68% são provenientes de
+transferências voluntárias da União.
+
+Neste cenário, a identificação de projetos
+financiáveis pelo Governo Federal, assim como a
+celebração de pactos que garantam a transferência
+desses recursos é vital para a ampliação e melhoria
+dos serviços prestados pelo poder público.
+Igualmente importante é ser capaz de acompanhar a
+execução dos recursos recebidos, de modo a cumprir
+os objetos pactuados e atingir os objetivos dos
+respectivos projetos.
+
+Assim, o Governo Federal, visando
+sistematizar procedimentos, estabeleceu por meio
+Decreto nº 6.170 (Brasil, 2007) normas relativas às
+transferências de recursos da União mediante
+convênios e contratos de repasse. Como
+consequência, foi instituído o Sistema de Gestão de
+Convênios e Contratos de Repasse — Siconv, o qual
+foi denominado como Portal de Convênios.
+
+LIMA/CIRQUEIRA
+PINTO/ SOUZA
+
+103
+
+Aplicando no âmbito estadual o que foi
+proposto quando da criação do Siconv e ainda
+reafirmando que o modelo de gestão deve se traduzir
+em resultados voltados para o cidadão, entende-se
+que é necessária uma estrutura que busque uma
+constante interação entre os diversos agentes
+envolvidos no processo, estabelecendo, assim, um
+sistema de monitoramento confiável e que possibilite
+ações tempestivas.
+
+No entanto, mesmo com a obrigatoriedade
+da utilização do Siconv, a administração pública
+estadual não possui um banco de dados centralizado,
+uma vez que cada Secretaria e demais órgãos da
+administração têm autonomia administrativa e seus
+cadastros junto ao portal de convênios é gerido de
+forma individualizada, fazendo com que captação,
+gestão, execução e prestação de contas desses
+recursos sejam realizadas de forma insatisfatória.
+
+Desse modo, este artigo tem como objetivo
+geral propor uma ferramenta de gestão capaz de
+acompanhar, de forma tempestiva, a execução
+orçamentária, financeira e física de todas as fases dos
+projetos no âmbito do Poder Executivo estadual
+executados com recursos oriundos de transferências
+voluntárias, tendo como objetivos específicos
+analisar a atual sistemática de gestão desses
+recursos; identificar o total de transferências
+voluntárias do Estado de Alagoas em execução; e
+identificar os montantes devolvidos no período de
+2015 a 2016.
+
+Além dessa seção introdutória, o trabalho
+contém outras quatro seções. Na segunda seção são
+apresentados os referenciais teóricos que dão
+embasamento ao estudo e direcionam as análises e
+considerações. Na terceira seção é apresentada a
+metodologia empregada. A quarta, refere-se à
+apresentação dos resultados. Por fim, na quinta
+seção, apresentam-se as considerações finais.
+
+2 REFERENCIAL TEÓRICO
+
+Neste capítulo, são apresentadas e
+discutidas as teorias que subsidiam a construção da
+pesquisa e análise dos resultados obtidos. Tendo em
+vista que este artigo tem o objetivo de propor um
+mecanismo de gerenciamento de projetos públicos
+estaduais, executados com recursos provenientes de
+transferências voluntárias, a revisão da literatura
+abrange o gerenciamento de projetos, de maneira
+geral e especificamente, na administração pública,
+além da transferência de recursos públicos.
+
+2.1 Gerenciamento de Projetos
+
+Camargo (2014) anota que muitas pessoas
+acreditam que o gerenciamento de projetos tenha
+surgido com o aparecimento da disciplina de
+Administração, mas que, embora tenha se tornado
+popular no século XX, o gerenciamento de projeto
+
+Revista de Gestão e Projetos - GeP
+Vol. 8, N. 1. Janeiro/Abril. 2017
+Gerenciamento de Projetos: Um Modelo de Monitoramento e Controle de Projetos Públicos
+Executados com Recursos de Transferências V oluntárias
+
+influencia, há muito tempo, a forma como o homem
+trabalha. Para sustentar sua afirmação, a autora cita
+algumas obras históricas construídas pela
+humanidade, que não seriam possíveis sem
+adequado planejamento e controle, a exemplo da
+Muralha da China, dos aquedutos e das estradas,
+construídos pelo Império Romano, do Parthenon, na
+Grécia, da Basílica de Santa Sofia e das Pirâmides
+no Egito.
+
+De acordo com o Pmbok (2013), projeto
+“[...Jé um esforço temporário empreendido para criar
+um produto, serviço ou resultado exclusivo”. Essa
+natureza temporária dos projetos significa que eles
+têm início e término determinados.
+
+Wirick (2011) destaca que os projetos têm
+início, fim e resultado único e, independentemente
+de seu tamanho e dos desafios apresentados, podem
+ser gerenciados mediante os mesmos princípios. O
+autor também afirma que o sucesso de qualquer
+empreendimento depende da gestão de projetos.
+
+O Pmbok (2013, p. 5) define que a gestão
+de projetos “[...Jé a aplicação do conhecimento,
+habilidades, ferramentas e técnicas às atividades do
+projeto para atender aos seus requisitos”. O
+gerenciamento é realizado mediante aplicação e
+integração dos 47 processos de gerenciamento, que
+estão agrupados nos seguintes grupos de processos:
+iniciação, planejamento, execução, monitoramento e
+controle e encerramento.
+
+Além desses processos de gerenciamento e
+grupos de processos, o Pmbok (2013) estabelece dez
+áreas de conhecimento, que são definidas por seus
+requisitos de conhecimentos e descritas em termos
+dos processos que as compõem, suas entradas,
+saídas, ferramentas e técnicas. Essas áreas são as
+seguintes: gerenciamento da integração do projeto,
+gerenciamento do escopo, gerenciamento do tempo,
+gerenciamento do custo, gerenciamento da
+qualidade, gerenciamento dos recursos humanos,
+gerenciamento das comunicações, gerenciamento
+dos riscos do projeto, gerenciamento das aquisições
+e gerenciamento das partes interessadas.
+
+Cabe ao gerente de projetos identificar os
+requisitos, fazer adaptações nas diferentes
+necessidades e expectativas das partes interessadas,
+durante a execução do projeto e balancear restrições
+conflitantes, a exemplo do escopo, qualidade,
+cronograma, orçamento, recursos e riscos. O gerente
+ainda deve atentar que esses fatores estão
+relacionados e que, ocorrendo mudança em algum
+deles, possivelmente outro fator também passará
+mudanças (Oliveira, 2014).
+
+Silva & Gil (2013), ao discorrer acerca dos
+desafios enfrentados pelas empresas para criar novas
+vantagens competitivas, reconhecem a
+essencialidade da gestão de projetos para as
+organizações, por ser uma ferramenta que propicia
+níveis crescentes de qualidade e agrega valor aos
+interesses dos clientes. Os autores ainda
+complementam que os projetos tendem a crescer em
+
+LIMA/CIRQUEIRA
+PINTO/ SOUZA
+
+104
+
+importância e mais vantagens competitivas serão
+obtidas pelas organizações que alinharem seus
+projetos com suas estratégias de negócio.
+
+Entretanto, há que se ressaltar a necessidade
+de uma mudança cultural nas organizações,
+adotando-se uma visão mais voltada aos resultados,
+para que a gestão de projetos possa produzir os
+efeitos benéficos esperados, pois, conforme
+apontado por Silva & Gil (2013, p. 141), “[...Jdessa
+maneira, a gestão de projetos pode ser compreendida
+como um complexo cultural constituído de crenças e
+valores, e não como um conjunto de normas e
+procedimentos”.
+
+Outro ponto discutido pelos pesquisadores
+diz respeito ao quanto uma metodologia pode ser
+usada nos diferentes contextos de projetos, de
+diferentes tamanhos e complexidades. Nesse
+sentido, Charvat avalia que:
+
+Uma metodologia é um conjunto
+de orientações ou princípios que
+podem ser adaptados e aplicados
+em uma situação. Em ambiente de
+projetos, essas orientações podem
+ser uma lista de coisas a fazer.
+Uma metodologia pode também
+ter uma abordagem específica,
+modelos, formulários e até check
+lists, usados durante o ciclo de
+vida do projeto. (2003, p. 3).
+
+Xavier, Vivacqua e Xavier (2005) afirmam
+que, “[...Jna realidade, o PMI ou até mesmo o Guia
+Pmbok? não apresentam uma metodologia. O Guia
+aborda somente “o que” é necessário para o
+gerenciamento de projetos, sem entrar no mérito de
+“como” esses processos deveriam ser realizados e em
+que sequência”.
+
+Nesse sentido, Maccari & Santos Teixeira
+(2014), ao revisarem a literatura acerca de gestão de
+projetos, sustentam que os estudos recentes apontam
+que, conquanto a literatura disponha de diversos
+modelos e abordagens padronizadas para a gestão de
+projetos, os projetos demandam uma metodologia
+própria de gerenciamento, que diverge quanto às
+técnicas, ferramentas e habilidades requeridas.
+
+Isso ocorre porque os projetos são dotados
+de diversas características próprias que os diferem
+dos demais, exigindo-se um método de
+gerenciamento específico para cada um. “Algumas
+vezes, os métodos tradicionais de gerenciamento de
+projetos podem ser inapropriados e, eventualmente,
+conduzirem o projeto ao fracasso” (Maccari &
+Santos Teixeira, 2014, p. 107).
+
+Desse modo, observa-se que a utilização de
+ferramentas de gerenciamento de projetos é
+importante para elevar as chances de sucesso dos
+projetos. Todavia, é necessário conhecer a realidade
+de cada situação, para escolher entre os modelos
+existentes o que melhor se adapta ao caso concreto,
+recorrendo-se a adaptações ou até mesmo
+
+Revista de Gestão e Projetos - GeP
+Vol. 8, N. 1. Janeiro/Abril. 2017
+Gerenciamento de Projetos: Um Modelo de Monitoramento e Controle de Projetos Públicos
+Executados com Recursos de Transferências V oluntárias
+
+desenvolvendo-se métodos próprios, se necessário.
+2.2 Gerenciamento de Projetos no Setor Público
+
+Conforme Araújo, Júnior & Abreu (2015), é
+crescente a difusão de conhecimento sobre
+gerenciamento de projetos nas organizações públicas
+e privadas. Para os autores, as instituições públicas
+identificam no gerenciamento de projetos uma
+ferramenta de apoio à gestão na busca pelo
+cumprimento de sua função social.
+
+O Guia Pmbok possui uma Extensão para
+Governo, que oferece princípios norteadores para a
+gestão de projetos do setor público. Essa extensão
+traz uma visão geral dos principais processos
+concementes aos projetos governamentais,
+descrevendo a forma como eles funcionam. Assim,
+essa extensão serve de referência para aqueles que
+atuam no gerenciamento de projetos no setor
+público.
+
+De acordo com essa Extensão para Governo
+do Guia Pmbok (PMI, 2001), os projetos
+governamentais possuem algumas características
+similares aos projetos do setor privado, mas também
+possuem muitas peculiaridades. Além disso, eles
+envolvem grandes somas de recursos financeiros e
+abrangem diversas indústrias e empresas, tais como
+as de tecnologias da comunicação, de construção, de
+gestão ambiental, de serviços financeiros, de
+serviços de saúde, óleo, gás, petroquímicas e muitas
+outras.
+
+Para Wirick (2011), não importa se do setor
+privado ou público, muitos projetos falham. Porém,
+cabe destacar que no setor público os projetos
+costumam envolver valores maiores. Ademais, no
+setor público, os projetos podem falhar por
+características comuns a qualquer projeto ou por
+características específicas do setor público.
+
+No entanto, há que se reconhecer que,
+embora existam órgãos e entidades públicas,
+mormente no governo federal, formados por um
+quadro de pessoal com competência reconhecida em
+gerenciamento de projetos, a realidade de diversos
+estados e municípios brasileiros é bem diferente. Ou
+seja, além de limitações legais, culturais, políticas e
+burocráticas, as instituições públicas também
+enfrentam problemas na formação de seu quadro
+técnico.
+
+Há muitos pontos comuns no
+gerenciamento dos projetos do setor público em
+relação aos do privado, mas há também importantes
+divergências que devem ser consideradas. Para
+Wirick (2011), a gestão de recursos humanos é a que
+apresenta maiores divergências no setor público,
+implicando em mais custos e maiores desafios.
+Dentre os desafios, o autor cita: incapacidade em
+vincular desempenho e recompensas; a remuneração
+que normalmente aumenta com o tempo de serviço,
+assim servidores envolvidos com projetos mais
+importantes podem não ser os melhores
+
+LIMA/CIRQUEIRA
+PINTO/ SOUZA
+
+105
+
+remunerados; impossibilidade de | escolher
+livremente os membros da equipe; não compensação
+por desempenho, não orientação para resultados;
+maior dificuldade em demitir funcionários e
+interferências políticas.
+
+Outro ponto destacado por Wirick (2011)
+que convém registrar é que, ao contrário do que se
+costuma acreditar, as partes interessadas na área
+pública são mais exigentes com a qualidade dos
+projetos, destacando-se a imprensa e a população,
+pois os projetos públicos são custeados pelos
+tributos, o que faz com que todos se sintam
+competentes para exigir níveis de qualidade que
+atendam suas expectativas e necessidades.
+
+Ao estudar os desafios para a gestão de
+projetos urbanos com elevada complexidade,
+Tillmann, Scussel, Formoso e Miron concluiram
+que:
+
+Existe um modelo gerencial que é
+seguido; entretanto, a adoção de
+técnicas e ferramentas de gestão é
+superficial e pouco eficaz. Existe
+uma grande barreira para a
+melhoria da gestão desses projetos
+relacionada com o contexto de
+construção por iniciativa pública
+no Brasil. Tais barreiras são
+referentes a — procedimentos
+mandatórios, que inibem a adoção
+de maneiras mais adequadas de
+organização do trabalho. (2011, p.
+86)
+
+2.3 Monitoramento e Controle de Projetos
+
+A utilização de um adequado sistema de
+monitoramento é requisito básico para garantir que
+os projetos atinjam os objetivos para os quais foram
+propostos, na medida em que oferece ferramentas e
+práticas que possibilitam o acompanhamento pelos
+gestores, com obtenção de informações periódicas
+sobre o andamento dos projetos, e subsidiam a
+tomada de decisão para o aperfeiçoamento dos
+projetos, ao longo de toda a execução.
+
+Ao tratarem do planejamento
+governamental no Brasil (Pares & Valle, 2006),
+afirmam que as atividades de monitoramento e
+avaliação de políticas e programas assumem caráter
+estratégico para conferir maior qualidade ao gasto
+público e otimizar a obtenção de resultados pelo
+setor público.
+
+O Guia Pmbok contém cinco grupos de
+processos do gerenciamento de projetos (iniciação,
+planejamento, execução, monitoramento e controle e
+encerramento), que organizam e descrevem como
+serão conduzidas as atividades para que os requisitos
+do projeto sejam atendidos. (Silva & Gil, 2013).
+
+Convém registrar que o processo de
+monitoramento e controle consiste em observar a
+execução do projeto, de modo que seja possível
+
+Revista de Gestão e Projetos - GeP
+Vol. 8, N. 1. Janeiro/Abril. 2017
+Gerenciamento de Projetos: Um Modelo de Monitoramento e Controle de Projetos Públicos
+Executados com Recursos de Transferências V oluntárias
+
+resolver os problemas na medida em que eles
+ocorram. Também, possibilita o alinhamento da
+execução do projeto ao que foi planejado,
+controlando para que só sejam implementadas as
+mudanças efetivamente aprovadas. Nesse sentido,
+Xavier, Vivacqua e Xavier (2005) afirmam que
+“[...Jchecar ou monitorar o trabalho do projeto
+significa observar, coletar, disseminar e avaliar
+informações a respeito do desempenho do projeto a
+cada período de tempo”.
+
+A mesma linha de raciocínio observa-se em
+Camargo (2014), para quem o monitoramento e o
+controle de um projeto permitem que sejam adotadas
+medidas corretivas tempestivamente após uma
+necessidade ser detectada. De acordo com a autora,
+as fases de monitoramento e controle consistem na
+coleta de informações das diversas áreas de projeto,
+para que, posteriormente, seja confrontado com o
+que foi planejado, avaliando se os resultados
+esperados estão sendo atingidos. Cabe ao gerente de
+projeto a coleta e comunicação de informações sobre
+o desempenho das áreas, além de analisar variâncias,
+tendências, possíveis alternativas e propor medidas
+corretivas.
+
+Entendimento similar encontra-se em
+Chumbita, que destaca a importância de um plano de
+referência, ao registrar que o monitoramento:
+
+Consiste na obtenção periódica de
+informações relevantes para
+observar e descrever o progresso
+de determinadas atividades,
+comparando sistematicamente os
+desenvolvimentos efetivos e os
+
+ 
+
+   
+
+resultados alcançados com as
+previsões; para isso, é preciso
+dispor de um plano como
+
+referência, no qual se definam as
+variáveis de monitoramento e a
+magnitude das metas a alcançar
+(1997, p. 7).
+
+Pares e Valle (2006) complementam essa
+noção ao postularem que “[...Jo monitoramento da
+ação governamental pressupõe a coleta, a
+armazenagem, o processamento (tratamento) e a
+divulgação das informações, fornecendo indicadores
+e elementos para a avaliação do gasto público”.
+(Pares &Valle, 2006, p. 261).
+
+O monitoramento e controle deve alcançar
+todas as áreas de conhecimento constantes do Guia
+Pmbok. Especificamente para a área de
+gerenciamento de riscos, Camargo (2014) entende
+que os riscos devem ser monitorados semanalmente
+ou até mesmo diariamente, se as condições do
+projeto assim exigirem. Destaca a autora que uma
+análise dos riscos deve ser feita nas reuniões
+semanais de andamento do projeto e que essas
+análises devem ativar um plano de resposta aos
+riscos identificados.
+
+Portanto, como destacado na literatura
+
+LIMA/CIRQUEIRA
+PINTO/ SOUZA
+
+106
+
+pesquisada, o monitoramento e controle é um dos
+importantes grupos de processos que compõem o
+gerenciamento de projetos. Por meio do
+monitoramento e controle, é possível ao gerente de
+projetos acompanhar a execução dos projetos,
+comparando a execução com o que foi planejado, e
+adotar medidas tempestivas de correção, quando
+alguma inconsistência é detectada, de modo que
+aumentam as chances de sucesso do projeto,
+possibilitando, no caso da área pública, o
+atendimento das demandas da sociedade com maior
+eficiência.
+
+2.4 Transferências de Recursos Públicos entre os
+Entes Federativos
+
+A Constituição de República Federativa do
+Brasil (1988) estabeleceu em seu artigo 1º, caput,
+que o Brasil é formado pela união indissolúvel dos
+Estados e Municípios e do Distrito Federal,
+reforçando, em seu artigo 18, a autonomia desses
+entes federativos.
+
+Segundo Ignarra (2014), a descentralização
+que caracterizou a federação brasileira nas últimas
+décadas, aumentou as atribuições e
+responsabilidades dos municípios. “Contudo, uma
+vez que as receitas próprias municipais são capazes
+de custear apenas parcialmente estas atividades,
+torna-se necessário um volume elevado de
+transferências que provém dos níveis centrais aos
+municípios”.
+
+O mesmo raciocínio aplica-se aos Estados,
+especialmente aqueles cujas receitas próprias são
+insuficientes para o custeio das responsabilidades
+que lhes são atribuídas, como é o caso de Alagoas.
+
+Segundo a Controladoria Geral da União
+(CGU, 2005) e o Tribunal de Contas da União (TCU,
+2013), as transferências de recursos federais podem
+ser classificadas nas seguintes modalidades:
+
+a) constitucionais, que representam
+recursos que a União transfere aos estados e
+municípios por determinação da Constituição, como,
+por exemplo, as transferências aos fundos de
+participação dos estados (FPE) e dos municípios
+(FPM);
+
+b) legais, como as destinadas ao
+Programa Nacional de Alimentação Escolar (Pnae),
+também conhecido como Programa da Merenda;
+
+c) legais, fundo a fundo, onde, por
+determinação de lei específica, os recursos de um
+fundo da esfera federal são repassados para outro
+fundo da esfera estadual, do Distrito Federal ou
+municipal, como ocorre nas áreas de saúde
+(transferências do Sistema Único de Saúde - SUS) e
+assistência social;
+
+d) direta ao cidadão, dentro de
+programas que concedem benefício monetário
+mensal, sob a forma de transferência de renda
+diretamente à população-alvo do programa, como,
+
+Revista de Gestão e Projetos - GeP
+Vol. 8, N. 1. Janeiro/Abril. 2017
+Gerenciamento de Projetos: Um Modelo de Monitoramento e Controle de Projetos Públicos
+Executados com Recursos de Transferências V oluntárias
+
+por exemplo, o Bolsa Família;
+
+e) voluntárias, que “[.]são os
+repasses de recursos correntes ou de capital a outro
+ente da Federação, a título de cooperação, auxílio ou
+assistência financeira, que não decorra de
+determinação constitucional, legal ou os destinados
+ao Sistema Único de Saúde” (CGU, 2005).
+
+São definidas três modalidades de
+transferência voluntária: os convênios, os contratos
+de repasse e os termos de execução descentralizada
+(Decreto nº 6.170, 2007, com redação dada pelo
+Decreto nº 8.180, 2013). Existem ainda os termos de
+parceria, disciplinados pelas leis nº 9.790 (1999) e
+13.019 (2014) que, segundo Ignarra (2014), são os
+
+instrumentos que permitem a efetivação das
+transferências entre entidades públicas, como
+concedentes, e entidades privadas sem fins
+
+lucrativos, como convenentes.
+O convênio é
+
+[..Jacordo, ajuste ou qualquer
+outro instrumento que discipline a
+transferência de recursos
+financeiros de dotações
+consignadas nos Orçamentos
+Fiscal e da Seguridade Social da
+União e tenha como partícipe, de
+um lado, órgão ou entidade da
+administração pública federal,
+direta ou indireta, e, de outro lado,
+órgão ou entidade da
+administração pública estadual,
+distrital ou municipal, direta ou
+indireta, ou ainda, entidades
+privadas sem fins lucrativos,
+visando a execução de programa
+de governo, envolvendo a
+realização de projeto, atividade,
+serviço, aquisição de bens ou
+evento de interesse recíproco, em
+regime de mútua cooperação
+(Brasil, 2007).
+
+O contrato de repasse é
+
+instrumento administrativo, de
+interesse recíproco, por meio do
+qual a transferência dos recursos
+financeiros se processa por
+intermédio de instituição ou
+agente financeiro público federal,
+que atua como mandatário da
+União”, enquanto o termo de
+execução descentralizada é
+“instrumento por meio do qual é
+ajustada a descentralização de
+crédito entre órgãos e/ou entidades
+integrantes dos Orçamentos Fiscal
+
+3 A Portaria Interministerial MP/MF/CGU nº 507/2011
+vigorou até 31 de dezembro de 2016, sendo revogada pela
+Portaria Interministerial nº 424 MP/MF/CGU, de 30 de
+dezembro de 2016, publicada no Diário Oficial da União
+
+LIMA/CIRQUEIRA
+PINTO/ SOUZA
+
+107
+
+e da Seguridade Social da União,
+para execução de ações de
+interesse da unidade orçamentária
+descentralizadora e consecução do
+objeto previsto no programa de
+trabalho, respeitada fielmente a
+classificação funcional
+programática. (Brasil, 2013).
+
+Este trabalho considera as transferências
+voluntárias da União para o Estado de Alagoas, que
+são instrumentalizadas por convênio ou contrato de
+repasse.
+
+2.5 Sistemas de  Operacionalização de
+Transferências Voluntárias: Cauc, Sicony e Siafi
+
+Para a formalização de instrumentos que
+possibilitem o recebimento de recursos mediante
+transferências voluntárias, os estados e municípios
+precisam atender a determinados requisitos e
+exigências, previstos na Lei de Responsabilidade
+Fiscal (2000), principalmente nos artigos 11, 25, 48
+e 51, e na Portaria Interministerial MP/MF/CGU nº
+507 (2011), artigos 38 e 39, entre os quais cita-se:
+
+a) encaminhar, anualmente, suas contas ao
+Poder Executivo da União;
+
+b) não exceder, com despesas de pessoal, 60%
+da receita corrente líquida;
+
+c) estar em dia quanto à prestação de contas de
+recursos anteriormente recebidos da União;
+
+d) comprovar o cumprimento dos limites
+constitucionais de aplicação da receita
+resultante de impostos, compreendida a
+proveniente de transferências, na
+manutenção e no desenvolvimento do
+ensino e nos serviços públicos de saúde;
+
+e) comprovar a observância dos limites das
+dívidas consolidada e mobiliária, conforme
+a Lei de Responsabilidade Fiscal;
+
+f) comprovar a existência de previsão
+orçamentária de contrapartida, estabelecida
+de modo compatível com a capacidade
+
+financeira da respectiva | unidade
+
+beneficiada, nos limites legais.
+
+Para facilitar a consulta quanto ao
+atendimento desses requisitos, foi instituído,
+
+mediante a Instrução Normativa nº 2/2012, da
+Secretaria do Tesouro Nacional (STN, 2017), o
+Serviço Auxiliar de Informações para Transferências
+Voluntárias, em substituição ao antigo Cadastro
+Único de Convênios (Cauc), porém mantendo a sigla
+deste último. Segundo informação da STN (2017), o
+Cauc é um serviço prestado pelo Tesouro Nacional
+
+de 02 de janeiro de 2017. Contudo, como escopo deste
+trabalho, compreende as transferências voluntárias
+firmadas até 2016, a Portaria Interministerial nº 507 ainda
+era a norma aplicável.
+
+Revista de Gestão e Projetos - GeP
+Vol. 8, N. 1. Janeiro/Abril. 2017
+Gerenciamento de Projetos: Um Modelo de Monitoramento e Controle de Projetos Públicos
+Executados com Recursos de Transferências V oluntárias
+
+para agilizar o processo de verificação de 13 dos 21
+requisitos fiscais para a celebração de transferências
+voluntárias da União a Estados, ao Distrito Federal e
+aos Municípios.
+
+Conforme preceitua o artigo 13 do Decreto
+6.170 (Brasil, 2007), a celebração, a liberação de
+recursos, o acompanhamento da execução e a
+prestação de contas de convênios, contratos de
+repasse e termos de parceria serão registrados no
+Siconv, que será aberto ao público, via rede mundial
+de computadores - Internet, por meio de página
+específica denominada Portal dos Convênios.
+
+Antes da criação do Siconv, as
+transferências voluntárias eram registradas no
+Sistema Integrado de Administração Financeira do
+Governo Federal (Siafi) e sua execução orçamentária
+e financeira também era acompanhada por esse
+Sistema. Com o advento do Siconv, o Siafi continuou
+a servir como instrumento para a execução
+orçamentária e financeira dessas transferências,
+tendo em vista que é o sistema de contabilidade do
+Governo Federal.
+
+Sendo assim, quando a transferência
+voluntária é registrada no Siconv, ocorre um
+empenho no Siafi, reservando os recursos no
+orçamento da União. Quando ocorre a liberação
+parcial ou total desses recursos, ela se dá mediante
+ordem bancária. Quando o ente federado não
+consegue executar, total ou parcialmente, o que foi
+pactuado, ou quando existem sobras financeiras,
+decorrentes de economias ou rendimentos de
+aplicações financeiras, os recursos devem ser
+devolvidos à União, quando da prestação de contas.
+Essa devolução pode ocorrer de duas formas:
+
+- Para convênios formalizados antes do
+
+advento do Siconv, cujo registro e execução
+
+foram realizados completamente no Siafi,
+mediante Guia de Recolhimento da União
+
+(GRU), que depois é apropriada no Siafi
+
+pelo órgão concedente, mediante
+
+documento denominado Registro de
+
+Arrecadação (RA);
+
+- Para convênios formalizados no Siconv,
+
+mediante Ordem Bancária de Transferência
+
+Voluntária (Obtv), da Unidade Gestora
+
+(UG) convenente para a UG concedente.
+
+3 METODOLOGIA
+
+Este capítulo, além de apresentar a
+caracterização da pesquisa realizada, descreve os
+procedimentos metodológicos utilizados para o
+levantamento e a análise dos dados. Além disso,
+apresenta as justificativas para a escolha do objeto de
+estudo: a gestão e o monitoramento dos convênios
+celebrados em um estado brasileiro.
+
+LIMA/CIRQUEIRA
+PINTO/ SOUZA
+
+108
+
+3.1 Caracterização da Pesquisa
+
+Tendo em vista que este artigo tem como
+objetivo analisar a gestão dos convênios celebrados
+pelo govemo do estado, identificando o montante de
+recursos aplicados e de recursos devolvidos aos
+órgãos repassadores por não cumprimento do objeto,
+bem como propor mecanismos de monitoramento e
+controle para esses convênios, essa pesquisa pode ser
+classificada como qualitativa de caráter exploratório
+e descritiva.
+
+A pesquisa realizada também pode ser
+classificada como um estudo de caso, que, segundo
+Yin (2015) permite ao pesquisador um
+aprofundamento em relação ao fenômeno estudado.
+O estudo de caso possibilita ainda uma visão mais
+ampla acerca dos acontecimentos, possuindo
+também uma investigação empírica.
+
+Paralelamente ao desenvolvimento da
+pesquisa, foi iniciado o projeto de implantação da
+ferramenta de monitoramento, sendo escolhida,
+como unidade responsável por esse projeto, a
+Superintendência de Planejamento e Políticas
+Públicas — Suplan, que faz parte da estrutura da
+Secretaria Executiva de Planejamento e Gestão,
+órgão integrante da Secretaria de Estado do
+Planejamento, Gestão e Patrimônio - Seplag/AL.
+
+A escolha da Suplan ocorreu porque, de
+acordo com a página na intemet da Secretaria de
+Estado de Planejamento (Seplag, 2017), entre suas
+competências estão o monitoramento da execução de
+programas governamentais e o acompanhamento da
+política econômica e social do Estado de Alagoas.
+
+3.2 Procedimentos para Coleta e Análise de
+Dados
+
+A partir da escolha da Suplan como objeto
+de estudo e unidade responsável pela implantação do
+projeto, foram realizadas entrevistas com os gestores
+do Orgão, e formada a equipe de projeto, tendo como
+como patrocinador o Secretário Executivo de
+Planejamento e Gestão. A equipe do projeto foi
+composta por servidores da Gerência de
+Monitoramento e Avaliação de Programas, sendo o
+responsável por essa Gerência, escolhido para ser o
+gerente do projeto. Os autores deste artigo passaram
+a integrar a equipe de consultores externos.
+
+As entrevistas tiveram a finalidade de obter
+informações iniciais acerca dos setores, fluxos
+intemos e operações, o que possibilitou maior
+aproximação com o objeto de estudo. Essas
+entrevistas também foram úteis na identificação dos
+principais gargalos à gestão eficiente das
+transferências voluntárias recebidas pelo Estado.
+
+Realizou-se visita à Chefia de Contratos e
+Convênios, da Secretaria Executiva de Fazenda
+(Sefaz), bem como à Governança Corporativa do
+Estado e à Secretaria de Estado da Educação, com
+vistas a entender como é realizado o monitoramento
+
+Revista de Gestão e Projetos - GeP
+Vol. 8, N. 1. Janeiro/Abril. 2017
+Gerenciamento de Projetos: Um Modelo de Monitoramento e Controle de Projetos Públicos
+Executados com Recursos de Transferências V oluntárias
+
+da execução financeira das transferências
+voluntárias recebidas pelas diversas entidades
+vinculadas ao Estado de Alagoas.
+
+A medida que os estudos avançavam, foi
+produzida a documentação do projeto (Pmbok,
+2013), mediante o preenchimento do Termo de
+Abertura do Projeto e da Carta do Projeto, do
+Registro das Partes Interessadas, da Matriz de
+Análise das Partes Interessadas, do Plano de
+Gerenciamento do Projeto, dos Planos de
+Gerenciamento do Escopo, do Tempo, dos Custos,
+da Qualidade dos Recursos Humanos, das
+Comunicações, dos Riscos, das Aquisições, das
+Partes Interessadas e, das Mudanças, além dos
+formulários de Monitoramento e Controle do
+projeto, todos nos formatos sugeridos por Snyder
+(2013).
+
+Realizou-se a pesquisa bibliográfica e
+documental, abrangendo normas, modelos, rotinas e
+
+sistemas passíveis de serem utilizados pela
+Seplag/AL e as demais entidades do Estado de
+Alagoas que tomam parte como convenentes em
+transferências voluntárias.
+
+Os dados relativos às transferências
+voluntárias formalizadas pelo Estado de Alagoas,
+desde 2003, foram obtidos mediante consulta ao
+portal Siga Brasil, do Senado Federal, utilizando-se
+os universos “Convênios — Siconv” e “Convênios —
+Siafi”. Após a extração dos dados em planilhas no
+formato MS-Excelº, filtrou-se os convênios que não
+estavam concluídos, arquivados, excluídos,
+cancelados e rescindidos, resultando em 189
+convênios registrados no Siafi e 78 no Siconv, sendo
+que desses, estavam vigentes em 2016, 16
+convênios registrados no Siafi e 7 no Siconv,
+conforme detalhado na Tabela 1:
+
+Tabela 1: Quantitativo e montante pactuado das transferências voluntárias firmadas por entes vinculados ao
+Govemo do Estado de Alagoas, vigentes em 2016
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Número de
+Sistema Convenente Transferências Patando 9
+Vigentes
+ALAGOAS GOVERNO DO ESTADO - AL 9 62.880.335,89
+ALAGOAS SECRETARIA DE CULTURA E
+ESPORTES - AL 1 8.350.000,00
+FUNDAÇÃO DE AMPARO À PESQUISA DO
+ESTADO DE ALAGOAS - AL E 8:75:268,20
+INSTITUTO DE METROLOGIA E QUALIDADE
+Siafi | DEALAGOAS-AL 1 40.424.038,02
+INSTITUTO DO MEIO AMBIENTE DO ESTADO
+DE ALAGOAS - AL 1 1.345.300,00
+SECRETARIA DE ESTADO DA
+INFRAESTRUTURA - AL 1 20.000.000,00
+SECRETARIA EXECUTIVA DE FAZENDA - AL 1 347.667.328,35
+Subtotal Siafi 16 489,462.790,46
+ALAGOAS GOVERNO DO ESTADO 2 34.321.515,00
+UNIVERSIDADE ESTADUAL DE CIÊNCIAS DA 3 572.222 99
+SiConv SAUDE DE ALAGOAS - UNCISAL ee
+FUNDAÇÃO DE AMPARO À PESQUISA DO
+ESTADO DE ALAGOAS é dba OLA
+Subtotal Siconv 7 39.758.737,22
+TOTAL GERAL 23 529.221.527,68
+Fonte: Elaborada pelos autores, a partir dos dados extraídos do Siafi e do Siconv, com o auxílio do Portal Siga
+Brasil, do Senado Federal.
+Realizou-se, a partir do número de inscrição plataforma de business intelligence, para consulta de
+no Cadastro Nacional de Pessoa Jurídica (CNPJ) de informações do Siafi (STN, 2017):
+cada uma das entidades vinculadas ao Estado de a) consulta documento/Registro de
+Alagoas, as seguintes pesquisas no Tesouro Arrecadação (RA), para obter os valores devolvidos,
+
+Gerencial, que é um sistema disponibilizado pela
+Secretaria do Tesouro Nacional, construído em uma
+
+LIMA/CIRQUEIRA
+PINTO/ SOUZA
+
+109
+
+relativos a transferências voluntárias firmadas dentro
+do Siafi, ou seja, anteriores à utilização do Siconv
+pelo Estado;
+
+Revista de Gestão e Projetos - GeP
+Vol. 8, N. 1. Janeiro/Abril. 2017
+Gerenciamento de Projetos: Um Modelo de Monitoramento e Controle de Projetos Públicos
+Executados com Recursos de Transferências V oluntárias
+
+b) consulta documento/Ordem Bancária
+(OB), para obter os valores devolvidos, mediante
+ordem bancária de transferência voluntária (OBTV)
+relativos a transferências voluntárias firmadas no
+âmbito do Siconv.
+
+Considerando-se que o Tesouro Gerencial
+
+limitou-se o escopo da pesquisa, no que diz respeito
+à devolução de recursos, aos exercícios de 2015 e
+2016. Esses dados foram agrupados em tabelas
+dinâmicas no aplicativo MS-Excelº, detalhando por
+ano de devolução, convenente, concedente e valor
+devolvido, conforme Tabela 2:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+disponibiliza dados somente a partir de 2015,
+Tabela 2: Devolução de recursos de transferências voluntárias recebidas em exercícios anteriores, firmadas por
+entes vinculados ao Governo do Estado de Alagoas
+Sistema de Ano da Convenente Valor devolvido
+Registro devolução (R$)
+ALAGOAS SECRETARIA DA AGRICULTURA 5.559.945,50
+COORDENADORIA ESTADUAL DE DEFESA 6.420.353,91
+DEFENSORIA PÚBLICA GERAL DO ESTADO DE
+ALAGOAS 290.584,88
+ESTADO DE ALAGOAS 219.704,06
+NSTITUTO DE TERRAS E REFORMA AGRÁRIA 22.397 00
+DE ALAGOAS - ITERAL aa
+NSTITUTO DO MEIO AMBIENTE DO ESTADO DE 5.982.15
+2015 ALAGOAS pn
+SECRETARIA DE ESTADO DA ASSISTÊNCIA E 187.263 63
+DESENVOLVIMENTO . TOR
+SECRETARIA DE ESTADO DA EDUCAÇÃO 1.459,37
+SECRETARIA DE ESTADO DA 16321
+NFRA ESTRUTURA ú
+SECRETARIA DE ESTADO DO MEIO AMBIENTE E 51939772
+DOS RECURSOS HI E
+UNIVERSIDADE ESTADUAL DE ALAGOAS 69.053,05
+Total devolvido em 2015 13.296.304,48
+AGÊNCIA REGULADORA DE SERVICOS 8.585 02
+PUBLICOS DO ESTADO DE AL no
+Siafi ALAGOAS SECRETARIA DA AGRICULTURA 536.103,95
+COORDENADORIA ESTADUAL DE DEFESA 4.016.133,21
+SECRETARIA DE ESTADO DA ARTICULAÇÃO
+SOCIAL 305.400,41
+SECRETARIA DE ESTADO DA EDUCAÇÃO 914,15
+SECRETARIA DE ESTADO DA
+INFRAESTRUTURA in
+SECRETARIA DE ESTADO DA MULHER E DOS
+2016 | DIREITOS HUMANOS - APRaME
+SECRETARIA DE ESTADO DA SEGURANCA
+PÚBLICA - SSP dEGRADo
+SECRETARIA DE ESTADO DE PREVENÇÃO A
+VIOLÊNCIA - SEPREV JAsAaDo
+SECRETARIA DE ESTADO DO TRABALHO E 58.749 47
+EMPREGO -SETE o
+SECRETARIA EXECUTIVA DE FAZENDA 2.459.475,37
+UNIVERSIDADE ESTADUAL DE CIÊNCIAS DA 119.969 27
+SAUDE DE ALAGOAS - o
+Total devolvido em 2016 46.370.587,94
+ia devolvido relativo a transferências voluntárias registradas no 59.666.892,42
+LIMA/ CIRQUEIRA 110 Revista de Gestão e Projetos - GeP
+
+PINTO/ SOUZA
+
+Vol. 8, N. 1. Janeiro/Abril. 2017
+
+ 
+Gerenciamento de Projetos: Um Modelo de Monitoramento e Controle de Projetos Públicos
+Executados com Recursos de Transferências V oluntárias
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2015 SECRETARIA DE ESTADO DA DEFESA SOCIAL 1.556.580,77
+Total devolvido em 2015 1.556.580,77
+FUNDAÇÃO DE AMPARO A PESQUISA DO
+ESTADO DEAL 192.708,51
+SECRETARIA DE ESTADO DA MULHER, DA
+CIDADANIA 697.883,24
+SECRETARIA DE ESTADO DE EMPREGO, RENDA
+. 76.583,53
+Siconv E RELA
+2016 SECRETARIA ESPECIAL DE PROMOÇÃO DA PAZ 458.734 39
+- SEPAZ Ure
+UNIVERSIDADE ESTADUAL DE ALAGOAS 73.817,83
+UNIVERSIDADE ESTADUAL DE CIÊNCIAS DA
+SAÚDE DE 293.885,51
+Total devolvido em 2016 1.793.613,01
+goal devolvido relativo a transferências voluntárias registradas no 3.350.193,78
+iconv
+Total devolvido, pelo Estado de Alagoas, relativo a transferências voluntárias recebidas
+Ar : 63.017.086,20
+em exercícios anteriores
+
+ 
+
+ 
+
+ 
+
+Fonte: Elaborada pelos autores, a partir dos dados extraídos do Siafi e do Siconv, com o auxílio do sistema
+Tesouro Gerencial.
+
+4 ANÁLISE E DISCUSSÃO
+
+RESULTADOS
+
+DOS
+
+Constatou-se que o Estado de Alagoas
+devolveu, nos exercícios de 2015 e 2016, recursos
+relativos a transferências voluntárias não executadas,
+ou saldos remanescentes da execução, no montante
+de R$ 63.017.086,20, sendo R$ 59.666.892,42,
+relativos a convênios e contratos de repasse
+registrados no Siafi e R$ 3.350.193,78, relativos a
+convênios e contratos de repasse registrados no
+Siconv. Esse montante inclui a contrapartida
+estadual, que também deve ser recolhida à União,
+quando o objeto das transferências voluntárias não é
+executado. Vale ressaltar que se tratam de
+transferências voluntárias firmadas antes de 2015.
+
+Desse modo, evidencia-se a dificuldade do
+Estado de Alagoas em gerenciar adequadamente a
+execução das transferências voluntárias avençadas.
+Como cada uma dessas transferências pode ser
+considerada um projeto, constata-se, em última
+análise, a deficiência do Estado no gerenciamento de
+projetos.
+
+Diante das dificuldades enfrentadas pelo
+Estado de Alagoas na execução das políticas
+públicas e de sua necessidade em contar com os
+recursos federais, especialmente os provenientes de
+transferências voluntárias, não há espaço para
+desperdício desses recursos e, sendo assim, o Estado
+precisa de uma rotina e uma ferramenta que o ajude
+a controlar a execução das transferências
+voluntárias, garantindo que os respectivos objetos de
+
+LIMA/CIRQUEIRA
+PINTO/ SOUZA
+
+111
+
+cada uma delas fosse devidamente executado e os
+objetivos alcançados, além de evitar o desperdício ou
+a devolução dos recursos recebidos.
+
+Cumpre destacar que o Governo Federal
+não disponibiliza um sistema único que fomeça, de
+forma simplificada, não apenas aos gestores, mas
+também aos cidadãos, informações completas sobre
+a formalização, a liberação de recursos, a execução,
+os resultados e as prestações de contas dos
+convênios. O Portal da Transparência do Govemo
+Federal possibilita consulta apenas aos dados sobre
+a formalização e a liberação de recursos, não
+contemplando dados sobre a execução, resultados e
+prestação de contas.
+
+Desse modo, surge a necessidade de o
+Estado contar com uma ferramenta de
+gerenciamento das transferências voluntárias
+celebradas, contemplando as etapas de
+planejamento, formalização, recebimento de
+recursos, descentralização, execução,
+monitoramento e controle e prestação de contas,
+conforme proposta constante dos tópicos seguintes.
+
+41 Rotina de Planejamento, Execução e
+Monitoramento
+
+Visando suprir a carência do Estado no
+gerenciamento de suas transferências voluntárias,
+propõe-se a rotina a seguir, que deve ser observada
+por todos os gestores estaduais responsáveis pelo
+gerenciamento dessas transferências.
+
+Revista de Gestão e Projetos - GeP
+Vol. 8, N. 1. Janeiro/Abril. 2017
+Gerenciamento de Projetos: Um Modelo de Monitoramento e Controle de Projetos Públicos
+
+4,1.1 Fase de planejamento
+
+Executados com Recursos de Transferências V oluntárias
+
+Figura 1 - Procedimentos da fase de planejamento para a obtenção de recursos e formalização de transferências
+
+voluntárias
+
+ 
+
+ÓRGÃOS RESPONSÁVEIS
+
+PROCEDIMENTOS
+
+ 
+
+Secretaria executora
+
+. Identifica/seleciona qual recurso quer captar;
+
+ 
+
+. Confecciona a proposta, juntamente com toda a documentação exigida
+
+pela pessoa jurídica responsável pela concessão do recurso (plano de
+trabalho, cronograma de execução físico-financeira, relação de bens a
+serem adquiridos ou serviços a serem prestados, termo de convênio ou
+contrato de repasse etc.);
+
+ 
+
+. Lança no sistema de monitoramento;
+
+ 
+
+Seplag
+
+. Analisa se a proposta está de acordo com o Plano Plurianual (PPA),
+
+aprovando-a ou reprovando-a;
+
+ 
+
+. No caso de reprovação, o sistema dá conhecimento à secretaria
+
+solicitante e o processo deve ser arquivado;
+
+ 
+
+. Aprovando a proposta, está será validada mediante registro no sistema;
+
+ 
+
+Sefaz
+
+ 
+
+. Uma vez aprovado pela Seplag, a Sefaz irá realizar a análise no tocante
+
+à disponibilidade de contrapartida (caso esta seja na forma de recursos
+do tesouro estadual);
+
+ 
+
+. Aprovada a proposta esta será habilitada no sistema de monitoramento,
+
+ficando a Sefaz responsável pela provisão dos recursos;
+
+ 
+
+. Após essas duas validações, o sistema libera a secretaria solicitante
+
+ 
+
+para formalizar o convênio.
+i No caso de aditivos, o processo novamente deverá passar pelo
+aval da Seplag e Sefaz.
+
+ 
+
+ 
+
+Fonte: Elaborado pelos autores
+
+4.1,2 Fase de execução por parte das secretarias projetos, onde a secretaria demandante deverá
+
+alimentar o sistema, de modo a poder manter as
+
+Uma vez o sistema alimentado e tendo as informações atualizadas e ser acompanhadas
+autorizações anteriormente listadas, passa-se então externamente pela Seplag.
+para a fase de execução e acompanhamento dos
+
+LIMA/CIRQUEIRA
+PINTO/ SOUZA
+
+112 Revista de Gestão e Projetos - GeP
+Vol. 8, N. 1. Janeiro/Abril. 2017
+Gerenciamento de Projetos: Um Modelo de Monitoramento e Controle de Projetos Públicos
+Executados com Recursos de Transferências V oluntárias
+
+Figura 2 - Procedimentos da fase de execução pelas secretarias de estado, dos recursos recebidos mediante
+transferências voluntárias
+
+ 
+
+PROCEDIMENTOS
+
+EXEMPLOS DE APLICAÇÃO
+
+ 
+
+10. Cada projeto será subdividido em grandes
+ações que, por sua vez, estarão separadas por
+ações menores contendo os marcos de
+acompanhamento e suas entregas parciais,
+culminando com a entrega final (objeto do
+projeto);
+
+No caso da contratação de uma obra pública ou
+
+aquisição de um bem:
+
+Marcos de acompanhamento:
+
+a) Abertura do processo administrativo, mediante
+solicitação para contratar a obra ou adquirir o
+bem, endereçada ao ordenador de despesas;
+
+b) Aprovação do projeto básico, no caso de obras,
+ou do termo de referência, no caso de aquisições
+
+ou contratação de outros serviços, pelo
+ordenador de despesas;
+c) Aprovação do processo licitatório pela
+
+Procuradoria Geral do Estado (PGE);
+
+d) Autorização para licitar delegada pela Agência
+de Modemização da Gestão de Processos
+(Amgesp), no caso de aquisições ou contratação
+de outros serviços, ou encaminhamento do
+processo para a Secretaria de Estado da
+Infraestrutura (Seinfra), responsável pelas
+licitações de obras;
+
+e) Licitação realizada;
+
+f) Assinatura do contrato;
+9) Liberação de contrapartida por parte da Sefaz
+h) Emissão da nota de empenho e da ordem de
+
+execução ou de fomecimento;
+
+i) Acompanhamento da execução da obra
+confrontando execução física financeira do
+plano de trabalho inicial com as medições in loco
+ou atesto da entrega dos bens ou da execução dos
+serviços;
+
+ 
+
+11. Cada uma das entregas parciais e/ou marcos de
+acompanhamento terão que ser acompanhados
+de evidências para fins de comprovação.
+
+ 
+
+ 
+
+Entregas parciais:
+
+Processo aberto;
+
+Processo licitado;
+
+Início das obras ou entrega dos bens ou início dos
+serviços;
+
+Recebimento provisório da obra ou atesto da entrega
+dos bens ou prestação dos serviços;
+
+Entrega final;
+Obra concluída, recebida definitivamente e
+funcionando ou bem recebido, atestado e
+
+funcionando, ou serviço devidamente prestado e
+atestado.
+
+ 
+
+Fonte: Elaborado pelos autores
+
+As evidências de cada ponto seriam a
+comprovação da sua realização. Podendo ser a
+publicação no Diário Oficial, a ordem de serviço
+assinada, a publicação do resultado da licitação, a
+publicação do termo de contrato, emissão da Nota de
+Empenho (NE), da Nota de Lançamento (NL), das
+
+LIMA/CIRQUEIRA
+PINTO/ SOUZA
+
+113
+
+ 
+
+notas fiscais atestadas, das Ordens Bancárias (OB),
+do aceite provisório e, do aceite definitivo).
+
+4.1.3 Acompanhamento por parte das secretarias
+externas
+
+Revista de Gestão e Projetos - GeP
+Vol. 8, N. 1. Janeiro/Abril. 2017
+Gerenciamento de Projetos: Um Modelo de Monitoramento e Controle de Projetos Públicos
+Executados com Recursos de Transferências V oluntárias
+
+Figura 3 - Procedimentos da fase de acompanhamento e controle da execução
+
+ 
+
+ÓRGÃOS RESPONSÁVEIS RESPONSABILIDADES
+
+ 
+
+Realizar o acompanhamento da execução solicitando, quando necessário,
+Seplag esclarecimentos junto às secretarias executoras dos projetos quando
+identificada qualquer inconformidade.
+
+Monitorar o sistema, identificando a entrada dos recursos nas contas
+bancárias das secretarias executoras dos projetos, realizando o depósito
+
+ 
+
+ 
+
+e proporcional das contrapartidas e liberando a sua execução orçamentária
+e financeira.
+Controladoria Geraldo Estado Fiscalizar, intervindo, se necessário, na execução física financeira dos
+
+(CGE) projetos, contribuindo para a transparência e evitando, assim, futuros
+problemas quando da prestação de contas do convênio.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Elaborada pelos autores
+
+4.2 Sistema de Monitoramento Uma vez escolhidos os projetos a serem
+monitorados, estes são reunidos em grandes grupos
+Foi escolhido o sistema de monitoramento e compõem um mapa estratégico onde cada
+desenvolvido pela empresa Facilit Tecnologia que, secretaria, por meio de servidor especialmente
+atualmente, já é utilizado pela Govemnança designado, fica responsável por alimentar e
+Coorporativa do Estado, para o monitoramento de monitorar o sistema com as informações necessárias
+projetos prioritários do poder executivo estadual nas ao seu acompanhamento, interagindo diretamente
+diversas secretarias de estado. com um técnico lotado na governança coorporativa.
+Apresenta-se uma breve descrição de seu
+funcionamento:
+
+Figura 1 - Visão do sistema utilizado pela Governança Corporativa do Estado de Alagoas
+
+ 
+
+ 
+   
+ 
+ 
+ 
+  
+
+Promoção ca Ecucaçãe
+
+Segurança e Prevenção à Viostecia Cesenvonmento Econtema
+
+Desenvonmento se
+
+ 
+
+1 e Compare à Poeeera
+
+[cade e IS AS
+
+ 
+
+eservonmento e vara, ão 90 Caçes Mumia
+
+aptaç ão e Gestão de Recursos Fnanceros
+
+Fonte: Governança Coorporativa do Estado de Alagoas
+
+Cada projeto lançado no sistema deve quais, à medida que forem sendo concluídos, devem
+conter informações sobre sua previsão de execução ser indexados às respectivas evidências que visam
+orçamentária, financeira e física, início e término comprovar se cada etapa dos projetos acompanhados
+geral das suas ações, marcos de acompanhamento, os foi executada conforme plano de trabalho.
+
+LIMA/ CIRQUEIRA 114 Revista de Gestão e Projetos - GeP
+
+PINTO/ SOUZA Vol. 8, N. 1. Janeiro/Abril. 2017
+
+   
+ 
+Gerenciamento de Projetos: Um Modelo de Monitoramento e Controle de Projetos Públicos
+Executados com Recursos de Transferências V oluntárias
+
+Figura 2 - Painel de ações e projetos do sistema utilizado pela Governança Corporativa do Estado de Alagoas
+
+"ANÇUR >
+
+* ANDAMENTO »
+
+voo
+
+Fonte: Governança Coorporativa do Estado de Alagoas
+
+Dessa forma, qualquer discrepância entre o
+inicialmente planejado e o efetivamente executado é
+identificada e pode ser sanada tempestivamente,
+possibilitando ao final de cada projeto um relatório
+fiel e detalhado de todo o transcorrer das ações, bem
+como onde se verificou uma maior necessidade de
+intervenções, podendo no futuro ser utilizado como
+referência para novos projetos similares, assim como
+pode contribuir na confecção e mensuração de
+índices dos mais diversos aspectos relacionados aos
+projetos.
+
+5 CONSIDERAÇÕES FINAIS
+
+A crescente demanda social por serviços
+públicos de qualidade e ao alcance de todos, em
+contraposição à diminuição das receitas públicas nos
+últimos anos, conferem aos recursos oriundos das
+transferências voluntárias da União papel
+fundamental na execução dos projetos do poder
+executivo estadual. Em um Estado no qual os
+recursos destinados a investimentos dependem das
+transferências voluntárias, a falta de planejamento,
+quando da captação e da execução, aliada à ausência
+de uma ferramenta estadual de monitoramento e
+controle desses recursos, acarretam perdas
+financeiras e sociais de difícil reparação.
+
+Dessa forma, dada a dificuldade do Estado
+de Alagoas em gerenciar adequadamente os recursos
+recebidos por transferências voluntárias — o que tem
+acarretado a devolução de verbas, inclusive das
+
+LIMA/CIRQUEIRA
+PINTO/ SOUZA
+
+115
+
+contrapartidas —, o trabalho teve como objetivo
+principal propor uma rotina e uma ferramenta de
+gestão capazes de acompanhar, de forma tempestiva,
+a execução orçamentária, financeira e física de todas
+as fases dos projetos no âmbito do Poder Executivo
+estadual, executados com recursos oriundos de
+transferências voluntárias. Como objetivos
+específicos, propôs-se a analisar a atual sistemática
+de gestão desses recursos e identificar o total dos
+convênios e contratos de repasse em execução e o
+montante de recursos devolvidos nos últimos
+exercícios.
+
+Além de evidenciar as fragilidades
+existentes na gestão das transferências voluntárias
+avençadas, esse trabalho teve como resultados a
+identificação e quantificação dos convênios em
+execução, agrupando-os por convenentes; a
+quantificação dos recursos devolvidos, nos
+exercícios de 2015 e 2016 e a propositura de uma
+rotina e de uma ferramenta, que visam ao
+fortalecimento da capacidade do ente estadual em
+executar, monitorar e controlar os seus projetos
+relativos às transferências.
+
+A proposta de uma rotina e de uma
+ferramenta específicas para o gerenciamento dos
+projetos relativos às transferências voluntárias
+encontra respaldo na literatura pesquisada, haja vista
+que os pesquisadores reconhecem que o uso de
+metodologias consagradas não é suficiente para
+garantir o sucesso da gestão de projetos. Para
+Maccari & Santos Teixeira (2014), os projetos são
+únicos, ou seja, não são repetidos nas mesmas
+
+Revista de Gestão e Projetos - GeP
+Vol. 8, N. 1. Janeiro/Abril. 2017
+Gerenciamento de Projetos: Um Modelo de Monitoramento e Controle de Projetos Públicos
+Executados com Recursos de Transferências V oluntárias
+
+condições. Desse modo, uma abordagem adaptativa
+dá ao gerente de projetos a possibilidade de
+identificar as particularidades do projeto, facilitando
+o planejamento e a execução, aumentando as
+chances de sucesso do projeto.
+
+Como principal limitação a esse trabalho,
+cita-se não ter avançado nas causas de insucessos dos
+projetos no âmbito de cada convenente, a fim de
+identificar fragilidades setorizadas na gestão dos
+projetos custeados por transferências voluntárias.
+Desse modo, como sugestão para futuros trabalhos,
+indica-se a realização de estudos que visem analisar
+a gestão dos convênios de forma individualizada,
+ainda que por amostragem, em cada secretaria
+estadual.
+
+REFERÊNCIAS
+
+Araújo, B. D. L. de, Júnior, F.M. L. P., & Abreu, F.
+P. (2015) Gerenciamento de aquisições de
+soluções de tecnologia da informação em uma
+universidade pública do Ceará. Revista Gestão
+em Análise, 4(1), 43-53.
+
+Camargo, M. R. (2014) Gerenciamento de projetos:
+fundamentos e prática integrada.
+
+Charvat, J. (2003) Project management
+methodologies: selecting, implementing, and
+supporting methodologies and processes for
+projects. John Wiley & Sons.
+
+Chumbita, H. H. (1997) Evaluación en la gestión
+pública: caso del sistema nacional de evaluación
+educativa. Inap.
+
+Constituição da República Federativa do Brasil de
+1988 (1988) Diário Oficial da União. Brasília,
+DF.
+
+Controladoria Geral da União (2005) Gestão de
+recursos federais — manual para agentes
+municipais. Recuperado em 17, janeiro, 2017, de
+http://www.cgu.gov.br/Publicacoes/ auditoria-e-
+fiscalizacao/arquivos/cartilhagestaorecursosfede
+rais.pdf.
+
+Decreto nº 6.170, de 25 de julho de 2007 (2007)
+Dispõe sobre as normas relativas às
+transferências de recursos da União mediante
+convênios e contratos de repasse, e dá outras
+providências. Diário Oficial da União. Brasília,
+DF.
+
+Decreto nº 8.180, de 30 de dezembro de 2013 (2013)
+Altera o Decreto nº 6.170, de 25 de julho de
+2007, que dispõe sobre as normas relativas às
+transferências de recursos da União mediante
+convênios e contratos de repasse. Diário Oficial
+da União. Brasília, DF.
+
+LIMA/CIRQUEIRA
+PINTO/ SOUZA
+
+116
+
+Ignarra, R. (2014) Monitoramento de recursos de
+transferências voluntárias na esfera municipal.
+Dissertação (mestrado) - Escola Brasileira de
+Administração Pública e de Empresas. Rio de
+Janeiro, RJ, Brasil.
+
+Instrução Normativa nº 02, de 2 de fevereiro de 2012
+(2012) Disciplina a coleta e o fomecimento de
+informações acerca de requisitos fiscais dos
+Estados, do Distrito Federal e de Municípios para
+a realização de transferências voluntárias, institui
+o Serviço Auxiliar de Informações para
+Transferências Voluntárias, e dá outras
+providências. Brasília, DF: Secretaria do
+Tesouro Nacional.
+
+Instituto Brasileiro de Geografia e Estatística (2016)
+EstadosO. Alagoas. Recuperado em 12
+dezembro, 2016, de
+http://www. ibge.gov.br/estadosat/perfil.php?sigl
+azal.
+
+ 
+
+Lei Complementar nº 101, de 04 de maio de 2000
+(2000) Lei de Responsabilidade Fiscal.
+Estabelece normas de finanças públicas voltadas
+para a responsabilidade na gestão fiscal e dá
+outras providências. Diário Oficial da União.
+Brasília, DF.
+
+Lei nº 13.019, de 31 de julho de 2014 (2014)
+Estabelece o regime jurídico das parcerias entre
+a administração pública e as organizações da
+sociedade civil, em regime de mútua cooperação,
+para a consecução de finalidades de interesse
+público e recíproco, mediante a execução de
+atividades ou de projetos previamente
+estabelecidos em planos de trabalho inseridos em
+termos de colaboração, em termos de fomento ou
+em acordos de cooperação; define diretrizes para
+a política de fomento, de colaboração e de
+cooperação com organizações da sociedade civil;
+e altera as Leis nos 8.429, de 2 de junho de 1992,
+e 9.790, de 23 de março de 1999. Diário Oficial
+da União. Brasília, DF.
+
+Lei nº9.790, de 23 de março de 1999 (1999) Dispõe
+sobre a qualificação de pessoas jurídicas de
+direito privado, sem fins lucrativos, como
+Organizações da Sociedade Civil de Interesse
+Público, institui e disciplina o Termo de Parceria,
+e dá outras providências. Diário Oficial da União.
+Brasília, DF.
+
+Maccari, E. A., & dos Santos Teixeira, G. C. (2014)
+Estratégia e planejamento de projeto para
+acompanhamento de alunos egressos de
+Programas de Pós-graduação Stricto
+Sensu. Revista de Administração da UFSM, T(1),
+101-116.
+
+Revista de Gestão e Projetos - GeP
+Vol. 8, N. 1. Janeiro/Abril. 2017
+Gerenciamento de Projetos: Um Modelo de Monitoramento e Controle de Projetos Públicos
+Executados com Recursos de Transferências V oluntárias
+
+Oliveira, J. P. N. de (2014) Avaliação do nível de
+maturidade em gerenciamento de projetos no
+setor de engenharia de projetos de um estaleiro
+de grande porte no Nordeste Brasileiro. Revista
+de Gestão e Projetos, 5(3), 1.
+
+Pares, A., & Valle, B (2006) A retomada do
+planejamento governamental no Brasil e seus
+desafios. In.: Giacomoni, J., Pagnussat, JL
+(Orgs.) Planejamento e orçamento
+governamental. Brasília: Enap, 229-270.
+
+Pmbok Guide (2013) 4 guide to the project
+management body of knowledge. PMI. (5 ed.)
+
+PMI. (2001) Government extension to a guide to the
+
+project management body of knowledge
+exposure draft O 2001 Project Management
+Institute
+
+Portaria Interministerial nº 507, de 24 de novembro
+de 2011 (2011) Estabelece normas para execução
+do disposto no Decreto no 6.170, de 25 de julho
+de 2007, que dispõe sobre as normas relativas às
+transferências de recursos da União mediante
+convênios e contratos de repasse, revoga a
+Portaria Interministerial nº 127/MP/MF/CGU, de
+29 de maio de 2008 e dá outras providências.
+Diário Oficial da União. Brasília, DF.
+
+Secretaria de Estado do Planejamento, Gestão e
+Patrimônio do Estado de Alagoas (2017)
+Superintendência de Planejamento e Políticas
+Públicas. Recuperado em 17, janeiro, 2017, de
+http://www.seplag.al.gov.br/planejamento-e-
+orcamento/planejamento.
+
+Secretaria do Tesouro Nacional (2017) Cauc -
+Serviço Auxiliar de Informações para
+Transferências Voluntárias. Recuperado em 16,
+janeiro, 2017 de
+
+http://www .stn.fazenda.gov.br/cauc
+
+LIMA/CIRQUEIRA
+PINTO/ SOUZA
+
+117
+
+Secretaria do Tesouro Nacional (2017) Tesouro
+Gerencial. Recuperado em 16, janeiro, 2017 de
+http://www .stn.fazenda.gov.br/web/stn/-
+[tesouro-gerencial.
+
+Silva, E. C. & Gil, A. C. (2013) Inovação e gestão de
+projetos: os fins justificam os meios. Revista de
+Gestão e Projetos — GeP, São Paulo, 4(1) 138-
+164.
+
+Snyder, C. S. (2013) A project managers book of
+forms: a companion to the pmbok guide. New
+Jersey: John Wiley & Sons, Inc.
+
+Tillmann, P. A., Scussel, M. €. B., Formoso, C. T., &
+Miron, L. 1. G. (2011) Desafios para a gestão de
+projetos urbanos com elevada complexidade:
+análise do programa integrado entrada da
+cidade em Porto Alegre, RS.
+
+Tribunal de Contas da União (2013) Convênios e
+outros repasses. (4º edição). Recuperado em 17,
+janeiro, 2017, de
+http://portal.tcu.gov.br/lumis/portal/file/fileD ow
+nload.jsp?filelId=8A 81824 24D 6E86A 4014D 72
+AC819253DD &inline=1
+
+ 
+
+ 
+
+Wirick, D. (2011) Public-sector Project
+management: meeting the challenges and
+achieving results. John Wiley & Sons.
+
+Xavier, C. M., Vivacqua, F. R., Macedo, O. S., &
+Xavier, L. S. (2005) Metodologia de
+gerenciamento de projetos. Rio de Janeiro:
+Brasport. Recuperado em: 15 jan.2017, de:
+http://g2b.com.br/downloads/07 metodologia g
+erenciamento de projetos carlos magno da si
+
+Iva xavier 2012.pdf.
+
+ 
+
+ 
+
+Yin, R. K. (2015) Estudo de caso: planejamento e
+métodos. (5a ed.). Bookman editora.
+
+Revista de Gestão e Projetos - GeP
+Vol.8,N. 1. Janeiro/Abril. 2017
+

@@ -1,0 +1,1 @@
+[QUESTION]Qual a esfera governamental abordada no texto? Utiize como domínio de valor para a resposta apenas os valores Federal, Estadual e Municipal (ou -1, caso não tenha a resposta).[/QUESTION]

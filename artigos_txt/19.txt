@@ -1,0 +1,1025 @@
+       
+
+POR
+
+PN 7
+ES”
+No
+Governo Federal
+
+Secretaria de Assuntos Estratégicos
+da Presidência da República
+
+Ministro— Roberto Mangabeira Unger
+ipea
+
+Fundação pública vinculada à Secretaria de Assuntos
+
+Instituto de Pesquisa
+Econômica Aplicada
+
+Estratégicos da Presidência da República, o Ipea fornece
+suporte técnico e institucional às ações governamentais,
+possibilitando a formulação de inúmeras políticas
+públicas e programas de desenvolvimento brasileiro,
+
+e disponibiliza, para a sociedade, pesquisas e estudos
+realizados por seus técnicos.
+
+Presidente
+Jessé José Freire de Souza
+
+Diretor de Desenvolvimento Institucional
+Luiz Cezar Loureiro de Azeredo
+
+Diretor de Estudos e Políticas do Estado, das
+Instituições e da Democracia
+Daniel Ricardo de Castro Cerqueira
+
+Diretor de Estudos e Políticas
+Macroeconômicas
+Cláudio Hamilton Matos dos Santos
+
+Diretor de Estudos e Políticas Regionais,
+Urbanas e Ambientais
+Marco Aurélio Costa
+
+Diretora de Estudos e Políticas Setoriais
+de Inovação, Regulação e Infraestrutura
+Fernanda De Negri
+
+Diretor de Estudos e Políticas Sociais, Substituto
+Carlos Henrique Leite Corseuil
+
+Diretor de Estudos e Relações Econômicas e
+Políticas Internacionais
+Brand Arenari
+
+Chefe de Gabinete
+José Eduardo Elias Romão
+
+Assessor-chefe de Imprensa e Comunicação
+João Cláudio Garcia Rodrigues Lima
+
+URL: http:/Iwww.ipea.gov.br
+Ouvidoria: http://www. ipea.gov.br/ouvidoria
+
+ISSN 1982-8772
+
+carta de
+conjuntura
+
+Diretoria de Estudos e Políticas
+Macroeconômicas
+
+Gecon - Grupo de Estudos de
+Conjuntura
+
+Equipe Técnica
+
+Fernando José da Silva Paiva Ribeiro (Coordenador)
+Estêvão Kopschitz Xavier Bastos
+
+Leonardo Mello de Carvalho
+
+Maria Andréia Parente Lameiras
+
+Paulo Mansur Levy
+
+Colaboradores
+Cláudio Hamilton Matos dos Santos
+Marco Antonio Freitas de Holanda Cavalcanti
+
+Equipe de Apoio
+
+Alejandro da Rocha Souto Padrón
+Felipe dos Santos Martins
+
+Mariana Leite Moraes da Costa
+José Bruno Ramos Torres Fevereiro
+Pedro Américo de Alemida Ferreira
+Hugo Hoffmann Borges
+
+O Instituto de Pesquisa Econômica Aplicada - ipea 2015
+
+ 
+
+Carta de conjuntura / Instituto de Pesquisa Econômica Aplicada.
+Diretoria de Estudos e Políticas Macroeconômicas. Grupo de
+Análise e Previsões. — (dez .2007)- - Rio de Janeiro :
+
+Ipea. Dimac, 2007-
+
+Trimestral,
+
+Títulos anteriores: Carta de conjuntura INPES, (maio 1988 -
+maio 1990); Carta de conjuntura IPEA, (ago. 1990 - dez. 1998).
+
+Suspensa de 1999 a nov. de 2007.
+
+ISSN 1982-8772
+
+1. Economia. 2. Macroeconomia. 3. Previsão Econômica. 4.
+Indicadores Econômicos. 5. Brasil. 6. Periódicos. |. Instituto de
+Pesquisa Econômica Aplicada. Diretoria de Estudos e Políticas
+Macroeconômicas. Grupo de Análise e Previsões.
+
+CDD 330.05
+
+As opiniões emitidas nesta publicação são de exclusiva e inteira responsabilidade
+dos autores, não exprimindo, necessariamente, o ponto de vista do Instituto
+de Pesquisa Econômica Aplicada ou da Secretaria de Assuntos Estratégicos da
+Presidência da República.
+
+É permitida a reprodução deste texto e dos dados nele contidos, desde
+que citada a fonte. Reproduções para fins comerciais são proibidas.
+
+As seções desta carta foram produzidas com informações
+disponíveis em 15 de abril de 2015.
+NOTA TÉCNICA
+
+UMA METODOLOGIA SIMPLIFICADA DE ESTIMAÇÃO DO
+
+CONSUMO DO GOVERNO NOMINAL EM BASES
+
+TRIMESTRAIS
+Cláudio Hamilton Matos dos Santos!
+Alejandro Padrón?
+Felipe dos Santos Martins?
+Mariana Leite Moraes da Costa!
+Introdução
+
+No período 1996-2014, o consumo do govemo brasileiro flutuou em torno de 19%
+do Produto Interno Bruto (PIB) referência 2010. Ainda assim, pouco se escreve sobre
+
+o consumo do govemo no Brasil.
+
+Esta nota tem como objetivo contribuir para preencher esta lacuna, apresentando uma
+metodologia simplificada de estimação do consumo nominal do governo em bases
+
+trimestrais a partir de dados disponíveis para o público em geral.
+
+O restante deste estudo está organizado em quatro seções. A próxima trata de
+esclarecer os conceitos básicos relevantes. A terceira seção apresenta e justifica as
+aproximações utilizadas, enquanto a quarta seção apresenta e discute os resultados
+
+obtidos. Por fim, seguem-se as considerações finais.
+
+1 Técnico de Planejamento e Pesquisa da Diretoria de Estudos e Políticas Macroeconômicas (Dimac) do
+Ipea.
+
+2 Pesquisador do Programa de Pesquisa para o Desenvolvimento Nacional (PNPD) na Dimac do Ipea.
+
+3 Pesquisador do PNPD na Dimac do Ipea.
+
+4 Pesquisador do PNPD na Dimac do Ipea.
+
+* Santos et al. (2014) é uma das exceções que confirmam a regra.
+Conceitos Básicos
+
+O chamado consumo do governo — mais especificamente, as despesas de consumo
+final das administrações públicas — compreende(m) as “despesas com serviços
+individuais e coletivos prestados gratuitamente, total ou parcialmente pelas três
+esferas de governo (federal, estadual e municipal), deduzindo-se os pagamentos
+
+parciais (entradas de museus, matrículas, etc.) efetuados pelas famílias” (IBGE,
+
+2008a, p.164).
+
+Seguindo Santos et al. (2014), aproximamos o consumo do governo pela “produção
+
+”ô que, por sua vez, pode ser decomposta em: i) valor adicionado das
+
+total do governo
+administrações públicas, isto é, os gastos (efetivos e imputados) com a remuneração
+dos funcionários públicos ativos de todos os entes de govemo mais a depreciação
+(imputada) do estoque de capital fixo das administrações públicas”; e ii) o consumo
+intermediário do govemo, ou seja, os gastos com bens e serviços mercantis (efetivos
+e imputados) consumidos pelas administrações públicas na produção dos serviços
+
+públicos.
+
+A remuneração dos servidores públicos ativos inclui pagamentos de salários e das
+contribuições efetivas e imputadas. As contribuições efetivas têm como objetivo
+principal financiar os regimes de previdência dos funcionários públicos, estatutários
+ou não. Já as contribuições imputadas visam valorar o benefício dado aos servidores
+públicos estatutários de poderem contar com regimes especiais de previdência social.
+O gasto com a depreciação do capital fixo (i.e. o excedente operacional bruto) das
+administrações públicas, por sua vez, é uma estimativa teórica do desgaste dos
+equipamentos públicos ao longo de um determinado período (Santos et al., 2014). Tal
+desgaste é tido como uma despesa (custo) a mais para as administrações públicas
+decorrente da produção dos serviços públicos, ainda que não impliquem desembolsos
+financeiros a quem quer que seja. O consumo intermediário, por seu turno, “representa
+
+o valor dos bens e serviços mercantis consumidos [pelas referidas administrações
+
+$ Essa aproximação não é perfeita. No ano de 2011, por exemplo, o consumo do governo foi de R$ 817,37
+bilhões, enquanto que a produção total do governo atingiu R$ 830,26 bilhões. Ver Santos et al. (2014)
+para detalhes.
+
+7 Que é igual, por definição, ao Excedente Operacional Bruto do governo (ver tabela 1).
+públicas] ao longo do período no processo corrente de produção” (IBGE, 2008a, p.
+34).
+
+A tabela 1 apresenta os valores relevantes para os anos 2010 e 2011º publicados nas
+novas contas nacionais referência 2010 (IBGE, 2015a).
+
+Tabela 1 - Decompondo o valor da produção do governo (R$ bilhões correntes)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2010 2011
+1. Valor adicionado bruto (PIB) 537.845 598.059
+1.1, Remunerações 487.166 541.126
+1.1.1 Salários 373.220 413.395
+1.1.2 Contribuições sociais efetivas 63.234 73.092
+1.1.3 Contribuições sociais imputadas 50.172 54.639
+1.2. Excedente operacional bruto (EOB) 50.659 56.846
+1.3. Outros impostos sobre a produção 20 87
+2. Consumo Intermediário 209.063 232.201
+3. Valor da produção = (1)-H2) 746.908 830.260
+Memo: Consumo do governo 738.966 817.370
+
+ 
+
+Fonte: IBGE (2015). Tabelas de Recursos e Usos
+
+Metodologia
+
+A metodologia utilizada nessa nota consistiu em tentar replicar, a partir de dados
+de alta frequência disponíveis para o público em geral, o esforço anterior de Santos et
+al. (2014) com dados anuais.
+
+Crucial em ambos os esforços foi o tradutor simplificado entre os conceitos da
+contabilidade pública e o Sistema de Contas Nacionais (SNC) referência 2000
+publicado pelo IBGE (2008b). Este tradutor permite a construção de séries
+indicadoras para os componentes selecionados do valor da produção do govemno a
+
+partir dos dados primários das finanças públicas brasileiras”.
+
+8 Ressalta-se que estes são os últimos anos para os quais estão disponíveis as Contas Nacionais Anuais.
+
+9 Nesse primeiro momento, optou-se por não reportar estimativas da depreciação de capital fixo da
+administração pública em alta frequência. Espera-se, entretanto, que seja possível fazê-lo —
+aperfeiçoando, com isso, as estimativas atuais — já na próxima edição da Carta de Conjuntura do Ipea.
+Registre-se que o IBGE ainda não divulgou um tradutor oficial semelhante ao
+publicado em IBGE (2008b) para as contas referência 2010. Inclusive por conta disso,
+os resultados apresentados nesta nota devem ser vistos apenas como primeiras
+aproximações. Com efeito, esperamos poder revisitar e refinar os números desta nota
+
+sempre que mais e melhores dados estiverem disponíveis.
+
+Mas já é possível construir estimativas razoavelmente precisas para o consumo do
+govemo nominal trimestral (referência 2010) mesmo sem o tradutor oficial atualizado
+(ver seção IV). Para tanto, é preciso prestar especial atenção a uma característica das
+contas referência 2010 relativamente pouco divulgada pelo IBGE!º — qual seja, a troca
+do critério de mensuração do gasto público, com o conceito de empenho utilizado nas
+contas referência 2000 dando lugar ao conceito de liquidação efetiva". Trata-se de uma
+diferença importante. O empenho de uma despesa indica apenas que recursos foram
+separados no orçamento público para financiá-la e não que a despesa tenha, de fato,
+ocorrido!!, Tecnicamente a despesa pública ocorre apenas quando de sua liquidação
+— ie. quando do reconhecimento pelo ente público da dívida com o fomecedor do
+bem ou serviço adquirido —, daí a racionalidade da mudança promovida nas novas
+contas nacionais (anuais). O adjetivo efetiva, por seu tumo, se deve ao fato de que o
+valor das despesas liquidadas disponibilizado nos relatórios contábeis dos entes
+públicos em um dado ano X usualmente subestima o valor efetivamente liquidado em
+X. Isso ocorre porque esses dados incluem apenas os valores do orçamento do ano X
+(empenhados e) liquidados em X, desconsiderando os valores empenhados em (de
+orçamentos de) anos anteriores a X e liquidados em X. Daí a necessidade de somar
+aos dados liquidados convencionais os valores dos “restos a pagar não processados”
+empenhados em anos anteriores e liquidados e pagos em X!2, No que se segue,
+aproximamos estes últimos valores pela soma de todos os restos a pagar (RPs) pagos
+pelos entes públicos em X.
+
+10 Posto que não aparece, por exemplo, em IBGE (2015b).
+
+H Posto que empenhos feitos em um dado ano X podem ser cancelados no final de X ou postergados para
+serem gastos em anos posteriores a X.
+
+2 O administrador público que empenhou uma despesa no ano X, mas não conseguiu liquidá-la, tem
+basicamente duas opções. A primeira é cancelar o empenho e desistir da despesa. A segunda é inscrever
+a despesa (já empenhada) em “restos a pagar não processados” no último dia útil de X. Nesse caso, a
+despesa pode ser liquidada em anos posteriores a X.
+Os dados utilizados nesta nota foram retirados de três fontes primárias: os Relatórios
+Resumidos de Execução Orçamentária (RREOs), disponibilizados pelo Sistema de
+Coleta de Dados Contábeis dos Entes da Federação (SISTN)?; os Portais de
+Transparência (PTs) dos Estados; e o SIGA Brasil, publicado pelo Senado Federal.
+Adicionalmente, dados das bases Finbra — Finanças do Brasil e a Execução
+Orçamentária dos Estados (EOE) da Secretaria do Tesouro Nacional foram utilizados
+em ajustes específicos descritos abaixo.
+
+As informações acessadas via SIGA Brasil e pelos PTs estão disponíveis em
+frequência mensal e com abertura até elemento de despesa!!. Como as CNT possuem
+frequência trimestral, fez-se necessário somar os dados mensais em trimestres.
+
+No entanto, o mesmo não pode ser feito para os dados provenientes dos RREOs, que
+têm frequência bimestral e são agregados por grupo de natureza de despesa (GND)P.
+Registre-se, desde logo, que todas as estimativas trimestrais construídas a partir de
+dados bimestrais nesta nota foram calculadas dividindo-se em dois os valores
+reportados no segundo e no quinto bimestres e distribuindo-se essas metades entre os
+trimestres relevantes. Após a trimestralização dos dados, foram necessárias
+modificações específicas para cada ente da Federação de acordo com os dados
+disponíveis:
+
+União
+
+Os dados das contribuições efetivas da União foram retirados do SIGA Brasil, sob os
+elementos 319013 e 319113 — Obrigações Patronais (orçamentárias e
+intraorçamentárias). Em seguida, as obrigações intraorçamentárias foram criticadas
+pela informação dos demonstrativos das receitas e despesas previdenciárias dos RPPS
+Federal, publicadas no RREO da União. Já as contribuições imputadas!ê foram
+
+33 A partir de 2015, os RREO's passaram a ser disponibilizados pelo Sistema de Informações Contábeis do
+Setor Público Brasileiro (SICONFI).
+
+4 ver Gobetti e Orair (2014) para detalhes.
+
+15 Grupos de natureza de despesa (GNDs) agregam despesas bastante diferentes do ponto de vista
+macroeconômico. Para maiores detalhes, ver “Plano de Contas Aplicado ao Setor Público” (PCASP 2015).
+
+16 O IBGE aproxima esse valor pelo déficit do Regime Próprio de Previdência Social.
+retiradas do RREO da União (Anexo 4) e trimestralizadas de acordo com o método
+
+acima.
+Estados
+
+Santos et al, (2015) averiguaram a disponibilidade de dados detalhados e em alta
+frequência sobre as despesas das administrações públicas estaduais nos PTs.
+Conforme descrito pelos autores, há problemas com os dados das despesas liquidadas
+de alguns estados, mas os estados com dados confiáveis respondem por cerca de 80%
+da despesa liquidada total no âmbito estadual.
+
+Adicionalmente, Santos et al (2015) relataram que as informações a respeito dos
+restos a pagar (RPs) disponíveis nos PTs são, em geral, escassas e pouco confiáveis.
+Por conta disso, optou-se aqui por utilizar os dados dos RPs disponíveis nos RREOs
+de cada estado. Cabe ressaltar que apenas foram utilizados dados de RPs para os
+estados com despesa liquidada obtida via PT's, de maneira que todo o estado presente
+na amostra possui ambas as informações de RPs pagos e despesas liquidadas.
+
+No entanto, as informações sobre os RPs nos RREOs estão segmentadas por órgão e
+não por elemento de despesa. Diante disto, fez-se necessário ajustar os dados de modo
+a mensurar quanto do total de RPs pagos presente nos RREOs se refere aos
+componentes do consumo do govemo. Para tanto, utilizou-se a base EOE a fim de
+identificar o peso anual de cada componente do consumo do govemo nos RPs pagos.
+Em seguida, estes pesos foram aplicados aos RPs pagos trimestralizados, de forma a
+obter uma aproximação do pagamento trimestral de RPs referentes ao consumo do
+govemno. Ressalte-se que o procedimento adotado parte da hipótese de que os
+referidos pesos anuais se mantêm uniformes em todos os trimestres do ano em
+
+questão”.
+
+No caso das contribuições efetivas dos estados, parte dos dados foi retirada dos PT's
+e outra parte do Anexo 4 (antigo anexo V) do RREO, procedimento análogo ao
+realizado com os dados da União Federal.
+
+” Os pesos de 2011 foram utilizados também em 2010 porque as informações referentes à RPs só estão
+disponíveis na base EOE a partir de 2011. Da mesma forma, os pesos de 2013 foram utilizados também
+em 2014 porque até o fechamento desta nota a base EOE não incluía dados para 2014.
+Assim, os dados estaduais da amostra são compostos tanto por dados primários
+extraídos dos PTs quanto de aproximações dos restos a pagar pagos construídas a
+partir de dados dos RREOs e da EOE. A amostra final conta com o Distrito Federal e
+mais 10 estados, a saber: Amazonas, Bahia, Espirito Santo, Pemambuco, Piauí,
+Paraná, Rio de Janeiro, Rio Grande do Sul, Santa Catarina e São Paulo. Cabe notar
+que estes estados são responsáveis por aproximadamente 70% de todo o gasto
+estadual para os anos de interesse.
+
+Mimicíni
+
+Nesse primeiro momento da pesquisa a opção foi por evitar as dificuldades técnicas
+associadas à coleta e filtragem dos dados dos milhares de municípios brasileiros,
+trabalhando apenas com uma amostra limitada dos maiores municípios que, não
+obstante, representou 27,29% do gasto liquidado municipal total informado no Finbra
+para o ano de 2013!8. A amostra utilizada nessa nota é composta por 17 municípios,
+a saber: Belém, Belo Horizonte, Campinas, Campo Grande, Curitiba, Fortaleza,
+Goiânia, Manaus, Porto Alegre, Recife, Ribeirão Preto, Rio de Janeiro, Salvador,
+Santos, São Bernardo do Campo, São José dos Campos e São Paulo.
+
+Uma pesquisa nos PTs das prefeituras das capitais brasileiras mostrou ser
+impraticável a utilização de dados destes portais. Daí que apenas as informações
+contidas nos RREOs (bimestrais) foram utilizadas. Todavia, os dados de despesa
+liquidada dos RREOs são abertos apenas por GND. Por consequência, fez-se
+necessário estimar, para cada município, o peso de cada componente do consumo do
+govemo dentro de cada GND. Isto é possível a partir do tradutor do IBGE (2008b),
+que, aplicado ao Finbra, permite identificar o peso relativo dos elementos de despesa
+que formam cada componente do consumo do governo em cada GND. Logo, os pesos
+estimados foram: i) Salários/GND 1; ii) Salários/GND 3; iii) Contribuição
+Efetiva/GND 1;e iv) Consumo Intermediário/ GND 3. Tal como no caso dos estados,
+adotou-se a hipótese de que os pesos se mantêm constantes ao longo do ano?º,
+
+3 Inicialmente, foi considerada uma amostra de 22 municípios que correspondesse a 30% de todo o gasto
+liquidado municipal, porém cinco munícipios precisaram ser retirados por apresentarem dados
+inconsistentes.
+
+19 Adicione-se que os pesos da despesa liquidada de 2013 foram utilizados também para o ano de 2014,
+em virtude da indisponibilidade de dados do Finbra para esse último ano até o fechamento dessa nota.
+Quanto aos RPs dos municípios, realizou-se procedimento análogo ao utilizado para
+
+os estados, utilizando o Finbra como fonte para o cálculo dos pesos?.
+
+Resultados
+
+O esforço descrito na seção anterior permitiu a construção de séries indicadoras
+(ver Bloem et al., 2001) para os vários componentes da produção total das
+administrações públicas desagregadas por ente federado. Estas séries foram
+construídas a partir de dados de 11 estados brasileiros, 17 municípios e da União
+Federal.
+
+A hipótese de partida foi que, por conta das características das bases de dados
+primárias utilizadas e de questões metodológicas relacionadas às contas nacionais, as
+várias séries indicadoras teriam qualidades diferentes. Em particular, as séries
+indicadoras para os salários e para as contribuições imputadas e efetivas —
+principalmente da União e dos estados — deveriam ser melhores do que as séries
+indicadoras para o consumo intermediário, principalmente dos municípios”.
+Entendia-se, ademais, que a qualidade dos dados liquidados convencionais seria
+melhor do que a qualidade dos dados de restos a pagar*?.
+
+A opção, assim, foi por um processo de seleção que permitisse identificar as séries
+indicadoras com maior conteúdo informacional. Mais precisamente, várias
+estimativas trimestrais do consumo nominal do govemo foram calculadas a partir de
+várias combinações de séries indicadoras e do método de Denton (1971)2, sempre
+
+utilizando o valor anualizado do consumo nominal do govemo publicado nas contas
+
+20 O Finbra apenas disponibiliza dados de RP's a partir do ano de 2013. Assim, os pesos de RP's de 2013
+foram adotados para todos os anos da série.
+
+21 Há pelo menos duas razões para isto. A primeira é que o peso dos elementos de despesa contabilizados
+como remunerações no GND 1 é bem maior do que o peso dos elementos de despesa contabilizados como
+consumo intermediário no GND 3. A segunda é que a amostra de municípios é bem menor do que a
+amostra dos estados.
+
+22 Isto porque o peso dos elementos de despesa associados ao consumo do governo no total dos RPs
+pagos é relativamente pequeno.
+
+23 O método de Denton é o indicado pelo manual das contas nacionais trimestrais do Fundo Monetário
+Internacional (ver Bloem et al., 2001) e utilizado pelo IBGE no cálculo das CNT (IBGE, 2008c).
+nacionais trimestrais como dado anual de referência. As diversas estimativas —
+expostas na tabela em anexo — foram, então, comparadas com base em seu erro
+quadrado médio em relação à serie publicada nas CNTs.
+
+O resultado desse processo de seleção foi a utilização da série indicadora composta
+pelos dados das despesas liquidadas da união, estados e municípios com salários,
+contribuições efetivas e contribuições imputadas, excluindo-se — como antecipado —
+as despesas com consumo intermediário e os restos a pagar. O grau de aderência das
+séries estimada e efetiva aparece abaixo.
+
+Gráfico 1 - Consumo Nominal do Governo e Estimativa do Consumo Nominal do
+Governo (em valores nominais)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+350
+
+õ
+
+10 —» Série Efetiva
+
+£ 330
+
+a séri .
+-— — — Série Estimada
+
+310
+
+290
+
+270
+
+250
+
+230
+
+210
+
+190
+
+170
+
+150 TT TT TT TT TT TT TT TT TT
+SJIaSoIS)JCIIIJCINIAINDCIIIANDS
+Ooo oOoÁdaoAAdoAAANN Naomi m +++
+dida assa Aa aa
+So0000000000000000060o
+NAN ANN NAN NNN NANA ANNAN NNANAN
+
+ 
+
+ 
+
+ 
+
+Fonte: Contas Nacionais Trimestrais, Siga Brasil, PT's estaduais e SISTN.
+Elaboração: Ipea/Dimac/Gecon.
+
+A tabela 2 deixa claro que os maiores erros de estimação se concentram nos anos de
+2010 e 2011. O terceiro trimestre de 2011 foi o que apresentou o maior desvio, 5,38%;
+contudo, a partir de 2012, o maior desvio percentual é inferior a 3%, exclusive o
+terceiro trimestre de 2013, com 3,11%.
+Tabela 2 - Desvios da Série Estimada do Consumo Nominal do Governo em relação à
+
+Série de Consumo Nominal do Governo das Contas Nacionais Trimestrais (valores
+
+nominais em bilhões de reais e valores percentuais)
+
+ 
+
+Trimestre
+
+2010/1
+
+Contas
+Nacionais
+Trimestrais
+
+163,11
+
+Série Estimada
+
+169,90
+
+Desvio
+
+4,16%
+
+ 
+
+2010/2
+2010/3
+
+172,80
+180,25
+
+176,10
+174,40
+
+1,91%
+-3,24%
+
+ 
+
+2010/4
+2011/1
+
+222,81
+177,58
+
+218,60
+180,30
+
+,89%
+1,53%
+
+ 
+
+2011/2
+
+198,67
+
+202,50
+
+1,93%
+
+2011/3 199,00 188,30 -5,38%
+2011/4 242,12 246,40 1,77%
+
+2012/1
+
+2012/2
+
+198,33
+220,36
+
+199,30
+226,30
+
+0,49%
+2,69%
+
+ 
+
+2012/3
+
+2012/4
+
+220,14
+270,78
+
+215,20
+268,90
+
+-2,24%
+-0,70%
+
+ 
+
+2013/1
+2013/2
+
+217,08
+248,11
+
+222,40
+251,90
+
+2,45%
+1,53%
+
+ 
+
+2013/3
+
+244,31
+
+236,70
+
+-3,11%
+
+2013/4 300,85 299,40 -0,48%
+2014/1 244,40 251,50 2,90%
+
+2014/2
+
+271,49
+
+271,20
+
+-0,11%
+
+ 
+
+2014/3
+2014/4
+
+274,12
+324,89
+
+ 
+
+ 
+
+267,30
+325,00
+
+ 
+
+-2,49%
+0,03%
+
+ 
+
+Fonte: Contas Nacionais Trimestrais, Siga Brasil, PT's estaduais e SISTN.
+
+Elaboração: Ipea/Dimac/Gecon.
+
+A representatividade das séries indicadoras construídas pode ser estimada pela
+
+comparação de seus totais anualizados com os valores reportados nas novas contas
+nacionais referência 2010 (IBGE 2015a) — ver tabela 3. A representatividade das
+contribuições imputadas é próxima de 100%, seguida pela participação dos salários,
+que representam 55,01% em 2010 e 55,75% em 2011. Por fim, as contribuições
+efetivas variam de 44,72% em 2010 a 43,67% em 2011.
+Tabela 3 - Participação dos componentes do consumo do governo presentes na série
+indicadora (Valores nominais em bilhões de reais e percentuais)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sistema de Contas Nacionais Ref. 2010
+2010 2011
+Salários 373,22 413,39
+Contribuições
+63,23 73,09
+Valor IBGE Efetivas
+Contribuições
+50,71 54,64
+Imputadas
+Tamanho da Amostra
+Salários 205,32 230,48
+Contribuições
+28,28 31,92
+Amostra Obtida Efetivas
+Contribuições
+51,07 54,38
+Imputadas
+Representatividade da Amostra
+Salários 55,01% 55,75%
+o Contribuições
+Representatividad 44,72% 43,67%
+Efetivas
+e da Amostra
+Contribuições
+100,71% 99,53%
+Imputadas
+Fonte: Contas Nacionais A nuais: Tabela de Recursos e Usos, Siga Brasil, PT's estaduais e SISTN.
+
+Elaboração: Ipea/Dimac/Gecon.
+
+Considerações Finais
+
+Esta nota teve como objetivo apresentar uma metodologia simples de estimação
+do consumo nominal trimestral do govemo utilizando apenas dados de relatórios
+oficiais abertos ao público em geral. A precisão das estimativas apresentadas cresceu
+durante a amostra, atingindo 97% a partir de 2012.
+
+Felizmente, a qualidade das estimativas apresentadas ainda pode ser
+significativamente melhorada de várias maneiras — por exemplo, com a inclusão de
+um número maior de municípios na amostra, estimativas mais refinadas do consumo
+intermediário dos entes federados e de estimativas trimestrais da depreciação do
+estoque de capital fixo da administração pública — e certamente será beneficiada pela
+publicação das novas tabelas de recursos e usos nas contas nacionais trimestrais.
+
+Espera-se, assim, poder reportar, neste espaço, estimativas mais precisas dos dados
+nominais — e do próprio índice de volume do consumo do governo — já nos próximos
+
+meses.
+REFERÊNCIAS
+
+BLOEM, A. M.; DIPPELSMAN, R.; MZHLE, N. 9. Quarterly national
+accountsmanual: concepts, data sources, and compilation. Washington: IMF, 2001.
+Disponível
+
+em: http://www .imf.org/extemal/pubs/ft/qna/2000/Textbook/ Acesso em: 22 abr.
+2015.
+
+DENTON, F. T. Adjustment of monthly or quarterly series to annual totals: an
+approach
+
+based on quadratic minimization. J ournal of the American Statistical A ssociation,
+v. 66, n. 333, p. 99-102, 1971.
+
+IBGE — INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Sistema
+de Contas Nacionais: Brasil. 2. ed. Rio de Janeiro: IBGE, 2008a. (Série Relatórios
+Metodológicos, v. 24) Disponível em 5 <
+http://www.ibge.gov. br/home/estatistica/economia/contasnacionais/2008/SRM | cont
+asnacionais.pdf> A cesso em: 22 abr. 2015
+
+o . Produto Interno Bruto dos Municípios. 2. ed. Rio de Janeiro: IBGE,
+2008b. (Séries Relatórios Metodológicos, v. 29). Disponível em:
+<ftp://ftp.ibge.gov.br/Pib Municipios/2010/srmpibmunicipios.pdf>. Acesso em: 23
+mar. 2015.
+
+. Contas nacionais trimestrais. 2. ed. Rio de Janeiro: IBGE, 2008c. (Série
+
+ 
+
+ 
+
+Relatórios Metodológicos, v. 28). Disponível em:
+ME tua, ibge.gov.br/Pib Municipios/2010/srmtrimestrais.pdf>. A cesso em: 23 mar.
+201
+
+o . Sistema de Contas Nacionais 2010-2011. Brasil. Rio de Janeiro: IBGE,
+2015a. Disponível em:<
+http://www .ibge.gov.br/homeyestatistica/economia/contasnacionais/2011/defaulttab
+xIs.shtm> A cesso em: 01 jun. 2015.
+
+o . Nota metodológica Governo e Administração Pública. Atualizada em
+12/02/2015. Brasil. Rio de Janeiro: IBGE, 2015b. Disponível em:
+http://www .ibge.gov.br/homeyestatistica/economia/contasnacionais/2011/default SC
+N 2010.shtm. Acesso em: 01 jun. 2015.
+
+GOBETTI, S. W. e ORAIR, R. O. Classificação e Análise das Despesas Públicas
+Federais pela Ótica Macroeconômica (2002-2009). In: SANTOS, C. H.; GOUVEA,
+R.R. (Org.). Finanças públicas e macroeconomia no Brasil: um registro da reflexão
+do Ipea (2008-2014). 1. ed. Brasília: Ipea, 2014, v. 1. p. 339-374. Disponível em:
+<http://www.ipea.gov.br/portal/images/stories/PD Fs/livros/livros/livro financas vol
+“1pdf >. Acesso em: 23 mar. 2015.
+
+ 
+
+ 
+
+SANTOS, C. H. etal. Uma análise da composição do consumo do governo nas Contas
+Nacionais Referência 2000. In: SANTOS, C. H.; GOUVEA, R. R. (Org.). Finanças
+públicas e macroeconomia no Brasil: um registro da reflexão do Ipea (2008-2014).
+1. ed. Brasilia: Ipea, 2014, v. 1. p. 375-423. Disponível em:
+<http://www.ipea.gov.br/portal/images/stories/PD Fs/livros/livros/livro financas vol
+“1 pdf >, Acesso em: 23 mar. 2015.
+
+SANTOS, C. H. et al. Uma nota sobre a utilização de dados dos portais de
+transparência em análises conjunturais sobre as finanças públicas dos estados
+brasileiros. Carta de Conjuntura nº26 Brasília: Ipea, 2015, p. 145-158. Disponível
+em: <
+http://www .ipea.gov .br/portal/index.php?option=com content&view=article&id=25
+172&Itemid=3 >. Acesso em: 25 mai. 2015.
+
+UN —- UNITED NATIONS et al. System of national accounts: 2008. New Y ork: UN,
+2009. Disponível em: <
+http://unstats.un.org/unsd/nationalaccount/docs/SNA 2008.pdf>. Acesso em: 25 mai.
+2015
+ANEXO 1 - Séries Indicadoras Testadas
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+Esfera Etapa da Componentes Série | Série | Série | Série | Série | Série | Série | Série | Série | Série | Série | Série | Série
+Despesa 1 2 3 4 5 6 7 8 9 10 11 12 13*
+ários + Contribuição Efetiva / / / / / /
+Despesas
+Liquidadas Contribuições Imputadas / / / / / A
+Consumo Intermediário / / / /
+Restos a Pagar ários + Contribuição Efetiva / / / / /
+Pagos Consumo Intermediário / / / /
+Despesas ários + Contribuição Efetiva / / / / / /
+Liquidadas Consumo Intermediário / / / /
+Restos a Pagar ários + Contribuição Efetiva / Y / A /
+Pagos Consumo Intermediário / / /
+8 Despesas ários + Contribuição Efetiva A / / / /
+a Liquidadas Consumo Intermediário / /
+E Restos a Pagar ários + Contribuição Efetiva / / /
+2 Pagos Consumo Intermediário /
+Erro quadrado médio 17,922 | 19,088 | 3,546 | 7,469 | 6,404 | 9,136 11,453 | 9,863 | 8,442 | 8,129 | 2,778
+Fonte: Contas Nacionais Trimestrais, Siga Brasil, PT's estaduais e SISTN.
+Elaboração: Ipea/Dimac/Gecon.
+
+* Série selecionada
+
+ 
+   
+
+   
+  
+   
+   
+
+NS
+
+qnd
+
+a PESIS
+NES
+
+ita
+es
+
+  
+
+db,
+E
+
+is
+
+a
+A
+Ed
+
+al
+Es
+
+as
+se
+
+ 
+
+ZA
+
+q
+
+a
+
+ZA
+e
+
+a
+
+SF,
+
+ia
+
+q
+AS
+
+    
+
+  
+
+N
+
+  
+
+(ss
+
+  
+
+ 
+
+ 
+

@@ -1,0 +1,1408 @@
+Planejamento do turismo em âmbito federal: uma análise dos
+instrumentos utilizados e dos investimentos no setor
+
+Clara C. Lemos
+Universidade do Estado do Rio de Janeiro
+
+Com quase 10 anos de existência, cabe atualmente ao Ministério do Turismo um amplo espectro de
+responsabilidades e papéis no Sistema Nacional de Turismo, em especial o estabelecimento da Po-
+lítica Nacional de Turismo e o planejamento, fomento, regulamentação, coordenação e fiscalização
+da atividade turística. Este artigo se debruça sobre os instrumentos de planejamento que guiam e
+estabelecem contexto para os investimentos do Ministério do Turismo: o Plano Nacional de Turismo,
+o Plano Plurianual e as leis orçamentárias. Para tanto, apresenta uma discussão teórica sobre os pa-
+péis e as responsabilidades assumidos pelos governos nacionais no que diz respeito ao planejamento
+do turismo. Essa discussão é complementada com uma análise qualitativa e quantitativa de alguns
+aspectos que envolvem o planejamento turístico em âmbito nacional. Os resultados aqui apresentados
+trazem algumas considerações e subsídios para o contexto analisado, em especial a necessidade de
+maior articulação institucional e fortalecimento do Sistema Nacional de Turismo, principalmente da
+atuação do Conselho Nacional de Turismo, com maior controle do desempenho das políticas públicas
+e qualificação do debate estratégico do setor de turismo no Brasil.
+
+PALAVRAS-CHAVE: planejamento nacional; planejamento turístico; instrumento de planejamento;
+investimento; Ministério do Turismo.
+
+La planificación del turismo a nivel federal en Brasil: un análisis de los instrumentos y las in-
+versiones adoptada en este sector
+
+Con casi 10 afios de existencia, en la actualidad compete al Ministerio del Turismo un amplio espectro
+de responsabilidades y funciones en el Sistema Nacional de Turismo, en especial el establecimiento
+de la Política Nacional de Turismo y la planificación, el fomento, la regulación, la coordinación y la
+fiscalización de la actividad turística. Este artículo enfoca los instrumentos de planificación que orientan
+y establecen contexto para las inversiones del Ministerio del Turismo: el Plan Nacional de Turismo,
+el Plan Plurianual y las leyes presupuestarias. Para eso, presenta una discusión teórica acerca de las
+funciones y las responsabilidades asumidas por los gobiernos nacionales con relación a la planificaci-
+ón del turismo. Esta discusión se complementa con un análisis cualitativo y cuantitativo de algunos
+
+ 
+
+Artigo recebido em 22 fev. 2013 e aceito em 23 ago. 2013.
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+1402
+
+Clara C. Lemos
+
+aspectos que involucran la planificación turística a nivel nacional. Los resultados presentados aquí
+traen algunas consideraciones y recursos para el contexto analizado, en especial, la necesidad de una
+mayor articulación institucional y el fortalecimiento del Sistema Nacional de Turismo, principalmente
+de la actuación del Consejo Nacional de Turismo, con un mayor control del desempeiio de las políticas
+públicas y la calificación del debate estratégico del sector de turismo en Brasil.
+
+PALABRAS CLAVE: planificación nacional; planificación turística; instrumento de planificación; inver-
+sión; Ministerio del Turismo.
+
+Tourism planning at the federal level: an analysis of the instruments used and the investments
+in this sector
+
+With nearly 10 years of existence, it is currently up to the Ministry of Tourism taking a broad spectrum
+of roles and responsibilities in the National Tourism System, especially the establishment of the Na-
+tional Tourism Policy and the planning, promotion, regulation, coordination, and inspection of tourism.
+This article focuses on the planning instruments that guide and set context for investments from the
+Ministry of Tourism: the National Tourism Plan, the Pluriannual Plan, and the budget laws. For this, it
+presents a theoretical discussion on the roles and responsibilities taken by national governments with
+regard to tourism planning. This discussion is supplemented by a qualitative and quantitative analysis
+of some aspects involving tourism planning at the national level. The results presented here bring
+some considerations and resources for the context under analysis, especially the need for an increased
+institutional coordination and the strengthening of the National Tourism System, especially the work
+of the National Tourism Council, with greater control over the effectuation of the public policies and
+qualification of the strategic debate of the tourism sector in Brazil.
+
+KeywoRDS: national planning: tourism planning; planning instrument; investment; Ministry of Tourism.
+
+1. Introdução
+
+O Brasil vem passando por mudanças políticas, institucionais e econômicas significativas na
+última década. Já se argumentou, inclusive, que, devido ao fato de o Estado e a democracia
+no Brasil serem hoje mais fortes e alcançarem setores mais amplos da sociedade, a gama de
+desafios aos quais as suas instituições têm de responder se tornou significativamente maior e
+mais complexa (Instituto de Pesquisa Econômica Aplicada, 2010a).
+
+Nos últimos anos, a taxa de crescimento do PIB brasileiro se manteve superior à média
+mundial e o período recente tem sido marcado pelo aumento expressivo dos investimentos,
+por parte do governo, da iniciativa privada e das instituições multilaterais. O país cresceu e
+os desafios e problemas também surgem e ganham grande proporção (Instituto de Pesquisa
+Econômica Aplicada, 2010a).
+
+Entre esses desafios está o da gestão do turismo, setor que apresentou nos últimos anos
+uma evolução significativa em seu status institucional junto à administração pública, o que
+decorre, segundo Solha (2004), de um gradativo processo de crescimento do turismo como
+atividade econômica e das perspectivas otimistas de desenvolvimento do setor em âmbito
+internacional.
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+Planejamento do turismo em âmbito federal 1403
+
+Com quase 10 anos de existência, cabe atualmente ao Ministério do Turismo (MTur)
+um amplo espectro de responsabilidades e papéis dentro do Sistema Nacional de Turismo,
+em especial, o estabelecimento da Política Nacional de Turismo e o planejamento, fomento,
+regulamentação, coordenação e fiscalização da atividade turística. Desde o início das suas
+atividades, a atuação do Ministério do Turismo vem sendo pautada pelo discurso da gestão
+descentralizada.
+
+Diz-se que, até o final da década de 1980, o paradigma da gestão do turismo no Brasil
+ainda era baseado na centralização, o que foi substituído por um discurso cada vez mais dis-
+seminado de gestão descentralizada e mais participativa, tanto no âmbito acadêmico quanto
+no âmbito dos documentos oficiais e da administração pública (Cruz, 2006).
+
+Credita-se ao momento histórico do início da década de 1990 esse fortalecimento do
+discurso da descentralização, que teve como pano de fundo o período de redemocratização
+do Estado brasileiro, e já foi considerada uma das mudanças mais profundas trazidas pela
+Constituição de 1988 para a administração pública, especialmente pelo fato de oferecer maio-
+res oportunidades para a participação cidadã e para inovações no campo da gestão pública,
+levando em conta a realidade e as potencialidades locais (Abrucio, 2007).
+
+Para o turismo, uma das marcas desse período é o Programa Nacional de Municipaliza-
+ção (PNMT), tido como um dos principais programas de turismo do governo Fernando Hen-
+rique Cardoso (Cruz, 2006). Solha (2004) enfatiza que a Política Nacional de Turismo para o
+período de 1996-99 já apresentava recomendações no sentido de estimular a descentralização
+da gestão por meio do fortalecimento dos órgãos estaduais, da municipalização do turismo e
+da terceirização de atividades para o setor privado.
+
+O Plano Nacional de Turismo para o período de 2003 a 2007, o primeiro lançado pelo
+recém-criado Ministério do Turismo, propôs “um novo modelo de gestão descentralizada com
+a reformulação do Conselho Nacional do Turismo e dos Fóruns Estaduais” (Brasil, 2003). A
+atuação do Ministério do Turismo tem sido, portanto, desde o seu início, pautada pelo dis-
+curso da gestão do turismo baseada no estímulo à constituição de fóruns estaduais, conselhos
+municipais de turismo e consórcios regionais.
+
+Da mesma forma, o último Plano Nacional de Turismo elaborado pelo MTur, que abran-
+ge o período de 2007 a 2010, enfatizava a necessidade de fomentar “a consolidação de uma
+rede de entidades e instituições, em todo o território nacional, envolvendo o poder público
+nas três esferas de governo, a iniciativa privada e o terceiro setor”, o que caracteriza uma es-
+tratégia de descentralização da sua gestão.
+
+O próprio documento do PNT 2007-10 ressalta a quantidade de atores mobilizados em
+todas as regiões brasileiras e que vêm participando do processo atual de gestão descentrali-
+zada, por meio do Conselho Nacional de Turismo, do Fórum Nacional de Secretários e Diri-
+gentes Estaduais de Turismo e dos Fóruns e Conselhos Estaduais de Turismo nas 27 unidades
+da federação. Essas instituições envolviam, segundo dados do MTur de 2007, 1.358 represen-
+tantes diretos e 12 mil indiretos, vinculados às instituições públicas e a entidades privadas
+relacionadas ao turismo em todo o País (Brasil, 2007).
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+1404 Clara C. Lemos
+
+Várias são as possibilidades e estratégias possíveis para se buscar uma maior descentra-
+lização e garantir, assim, maior representatividade e legitimidade às decisões e ações políticas
+e governamentais dos órgãos centrais de planejamento. Este artigo, no entanto, pretende
+analisar apenas alguns desses aspectos relacionados ao planejamento e gestão do turismo no
+âmbito federal. Apresenta-se aqui uma visão geral deste contexto, tendo como foco principal
+o Ministério do Turismo e alguns dos principais instrumentos de planejamento do Executivo
+federal — o Plano Nacional de Turismo, o Plano Plurianual e a Lei Orçamentária Anual —, e o
+papel desses instrumentos na execução dos investimentos federais em turismo e, consequen-
+temente, nas ações de descentralização.
+
+O presente artigo, portanto, analisa os investimentos federais no setor do turismo tendo
+como perspectiva alguns dos principais instrumentos de planejamento e investimentos no âm-
+bito federal e os órgãos representativos da gestão descentralizada; identificando as relações
+que imprimem entre si e o possível impacto que têm causado no fortalecimento da gestão e
+do planejamento, e dos investimentos do setor.
+
+Utiliza-se aqui como referencial a discussão teórica que vem sendo desenvolvida nas
+últimas duas décadas a respeito dos papéis e responsabilidades assumidos pelos governos
+nacionais no que diz respeito ao planejamento do turismo, tendo em vista as argumentações
+que surgem sobre o papel do Estado e das organizações da sociedade em uma atividade
+tão multifacetada e um fenômeno tão complexo como é o turismo. Essa discussão teórica é
+acompanhada pela apresentação do cenário do sistema nacional de turismo do Brasil, em
+especial, a identificação das instituições, os grupos de interesse e os instrumentos de planeja-
+mento atualmente existentes. Este cenário ilustra de maneira geral os papéis assumidos pelas
+instituições nacionais no planejamento turístico. Para consolidar e complementar a análise
+qualitativa, foi realizada também uma pesquisa quantitativa, a respeito dos investimentos
+federais no setor do turismo no Brasil, destacando em especial os orçamentos do Ministério
+do Turismo dos anos de 2011 e 2012.
+
+2. O setor do turismo: o papel do planejamento e tendências atuais
+
+Há muitos anos, pesquisadores, organizações e instituições ligadas ao desenvolvimento e à
+pesquisa do turismo buscam uma conceituação que seja completa o bastante para abranger
+toda a diversidade de atividades, atores e possibilidades que essa atividade permite, mas
+sem inviabilizar sua distinção de outros tipos de mobilidade e deslocamentos temporários. A
+necessidade de circunscrever a atividade do turismo dentro de um quadro bem definido está
+diretamente relacionada ao seu planejamento e gestão, mas também à pesquisa sobre o tema,
+à importância de se permitir a comparação de dados e estudos, e manter as discussões dentro
+de um espectro comum e bem delimitado.
+
+A questão da delimitação, no sentido de definir e enquadrar o setor do turismo, tem se
+mostrado uma tarefa difícil (Costa, 2001), pois é uma atividade que já foi descrita como mul-
+tifacetada, que toca um conjunto de indivíduos, empresas, organizações, lugares e atividades
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+Planejamento do turismo em âmbito federal 1405
+
+econômicas diferentes, que se combinam de alguma forma para proporcionar uma experiên-
+cia de viagem (Cooper et al., 2005). Além disso, a constatação a respeito da complexidade e
+do grande alcance do setor de turismo se mostra relevante não só no âmbito da discussão teó-
+rica acerca das fronteiras dessa atividade, mas também no que diz respeito ao planejamento,
+à gestão e aos processos econômicos, sociais e ambientais que ela envolve.
+
+O turismo é sobretudo um setor privado e de negócios, mas é também um fenômeno
+social. Ele está relacionado ao fluxo de pessoas, mas também à produção e ao consumo de
+uma grande variedade de produtos e serviços, tangíveis e intangíveis, e que, portanto, causam
+uma série de impactos econômicos, sociais e ambientais, tanto positivos como negativos. E
+porque envolve e influencia tantos setores e um grande conjunto de partes inter-relacionadas,
+muitas vezes é descrito como um sistema (Mill e Morrison, 1985; Gunn e Var, 2002; Cooper
+et al., 2005; Hall, 2008), e controlar esta multiplicidade de atores é um desafio que exige pla-
+nejamento, especialmente no que diz respeito à articulação das muitas partes que compõem
+esse sistema (Gunn e Var, 2002).
+
+Por essa razão, e pela dificuldade do próprio setor empresarial em controlar de maneira
+integrada todos os fatores que compõem a atratividade de um destino e os impactos que o
+desenvolvimento do turismo pode causar, entende-se como necessário que as opções relati-
+vas ao desenvolvimento do turismo devem ser consideradas no âmbito de políticas públicas.
+Segundo Weaver (2008), a complexidade do sistema que compõe o turismo traz inúmeros
+desafios para o planejamento e gestão dessa atividade, o que pode ser sintetizado nas seguin-
+tes questões:
+
+v fronteiras difusas;
+
+vy impactos indiretos e induzidos do turismo;
+v influência de sistemas externos;
+
+v efeitos e relações imprevisíveis; e
+
+v necessidade de uma abordagem holística.
+
+Por outro lado, a tentativa de delimitar o âmbito e o alcance da literatura acadêmica
+sobre o planejamento do turismo, no entanto, é uma tarefa difícil, especialmente quando se
+busca olhar além dos aspectos técnicos do gerenciamento (por exemplo, as ferramentas e ins-
+trumentos de gestão de visitantes). No entanto, o que ganha destaque na revisão da literatura
+sobre o planejamento do turismo nas últimas décadas é um debate constante sobre o alcance,
+a extensão e a responsabilidade pelo planejamento e gestão desse setor.
+
+São questões que, apesar de discutidas há certo tempo, ainda impõem desafios a pes-
+quisadores e planejadores (Page, 2005). Não há dúvida de que estabelecer política e ações de
+planejamento é fundamental para garantir que o setor do turismo se desenvolva em bases sus-
+tentáveis (Edgell et al. 2008) e os governos têm um papel fundamental, pois possuem poder
+para controlar e gerir o crescimento e desenvolvimento desse setor, bem como seus benefícios
+e impactos diretos e indiretos (Mowforth e Munt, 2003). O papel do setor público na gestão
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+1406 Clara C. Lemos
+
+e na regulação do setor do turismo, no entanto, não parece ser um consenso e é uma antiga
+questão controversa (Mill e Morrison, 1985).
+
+Essa tendência se mostra ainda mais forte em países desenvolvidos, onde o capital
+privado imprime grande força nesse setor. Hall (2008) menciona o ceticismo cada vez maior
+em torno da efetividade da atuação de governos, especialmente no âmbito nacional, na área
+de turismo. No entanto, segundo o autor, mesmo com o aumento da demanda em favor de
+menor atuação dos governos, especialmente em grande parte do mundo ocidental, as falhas
+de mercado ainda fornecem uma série de justificativas para a intervenção do Estado.
+
+O turismo é um setor bastante dinâmico, que está em constante evolução e mudanças,
+o que ocasiona a necessidade de lidar com frequentes novos desafios e problemas (Elliot,
+1997). Na última década, tem ocorrido um intenso debate acerca do âmbito, da extensão e da
+responsabilidade sobre o planejamento e a gestão do turismo.
+
+Inevitavelmente, as responsabilidades compartilhadas e a sobreposição de agências,
+instituições e atores interessados no tema têm ocasionado uma série de conflitos e desafios na
+prática (Page, 2005) e essas questões acabam refletindo no desempenho do setor.
+
+Além disso, nos dias atuais, a iniciativa privada representa um papel central não só no
+desenvolvimento, investimento e operação de serviços turísticos. Cada vez mais, ela desem-
+penha um papel ativo e relevante na concepção, planejamento e gestão de destinos turísticos,
+de forma indireta e direta. Por essa razão, qualquer discussão acerca de modelos, abordagens
+e procedimentos de planejamento do turismo não pode negligenciar o papel da iniciativa pri-
+vada, em especial no âmbito local, onde os investimentos realmente ocorrem.
+
+Apesar de a maior parte do setor do turismo ser de fato controlada e operacionalizada
+pelo setor privado, acredita-se que o setor público desempenhe um papel crucial, pois tem
+o poder de garantir a estabilidade política, segurança e a estrutura legal e financeira que o
+turismo requer. São os governos que negociam e estabelecem acordos com outros governos
+em assuntos como imigração, permissão para aviação (transporte aéreo) etc. Além disso, go-
+vernos podem auxiliar o turismo de diversas formas, como na provisão de serviços essenciais,
+o controle do setor, no sentido de garantir padrões de qualidade e segurança etc. Essas são
+funções legítimas dos governos e muitas terão um impacto significativo na qualidade e na
+atratividade final do produto consumido por turistas (Elliot, 1997).
+
+Vale destacar também a existência de um número significativo de organizações que
+fazem parte da comunidade do turismo, mas não de uma maneira empresarial ou lucrativa.
+
+Essas organizações normalmente incluem grupos de pressão e organizações não gover-
+namentais, internacionais, nacionais ou locais, que têm interesse na ampla gama de questões
+e problemas sociais, econômicos, ambientais e morais que envolvem o desenvolvimento do
+turismo. Por ser uma atividade baseada em pessoas, o turismo afeta não só turistas e empresá-
+rios, mas todos aqueles que vivem em destinos turísticos e que são afetados por essa atividade
+de alguma forma ou de outra (Elliot, 1997).
+
+Em uma nação democrática acredita-se que há um papel válido a ser desempenhado
+no planejamento do turismo, tanto pelo setor público quanto pelo privado (Mill e Morrison,
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+Planejamento do turismo em âmbito federal 1407
+
+1985) e pela própria sociedade, na forma de organizações e grupos de interesse, cada vez
+mais comuns e relevantes nesse cenário.
+
+Muitos outros tipos de situações intermediárias são possíveis e, apesar das tendências
+na diminuição da intervenção pública na gestão do turismo, mais recentemente têm havido
+apelos significativos para a redefinição de papéis públicos e privados no desenvolvimento do
+turismo e planejamento. Nesse contexto, as ações de gestão compartilhada e descentralizada
+são constantemente vistas como um requisito para o alcance de ações compromissadas com
+a sustentabilidade, a qualidade e a eficácia do planejamento do turismo (Fayos-Solá, 1996;
+Weaver, 2008).
+
+Assim, acredita-se que governos, setor privado e organizações da sociedade devem tra-
+balhar de forma coesa e integrada, atuando como líderes na criação, regulação e operaciona-
+lização das políticas de turismo, pensando além dos benefícios econômicos e abrangendo os
+interesses ambientais, sociais e culturais (Edgell et al., 2008).
+
+Governos, iniciativa privada e sociedade, portanto, nem sempre desempenham, den-
+tro do sistema do turismo, papéis claramente demarcados. Todos compartilham uma grande
+diversidade de funções no que diz respeito a operacionalização, planejamento e gestão da
+atividade; com diferentes graus de envolvimento. A natureza desse envolvimento e os papéis
+que eles assumem irão depender muito do contexto político, institucional e regulatório em
+que ocorrem.
+
+Entender essas relações, além dos papéis e das responsabilidades que essas esferas as-
+sumem, é algo extremamente relevante quando se discute planejamento do turismo. Este tra-
+balho pretende oferecer uma contribuição a este tema ao tentar identificar as ações federais
+de investimentos do turismo no Brasil, em especial, os instrumentos utilizados e as formas de
+atuação dos órgãos representativos da gestão descentralizada. Assim, acredita-se que as dis-
+cussões aqui trazidas podem contribuir para a identificação de ações futuras de fortalecimento
+do sistema nacional de turismo.
+
+3. Visão geral do sistema nacional de turismo
+
+Atualmente com a missão de “desenvolver o turismo como uma atividade econômica sustentá-
+vel, com papel relevante na geração de empregos e divisas, proporcionando a inclusão social
+(...)”, o Ministério do Turismo adota o discurso de um “modelo de gestão descentralizado,
+orientado pelo pensamento estratégico” (Ministério do Turismo, 2011). Com quase 10 anos
+de existência e atuação, já é possível identificar alguns dos principais impactos que esse au-
+mento no status institucional do setor causou na prática.
+
+Desde setembro de 2008 está em vigor no país a Lei nº 11.771, que trata da Política Na-
+cional de Turismo (Brasil, 2008a), define as atribuições do governo federal no planejamento,
+desenvolvimento e estímulo ao setor e disciplina a prestação de serviços, o cadastro, a classi-
+ficação e a fiscalização dos prestadores de serviços turísticos. A política estabelece também a
+estrutura do Sistema Nacional de Turismo, composto pelos seguintes órgãos e entidades:
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+1408 Clara C. Lemos
+
+v Ministério do Turismo;
+v Embratur — Instituto Brasileiro de Turismo;
+vw Conselho Nacional de Turismo; e o
+
+vy Fórum Nacional de Secretários e Dirigentes Estaduais de Turismo.
+
+Essa estrutura atual aproxima, por meio do Conselho e do Fórum Nacional, o Minis-
+tério do Turismo a representantes dos estados, da sociedade e da iniciativa privada. Tanto
+o Conselho Nacional de Turismo quanto o Fórum Nacional de Secretários são órgãos que
+expressam a descentralização na gestão e os canais de participação da sociedade junto ao
+Ministério. Ambos têm como atribuição o assessoramento ao ministro de Estado na for-
+mulação e aplicação da Política Nacional de Turismo e dos planos, programas, projetos e
+atividades derivados.
+
+O Fórum é um colegiado formado pelos secretários de Estado de Turismo e/ou dirigen-
+tes de Órgãos Estaduais de Turismo que se reúnem para deliberar sobre os temas relevantes
+do turismo. Sua função é a de sistematizar e apresentar as demandas municipais e estaduais
+junto ao Ministério (Brasil, 2007).
+
+Já o Conselho Nacional de Turismo é formado por representantes do governo federal e
+dos diversos segmentos do turismo — empresas privadas, entidades de classe, organizações
+da sociedade — e é atualmente integrado por 71 conselheiros de instituições públicas e enti-
+dades privadas do setor em âmbito nacional (Ministério do Turismo, 2011).
+
+O Ministério do Turismo é o órgão central do Sistema Nacional de Turismo e, no âmbito
+de sua atuação, coordena os programas de desenvolvimento do turismo, em interação com os
+demais integrantes. Atualmente, o MTur adota um modelo institucional de gestão comparti-
+lhada entre o governo federal, os governos estaduais e municipais, setor privado e as organi-
+zações representativas da sociedade civil (Brasil, 2007). As políticas de municipalização do
+turismo, do início da década de 1990, e de regionalização do turismo, do começo da década
+de 2000, marcaram o início dessas tentativas de parceria com as estâncias locais e regionais e
+com as entidades representativas da sociedade e da iniciativa privada.
+
+A estrutura atual da gestão nacional do turismo brasileiro demonstra, portanto, o au-
+mento do status do setor nos últimos anos, na medida em que a ele é dedicado um ministé-
+rio exclusivo. Além disso, destaca-se a existência dos canais de participação e influência nas
+políticas por parte de entidades privadas diretamente interessadas e dos demais órgãos da
+administração pública, inclusive de âmbito local. O aumento do status do setor no governo
+federal também se reflete no crescimento do orçamento do Ministério do Turismo em relação
+ao PIB. Conforme ilustra o gráfico 1, o orçamento do MTur cresceu nos últimos anos, saltando
+de 0,01% e chegando a 0,1% do PIB em 2010, valor superior ao de países desenvolvidos como
+Inglaterra e Austrália, que destinam em média 0,06% do seu PIB à gestão nacional do turismo
+(Brasil, 2006).
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+Planejamento do turismo em âmbito federal
+
+Gráfico 1
+Evolução do orçamento do MTur em relação ao PIB (%), de 2006 a 2011
+
+ 
+
+ 
+
+ 
+
+0,09
+
+ 
+
+ 
+
+% 0,06 +
+
+ 
+
+ 
+
+ 
+
+T
+2005 2006 2007 2008 2009 2010 2011 2012
+Ano
+
+ 
+
+ 
+
+ 
+
+Fonte: Instituto Brasileiro de Geografia e Estatística (2012); Senado Federal (2012).
+
+Há que se destacar, porém, que esses valores refletem a dotação orçamentária do Mi-
+nistério, o que não implica necessariamente execução efetiva dos investimentos previstos. A
+execução do orçamento depende de uma série de fatores, que serão analisados neste trabalho,
+tendo em vista os objetivos propostos.
+
+Chama a atenção também o papel central do Ministério do Turismo como articulador
+e condutor da política de turismo no Brasil. Apesar dos recentes esforços de descentralização
+na concepção e execução de estratégias, e da adoção de canais que possibilitem um diálogo
+com esferas locais e regionais, pode-se afirmar que o MTur detém uma força propulsora fun-
+damental na gestão, promoção, articulação e financiamento do setor no país. Boa parte dos
+estados, inclusive, ainda depende fortemente dos recursos (técnicos, políticos e financeiros)
+do Ministério do Turismo para viabilizar suas estratégias de gestão e planejamento e a execu-
+ção de projetos essenciais no setor.
+
+Conforme destacou o estudo do Instituto de Pesquisa Econômica Aplicada (2010b), esse
+protagonismo do governo federal no planejamento e no financiamento das políticas setoriais
+no Brasil não poderia ser diferente, considerando o alto grau de concentração fiscal — 70%
+da carga tributária brasileira é arrecadada pelo governo federal. Isso faz do governo federal
+um grande transferidor de recursos, boa parte dos quais estão atrelados às suas estratégias e
+programas.
+
+Esse fato, portanto, traz à tona a necessidade de analisar os instrumentos de planeja-
+mento que norteiam os investimentos do Ministério do Turismo, notadamente o Plano Na-
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+
+1409
+1410 Clara C. Lemos
+
+cional de Turismo, o Plano Plurianual e a Lei Orçamentária Anual, e o real impacto que esses
+instrumentos causam na prática, em termos de subsídios e base para planejamento e descen-
+tralização de ações e investimentos.
+
+4. A política e o plano nacional de turismo
+
+Em um grande número de países, em especial os países desenvolvidos — onde a iniciativa
+privada possui uma força propulsora significativa —, os planos e estratégias de turismo no
+âmbito nacional apresentam baixo ou nenhum tipo de formalidade legal, ou seja, não são
+instituídos por força de lei e nem possuem obrigatoriedade de execução. Em muitos casos,
+representam uma carta de intenções sem valor legal, mas que estabelecem contexto e guiam
+a ação do governo e da iniciativa privada no setor, envolvendo programas e projetos de estí-
+mulo, apoio e gestão da atividade.
+
+Diz-se que a política de turismo pode ser definida como “o conjunto de regulamentos,
+normas, orientações, diretivas, e objetivos de promoção dentro dos quais as decisões coletivas
+e individuais que afetam diretamente o desenvolvimento do turismo dentro de um destino são
+tomadas” (Goeldner e Ritchie, 2006).
+
+A política de turismo, portanto, está relacionada ao uso do poder pelas organizações
+públicas na gestão do turismo (Elliot, 1997), ou seja, é o que o setor público realmente decide
+fazer, ou não fazer, sobre o assunto, especialmente no que se refere ao enquadramento legis-
+lativo, à criação de agências e órgãos especializados, às regras gerais para o planejamento, às
+responsabilidades e às formas fazê-lo (Page, 2005).
+
+Em se tratando de política de turismo, o contexto brasileiro dispõe atualmente de uma
+lei (Lei nº 11.771, de 17 de setembro de 2008) que estabelece normas sobre a Política Nacio-
+nal de Turismo, define as atribuições do governo federal no planejamento, desenvolvimento
+e estímulo ao setor turístico.
+
+Segundo a Política Nacional de Turismo, cabe ao Ministério do Turismo planejar, fo-
+mentar, regulamentar, coordenar e fiscalizar a atividade turística, bem como promover e
+divulgar institucionalmente o turismo em âmbito nacional e internacional (Brasil, 2008a).
+
+A chamada “Lei Geral do Turismo” estabelece como um de seus objetivos a necessidade de
+
+promover, descentralizar e regionalizar o turismo, estimulando Estados, Distrito Federal e Mu-
+nicípios a planejar, em seus territórios, as atividades turísticas de forma sustentável e segura,
+inclusive entre si, com o envolvimento e a efetiva participação das comunidades receptoras nos
+benefícios advindos da atividade econômica.
+
+Além disso, fica estabelecida a responsabilidade do MTur na elaboração do Plano Nacio-
+
+nal de Turismo (PNT), reconhecendo também a necessidade de inclusão dos segmentos públi-
+cos e privados interessados, inclusive o Conselho Nacional de Turismo, na sua elaboração. O
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+Planejamento do turismo em âmbito federal 1411
+
+PNT, apesar de requerido por lei, não é submetido à apreciação do Legislativo, mas deve ser
+aprovado pelo presidente da República (Brasil, 2008a).
+
+O PNT terá suas metas e programas revistos a cada quatro anos, “em consonância com
+o plano plurianual, ou quando necessário, observado o interesse público, tendo por objetivo
+ordenar as ações do setor público, orientando o esforço do Estado e a utilização dos recursos
+públicos para o desenvolvimento do turismo” (Brasil, 20084).
+
+Desde a criação do MTur, dois planos de turismo foram formalmente elaborados:
+
+v Plano Nacional do Turismo. Diretrizes, Metas e Programas. 2003-07;
+
+v Plano Nacional de Turismo — PNT 2007-10 — uma viagem de inclusão.
+
+É importante destacar também que, apesar de não ser submetido à aprovação no Legis-
+lativo, o PNT deve preferencialmente refletir e incorporar as contribuições do trabalho desen-
+volvido pela Comissão de Desenvolvimento Regional e Turismo (CDR) do Senado Federal e
+da Comissão de Turismo e Desporto da Câmara dos Deputados, as duas principais comissões
+permanentes do Congresso Nacional que tratam do tema do turismo.
+
+O último plano elaborado pelo MTur, portanto, é o Plano Nacional de Turismo 2007-
+10: uma viagem de inclusão. É esse, atualmente, o principal documento de referência que
+sistematiza as proposições da política setorial nacional e norteia as ações do Ministério do
+Turismo. Passados mais de cinco anos desde a publicação do último PNT, em outubro de 2012
+o Ministério do Turismo ainda não havia publicado um novo plano, com a revisão de metas e
+programas requerida por lei.
+
+As metas e os macroprogramas estabelecidos pelo Plano Nacional de Turismo 2007-10
+estabelecem claramente a prioridade pelo crescimento econômico (aproveitar o contexto in-
+terno favorável e contribuir para o crescimento do PIB) e pela inclusão social. Há uma forte
+ênfase no estímulo ao mercado interno e à acessibilidade a um maior número de brasileiros
+ao mercado do turismo.
+
+O governo, por meio do PNT, se coloca claramente como o indutor do desenvolvimento
+do turismo nacional e principal provedor das políticas voltadas para a qualificação da mão
+de obra, geração de emprego e renda, sistematização e disseminação da informação sobre o
+setor, apoio à comercialização e promoção do turismo interno e internacional, fortalecimento
+da aviação nacional e a integração dos diversos modais de transporte do país, estruturação
+de roteiros, segmentos e produtos turísticos, provimento de infraestrutura, atração de inves-
+timentos, fortalecimento e controle do sistema de normatização, regulação e fiscalização do
+setor, financiamento e fomento à iniciativa privada.
+
+O PNT, portanto, estabelece um campo de atuação e influência significativamente am-
+plo em diversas áreas, incorporando papéis e responsabilidades abrangentes ao Ministério
+do Turismo. Apesar de muitas dessas iniciativas serem executadas em âmbito regional ou
+local, as estratégias são articuladas no âmbito nacional e é de lá que saem grande parte dos
+recursos técnicos e financeiros para concretização dessas ações. O plano para o período de
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+1412 Clara C. Lemos
+
+2007-10 compreende quatro principais metas e oito macroprogramas, subdivididos ainda em
+23 programas. Entre as metas estão a promoção da realização de 217 milhões de viagens no
+mercado interno e a geração de 7,7 bilhões de dólares em divisas. Os gráficos a seguir ilustram
+a evolução desses números.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gráfico 2
+Evolução das chegadas de turistas e da receita cambial turística no Brasil
+7.000 +
+5.919
+6.000 + Ss78s
+5.017 5.026
+5.000 +
+4.000 +
+3.000 +
+2.000 +
+1.000 +
+04 T
+2003 2004 2005 2006 2007 2008 2009 2010
+Receita Cambial (milhões de US$) — Chegadas de turistas internacionais (mil)
+
+ 
+
+ 
+
+ 
+
+Fonte: Brasil (2010).
+
+Os números mostram que as chegadas de turistas internacionais no Brasil estão em cres-
+cimento, mas ainda muito aquém do desejado. O Plano Nacional de Turismo para o período
+de 2003 a 2007, por exemplo, estabelecia como uma de suas metas a entrada de 9 milhões
+de turistas internacionais ao ano (Brasil, 2003). Esse cenário mostra também um subaprovei-
+tamento da demanda internacional por viagens, já que as chegadas de turistas internacionais
+têm mostrado um crescimento praticamente ininterrupto — de 277 milhões, em 1980, a
+528 milhões, em 1995, e 983 milhões, em 2011. Além disso, o Brasil recebe uma fatia quase
+inexpressiva desse mercado, especialmente se comparado a alguns destinos como o México,
+que em 2010 recebeu 23,3 milhões de turistas internacionais, e a Tailândia, que recebeu no
+mesmo período 15,9 milhões de turistas internacionais (UNWTO, 2012).
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+Planejamento do turismo em âmbito federal
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gráfico 3
+Evolução das viagens domésticas no Brasil
+200
+186,5
+180
+160
+140
+120
+100 T T 1
+2005 2006 2007 2008 2009 2010
+Viagens Domésticas (milhões)
+
+ 
+
+ 
+
+ 
+
+Fonte: Brasil (2010).
+
+Os dados apresentados no gráfico 3 ilustram o bom momento das viagens domésticas
+no Brasil, com crescimento constante por pelo menos cinco anos. Apesar disso, ainda longe
+da meta estabelecida pelo PNT para o período. Já o cenário do turismo internacional tem
+apresentado números pouco expressivos, conforme mostrado no gráfico 2, se comparado a
+outros destinos internacionais. Se analisados da perspectiva do aumento significativo dos
+investimentos e do orçamento do MTur, conforme ilustrado na figura 1, estes dados parecem
+ainda mais preocupantes.
+
+5. O plano plurianual e os investimentos no setor de turismo
+
+Na década de 1980, devido à grande instabilidade econômica, inflação e elevado endivida-
+mento externo, o planejamento no Brasil baseava-se essencialmente em decisões reativas e de
+curto prazo, e os problemas econômicos constituíam as principais prioridades do governo.
+Após aprovação da Constituição de 1988, no início da década de 1990, o país deu um
+passo significativo no que diz respeito à institucionalização do planejamento nacional, com a
+elaboração do primeiro Plano Plurianual (1991-95), concebido como um relatório de acom-
+panhamento para subsidiar o planejamento físico e financeiro a ser discutido e aprovado pelo
+Congresso Nacional (Cargnin, 2007). O primeiro PPA teve um foco de curto prazo, sem objeti-
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+
+1413
+1414 Clara C. Lemos
+
+vos globais e de longo prazo. Na visão de Cargnin (2007), era uma “peça de ficção”, destinada
+a cumprir uma exigência constitucional. Predominava a lógica orçamentária e o plano estava
+desconectado de um processo de planejamento integrado e permanente.
+
+Durante a década de 1990, o governo federal ganhou experiência e reforçou sua capa-
+cidade de integrar planejamento, orçamento e gestão dos recursos públicos com uma visão de
+médio e longo prazo. O PPA 1996-99 inovou ao introduzir referências espaciais para o desen-
+volvimento e investimentos, os chamados Eixos Nacionais de Integração e Desenvolvimento,
+com uma ênfase fundamentalmente voltada para o desenvolvimento econômico, a execução
+de projetos estruturantes e o programa Brasil em ação. Foram realizados investimentos sig-
+nificativos em infraestrutura com o intuito de superar os obstáculos ao crescimento do País
+(Brasil, 2002).
+
+As discussões que orientaram a elaboração do PPA 2000-03 foram marcadas pela bus-
+ca por novas metodologias para elaboração do plano e muito se falava na necessidade de
+priorizar o foco na gestão de resultados. Para isso, as ações foram organizadas sob a forma
+de programas, com objetivos e metas claramente definidos e acompanhados da figura de um
+gerente, responsável pela execução e resultados. Além disso, estabeleceu-se a obrigatoriedade
+da avaliação e de monitoramento das metas e resultados (Brasil, 2002).
+
+Desde o PPA 2000-03 trabalha-se com a “Orientação Estratégica” como o mais alto ní-
+vel de visão estratégica governamental, aquela que dá o tom e as diretrizes centrais a serem
+seguidas pelos Ministérios, que por sua vez são responsáveis pela identificação dos objetivos e
+programas setoriais. Esta orientação estratégica, no entanto, acaba refletindo essencialmente
+o programa de governo em curso.
+
+O modelo do PPA 2008-11 foi orientado por dois níveis: um denominado “dimensão
+estratégica”, que compreende basicamente os objetivos do programa de governo e aqueles se-
+toriais, proveniente dos Ministérios; e o nível tático-operacional, que compreende o conjunto
+de programas e ações.
+
+O atual PPA (2012-15) apresenta seu modelo de planejamento baseado em Programas
+Temáticos, organizados em Objetivos que, por sua vez, são detalhados em Metas e Iniciativas.
+Esse modelo atual foi fortemente influenciado pela estrutura de gestão anteriormente aplicada
+no Programa de Aceleração do Crescimento (PAC), com foco no monitoramento de metas.
+
+O PPA estabelece as prioridades de investimentos, os programas, os objetivos e a
+estimativa de gastos no período de quatro anos. A proposta do Executivo é composta pelo
+texto da lei e diversos anexos, e deve ser encaminhada ao Congresso Nacional até 31 de
+agosto do primeiro ano de mandato presidencial, devendo vigorar por quatro anos (Senado
+Federal, 2011).
+
+Nas comissões do Congresso Nacional, abre-se prazo para a apresentação de emen-
+das ao projeto do plano plurianual, com vistas a inserir, suprimir, substituir ou modificar
+dispositivos constantes do projeto (Senado Federal, 2011). Dessa forma, além da visão
+estratégica do governo e dos objetivos setoriais dos ministérios, os parlamentares também
+exercem força e influência significativa sobre os projetos e investimentos a serem incluídos
+ou suprimidos do plano.
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+Planejamento do turismo em âmbito federal 1415
+
+A gestão do PPA é coordenada pelo Ministério do Planejamento, Orçamento e Gestão
+e ainda tem uma forte perspectiva econômica e de planejamento orçamentário, mas houve
+tentativas recentes de inserir uma abordagem mais sistemática, integrada e conectada a uma
+lógica territorial de planejamento.
+
+Apesar de ser considerado uma grande inovação no cenário do planejamento governa-
+mental dos últimos anos, já se argumentou também que o PPA avançou muito mais em termos
+de programação orçamentária do que nos de programação das políticas públicas (Abrucio,
+2007).
+
+O quadro 1 apresenta uma visão geral dos programas de turismo nos dois últimos PPAs
+(2008-11 e 2012-15). Foram identificados os Programas e os Objetivos associados, o que dá
+uma ideia das prioridades estabelecidas e das áreas prioritárias para investimentos.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Quadro 1
+Visão geral do turismo nos dois últimos planos plurianuais
+
+PPA 2008-11 PPA 2012-15
+Programas” Objetivos Programas Objetivos”
+Brasil: Destino Aumentar o fluxo de turistas Promover a sustentabilidade e a
+Turístico Internacional estrangeiros, o gasto médio e o qualidade de forma a aumentar a
+
+tempo médio de permanência no competitividade do turismo brasileiro.
+
+país.
+Turismo Social no Aumentar os fluxos turísticos e Estruturar, qualificar e promover os
+Brasil: Uma Viagem — promover a inclusão social mediante destinos turísticos brasileiros para os
+de Inclusão a estruturação e diversificação da megaeventos esportivos.
+
+oferta e da demanda.
+
+Turismo
+
+Gestão da Política de Coordenar o planejamento e a Incentivar o brasileiro a viajar pelo Brasil.
+
+Turismo formulação de políticas setoriais e a
+avaliação e controle dos programas
+na área do turismo.
+
+Divulgar no exterior a imagem do
+país, seus produtos, destinos e
+serviços turísticos, bem como apoiar
+a internacionalização das empresas
+brasileiras do segmento.
+
+Consolidar a gestão compartilhada do
+turismo no Brasil.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Brasil (2008b; 2012).
+* No PPA 2008-11 os programas se desdobram em “Ações”.
+** No PPA 2012-15 os objetivos se desdobram em “Metas” e “Iniciativas”.
+
+Esses dados, e uma análise mais detalhada das ações e metas previstas em ambos os
+PPAs, mostram que, apesar da diversidade de objetivos estabelecidos, boa parte dos projetos
+diz respeito a investimentos em infraestrutura, promoção e apoio à comercialização e ações
+de apoio à regionalização do turismo.
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+1416 Clara C. Lemos
+
+A relação entre PPA e objetivos setoriais é bastante clara, de acordo com os dados levan-
+tados no atual Plano Nacional de Turismo 2007-11 e no Plano Plurianual em vigor, 2008-11.
+Para o setor do turismo, o PPA vigente apresenta dois programas finalísticos! e um programa
+de apoio às políticas públicas.? Os três programas são de responsabilidade do Ministério do
+Turismo. São eles:
+
+v Gestão da Política de Turismo (Programa de Apoio às Políticas Públicas nº 1.001)
+v Brasil: Destino Turístico Internacional (Programa Finalístico nº 1.163)
+
+vy Turismo social no Brasil: uma viagem de inclusão (Programa Finalístico nº 1.166)
+
+Esses três programas reúnem um total de 75 projetos, atividades e operações espe-
+ciais, e que representam uma previsão de investimentos no setor de pouco mais de R$ 11
+bilhões. Ambos os projetos e atividades são ações estabelecidas para alcançar o objetivo
+do programa, mas o primeiro envolve um conjunto de operações limitadas no tempo e
+das quais resulta um produto, por exemplo, a “Implantação de Centros de Informações
+Turísticas” (projeto 5701) ou a “Implantação de Terminal de Passageiros no Porto de Pa-
+ranaguá — PR” (projeto 7H62). As atividades envolvem um conjunto de operações que se
+realizam de modo contínuo e permanente; por exemplo, o “Auxílio-Transporte aos Servi-
+dores e Empregados”, ou a “Capacitação de Servidores Públicos Federais em Processo de
+Qualificação e Requalificação”. Já as operações especiais não resultam em produto e não
+geram a prestação direta de bens ou serviços; por exemplo, a “Contribuição da União,
+de suas Autarquias e Fundações para o Custeio do Regime de Previdência dos Servidores
+Públicos Federais”.
+
+A análise desses 75 projetos e atividades previstos no PPA 2008-11 em face do PNT
+2007-10 permitiu localizá-los dentro dos oito macroprogramas do PNT, ou seja, confirmando
+a consonância do PPA com os objetivos setoriais do PNT. O gráfico 4 ilustra a distribuição dos
+projetos e atividades do PPA dentro dos macroprogramas do PNT. Esse fato não se repete no
+PPA 2012-15, já que um novo PNT para o período de quatro anos após 2010 não foi apresen-
+tado pelo MTur.?
+
+ 
+
+! Programas finalísticos são aqueles que estabelecem bens e serviços diretos à sociedade e geram resultados passíveis
+de aferição por indicadores.
+
+2 Programas de apoio às políticas são aqueles voltados para a oferta de serviços ao Estado, para a gestão de políticas
+e para o apoio administrativo. Fonte: Brasil (2008).
+
+3 Na ata da 35º reunião do Conselho Nacional do Turismo, realizada em 21 de maio de 2012, consta a informação
+de que o Plano Nacional de Turismo 2012-15 encontrava-se, naquela ocasião, para decisão final da Presidência da
+República. Até o primeiro mês do ano de 2013 o plano ainda não havia sido aprovado.
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+Planejamento do turismo em âmbito federal
+
+Gráfico 4
+Número de projetos e atividades de turismo previstos no PPA 2008-11 e no PNT
+
+ 
+
+18
+
+ 
+
+ 
+
+16
+14
+12
+
+ 
+
+ 
+
+ 
+
+10
+
+ 
+
+ 
+
+ 
+
+Número de Projetos do PPA
+
+ 
+
+ 
+
+ 
+
+o nm BB ao
+
+ 
+
+Macroprogramas do PNT
+
+ 
+
+ 
+
+ 
+
+Fonte: Elaborado pelo autor a partir de Brasil (2007, 2008b).
+
+O gráfico mostra que boa parte dos projetos previstos está alocada nos macroprogramas
+Infraestrutura pública (16 projetos e atividades), Promoção e apoio à comercialização (12
+projetos e atividades) e Regionalização do turismo (10 projetos e atividades). Além disso, um
+total de 16 atividades e operações especiais não se enquandrava diretamente no escopo dos
+macroprogramas do PNT e 3 projetos foram incluídos nos programas de turismo do PPA, mas
+estão sob responsabilidade de outros Ministérios (Ministério do Meio Ambiente, Ministério
+dos Transportes e Ministério da Integração Nacional), o que demonstra a convergência de
+ações entre esses órgãos.
+
+Esses dados demonstram claramente a consonância e a relação de integração entre
+os dois planos (PNT-PPA), apesar da ênfase significativa dada a alguns macroprogramas em
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+
+1417
+1418 Clara C. Lemos
+
+detrimento de outros, o que não é explicitamente uma diretriz do PNT, mas que pode ser
+resultado da influência da visão estratégica de governo e das forças políticas do Congresso
+Nacional, por meio das emendas parlamentares. Os programas de turismo previstos no PPA,
+portanto, apresentam um forte caráter econômico e desenvolvimentista, especialmente no
+que diz respeito aos investimentos em infraestrutura e promoção e apoio à comercialização.
+O PPA 2012-15 apresenta ainda mais ênfase na qualificação, classificação e cadastro de pres-
+tadores de serviços e profissionais do setor, além do foco na estruturação de destinos para os
+eventos esportivos que irão ocorrer nos próximos anos.
+
+6. O orçamento anual e as emendas parlamentares para o setor de turismo
+
+A Constituição Federal de 1988 atribui ao Poder Executivo a responsabilidade pelo sistema de
+planejamento e orçamento. Cabe ao presidente da República enviar ao Congresso Nacional as
+três principais peças de planejamento estratégico e orçamentário do âmbito federal:
+
+v o Plano Plurinanual (PPA);
+v as Diretrizes Orçamentárias;
+
+v os Orçamentos Anuais.
+
+Além do PPA, portanto, a lei de diretrizes orçamentárias (LDO) e a lei orçamentária
+anual (LOA) também orientam, estabelecem limites e diretrizes para o planejamento e os
+gastos governamentais.
+
+A lei de diretrizes orçamentárias (LDO) orienta a elaboração e a execução do orça-
+mento anual, ou seja, estabelece as prioridades para alocação de recursos e sintoniza o
+orçamento anual com o PPA. O Projeto de Lei de Diretrizes Orçamentárias (LDO) deve ser
+enviado pelo Poder Executivo ao Congresso Nacional até o dia 15 de abril de cada ano (Se-
+nado Federal, 2012).
+
+Uma vez aprovada pelo Legislativo, a LDO oferece diretrizes para elaboração da pro-
+posta orçamentária. O governo é obrigado a encaminhar o Projeto de Lei do Orçamento ao
+Congresso Nacional até o dia 31 de agosto de cada ano. A lei orçamentária disciplina todas
+as ações do governo federal e nenhuma despesa pública pode ser executada sem que esteja
+prevista no orçamento. No caso do orçamento anual, emendas podem ser apresentadas pelos
+parlamentares desde que sejam compatíveis com o plano plurianual e com a lei de diretrizes
+orçamentárias. Os três instrumentos, portanto, são articulados e elaborados de maneira inte-
+grada, estabelecendo contexto aos demais. A figura 1, apresentada a seguir, ilustra a relação
+entre o PPA e as leis orçamentárias.
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+Planejamento do turismo em âmbito federal 1419
+
+Figura 1
+Representação do atual modelo do Plano Plurianual e sua relação
+com as leis orçamentárias
+
+ 
+
+7 e Visão de Futuro
+DIMENSÃO e Valores
+ESTRATÉGICA e Macrodesafios
+
+Objetivos setoriais
+(ex.: PNT; MTur)
+
+Congresso
+Nacional
+
+Orientação de
+governo
+
+ 
+
+Emendas
+Parlamentares
+
+—+»
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Elaborado pelo autor a partir de Brasil (2002; 2012).
+
+A representação do modelo do Plano Plurianual traz à tona três questões que merecem
+destaque. A primeira delas é o peso da dimensão estratégica do planejamento e da orientação
+do governo na configuração dessa peça de planejamento. A segunda é a incorporação dos
+objetivos setoriais, desenvolvidos no âmbito das instituições setoriais (ex.: Ministério do Tu-
+rismo) por parte dos programas e objetivos do Plano Plurianual. Esse fato confirma o que já
+foi discutido aqui, ou seja, a importância de instrumentos de planejamento setoriais como o
+Plano Nacional de Turismo. Um plano atualizado, participativo e efetivamente comprometido
+com um horizonte de planejamento estratégico é essencial para garantir que os investimentos
+previstos no PPA sejam planejados e executados de acordo com uma estratégia gestada e ar-
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+1420 Clara C. Lemos
+
+ticulada no âmbito do MTur e das instituições e canais de participação descentralizados (ex.:
+Fórum de Secretários, Conselho Nacional de Turismo).
+
+O terceiro ponto diz respeito à participação legislativa no processo, notadamente por
+meio da inserção das emendas parlamentares na Lei Orçamentária Anual. Esse mecanismo é
+utilizado para garantir representatividade legislativa no processo de planejamento orçamen-
+tário, além de oferecer oportunidade de inserção de projetos e investimentos de interesse
+local que não possuem voz ou representatividade nos ministérios e demais órgãos da admi-
+nistração federal. Dessa forma, caracteriza-se como um instrumento de representatividade do
+local ou regional no âmbito do planejamento federal.
+
+As emendas parlamentares atualmente podem ser de caráter individual — cada par-
+lamentar apresenta a sua, ou coletiva —, apresentadas pela bancada de cada estado. Além
+disso, pequenos municípios podem apresentar emendas de iniciativa popular para garantir
+sua representatividade no processo. É necessário destacar, no entanto, que as emendas parla-
+mentares à Lei Orçamentária devem ser compatíveis com os programas e os objetivos estabe-
+lecidos no plano plurianual e na lei de diretrizes orçamentárias.
+
+Não faz parte do escopo deste trabalho discutir as vantagens, problemas e limitações do
+atual modelo de participação e representação legislativa no orçamento federal. Esse assunto
+vem sendo amplamente discutido por outros autores (Pereira e Mueller, 2002), especialmen-
+te no que diz respeito à sua função de garantir a governabilidade por meio da liberação de
+emendas parlamentares.
+
+Pretende-se aqui analisar a natureza e as características dessas emendas e a sua propor-
+ção e representatividade em face do orçamento geral do MTur.
+
+Atualmente, para cada parlamentar é fixado um limite máximo de R$ 15 milhões para
+apresentação e aprovação de emendas individuais, no número máximo de 25 emendas, por
+mandato parlamentar. O gráfico 5 apresenta os dados relativos ao total de emendas parlamen-
+tares apresentadas nos anos de 2011 e 2012 no âmbito da LOA e que tratam do orçamento do
+Ministério do Turismo. Pode-se observar também a relação entre as emendas parlamentares e
+o orçamento total do Ministério.
+
+Para 2011, a Lei Orçamentária Anual destinava R$ 3.715.361.199,00 ao Ministério do
+Turismo e as emendas parlamentares destinavam recursos que representavam cerca de 73,21%
+desse total. Em 2012, a dotação orçamentária do MTur diminuiu para R$ 2.674.514.247,00,
+mas a proporção de emendas parlamentares sobre o total permaneceu constante, em torno
+de 71,5%.
+
+Esses números dão uma mostra da atuação do Congresso Nacional na área do turismo e
+da alta proporção que as emendas parlamentares representam dentro do orçamento total do
+ministério. No entanto, é preciso destacar que o fato de constarem no Orçamento Anual não
+garante a execução das emendas. Isso dependerá do jogo político dos parlamentares com o
+Executivo, que é quem efetivamente pode autorizar a liberação de verbas para execução das
+emendas. De qualquer forma, chama a atenção a atuação parlamentar nessa área e a propor-
+ção das emendas parlamentares diante do orçamento total do MTur.
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+Planejamento do turismo em âmbito federal
+
+Gráfico 5
+Proporção das emendas parlamentares propostas em relação ao orçamento total do
+Ministério do Turismo
+
+ 
+
+ 
+
+ 
+
+4.000.000.000 3.715.361.199
+3.000.000.000 2.719.938.006 2.674.514.247
+2.000.000.000 1.913.185.674
+1.000.000.000
+0
+2011 2012
+E Orçamento Mtur (R$) E Emendas Parlamentares (R$)
+
+ 
+
+ 
+
+ 
+
+Fonte: Senado Federal (2012).
+
+A significativa participação do Legislativo na alocação dos recursos do MTur também
+deve ser analisada da perspectiva da natureza e das características dessas emendas. Apesar
+da necessidade de estarem em consonância com os programas e metas setoriais do PPA, os
+parlamentares gozam de relativa liberdade no sentido de definirem a região contemplada e
+os projetos prioritários.
+
+O gráfico 6 apresenta a distribuição dos recursos das emendas parlamentares, cons-
+tantes no Programa de Turismo da LOA de 2012, em grupos temáticos organizados pelo
+autor. Nota-se um peso significativo dado ao item de infraestrutura, responsável pelo total de
+73,44% dos recursos das emendas parlamentares. Esse item engloba emendas do tipo “Cons-
+trução de Centros de Convenções”, “Adequação de infraestrutura para eventos esportivos”,
+“Pavimentação de estradas”, “Construção de pontes”, “Construção de rota turística”, “Cons-
+trução de praça pública” etc.
+
+O segundo item, “Marketing, Promoção e Comercialização”, representa pouco mais de
+10% dos recursos das emendas e inclui gastos do tipo “Ações de marketing no mercado exter-
+no”, “Campanhas de promoção no mercado nacional” etc.
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+
+1421
+1422 Clara C. Lemos
+
+O grande peso do item “infraestrutura” na destinação de recursos pode estar relaciona-
+do ao fato de que as grandes obras de infraestrutura efetivamente demandam um alto volume
+de investimentos quando comparado aos demais itens. Uma outra possível causa dessa grande
+desigualdade na destinação de recursos pode estar relacionada à proximidade dos grandes
+eventos esportivos que algumas cidades brasileiras deverão sediar nos próximos anos. Os
+parlamentares podem estar concentrando esforços em garantir a aprovação de emendas rela-
+cionadas aos projetos e investimentos desses megaeventos.
+
+Gráfico 6
+Gastos previstos na Lei Orçamentária Anual de 2012 para o
+Programa de Turismo (nº 2.076)
+
+ 
+
+Estudos e pesquisas | 0,03%
+Outros | 0,51%
+
+Estruturação de destinos e segmentos | 0,64%
+
+Qualificação de profissionais e classificação de
+
+E 3,07%
+empresas
+
+Eventos [DD 5,79%
+
+Projetos de desenvolvimento = 6,22%
+
+Marketing, Promoção e Comercialização [DM 10,29%
+
+ 
+
+Infraestrutura 3,04 e
+
+ 
+
+ 
+
+ 
+
+Fonte: Senado Federal (2012).
+
+É necessário destacar, no entanto, que essa destinação de recursos representa a contri-
+buição do Congresso no orçamento federal. Cabe ao Executivo determinar quais deles serão
+executados (Pereira e Mueller, 2002), caracterizando assim o poder discricionário do Execu-
+tivo nesse aspecto.
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+Planejamento do turismo em âmbito federal 1423
+
+7. Discussão e recomendações
+
+O Sistema Nacional de Turismo apresenta, atualmente, uma estrutura de planejamento sig-
+nificativamente ampla, com o Ministério do Turismo assumindo uma grande variedade de
+responsabilidades e papéis. Além disso, o sistema possui grande potencial de descentralização
+e controle por parte das instituições representativas da sociedade, em especial o Conselho
+Nacional de Turismo e o Fórum Nacional de Secretários.
+
+No que diz respeito aos investimentos do setor, o Plano Nacional de Turismo é uma das
+principais peças de planejamento, pois sistematiza as ações de programas de longo prazo do
+setor, que posteriormente são incorporadas ao Plano Plurianual. O cenário atual, apesar das
+perspectivas de forte crescimento do setor com a captação de grandes eventos, é de falta de
+metas e prioridades claras, já que, no final de 2012, o Ministério do Turismo ainda não havia
+apresentado o PNT para o período de 2011 a 2015.
+
+Além disso, esta pesquisa destacou e analisou a importância e o peso das emendas
+parlamentares nos investimentos do setor de turismo. De acordo com os dados levantados,
+há um grande interesse por parte do Legislativo em aprovar emendas para este setor, o que
+representa também uma forma de atendimento de demandas locais e regionais para investi-
+mentos no setor.
+
+Apesar disso, os dados a respeito das emendas apresentadas na LOA de 2012 demons-
+tram a fragilidade dessa peça orçamentária em termos de aderência ao planejamento estraté-
+gico setorial. Apesar da necessidade de respeitarem as diretrizes setoriais expressas no plano
+plurinanual e no planejamento setorial do MTur, as emendas aparecem como demandas pon-
+tuais, fragmentadas e pouco comprometidas com o planejamento de longo prazo.
+
+Em nome das supostas aspirações locais, o Legislativo apresenta demandas pontuais
+que podem descaracterizar o planejamento de longo prazo do setor. Por outro lado, o Poder
+Executivo apresenta um poder discricionário significativo, no sentido de decidir os inves-
+timentos e a execução das emendas parlamentares. Este fato coloca o Plano Nacional de
+Turismo e suas ações e metas como essenciais para orientar os investimentos. Além disso, os
+conselhos participativos representam peças fundamentais de controle da sociedade no acom-
+panhamento da execução do orçamento e da destinação de verbas, o que no setor de turismo
+parece nem sempre acontecer.
+
+No caso do Conselho Nacional de Turismo, esse órgão colegiado tem como uma de suas
+principais funções propor diretrizes, subsídios e contribuir para a formulação, implementação
+e avaliação da Política Nacional de Turismo. Além disso, o CNT deve emitir pareceres e reco-
+mendações sobre questões do turismo nacional, buscar a melhoria da qualidade e produtivi-
+dade do setor, manifestar-se sobre questões relacionadas ao turismo etc. (Brasil, 2008a).
+
+São 26 as entidades que devem indicar representantes e suplentes junto ao CNT. Além
+destes, devem integrar o conselho três representantes de notório saber na área de turismo
+e representantes de entidades da sociedade civil indicados pelo Conselho e designados pelo
+ministro de Estado do Turismo. O número necessário de representantes da sociedade civil, no
+entanto, não é expresso na norma que trata do assunto (Brasil, 2008a).
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+1424 Clara C. Lemos
+
+Pode-se afirmar, portanto, que o CNT possui significativa representatividade, além de
+um amplo espectro de funções dentro do Sistema Nacional de Turismo. Essa variedade de
+funções, no entanto, não representa nenhum peso deliberativo, já que suas atribuições estão
+mais voltadas para o assessoramento, na forma de recomendações e contribuições. Apesar
+disso, essa ausência de deliberação não impede que o conselho seja um órgão de controle, no
+sentido de acompanhar a elaboração e a execução do PNT, mas também a execução do orça-
+mento e o alcance das metas setoriais.
+
+Com uma agenda diversificada e muitas vezes pulverizada, o CNT incorre no risco de,
+a exemplo do que Abrucio (2007) descreveu a respeito do Conselho de Desenvolvimento Eco-
+nômico e Social (CDES), não ter prioridades claras e possuir pouca ou nenhuma capacidade
+de influenciar a formulação de políticas públicas.
+
+Os conselhos possuem uma importante função de levar demandas da sociedade, mas
+também devem cobrar o cumprimento de metas e execução de ações. Para isso, eles precisam
+estar informados acerca do desempenho do Ministério do Turismo no alcance de seus objetivos
+programáticos. É preciso estimular o controle e o acompanhamento de indicadores de desempe-
+nho e metas. Assim, os conselhos correm menos o risco de ser apenas um canal depositório de
+demandas, algumas legítimas, algumas talvez desconectadas das políticas públicas em curso.
+
+Várias são as possibilidades para busca e efetiva concretização da gestão descentra-
+lizada e do maior controle da sociedade no que diz respeito aos investimentos setoriais do
+turismo. O cenário apresentado e discutido aqui permite identificar algumas considerações
+importantes a esse respeito. São elas:
+
+v O Plano Nacional de Turismo representa institucionalmente a principal “peça” de planeja-
+mento no âmbito do Ministério do Turismo. Está previsto por lei a sua elaboração e atuali-
+zação em consonância com o Plano Plurianual.
+
+v O estabelecimento de programas, objetivos e metas setoriais por parte do MTur deverá
+subsidiar a elaboração do Plano Plurianual, o principal instrumento de planejamento no
+âmbito federal. Esse fato traz à tona a necessidade de fomentar o planejamento transparen-
+te, estratégico, contínuo e efetivamente participativo no MTur, com vistas a garantir maior
+representatividade ao planejamento de longo prazo.
+
+v A participação do Congresso Nacional na identificação de oportunidades e alocação de
+investimentos caracteriza-se como um importante instrumento de representação do local
+e regional da decisão dos investimentos, o que pode garantir a concretização das ações de
+descentralização de políticas públicas e, mais ainda, a distribuição de recursos e investi-
+mentos. Na prática, no entanto, isso pode trazer algumas distorções, o que implica a neces-
+sidade de maior controle social da atuação parlamentar no setor do turismo.
+
+v As emendas parlamentares para o setor de turismo têm representado, nos últimos anos,
+uma alta proporção em relação ao orçamento total do MTur. É preciso mais pesquisa no
+sentido de identificar a real execução e atendimento dessas emendas e como elas estão
+impactando as políticas, os programas e os projetos de turismo.
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+Planejamento do turismo em âmbito federal
+
+vy Recomenda-se também uma análise crítica dos investimentos por parte do Ministério do
+Turismo, no sentido de identificar a aderência dessas ações e investimentos aos objetivos
+estabelecidos no PNT e seu real impacto nas regiões receptoras desses investimentos.
+
+v Fazem-se necessários, portanto, uma análise e um controle permanentes tanto da atua-
+ção do Ministério do Turismo, em termos de planejamento estratégico de longo prazo por
+meio do Plano Nacional de Turismo, como pelas formas de incorporação dessas questões
+no mais importante instrumento de planejamento no âmbito federal, o Plano Plurianual,
+assim como a influência do Congresso Nacional, por meio das emendas parlamentares, no
+orçamento e efetivo investimento no setor do turismo.
+
+8. Considerações finais
+
+As evoluções recentes da política nacional de turismo resultaram em um maior fortalecimento
+institucional do setor, em especial quando se considera o sistema nacional de turismo, com as
+suas instituições de planejamento e controle social, e a chamada Lei Geral do Turismo (Brasil,
+2008a), com importantes subsídios para o desenvolvimento e estímulo ao setor turístico. O
+crescimento da dotação orçamentária do MTur também reforça esse cenário de consolidação
+do turismo na administração pública federal.
+
+Por outro lado, os dados e as informações aqui apresentados e discutidos demonstram que
+ainda resta um longo caminho em termos de maior articulação institucional, em especial entre os
+instrumentos de planejamento adotados pelo MTur e o Plano Plurianual. O que se vê atualmente
+é uma descontinuidade na elaboração e na atualização do Plano Nacional de Turismo. Por outro
+lado, a participação do Congresso Nacional, por meio da criação de emendas parlamentares,
+também parece distorcer o processo de planejamento e financiamento público do setor.
+
+Nesse sentido, esta pesquisa traz recomendações para o fortalecimento do Sistema Na-
+cional de Turismo, principalmente no que diz respeito à atuação do Conselho Nacional de
+Turismo, um canal de participação e discussão de demandas do setor, locais e regionais.
+Entende-se que sua atuação também deve objetivar o maior controle do desempenho das po-
+líticas públicas e o acompanhamento sistemático de objetivos e metas, com real capacidade de
+influenciar ações e qualificar o debate estratégico do setor de turismo no Brasil.
+
+Referências
+
+ABRUCIO, Fernando L. Trajetória recente da gestão pública brasileira: um balanço crítico e a renova-
+ção da agenda de reformas. Rev. Adm. Pública, Rio de Janeiro, v. 41, n. especial, p. 67-86, 2007.
+
+BRASIL. Lei nº 11.653, de 7 de abril de 2008b. Dispõe sobre o Plano Plurianual para o período
+2008/2011. Diário Oficial da União, Brasília, DF, 8 abr. 2008b. Disponível em: <www.planalto.
+gov.br/ccivil 03/ Ato2007-2010/2008/Lei/L11653.htm>. Acesso em: 4 fev. 2011.
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+
+1425
+1426 Clara C. Lemos
+
+BRASIL. Lei nº 11.771, de 17 de setembro de 2008a. Dispõe sobre a Política Nacional de Turismo,
+define as atribuições do Governo Federal no planejamento, desenvolvimento e estímulo ao setor
+turístico. Diário Oficial da União, Brasília, DF, 18 set. 2008a. Disponível em: <www.planalto.gov.
+br/ccivil 03/ Ato2007-2010/2008/Lei/L11771.htm>. Acesso em: 23 jun. 2012.
+
+BRASIL. Lei nº 12.593, de 18 de janeiro de 2012. Institui o Plano Plurianual da União para o período
+de 2012 a 2015. Diário Oficial da União, Brasília, DF, 19 jan. 2012. Disponível em: <www.planalto.
+gov.br/CCIVIL 03/ Ato2011-2014/2012/Lei/L12593.htm>. Acesso em: 20 jun. 2012.
+
+BRASIL. Ministério do Planejamento, Orçamento e Gestão. Secretaria de Planejamento e Investi-
+mentos Estratégicos. Modelo de gestão do PPA 2008 — 2011. Brasília, DF, 2008.
+
+BRASIL. Ministério do Planejamento, Orçamento e Gestão. Secretaria de Planejamento e Investi-
+mentos Estratégicos. O desafio do planejamento governamental. Brasília, DF: MP, 2002.
+
+RASIL. Ministério do Turismo. Dados do turismo brasileiro. Brasília, DF, 2010.
+
+RASIL. Ministério do Turismo. Plano nacional do turismo: diretrizes, metas e programas 2003-
+007. Brasília, DF, 2003.
+
+rasília, DF, 2007.
+RASIL. Ministério do Turismo. Turismo no Brasil: 2007/2010. Brasília, DF, 2006.
+
+ 
+
+B
+B
+2
+BRASIL. Ministério do Turismo. Plano nacional de turismo 2007/2010: uma viagem de inclusão.
+B
+B
+
+CARGNIN, Antonio. P. A dimensão territorial no planejamento governamental brasileiro: avanços
+e limitações na elaboração dos Planos Plurianuais. In: SEMINÁRIO REFORMA DO ESTADO E TER-
+RITÓRIO: INTEGRAÇÃO SUL-AMERICANA E GESTÃO DO TERRITÓRIO, 1, 2007, Porto Alegre.
+Anais... Porto Algre: UFRGS/Posgea, 2007. p. 1-30.
+
+COOPER, Chris. et al. Tourism: principles and practice. 3'“ ed. Upper Saddle River, NJ: Financial
+Times; Prentice Hall, 2005.
+
+COSTA, Carlos. An emerging tourism planning paradigm? A comparative analysis between town
+and tourism planning. International Journal of Tourism Research, v. 3, n. 6, p. 425-441, 2001.
+
+CRUZ, Rita C. A. Planejamento governamental do turismo: convergências e contradições na produção
+do espaço. In: LEMOS, Amália I. G.; ARROYO, Mônica; SILVEIRA, Maria L. América Latina: cidade,
+campo e turismo. São Paulo: Clacso, Consejo Latinoamericano de Ciencias Sociales, 2006.
+
+EDGELL, David et al. Tourism policy and planning: yesterday, today and tomorrow. Oxford; Burl-
+ington: Butterworth Heinemann; Elsevier, 2008.
+
+ELLIOT, James. Tourism: politics and public sector management. Londres: Routledge, 1997.
+
+FAYOS-SOLÁ, E. Tourism policy: a midsummer night's dream? Tourism Management, v. 17, n. 6,
+p. 405-412, 1996.
+
+GOELDNER, Charles R.; RITCHIE, J. R. Brent. Tourism: principles, practices, philosophies. 10% ed.
+Nova Jersey: John Wiley & Sons, Inc, 2006.
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+Planejamento do turismo em âmbito federal
+
+GUNN, Clare A.; VAR, Turgut. Tourism planning: basics, concepts, cases. Nova York; Londres:
+Routledge, 2002.
+
+HALL, Christopher Michael. Tourism planning: policies, processes and relationships. 2" ed. Pearson,
+2008.
+
+IBGE. Instituto Brasileiro de Geografia e Estatística. Sistema de contas nacionais. Disponível em:
+<ftp://ftp.ibge.gov.br/Contas Nacionais/Contas Nacionais Trimestrais/Tabelas Completas/
+Tab Compl CNT.zip>. Acesso em: 25 jun. 2012.
+
+IPEA. Instituto de Pesquisa Econômica Aplicada. Brasil em desenvolvimento: Estado, planejamento
+e políticas públicas. Brasília, DF, 2010b.
+
+IPEA. Instituto de Pesquisa Econômica Aplicada. O Brasil em 4 décadas. Rio de Janeiro, 2010a.
+
+MILL, Robert C.; MORRISON, Alastair M. The tourism system: an introductory text. Englewood
+Cliffs: Prentice-Hall, 1985.
+
+MINISTÉRIO DO TURISMO. Disponível em: <www.turismo.gov.br/turismo/home.html>. Acesso
+em 24 fev. 2011.
+
+MOWFORTH, Martin; MUNT, Ian. Tourism and sustainability: development and new tourism in the
+Third World. 2"! ed. Londres; Nova York: Routledge, 2003.
+
+PAGE, Stephen. J. Transport and tourism. 2"! ed. Harlow: Pearson Education, 2005.
+
+PEREIRA, Carlos; MUELLER, Bernardo. Comportamento estratégico em presidencialismo de coalizão:
+as relações entre Executivo e Legislativo na elaboração do orçamento brasileiro. DADOS — Revista
+de Ciências Sociais, v. 45, n. 2, p. 265-301, 2002.
+
+SENADO FEDERAL. Plano plurianual. Disponível em: <www9.senado.gov.br/portal/page/portal/
+orcamento senado/PPA/Elaboracao:PL >. Acesso em: 10 fev. 2011.
+
+SENADO FEDERAL. Siga Brasil. Disponível em: <www9.senado.gov.br/portal/page/portal/orca-
+mento senado/LOA/Elaboracao:PL >. Acesso em: 20 jun. 2012.
+
+SOLHA, Karina. T. Órgãos públicos estaduais e o desenvolvimento do turismo no Brasil. Tese (douto-
+rado em ciências da comunicação) — Escola de Comunicação e Artes, Universidade de São Paulo,
+São Paulo, 2004.
+
+UNWTO. UNWTO tourism highlights: 2012 Edition. Disponível em: <http://mkt.unwto.org/en/pu-
+blication/unwto-tourism-highlights-2012-edition>. Acesso em: 30 fev. 2013.
+
+WEAVER, David B. Sustainable tourism: theory and practice. Oxford; Burlington: Elsevier, 2008.
+
+Clara C. Lemos é bacharel em turismo, mestre e doutora em ciências da engenharia ambiental pela Es-
+cola de Engenharia de São Carlos (EESC-USP) e professora adjunta da Universidade do Estado do Rio
+de Janeiro (Uerj). E-mail: clara. lemos(Querj.br.
+
+Rev. Adm. Pública — Rio de Janeiro 47(6):1401-427, nov./dez. 2013
+
+1427

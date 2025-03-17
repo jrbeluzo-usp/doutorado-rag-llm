@@ -1,0 +1,554 @@
+USO DAS TIC NO ENSINO DA CONTABILIDADE APLICADA AO SETOR
+PÚBLICO
+
+Danielle Patricia Nascimento Galdino
+danigaldino210 gmail.com
+
+Helena Cristina Pimentel do Vale
+hcpimentel( uol.com.br
+
+Resumo
+
+O presente artigo insere-se no quadro de analises e reflexões acerca da
+relevância das tecnologias da informação e comunicação (TIC) na educação e
+as novas exigências e mudanças no perfil do profissional docente. Analisa
+como as TIC influenciam no processo de aprendizagem do ensino da
+Contabilidade Pública, tomando como foco as tarefas propostas em duas
+disciplinas ofertadas no Curso de Administração Pública do Programa Nacional
+de Formação em Administração Pública (PNAP), por uma instituição pública de
+ensino superior (IPES) da região Nordeste do Brasil. Para isso, levou-se em
+consideração as atividades, as ferramentas de estudo propostas pelos
+mentores das disciplinas e os resultados.
+
+Palavras-chaves: Educação superior; profissão docente; TIC; SIGA Brasil.
+Introdução
+
+O mundo e a sociedade mudam constantemente em ritmo acelerado.
+Atualmente, conhecer e dominar tecnologias digitais é de grande relevância
+para qualquer indivíduo, por exercer um importante papel tanto na produção de
+riqueza como na contribuição para o bem-estar e qualidade de vida dos
+mesmos. Com as significativas inovações tecnológicas, as instituições
+educacionais, principalmente as que trabalham com educação à distância
+(EAD) e formação de nível superior, são fortemente influenciadas pelo impacto
+causado pelas TIC. Para Mill (2010), o fácil acesso à informação, ao
+conhecimento, ao saber, característicos do discurso tecnológico está
+diretamente relacionado aos processos educacionais formativos, a educação
+como um todo.
+Kipnis (2009), Mill (2010) e Schlemmer (2010), asseguram que na
+Sociedade do Conhecimento, a qual estamos inseridos, o centro das atenções
+é a educação e o acesso a informação, influenciando consideravelmente o uso
+das tecnologias de base informática no contexto educacional, exigindo dos
+professores uma formação além do seu conhecimento em área específica, o
+saber no uso adequado dos aparatos tecnológicos em suas práticas docentes.
+Não basta apenas conhecer, é preciso ter cuidado e a tecnologia mais recente
+nem sempre é a melhor alternativa a ser adotada, mas sim àquela que chega
+até o aluno independente de onde ele esteja, auxiliando-o na construção do
+seu conhecimento, característica marcante dessa sociedade (MILL e
+PIMENTEL, 2010).
+
+Para Mill (2010), outras duas características intrínsecas ao
+desenvolvimento tecnológico de cada época se relacionam diretamente com a
+educação: a capacidade de atingir a determinado público e o potencial para
+articular novos processos cognitivos. As TIC permitem inúmeras possibilidades
+de interação e comunicação entre os indivíduos em qualquer parte do mundo
+em horários e locais diversos, proporcionado um rápido acesso a informação,
+aos acontecimentos, estimulando novas formas de agir, pensar e aprender, o
+que tem provocado alguns questionamentos como: “[..Jinovações tecnologias
+implicam necessariamente em inovações pedagógicas?” (MILL, 2010, p. 48).
+“Como pensar em “inovação tecnológica” quando parte significativa das ações
+de formação e capacitação dos professores se evidencia enquanto
+“transposição” de “modelos” de ações de um mundo físico-analógico para um
+mundo digital virtual? De que tipo de inovação precisamos?” (SCHLEMMER,
+2010, p. 70-71).
+
+Na nova geração, conhecida como “nativos digitais”, geração digital ou
+virtual (MILL, 2010; SCHLEMMER, 2010), os jovens pensam, aprendem de
+modo diferente, movimentam-se rápido efacilmente, acessam inúmeras
+informações com várias formas de interação e comunicação, criam suas redes,
+“pensam com” o uso das tecnologias buscando uma nova relação com as
+instituições educacionais, pois os aparatos digitais fazem parte da sua cultura,
+da sua vida, o que requer dos professores, na sua maioria pertencentes à
+geração analógica, os “imigrantes digitais” ou os “excluídos digitais”, um novo
+conjunto de competências didático-pedagógicas aliadas às aptidões
+tecnológico-digitais, para proporcionar ao aluno uma aprendizagem
+significativa.
+
+Na sociedade do conhecimento, no ensino da Contabilidade Pública ou
+outras disciplinas ou cursos, o professor deixa de ser o detentor das
+informações e passa a atuar como orientador ou facilitador do processo
+educacional, guiando a busca de soluções, incentivando a produção dos alunos
+e assumindo parceria no processo de construção do saber, no qual ambos,
+alunos e professores, constroem conhecimento e aprendem juntos.
+
+Nesse contexto, este artigo mostra como se dá o uso das TIC no ensino
+de Contabilidade Pública num curso a distância ofertado pelo Programa
+Nacional de Formação em Administração Pública (PNAP) numa IPES.
+
+Profissão docente e as TIC na educação superior
+
+As frequentes transformações vivenciadas desde meados do século XX,
+impõem uma redefinição da universidade no âmbito do ensino superior com o
+desafio de não submeter-se ao modelo gerencialista do mercado para manter-
+se como lugar privilegiado de produção e difusão do conhecimento. Entre
+outros elementos, a docência é convocada a ficar na linha de frente dessa
+batalha. O novo modelo educacional para atender as exigências da sociedade
+do conhecimento, requer a reconceitualização da profissão docente (RAMOS,
+2010), uma vez que traz para as instituições educacionais a responsabilidade
+de formar cidadãos conectados, educacionalmente “informatizados” e capazes
+de atender as demandas do mundo globalizado.
+
+A atenção à temática da docência universitária é mais evidente na
+transição do século XX para o século XXI, pois antes, para ensinar bastava ser
+profissional em determinada área, a formação inicial (graduação) e o
+conhecimento disciplinar eram os requisitos necessários para ter aptidão ao
+ensino. Na Sociedade do Conhecimento, educar requer seriedade,
+comprometimento e clareza dos objetivos almejados. Para Ramos (2010, p.
+33), requer “[...] uma reconfiguração de saberes e fazeres no contexto da
+docência universitária”. Mesmo que o professor continue utilizando recursos
+tradicionais e suas “velhas” práticas para alcançar os objetivos almejados,
+como afirma Belloni (2002), os alunos “estão em outra” e buscam uma nova
+relação com as instituições educacionais. Para Mauri e Onrubia (2010), as TIC
+não são só um novo instrumento, um novo sistema de representação do
+conhecimento, mas uma nova cultura de aprendizagem, devendo os
+professores aprender a dominá-las e a valorizá-las.
+
+O advento das TIC reflete diretamente na educação, trazendo para sala
+de aula a possibilidade de utilização de tecnologias para explorar os conteúdos
+e tornar as aulas mais interessantes e criativas. Para Mauri e Onrubia (2010),
+na sociedade do conhecimento, o que os alunos devem obter da educação não
+é, necessariamente, a informação, mas sim a capacidade de organizar e
+atribuir significado e sentido a esta, de aprender a conviver com a relatividade
+das teorias e com a incerteza do conhecimento para saber formar sua própria
+visão de mundo fundamentado em critérios relevantes, diante das
+complexidades presentes.
+
+O novo perfil do professor universitário demanda atributos que permitam
+a formação de profissionais capazes de trabalhar positivamente com o
+dinamismo e as rápidas transformações dessa sociedade, seja ele em caráter
+econômico, político, cultural ou de base tecnológica, com disposição para
+aprender a aprender num processo continuado de construção e reconstrução
+do conhecimento da didática e dos conteúdos, do incremento das práticas
+docentes e utilização adequada das TIC para que possa atender as
+necessidades do aluno, estimulando-o na construção da aprendizagem
+transformadora, capaz de formar profissionais criativos, com posicionamento
+críticos e reflexivos, pois a incorporação e uso das TIC na educação, possibilita
+que o aluno construa conhecimento e entenda o que faz, desenvolvendo
+habilidades necessárias para atuar na sociedade do conhecimento. Para Moran
+(2007), para alcançar o estado da arte na arte de professorar é preciso evitar
+os modelos engessados, padronizados, repetitivos, monótonos, previsíveis,
+asfixiantes e proporcionar aos alunos uma educação transformadora,
+estimulante, provocativa, instigadora, dinâmica, ativa desde o começo e em
+todos os níveis de ensino.
+
+As modernas formas de aprender e interagir com TIC requerem
+metodologias de ensino inovadoras, revisão dos procedimentos e métodos de
+professorar. A maioria dos professores não possui formação em TIC, não
+vivenciaram um processo de capacitação ou formação em EAD, modalidade de
+ensino com uso significativo das tecnologias, não se colocam na posição de
+aluno para entender, refletir sobre como é estudar e aprender sem o contexto
+físico da sala de aula. É muito difícil inovar sem estar presente, percebendo,
+compreendendo as limitações das TIC e dos ambientes virtuais de
+aprendizagem (AVA), buscando alternativas, vivendo e convivendo no
+ciberespaço. Para trabalhar com eficiência e eficácia em busca de uma
+educação transformadora, o professor precisa ter “fluência” na tecnologia para
+poder inovar, acabando com as reproduções de antigas práticas com uso de
+“novas” tecnologias (SCHLEMMER, 2010).
+
+Novidade e inovação estão sempre relacionadas a um contexto, espaço
+e tempo histórico. Para Piaget (1995), a novidade surge no processo geral de
+equilíbrio. Cunha (2005) afirma que, a inovação ocorre em determinado lugar,
+tempo e circunstância, como produto resultante de uma ação humana sobre o
+ambiente, intimamente interligada a ruptura paradigmática. Não adianta usar as
+novidades tecnológicas para reproduzir velhas metodologias adotadas em sala
+de aula. A aprendizagem acontece na interação do sujeito com o objeto de
+conhecimento e o simples fato de se utilizar de uma novidade tecnológica não
+significa inovar na educação. O professor necessita se apropriar das
+possibilidades tecnológicas compreendendo-as para aplicá-las em suas aulas,
+com novas metodologias, práticas e processos de mediação pedagógica para
+realmente construir inovação educacional. Caso contrário, fala-se apenas em
+novidade, pois as tecnologias digitais por si só não constituem inovação.
+
+Para Mill (2010), a educação é composta e fundamentada em quatro
+pontos elementares: gestão, ensino, aprendizagem e mediação tecno-
+pedagógicas, sendo seu elemento básico as TIC, independente de serem
+digitais ou tradicionais. Conforme o autor, inovações tecnológicas podem
+
+5
+induzir novas formas de ensinar e aprender, mas só significará inovação
+pedagógica se houver mudanças também na ideia do que seja estudar, ensinar
+e gerenciar processos educativos, se houver mudanças na concepção
+pedagógica para posteriormente mudar as escolhas tecnológicas que apoiarão
+as novas práticas de ensino e aprendizagem.
+
+Para Masetto (2012), as TIC na educação, com o uso de variadas
+técnicas, favorecem o desenvolvimento de diversas facetas no aluno,
+provocam a curiosidade e os instigam a buscar, por iniciativas próprias, as
+informações necessárias para explicar fenômenos da vida profissional ou
+resolver determinados problemas. Segundo o autor, para os professores, essa
+variação na metodologia proporciona vantagens por tornar o curso mais
+dinâmico, desafiador, na medida em que são exigidas renovação, informações
+sobre estratégias, flexibilidade e criatividade. Somente as tecnologias
+modernas não resolvem os problemas educacionais de aprendizagem e
+formação, são muito importantes se forem utilizadas como instrumentos
+colaborativos das atividades de aprendizagem com professores capacitados,
+com atitudes mais ativas e intervenções dinâmicas no campo das estratégias.
+
+Estudos realizados na EAD por Tori (2010), Torres e Fialho (2009) e
+Schlemmer (2010), apontam para um futuro educacional, no qual as
+modalidades de ensino presencial e a distância se complementam
+aproveitando o que há de vantajoso em cada uma delas em relação a
+adequação pedagógica, custos, objetivos educacionais e perfil dos alunos,
+resultando nos cursos híbridos. Assinalam ainda, para uma aprendizagem que
+ocorre por meio de imersão em ambientes com realidades virtuais, com uso
+combinado da web 2.0 e a tecnologia 3D, na qual os sujeitos são
+representados por um avatar, interagindo uns com os outros pela
+representação oral, textual, gráfica e gestual. Nesse ambiente o aluno não
+navega para acessar fóruns, chats e fazer suas colaborações, por exemplo, ele
+está lá presente no lugar em que ocorre essa atividade, tornando a interação
+mais significativa, envolvente e interessante, o que intensifica no aluno o
+sentimento de pertencimento, acabando com a sensação de “estar sozinho”, da
+
+“falta de encontrar pessoas”, de distância. Tori (2009), Mill (2010) e Schlemmer
+(2010), afirmam que no futuro apenas a terminologia educação será suficiente
+para abarcar a concepção do processo pedagógico constituído por professores
+e alunos, com destaque para alguém com interesse de aprender e outra com a
+intenção de ensinar, pois o sentimento de distância será suprimido pelo “estar
+presente virtualmente” e, independente da modalidade, o termo educação
+requer a junção do ensinar com o aprender.
+
+O professor precisa estar atento às novas exigências de ser professor,
+pois mesmo diante de tantas mudanças, continua exercendo um importante
+papel, não mais como um informador, mas sim como um mediador e
+organizador do processo de ensino e aprendizagem, o que torna a arte de
+professorar ainda mais nobre, menos repetitivo e mais criativo.
+
+O uso das TIC no ensino da Contabilidade Aplicada ao Setor Público
+
+O acelerado incremento das TIC e a união destas com a internet
+contribui significativamente para o desenvolvimento da EAD, com avanços que
+demandam novas posturas de alunos e professores.
+
+Todo trabalho pedagógico nos cursos de EAD está sujeito à forma como
+o professor da disciplina e os tutores a distância interagem, interpretam e
+compartilham conhecimentos usando as TIC como suporte principal. A equipe
+pedagógica deve ter habilidade no uso das TIC, conteúdos e atividades
+propostas na disciplina, bem como consciência das fragilidades que a EAD e
+as TIC apresentam em alguns momentos, devido à distância geográfica dos
+alunos. Para Antonio (2011), as dificuldades apresentadas em cursos dessa
+modalidade podem ser vencidas se professores e tutores interagirem
+permanentemente com os alunos, utilizando os recursos tecnológicos como e-
+mails, ferramentas do AVA (fóruns, tarefas, glossário, wiki), mensagens, blogs
+e redes sociais, por exemplo. Caso contrário, poderá acarretar bloqueios e
+desestímulo na realização das atividades, desencadeando atrasos nas
+postagens e a consequente evasão.
+
+Este estudo analisa o uso das TIC na educação com dados descritivos
+extraídos do contato direto do observador com a situação estudada, no curso
+x
+
+de Administração Pública à Distância ofertado por uma IPES de Alagoas,
+fazendo uma breve comparação entre os conteúdos, as atividades e as
+ferramentas utilizadas nas disciplinas de Contabilidade Pública e Orçamento
+Público.
+
+A Contabilidade Pública é o ramo da ciência contábil que aplica, no
+processo gerador de informações, os princípios fundamentais de contabilidade
+e as normas contábeis direcionadas ao controle patrimonial de entidades do
+setor público, conforme determina as Normas Brasileiras de Contabilidade
+Aplicada ao Setor Público (NBCASP — T - 16.1). Sua função social deve
+refletir, sistematicamente, o ciclo da administração pública para evidenciar
+informações necessárias à tomada de decisões, à prestação de contas e à
+instrumentalização do controle social, compromisso fundado na ética
+profissional, que pressupõe o exercício cotidiano de fornecer informações
+compreensíveis e úteis aos cidadãos no desempenho de sua soberana
+atividade de controle do uso de recursos e patrimônio público pelos agentes
+públicos nos aspectos de natureza orçamentária, econômica, financeira e física
+do patrimônio da entidade do setor público e suas mutações, em apoio ao
+processo de tomada de decisão; a adequada prestação de contas; e o
+necessário suporte para a instrumentalização do controle social.
+
+Para disponibilizar essas informações, o controle da execução
+orçamentária e financeira é registrado no Sistema Integrado de Administração
+Financeira do Governo Federal (SIAFI) ou, no caso de alguns estados e
+município, no Sistema de Administração Financeira para os Estados e
+Municípios (SIAFEM), dos quais são retiradas diversas informações e
+disponibilizadas à população em geral por meio de várias ferramentas
+disponíveis na internet, como por exemplo, Portal da Transparência (Fig.1) e
+
+Sistema SIGA Brasil (Fig. 2).
+Figura 1 — Portal da Transparência do Governo Federal
+
+Transparência
+
+Imóveis
+Funcionais
+
+ 
+
+EESTI
+
+Fonte:http://jwww.portaltransparencia.gov.br/
+
+Figura 2 — Sistema SIGA Brasil
+
+rm
+
+5 Págira o seca doam
+
+ 
+
+ 
+
+   
+
+Fonte: http://www12.senado.gov.br/orcamento/sigabrasil
+
+O Portal da Transparência (www.portaltransparencia.gov.br) possibilita
+encontrar dados detalhados sobre a execução orçamentária e financeira do
+governo federal, com possibilidade de pesquisar informações por dia e pela
+fase de despesa (empenho, liquidação ou pagamento). Permite ainda,
+acompanhar os recursos públicos transferidos pela União ao exterior, a estados
+e municípios brasileiros, ao Distrito Federal, a instituições privadas e aos
+cidadãos, bem como para conferir os gastos diretos do Poder Executivo
+Federal.
+
+í
+
+O SIGA Brasil (wwwl2.senado.gov.br/orcamento/sigabrasil) é um
+sistema de informações que permite a qualquer indivíduo, por meio da internet,
+acesso amplo e facilitado a diversas bases de dados sobre planos e
+orçamentos públicos federais.
+
+A necessidade do aluno, seja como profissional contábil ou como
+cidadão, saber usar dessas e outras ferramentas para acompanhar e fiscalizar
+as ações do governo, assim como a necessidade de utilizar metodologias
+variadas que envolvam cada vez mais o aluno, proporcionado a estes
+situações problemas vivenciadas na realidade profissional, na constante busca
+de uma aprendizagem significativa e consequente construção do
+conhecimento. Neste contexto, as disciplinas de Contabilidade Pública e
+Orçamento Público, tiveram como proposta as seguintes atividades:
+
+- a disciplina Contabilidade Pública trabalhou com questionários e fóruns
+abordando estudos de caso como, por exemplo: “estudo sobre a utilização do
+orçamento participativo como instrumento de maior compreensibilidade dos
+informes contábeis pela população: o caso da prefeitura de Maceió/AL”. Nesse
+fórum os alunos foram indagados sobre a importância do orçamento
+participativo; quais foram as contribuições e participações nas assembleias
+públicas que tratam desse assunto; de que forma foram feitas essas
+contribuições, no caso de haver; se obtiveram êxito; e a satisfação com o
+resultado encontrado;
+
+- a disciplina Orçamento Público trabalhou com fóruns e atividade contendo
+questões de pesquisa no Sistema SIGA Brasil, como, por exemplo:
+
+1. Identifique a proposta orçamentária do Poder Executivo para a área de meio
+ambiente em 2009 e verifique como o Congresso Nacional alterou essas
+despesas. Siga os passos: acesse www.sigabrasil.gov.br, escolha Orçamento
+Anual no menu à esquerda, clique no ícone “crie sua consulta”, escolha o
+universo LOA 2009 — Despesa Elaboração e monte a seguinte consulta:
+
+Figura 3 - LOA 2009 — Despesa Elaboração
+
+10
+Dados | Propriedades
+
+GI LOAZOS
+
+  
+
+= (gu) Fonte de Recursos
+= EE) Modalidade de Aplicação
+= (68) Identificador Prmário
+
+ 
+
+Fonte: Santos (2011)
+2. Responda às questões:
+a) Que órgãos têm ações de gestão ambiental?
+
+b) Que programas de gestão ambiental terão ações executadas pelo Ministério
+da Integração Nacional?
+
+c) Qual o valor total das dotações para gestão ambiental proposto pelo Poder
+Executivo?
+
+d) Qual o valor total das dotações para gestão ambiental aprovado pelo Poder
+Legislativo?
+
+e) Que ação teve seu valor reduzido pelo Congresso Nacional em mais de R$
+180 milhões? Que ação teve seu valor acrescido em mais de R$ 67 milhões?
+
+f) Que ações foram incluídas no orçamento pelo Congresso Nacional?
+
+3. Identifique como se alteraram as despesas autorizadas para gestão
+ambiental ao longo de 2007. Siga os passos: acesse www.sigabrasil.gov.br,
+escolha Orçamento Anual no menu à esquerda, clique no ícone “crie sua
+consulta”, escolha o universo LOA 2007 — Despesa Execução e monte a
+seguinte consulta:
+
+Figura 4 - LOA 2007 — Despesa Execução
+
+11
+| 51 Otyeros do resstado
+1 Ação (Codes) > e. > Dotação Erucsal
+
+> Créditos Acicionas > autorizado
+
+| 4 atos de comsta
+
+a Função mateta | EESTASASSESAD [E
+
+  
+
+Fonte: Santos (2011)
+4. Responda às questões:
+a) Que novas dotações foram incluídas no orçamento por créditos especiais?
+b) Que ações tiveram dotações aumentadas por meio de créditos adicionais?
+c) Que ações tiveram dotações canceladas por meio de créditos adicionais?
+d) Que ações tiveram seus valores alterados em mais de 50%?
+
+Ambas as disciplinas foram trabalhadas na mesma turma, sendo 7º
+período em 2011 - Contabilidade Pública - e 8º período em 2012 - Orçamento
+Público - no curso de Administração Pública à Distância ofertado pelo PNAP
+em uma IPES de Alagoas. A turma do 7º período era composta por 146
+alunos, dos quais apenas 86 interagiam no curso. ) á a turma do 8º período, era
+composta por 114 alunos, dos quais 70 interagiam.
+
+Após observar os dados registrados no AVA Moodle foi possível
+constatar que, na disciplina de Contabilidade Pública, os alunos se envolveram
+com os questionamentos propostos, o que os motivou a participar e a expor
+suas colaborações no fórum. Mesmo com a maioria afirmando não ter
+participado das assembleias públicas que tratam do orçamento participativo,
+tais questionamentos, por se tratarem de situações vivenciadas na realidade,
+provocaram curiosidade e a busca pelo entendimento sobre a importância do
+assunto abordado, não só como profissionais, mas também como cidadãos. Os
+que já tinham participado de assembleias, tiveram a oportunidade de socializar
+
+12
+suas experiências com o restante da turma, algumas delas com êxito em suas
+contribuições.
+
+Na disciplina de Orçamento Público, como o SIGA Brasil é um sistema
+de informações sobre orçamento público, que permite acesso amplo e facilitado
+ao SIAFI e a outras bases de dados sobre planos e orçamentos públicos, por
+meio de uma única ferramenta de consulta, ainda pouco conhecida pelos
+alunos, percebeu-se uma certa euforia entre eles, com considerável aumento
+no número de interações apresentando diversos questionamentos levantados a
+partir de dados reais extraídos desse sistema. A busca de informações mais
+detalhadas de como utilizar essa ferramenta de maneira eficiente, afim de
+resultar numa melhor qualidade na pesquisa proposta, também foi relevante.
+
+Apesar disso, constatou-se um baixo número de atividades postadas no
+AVA Moodle, devido às dificuldades encontradas pelos alunos para efetuar
+suas pesquisas e pela falta de experiência do professor da disciplina na
+usabilidade desse sistema, na arte de professorar em EAD e na clareza dos
+objetivos almejados, situação percebida pelos tutores diante das dificuldades
+encontradas no feedback do mesmo para tentar solucionar os questionamentos
+levantados pelos alunos, o que terminou prejudicando na orientação desses.
+
+Considerações finais
+
+As constantes mudanças vivenciadas no mundo atual afastam o
+professor do centro das atenções, modificando consideravelmente seu papel
+com funções muito mais complexas, variadas, exigindo formação inicial e
+continuada mais sintonizadas com a realidade sociocultural dos alunos. Como
+defende Schlemmer (2010), os desafios atuais do professor consistem em
+promover a emancipação digital desenvolvendo metodologias e processos de
+mediação pedagógica capazes de aproveitar as possibilidades que os aparatos
+tecnológicos disponibilizam para os processos de ensino aprendizagem,
+condição que dependerá dos agentes sociais assim como dos interesses dos
+sujeitos envolvidos nesse processo.
+
+13
+O advento das TIC possibilita disponibilizar variadas fontes de
+informação que podem ser utilizadas no ensino da Contabilidade Aplicada ao
+Setor Público, proporcionando ao aluno situações problemas voltadas para
+realidade profissional dos mesmos na busca constante pela construção do
+conhecimento. Nesse contexto, é necessário ter professores capacitados para
+trabalharem com o uso adequado das TIC e saber escolher as melhores
+tecnologias e ferramentas a serem trabalhadas nas aulas.
+
+Após analisar as situações postas nas disciplinas de Contabilidade
+Pública e Orçamento Público, foi possível verificar que, quando as
+metodologias pedagógicas utilizadas são variadas e proporcionam ao aluno
+uma maior proximidade com situações vivenciadas na realidade, o
+envolvimento destes para solucionar o que foi proposto é bem maior, assim
+como o interesse em participar, aumentando significativamente o número de
+interações com questionamentos e reflexões sobre o assunto abordado,
+contribuindo para uma aprendizagem transformadora e significativa. Mas,
+quando o professor não demonstra domínio no uso das ferramentas de estudo
+propostas por ele mesmo e possui inexperiência em professorar sem o
+contexto físico da sala de aula, como constatado na disciplina de Orçamento
+Público, pela transposição dos métodos de ensino presencial para modalidade
+à distância, pela “fuga” do AVA, pelas inúmeras tentativas de comunicação dos
+tutores com o professor responsável pela disciplina e pelos feedbacks,
+orientações e informações recebidas por estes, fica muito mais difícil alcançar
+os objetivos que proporcionam a construção do saber.
+
+Referências
+
+ANTONIO, W. A. A influência das tecnologias da informação e da
+comunicação no curso de licenciatura em pedagogia da UAB/UFAL.
+Disponível em: http://www .seer.ufs.br/index.php/edapeci/article/view/ 663/564.
+Acesso em: 24 set. 2013.
+
+BELLONI, M. L. Educação a distância. Campinas: Autores Associados, 2002.
+BRASIL. Resolução CFC nº. 1.128/08, de 21 de novembro de 2008. Aprova a
+NBC T 16.1 — Conceituação, Objeto e Campo de Aplicação. Diário Oficial [da]
+
+União, Brasília, 25 nov. 2008. Disponível em: http://www.cfc.org.br/sisweb/
+sre/docs/RES 1128.doc. Acesso em: 24 set. 2013.
+
+14
+CUNHA, M. |. Práticas docentes inovadoras: uma abordagem investigada na
+universidade. In: SEMINÁRIO INTERNACIONAL DE PRÁTICAS DOCENTES,
+2., 2005, Santiago. Anais... Santiago, 2005. v. 1.
+
+KIPNIS, B. Educação superior a distância no Brasil: tendências e perspectivas.
+In: LITTO, F.M.; FORMIGA, M. (Org.). Educação a distancia: o estado da
+arte. São Paulo: Pearson Education, 2009, p. 209-214,
+
+MAURI, T.; ONRUBIA,). O professor em ambientes virtuais: perfil, condições e
+competência. In: MONEREO, C.; COLL, C. (Org.). Psicologia da educação
+virtual: aprender e ensinar com as tecnologias da informação e da
+comunicação. Porto Alegre: Artmed, 2010, p.118-135.
+
+MASETTO, M. T. Competências pedagógicas do professor universitário.
+2.ed. São Paulo: Summus, 2012.
+
+MILL, D. Das inovações tecnológicas às inovações pedagógicas:
+considerações sobre o uso de tecnologias na educação a distância. In: ;
+
+PIMENTEL, N. (Org.). Educação a distância: desafios contemporâneos. São
+Carlos: Edufscar, 2010, p. 43-57.
+
+O ; PIMENTEL, N. (Org.). Educação a distância: desafios contempo-
+râneos. São Carlos: Edufscar, 2010.
+
+MORAN,).M. A educação que desejamos: novos desafios e como chegar lá.
+Campinas: Papirus, 2007.
+
+PIAGET, ). Abstração reflexionante: relações lógico-aritméticas e ordem das
+relações espaciais. Porto Alegre: Artes Médicas, 1995.
+
+RAMOS, K. Reconfigurar a profissionalidade docente universitária: um
+olhar sobre as ações de atualização pedagógico-didática. Porto: Universidade
+do Porto, 2010.
+
+SANTOS, R.C. Orçamento público. Brasília: MEC, 2011.
+
+SCHLEMMER, E. Inovações? Tecnologias? na educação. In: MILL, D.;
+PIMENTEL, N. (Org.). Educação a distância: desafios contemporâneos. São
+Carlos: Edufscar, 2010, p. 69-88.
+
+TORI, R. Cursos híbridos ou blended learning. In: LITTO, F.M.; FORMIGA, M.
+(Org.). Educação a distância: o estado da arte. São Paulo: Pearson
+E ducation, 2009, p. 121-128.
+
+TORRES,P.L.; FIALHO F. A. Educação a distância: passado, presente e
+
+futuro. In: LITTO, F. M.; FORMIGA, M. (Org.). Educação a distância: o estado
+da arte. São Paulo: Pearson Education, 2009, p. 456-461.
+
+15
+

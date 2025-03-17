@@ -1,0 +1,1 @@
+[QUESTION]Bases de dados são conjuntos de informações relacionadas entre si, armazenados em sistemas e organizadas de forma a possibilitar sua fácil recuperação. Toda base de dado possui um nome que presenta estas relações. Quais os nomes das bases de dados que são citadas no texto e/ou são utilizadas em alguma análise do texto?[/QUESTION]

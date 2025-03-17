@@ -1,0 +1,1196 @@
+Financiamento da Assistência Farmacêutica no
+
+Sistema Único de Saúde
+
+Financing of Pharmaceutical Services in Brazilian Public
+
+Health System
+
+Fabiola Sulpino Vieira
+
+Doutora em Saúde Coletiva, Especialista em Políticas Públicas e
+Gestão Governamental. Ministério da Saúde.
+
+Endereço: Esplanada dos Ministérios, Bloco G, Anexo B, Sala 452,
+CEP 70058-900, Brasília, DF, Brasil.
+
+E-mail: fabiolasulpinoduol.com.br
+
+Paola Zucchi
+
+Livre Docente do Grupo Interdepartamental de Economia da
+Saúde — EPM — Unifesp.
+
+Rua Botucatu, 685, Vila Clementino, CEP 04023-062, São Paulo,
+SP, Brasil.
+
+E-mail: pzucchidcpes.org.br
+
+Resumo
+
+Objetivos. Descrever e discutir a evolução do finan-
+ciamento da assistência farmacêutica no Sistema
+Único de Saúde - SUS. Métodos. Foram identifica-
+dos os valores alocados para aquisição de medica-
+mentos, para o Programa Farmácia Popular e para
+estruturação de serviços farmacêuticos públicos. Os
+valores referentes ao financiamento da União, por
+meio do Ministério da Saúde, foram obtidos do sis-
+tema Siga Brasile, dos Estados, do Distrito Federal
+e dos municípios, do Sistema de Informações sobre
+Orçamentos Públicos em Saúde - SIOPS. Resulta-
+dos. Entre 2005 e 2009 houve aumento de 65,3%
+nos recursos financeiros da União para aquisição
+de medicamentos. No mesmo período, ampliou-se
+o volume de transferências feitas às esferas sub-
+nacionais. Verificou-se que os Estados e o Distrito
+Federal aumentaram em 112,4% o volume de recursos
+próprios alocados no financiamento de medicamen-
+tos e que para os municípios este crescimento foi de
+22,7%. Em 2008, a participação das despesas com
+medicamentos em relação às despesas com saúde foi
+de 7,8%. O gasto total com medicamentos em 2009
+foi de 8,9 bilhões de reais. Observou-se aumento de
+20,6 vezes no valor alocado no Programa Farmácia
+Popular e, no caso dos recursos destinados à estru-
+turação de serviços, crescimento de 41,6%, chegando
+a 10,1 milhões de reais em 2009. Conclusão: Houve
+ampliação do financiamento de medicamentos no
+SUS entre 2005 e 2009.
+
+Palavras-chave: Financiamento da Saúde; Assistên-
+cia Farmacêutica; Gastos em Saúde; Sistema Único
+de Saúde.
+
+Saúde Soc. São Paulo, v.22, n.1, p.73-84, 2013 73
+Abstract
+
+Objectives. To describe and discuss developments
+in the financing of pharmaceutical services in the
+Brazilian public health system - SUS. Methods.
+The amounts allocated for drug procurement, for
+the Farmácia Popular Program and for structuring
+of public pharmaceutical services were identified.
+The values regarding the financing of the Federal
+government were obtained from the Siga Brasil
+database. Data regarding states, Federal District
+and municipalities were obtained from Information
+System on Public Health Budget - SIOPS. Results.
+Federal funds for drugs purchasing increased by
+65.3% between 2005 and 2009. In the same period,
+the volume of transfers made to the subnational
+levels increased. It was found that the states and
+the Federal District have increased by 112.4% the
+volume of own resources allocated to the financing
+of drugs and for municipalities this growth was
+22.7%. In 2008, the share of drug expenses in rela-
+tion to expenditure on health was 7.8%. The total
+drug spending in 2009 was 8.9 billion reais. There
+was an increase of 20.6 times of the amount alloca-
+ted in the Farmácia Popular Program, and a growth
+of 41.6% in the resources destined to structuring
+services, which reached 10.1 million reais in 2009.
+Conclusion. there was expansion of the funding of
+medicines in SUS between 2005 and 2009.
+Keywords: Financing; Health; Pharmaceutical Servi-
+ces; Health Expenditures; Unified Health System.
+
+74 Saúde Soc. São Paulo, v.22, n.1, p.73-84, 2013
+
+Introdução
+
+Um dos temas mais discutidos nos últimos anos em
+saúde coletiva é o financiamento dos sistemas de
+saúde. O financiamento consiste em um processo
+de arrecadação de recursos monetários destinados
+à execução de um gasto, à realização de um inves-
+timento ou à obtenção de um objetivo específico
+(Brasil, 2009a).
+
+Segundo a Organização Mundial da Saúde - OMS,
+a forma como os sistemas de saúde são financiados
+determina se as pessoas podem obter atenção à
+saúde e se enfrentam dificuldades financeiras como
+resultado da obtenção deste cuidado e, assim, o dese-
+nho e a implementação de um adequado sistema de
+financiamento são essenciais na busca de cobertura
+universal (Carrin e col., 2007; Carrin e col., 2008;
+Evans e col., 2010).
+
+Essa universalidade implica em equidade de
+acesso e proteção do risco financeiro, o que resul-
+ta em grandes demandas para os responsáveis
+pelo financiamento do sistema de saúde (Carrin
+e col., 2007). Não por acaso o financiamento tem
+se apresentado como um dos grandes desafios à
+consolidação de sistemas universais. Em recente
+avaliação do Sistema Único de Saúde - SUS, ainda
+que vários avanços tenham sido ressaltados e repre-
+sentem melhorias nos indicadores de saúde do País,
+o financiamento insuficiente é apontado como fator
+determinante para a infraestrutura inadequada na
+atenção básica e escassez de funcionários nos hos-
+pitais (Jurberg e Humphreys, 2010).
+
+Em relação à assistência farmacêutica, pouco
+se sabe sobre o acesso da população a medicamen-
+tos. Uma vez que se admite o subfinanciamento
+do sistema, também se espera que haja problemas
+quanto à oferta de medicamentos, não só em relação
+à disponibilidade de produtos, mas também quanto
+à racionalidade do uso e gestão dos serviços farma-
+cêuticos. Esses problemas têm sido confirmados por
+alguns estudos realizados nos últimos anos (OPAS,
+2005; Banco Mundial, 2007; Vieira, 2008).
+
+Houve consideráveis avanços nos marcos legais,
+com a publicação da Política Nacional de Medica-
+mentos - PNM em 1998 (Brasil, 2001) e Política
+Nacional de Assistência Farmacêutica - PNAF em
+2004 (Brasil, 2004), as quais estabelecem, em certa
+medida, a visão e a missão para esta área no Brasil. A
+PNM define assistência farmacêutica como um “gru-
+po de atividades relacionadas com o medicamento,
+destinadas a apoiar as ações de saúde demandadas
+por uma comunidade. Envolve o abastecimento de
+medicamentos em todas e em cada uma de suas
+etapas constitutivas, a conservação e controle de
+qualidade, a segurança e a eficácia terapêutica dos
+medicamentos, o acompanhamento e a avaliação
+da utilização, a obtenção e a difusão de informação
+sobre medicamentos e a educação permanente dos
+profissionais de saúde, do paciente e da comunidade
+para assegurar o uso racional de medicamentos”
+(Brasil, 2001).
+
+O financiamento da assistência farmacêutica
+para todas as atividades descritas na PNM, assim
+como financiamento do SUS, é feito pela União, 26
+Estados, o Distrito Federal e 5.564 municípios. A ex-
+tensão da descentralização político-administrativa
+do sistema de saúde revela a complexidade deste
+processo (Vieira, 2010) e a necessidade de análise
+do papel de cada esfera de governo. Neste sentido,
+este artigo tem o objetivo de descrever e discutir a
+evolução do financiamento da assistência farma-
+cêutica no SUS.
+
+Materiais e Métodos
+
+Os dados sobre os valores alocados em assistência
+farmacêutica no SUS foram obtidos de dois sistemas
+de informação, com acesso livre pela Internet, para
+o período de 2005 a 2009: a) Siga Brasil, sob gestão
+do Senado Federal, que disponibiliza o Orçamento da
+União (governo federal); e b) Sistema de Informação
+sobre Orçamentos Públicos em Saúde - SIOPS, sob a
+gestão do Ministério da Saúde, o qual disponibiliza
+dados declarados pelos Estados, Distrito Federal e
+municípios de receitas e despesas com ações e ser-
+viços públicos de saúde.
+
+No caso da União, foram considerados como des-
+pesas com a aquisição de medicamentos os valores
+liquidados nas seguintes ações do orçamento: a)
+6.031 - Imunobiológicos para a Prevenção e Controle
+de Doenças; b) 4.295 - Atenção aos Pacientes Porta-
+dores de Doenças Hematológicas; c) 6.142 - Atenção
+aos Pacientes Portadores de Coagulopatias; d) 20AE
+- Promoção da Assistência Farmacêutica e Insumos
+Estratégicos na Atenção Básica em Saúde; e) 4.368
+- Promoção da Assistência Farmacêutica e Insumos
+para Programas de Saúde Estratégicos; f) 4.370 -
+Atendimento à População com Medicamentos para
+Tratamento dos Portadores de HIV/Aids e Outras Do-
+enças Sexualmente Transmissíveis; g) 4.705 - Apoio
+para Aquisição e Distribuição de Medicamentos
+Excepcionais; e h) 20BA - Prevenção, Preparação
+e Enfrentamento para a Pandemia de Influenza.
+Também foram consultados os valores liquidados
+nas ações 7.660 - Implantação de Farmácias Popu-
+lares e 8.415 - Manutenção e Funcionamento das
+Farmácias Populares, que são despesas realizadas
+como Programa Farmácia Popular. E, ainda, na ação
+0804 e 20AH - Apoio à Estruturação dos Serviços
+de Assistência Farmacêutica na Rede Pública, que
+inclui despesas realizadas com educação continu-
+ada, promoção do uso racional de medicamentos e
+estruturação de serviços.
+
+O levantamento de dados no Siga Brasil foi feito
+por ano para o universo “LOA - Despesa execução”,
+programa, ação, modalidade de aplicação e valores
+liquidados.” Aplicou-se o filtro “Fundo Nacional de
+Saúde”, de forma que somente foram apresentados
+os valores liquidados por programas e ações orça-
+mentárias sob a responsabilidade do Ministério
+da Saúde.
+
+No caso de Estados e do Distrito Federal, os dados
+de despesa liquidada obtidos do SIOPS foram con-
+sultados no sítio eletrônico do sistema, como segue:?
+Estados>Dados informados> Consulta de um ou mais
+códigos contábeis, por categoria econômica, para um
+
+ 
+
+1 Senado Federal. Siga Brasil. Disponível em: http://www9.senado.gov.br/portal/page/portal/orcamento senado. Acesso em: 4 out. 2010.
+
+2 O termo “liquidado” corresponde à fase de execução orçamentária em que a Administração Pública reconhece que o serviço ou produto
+
+foi entregue e, portanto, o compromisso de pagar o fornecedor.
+
+3 Ministério da Saúde. Sistema de Informações em Orçamentos Públicos em Saúde
+
+Consulta realizada em 7 de outubro de 2010
+
+SIOPS. Disponível em: http://siops.datasus.gov.br/.
+
+Saúde Soc. São Paulo, v.22, n.1, p.73-84, 2013 75
+estado, por ano ou por série histórica>Ano = (selecio-
+nar), Período = Anual, UF = Consolidar todas as UFs,*
+Tipo = Despesa, Pasta = Despesa Administração Dire-
+ta- Saúde e Despesa Administração Indireta - Saúde,
+Fase = Despesa Liquidada, Classificação Contábil =
+3.3.3.90.30.00.01 € 3.3.3.90.30.09.00 - Aplicações
+diretas medicamentos, 3.3.3.40.00.00.01 - Transfe-
+rência a municípios e 3.3.3.90.32.03.01 - Aplicações
+diretas materiais de distribuição gratuita (medi-
+camentos). Consideraram-se recursos financeiros
+próprios dos Estados e do Distrito Federalos valores
+alocados sem as transferências, ou seja, a somatória
+dos valores liquidados nas classificações contábeis
+descritas menos o valor transferido pela União e o
+valor transferido pelos municípios.
+
+No caso dos municípios, o caminho utilizado
+para a busca no SIOPS foi: Municípios>Dados infor-
+mados> Consulta de um ou mais códigos contábeis,
+por categoria econômica, para um muncípio, por ano
+ou por série histórica>Ano = (selecionar)>Período =
+Anual>UF = Consolidar todas as UFs, Tipo = Despesa,
+Pasta= Despesa Administração Direta - Saúde e Des-
+pesa Administração Indireta - Saúde, Fase = Despesa
+Liquidada, Classificação Contábil = 3.3.3.90.30.00.01
+e 3.3.3.90.30.09.00 - Aplicações diretas medica-
+mentos, 3.3.3.90.32.03.01 - Aplicações diretas ma-
+teriais de distribuição gratuita (medicamentos),
+3.3.3.30.00.00.01 - Transferência a estados e ao
+Distrito Federal e 3.3.3.40.00.00.01 - Transferência
+a municípios. Consideraram-se recursos financeiros
+próprios dos municípios os valores alocados sem
+as transferências, ou seja, a somatória dos valores
+liquidados nas classificações contábeis descritas
+menos o valor transferido pela União e o valor trans-
+ferido pelos Estados.
+
+Asituação de regularização de Estados, do Distri-
+to Federale dos municípios quanto à transmissão de
+dados sobre receitas e despesas com ações e serviços
+públicos de saúde, por meio do SIOPS, foi verificada
+a fim de se conhecer o universo de entes federados
+para os quais está se considerando o montante de
+recursos alocados.
+
+Para viabilizar comparações quanto aos valores
+alocados (total, em aplicações diretas e transferên-
+cias), no período de 2005 a 2009, eliminando-se
+o efeito da inflação, os valores liquidados foram
+deflacionados para 2009 pelo Índice de Preços ao
+Consumidor Amplo - IPCA, obtido para cada ano no
+sítio eletrônico do Instituto de Pesquisa Econômica
+Aplicada - IPEA
+
+Foi feita análise exploratória dos dados, elabo-
+rando-se tabelas e figuras.
+
+Resultados
+
+Entre 2005 e 2009, houve aumento de 65,3% nos
+recursos financeiros alocados pela União, por meio
+do Ministério da Saúde, para a aquisição de medi-
+camentos no SUS, passando de 3,4 bilhões de reais
+constantes de 2009 para 5,7 bilhões de reais neste
+último ano.
+
+No mesmo período, houve aumento do volume
+de transferências feitas às esferas subnacionais. As
+transferências de recursos financeiros a Estados e
+ao Distrito Federaltinham participação de 40,6% do
+montante de recursos da União em 2005 e passaram
+a participar em 45,3% em 2009. Veja tabela.
+
+No caso dos municípios, as transferências fe-
+derais constituíam 4,5% dos recursos alocados em
+medicamentos pela União em 2005, passando a 11,3%
+em 2009. Ao mesmo tempo, observa-se redução da
+participação das aplicações diretas no orçamento
+do Ministério da Saúde, de 50,2% para 41,8%, con-
+forme tabela.
+
+Para analisar a alocação de recursos financeiros
+pelos Estados, Distrito Federal e municípios, impor-
+tante se faz verificar a situação de regularização
+destes entes federados quanto à transmissão de
+dados de receitas e despesas com ações e serviços
+públicos de saúde por meio do SIOPS. A tabela 2 re-
+sume a situação de transmissão de dados e, portanto,
+estão sendo considerados neste trabalho os valores
+alocados em medicamentos para o total de Estados
+e municípios regularizados.
+
+ 
+
+4 UF significa unidade federativa.
+
+5 Instituto de Pesquisa Econômica Aplicada - IPEA. Ipeadata (http:
+
+www.ipeadata.gov.br)>Macroeconômico >Séries mais usadas>Inflação IPCA
+
+Anual>Operar>Operações = Nenhuma, Início = 2005, Fim = 2009, Nova periodicidade = Anual, Método = Fim de período, Nova base = 2009.
+
+76 Saúde Soc. São Paulo, v.22, n.1, p.73-84, 2013
+Tabela | - Valores liquidados do Orçamento da União, por modalidade de aplicação, em ações que financiam
+
+a aquisição de medicamentos. Brasil, 2005 - 2009
+
+Modalidades de aplicação
+
+R$ constantes de 2009
+
+2007
+
+ 
+
+Transferências a estados e ao
+Distrito Federal
+
+1.387.390.058,19
+
+2.03h.129.159,35
+
+2.036.988.199,71 2.251.258.231,98 2.560.249.045,59
+
+Transferências a municípios 154.695.697,09 403.856.766,21 554.298.841,12 635.594.008,74 640.107.375,73
+Transferências a instituições 119.028.413,61 7.507.040,14 14.297.183,56 23.652.715,82 2h4.770.062,92
+privadas sem fins lucrativos
+
+Transferências ao exterior 41.607.195,68 69.253.601,76 160.7614.322,53 164.964.406,20 66.425.6614,27
+Aplicações diretas 1.716.594.105,76 1.918.849.345,96 2.136.319.858,86 2.106.811.181,15 2.360.114.976,95
+Aplicações diretas - = 1.291.506,34 1.755.318,98 241.330,89 118,12
+
+operações internas
+
+ 
+
+Total 3.419.315.470,33
+
+4-43h.890.419,78
+
+4904.423.724,75 5.182.521.874,77  5.651.967.243,58
+
+ 
+
+Elaboração própria com base em dados do Orçamento da União, obtidos do sistema Siga Brasil do Senado Federal.
+
+Tabela 2 - Situação de transmissão de dados sobre receitas e despesas com ações e serviços públicos de saúde.
+
+Brasil, 2005 - 2009
+
+Municípios
+
+Estados e Distrito Federal
+
+ 
+
+Regularizados
+
+2005 5.562 5.558 99,9
+2006 5.562 5.556 99,9
+2007 5.562 5.548 99,7
+2008 5.562 5.528 99h
+2009 5.563 5h 97,9
+
+% de Regularizados
+
+Ei Regularizados  % de Regularizados
+27 27 100,0
+27 27 100,0
+27 27 100,0
+27 27 100,0
+27 25 92,3
+
+ 
+
+Elaboração própria com base em dados do Sistema de Informações sobre Orçamentos Públicos em Saúde - SIOPS. Levantamento realizado em 7/10/2010.
+
+Observa-se que quase a totalidade dos municí-
+pios transmitiu dados até 2008 (mais de 99%) e que
+em 2009, até a data do levantamento, contava-se
+com transmissão de 97,9% deles. No caso de Esta-
+dos e do Distrito Federal, 100% estão regularizados
+até 2008, faltando a transmissão de dados de dois
+Estados em 2009.
+
+A partir dos dados transmitidos, ou seja, de-
+clarados pelos Estados e pelo Distrito Federal, e
+considerando-se os valores liquidados pela União
+em transferências para a esfera estadual, bem como
+os valores declarados pelos municípios, por meio
+do SIOPS, relativos às transferências realizadas
+também para os Estados, calcularam-se os recursos
+
+financeiros próprios destes, alocados para a aquisi-
+ção de medicamentos, conforme quadro.
+Observa-se ainda no quadro 1 que, entre 2005 e
+2009, os Estados e o Distrito Federal aumentaram
+em 112,4% o volume de recursos próprios alocados
+no financiamento da aquisição de medicamentos,
+passando de 773,7 milhões de reais constantes de
+2009 para 1,6 bilhões de reais neste último ano.
+Quanto às transferências feitas pelos Estados aos
+municípios, houve considerável aumento de 2005 a
+2006 ea partir daí redução dos valores transferidos,
+de forma que o valor transferido em 2009 foi 22,7%
+menor que em 2005. Por outro lado, no mesmo perío-
+do, verifica-se ampliação das transferências que os
+
+Saúde Soc. São Paulo, v.22, n.1, p.73-84, 2013 77
+Quadro | - Recursos dos estados e do Distrito Federal alocados no financiamento da aquisição de medicamentos.
+Brasil, 2005 - 2009
+
+   
+    
+
+R$ constantes de 2009
+
+Descrição
+2005 2006 2007 2008
+
+Despesas totais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Aplicações diretas 2.151.777.264,56 | 2.783.280.778,87 3.113.235.735,18 | 4.064.722.999,50 | 4.203.900.409,71
+Transferência a municípios 12.254.548,45 52.611.785,64 46.642.101,36 20.133.880,89 9.477.450,34
+Total 2.164.031.813,01 | 2.835.892.564,52 | 3.159.877.836,54 | 4.084.856.880,39 | 4.213.377.860,05
+Receitas de transferência
+
+Recursos federais recebidos 1.387.390.058,19 2.034.129.159,35 2.036.988.199,71 2.251.258.231,98 | 2.560.249.045,59
+Recursos municipais recebidos 2.853.291,80 3.711.434,50 3.684.660,08 6.976.733,78 9.475.216,05
+Total 1.390.2143.349,99 | 2.037.840.593,85 | 2.040.672.859,79 | 2.258.234.965,76 | 2.569.724.261,64
+
+ 
+
+Financiamento próprio (sem as receitas de transferência)
+
+ 
+
+Recursos dos próprios estados
+
+e Distrito Federal excluindo as 773.788.463,01 798.051.970,66 1.119.204.976,75 1.826.621.914,63 1.643.653.598,41
+transferências recebidas
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Elaboração própria com base em dados do Sistema de Informações sobre Orçamentos Públicos em Saúde - SIOPS. Levantamento realizado em 7/10/2010.
+
+municípios fizeram para os Estados, de 2,8 milhões alocação de recursos próprios para o financiamen-
+
+de reais constantes de 2009 para 9,5 milhões neste to da aquisição de medicamentos aumentou de 1,3
+
+ano, significando aumento de 232,1%. As aplicações bilhões de reais constantes de 2009 para 1,6 bilhões
+
+diretas ampliaram-se em 95,4%. de reais neste ano, ou seja, aumento de 22,7%, con-
+Em relação aos municípios, de 2005 a 2009, a forme figura 2.
+
+Quadro 2 - Recursos municipais alocados no financiamento da aquisição de medicamentos. Brasil, 2005 - 2009
+
+   
+    
+
+R$ constantes de 2009
+
+Descrição
+2005 2006 2007 2008
+
+Despesas totais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Aplicações diretas 1.500.117.295,37 1.641.775.313,64 1.593.363.987,24 2.442.346.961,71 2.270.217.700,46
+Transferência a estados 2.853.291,80 3.711.434,50 3.684.660,08 6.976.733,78 9.475.216,05
+Transferência a municípios 1.087.128,77 561.834,59 1.492.012,64 2.536.208,93 10.885.785,23
+Total 1.504.057.715,95 | 1.646.048.582,73 | 1.598.540.659,96 | 2.451.859.904,43 | 2.290.578.701,74
+Receitas de transferência
+
+Recursos federais recebidos 154.695.697,09 403.856.766,21 554.298.841,12 635.594.008,74 640.407.375,73
+Recursos estaduais recebidos 12.254.548,45 52.611.785,64 46.642.101,36 20.133.880,89 9.477.450,34
+Total 166.950.245,54 456.468.551,86 600.940.942,48 655.727.889,63 6149.884.826,07
+
+ 
+
+Financiamento próprio (sem as receitas de transferência)
+
+ 
+
+Recursos dos próprios
+
+municípios excluindo as 1.337.107.470,41 1.189.580.030,88 997.599.717,48 1.796.132.014,80 1.640.693.875,67
+transferências recebidas
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Elaboração própria com base em dados do Sistema de Informações sobre Orçamentos Públicos em Saúde - SIOPS. Levantamento realizado em 7/10/2010.
+
+78 Saúde Soc. São Paulo, v.22, n.1, p.73-84, 2013
+Observa-se ainda que os municípios também au-
+mentaram o montante de recursos transferidos a ou-
+tros municípios para financiamento da aquisição de
+medicamentos, no período de 2005 a 2009, passando
+de 1 milhão de reais constantes de 2009 para 10,9
+
+milhões de reais, ou seja, crescimento de 901,3%. As
+aplicações diretas ampliaram-se em 51,3%.
+Atabela 3 apresenta em resumo o montante de re-
+cursos próprios alocados pelas três esferas de governo
+para o financiamento da aquisição de medicamentos.
+
+Tabela 3 - Valores liquidados pelas três esferas de governo em ações que financiam a aquisição de medica-
+
+mentos. Brasil, 2005 - 2009
+
+Esfera Administrativa
+
+R$ constantes de 2009
+
+2007
+
+ 
+
+União 3.419.315.470,33
+
+4.43h4.890.419,78
+
+4.904.423.72h4,75 5.182.521.874,77 | 5.651.967.243,58
+
+ 
+
+Estados e Distrito Federal 773.788.1463,01 798.051.970,66 1.119.204.976,75 1.826.621.914,63 1.643.653.598,41
+Municípios 1.337.107.470,41 1.189.580.030,88 997.599.717,48 1.796.132.014,80 1.640.693.875,67
+Total 5.530.211.403,76 6.422.522.1421,32 7.021.228.418,98  8.805.275.804,20 8.936.314.717,66
+
+ 
+
+Elaboração própria com base em dados do Orçamento da União, obtidos do sistema Siga Brasil do Senado Federal, e Sistema de Informação sobre Orçamentos Públicos
+
+em Saúde - SIOPS.
+
+Verifica-se que a participação da União no finan-
+ciamento da aquisição de medicamentos se manteve
+praticamente constante entre 2005 e 2009, pas-
+sando de 61,8 para 63,2%. Ao mesmo tempo em que
+houve aumento da participação estadual, de 14 para
+18,4%, e diminuição da participação municipalnesse
+período, de 24,2 para 18,4%. No total, houve aumento
+de 61,6% no montante de recursos financeiros do
+SUS para a aquisição de medicamentos.
+
+Em 2008, ano para o qual já se dispõe de dados
+consolidados de gasto com saúde, as despesas com
+ações e serviços públicos de saúde no SUS foram
+de 108,8 bilhões de reais correntes e as despesas
+das três esferas com medicamentos foram de 8,4
+bilhões de reais correntes, o que corresponde a uma
+participação de 7,8%.
+
+Em relação ao Programa Farmácia Popular, entre
+2005 e 2009 houve aumento de 20,6 vezes no valor
+alocado pelo Ministério da Saúde, passando de 21,2
+milhões de reais de 2009 para 437,8 milhões de
+reais neste ano. No caso dos recursos destinados à
+
+estruturação de serviços farmacêuticos públicos,
+o crescimento foi mais modesto. Aumentaram em
+41,6% passando de 7,1 milhões de reais constantes de
+2009 em 2005 para 10,1 milhões de reais em 2009.
+
+Discussão
+
+No SUS, assim como em vários países, tem-se obser-
+vado crescimento do gasto com medicamentos. Nes-
+tetrabalho, verificou-se que entre 2005 e 2009 houve
+aumento de 65,3% no volume de recursos financeiros
+alocados pela União para a aquisição de medica-
+mentos.” Essa tendência já tinha sido observada em
+estudo que analisou o gasto do Ministério da Saúde
+com os programas de assistência farmacêutica para
+o período de 2002 a 2007, identificando que o gasto
+de 2007 foi 3,2 vezes o de 2002 (Vieira, 2009).
+Parte deste aumento é explicada pelas despesas
+para enfrentamento da pandemia de influenza, em
+2009, ano em que foram alocados 542,9 milhões de
+reais em assistência farmacêutica, mas também
+
+ 
+
+6 O valor total das despesas com ações e serviços públicos de saúde no SUS foi obtido a partir da soma das despesas federal, estadual e
+municipal para 2008, publicadas no seguinte folheto: Brasil, Ministério da Saúde, Sistema de Informações sobre Orçamentos Públicos
+em Saúde - SIOPS. Visibilidade dos gastos públicos em saúde. Disponível em: http://siops.datasus.gov.br/Documentacao/VisGastosPú-
+blicosSaúde.pdf. Acesso em: 11 de outubro de 2010.
+
+7 Todos os valores foram transformados para reais constantes de 2009, aplicando-se o Índice de Preço ao Consumidor Amplo - IPCA, a fim
+de eliminar o efeito da inflação e possibilitar comparações no período estudado.
+
+Saúde Soc. São Paulo, v.22, n.1, p.73-84, 2013 79
+é provável que este aumento esteja relacionado à
+ampliação da oferta, considerando que evidências
+recentes sugerem que alguns programas da assis-
+tência farmacêutica sob a responsabilidade do Mi-
+nistério da Saúde têm obtido ganhos de eficiência
+não desprezíveis (Aurea e col., 2010).
+
+O aumento das transferências aos Estados, ao
+Distrito Federal e aos municípios está em consonân-
+cia coma política de descentralização da assistência
+farmacêutica, mais fortemente observada no SUS
+a partir de 2005, quando o Ministério da Saúde
+ampliou a transferência de recursos, especialmente
+para os municípios, para o financiamento de medica-
+mentos utilizados na atenção básica (Brasil, 2005).
+Isso explica o aumento do montante de recursos
+transferidos à esfera municipal pelo Ministério da
+Saúde, que foi de 314% entre 2005 e 2009, bem como
+a redução da participação das aplicações diretas no
+orçamento do órgão (de 50,2% em 2005 para 41,8%
+em 2009). O Ministério da Saúde deixou de adqui-
+rir de forma centralizada muitos medicamentos
+utilizados na atenção básica e passou a repassar
+os recursos aos Estados, ao Distrito Federal e, em
+particular, aos municípios, para que estes comprem
+os produtos farmacêuticos.
+
+Em relação às transferências da União para
+os Estados e Distrito Federal, também se observa
+crescimento, mas com impacto mais reduzido. A
+participação no orçamento do Ministério da Saúde
+variou de 40,6% em 2005 para 45,3% em 2009. Na
+prática o que ocorre é um processo inverso àquele da
+aquisição de medicamentos para a atenção básica.
+A principal responsabilidade dos Estados consiste
+no cofinanciamento e gerenciamento da aquisição
+e dispensação de medicamentos do Componente
+Especializado da Assistência Farmacêutica (Vieira,
+2010). Neste mesmo período, o que se verifica é que o
+Ministério da Saúde passou a centralizar a aquisição
+de alguns medicamentos, pois também é partícipe
+no financiamento (Brasil, 2006; 2009a).
+
+O gasto do Ministério da Saúde com o programa
+ao qual esses medicamentos fazem parte aumentou
+em 252% no período de 2003 a 2007 (Vieira, 2010).
+
+Portanto, a centralização federal de compra de
+alguns itens foi motivada por questões econômi-
+cas, uma vez que os medicamentos que tiveram a
+aquisição centralizada têm preço unitário elevado
+e no geral apenas um fabricante no País. A compra
+centralizada aumenta a escala e possibilita maior
+margem para a negociação de preços (Chalkidou e
+col., 2010).
+
+No que se refere à alocação de recursos financei-
+ros para a aquisição de medicamentos pelos Estados,
+Distrito Federal e municípios, primeiro é preciso
+esclarecer que a transmissão de dados de receitas
+e despesas com ações e serviços públicos de saúde,
+por meio do SIOPS, é de natureza declaratória e não
+obrigatória, ainda que alguns constrangimentos
+legais tenham sido criados, os quais acabam por
+incentivar a alimentação do sistema pelos entes
+federados.º O prazo pactuado para transmissão dos
+dados de um exercício financeiro é até 30 de abril
+do ano seguinte. Dessa forma, como se verificou na
+tabela 2 para 2009, 119 municípios e 2 Estados não
+alimentaram o sistema até a data do levantamento
+de dados. A maior implicação deste fato é que se
+deixa de contabilizar os recursos alocados por estes
+entes federados e, portanto, os valores liquidados
+são maiores que os apresentados neste trabalho,
+ainda que se avalie que o impacto das diferenças
+não seja tão grande. De todo modo, os Estados, o
+Distrito Federal e os municípios poderão, a qualquer
+tempo, transmitir ou corrigir os dados relativos a um
+exercício financeiro, por isso, grande atenção deve
+ser dada à data em que o levantamento foi feito no
+SIOPS, pois as comparações de valores podem ser
+difíceis em buscas feitas em momentos distintos,
+devido à natureza e operação do próprio sistema.
+
+Quanto ao financiamento da aquisição de me-
+dicamentos, verifica-se que os Estados e o Distrito
+Federal ampliaram os recursos próprios em 112%,
+constituindo a esfera administrativa que mais au-
+mentou o aporte de recursos financeiros em termos
+percentuais entre 2005 e 2009. Observa-se que sua
+aplicação direta em medicamentos, ou seja, compra
+pelo próprio ente federado, aumentou em 95,4% no
+
+ 
+
+8 Mais informações sobre o Sistema de Informações sobre Orçamentos Públicos em Saúde
+
+http://siops.datasus.gov.br/siops.php. Acesso em: 17 abr. 2011.
+
+8o Saúde Soc. São Paulo, v.22, n.1, p.73-84, 2013
+
+SIOPS podem ser obtidas no sítio eletrônico:
+período, sendo que a transferência aos municípios
+reduziu em 22,7% e a transferência recebida de mu-
+nicípios cresceu em 232%. É provável que tenham
+contribuído para esta situação tanto a ampliação da
+demanda, quanto modificações quali-quantitativas
+na relação de medicamentos do Componente Espe-
+cializado da Assistência Farmacêutica como, por
+exemplo, a incorporação de medicamentos e de
+valor agregado mais elevado. Além disso, no que
+se refere ao contexto relativo às transferências, a
+hipótese mais provável para explicá-lo encontra-se
+na execução do Componente Básico da Assistência
+Farmacêutica (Brasil, 2010).
+
+Este componente é gerenciado em sua maioria
+pelos municípios, mas é financiado pelas três esfe-
+ras de governo, podendo ocorrer a pactuação entre
+Estados e municípios para que os primeiros execu-
+tem os recursos, seja pela produção de medicamen-
+tos em laboratórios farmacêuticos públicos, como
+ocorre nos Estados de São Paulo e Minas Gerais,
+seja por mecanismos de associação para a aquisição,
+como no estabelecimento de consórcios no Estado
+do Paraná (Cosendey e col., 2000).
+
+Quanto ao financiamento por parte dos municí-
+pios, a alocação de recursos próprios para a aquisi-
+ção de medicamentos foi a que menos cresceu entre
+2005 € 2009 (22,7%). De maior impacto foi o aumento
+das transferências para outros municípios (901%) e
+para os Estados (232%). As aplicações diretas cresce-
+ram em 51,3%. Tem-se, assim, evidência de que neste
+período houve maior protagonismo dos Estados na
+execução do Componente Básico da Assistência
+Farmacêutica e que mais arranjos intermunicipais
+estão sendo feitos para viabilizar as compras de me-
+dicamentos. Esta situação mostra-se interessante do
+ponto de vista da eficiência do uso dos recursos, uma
+vez que mais de 70% dos municípios brasileiros têm
+menos de 20 mil habitantes, os quais possuem baixo
+poder econômico, em virtude de pequena escala de
+compra de medicamentos.
+
+No que se refere ao financiamento global do
+SUS para a aquisição de medicamentos (tabela 3),
+é importante ressaltar que os valores apresentados
+
+não incluem despesas financiadas pelo Ministério
+da Saúde por meio de procedimentos na atenção
+hospitalar e quimioterapia, porque o financiamento
+é feito para um conjunto de atividades, incluindo os
+medicamentos, o que dificulta a discriminação dos
+valores que possam ser atribuíveis apenas a esses
+produtos.
+
+Ainda assim, observa-se aumento global de 61,6%
+nos recursos do SUS entre 2005 e 2009 para a compra
+de medicamentos. Trabalho recente do Grupo Execu-
+tivo de Contas Nacionais em Saúde, que emprega o
+conceito de consumo final para medicamentos, ou
+seja, medicamentos que não são usados no âmbito
+de instituições de saúde, demonstrou aumento real
+de 27% no consumo final da Administração Pública
+entre 2005 e 2007 (IBGE, 2009).
+
+Este aumento do gasto do SUS para a aquisição
+de medicamentos está em consonância com a ten-
+dência de aumento observada em vários países. Por
+exemplo, no Canadá, o gasto per capita com sólidos
+orais sob prescrição aumentou à taxa de10% ao ano
+na maioria das províncias no período de1998a 2004,
+mais rápido do que o crescimento econômico do
+mesmo período (Morgan, 2005). Nos EUA o gasto com
+medicamentos sob prescrição em 2007 aumentou
+em 4,9% em relação a 2006 e chegou a 227,5 bilhões
+de dólares (Hartman e col., 2009). No México, o gasto
+total com medicamentos em 2007 chegou a 21% do
+gasto total em saúde (Moise, 2008).
+
+No Brasil, ainda que se tenha observado aumento
+do gasto com medicamentos no SUS de 2005 a 2009,
+a participação em relação ao gasto total com ações
+e serviços públicos de saúde ainda parece aquém
+da necessidade (7,8% em 2008). Dados da Pesquisa
+Nacional por Amostra de Domicílios - PNAD em
+2008 demonstram que 48,9% dos entrevistados
+que precisaram de medicamentos na última vez,
+não obtiveram nenhum deles gratuitamente.” Além
+disso, em 2007, de acordo com a conta-satélite de
+saúde, as famílias financiaram 90% do consumo
+final de medicamentos enquanto a Administração
+Pública participou com aproximadamente 10%
+(IBGE, 2009).
+
+ 
+
+9 Dados da PNAD podem ser obtidos no sítio eletrônico do Instituto Brasileiro de Geografia e Estatística
+
+IBGE (http://www ibge.gov.br). O
+
+caminho é: População>PNAD>Suplementos>PNAD 2008 - Um panorama da saúde no Brasil>Microdados>Dados. Acesso em: 11 de outubro
+
+de 2010.
+
+Saúde Soc. São Paulo, v.22, n.1, p.73-84, 2013 81
+Essa ampla diferença pode ser explicada pelo fato
+de que, na Administração Pública, os medicamentos
+são dispensados apenas mediante apresentação de
+prescrição médica; os preços pagos pelos produtos
+são geralmente menores que aqueles pagos pelos
+consumidores e mesmo pelas instituições privadas;
+a Administração Pública seleciona os medicamentos
+que são oferecidos, promovendo o seu uso racional;
+mas também é certo que há subfinanciamento do
+setor público de saúde.
+
+Para se comparar o percentual alocado no finan-
+ciamento de medicamentos no SUS ao de outros paí-
+ses, considerando-se que em 2009 o Banco Mundial
+divulgou o PIB do Brasil por paridade do poder de
+compra (PPP) no valor de 2 bilhões de dólares inter-
+nacionais (World Bank, 2010) e que a fonte oficial
+para o PIB brasileiro é o IBGE, calculando-o para
+2009 em 3,1 bilhões de reais,'º tem-se que 1 dólar
+internacional corresponde neste ano a 1,56 reais.
+Neste caso, o valor total alocado para a aquisição
+de medicamentos no SUS (8,9 bilhões de reais) é
+equivalente a 5,7 bilhões de dólares internacionais e
+ao gasto per capita de 29,92 dólares internacionais.”
+Este valor está muito abaixo do valor alocado pelo
+Canadá, 754 dólares internacionais, e Itália, 528
+dólares internacionais per capita para o mesmo
+ano, ainda que se considere que nestes países está
+incluído o gasto privado (OECD, 2013).
+
+Quanto ao Programa Farmácia Popular, os da-
+dos revelaram grande ampliação da alocação de
+recursos. É importante frisar que pelo orçamento
+da União não é possível discriminar os recursos que
+se referem ao apoio aos Estados e municípios para
+manutenção das farmácias e os recursos aplicados
+como subsídio na compra de medicamentos pela po-
+pulação em drogarias privadas credenciadas ao pro-
+grama. O que se supõe é que os recursos financeiros
+destinados ao subsídio constituam a maior parcela
+do montante alocado no programa, considerando
+que houve grande ampliação do credenciamento de
+drogarias privadas nos últimos anos (Brasil, 2011).
+
+Quanto aos recursos alocados pelo Ministério da
+
+Saúde para a gestão da assistência farmacêutica,
+observa-se que em 2009 constituíram apenas 0,18%
+dos recursos destinados à aquisição de medicamen-
+tos (apenas 10 milhões de reais). Ainda que não se
+saiba se e quanto os Estados, o Distrito Federale os
+municípios alocam para esta finalidade, constata-
+se a insuficiência dos recursos financeiros para a
+melhoria da gestão, na medida em que problemas
+sérios existem, provocando inclusive a perda de
+medicamentos e comprometimento do acesso (Or-
+ganização Pan-Americana da Saúde, 2005; Banco
+Mundial, 2007; Vieira, 2008).
+
+Segundo Tobar (2008), as estratégias de oferta
+de medicamentos que melhor funcionam são aque-
+las que conseguem universalizar o acesso a bens
+e serviços, ao mesmo tempo contendo os custos e
+melhorando a eficiência na alocação de recursos.
+
+Há um grande caminho a ser percorrido pelo
+Brasil para garantia de acesso a medicamentos com
+uso racional, mas é certo que avanços já ocorreram.
+Faz-se necessário despender mais esforços com
+a finalidade de melhorar a gestão da assistência
+farmacêutica, a fim de garantir o uso eficiente dos
+recursos alocados para a aquisição de medicamentos
+e a sustentabilidade do SUS.
+
+Referências
+
+AUREA, A. P. et al. Compras federais de
+medicamentos da assistência farmacêutica:
+evidências recentes. Radar, Brasília, DF, n. 9, p. 12-
+18, ago. 2010. Disponível em: <http://www.ipea.gov.
+br/portal/images/stories/PDFs/100826 radarog.
+pdf>. Acesso em: 2 mar. 2013.
+
+BANCO MUNDIAL. Governança no Sistema Único
+de Saúde (SUS) do Brasil: melhorando a
+qualidade do gasto público e gestão de recursos.
+Washington, DC, 2007. Disponível em: <http://
+www-wds.worldbank.org/external/default/WDS
+ContentServer/WDSP/1B/2007/07/18/000090
+341 20070718142655/Rendered/PDF/3660110
+portuguese.pdf>. Acesso em: 2 mar. 2013.
+
+ 
+
+10 Instituto Brasileiro de Geografia e Estatística - IBGE (http://www ibge.gov.br). O valor anual do PIB pode ser obtido em: Indicadores>Contas
+
+Nacionais Trimestrais>Tabelas Completas (em formato zip). Acesso em: 11 de outubro de 2010
+
+w População brasileira estimada em 191.446.848 habitantes para 10 de julho de 2009 pelo IBGE.
+
+82 Saúde Soc. São Paulo, v.22, n.1, p.73-84, 2013
+BRASIL. Ministério da Saúde. Política nacional
+de medicamentos. Brasília, DF, 2001. Disponível
+em: <http://bvsms.saude.gov.br/bvs/publicacoes/
+politica medicamentos.pdf>. Acesso em: 2 mar.
+2013.
+
+BRASIL. Conselho Nacional de Saúde. Resolução
+nº 338, de 6 de maio de 2004. Aprova a política
+nacional de assistência farmacêutica. Diário
+Oficial da União, Brasília, DF, 20 maio 2004. Seção
+1, p. 52. Disponível em: <http://bvsms.saude.gov.
+br/bvs/saudelegis/cns/2004/reso338 06 05 2004.
+html >. Acesso em: 2 mar. 2013.
+
+BRASIL. Ministério da Saúde. Portaria nº 2.084,
+de 28 de outubro de 2005. Estabelece normas,
+responsabilidades e recursos a serem aplicados
+no financiamento da assistência farmacêutica
+na atenção Básica e define o Elenco Mínimo
+Obrigatório de Medicamentos. Diário Oficial
+
+da União, Brasília, DF, 28 out. 2005. Seção1, p.
+71. Disponível em: <http://dtrz001.saude.gov.br/
+sas/PORTARIAS/Portz005/GM/GM-2084.htm>.
+Acesso em: 2 mar. 2013.
+
+BRASIL. Ministério da Saúde. Portaria nº 2.577,
+de 27 de outubro de 2006. Aprova o Componente
+de Medicamentos de Dispensação Excepcional.
+Diário Oficial da União, Brasília, DF, 30 out.
+2006. Seção1, p. 147. Disponível em: <http://
+bvsms.saude.gov.br/bvs/saudelegis/gm/2006/
+prt2577.27.10 2006.html>. Acesso em: 2 mar.
+2013.
+
+BRASIL. Ministério da Saúde. Farmácia popular
+do Brasil. Brasília, DF, 2013. Disponível em:
+<http://portal.saude.gov.br/portal/saude/
+visualizar texto.cfm?idtxt=30269>. Acesso em: 2
+mar. 2013.
+
+BRASIL. Ministério da Saúde. Glossário
+temático: economia da saúde. Brasília, DF, 2009a.
+Disponível em: <http://bvsms.saude.gov.br/bvs/
+publicacoes/glossario ecos2.pdf>. Acesso em: 2
+mar. 2013.
+
+BRASIL. Ministério da Saúde. Portaria nº 2.981, de
+26 de novembro de 2009b. Aprova o Componente
+Especializado da Assistência Farmacêutica. Diário
+Oficial da União, Brasília, DF,1 dez. 2009. Seção1,
+p. 71. Disponível em: <http://bvsms.saude.gov.br/
+bvs/saudelegis/gm/2009/prt2981 26 11 2009 rep.
+html>. Acesso em: 2 mar. 2013.
+
+BRASIL. Ministério da Saúde. Portaria nº 4.217,
+de 28 de dezembro de 2010. Aprova as normas de
+financiamento e execução do Componente Básico
+da Assistência Farmacêutica. Diário Oficial da
+União, Brasília, DF, 29 dez. 2010. Seção 1, p. 72.
+Disponível em: <http://bvsms.saude.gov.br/bvs/
+saudelegis/gm/2010/prt4217 28 12 2010.html>.
+Acesso em: 2 mar. 2013.
+
+CARRIN, G.; EVANS, D.; XU, K. Designing health
+financing policy towards universal coverage.
+Bulletin of the World Health Organization, Geneva,
+v. 85,n.9, p. 652, 2007. Disponível em: <http://
+www.who.int/bulletin/volumes/85/9/07-046664.
+pdf>. Acesso em: 2 mar. 2013.
+
+CARRIN, G. et al. Universal coverage of health
+services: tailoring its implementation. Bulletin of
+the World Health Organization, Geneva, v. 86, n.
+11, p. 857-863, 2008. Disponível em: <http://www.
+scielosp.org/pdf/bwho/v86n11/a15v8611.pdf>.
+Acesso em: 2 mar. 2013.
+
+CHALKIDOU, K.; ANDERSON, G. F.; FADEN,
+
+R. Eliminating drug price differentials across
+government programmes in the USA. Health
+Economica, Policy and Law, Cambridge, v. 4, p.
+1-22, Feb. 2010.
+
+COSENDEY,M.A. E. et al. Assistência
+farmacêutica na atenção básica de saúde: a
+experiência de três estados brasileiros. Cadernos
+de Saúde Pública, Rio de Janeiro, v. 16, n.1, p. 171-
+182, 2000. Disponível em: <http://www.scielo.br/
+pdf/csp/v16n1/1576.pdf>. Acesso em: 2 mar. 2013.
+
+EVANS, D. B.; ETIENNE, C. Health systems
+financing and the path to universal coverage.
+Bulletin of the World Health Organization,
+Geneva, v. 88, n. 6, p. 402, 2010. Disponível em:
+<http://www.scielosp.org/pdf/bwho/v88n6/02.
+pdf>. Acesso em: 2 mar. 2013.
+
+Saúde Soc. São Paulo, v.22, n.1, p.73-84, 2013 83
+HARTMAN, M. et al. National health spending in
+2007: slower drug spending contributes to lowest
+rate of overall growth since 1998. Health Affairs,
+Millwood, v. 28,n.1, p. 246-261, 2009.
+
+IBGE - INSTITUTO BRASILEIRO DE GEOGRAFIA
+E ESTATÍSTICA. Conta-satélite de saúde do Brasil:
+2005-2007. Rio de Janeiro, 2009. Disponível
+
+em: <http:/www.ibge.gov.br/home/estatistica/
+economia/economia saude/css 2005 2007/
+economia saude.pdf>. Acesso em: 2 mar. 2013.
+
+JURGERG, C.; HUMPHREYS, G. Brazil's march
+towards universal coverage. Bulletin of the World
+Health Organization, Geneva, v. 88, n. 9, p. 646-
+647, 2010. Disponível em: <http://www.scielosp.
+org/pdf/bwho/v88n9/aosv88n9.pdf>. Acesso em:
+2 mar. 2013.
+
+MOISE, P.; DOCTEUR, E. Las políticas de precios
+y reembolsos farmacéuticos en México, OCDE,
+2007. Salud Pública de México, Cuernavaca, v. 50,
+n. 4, p. S504-S510, 2008. Disponível em: <http://
+www.scielosp.org/pdf/spm/v50s4/12.pdf>. Acesso
+em: 2 mar. 2013.
+
+MORGAN, S. Drug expenditure trends in the
+Canadian provinces: magnitude and causes from
+1998 to 2004. Healthcare Policy, Toronto, v.1,n.1,
+p. 85-99, 2005.
+
+OECD - ORGANISATION FOR ECONOMIC CO-
+OPERATION AND DEVELOPMENT. OECD Health
+Data 2012 - Frequently Requested Data. Paris:
+OECD, 2013. Disponível em: <http://www.oecd.org/
+
+document/16/0,3343,en 2649 34631 2085200 11.
+
+11,00.html>. Acesso em: 23 mar. 2013.
+
+Recebido em: 17/04/2011
+Aprovado em: 21/09/2011
+
+84 Saúde Soc. São Paulo, v.22, n.1, p.73-84, 2013
+
+OPAS - Organização Pan-Americana da Saúde;
+Ministério da Saúde. Avaliação da assistência
+farmacêutica no Brasil: estrutura, processo e
+resultados. Brasília, DF, 2005. Disponível em:
+
+< http://bvsms.saude.gov.br/bvs/publicacoes/
+avaliacao assistencia farmaceutica estrutura.
+resultados.pdf >. Acesso em: 23 mar. 2013.
+
+TOBAR, F. Lecciones aprendidas en la provisión
+de medicamentos para la atención primaria de la
+salud. Salud Pública de México, Cuernavaca, v. 50,
+n. 4, p. S463-S469, 2008. Disponível em: <http://
+www.scielosp.org/pdf/spm/v50s4/07.pdf>. Acesso
+em: 2 mar. 2013.
+
+VIEIRA, F.S. Assistência farmacêutica no sistema
+público de saúde no Brasil. Revista Panamericana
+de Salud Pública, Washington, DC, v. 27,n. 2,
+
+p. 149-156, 2010. Disponível em: <http://www.
+scielosp.org/pdf/rpsp/v27n2/a1ov27n2.pdf>.
+Acesso em: 2 mar. 2013.
+
+VIEIRA, F.S. Gasto do Ministério da Saúde com
+medicamentos: tendência dos programas de 2002
+a 2007. Revista de Saúde Pública, São Paulo, v. 43,
+n. 4, p. 674-681, 2009. Disponível em: <http://www.
+scielosp.org/pdf/rsp/v43n4/534.pdf>. Acesso em: 2
+mar. 2013.
+
+VIEIRA, F.S. Qualificação dos serviços
+farmacêuticos no Brasil: aspectos inconclusos
+
+da agenda do Sistema Único de Saúde. Revista
+Panamericana de Salud Pública, Washington, DC,
+v. 24,n. 2, p. 91-100, 2008. Disponível em: <http://
+journal.paho.org/uploads/1221234555.pdf>. Acesso
+em: 2 mar. 2013.
+
+WORLD BANK. Gross domestic product 2009,
+PPP. Washington, DC, 2010.
+

@@ -1,0 +1,999 @@
+Rev Saúde Pública 2011;45(5):906-13
+
+Fabiola Sulpino Vieira!
+
+Paola Zucchi!!
+
+Departamento de Economia da Saúde e
+Desenvolvimento. Secretaria Executiva.
+Ministério da Saúde. Brasília, DF, Brasil
+
+! Grupo Interdepartamental de Economia da
+Saúde. Universidade Federal de São Paulo.
+São Paulo, SP, Brasil
+
+Correspondência | Correspondence:
+Fabiola Sulpino Vieira
+
+Ministério da Saúde
+
+Esplanada dos Ministérios
+
+Bloco G, Anexo B, sala 454 B
+70058-900 Brasília, DF, Brasil
+E-mail: fabiolasulpinoQ uol.com.br
+
+Recebido: 13/10/2010
+Aprovado: 6/4/2011
+
+Artigo disponível em português e inglês em:
+www.scielo.br/rsp
+
+Artigos Originais
+
+Aplicações diretas para
+aquisição de medicamentos no
+Sistema Unico de Saúde
+
+Resource allocation for
+pharmaceutical procurement in the
+Brazilian Unified Health System
+
+RESUMO
+
+OBJETIVO: Analisar a aplicação direta de recursos financeiros pelos entes
+federados para a aquisição de medicamentos no Sistema Unico de Saúde.
+
+MÉTODOS: Foram levantados os valores alocados em aplicações diretas para
+a aquisição de medicamentos no ano de 2009 em dois sistemas de informação:
+Siga Brasil do Senado Federal (para a União) e Sistema de Informações sobre
+Orçamentos Públicos em Saúde (para estados, Distrito Federal e municípios).
+Calculou-se o gasto per capita com medicamentos, além da média e mediana
+do gasto de municípios por região e por categoria de tamanho de população.
+O coeficiente de Spearman foi calculado para algumas variáveis definidas. A
+análise estatística incluiu testes de normalidade para os dados e de comparação
+múltipla para diferenças entre grupos.
+
+RESULTADOS: Em 2009 o valor total liquidado para a aquisição de
+medicamentos pelas três esferas de governo foi de R$ 8,9 bilhões. Estados e o
+Distrito Federal foram os principais executores, sendo responsáveis por 47,1%
+do valor total liquidado no Sistema Único de Saúde. Alguns estados tiveram
+gasto per capita muito acima da média (R$ 22,00 hab/ano) e da mediana
+(R$ 17,00 hab/ano). Houve diferença no gasto de municípios por região e
+observou-se que a média do gasto per capita dos que têm até 5 mil habitantes
+foi 3,9 vezes maior que dos municípios com mais de 500 mil habitantes.
+Municípios com até 10 mil habitantes tiveram gasto per capita maior que os
+demais municípios.
+
+CONCLUSÕES: Aspectos econômicos, tais como escala da aquisição de
+medicamentos e poder de negociação, podem explicar as diferenças de gasto
+per capita entre os entes federados, especialmente os municípios. O estudo
+sinaliza para ineficiências nas aplicações de recursos financeiros para a
+aquisição de medicamentos no Sistema Único de Saúde.
+
+DESCRITORES: Custos de Cuidados de Saúde. Assistência
+Farmacêutica, economia. Dotação de Recursos para Cuidados de Saúde.
+Equidade na Alocação de Recursos. Gastos em Saúde. Sistema Unico de
+Saúde.
+Rev Saúde Pública 2011;45(5):906-13
+
+907
+
+ABSTRACT
+
+OBJECTIVE: To analyze resource allocation for pharmaceutical procurement
+by federative entities in the Brazilian Unified Health System.
+
+METHODS: The amounts allocated to purchase pharmaceuticals during 2009
+in two information systems were analyzed: Siga Brasil (Follow Brazil) for
+national data and Sistema de Informações sobre Orçamentos Públicos em
+Saúde (Information System on Public Health Budgets) for states, the Federal
+District and municipalities data. Per capita spending and the mean and median
+spending were calculated by municipalities, according to region and population
+size. The Spearman correlation coefficient was calculated for some variables.
+The statistical analysis included tests of normality and multiple comparisons
+for differences between groups.
+
+RESULTS: In 2009 the total amount spent by the three spheres of government
+for purchase of medicines was approximately R$ 8.9 billion. States and the
+Federal District were the main players, accounting for 47.1% ofthe total amount
+spent in the health system. Some states had per capita spending well above the
+mean (R$ 22.00 per resident/year) and the median (R$ 17.00 per resident/year).
+There were differences in municipal spending by region. The mean per capita
+expenditure of municipalities with less than 5,000 residents was 3.9 times that
+of municipalities with over 500,000 residents. Municipalities with less than
+10,000 residents had higher per capita spending than other municipalities.
+
+CONCLUSIONS: Economic aspects such as the scale of procurement and
+bargaining power may explain differences in per capita spending between
+federal entities, especially among municipalities. The study indicates
+inefficiencies in the use of financial resources to procure medicines in the
+Brazilian Unified Health System.
+
+ 
+
+DESCRIPTORS: Health Care C osts. Pharmaceutical Services, economics.
+Health Care Rationing. Equity in the Resource Allocation. Health
+Expenditures. Unified Health System.
+
+ 
+
+INTRODUÇÃO
+
+Os governos em todo o mundo vêm enfrentando há
+alguns anos o grande desafio de gerenciar a evolução
+dos gastos com ações e serviços de saúde, sendo vários
+os fatores que têm contribuído para esse aumento.
+
+Nesse contexto, ampliou-se o gasto com medicamentos
+em diversos países. No Canadá, de 1998 a 2004, o gasto
+per capita com sólidos orais sob prescrição aumentou
+à taxa de 10% ao ano na maioria das províncias, mais
+rápido do que o crescimento econômico do mesmo
+período.”
+
+Tais situações têm motivado a adoção de medidas de
+contenção de gasto. Na Europa, políticas de preço foram
+estabelecidas nas décadas de 1980 e 1990, tais como o
+controle de preço dos produtos, o estabelecimento de
+preço de referência e o controle do lucro.?*
+
+Nesses países, o controle de preços tem se dado de
+forma direta e indireta. As políticas classificadas como
+
+de controle direto incluem a negociação de preços com
+o fornecedor, o estabelecimento de preço máximo, a
+realização de comparações internacionais, o corte ou
+congelamento de preços. Já o controle indireto tem se
+efetivado pela regulação do lucro, pelo estabelecimento
+de preço de referência e de índice de preço."
+
+Os estudos de avaliação do impacto dessas políticas
+têm mostrado redução do gasto do governo com medi-
+camentos logo após sua implementação, revelando
+ainda que os métodos de controle direto de preços são
+mais eficazes."*
+
+No Brasil também é expressivo o aumento do gasto
+total com medicamentos, haja vista o gasto por parte do
+Ministério da Saúde para aquisição de anti-retrovirais
+e de medicamentos do Componente Especializado da
+Assistência Farmacêutica." A regulação econômica
+foi instituída em 2003 com a criação da Câmara de
+908
+
+Regulação do Mercado de Medicamentos (CMED),
+responsável pela aprovação dos preços de entrada e do
+reajuste anual de produtos farmacêuticos no mercado.”
+
+A partir de 2007, a CMED passou a regular também
+os preços de venda para o governo de uma relação de
+medicamentos recomendados em protocolos clínicos do
+Ministério da Saúde. Criou o Coeficiente de Adequação
+de Preços (CAP), que consiste em uma alíquota a ser
+descontada do preço de fábrica desses medicamentos
+(atualmente 22,85%), dando origem ao preço máximo
+de venda ao governo (PMVG). Trata-se de um desconto
+mínimo obrigatório, que deve ser aplicado pelas distri-
+buidoras e/ou laboratórios quando realizam vendas
+destinadas à Administração Pública."e“
+
+No Sistema Único de Saúde (SUS), as aquisições
+de medicamentos são feitas de forma autônoma pela
+União, 5.564 municípios, 26 estados e pelo Distrito
+Federal, além de hospitais que estão sob regime de
+administração pública indireta. A complexidade dessa
+estrutura administrativa requer que se analise o gasto
+com medicamentos de cada ente federado, a fim de
+que sejam monitorados possíveis problemas e sejam
+formuladas políticas que visem a assegurar eficiência
+no uso dos recursos públicos.
+
+O presente estudo teve por objetivo analisar a aplicação
+direta de recursos financeiros pelos entes federados
+para a aquisição de medicamentos no Sistema Único
+de Saúde.
+
+MÉTODOS
+
+Os valores liquidados: com a aquisição de medica-
+mentos pelo governo federal em 2009 foram obtidos
+a partir do sistema Siga Brasil, o qual disponibiliza
+o orçamento da União em sítio eletrônico do Senado
+Federal.” Selecionaram-se as seguintes ações do orça-
+mento da União, as quais estão diretamente associadas à
+aquisição de medicamentos: a) 6031; b) 4295; c) 6142;
+d) 20AE; e) 4368; f) 4370; g) 4705; e h) 20BA. Para
+
+Aplicações diretas em medicamentos Vieira FS & Zucchi P
+
+cada uma dessas ações orçamentárias foram identifi-
+cados apenas os valores extraídos na modalidade de
+aplicação direta.
+
+Para cálculo do gasto per capita da União com medica-
+mentos, dividiu-se a somatória dos valores liquidados
+em aplicações diretas nessas ações pela estimativa de
+população total brasileira para 1º de julho de 2009,
+realizada pelo Instituto Brasileiro de Geografia e
+Estatística (IBGE).
+
+Os valores liquidados pelos Estados, Distrito Federal
+e municípios para aquisição de medicamentos foram
+extraídos do Sistema de Informações sobre Orçamentos
+Públicos em Saúde (Siops).s Empregaram-se as classifi-
+cações contábeis 3.3.3.90.30.09.00 e 3.3.3.90.32.03.01.
+A soma dos valores obtidos em cada classificação
+contábil corresponde ao gasto total de cada ente.
+
+O gasto per capita dos estados, Distrito Federal e dos
+municípios com medicamentos foi obtido pela divisão
+do gasto total com medicamentos de cada ente federado
+pela respectiva população, estimada para 1º de julho
+de 2009 pelo IBGE.
+
+Média e mediana das aplicações diretas per capita
+(gasto com medicamentos per capita) foram calculadas
+para os municípios por região geográfica e por categoria
+de tamanho de população: até 5.000 habitantes, de 5.001
+a 10.000, de 10.001 a 20.000, de 20.001 a 50.000, de
+50.001 a 100.000, de 100.001 a 500.000 e mais de
+500.000 habitantes.
+
+Dados sobre produção de consultas foram obtidos a fim
+de investigar a correlação entre o número de consultas
+por habitante e o gasto com medicamentos por habi-
+tante, a partir do sítio eletrônico do Departamento de
+Informática do SUS (Datasus)."
+
+O coeficiente de correlação linear de Spearman foi
+calculado para as seguintes variáveis municipais: a)
+consultas por habitante por ano e gasto com medica-
+mentos por habitante por ano; b) consultas por habitante
+
+ 
+
+* Brasil, Lei nº 10.742 de 6 de outubro de 2003. Define normas de regulação para o setor farmacêutico, cria a Câmara de Regulação do
+Mercado de Medicamentos - CMED e altera a Lei nº 6.360, de 23 de setembro de 1976, e dá outras providências. Diario Oficial Uniao. 7 out
+2003 citado 2010 ago 31]:1. Disponível em: http:/Avww.planalto.gov.br/ccivil. 03/Leis/2003/L10.742.htm
+
+» Ministério da Saúde. Agência Nacional de Vigilância Sanitária. Resolução CMED nº4, de 18 de dezembro de 2006. Dispõe sobre o
+Coeficiente de Adequação de Preços — CAP, sua aplicação, e altera a Resolução CMED nº. 2, de 5 de março de 2004. Diario Oficial Uniao. 19
+
+dez 2006:1.
+
+“ Ministério da Saúde. Agência Nacional de Vigilância Sanitária. Comunicado CMED nº 15, de 28 de dezembro de 2007. Estabelece os
+critérios de composição de fatores para o ajuste de preços de medicamentos a ocorrer em 30 de março de 2007. Diario Oficial Uniao. 31 dez
+
+2007:23-4.
+
+“ Ministério da Saúde. Agência Nacional de Vigilância Sanitária. Comunicado CMED nº 1, de 3 de fevereiro de 2010. Diario Oficial Uniao. 04
+
+fev 2010:1.
+
+“A liquidação da despesa consiste na verificação do direito adquirido pelo credor, tendo por base os títulos e documentos comprobatórios
+do respectivo crédito. Implica o reconhecimento do débito por parte do administrador público e, portanto, neste caso ao valor gasto com
+medicamentos, considerando que os mesmos foram entregues à administração pública.
+
+' Senado Federal. Orçamento Federal. Siga Brasil. Brasília; 2001 [citado 2010 out 04]. Disponível em:
+http:/Avww9.senado.gov.br/portal/page/portal/orcamento. senado/SigaBrasil
+
+s Ministério da Saúde. Departamento de Economia da Saúde e Desenvolvimento. Sistema de informações sobre orçamentos públicos em
+saúde - SIOPS. Brasília; 2000[citado 2010 ago 16]. Disponível em: http://siops.datasus.gov.br/
+
+* Ministério da Saúde. Departamento de Informática do SUS — DATASUS. Brasília; 2009[citado 2010 out 05]. Disponível em:
+
+hitp:/Avawwdlatasus.gov. br
+Rev Saúde Pública 2011;45(5):906-13
+
+com mais de 40 anos por ano e gasto com medicamentos
+por habitante por ano; e c) população e gasto com
+medicamentos por habitante por ano.
+
+Para a análise estatística foi empregado o software R
+(versão 2.6.2) e foram aplicados os seguintes testes:
+Lilliefors para normalidade; Grubbs para detecção de
+outliers; Shapiro-Wilk para normalidade; Kruskal-
+Wallis para diferentes grupos; e comparação múltipla
+para diferenças entre grupos.!º
+
+RESULTADOS
+
+Observa-se, na Tabela, que em 2009 o valor total liqui-
+dado para a aquisição de medicamentos pelas três esferas
+de governo no SUS foi de R$ 8,9 bilhões, aproximada-
+mente US$ 4,9 bilhões, de acordo com o total declarado
+por estados e municípios no Siops até a data da coleta de
+dados (16/8/2010).' Esse valor não consolidou o gasto
+de todos os estados e municípios, pois, no período anali-
+sado, entre os estados faltavam três informantes (Espírito
+Santo, Paraná e Pernambuco) e, entre os municípios, 152.
+As aplicações diretas da União totalizaram o valor de R$
+12,33 /habitante/ano em 2009.
+
+Quanto à participação percentual dos entes federados
+em aplicações diretas para a aquisição de medica-
+mentos, os estados e o Distrito Federal foram os
+principais executores em volume de recursos, sendo
+responsáveis por 47,1% do valor total liquidado no
+SUS. Foram seguidos pela União com 26,5% e pelos
+Municípios com 26,4%.
+
+Alguns estados apresentaram gasto per capita muito
+acima da média (R$ 22,00 hab/ano) ou até mesmo da
+mediana (R$ 17,00 hab/ano), sugerindo a presença de
+outliers (valores inconsistentes) (Figura 1). A aplicação
+do teste de Lilliefors (D = 0,1646, p = 0,09184) indicou
+que a hipótese de distribuição normal não pode ser
+desconsiderada e o teste de Grubbs (D = 0,4206, p <
+0,001), que os valores extremos, relativos ao Amapá
+e ao Distrito Federal, aconteceram por outros fatores
+que não a aleatoriedade.
+
+909
+
+A média e a mediana do gasto per capita com medica-
+mentos de municípios calculadas por Região mostraram
+que os municípios dos estados do Norte e Sul possuíam
+parâmetros diferentes daqueles dos estados do Nordeste
+e Sudeste (Figura 2). Segundo o teste de Shapiro-Wilk,
+pôde-se rejeitar a hipótese de normalidade dentro de
+cada Região: Norte, W=0,4253 ep <0,0001; Nordeste,
+W=0,6792ep<0,0001; Sul, W=0,7537ep<0,0001;
+Sudeste, W = 0,1079 e p < 0,0001; e Centro-Oeste, W
+= (0,5809 e p < 0,0001. Dessa forma, como não se pode
+dizer que as observações resultam de uma distribuição
+gaussiana, testes não paramétricos para comparações
+entre os grupos devem ser realizados. Nesse caso, o teste
+de Kruskal-Wallis rejeitou a hipótese de que os grupos
+são parecidos e que, pelo menos, um grupo é diferente
+dos demais (207,0103; graus de liberdade 4; p < 0,001).
+
+O teste de comparação múltipla, realizado após o teste
+de Kruskal-Wallis, indicou que o Centro-Oeste possui
+gasto estatisticamente diferente das Regiões Norte,
+Nordeste e Sudeste. O Norte também difere do Sul,
+mas não das regiões Nordeste e Sudeste. Os gastos per
+capita das Regiões Sudeste e Nordeste são parecidos
+entre si, porém diferenciam-se do gasto da Região Sul.
+
+Analisando-se a média e a mediana das aplicações
+diretas per capita dos municípios, estratificados por
+tamanho de população, verifica-se que a média do gasto
+per capita dos que têm até 5 mil habitantes é 3,9 vezes
+maior que dos municípios com mais de 500 mil habi-
+tantes. No caso da mediana, a diferença é 3,3 vezes maior
+para municípios com até 5 mil habitantes em relação
+àqueles com mais de 500 mil habitantes (Figura 3).
+
+A hipótese de normalidade do gasto por tamanho de
+município (número de habitantes) foi rejeitada pelo
+teste de Shapiro-Wilk: a) Até 5.000, W = 0,7845 e p <
+0,0001; b) De 5.001 a 10.000, W=0,5383 ep <0,0001;
+c) De 10.001 a 20.000, W = 0,0693 e p < 0,0001; d)
+De 20.001 a 50.000, W = 0,7837 e p < 0,0001; e) De
+50.001 a 100.000, W = 0,6507 e p < 0,0001; f) De
+10.0001 a 500.000, W = 0,3419 e p < 0,0001; g) Mais
+de 500.000 W = 0,8941 e p < 0,001. Pelo teste de
+
+Tabela. Valor total liquidado pelas esferas administrativas na modalidade aplicação direta para a aquisição de medicamentos.
+
+ 
+
+Brasil, 2009.
+
+Esfera Total de unidades federativas Nº de informantes* Gasto total (R$ correntes)
+União 1 1 2.360.115.095,07
+Estados e Distrito Federal 27 24 4.187.072.744,13
+Municípios 5.564 5.412 2.351.363.521,55
+Total 8.898.551.360,75
+
+ 
+
+Fonte: Dados do Sistema de Informações sobre Orçamentos Públicos em Saúde - Siops (estados, Distrito Federal e municípios)
+
+e do Siga Brasil (Orçamento da União).
+
+* Nº de informantes corresponde ao total de estados e municípios que informaram as despesas com ações e serviços públicos
+
+de saúde no Siops. Levantamento realizado em 16/8/2010.
+
+ 
+
+' Conversão para a moeda norteamericana segundo a cotação diária para compra no período de 1/7 a 31/12/2009 (1 dólar = 1,80 reais).
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Vieira FS & Zucchi P
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+910 Aplicações diretas em medicamentos
+70 67,07 66,45
+65
+60
+55
+50
+vas 43,90 43,02
+E 40
+23
+E 31,34
+230 29,00 28,02
+x 26,34
+25 23,79 22,92
+20 17, 18,29
+o ” 13,78 [ 2 teae
+15 11,62 í É
+1049
+6,10
+E 270 4,59
+0,45 0,29
+0+
+(A OD DD MO DM LAS OMS DRA Lã
+E SN & Ed Ss PE E SS ES E E as SS
+E O & S PS SC OE s SS EE
+a x So o e CE Pe EC TS
+x» aº PES é s Cs x 8
+> es $ & Ss GS gs
+O ao Fes &º
+* ae
+
+Fonte: Dados do Sistema de Informação sobre Orçamentos Públicos em Saúde (Siops) e Instituto Brasileiro de Geografia e
+
+Estatística (IBGE).
+
+Figura 1. Gasto per capita com medicamentos dos estados e Distrito Federal na modalidade aplicação direta. Brasil, 2009.
+
+Kruskal-Wallis, observou-se que o gasto per capita
+dos municípios pequenos (até 5.000 habitantes, ou de
+5.001 até 10.000) foi diferente do gasto para todas as
+outras classes de tamanho. O gasto dos municípios
+com tamanho entre 10.001 e 20.000 habitantes foi
+igual apenas se comparado ao gasto dos municípios
+com mais de 500.000 habitantes. Para todas as classes
+de municípios com mais de 20.000 habitantes, o gasto
+per capita em medicamentos foi estatisticamente igual.
+
+30
+25,46
+
+17,64
+
+13,86
+17
+
+R$/habitante/ano
+o
+
+ú
+
+ 
+
+TZ
+
+Segundo o teste de correlação (Spearman, R), as variá-
+veis “gasto per capita com medicamentos” e “número
+de consultas médicas por habitante” apresentaram
+correlação estatisticamente significante positiva, porém
+de magnitude pequena (R = 0,06377, p < 0,001).
+
+Entre “gasto per capita com medicamentos” e “número
+de consultas médicas por habitante com 40 anos ou
+mais”, o teste de Spearman indicou correlação positiva
+fraca (R = 0,06925, p < 0,001).
+
+25,58
+241
+
+20,87
+18,58
+
+1211
+
+ 
+
+ 
+
+ 
+
+ 
+
+04
+
+Norte Nordeste
+
+Centro-Oeste
+E Mediana
+
+Sudeste Sul
+
+D Média
+
+Fonte: Dados do Sistema de Informação sobre Orçamentos Públicos em Saúde (Siops) e Instituto Brasileiro de Geografia e
+
+Estatística (IBGE).
+
+Figura 2. Média e mediana das aplicações diretas per capita de Municípios para a aquisição de medicamentos por região.
+
+Brasil, 2009.
+Rev Saúde Pública 2011;45(5):906-13
+
+405
+36,89
+
+to
+q
+
+E
+S
+
+27,51
+
+»
+q
+
+20,77
+
+»
+S
+
+18,45
+
+R$ por habitante
+
+15,23
+
+q
+
+12,16
+
+o
+
+ 
+
+ 
+
+911
+
+10,16 9,96
+é 8,76 : 8,45 934
+
+ 
+
+ 
+
+ 
+
+ 
+
+T
+Até 5.000 hab De 5.001 a De 10.001 a
+10.000 hal 20.000 hal
+
+ 
+
+ 
+
+T T T
+De 20.001 a De 50.001a De 100.001 a Mais de
+
+50.000 hal 100.000 hab 500.000 hab — 500.000 hab
+
+População
+
+ 
+
+ 
+
+E Mediana Média
+
+Fonte: Dados do Sistema de Informação sobre Orçamentos
+Estatística (IBGE).
+
+ 
+
+ 
+
+Públicos em Saúde (Siops) e Instituto Brasileiro de Geografia e
+
+Figura 3. Média e mediana das aplicações diretas per capita de Municípios para a aquisição de medicamentos. Brasil, 2009.
+
+As variáveis “gasto per capita com medicamentos” e
+“população do município” apresentaram relação inversa
+(R =-0,39087, p < 0,001).
+
+DISCUSSÃO
+
+O presente trabalho apresenta os valores alocados para
+a aquisição de medicamentos pelos entes federados no
+SUS, apenas em relação às aplicações diretas, execução
+do recurso com a compra de medicamentos. Assim, não
+é o financiamento que está sendo discutido.
+
+A alocação de R$ 8,9 bilhões em aplicações diretas
+para a aquisição de medicamentos no SUS em 2009 não
+representa a totalidade dos valores para essa finalidade
+devido à característica do próprio Siops, utilizado para
+a coleta de dados dos estados e municípios. Como a
+natureza do sistema é declaratória e não compulsória,
+alguns estados e municípios não tinham informado
+ainda suas receitas e despesas com saúde, incluindo
+medicamentos até o encerramento da coleta de dados.
+
+Isso significa que o valor total das aplicações diretas
+dos estados e municípios é efetivamente maior que o
+apresentado na Tabela e, portanto, maior é a partici-
+pação dessas esferas de governo quanto ao valor total
+do SUS para essa modalidade de aplicação dos recursos.
+
+Em relação às aplicações diretas com medicamentos per
+capita (gasto per capita) de estados, chama a atenção
+
+os valores alocados pelo Amapá (R$ 67,07 hab/ano) e
+Distrito Federal (R$ 66,45 hab/ano), muito acima da
+média (R$ 22,00 hab/ano). Como esses valores não
+foram produzidos pelo acaso, muitas situações podem
+explicá-los, inclusive ineficiência na realização da
+compra de medicamentos e desvios.
+
+A análise da média e mediana por Região para o
+conjunto de municípios indica diferenças entre estas
+medidas de até 46%, mostrando municípios bastante
+discrepantes em termos de gasto per capita em relação
+aos demais municípios da mesma Região. A compro-
+vação estatística de diferença no gasto per capita dos
+municípios entre as Regiões (Figura 2) revela que os
+municípios da Região Centro-Oeste gastam mais que
+os da Região Nordeste e Sudeste e menos que os da
+Região Norte. Além disso, que o gasto dos municípios
+das Regiões Nordeste e Sudeste é semelhante, mas dife-
+rente do gasto daqueles da Região Sul. Ainda, a elevada
+diferença entre a média e a mediana na Região Norte
+sugere maior desigualdade de gasto com medicamentos
+pelos municípios, havendo muitos municípios com
+gasto muito baixo e poucos com gasto muito elevado.
+Isso também ocorre em municípios pequenos.
+
+Chama a atenção a relação inversa entre o gasto per
+capita com medicamentos e a população do município.
+Municípios com população até 5 mil habitantes apre-
+sentaram média do gasto per capita 3,9 vezes maior
+912
+
+que municípios com população superior a 500 mil
+habitantes, e o gasto dos municípios com até 10 mil
+habitantes é estatisticamente diferente do gasto para as
+demais categorias. Algumas hipóteses foram levantadas
+para explicar essa constatação. Em primeiro lugar,
+seria necessário verificar se os municípios menores
+produziram mais consultas que os municípios maiores,
+pois número maior de consultas pode implicar mais
+prescrições médicas e, portanto, maior gasto per capita
+com medicamentos. Segundo, se foram realizadas
+mais consultas com pessoas com 40 anos ou mais em
+municípios menores que nos maiores, uma vez que
+maior atendimento dessa população pode implicar mais
+prescrições, devido à maior prevalência de doenças
+crônicas, o que resultaria em maior gasto per capita
+com medicamentos. Terceiro, se as diferenças obser-
+vadas seriam decorrentes de diferenças qualitativas na
+relação de medicamentos dispensados à população.
+Quarto, se tais diferenças poderiam ser explicadas
+pela parcela maior de beneficiários de planos privados
+de saúde em municípios maiores que em menores, os
+quais deixariam de utilizar o SUS para a obtenção dos
+medicamentos prescritos. E, por fim, a quinta hipótese,
+se as questões econômicas, tais como poder e escala de
+aquisição, estariam presentes, fazendo com que munici-
+pios menores, por terem menor poder de negociação e
+escala de compra, estariam pagando preços mais altos
+pelos produtos que os municípios maiores, resultando
+em maior gasto per capita.
+
+Em relação às duas primeiras hipóteses, conclui-se pela
+não interferência do número de consultas realizadas nas
+diferenças observadas do gasto per capita dos muni-
+cípios, pois o presente trabalho encontrou correlação
+fraca e positiva.
+
+Quanto à terceira hipótese, pode-se afirmar, com grau
+elevado de segurança, que as variações qualitativas dos
+medicamentos oferecidos à população são mínimas, em
+virtude da existência de política nacional e de finan-
+ciamento federal para a aquisição dos medicamentos
+disponíveis na atenção primária em saúde. Assim, a
+responsabilidade é quase exclusiva dos municípios,
+sendo baixa a discricionariedade do gestor municipal
+em alterar os itens da lista federal.
+
+No caso da quarta hipótese, são pouquíssimos os planos
+privados de saúde no Brasil que oferecem medica-
+mentos. Dessa forma, acredita-se que esse efeito, caso
+exista, seja muito limitado, pois mesmo beneficiários
+de planos privados procuram o SUS para a dispensação
+de medicamentos.
+
+Desse modo, descartando-se as hipóteses anteriores,
+pelo fato de não explicarem diferenças no gasto per
+capita com medicamentos de municípios por categorias
+de tamanho de população ou de explicarem muito pouco
+
+Aplicações diretas em medicamentos Vieira FS & Zucchi P
+
+essas diferenças, tem-se que a hipótese mais plausível
+reside em poder e escala de compras distintos.
+
+O impacto é maior sobre os municípios menores, uma
+vez que pagariam preços mais elevados devido à menor
+capacidade de negociação e pelo fato de comprarem
+menores quantidades.
+
+Essa situação remete à necessidade de se discutir a efici-
+ência no uso dos recursos públicos, uma vez que a fonte
+de financiamento é a mesma, ou seja, os medicamentos
+são adquiridos com recursos advindos do pagamento
+de tributos pela sociedade.
+
+Chalkidou et al* analisaram preços pagos para os
+mesmos medicamentos por diferentes agências gover-
+namentais dos EUA e concluíram que não havia razão
+econômica ou social moralmente aceita que justificasse
+que programas do governo federal pagassem preços tão
+diferentes pelos produtos farmacêuticos.
+
+No caso brasileiro, se comprovadas grandes diferenças
+nos preços pagos, como sugere essa análise, tem-se que
+as diferenças não são intragovernamentais como nos
+EUA, mas sim intergovernamentais. De todo modo,
+não parece adequado que os recursos públicos sejam
+empregados dessa forma, o que sinaliza a necessidade
+de adoção de políticas que promovam a eficiência de
+compras públicas em todas as esferas de governo.
+
+Algumas estratégias já foram implementadas por alguns
+governos estaduais no País. Por exemplo, a produção de
+medicamentos por laboratórios farmacêuticos públicos
+para oferta aos municípios nos estados de São Paulo
+e Minas Gerais” e o estabelecimento de consórcio de
+medicamentos no estado do Paraná, no qual os muni-
+cípios se unem para ampliar a escala de compra e seu
+poder de negociação de preços.” Essas estratégias
+foram consideradas eficazes para a redução dos custos
+de aquisição dos medicamentos.
+
+Entretanto, tais medidas estão longe de atingir a tota-
+lidade dos municípios brasileiros, o que torna urgente
+discutir políticas que promovam a eficiência do uso
+dos recursos. Nesse aspecto, podem ser empregadas
+políticas destinadas a garantir melhores preços em
+compras públicas, como, por exemplo, o estabeleci-
+mento de consórcio entre municípios e a realização
+de atas de registro de preços pelos estados para que
+os municípios comprem pelos preços pré-registrados
+nesse tipo de contrato.
+
+A centralização de compra pelo governo federal
+somente se justifica para medicamentos que possuem
+um único fornecedor e/ou são adquiridos no exterior
+e/ou tenham preço unitário bastante elevado. Em tais
+situações, o ganho econômico pela centralização parece
+
+ 
+
+'O Brasil tem 2.551 municípios com até 10 mil habitantes, representando 45,8% do total.
+Rev Saúde Pública 2011;45(5):906-13
+
+suplantar as dificuldades de logística e seu custo em um
+país de território tão extenso como o Brasil.
+
+Outra possibilidade para garantir eficiência consiste na
+adoção de medidas mais amplas, de impacto nacional,
+tal como a regulação de compras públicas por meio da
+definição de preço máximo para a aquisição de todos
+os medicamentos dispensados no SUS, a exemplo do
+que já ocorre para alguns medicamentos que tiveram
+PMVG definido. Essa parece ser uma das políticas
+mais objetivas, eficazes e menos dispendiosas em
+termos administrativos. Contudo, é necessário avaliar
+
+REFERÊNCIAS
+
+1. Aaserud M, Dahlgren AT, Kósters JP, Oxman AD,
+Ramsay C, Sturm H. Pharmaceutical policies: effects
+of reference pricing, other pricing, and purchasing
+policies (review). Cochrane Database Syst Rev.
+2006;19(2):CD005979.
+
+2. Brekke KR, Kônigbauer |, Straume OR.
+Reference pricing of pharmaceuticals. / Health
+Econ. 2007;26(3):613-42. DOI:10.1016/).
+jhealeco.2006.11.003
+
+3. Kondro W. Drug spending tops $25 billion. CMAJ.
+2007;176(13):1816. DOI:10.1503/cmaj.070680
+
+4. Chalkidou K, Fanderson GF, Faden R. Eliminating drug
+price differentials across government programmes in
+the USA. Health Econ Policy Law. 2010;6(1):43-64.
+
+5. Cosendey MAE, Bermudez JAZ, Reis ALA, Silva HF,
+Oliveira MA, Luiza VL. Assistência farmacêutica na
+atenção básica de saúde: a experiência de três estados
+brasileiros. Cad Saude Publica. 2000;16(1):171-82.
+DOI!:10.1590/80102-311X2000000100018
+
+6. Ess SM, Schneeweiss S, Szucs TD. European
+Healthcare Policies for Controlling Drug Expenditure.
+
+913
+
+esse impacto em outras políticas, na medida em que o
+mercado farmacêutico brasileiro é um dos maiores do
+mundo e o SUS é um grande comprador de medica-
+mentos desse mercado.
+
+Por fim, é fundamental implantar e monitorar políticas
+farmacêuticas com a finalidade de regular as compras
+públicas no Brasil. A tendência internacional de
+aumento do gasto com medicamentos também é obser-
+vada no contexto nacional, o que implica necessidade
+de agilidade pelos gestores na adoção de medidas que
+garantam a sustentabilidade do SUS.
+
+Pharmacoeconomics. 2003;21(2):89-103.
+DOI!:10.2165/00019053-200321020-00002
+
+7. Ferraes AMB, Cordoni Jr L. Consórcio de
+medicamentos no Paraná: análise de cobertura
+e custos. Rev Adm Publica. 2007;41(3):475-86.
+DOI!:10.1590/580034-76122007000300005
+
+8. Hákonsen H, Horn AM, Toverud EL. Price control as a
+strategy for paharmaceutical cost containment — What
+has been achieved in Norway in the period 1994 —
+2004? Health Policy. 2009;90(2-3):277-85.
+
+9. Morgan. Drug expenditure trends in the Canadian
+Provinces: magnitude and causes from 1998 to 2004.
+Healthc Policy. 2005;1(1):85-99.
+
+10. Sheskin DJ. Handbook of parametric and
+nonparametric statistical procedures. Boca Raton:
+Chapman & Hakk; 2000.
+
+11. Vieira FS. Gasto do Ministério da Saúde com
+medicamentos: tendência dos programas 2002 a 2007.
+Rev Saude Publica. 2009;43(4):674-81. DOI:10.1590/
+S0034-89102009005000041
+
+ 
+
+Os autores declaram não haver conflito de interesses.
+
