@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Sistema de Extração de Informação</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .step {
+            display: none;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            margin: 20px auto;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            max-width: 800px;
+        }
+        .step.active {
+            display: block;
+        }
+        .navigation {
+            text-align: center;
+            margin: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin: 5px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007BFF;
+            color: white;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        button:hover:not(:disabled) {
+            background-color: #0056b3;
+        }
+        button:disabled {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+        .progress {
+            text-align: center;
+            margin: 10px auto;
+            max-width: 800px;
+        }
+        h2 .step-count {
+            color: #555;
+            font-weight: normal;
+        }
+        input, select, textarea {
+            display: block;
+            margin: 10px 0;
+            padding: 8px;
+            width: 100%;
+            box-sizing: border-box;
+            max-width: 500px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        .variable-block {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            background: #f9f9f9;
+        }
+        .loading {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .loading::before {
+            content: '';
+            width: 16px;
+            height: 16px;
+            border: 2px solid #f3f3f3;
+            border-top: 2px solid #007BFF;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        .contexto {
+            background: #eee;
+            padding: 10px;
+            margin-top: 5px;
+            border-left: 3px solid #007BFF;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+        .contexto-etapas-anteriores {
+            background-color: #eef2f7;
+            border: 1px solid #d0d7e2;
+            border-radius: 5px;
+            padding: 15px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        .contexto-etapas-anteriores h5 {
+            color: #0056b3;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 5px;
+            margin-top: 15px;
+        }
+        .contexto-etapas-anteriores ul {
+            list-style-position: inside;
+            padding-left: 0;
+        }
+        .resumo-titulo-toggle {
+            margin-top: 0;
+            color: #333;
+            cursor: pointer;
+            user-select: none;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 5px 0;
+        }
+        .toggle-icon {
+            font-weight: bold;
+            font-size: 1.2em;
+            padding: 0 10px;
+            color: #007BFF;
+        }
+        .resumo-conteudo {
+            display: block;
+        }
+        .pdf-validation-group {
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        .pdf-validation-group h4 {
+            margin-top: 0;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #007BFF;
+        }
+        .variable-item {
+            border: 2px solid #eee;
+            border-radius: 4px;
+            padding: 10px;
+            margin: 0 0 10px 10px;
+            transition: border-color 0.3s;
+        }
+        .variable-item.status-included {
+            border-left: 5px solid #28a745;
+            background-color: #f0fff4;
+        }
+        .variable-item.status-excluded {
+            border-left: 5px solid #dc3545;
+            background-color: #fff5f5;
+        }
+        .manual-collection-item li {
+            list-style-type: none;
+            margin-bottom: 15px;
+        }
+        .manual-collection-item button {
+            padding: 5px 10px;
+            font-size: 14px;
+            margin-right: 10px;
+        }
+        /* Estilos para o Relatório Final */
+        #final-report-container h3 {
+            color: #0056b3;
+        }
+        #final-report-container table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        #final-report-container th, #final-report-container td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        #final-report-container th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <div class="progress">
+        <h2>
+            <span id="stepTitle">Etapa <span id="stepNumber">1</span></span>
+            <span class="step-count">de 10</span>
+        </h2>
+    </div>
+
+    <div class="step active" id="step1">
+        <h3>Etapa 1: Seleção de PDFs</h3>
+        <p>Escolha os arquivos PDF para extrair os dados.</p>
+        <input id="pdfInput" type="file" multiple accept=".pdf">
+    </div>
+
+    <div class="step" id="step2">
+        <h3>Etapa 2: Definição de Variáveis</h3>
+        <div class="contexto-etapas-anteriores">
+            <h4 class="resumo-titulo-toggle">Informações Coletadas <span class="toggle-icon">[-]</span></h4>
+            <div class="resumo-conteudo" id="dados-anteriores-step2"></div>
+        </div>
+        <p>Adicione as variáveis a serem extraídas:</p>
+        <div id="variables-container">
+            <div class="variable-block">
+                <input type="text" placeholder="Nome da variável">
+                <select>
+                    <option value="">Tipo da variável</option>
+                    <option value="Texto">Texto</option>
+                    <option value="Numérico">Numérico</option>
+                    <option value="Booleano">Booleano</option>
+                </select>
+                <textarea placeholder="Domínio de valores (se houver)"></textarea>
+            </div>
+        </div>
+        <button type="button" onclick="addVariable()">Adicionar Variável</button>
+    </div>
+
+    <div class="step" id="step3">
+        <h3>Etapa 3: Escolha de Modelos</h3>
+        <div class="contexto-etapas-anteriores">
+            <h4 class="resumo-titulo-toggle">Informações Coletadas <span class="toggle-icon">[-]</span></h4>
+            <div class="resumo-conteudo" id="dados-anteriores-step3"></div>
+        </div>
+        <p>Escolha os modelos LLM para embeddings e prompts de extração.</p>
+        <select id="embeddingModel">
+            <option value="">Escolha modelo de embeddings</option>
+            <option value="Sentence-BERT">Sentence-BERT</option>
+            <option value="OpenAI Ada">OpenAI Ada</option>
+            <option value="MiniLM">MiniLM</option>
+        </select>
+        <select id="promptModel">
+            <option value="">Escolha modelo para execução de prompts</option>
+            <option value="GPT-4">GPT-4</option>
+            <option value="Claude">Claude</option>
+            <option value="LLaMA">LLaMA</option>
+        </select>
+    </div>
+
+    <div class="step" id="step4">
+        <h3>Etapa 4: Prompt de Coleta de Contexto</h3>
+        <div class="contexto-etapas-anteriores">
+            <h4 class="resumo-titulo-toggle">Informações Coletadas <span class="toggle-icon">[-]</span></h4>
+            <div class="resumo-conteudo" id="dados-anteriores-step4"></div>
+        </div>
+        <p>Defina o prompt para busca de contextos (RAG).</p>
+        <textarea id="contextPrompt" rows="6" placeholder="Escreva aqui o prompt de coleta de contexto..."></textarea>
+    </div>
+
+    <div class="step" id="step5">
+        <h3>Etapa 5: Prompt de Coleta da Variável</h3>
+        <div class="contexto-etapas-anteriores">
+            <h4 class="resumo-titulo-toggle">Informações Coletadas <span class="toggle-icon">[-]</span></h4>
+            <div class="resumo-conteudo" id="dados-anteriores-step5"></div>
+        </div>
+        <p>Defina o prompt que extrai os valores com base nos contextos.</p>
+        <textarea id="variablePrompt" rows="6" placeholder="Escreva aqui o prompt de coleta da variável..."></textarea>
+    </div>
+
+    <div class="step" id="step6">
+        <h3>Etapa 6: Geração de Banco Vetorial</h3>
+        <div class="contexto-etapas-anteriores">
+            <h4 class="resumo-titulo-toggle">Informações Coletadas <span class="toggle-icon">[-]</span></h4>
+            <div class="resumo-conteudo" id="dados-anteriores-step6"></div>
+        </div>
+        <p class="loading">Banco vetorial sendo criado... (aguarde)</p>
+    </div>
+
+    <div class="step" id="step7">
+        <h3>Etapa 7: Execução da Coleta de Contextos</h3>
+        <div class="contexto-etapas-anteriores">
+            <h4 class="resumo-titulo-toggle">Informações Coletadas <span class="toggle-icon">[-]</span></h4>
+            <div class="resumo-conteudo" id="dados-anteriores-step7"></div>
+        </div>
+        <p class="loading">Executando prompt de busca de contexto... (aguarde)</p>
+    </div>
+
+    <div class="step" id="step8">
+        <h3>Etapa 8: Extração de Variáveis</h3>
+        <div class="contexto-etapas-anteriores">
+            <h4 class="resumo-titulo-toggle">Informações Coletadas <span class="toggle-icon">[-]</span></h4>
+            <div class="resumo-conteudo" id="dados-anteriores-step8"></div>
+        </div>
+        <p class="loading">Executando prompt de coleta de variáveis... (aguarde)</p>
+    </div>
+
+    <div class="step" id="step9">
+        <h3>Etapa 9: Validação Manual</h3>
+        <div class="contexto-etapas-anteriores">
+            <h4 class="resumo-titulo-toggle">Informações Coletadas <span class="toggle-icon">[-]</span></h4>
+            <div class="resumo-conteudo" id="dados-anteriores-step9"></div>
+        </div>
+        <p>Valide as variáveis extraídas pela IA. Marque cada uma como "Incluir" ou "Excluir".</p>
+        <div id="validation-container"></div>
+    </div>
+
+    <div class="step" id="step10">
+        <h3>Etapa 10: Coleta Manual de Variáveis Rejeitadas</h3>
+        <div class="contexto-etapas-anteriores">
+            <h4 class="resumo-titulo-toggle">Informações Coletadas <span class="toggle-icon">[-]</span></h4>
+            <div class="resumo-conteudo" id="dados-anteriores-step10"></div>
+        </div>
+        <p>Insira manualmente os valores para as variáveis que foram excluídas na etapa anterior.</p>
+        <div id="manual-collection-container"></div>
+    </div>
+
+    <div class="step" id="step11">
+        <h2>Relatório Final da Extração</h2>
+        <div id="final-report-container">
+            </div>
+    </div>
+
+
+    <div class="navigation">
+        <button id="prevBtn" disabled>Voltar</button>
+        <button id="nextBtn">Próximo</button>
+        <button id="finishBtn" style="display: none; background-color: #28a745;">Fim</button>
+    </div>
+
+    <script>
+        let currentStep = 1;
+        const totalSteps = 10;
+        let collectedData = {};
+        let extractionResults = [];
+
+        function showStep(step) {
+            $(".step").removeClass("active");
+            const activeStep = $(`#step${step}`);
+            activeStep.addClass("active");
+            
+            // Garante que o resumo esteja visível ao mostrar a etapa
+            activeStep.find('.resumo-conteudo').show();
+            activeStep.find('.toggle-icon').text('[-]');
+
+            // Atualiza o título principal
+            if (step <= totalSteps) {
+                $('#stepTitle').html(`Etapa <span id="stepNumber">${step}</span>`);
+                $('.step-count').show();
+            } else {
+                $('#stepTitle').text('Processo Finalizado');
+                $('.step-count').hide();
+            }
+
+            // Gerencia a visibilidade dos botões
+            $("#prevBtn").prop("disabled", step === 1);
+            $("#nextBtn").toggle(step < totalSteps);
+            $("#finishBtn").toggle(step === totalSteps);
+
+            if(step === 11){
+                $("#prevBtn").hide();
+                $("#finishBtn").hide();
+            } else {
+                 $("#prevBtn").show();
+            }
+            
+            // Preenche o histórico e renderiza conteúdo dinâmico
+            updatePreviousDataDisplay(step);
+            if (step === 9) renderStep9();
+            if (step === 10) renderStep10();
+        }
+
+        function simulateExtraction() {
+            extractionResults = [];
+            if (!collectedData.files || !collectedData.variables) return;
+
+            collectedData.files.forEach((fileName) => {
+                const fileResult = { fileName: fileName, variables: [] };
+                collectedData.variables.forEach((variable, varIndex) => {
+                    fileResult.variables.push({
+                        name: variable.name,
+                        value: `Valor Simulado ${varIndex + 1}`,
+                        context: `Contexto simulado para '${variable.name}' no arquivo ${fileName}.`,
+                        status: 'pending',
+                        manualValue: ''
+                    });
+                });
+                extractionResults.push(fileResult);
+            });
+        }
+        
+        function renderStep9() {
+            const container = $('#validation-container').empty();
+            if (extractionResults.length === 0) {
+                container.html('<p>Não há dados para validar.</p>');
+                return;
+            }
+            extractionResults.forEach((fileResult, fileIndex) => {
+                const fileGroup = $(`<div class="pdf-validation-group"><h4>${fileResult.fileName}</h4></div>`);
+                fileResult.variables.forEach((variable, varIndex) => {
+                    const item = $(`
+                        <div class="variable-item" id="var-item-${fileIndex}-${varIndex}">
+                            <strong>${variable.name}</strong>: ${variable.value}
+                            <div>
+                                <button class="btn-view-context" data-file-index="${fileIndex}" data-var-index="${varIndex}">Ver contexto</button>
+                                <button class="btn-include" style="background-color: #28a745" data-file-index="${fileIndex}" data-var-index="${varIndex}">Incluir</button>
+                                <button class="btn-exclude" style="background-color: #dc3545" data-file-index="${fileIndex}" data-var-index="${varIndex}">Excluir</button>
+                            </div>
+                        </div>`);
+                    if(variable.status !== 'pending') {
+                        item.addClass('status-' + variable.status);
+                        item.find('.btn-include, .btn-exclude').prop('disabled', true);
+                    }
+                    fileGroup.append(item);
+                });
+                container.append(fileGroup);
+            });
+        }
+
+        function renderStep10() {
+            const container = $('#manual-collection-container').empty();
+            let hasExcludedItems = false;
+            extractionResults.forEach((fileResult, fileIndex) => {
+                const excludedInFile = fileResult.variables.filter(v => v.status === 'excluded');
+                if (excludedInFile.length > 0) {
+                    hasExcludedItems = true;
+                    const fileGroup = $(`<div class="pdf-validation-group"><h4>${fileResult.fileName}</h4><ul class="manual-collection-item"></ul></div>`);
+                    const list = fileGroup.find('ul');
+                    fileResult.variables.forEach((variable, varIndex) => {
+                        if (variable.status === 'excluded') {
+                             const item = $(`
+                                <li>
+                                    ${variable.name}:
+                                    <div>
+                                        <button>Ler artigo completo</button>
+                                        <input type="text" class="manual-input" data-file-index="${fileIndex}" data-var-index="${varIndex}" value="${variable.manualValue || ''}" placeholder="Digite o valor para '${variable.name}'">
+                                    </div>
+                                </li>`);
+                            list.append(item);
+                        }
+                    });
+                    container.append(fileGroup);
+                }
+            });
+            if (!hasExcludedItems) container.html('<p>Nenhuma variável foi rejeitada para coleta manual.</p>');
+        }
+
+        function finalizeAndBuildReport() {
+            // 1. Capturar dados manuais da Etapa 10
+            $('.manual-input').each(function() {
+                const fileIndex = $(this).data('file-index');
+                const varIndex = $(this).data('var-index');
+                extractionResults[fileIndex].variables[varIndex].manualValue = $(this).val();
+            });
+
+            // 2. Renderizar o relatório
+            const container = $('#final-report-container').empty();
+            let reportHTML = `
+                <div class="pdf-validation-group">
+                    <h3>Configuração da Coleta</h3>
+                    <h5>Arquivos Selecionados</h5>
+                    <ul>${collectedData.files.map(f => `<li>${f}</li>`).join('')}</ul>
+                    <h5>Variáveis Definidas</h5>
+                    <ul>${collectedData.variables.map(v => `<li>${v.name} (${v.type})</li>`).join('')}</ul>
+                    <h5>Modelos</h5>
+                    <p><strong>Embedding:</strong> ${collectedData.embeddingModel} | <strong>Prompt:</strong> ${collectedData.promptModel}</p>
+                    <h5>Prompt de Contexto</h5>
+                    <div class="contexto">${$('<div/>').text(collectedData.contextPrompt).html()}</div>
+                    <h5>Prompt de Variável</h5>
+                    <div class="contexto">${$('<div/>').text(collectedData.variablePrompt).html()}</div>
+                </div>
+                
+                <div class="pdf-validation-group">
+                    <h3>Resultados da Extração</h3>
+            `;
+            
+            extractionResults.forEach(fileResult => {
+                reportHTML += `
+                    <h4>${fileResult.fileName}</h4>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Variável</th>
+                                <th>Valor Final</th>
+                                <th>Método de Coleta</th>
+                                <th>Fonte</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                `;
+                fileResult.variables.forEach(variable => {
+                    let finalValue, method, source;
+                    if(variable.status === 'included') {
+                        finalValue = variable.value;
+                        method = 'Automático (Etapa 9)';
+                        source = 'Contexto';
+                    } else if (variable.status === 'excluded') {
+                        finalValue = variable.manualValue || '(Não preenchido)';
+                        method = 'Manual (Etapa 10)';
+                        source = 'Texto Completo';
+                    } else { // 'pending'
+                        finalValue = '(Não validado)';
+                        method = 'N/A';
+                        source = 'N/A';
+                    }
+                    reportHTML += `
+                        <tr>
+                            <td>${$('<div/>').text(variable.name).html()}</td>
+                            <td>${$('<div/>').text(finalValue).html()}</td>
+                            <td>${method}</td>
+                            <td>${source}</td>
+                        </tr>
+                    `;
+                });
+                reportHTML += `</tbody></table>`;
+            });
+            reportHTML += `</div>`;
+            container.html(reportHTML);
+
+            // 3. Navegar para a tela de relatório
+            currentStep = 11;
+            showStep(currentStep);
+        }
+
+        // --- Event Handlers e Funções de Apoio ---
+        $("#nextBtn").click(function () {
+            if (currentStep < totalSteps) {
+                captureData(currentStep);
+                if (currentStep === 8) {
+                    simulateExtraction();
+                }
+                currentStep++;
+                showStep(currentStep);
+            }
+        });
+
+        $("#prevBtn").click(function () {
+            if (currentStep > 1 && currentStep <= totalSteps + 1) {
+                currentStep--;
+                showStep(currentStep);
+            }
+        });
+
+        $("#finishBtn").on('click', finalizeAndBuildReport);
+        
+        $(document).ready(function() {
+            showStep(currentStep);
+
+            $(document).on('click', '.resumo-titulo-toggle', function() {
+                const content = $(this).next('.resumo-conteudo');
+                const icon = $(this).find('.toggle-icon');
+                content.slideToggle(300);
+                icon.text(icon.text() === '[-]' ? '[+]' : '[-]');
+            });
+
+            $(document).on('click', '.btn-view-context', function() {
+                const context = extractionResults[$(this).data('file-index')].variables[$(this).data('var-index')].context;
+                alert('Contexto:\n\n' + context);
+            });
+
+            $(document).on('click', '.btn-include, .btn-exclude', function() {
+                const fileIndex = $(this).data('file-index');
+                const varIndex = $(this).data('var-index');
+                const status = $(this).hasClass('btn-include') ? 'included' : 'excluded';
+                extractionResults[fileIndex].variables[varIndex].status = status;
+                const item = $(`#var-item-${fileIndex}-${varIndex}`);
+                item.removeClass('status-included status-excluded').addClass('status-' + status);
+                item.find('.btn-include, .btn-exclude').prop('disabled', true);
+            });
+        });
+
+        function captureData(step) {
+            switch(step) {
+                case 1: collectedData.files = Array.from($('#pdfInput')[0].files).map(f => f.name); break;
+                case 2:
+                    collectedData.variables = [];
+                    $('#variables-container .variable-block').each(function() {
+                        const name = $(this).find('input[type="text"]').val();
+                        if (name.trim()) collectedData.variables.push({name: name, type: $(this).find('select').val(), domain: $(this).find('textarea').val()});
+                    });
+                    break;
+                case 3: collectedData.embeddingModel = $('#embeddingModel').val(); collectedData.promptModel = $('#promptModel').val(); break;
+                case 4: collectedData.contextPrompt = $('#contextPrompt').val(); break;
+                case 5: collectedData.variablePrompt = $('#variablePrompt').val(); break;
+            }
+        }
+        function addVariable() {
+            $('#variables-container').append(`<div class="variable-block"><input type="text" placeholder="Nome da variável"><select><option value="">Tipo da variável</option><option value="Texto">Texto</option><option value="Numérico">Numérico</option><option value="Booleano">Booleano</option></select><textarea placeholder="Domínio de valores (se houver)"></textarea></div>`);
+        }
+        
+        // CORREÇÃO: Função de exibição do histórico restaurada
+        function updatePreviousDataDisplay(step) {
+            if (step > totalSteps) return; // Não exibe na tela de relatório
+            
+            const targetDiv = $(`#dados-anteriores-step${step}`);
+            const contentDiv = targetDiv.parent().find('.resumo-conteudo');
+            contentDiv.empty();
+
+            let html = '';
+
+            if (step > 1 && collectedData.files && collectedData.files.length > 0) {
+                html += '<h5>Etapa 1: Arquivos PDF</h5><ul>';
+                collectedData.files.forEach(file => { html += `<li>${$('<div/>').text(file).html()}</li>`; });
+                html += '</ul>';
+            }
+            if (step > 2 && collectedData.variables && collectedData.variables.length > 0) {
+                html += '<h5>Etapa 2: Variáveis Definidas</h5><ul>';
+                collectedData.variables.forEach(v => { html += `<li><strong>Nome:</strong> ${$('<div/>').text(v.name).html()} | <strong>Tipo:</strong> ${v.type || 'N/A'}</li>`; });
+                html += '</ul>';
+            }
+            if (step > 3 && collectedData.embeddingModel) {
+                 html += '<h5>Etapa 3: Modelos</h5>';
+                 html += `<p><strong>Embedding:</strong> ${collectedData.embeddingModel} | <strong>Prompt:</strong> ${collectedData.promptModel}</p>`;
+            }
+            if (step > 4 && collectedData.contextPrompt) {
+                 html += '<h5>Etapa 4: Prompt de Contexto</h5>';
+                 html += `<div class="contexto">${$('<div/>').text(collectedData.contextPrompt).html()}</div>`;
+            }
+            if (step > 5 && collectedData.variablePrompt) {
+                 html += '<h5>Etapa 5: Prompt de Variável</h5>';
+                 html += `<div class="contexto">${$('<div/>').text(collectedData.variablePrompt).html()}</div>`;
+            }
+
+            if (html === '') {
+                contentDiv.html('<p>Nenhuma informação coletada nas etapas anteriores.</p>');
+                contentDiv.parent().find('.resumo-titulo-toggle').hide();
+            } else {
+                 contentDiv.html(html);
+                 contentDiv.parent().find('.resumo-titulo-toggle').show();
+            }
+        }
+
+    </script>
+</body>
+</html>
